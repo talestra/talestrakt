@@ -31,15 +31,16 @@ sourceSets {
 }
 
 repositories {
-    maven { url "http://dl.bintray.com/kotlin/kotlin-eap-1.1" }
     mavenLocal()
+    maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+    maven { url "https://dl.bintray.com/soywiz/soywiz-maven" }
     mavenCentral()
 }
 
 dependencies {
     compile "com.jtransc:jtransc-rt-core:${props.jtranscVersion}"
-    compile "com.soywiz:korio:0.1.2"
-    compile "com.soywiz:kimage:0.0.1"
+    compile "com.soywiz:korio:0.2.0"
+    compile "com.soywiz:kimage:0.2.0"
     //compile "com.badlogicgames.gdx:gdx:${project.ext.gdxVersion}"
     compile "org.jetbrains.kotlin:kotlin-stdlib:${props.kotlinVersion}"
     compile "org.jetbrains.kotlin:kotlin-runtime:${props.kotlinVersion}"
@@ -48,7 +49,7 @@ dependencies {
 
 buildscript {
     repositories {
-        maven { url "http://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+        maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
         mavenLocal()
         mavenCentral()
     }

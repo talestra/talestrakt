@@ -1,21 +1,25 @@
 package com.talestra.rhcommon.pak
 
-import com.soywiz.korio.stream.openSync
+import com.soywiz.korio.async.sync
+import com.soywiz.korio.stream.openAsync
 import com.soywiz.korio.stream.readAll
-import com.soywiz.korio.vfs.ISO
-import com.talestra.rhcommon.compression.CSO
+import com.soywiz.korio.vfs.ResourcesVfs
+import com.soywiz.korio.vfs.openAsIso
+import com.talestra.rhcommon.compression.cso
 import org.junit.Assert
 import org.junit.Test
 
 class CSOTest {
+	val resources = ResourcesVfs()
+
 	@Test
-	fun name() {
-		val CUBE_ISO = ClassLoader.getSystemResource("cube.iso").readBytes()
-		val CUBE_CSO = ClassLoader.getSystemResource("cube.cso").readBytes()
-		val READED_ISO = CSO.read(CUBE_CSO.openSync("r")).readAll()
+	fun name() = sync {
+		val CUBE_ISO = resources["cube.iso"].read()
+		val CUBE_CSO = resources["cube.cso"].read()
+		val READED_ISO = CUBE_CSO.openAsync().cso().readAll()
 
 		Assert.assertArrayEquals(READED_ISO, CUBE_ISO)
-		val root = ISO.read(CSO.read(CUBE_CSO.openSync("r")))
-		Assert.assertEquals(53150, root["PSP_GAME/SYSDIR/BOOT.BIN"].size)
+		val root = CUBE_CSO.openAsync().cso().openAsIso()
+		Assert.assertEquals(53150, root["PSP_GAME/SYSDIR/BOOT.BIN"].size())
 	}
 }

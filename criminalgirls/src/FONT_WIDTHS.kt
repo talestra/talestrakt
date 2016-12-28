@@ -1,4 +1,7 @@
-import com.soywiz.korio.stream.*
+import com.soywiz.korio.stream.SyncStream
+import com.soywiz.korio.stream.readS32_le
+import com.soywiz.korio.stream.readU8
+import com.soywiz.korio.stream.slice
 import java.nio.charset.Charset
 
 // FONT is a BIG 2048x512 set of 4 textures
@@ -7,7 +10,7 @@ import java.nio.charset.Charset
 // Each texture has 28 glyphs per column
 // This file describes each cell: character, yoffset when drawing + xadvance
 object FONT_WIDTHS {
-	data class Glyph(val index: Int, val slice: SliceSyncStream, val char: Char, val charByte0: Int, val charByte1: Int, val xoffset: Int, val xadvance: Int)
+	data class Glyph(val index: Int, val slice: SyncStream, val char: Char, val charByte0: Int, val charByte1: Int, val xoffset: Int, val xadvance: Int)
 
 	val SHIFT_JIS = Charset.forName("Shift_JIS")
 

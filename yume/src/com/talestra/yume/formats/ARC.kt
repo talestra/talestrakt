@@ -1,13 +1,15 @@
 package com.talestra.yume.formats
 
+import com.soywiz.korio.async.AsyncSequence
 import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.async.asyncGenerate
+import com.soywiz.korio.async.toList
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.Vfs
 import com.soywiz.korio.vfs.VfsFile
+import com.soywiz.korio.vfs.VfsOpenMode
 import com.soywiz.korio.vfs.VfsStat
 import com.talestra.rhcommon.io.PackageReader
-import java.io.File
-import java.io.FileNotFoundException
 
 object ARC : PackageReader {
 	private data class Extension(val name: String, val count: Int, val start: Int)
@@ -31,14 +33,14 @@ object ARC : PackageReader {
 		this.write32_le(v.offset)
 	}
 
-	suspend fun read(s: AsyncStream): VfsFile = asyncFun {
+	suspend override fun read(s: AsyncStream): VfsFile = asyncFun {
 		val extensionCount = s.readS32_le()
-		val extensionData = s.readBytes(extensionCount * 12).open()
+		val extensionData = s.readBytes(extensionCount * 12).openSync()
 		val exts = (0 until extensionCount).map {
 			Extension(name = extensionData.readStringz(4), count = extensionData.readS32_le(), start = extensionData.readS32_le())
 		}
 		val files = exts.flatMap { ext ->
-			val s2 = s.sliceWithSize(ext.start.toLong(), (ext.count * (9 + 4 + 4)).toLong()).readAvailable().open()
+			val s2 = s.sliceWithSize(ext.start.toLong(), (ext.count * (9 + 4 + 4)).toLong()).readAvailable().openSync()
 			val refs = (0 until ext.count).map {
 				FileRef(
 					name = s2.readStringz(9),
@@ -52,47 +54,37 @@ object ARC : PackageReader {
 		object : Vfs() {
 			fun getEntry(path: String) = files[path.trim().toUpperCase()]
 
-			override fun readBytesAsync(path: String): Promise<ByteArray> = async {
-				readBytesAsync(path, 0L, statAsync(path).await().length).await()
-			}
+			suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream = getEntry(path)!!.slice()
 
-			override fun readBytesAsync(path: String, start: Long, end: Long): Promise<ByteArray> = async {
-				val entry = getEntry(path) ?: throw FileNotFoundException("$path")
-				entry.slice().readInternalAsync(start, end).await()
-			}
-
-			override fun statAsync(path: String): Promise<VfsStat> = async {
+			suspend override fun stat(path: String): VfsStat = asyncFun {
 				val entry = getEntry(path)
 				if (entry != null) {
-					VfsStat(file(path), true, entry.length)
+					createExistsStat(path, isDirectory = false, size = entry.getLength())
 				} else {
-					VfsStat(file(path), false, 0L)
+					createNonExistsStat(path)
 				}
 			}
 
-			override fun listAsync(path: String): AsyncStream<VfsStat> = generateAsync {
-				for ((name, stream) in files) {
-					//println("$name: $stream")
-					emit(VfsStat(file(name), true, stream.length))
-				}
+			suspend override fun list(path: String): AsyncSequence<VfsFile> = asyncGenerate {
+				for ((name, stream) in files) yield(file(name))
 			}
 		}.root
 	}
 
-	override fun read(s: SyncStream): Map<String, SyncStream> {
-		val exsts = (0 until s.readS32_le()).map { s.readArcExt() }
-		val files = exsts.flatMap { ext ->
-			val s2 = s.sliceWithStart(ext.start)
-			val refs = (0 until ext.count).map { s2.readArcFileRef() }
-			refs.map { "${it.name}.${ext.name}" to s.slice(it.offset until it.offset + it.size) }
-		}
-		return files.toMap()
-	}
+	//override suspend fun read(s: AsyncStream): VfsFile = asyncFun {
+	//	val exsts = (0 until s.readS32_le()).map { s.readArcExt() }
+	//	val files = exsts.flatMap { ext ->
+	//		val s2 = s.sliceWithStart(ext.start)
+	//		val refs = (0 until ext.count).map { s2.readArcFileRef() }
+	//		refs.map { "${it.name}.${ext.name}" to s.slice(it.offset until it.offset + it.size) }
+	//	}
+	//	return files.toMap()
+	//}
 
-	override fun write(s: SyncStream, files: Map<String, SyncStream>) {
-		val itemsByExtension = files.entries.groupBy { File(it.key).extension }
+	override suspend fun write(s: AsyncStream, files: VfsFile): Unit = asyncFun {
+		val itemsByExtension = files.listRecursive().toList().groupBy { it.extension }
 		val RECORDS_OFFSET = 4 + EXT_RECORD_SIZE * itemsByExtension.size
-		val CONTENT_OFFSET = RECORDS_OFFSET + FILE_RECORD_SIZE * files.size
+		val CONTENT_OFFSET = RECORDS_OFFSET + FILE_RECORD_SIZE * files.size()
 
 		val s_ext = s.sliceWithStart(0)
 		val s_file = s.sliceWithStart(RECORDS_OFFSET.toLong())
@@ -100,13 +92,19 @@ object ARC : PackageReader {
 
 		s_ext.write32_le(itemsByExtension.size)
 		for ((ext, files2) in itemsByExtension) {
-			s_ext.write(ARC.Extension(ext, files2.size, (RECORDS_OFFSET + s_file.position).toInt()))
+			s_ext.writeStringz(ext, 4)
+			s_ext.write32_le(files2.size)
+			s_ext.write32_le((RECORDS_OFFSET + s_file.position).toInt())
 			for (file in files2) {
-				s_file.write(ARC.FileRef(File(file.key).nameWithoutExtension, file.value.length.toInt(), (CONTENT_OFFSET + s_content.position).toInt()))
-				s_content.writeStream(file.value);
+				s_file.writeStringz(file.nameWithoutExtension, 9)
+				s_file.write32_le(file.size().toInt())
+				s_file.write32_le((CONTENT_OFFSET + s_content.position).toInt())
+				s_content.writeFile(file)
 			}
 		}
 
 		//println(itemsByExtension)
 	}
 }
+
+suspend fun AsyncStream.openAsARC() = ARC.read(this)

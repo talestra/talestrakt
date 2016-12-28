@@ -1,54 +1,64 @@
+import com.soywiz.kimage.bitmap.Bitmap8
+import com.soywiz.kimage.format.PNG
 import com.soywiz.korio.async.asyncFun
-import com.soywiz.korio.stream.AsyncStream
+import com.soywiz.korio.async.sync
+import com.soywiz.korio.stream.*
+import com.soywiz.korio.vfs.ResourcesVfs
+import com.soywiz.korio.vfs.VfsFile
+import com.soywiz.korio.vfs.VfsOpenMode
+import com.talestra.rhcommon.lang.invalidOp
+import com.talestra.rhcommon.text.StrReader
 import java.util.*
 
 object Translation {
+	val resources = ResourcesVfs()
+
 	data class CharMap(val from: Char, val to: Char, val width: Int)
 
 	suspend fun translate(mod: AsyncStream) = asyncFun {
-		val files = PS3FS.read(mod)
+		val root = PS3FS.read(mod)
 
-		patchImage(files, "bt_ui05.0000.imy")
-		patchImage(files, "bt_ui_07.0000.imy")
-		patchImage(files, "order_ui00.0000.imy")
-		patchImage(files, "bt_ui_00.0000.imy")
-		patchImage(files, "bt_ui_07.0001.imy")
-		patchImage(files, "st_ui01.0000.imy")
-		patchImage(files, "bt_ui_00.0001.imy")
-		patchImage(files, "ev_ui_00.0000.imy")
-		patchImage(files, "st_ui05.ptm.imy")
-		patchImage(files, "bt_ui_00.0002.imy")
-		patchImage(files, "fl_ui03.imy")
-		patchImage(files, "title.0001.imy")
-		patchImage(files, "bt_ui_01.0000.imy")
-		patchImage(files, "bt_ui_02.0000.imy")
-		patchImage(files, "omake.0000.imy")
-		patchImage(files, "bt_ui_06.0000.imy")
-		patchImage(files, "option.0000.imy")
+		patchImage(root, "bt_ui05.0000.imy")
+		patchImage(root, "bt_ui_07.0000.imy")
+		patchImage(root, "order_ui00.0000.imy")
+		patchImage(root, "bt_ui_00.0000.imy")
+		patchImage(root, "bt_ui_07.0001.imy")
+		patchImage(root, "st_ui01.0000.imy")
+		patchImage(root, "bt_ui_00.0001.imy")
+		patchImage(root, "ev_ui_00.0000.imy")
+		patchImage(root, "st_ui05.ptm.imy")
+		patchImage(root, "bt_ui_00.0002.imy")
+		patchImage(root, "fl_ui03.imy")
+		patchImage(root, "title.0001.imy")
+		patchImage(root, "bt_ui_01.0000.imy")
+		patchImage(root, "bt_ui_02.0000.imy")
+		patchImage(root, "omake.0000.imy")
+		patchImage(root, "bt_ui_06.0000.imy")
+		patchImage(root, "option.0000.imy")
 
-		updateFontDatWidths(files)
-		patchImage(files, "font_00.imy")
-		translateText(files)
+		updateFontDatWidths(root)
+		patchImage(root, "font_00.imy")
+		translateText(root)
 	}
 
 	val charMapList by lazy {
-		Translation.getResourceBytes("font.map.tbl").toString(Charsets.UTF_8).lines().map {
+		sync { resources["font.map.tbl"].readString() }.lines().map {
 			val parts = it.split(',')
 			CharMap(parts[0][0], parts[1][0], parts[2].toInt())
 		}
 	}
 	val charMap by lazy { charMapList.associate { it.from to it.to } }
 
-	fun patchImage(files: Map<String, Stream2>, original: String) {
-		patchImage(files, "$original.png", original)
+	suspend fun patchImage(root: VfsFile, original: String) = asyncFun {
+		patchImage(root, "$original.png", original)
 	}
 
-	fun patchImage(files: Map<String, Stream2>, png: String, original: String) {
-		val ss = files[original]!!.slice()
-		print("Patching '$original'... ${ss.length}")
+	suspend fun patchImage(root: VfsFile, png: String, original: String) = asyncFun {
+		val ss = root[original]!!.open(VfsOpenMode.WRITE).slice()
+		print("Patching '$original'... ${ss.getLength()}")
 		val ORIGINAL = IMY.decode(ss.slice().readAll())
 		val ORIGINAL_HAS_PALETTE = ORIGINAL is Bitmap8
-		val TRANSLATED = PNG.read(Translation.getResourceBytes(png));
+		val TRANSLATED = PNG.read(resources[png].read());
 		val TRANSLATED_HAS_PALETTE = TRANSLATED is Bitmap8
 
 		if (ORIGINAL_HAS_PALETTE != TRANSLATED_HAS_PALETTE) {
@@ -57,44 +67,47 @@ object Translation {
 
 		val encoded = IMY.encode(TRANSLATED)
 		print(" -> ${encoded.size}")
-		if (encoded.size > ss.length) invalidOp("Font size is bigger than original! That would require reconstruct the whole DAT file!")
+		if (encoded.size > ss.getLength()) invalidOp("Font size is bigger than original! That would require reconstruct the whole DAT file!")
 		ss.writeBytes(encoded)
 		println("...Ok")
 	}
 
-	fun updateFontDatWidths(files: Map<String, Stream2>) {
-		val file = files["font.bin"]!!
+	suspend fun updateFontDatWidths(root: VfsFile) = asyncFun {
+		val file = root["font.bin"]!!
 
 		val map = charMapList.associate { it.to to it }
 
-		val chars = FONT_WIDTHS.read(file.slice())
+		val chars = FONT_WIDTHS.read(file.read().openSync())
 
 		for (c in chars) {
 			val cc = map[c.char]
 			if (cc != null) {
-				val ss = c.slice.slice(2)
-				ss.writeU8(0)
-				ss.writeU8(cc.width)
+				val ss = c.slice.sliceWithStart(2)
+				ss.write8(0)
+				ss.write8(cc.width)
 			}
 		}
 	}
 
-	fun translateText(files: Map<String, Stream2>) {
+	suspend fun translateText(root: VfsFile) = asyncFun {
 		val charMap = this.charMap
-		for ((name, data) in files) {
+		for (file in root.listRecursive()) {
+			val name = file.basename
 			try {
-				if (name.endsWith(".tpk")) {
-					for ((name2, dsar) in DSARCIDX.read(data)) {
+				if (file.extension.toLowerCase() == "tpk") {
+					for (file in file.openAsDsarCidx().listRecursive()) {
+						val name2 = file.basename
+						val dsar = file.read().openSync()
 						if (BSCR.check(dsar)) {
-							val script = BSCR.read(dsar.slice())
+							val script = BSCR.read(dsar)
 
 							val out = arrayListOf<String>()
 
 							val translationFile = "$name@$name2@${script.name}.txt"
 
-							val translations = getResourceBytes("text/$translationFile").toString(Charsets.UTF_8).lines()
+							val translations = resources["text/$translationFile"].readString().lines()
 
-							println("$name")
+							println(name)
 
 							val trans2 = hashMapOf<String, String>()
 

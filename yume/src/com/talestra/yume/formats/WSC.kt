@@ -1,22 +1,28 @@
 package com.talestra.yume.formats
 
+import com.soywiz.korio.str.StrReader
+import com.soywiz.korio.stream.*
+import com.talestra.rhcommon.lang.getu
+import com.talestra.rhcommon.lang.invalidOp
+import com.talestra.rhcommon.lang.mapWhile
+
 object WSC {
 	object Encryption {
 		private fun ror2(v: Int): Int = (v shl 6) or (v ushr 2)
 		private fun rol2(v: Int): Int = (v shl 2) or (v ushr 6)
 
-		fun decryptStream2(data: Stream2): Stream2 = decryptInline(data.readAll()).open2("r")
-		fun encryptStream2(data: Stream2): Stream2 = encryptInline(data.readAll()).open2("r")
+		fun decryptStream2(data: SyncStream): SyncStream = decryptInline(data.readAll()).openSync("r")
+		fun encryptStream2(data: SyncStream): SyncStream = encryptInline(data.readAll()).openSync("r")
 
 		fun decrypt(data: ByteArray) = decryptInline(data.copyOf())
 		fun encrypt(data: ByteArray) = encryptInline(data.copyOf())
 
 		private fun decryptInline(data: ByteArray): ByteArray = data.apply {
-			for (n in data.indices) data[n] = ror2(data[n].toU8()).toByte()
+			for (n in data.indices) data[n] = ror2(data.getu(n)).toByte()
 		}
 
 		private fun encryptInline(data: ByteArray): ByteArray = data.apply {
-			for (n in data.indices) data[n] = rol2(data[n].toU8()).toByte()
+			for (n in data.indices) data[n] = rol2(data.getu(n)).toByte()
 		}
 	}
 
@@ -84,12 +90,12 @@ object WSC {
 
 	annotation class Action(val opcode: Opcode)
 
-	fun Stream2.readOpcode(): Opcode {
+	fun SyncStream.readOpcode(): Opcode {
 		val id = this.readU8()
 		return Opcode.BY_ID[id] ?: invalidOp("Unknown opcode $id")
 	}
 
-	fun Stream2._readInstruction(script: String): Instruction {
+	fun SyncStream._readInstruction(script: String): Instruction {
 		val offset = this.position.toInt()
 		val op = readOpcode()
 		val i = Instruction(script = script, offset = offset, op = op, params = readParams(offset, op, StrReader(op.format)))
@@ -139,7 +145,7 @@ object WSC {
 		override fun toString(): String = "Address(0x%08X)".format(address)
 	}
 
-	fun Stream2.readParams(offset: Int, op: Opcode, format: StrReader): List<Any> {
+	fun SyncStream.readParams(offset: Int, op: Opcode, format: StrReader): List<Any> {
 		val out = arrayListOf<Any>()
 		var lastCount = 0
 		read@ while (!format.eof) {
@@ -192,10 +198,10 @@ object WSC {
 		return out
 	}
 
-	fun Stream2._readInstructions(script: String): List<Instruction> = mapWhile({ !eof }) { _readInstruction(script) }
+	fun SyncStream._readInstructions(script: String): List<Instruction> = mapWhile({ !eof }) { _readInstruction(script) }
 
-	fun parse(s: Stream2, script: String): List<Instruction> = s._readInstructions(script)
+	fun parse(s: SyncStream, script: String): List<Instruction> = s._readInstructions(script)
 
-	fun readInstruction(s: Stream2, script: String): Instruction = s._readInstruction(script)
-	fun readInstructions(s: Stream2, script: String): List<Instruction> = s._readInstructions(script)
+	fun readInstruction(s: SyncStream, script: String): Instruction = s._readInstruction(script)
+	fun readInstructions(s: SyncStream, script: String): List<Instruction> = s._readInstructions(script)
 }

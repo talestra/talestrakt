@@ -44,7 +44,7 @@ suspend fun translateTest() = asyncFun {
 		mod.copyTo(ori)
 	}
 
-	Translation.translate(mod.read().openSync())
+	Translation.translate(mod.open())
 }
 
 fun dumpTest() = sync {
@@ -53,32 +53,33 @@ fun dumpTest() = sync {
 	val parent = LocalVfs("c:/temp/crim")
 
 	for (file in files.listRecursive()) {
-		val name = file.name
+		val name = file.basename
 		println("$file")
 		val f = parent[name]
 		if (!f.exists()) {
-			parent[name] = file.file.read()
+			parent[name] = file.read()
 		}
 		if (f.extension == "imy") {
 			println(f.path)
 			val png = parent[f.path + ".png"]
 			if (!png.exists()) {
 				//if (true) {
-				png.write(PNG.encode(IMY.read(f.open(VfsOpenMode.READ))))
+				png.write(PNG.encode(IMY.read(f.read().openSync())))
 			}
 		}
 	}
 }
 
-fun demo() {
+object demo {
 	/**
 	 * DATA.DAT:
 	 * - SHA1: 7F3CDADB530C1AD2100B96CD8235E7A95D76BB11
 	 */
 
+	// This produces a don't know how to generate outer expression
 	suspend fun extract(s: AsyncStream) = asyncFun {
 		for (stat in PS3FS.read(s).listRecursive()) {
-			println("${stat.name}: ${stat.size}")
+			println("${stat.basename}: ${stat.size()}")
 		}
 		//println(count)
 	}
@@ -193,6 +194,10 @@ fun demo() {
 //	BSCR.read(DSARCIDX.read(File("c:/temp/crim/map_d_000_004.tpk").open2("r")).values.first())
 
 	//DSARCIDX.read(File("c:/temp/crim/btl_char_08_1.tpk").open2("r"))
+
+	fun start() {
+
+	}
 }
 
 object SEARCH {

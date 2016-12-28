@@ -1,3 +1,4 @@
+import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.*
 import com.talestra.rhcommon.lang.invalidOp
 

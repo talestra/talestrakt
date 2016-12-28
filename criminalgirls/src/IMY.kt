@@ -1,5 +1,14 @@
 import com.jtransc.JTranscArrays
+import com.soywiz.kimage.bitmap.Bitmap
+import com.soywiz.kimage.bitmap.Bitmap32
+import com.soywiz.kimage.bitmap.Bitmap8
+import com.soywiz.kimage.color.RGBA
+import com.soywiz.kimage.color.RGBA_4444
 import com.soywiz.kimage.format.ImageFormat
+import com.soywiz.korio.stream.*
+import com.talestra.rhcommon.lang.invalidOp
+import com.talestra.rhcommon.lang.isPowerOfTwo
+import com.talestra.rhcommon.lang.toInt
 
 object IMY : ImageFormat() {
 	fun getEqualsSize(a: ShortArray, an: Int, b: ShortArray, bn: Int, maxLen: Int): Int {
@@ -72,10 +81,10 @@ object IMY : ImageFormat() {
 		}
 	}
 
-	override fun write(bitmap: Bitmap, s: Stream2) {
+	override fun write(bitmap: Bitmap, s: SyncStream) {
 		val bpp = if (bitmap is Bitmap8) 1 else 2
 		val bitsPerPixel = bpp * 8
-		val hasPalette = if (bitmap is Bitmap8) true else false
+		val hasPalette = bitmap is Bitmap8
 		val paletteSize = (if (hasPalette) 0x100 else 0)
 		val uncompressedSize = 0x20 + (4 * paletteSize) + (bitmap.area)
 		val width = bitmap.width
@@ -86,12 +95,12 @@ object IMY : ImageFormat() {
 		val flags = 0x8C or (intPack.toInt() shl 1) or (swizzled.toInt() shl 5) // Usually AC for swizzled - ShortPacking
 		val format = if (hasPalette) 0x08 else 0x0C
 		s.writeStringz("IMY", 4)
-		s.writeU32_le(uncompressedSize)
-		s.writeU16_le(width)
-		s.writeU8(flags)
-		s.writeU8(format)
-		s.writeU16_le(height)
-		s.writeU16_le(paletteSize)
+		s.write32_le(uncompressedSize)
+		s.write16_le(width)
+		s.write8(flags)
+		s.write8(format)
+		s.write16_le(height)
+		s.write16_le(paletteSize)
 		s.writeBytes(ByteArray(0x10))
 		if (bitmap is Bitmap8) {
 			s.writeBytes(JTranscArrays.copyReinterpret(bitmap.palette))
@@ -123,8 +132,8 @@ object IMY : ImageFormat() {
 			else -> invalidOp("Unsupported $bitmap")
 		}
 
-		val codes = MemoryStream2()
-		val data = MemoryStream2()
+		val codes = MemorySyncStream()
+		val data = MemorySyncStream()
 
 		object : Compressor() {
 			var uncompressedCount = 0
@@ -133,14 +142,14 @@ object IMY : ImageFormat() {
 			fun flushUncompressed() {
 				if (uncompressedCount > 0) {
 					//println("UNCOMPRESSED:${uncompressedCount}")
-					codes.writeU8(uncompressedCount - 1)
+					codes.write8(uncompressedCount - 1)
 					codeCount++
 					uncompressedCount = 0
 				}
 			}
 
 			override fun emitUncompressed(vv: Int) {
-				data.writeU16_le(vv)
+				data.write16_le(vv)
 				uncompressedCount++
 				if (uncompressedCount >= 0x10) {
 					flushUncompressed()
@@ -150,7 +159,7 @@ object IMY : ImageFormat() {
 			override fun emitCompressedLZ(kind: Int, size: Int) {
 				flushUncompressed()
 				//println("LZ:$kind,$size")
-				codes.writeU8(0xC0 or (kind shl 4) or (size - 1))
+				codes.write8(0xC0 or (kind shl 4) or (size - 1))
 				codeCount++
 			}
 
@@ -159,7 +168,7 @@ object IMY : ImageFormat() {
 				if (offset < -(0xC0 - 0x10 - 1)) invalidOp("Offset too small")
 				flushUncompressed()
 				//println("RECALL:$offset")
-				codes.writeU8(0x10 + -offset - 1)
+				codes.write8(0x10 + -offset - 1)
 				codeCount++
 			}
 		}.compress(dataToEncode, width)
@@ -169,10 +178,10 @@ object IMY : ImageFormat() {
 		val codesData = codes.toByteArray()
 		val dataData = data.toByteArray()
 		if (codesData.size == codesData.size.toChar().toInt()) {
-			s.writeU16_le(codesData.size)
+			s.write16_le(codesData.size)
 		} else {
-			s.writeU16_le(0)
-			s.writeU32_le(codesData.size)
+			s.write16_le(0)
+			s.write32_le(codesData.size)
 		}
 		s.writeBytes(codesData)
 		s.writeBytes(dataData)
@@ -181,7 +190,7 @@ object IMY : ImageFormat() {
 
 	// This includes a compression algorithm? Must disasm executable to find out (font_xx.imy have different sizes)
 	// Already found at 0x810E3DAC
-	override fun read(s: Stream2): Bitmap {
+	override fun read(s: SyncStream): Bitmap {
 		if (s.readStringz(4) != "IMY") invalidOp("Not an IMY file")
 		val uncompressedSize = s.readS32_le()
 		val width = s.readU16_le()
@@ -257,11 +266,11 @@ object IMY : ImageFormat() {
 		}
 	}
 
-	fun uncompressShorts(actualWidth: Int, height: Int, s: Stream2): ByteArray {
+	fun uncompressShorts(actualWidth: Int, height: Int, s: SyncStream): ByteArray {
 		var codeSize = s.readU16_le()
 		if (codeSize == 0) codeSize = s.readS32_le()
 
-		val codes = s.readBytes(codeSize)
+		val codes = s.readUByteArray(codeSize)
 		val data = s.readShortArray_le(s.available.toInt() / 2)
 		val out = ShortArray(actualWidth * height)
 
@@ -275,7 +284,7 @@ object IMY : ImageFormat() {
 		val offsets = intArrayOf(1, n, n + 1, n - 1)
 		//var nn = 0
 		while (cp < codes.size) {
-			val code = codes.getu(cp++)
+			val code = codes[cp++]
 			if (code < 0x10) {
 				val size = (code + 1)
 				if (dp + size < data.size) {
@@ -311,11 +320,11 @@ object IMY : ImageFormat() {
 		return JTranscArrays.copyReinterpret(out)
 	}
 
-	fun uncompressInts(actualWidth: Int, height: Int, s: Stream2): ByteArray {
+	fun uncompressInts(actualWidth: Int, height: Int, s: SyncStream): ByteArray {
 		var codeSize = s.readU16_le()
 		if (codeSize == 0) codeSize = s.readS32_le()
 
-		val codes = s.readBytes(codeSize)
+		val codes = s.readUByteArray(codeSize)
 		val data = s.readIntArray_le(s.available.toInt() / 4)
 		val out = IntArray(actualWidth * height)
 
@@ -329,7 +338,7 @@ object IMY : ImageFormat() {
 		val offsets = intArrayOf(1, n, n + 1, n - 1)
 		//var nn = 0
 		while (cp < codes.size) {
-			val code = codes.getu(cp++)
+			val code = codes[cp++]
 			if (code < 0x10) {
 				val size = (code + 1)
 				if (dp + size < data.size) {
