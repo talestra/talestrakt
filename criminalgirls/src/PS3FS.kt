@@ -25,3 +25,6 @@ object PS3FS {
 		MemoryVfs(out)
 	}
 }
+
+suspend fun AsyncStream.openAsPs3Fs() = PS3FS.read(this)
+suspend fun VfsFile.openAsPs3Fs() = asyncFun { PS3FS.read(this.open()) }

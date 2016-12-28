@@ -73,7 +73,7 @@ object Translation {
 	}
 
 	suspend fun updateFontDatWidths(root: VfsFile) = asyncFun {
-		val file = root["font.bin"]!!
+		val file = root["font.bin"]
 
 		val map = charMapList.associate { it.to to it }
 

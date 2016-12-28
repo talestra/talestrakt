@@ -10,7 +10,15 @@ import java.nio.charset.Charset
 // Each texture has 28 glyphs per column
 // This file describes each cell: character, yoffset when drawing + xadvance
 object FONT_WIDTHS {
-	data class Glyph(val index: Int, val slice: SyncStream, val char: Char, val charByte0: Int, val charByte1: Int, val xoffset: Int, val xadvance: Int)
+	data class Glyph(
+		val index: Int,
+		val slice: SyncStream,
+		val char: Char,
+		val charByte0: Int,
+		val charByte1: Int,
+		val xoffset: Int,
+		val xadvance: Int
+	)
 
 	val SHIFT_JIS = Charset.forName("Shift_JIS")
 
