@@ -1,22 +1,26 @@
 package com.talestra.dividead.util
 
-import com.talestra.dividead.DL1
+import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.async.sync
+import com.soywiz.korio.vfs.LocalVfs
+import com.soywiz.korio.vfs.VfsFile
 import com.talestra.dividead.LZ
-import java.io.File
+import com.talestra.dividead.openAsDL1
 
-fun main(args: Array<String>) {
-	extractAll(File("D:/juegos/dividead/WV.DL1").open2("r"), File("D:/juegos/dividead/WV.DL1.d"))
-	extractAll(File("D:/juegos/dividead/SG.DL1").open2("r"), File("D:/juegos/dividead/SG.DL1.d"))
+fun main(args: Array<String>) = sync {
+	val dividead = LocalVfs("D:/juegos/dividead")
+	extractAll(dividead["WV.DL1"], dividead["WV.DL1.d"])
+	extractAll(dividead["SG.DL1"], dividead["SG.DL1.d"])
 }
 
-fun extractAll(file: Stream2, out: File) {
+suspend fun extractAll(file: VfsFile, out: VfsFile) = asyncFun {
 	out.mkdirs()
-	for ((name, data) in DL1.read(file.slice())) {
-		val outFile = File(out, name)
+	for (file in file.openAsDL1().listRecursive()) {
+		val outFile = out[file.path]
 		if (!outFile.exists()) {
-			val content = data.readAll()
+			val content = file.read()
 			val uncompressed = if (LZ.isCompressed(content)) LZ.uncompress(content) else content
-			outFile.writeBytes(uncompressed)
+			outFile.write(uncompressed)
 		}
 	}
 }

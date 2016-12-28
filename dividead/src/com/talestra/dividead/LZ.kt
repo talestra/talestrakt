@@ -1,15 +1,21 @@
 package com.talestra.dividead
 
 import com.soywiz.korio.stream.MemorySyncStream
+import com.soywiz.korio.stream.openSync
+import com.soywiz.korio.stream.readS32_le
+import com.soywiz.korio.stream.readStringz
 import com.soywiz.korio.util.ByteArraySlice
+import com.soywiz.korio.util.UByteArray
+import com.soywiz.korio.util.readS32_le
+import com.talestra.rhcommon.lang.measure
 
 object LZ {
-	fun isCompressed(data: ByteArray): Boolean = data.open2("r").readStringz(2) == "LZ"
+	fun isCompressed(data: ByteArray): Boolean = data.openSync("r").readStringz(2) == "LZ"
 
-	fun getUncompressedSize(data: ByteArray): Int = BitRead.S32_le(data, 6)
+	fun getUncompressedSize(data: ByteArray): Int = data.readS32_le(6)
 
 	fun uncompress(data: ByteArray): ByteArray {
-		val sdata = data.open2("r")
+		val sdata = data.openSync()
 		val magic = sdata.readStringz(2)
 		var compressedSize = sdata.readS32_le()
 		val uncompressedSize = sdata.readS32_le()
@@ -18,20 +24,21 @@ object LZ {
 	}
 
 	private fun _decode(input: MemorySyncStream, uncompressedSize: Int): ByteArray {
-		return measure("decoding image") { _decodeFast(input.toByteArraySlice(), uncompressedSize) }
+		//return measure("decoding image") { _decodeFast(input.toByteArraySlice(), uncompressedSize) }
+		return _decodeFast(input.toByteArraySlice(), uncompressedSize)
 	}
 
 	private fun _decodeFast(input: ByteArraySlice, uncompressedSize: Int): ByteArray {
-		val i = input.data
+		val i = UByteArray(input.data)
 		var ip = input.position
 		val il = input.length
 
-		val o = ByteArray(uncompressedSize + 0x1000)
+		val o = UByteArray(uncompressedSize + 0x1000)
 		var op = 0x1000
 		val ringStart = 0xFEE
 
 		while (ip < il) {
-			var code = i.getu(ip++) or 0x100
+			var code = i[ip++] or 0x100
 
 			while (code != 1) {
 				// Uncompressed
@@ -41,8 +48,8 @@ object LZ {
 				// Compressed
 				else {
 					if (ip >= il) break
-					val paramL = i.getu(ip++)
-					val paramH = i.getu(ip++)
+					val paramL = i[ip++]
+					val paramH = i[ip++]
 					val param = paramL or (paramH shl 8)
 					val ringOffset = extractPosition(param)
 					val ringLength = extractCount(param)
@@ -57,7 +64,7 @@ object LZ {
 			}
 		}
 
-		return o.copyOfRange(0x1000, 0x1000 + uncompressedSize)
+		return o.data.copyOfRange(0x1000, 0x1000 + uncompressedSize)
 	}
 
 	private fun extractPosition(param: Int): Int = (param and 0xFF) or ((param ushr 4) and 0xF00)

@@ -1,12 +1,16 @@
 package com.talestra.dividead.play
 
+import com.soywiz.kimage.awt.convertImage
+import com.soywiz.kimage.awt.transferTo
 import com.soywiz.kimage.bitmap.Bitmap32
 import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.async.sync
 import com.soywiz.korio.stream.SyncStream
 import com.soywiz.korio.stream.toInputStream
 import com.soywiz.korio.vfs.LocalVfs
-import com.soywiz.korio.vfs.VfsOpenMode
-import com.talestra.dividead.DL1
+import com.soywiz.korio.vfs.VfsFile
+import com.talestra.dividead.openAsDL1
+import com.talestra.dividead.uncompressIfRequired
 import java.awt.Font
 import java.awt.Graphics
 import java.awt.Graphics2D
@@ -25,20 +29,7 @@ import javax.swing.JPanel
 import javax.swing.WindowConstants
 import javax.swing.event.MouseInputAdapter
 
-fun main(args: Array<String>) {
-	fun transfer(bmp: Bitmap32, out: BufferedImage): BufferedImage {
-		val ints = (out.raster.dataBuffer as DataBufferInt).data
-		System.arraycopy(bmp.data, 0, ints, 0, bmp.width * bmp.height)
-		out.flush()
-		return out
-	}
-
-	fun convertImage(image: BufferedImage): BufferedImage {
-		val out = BufferedImage(image.width, image.height, BufferedImage.TYPE_INT_ARGB)
-		out.graphics.drawImage(image, 0, 0, null)
-		return out
-	}
-
+class PlaySwing {
 	fun combineColorMask(color: BufferedImage, mask: BufferedImage): BufferedImage {
 		val out = BufferedImage(color.width, color.height, BufferedImage.TYPE_INT_ARGB)
 		val i_out = (out.raster.dataBuffer as DataBufferInt).data
@@ -58,15 +49,15 @@ fun main(args: Array<String>) {
 	val ACTUAL_HEIGHT = HEIGHT * scale
 
 	val BASE = LocalVfs("D:/juegos/dividead")
-	val SG = DL1.read(BASE["SG.DL1"].open("r")).uncompressIfRequired()
+	lateinit var SG: VfsFile
+	lateinit var WV: VfsFile
+
 
 	val SGx2 = BASE["SG.DL1.2x.d"]
 
-	val WV = DL1.read(BASE["WV.DL1"].open2("r")).uncompressIfRequired()
 	val buffer = BufferedImage(ACTUAL_WIDTH, ACTUAL_HEIGHT, BufferedImage.TYPE_INT_ARGB)
 
 	val back = Bitmap32(ACTUAL_WIDTH, ACTUAL_HEIGHT)
-	back.setEach { x, y -> 0xFF000000.toInt() }
 
 	//val bg = ImageFormats.read(SGx2["H_PB0.png"]).toBMP32()
 	//val color = ImageFormats.read(SGx2["B01_1A.png"]).toBMP32()
@@ -90,7 +81,7 @@ fun main(args: Array<String>) {
 	}
 
 	fun update() {
-		transfer(back, buffer)
+		back.transferTo(buffer)
 		panel.repaint()
 	}
 
@@ -121,7 +112,7 @@ fun main(args: Array<String>) {
 			//val i = ImageFormats.read(SGx2["$img.png"]).toBMP32()
 			//back.draw(i, x * scale, y * scale)
 			try {
-				val image = ImageIO.read(SGx2["$img.png"])
+				val image = ImageIO.read(SGx2["$img.png"].readAsSyncStream().toInputStream())
 				buffer.graphics.drawImage(image, x * scale, y * scale, null)
 			} catch (e: Throwable) {
 				e.printStackTrace()
@@ -134,8 +125,8 @@ fun main(args: Array<String>) {
 			//val i = ImageFormats.read(SGx2["$img.png"]).toBMP32()
 			//back.draw(i, x * scale, y * scale)
 			try {
-				val color = ImageIO.read(SGx2["$color.png"])
-				val mask = ImageIO.read(SGx2["$mask.png"])
+				val color = ImageIO.read(SGx2["$color.png"].readAsSyncStream().toInputStream())
+				val mask = ImageIO.read(SGx2["$mask.png"].readAsSyncStream().toInputStream())
 				val image = combineColorMask(color, mask)
 				buffer.graphics.drawImage(image, x * scale, y * scale, null)
 			} catch (e: Throwable) {
@@ -155,11 +146,11 @@ fun main(args: Array<String>) {
 		}
 
 		override suspend fun playMusic(s: String) = asyncFun {
-			playMidi(BASE["MID"]["$s.mid"].open(VfsOpenMode.READ))
+			playMidi(BASE["MID"]["$s.mid"].readAsSyncStream())
 		}
 	}
 
-	val input = object : Input() {
+	class Input2 : Input() {
 		fun register(frame: JFrame) {
 			frame.addMouseListener(object : MouseInputAdapter() {
 				override fun mouseClicked(e: MouseEvent?) {
@@ -187,69 +178,75 @@ fun main(args: Array<String>) {
 		}
 	}
 
+	val input = Input2()
+
 	val script = object : Script() {
-		override fun setScript(name: String) {
-			if (SG["$name.AB"] == null) {
-				println("Can't find script '$name'")
-			}
-			s = SG["$name.AB"]!!
+		override suspend fun setScript(name: String) = asyncFun {
+			s = SG["$name.AB"].readAsSyncStream()
 		}
 	}
 
-	fun init() {
+	suspend fun init() = asyncFun {
 		script.setScript("AASTART", 5838)
 		val state = State()
 
 		val ab = ScriptEvaluator(script, renderer, state, input)
 
-		async<Unit> {
-			while (true) {
-				ab.execOneAsync().await()
-			}
-		}
-
 		while (true) {
-			EventLoop.step(20)
-			Thread.sleep(20)
+			ab.execOne()
 		}
 	}
 
 	//renderer.draw("H_PB0")
 	//renderer.flip()
 
-	JFrame("DiviDead").apply {
-		//ignoreRepaint = true
-		//createBufferStrategy(2)
 
-		iconImage = ImageIO.read(ClassLoader.getSystemResource("dividead/icon.png"))
-
-		contentPane.add(panel)
-
-		setBounds(0, 0, ACTUAL_WIDTH, ACTUAL_HEIGHT)
-		//setSize(ACTUAL_WIDTH, ACTUAL_HEIGHT)
-		//pack()
-		isResizable = false
-		setLocationRelativeTo(null)
-		defaultCloseOperation = JFrame.EXIT_ON_CLOSE
-		isVisible = true
-		update()
-		//playMidi(BASE["MID"]["BGM_1.MID"].open2("r"))
-		//playSound(WV["AZU0075.WAV"]!!)
-		//Timer(5000, object : ActionListener {
-		//	override fun actionPerformed(e: ActionEvent?) {
-		//		playMidi(BASE["MID"]["BGM_2.MID"].open2("r"))
-		//	}
-		//}).start()
-
-		input.register(this)
-		init()
-	}
 
 	/*
 	frame = JFrame("DiviDead").apply {
 
 	}
 	*/
+
+	fun main() = sync {
+		SG = BASE["SG.DL1"].openAsDL1().uncompressIfRequired()
+		WV = BASE["WV.DL1"].openAsDL1().uncompressIfRequired()
+		back.setEach { x, y -> 0xFF000000.toInt() }
+
+		JFrame("DiviDead").apply {
+			//ignoreRepaint = true
+			//createBufferStrategy(2)
+
+			iconImage = ImageIO.read(ClassLoader.getSystemResource("dividead/icon.png"))
+
+			contentPane.add(panel)
+
+			setBounds(0, 0, ACTUAL_WIDTH, ACTUAL_HEIGHT)
+			//setSize(ACTUAL_WIDTH, ACTUAL_HEIGHT)
+			//pack()
+			isResizable = false
+			setLocationRelativeTo(null)
+			defaultCloseOperation = JFrame.EXIT_ON_CLOSE
+			isVisible = true
+			update()
+			//playMidi(BASE["MID"]["BGM_1.MID"].open2("r"))
+			//playSound(WV["AZU0075.WAV"]!!)
+			//Timer(5000, object : ActionListener {
+			//	override fun actionPerformed(e: ActionEvent?) {
+			//		playMidi(BASE["MID"]["BGM_2.MID"].open2("r"))
+			//	}
+			//}).start()
+
+			input.register(this)
+			init()
+		}
+
+		Unit
+	}
+
+	companion object {
+		@JvmStatic fun main(args: Array<String>): Unit = PlaySwing().main()
+	}
 }
 
 
@@ -285,6 +282,5 @@ object SwingSandbox {
 		frame.contentPane.repaint()
 		return frame
 	}
-
 
 }

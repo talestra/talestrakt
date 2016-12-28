@@ -81,10 +81,10 @@ object ARC : PackageReader {
 	//	return files.toMap()
 	//}
 
-	override suspend fun write(s: AsyncStream, files: VfsFile): Unit = asyncFun {
-		val itemsByExtension = files.listRecursive().toList().groupBy { it.extension }
+	override suspend fun write(s: AsyncStream, root: VfsFile): Unit = asyncFun {
+		val itemsByExtension = root.listRecursive().toList().groupBy { it.extension }
 		val RECORDS_OFFSET = 4 + EXT_RECORD_SIZE * itemsByExtension.size
-		val CONTENT_OFFSET = RECORDS_OFFSET + FILE_RECORD_SIZE * files.size()
+		val CONTENT_OFFSET = RECORDS_OFFSET + FILE_RECORD_SIZE * root.size()
 
 		val s_ext = s.sliceWithStart(0)
 		val s_file = s.sliceWithStart(RECORDS_OFFSET.toLong())

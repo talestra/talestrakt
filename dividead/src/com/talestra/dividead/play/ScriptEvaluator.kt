@@ -1,5 +1,6 @@
 package com.talestra.dividead.play
 
+import com.soywiz.korio.async.asyncFun
 import com.talestra.dividead.AB
 import java.io.File
 import java.util.*
@@ -15,15 +16,16 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		it.getAnnotation(AB.Action::class.java)?.opcode
 	}
 
-	suspend fun execOne() {
+	suspend fun execOne(): Any? {
 		val instruction = script.read()
 		val method = methodsByOpcode[instruction.op]
 		println(instruction)
 		val result = method?.invoke(this, *instruction.param.toTypedArray())
-		return Promise.ensure(result).unit
+		//return Promise.ensure(result).unit
+		return result
 	}
 
-	private fun repaint() {
+	suspend private fun repaint() = asyncFun {
 		render.update(0, 0, 640, 480)
 	}
 
@@ -57,7 +59,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 	//  SOUND RELATED
 	// ---------------
 
-	@AB.Action(AB.Opcode.MUSIC_PLAY) fun MUSIC_PLAY(name: String) {
+	@AB.Action(AB.Opcode.MUSIC_PLAY) suspend fun MUSIC_PLAY(name: String) = asyncFun {
 		render.playMusic(name)
 	}
 
@@ -65,30 +67,30 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 	//  IMAGE RELATED
 	// ---------------
 
-	@AB.Action(AB.Opcode.FOREGROUND) fun FOREGROUND(name: String) {
+	@AB.Action(AB.Opcode.FOREGROUND) suspend fun FOREGROUND(name: String) = asyncFun {
 		state.foreground = name
 		render.draw(state.foreground, 0, 0)
 	}
 
-	@AB.Action(AB.Opcode.BACKGROUND) fun BACKGROUND(name: String) {
+	@AB.Action(AB.Opcode.BACKGROUND) suspend fun BACKGROUND(name: String) = asyncFun {
 		state.background = name
 		render.draw(state.background, 32, 8)
 	}
 
-	@AB.Action(AB.Opcode.REPAINT) fun REPAINT(type: Int) {
+	@AB.Action(AB.Opcode.REPAINT) suspend fun REPAINT(type: Int) = asyncFun {
 		repaint()
 		//Thread.sleep(300)
 	}
 
-	@AB.Action(AB.Opcode.REPAINT_IN) fun REPAINT_IN(type: Int) {
+	@AB.Action(AB.Opcode.REPAINT_IN) suspend fun REPAINT_IN(type: Int) = asyncFun {
 		repaint()
 	}
 
 
-	@AB.Action(AB.Opcode.TEXT) fun TEXT(text: String) = async<Unit> {
+	@AB.Action(AB.Opcode.TEXT) suspend fun TEXT(text: String) = asyncFun {
 		render.text(text, 102, 400)
 		render.update(0, 400, 640, 80)
-		input.waitTextAsync().await()
+		input.waitText()
 		repaint()
 	}
 
@@ -113,16 +115,16 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 	}
 
 	//@Unimplemented
-	@AB.Action(AB.Opcode.OPTION_SHOW) fun OPTION_SHOW() = async<Unit> {
+	@AB.Action(AB.Opcode.OPTION_SHOW) suspend fun OPTION_SHOW() = asyncFun {
 		val selected = Random().nextInt(state.options.size)
 		script.jump(state.options[selected].offset)
 	}
 
-	@AB.Action(AB.Opcode.OPTION_RESHOW) fun OPTION_RESHOW() = async<Unit> {
+	@AB.Action(AB.Opcode.OPTION_RESHOW) suspend fun OPTION_RESHOW() = asyncFun {
 		OPTION_SHOW()
 	}
 
-	@AB.Action(AB.Opcode.CHARA1) fun CHARA1(name: String) = async<Unit> {
+	@AB.Action(AB.Opcode.CHARA1) suspend fun CHARA1(name: String) = asyncFun {
 		val nameColor = name
 		val nameMask = name.split('_')[0] + "_0"
 
@@ -132,7 +134,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		//}
 	}
 
-	@AB.Action(AB.Opcode.CHARA2) fun CHARA2(name1: String, name2: String) = async<Unit> {
+	@AB.Action(AB.Opcode.CHARA2) suspend fun CHARA2(name1: String, name2: String) = asyncFun {
 		val name1Color = name1
 		val name1Mask = name1.split('_')[0] + "_0"
 
@@ -147,7 +149,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		//}
 	}
 
-	@AB.Action(AB.Opcode.SCRIPT) fun SCRIPT(name: String) = async<Unit> {
+	@AB.Action(AB.Opcode.SCRIPT) suspend fun SCRIPT(name: String) = asyncFun {
 		//Log.trace("SCRIPT('$name')")
 		script.setScript(File(name).nameWithoutExtension.toUpperCase(), 0)
 	}
@@ -160,7 +162,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		state.optionsMap += MapOption(state.script, pointer, x1, y1, x2 - x1, y2 - y1)
 	}
 
-	@AB.Action(AB.Opcode.MAP_OPTION_SHOW) fun MAP_OPTION_SHOW() = async<Unit> {
+	@AB.Action(AB.Opcode.MAP_OPTION_SHOW) suspend fun MAP_OPTION_SHOW() = asyncFun {
 		val selected = Random().nextInt(state.optionsMap.size)
 		script.jump(state.optionsMap[selected].offset)
 	}

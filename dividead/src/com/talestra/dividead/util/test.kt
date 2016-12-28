@@ -1,5 +1,8 @@
 package com.talestra.dividead.util
 
+import com.soywiz.kimage.awt.showImage
+import com.soywiz.kimage.bitmap.Bitmap32
+import com.soywiz.kimage.color.RGBA
 import org.jcodec.api.FrameGrab
 import java.io.File
 

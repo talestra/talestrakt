@@ -1,58 +1,29 @@
 package com.talestra.dividead.remaster
 
-import com.talestra.dividead.DL1
+import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.async.sync
+import com.soywiz.korio.vfs.LocalVfs
+import com.soywiz.korio.vfs.VfsFile
 import com.talestra.dividead.LZ
-import java.io.BufferedReader
-import java.io.File
-import java.io.InputStreamReader
+import com.talestra.dividead.openAsDL1
 
 object Remaster {
 	val waifu2x_caffe_cui = "C:/projects/waifu2x-caffe/waifu2x-caffe-cui.exe"
 	val ffmpeg = "ffmpeg"
 
-	@Throws(java.io.IOException::class)
-
-	fun exec(vararg args: String): Int {
-		return ProcessBuilder(*args).start().waitFor()
+	suspend fun waifu2x(input: VfsFile, output: VfsFile): Int = asyncFun {
+		input.parent.passthru(
+			waifu2x_caffe_cui,
+			"--gpu", "0",
+			"-s", "2.0",
+			"-i", input.absolutePath,
+			"-o", output.absolutePath
+		)
 	}
 
-	fun execStr(vararg args: String): String? {
-		val proc = ProcessBuilder(*args).start()
-		val out = proc.inputStream.readBytes().toString(Charsets.UTF_8)
-		val err = proc.errorStream.readBytes().toString(Charsets.UTF_8)
-		val result = proc.waitFor()
-		return out + err
-	}
-
-	fun passthru(vararg args: String): Int {
-		val ps = ProcessBuilder(*args)
-		//ps.directory(File(path))
-		ps.redirectErrorStream(true)
-
-		val process = ps.start()
-
-		val os = BufferedReader(InputStreamReader(process.inputStream))
-		var out = ""
-
-		while (true) {
-			val line = os.readLine() ?: break
-			out += "$line\n"
-			println(line)
-		}
-		return process.waitFor()
-	}
-
-	fun waifu2x(input: File, output: File): Int = exec(
-		waifu2x_caffe_cui,
-		"--gpu", "0",
-		"-s", "2.0",
-		"-i", input.absolutePath,
-		"-o", output.absolutePath
-	)
-
-	fun ffmpegExtractImages(input: File, output: File): Int {
+	suspend fun ffmpegExtractImages(input: VfsFile, output: VfsFile): Int = asyncFun {
 		output.mkdirs()
-		return passthru(
+		input.parent.passthru(
 			ffmpeg,
 			"-y",
 			"-i", input.absolutePath,
@@ -61,12 +32,14 @@ object Remaster {
 		)
 	}
 
-	fun ffmpegExtractAudio(input: File, output: File) = passthru(
-		ffmpeg,
-		"-y",
-		"-i", input.absolutePath,
-		output.absolutePath
-	)
+	suspend fun ffmpegExtractAudio(input: VfsFile, output: VfsFile): Int = asyncFun {
+		input.parent.passthru(
+			ffmpeg,
+			"-y",
+			"-i", input.absolutePath,
+			output.absolutePath
+		)
+	}
 
 	/*
 	class VideoInfo(
@@ -74,13 +47,13 @@ object Remaster {
 	)
 	*/
 
-	fun ffmpegGetVideoInfo(input: File) {
-		val result = execStr(ffmpeg, "-i", input.absolutePath)
+	suspend fun ffmpegGetVideoInfo(input: VfsFile) = asyncFun {
+		val result = input.parent.execToString(ffmpeg, "-i", input.absolutePath)
 		println(result)
 	}
 
-	fun ffmpegPackVideo(fps: Int, inputImages: File, inputAudio: File, output: File) {
-		passthru(
+	suspend fun ffmpegPackVideo(fps: Int, inputImages: VfsFile, inputAudio: VfsFile, output: VfsFile): Int = asyncFun {
+		inputImages.passthru(
 			ffmpeg,
 			"-y",
 			"-framerate", "$fps",
@@ -101,10 +74,10 @@ object Remaster {
 		)
 	}
 
-	fun convertVideo(fps: Int, input: File, output: File) {
-		val wav = File("${input.absolutePath}.wav")
-		val images1x = File("${input.absolutePath}.images1x")
-		val images2x = File("${input.absolutePath}.images2x")
+	suspend fun convertVideo(fps: Int, input: VfsFile, output: VfsFile) = asyncFun {
+		val wav = input.appendExtension("wav")
+		val images1x = input.appendExtension("images1x")
+		val images2x = input.appendExtension("images2x")
 		ffmpegExtractAudio(input, wav)
 		ffmpegExtractImages(input, images1x)
 
@@ -119,25 +92,25 @@ object Remaster {
 		ffmpegPackVideo(30, images2x, wav, output)
 	}
 
-	fun convertVideoLastStep(fps: Int, input: File, output: File) {
-		val wav = File("${input.absolutePath}.wav")
-		val images2x = File("${input.absolutePath}.images2x")
+	suspend fun convertVideoLastStep(fps: Int, input: VfsFile, output: VfsFile) = asyncFun {
+		val wav = input.appendExtension("wav")
+		val images2x = input.appendExtension("image2x")
 		ffmpegPackVideo(fps, images2x, wav, output)
 	}
 
-	fun extractDl1(dl1: File, out: File) {
+	suspend fun extractDl1(dl1: VfsFile, out: VfsFile) = asyncFun {
 		out.mkdirs()
-		val files = DL1.read(dl1.open2("r"))
-		for ((name, data) in files) {
-			val compressed = data.readAll()
+		val files = dl1.openAsDL1()
+		for (file in files.listRecursive()) {
+			val compressed = file.read()
 			val uncompressed = if (LZ.isCompressed(compressed)) LZ.uncompress(compressed) else compressed
-			println(name)
-			out[name] = uncompressed
+			println(file.fullname)
+			out[file.fullname] = uncompressed
 		}
 	}
 
-	@JvmStatic fun main(args: Array<String>) {
-		val base = File("D:/juegos/dividead")
+	@JvmStatic fun main(args: Array<String>) = sync {
+		val base = LocalVfs("D:/juegos/dividead")
 		if (!base["CS_ROGO.AVI.2x.mp4"].exists()) convertVideo(30, base["CS_ROGO.AVI"], base["CS_ROGO.AVI.2x.mp4"])
 		if (!base["OPEN.AVI.2x.mp4"].exists()) convertVideo(15, base["OPEN.AVI"], base["OPEN.AVI.2x.mp4"])
 		if (!base["SG.DL1.d"].exists()) extractDl1(base["SG.DL1"], base["SG.DL1.d"])

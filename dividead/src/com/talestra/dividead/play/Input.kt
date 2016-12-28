@@ -12,7 +12,8 @@ open class Input {
 		if (skipping) {
 			Unit
 		} else {
-			return Promise.any(onKeyPress.waitOneAsync(), onClick.waitOneAsync())
+			TODO("Not implemented waitText")
+			//return Promise.any(onKeyPress.waitOneAsync(), onClick.waitOneAsync())
 		}
 	}
 }

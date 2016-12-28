@@ -1,30 +1,34 @@
 package com.talestra.dividead
 
+import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.toList
+import com.soywiz.korio.vfs.LocalVfs
+import com.soywiz.korio.vfs.ResourcesVfs
+import com.soywiz.korio.vfs.VfsFile
+import com.talestra.rhcommon.io.generate
+import org.junit.Assert
+import org.junit.Test
+
 class SG1Test {
-	companion object {
-		val TEST_DL1 = ClassLoader.getSystemResource("TEST.DL1").readBytes()
+	val resources = ResourcesVfs()
+
+	@Test
+	fun name() = sync {
+		val TEST_DL1 = resources["TEST.DL1"].read()
+		val files = resources["TEST.DL1"].openAsDL1()
+		val generated = DL1.generate(files)
+		Assert.assertArrayEquals(TEST_DL1, generated)
+
+		Assert.assertEquals(
+			"[(B.TXT, 5), (HELLO.TXT, 12), (A.TXT, 5)]",
+			files.listRecursive().toList().map { Pair(it.basename, it.size()) }.toString()
+		)
 	}
 
-	//@Test
-	//fun name() {
-	//	val files = DL1.read(TEST_DL1.open2("r"))
-	//	val generated = DL1.generate(files)
-	//	Assert.assertArrayEquals(TEST_DL1, generated)
-//
-	//	Assert.assertEquals(
-	//		listOf(
-	//			"(B.TXT, SliceStream2(parent=MemoryStream2(86), start=16, end=21))",
-	//			"(HELLO.TXT, SliceStream2(parent=MemoryStream2(86), start=21, end=33))",
-	//			"(A.TXT, SliceStream2(parent=MemoryStream2(86), start=33, end=38))"
-	//		),
-	//		files.toList().map { it.toString() }
-	//	)
-	//}
-//
-	//@Test
-	//fun testDecompression() {
-	//	val files = DL1.read(File("D:/juegos/dividead/SG.DL1").open2("r"))
-	//	val uncompressedData = LZ.uncompress(files["OMAKE_3.BMP"]!!.readAll())
-	//	File("D:/juegos/dividead/OMAKE_3.BMP").writeBytes(uncompressedData)
-	//}
+	@Test
+	fun testDecompression() = sync {
+		val files = LocalVfs("D:/juegos/dividead/SG.DL1").openAsDL1()
+		val uncompressedData = LZ.uncompress(files["OMAKE_3.BMP"].read())
+		LocalVfs("D:/juegos/dividead/OMAKE_3.BMP").write(uncompressedData)
+	}
 }

@@ -1,5 +1,7 @@
 package com.talestra.dividead.play
 
+import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.stream.SyncStream
 import com.talestra.dividead.AB
 
 open class Script() {
@@ -8,12 +10,12 @@ open class Script() {
 		//s.position = startposition.toLong()
 	}
 
-	lateinit var s: Stream2
+	lateinit var s: SyncStream
 
-	open fun setScript(name: String) {
+	suspend open fun setScript(name: String) {
 	}
 
-	fun setScript(name: String, offset: Int) {
+	suspend fun setScript(name: String, offset: Int) = asyncFun {
 		setScript(name)
 		jump(offset)
 	}
