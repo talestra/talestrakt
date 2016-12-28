@@ -110,9 +110,9 @@ object GIM : ImageFormat() {
 												img8[addx + x, addy + y] = block[n++]
 											}
 											32 -> {
-												val b = block[n++]
-												val g = block[n++]
 												val r = block[n++]
+												val g = block[n++]
+												val b = block[n++]
 												val a = block[n++]
 												img32[addx + x, addy + y] = RGBA(r, g, b, a)
 											}

@@ -1,6 +1,10 @@
 package com.talestra.shny.play
 
+import com.soywiz.kimage.awt.showImage
+import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.async.invokeSuspend
 import com.talestra.rhcommon.imaging.format.GIM
+import com.talestra.rhcommon.inject.Singleton
 import com.talestra.shny.format.Script
 
 @Singleton
@@ -14,12 +18,10 @@ class ScriptExecutor(
 		annotation.op to method
 	}.toMap()
 
-	fun execAsync(): Promise<Unit> {
+	suspend fun exec() = asyncFun {
 		val instruction = reader.readInstruction()
-		val action = this.actions[instruction.op]
-		val result = action?.invoke(this, *instruction.params.toTypedArray())
-		if (action == null) noImpl("Unhandled instruction $instruction")
-		return Promise.ensure(result).unit
+		val action = this.actions[instruction.op] ?: TODO("Unhandled instruction $instruction")
+		action.invokeSuspend(this, instruction.params)
 	}
 
 	@Script.Action(Script.Opcode.TEXT) fun TEXT(str: String) {
@@ -73,9 +75,9 @@ class ScriptExecutor(
 	@Script.Action(Script.Opcode.PRELOAD_END) fun PRELOAD_END() {
 	}
 
-	@Script.Action(Script.Opcode.BG_PRELOAD) fun BG_PRELOAD(type: Int, str: String, param: Int) = async<Unit> {
+	@Script.Action(Script.Opcode.BG_PRELOAD) suspend fun BG_PRELOAD(type: Int, str: String, param: Int) = asyncFun {
 		if (str != "") {
-			val image = GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readStreamAsync().await())
+			val image = GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readAsSyncStream())
 			//showImage(image)
 		}
 	}
@@ -84,13 +86,13 @@ class ScriptExecutor(
 		state.chars[chara].suit = suit
 	}
 
-	@Script.Action(Script.Opcode.BACKGROUND) fun BACKGROUND(str: String, p1: Int, p2: Int, p3: Int, p4: Int, p5: Int) = async<Unit> {
-		val image = GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readStreamAsync().await())
+	@Script.Action(Script.Opcode.BACKGROUND) suspend fun BACKGROUND(str: String, p1: Int, p2: Int, p3: Int, p4: Int, p5: Int) = asyncFun {
+		val image = GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readAsSyncStream())
 		showImage(image)
 	}
 
-	@Script.Action(Script.Opcode.BACKGROUND2) fun BACKGROUND2(p1: Int, str: String) = async<Unit> {
-		val image = GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readStreamAsync().await())
+	@Script.Action(Script.Opcode.BACKGROUND2) suspend fun BACKGROUND2(p1: Int, str: String) = asyncFun {
+		val image = GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readAsSyncStream())
 		showImage(image)
 	}
 
@@ -116,10 +118,10 @@ class ScriptExecutor(
 	@Script.Action(Script.Opcode.MUSIC) fun MUSIC(type: Int, str: String, p1: Int, p2: Int) {
 	}
 
-	@Script.Action(Script.Opcode.CHARA_PUT) fun CHARA_PUT(kind: Int, charaId: Int, p2: Int, p3: Int, p4: Int, p5: Int, p6: Int) = async<Unit> {
+	@Script.Action(Script.Opcode.CHARA_PUT) suspend fun CHARA_PUT(kind: Int, charaId: Int, p2: Int, p3: Int, p4: Int, p5: Int, p6: Int) = asyncFun {
 		val charaName = "bu%02d_a%02d.gim".format(charaId, state.chars[charaId].suit)
 
-		showImage(GIM.read(iso.root["PSP_GAME/USRDIR/data/bu/$charaName"].readStreamAsync().await()))
+		showImage(GIM.read(iso.root["PSP_GAME/USRDIR/data/bu/$charaName"].readAsSyncStream()))
 		//showImage(GIM.read(iso.root["PSP_GAME/USRDIR/data/bu/bu02_ak.gim"].open2("r")))
 		//PKG.read(iso.root["PSP_GAME/USRDIR/data/bu/bu02_ak.pkg"].open2("r"))
 	}
@@ -143,7 +145,7 @@ class ScriptExecutor(
 	@Script.Action(Script.Opcode.FACE_SHOW) fun FACE_SHOW(id: Int) {
 	}
 
-	@Script.Action(Script.Opcode.SCRIPT) fun SCRIPT(str: String) {
-		reader.setScriptAsync(str)
+	@Script.Action(Script.Opcode.SCRIPT) suspend fun SCRIPT(str: String) = asyncFun {
+		reader.setScript(str)
 	}
 }

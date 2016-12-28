@@ -1,21 +1,26 @@
 package com.talestra.shny.play
 
+import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.stream.MemorySyncStream
+import com.soywiz.korio.stream.SyncStream
+import com.talestra.rhcommon.ds.Stack
+import com.talestra.rhcommon.inject.Singleton
 import com.talestra.shny.format.Script
 
 @Singleton
 class ScriptReader(val iso: GameIso) {
-	var s: Stream2 = MemoryStream2()
+	var s: SyncStream = MemorySyncStream()
 	var scriptName = ""
 
-	fun setScriptAsync(name: String): Promise<Unit> = async {
-		if (scriptName == name) return@async Unit
+	suspend fun setScript(name: String) = asyncFun {
+		if (scriptName == name) return@asyncFun Unit
 		scriptName = name
-		s = iso.root["/PSP_GAME/USRDIR/data/script/$name"].readStreamAsync().await()
+		s = iso.root["/PSP_GAME/USRDIR/data/script/$name"].readAsSyncStream()
 		s.position = 8
 	}
 
-	fun setScriptAsync(name: String, offset: Int) = async<Unit> {
-		setScriptAsync(name).await()
+	suspend fun setScript(name: String, offset: Int) = asyncFun {
+		setScript(name)
 		s.position = offset.toLong()
 	}
 
@@ -33,8 +38,8 @@ class ScriptReader(val iso: GameIso) {
 		stack.push(StackEntry(scriptName, this.s.position.toInt()))
 	}
 
-	fun retAsync(): Promise<Unit> = async {
+	suspend fun ret() = asyncFun {
 		val entry = stack.pop()
-		setScriptAsync(entry.script, entry.offset).await()
+		setScript(entry.script, entry.offset)
 	}
 }

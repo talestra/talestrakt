@@ -14,7 +14,7 @@ fun main(args: Array<String>) = sync {
 	val files = iso.openAsIso()
 	for (file in files["PSP_GAME/USRDIR/data/script"].list()) {
 		//println(file)
-		val s = file.file.open(VfsOpenMode.READ).readAll().openSync()
+		val s = file.open(VfsOpenMode.READ).readAll().openSync()
 		Script.check(s)
 		s.position = 8
 		while (!s.eof) Script.readInstruction(s)
