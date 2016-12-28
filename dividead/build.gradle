@@ -1,0 +1,14 @@
+apply from: '../include.gradle'
+
+dependencies {
+    compile project(':vnovel')
+}
+
+jar {
+    manifest {
+        attributes("Main-Class": "com.talestra.dividead.play.PlaySwingKt")
+    }
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}

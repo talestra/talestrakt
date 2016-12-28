@@ -1,0 +1,24 @@
+apply from: '../include.gradle'
+
+apply plugin: 'application'
+apply plugin: 'jtransc'
+
+mainClassName = 'com.talestra.yume.play.js.YumeMiruPlayerJs'
+
+dependencies {
+    compile project(':vnovel')
+}
+
+jtransc {
+    mainClassName = 'com.talestra.yume.play.js.YumeMiruPlayerJs'
+    assets = ["yume/resources"]
+}
+
+jar {
+    manifest {
+        attributes("Main-Class": "com.talestra.yume.patcher.YumeMiruPatcher")
+    }
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}

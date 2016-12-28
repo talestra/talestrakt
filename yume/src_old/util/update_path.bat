@@ -1,0 +1,28 @@
+@echo off
+
+REG ADD HKCU\Software\Will\yumemirukusuri /f /v InstallDir /t REG_SZ /d %CD%
+
+REM "30986","1:10:24,8685036","","3232","RegOpenKey","HKCU\software\Will\yumemirukusuri","SUCCESS","Desired Access: All Access"
+REM "30987","1:10:24,8685843","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\InstallType","SUCCESS","Type: REG_BINARY, Length: 4, Data: 02 00 00 00"
+REM "30988","1:10:24,8686139","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\AutoSkip","SUCCESS","Type: REG_BINARY, Length: 4, Data: 00 00 00 00"
+REM "30989","1:10:24,8686338","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\DisplayMode","SUCCESS","Type: REG_BINARY, Length: 4, Data: 00 00 00 00"
+REM "30990","1:10:24,8686533","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\WndPos","SUCCESS","Type: REG_BINARY, Length: 8, Data: 7D 02 00 00 62 01 00 00"
+REM "30991","1:10:24,8686734","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\Volume","SUCCESS","Type: REG_BINARY, Length: 16, Data: BC 02 00 00 E8 03 00 00 90 01 00 00 64 00 00 00"
+REM "30992","1:10:24,8686933","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\Mute","SUCCESS","Type: REG_BINARY, Length: 16, Data: 01 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00"
+REM "30993","1:10:24,8687128","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\MsgPos","SUCCESS","Type: REG_BINARY, Length: 8, Data: C6 00 00 00 B4 01 00 00"
+REM "30994","1:10:24,8687324","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\MsgSpeed","SUCCESS","Type: REG_BINARY, Length: 4, Data: 01 00 00 00"
+REM "30995","1:10:24,8687520","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\FontEdge","SUCCESS","Type: REG_BINARY, Length: 4, Data: 01 00 00 00"
+REM "30996","1:10:24,8687715","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\EnableJoyPad","SUCCESS","Type: REG_BINARY, Length: 4, Data: 01 00 00 00"
+REM "30997","1:10:24,8687902","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\SystemDraw","SUCCESS","Type: REG_BINARY, Length: 4, Data: 01 00 00 00"
+REM "30998","1:10:24,8688101","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\EffectSkip","SUCCESS","Type: REG_BINARY, Length: 4, Data: 00 00 00 00"
+REM "30999","1:10:24,8688291","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\FontName","SUCCESS","Type: REG_SZ, Length: 20, Data: MS Gothic"
+REM "31000","1:10:24,8688486","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\FontName","SUCCESS","Type: REG_SZ, Length: 20, Data: MS Gothic"
+REM "31001","1:10:24,8688726","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\InstallDir","SUCCESS","Type: REG_SZ, Length: 64, Data: c:\juegos\yume\YUME MIRU KUSURI"
+REM "31002","1:10:24,8688922","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\InstallDir","SUCCESS","Type: REG_SZ, Length: 64, Data: c:\juegos\yume\YUME MIRU KUSURI"
+REM "31003","1:10:24,8689117","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\InstallSrc","SUCCESS","Type: REG_SZ, Length: 8, Data: L:\"
+REM "31004","1:10:24,8689305","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\InstallSrc","SUCCESS","Type: REG_SZ, Length: 8, Data: L:\"
+REM "31005","1:10:24,8689497","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\AutoMsg","SUCCESS","Type: REG_BINARY, Length: 4, Data: 03 00 00 00"
+REM "31006","1:10:24,8689685","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\SkipType","SUCCESS","Type: REG_BINARY, Length: 4, Data: 00 00 00 00"
+REM "31007","1:10:24,8689869","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\UseFilt","SUCCESS","Type: REG_BINARY, Length: 4, Data: 01 00 00 00"
+REM "31008","1:10:24,8690062","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\RButtonMode","SUCCESS","Type: REG_BINARY, Length: 4, Data: 01 00 00 00"
+REM "31009","1:10:24,8690254","","3232","RegQueryValue","HKCU\Software\Will\yumemirukusuri\DeactiveSnd","SUCCESS","Type: REG_BINARY, Length: 4, Data: 01 00 00 00"

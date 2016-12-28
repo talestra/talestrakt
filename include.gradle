@@ -1,0 +1,59 @@
+// http://jedicoder.blogspot.com.es/2011/11/automated-gradle-project-deployment-to.html
+Properties props = new Properties()
+props.load(new FileInputStream("gradle.properties"))
+
+project.ext.jtranscVersion = props.jtranscVersion
+project.ext.kotlinVersion = props.kotlinVersion
+
+apply plugin: 'java'
+apply plugin: 'kotlin'
+apply plugin: 'maven'
+apply plugin: 'signing'
+
+group = "com.tales-tra"
+version = "${props.talestraVersion}"
+
+configurations {
+    provided
+}
+
+sourceSets {
+    main { compileClasspath += configurations.provided }
+}
+
+sourceSets {
+    main.java.srcDirs = ['src']
+    main.kotlin.srcDirs = ['src']
+    main.resources.srcDirs = ['resources', 'assets']
+    test.java.srcDirs = ['test']
+    test.kotlin.srcDirs = ['test']
+    test.resources.srcDirs = ['testresources', 'testassets']
+}
+
+repositories {
+    maven { url "http://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile "com.jtransc:jtransc-rt-core:${props.jtranscVersion}"
+    compile "com.soywiz:korio:0.1.2"
+    compile "com.soywiz:kimage:0.0.1"
+    //compile "com.badlogicgames.gdx:gdx:${project.ext.gdxVersion}"
+    compile "org.jetbrains.kotlin:kotlin-stdlib:${props.kotlinVersion}"
+    compile "org.jetbrains.kotlin:kotlin-runtime:${props.kotlinVersion}"
+    testCompile 'junit:junit:4.12'
+}
+
+buildscript {
+    repositories {
+        maven { url "http://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+        mavenLocal()
+        mavenCentral()
+    }
+    dependencies {
+        classpath "com.jtransc:jtransc-gradle-plugin:$jtranscVersion"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+    }
+}

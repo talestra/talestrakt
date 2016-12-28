@@ -1,0 +1,34 @@
+//apply plugin: 'java'
+//apply plugin: 'application'
+
+repositories {
+    maven { url "http://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+    mavenLocal()
+    mavenCentral()
+}
+
+buildscript {
+    repositories {
+        maven { url "http://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+        mavenLocal()
+        mavenCentral()
+    }
+    dependencies {
+        //compile "jmedialayer:jmedialayer:0.1"
+        classpath "com.jtransc:jtransc-gradle-plugin:$jtranscVersion"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+        classpath 'com.github.rholder:gradle-one-jar:1.0.4'
+        classpath 'com.soywiz:korio:0.1.2'
+        classpath 'com.soywiz:kimage:0.0.1'
+    }
+}
+
+//mainClassName = 'com.talestra'
+
+//jar {
+//    manifest {
+//        attributes("Main-Class": "me.rozhok.Main")
+//        attributes 'Implementation-Title': 'Gradle Quickstart',
+//                'Implementation-Version': version
+//    }
+//}

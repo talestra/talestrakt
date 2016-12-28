@@ -1,0 +1,8 @@
+apply from: '../include.gradle'
+
+dependencies {
+    compile project(':fonteditor')
+    compile project(':rhcommon')
+    compile "org.jcodec:jcodec-javase:0.1.9"
+    compile "org.jcodec:jcodec:0.1.9"
+}

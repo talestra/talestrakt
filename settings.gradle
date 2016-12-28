@@ -1,0 +1,16 @@
+rootProject.name = 'talestrakt'
+include(
+        'rhcommon',
+
+        'vnovel',
+        'criminalgirls',
+        'dividead',
+        'yume',
+        'shny',
+
+        'tales',
+        'toa',
+        'tod',
+        'toe',
+        'tov',
+)
