@@ -1,6 +1,7 @@
 package com.talestra.dividead.play
 
 import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.async.invokeSuspend
 import com.talestra.dividead.AB
 import java.io.File
 import java.util.*
@@ -16,16 +17,14 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		it.getAnnotation(AB.Action::class.java)?.opcode
 	}
 
-	suspend fun execOne(): Any? {
+	suspend fun execOne(): Any? = asyncFun {
 		val instruction = script.read()
 		val method = methodsByOpcode[instruction.op]
 		println(instruction)
-		val result = method?.invoke(this, *instruction.param.toTypedArray())
-		//return Promise.ensure(result).unit
-		return result
+		method?.invokeSuspend(this, instruction.param)
 	}
 
-	suspend private fun repaint() = asyncFun {
+	suspend private fun _repaint() = asyncFun {
 		render.update(0, 0, 640, 480)
 	}
 
@@ -78,12 +77,12 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 	}
 
 	@AB.Action(AB.Opcode.REPAINT) suspend fun REPAINT(type: Int) = asyncFun {
-		repaint()
+		_repaint()
 		//Thread.sleep(300)
 	}
 
 	@AB.Action(AB.Opcode.REPAINT_IN) suspend fun REPAINT_IN(type: Int) = asyncFun {
-		repaint()
+		_repaint()
 	}
 
 
@@ -91,7 +90,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		render.text(text, 102, 400)
 		render.update(0, 400, 640, 80)
 		input.waitText()
-		repaint()
+		_repaint()
 	}
 
 	@AB.Action(AB.Opcode.SET) fun SET(flag: Int, op: Char, value: Int) {

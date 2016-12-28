@@ -105,7 +105,6 @@ class PlaySwing {
 		sequencer.start()
 	}
 
-
 	val renderer = object : Renderer() {
 		override suspend fun draw(img: String, x: Int, y: Int) = asyncFun {
 			if (!SGx2["$img.png"].exists()) return@asyncFun
@@ -134,14 +133,14 @@ class PlaySwing {
 			}
 		}
 
-		override fun text(text: String, x: Int, y: Int) {
+		override suspend fun text(text: String, x: Int, y: Int) {
 			val g = buffer.graphics as Graphics2D
 			val size = 14
 			g.font = Font("Lucida Console", 0, size * scale)
 			g.drawString(text, x * scale, (y + size) * scale)
 		}
 
-		override fun update(x: Int, y: Int, width: Int, height: Int) {
+		override suspend fun update(x: Int, y: Int, width: Int, height: Int) {
 			panel.repaint(x * scale, y * scale, width * scale, height * scale)
 		}
 

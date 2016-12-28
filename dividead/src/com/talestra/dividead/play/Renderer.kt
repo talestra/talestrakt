@@ -11,7 +11,6 @@ open class Renderer {
 	}
 
 	suspend open fun playMusic(s: String) {
-
 	}
 
 	suspend open fun drawMasked(color: String, mask: String, x: Int, y: Int) {

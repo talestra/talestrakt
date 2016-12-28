@@ -25,10 +25,10 @@ class SG1Test {
 		)
 	}
 
-	@Test
-	fun testDecompression() = sync {
-		val files = LocalVfs("D:/juegos/dividead/SG.DL1").openAsDL1()
-		val uncompressedData = LZ.uncompress(files["OMAKE_3.BMP"].read())
-		LocalVfs("D:/juegos/dividead/OMAKE_3.BMP").write(uncompressedData)
-	}
+	//@Test
+	//fun testDecompression() = sync {
+	//	val files = LocalVfs("D:/juegos/dividead/SG.DL1").openAsDL1()
+	//	val uncompressedData = LZ.uncompress(files["OMAKE_3.BMP"].read())
+	//	LocalVfs("D:/juegos/dividead/OMAKE_3.BMP").write(uncompressedData)
+	//}
 }
