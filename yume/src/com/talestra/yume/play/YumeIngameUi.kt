@@ -1,5 +1,6 @@
 package com.talestra.yume.play
 
+/*
 class YumeIngameUi(
 	val g2: G2,
 	font: BitmapFont
@@ -49,3 +50,4 @@ class YumeIngameUi(
 	fun setTextSize(size: Int) {
 	}
 }
+	*/

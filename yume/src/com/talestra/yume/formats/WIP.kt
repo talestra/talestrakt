@@ -1,7 +1,13 @@
 import com.jtransc.JTranscSystem
 import com.jtransc.target.Js
+import com.soywiz.kimage.bitmap.Bitmap
+import com.soywiz.kimage.bitmap.Bitmap32
+import com.soywiz.kimage.bitmap.Bitmap8
+import com.soywiz.kimage.color.RGBA
+import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.*
-import com.soywiz.korio.vfs.VfsOpenMode
+import com.soywiz.korio.vfs.VfsFile
+import com.talestra.rhcommon.lang.invalidOp
 import com.talestra.yume.formats.WillLZ
 
 object WIP {
@@ -58,7 +64,9 @@ object WIP {
 		write32_le(h.compressed)
 	}
 
-	fun read(s: ByteArray): List<Entry> = read(s.open(VfsOpenMode.READ))
+	fun read(s: ByteArray): List<Entry> = read(s.openSync())
+
+	suspend fun read(s: VfsFile): List<Entry> = asyncFun { read(s.readAsSyncStream()) }
 
 	fun read(s: SyncStream): List<Entry> {
 		val header = HEADER(s)
@@ -115,21 +123,21 @@ object WIP {
 	}
 
 	fun write(entries: List<Entry>): ByteArray {
-		val s = MemoryStream2()
+		val s = MemorySyncStream()
 		val indexed = entries.first().bitmap is Bitmap8
 		val bpp = if (indexed) 8 else 24
 		s.write(HEADER(magic = MAGIC, count = entries.size, bpp = bpp))
 
 		fun packData(bitmap: Bitmap): ByteArray {
-			val out = MemoryStream2()
+			val out = MemorySyncStream()
 			when (bitmap) {
 				is Bitmap8 -> {
 					out.writeBytes(bitmap.data)
 				}
 				is Bitmap32 -> {
-					for (n in 0 until bitmap.area) out.writeU8(RGBA.getR(bitmap.data[n]))
-					for (n in 0 until bitmap.area) out.writeU8(RGBA.getG(bitmap.data[n]))
-					for (n in 0 until bitmap.area) out.writeU8(RGBA.getB(bitmap.data[n]))
+					for (n in 0 until bitmap.area) out.write8(RGBA.getR(bitmap.data[n]))
+					for (n in 0 until bitmap.area) out.write8(RGBA.getG(bitmap.data[n]))
+					for (n in 0 until bitmap.area) out.write8(RGBA.getB(bitmap.data[n]))
 				}
 				else -> invalidOp("Unsupported bitmap type")
 			}
@@ -138,8 +146,8 @@ object WIP {
 
 		fun packAndCompressData(bitmap: Bitmap): ByteArray = WillLZ.compress(packData(bitmap))
 
-		val s_head = MemoryStream2()
-		val s_data = MemoryStream2()
+		val s_head = MemorySyncStream()
+		val s_data = MemorySyncStream()
 
 		for (entry in entries) {
 			val compressedData = packAndCompressData(entry.bitmap)

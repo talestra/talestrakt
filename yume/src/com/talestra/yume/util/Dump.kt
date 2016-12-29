@@ -2,9 +2,8 @@ package com.talestra.yume.util
 
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.vfs.LocalVfs
-import com.soywiz.korio.vfs.VfsOpenMode
-import com.talestra.yume.formats.ARC
 import com.talestra.yume.formats.WSC
+import com.talestra.yume.formats.openAsARC
 import java.io.File
 
 fun main(args: Array<String>) = sync {
@@ -13,10 +12,11 @@ fun main(args: Array<String>) = sync {
 		val out = file.parent["${file.basename}.d"]
 		out.mkdirs()
 		println("ARC: $file")
-		for ((name, data) in ARC.read(file.open(VfsOpenMode.READ))) {
+		for (file in file.openAsARC().listRecursive()) {
+			val name = file.fullname
 			println("$name")
 			//if (out[name].exists()) continue
-			val bytes = data.readAll()
+			val bytes = file.read()
 			out[name] = bytes
 			if (name.endsWith("WSC")) {
 				out[File(name).nameWithoutExtension + ".WS"] = WSC.Encryption.decrypt(bytes)

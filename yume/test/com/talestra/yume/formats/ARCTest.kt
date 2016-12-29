@@ -29,7 +29,7 @@ class ARCTest {
 	fun testReadAndGenerateArc() = sync {
 		val original = RIO_ARC
 		val arc = original.openSync("r").toAsync().openAsARC()
-		val files = arc.listRecursive().map { it.file }.toList()
+		val files = arc.listRecursive().toList()
 		val generated = ARC.generate(arc)
 		Assert.assertArrayEquals(original, generated)
 		Assert.assertEquals(164, files.size)

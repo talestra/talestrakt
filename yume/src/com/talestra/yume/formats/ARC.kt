@@ -94,11 +94,11 @@ object ARC : PackageReader {
 		for ((ext, files2) in itemsByExtension) {
 			s_ext.writeStringz(ext, 4)
 			s_ext.write32_le(files2.size)
-			s_ext.write32_le((RECORDS_OFFSET + s_file.position).toInt())
+			s_ext.write32_le((RECORDS_OFFSET + s_file.getPosition()).toInt())
 			for (file in files2) {
-				s_file.writeStringz(file.nameWithoutExtension, 9)
+				s_file.writeStringz(file.basenameWithoutExtension, 9)
 				s_file.write32_le(file.size().toInt())
-				s_file.write32_le((CONTENT_OFFSET + s_content.position).toInt())
+				s_file.write32_le((CONTENT_OFFSET + s_content.getPosition()).toInt())
 				s_content.writeFile(file)
 			}
 		}
@@ -108,3 +108,4 @@ object ARC : PackageReader {
 }
 
 suspend fun AsyncStream.openAsARC() = ARC.read(this)
+suspend fun VfsFile.openAsARC() = asyncFun { ARC.read(this.open()) }

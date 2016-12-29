@@ -1,10 +1,10 @@
 package com.talestra.yume.formats
 
-import com.soywiz.korio.str.StrReader
 import com.soywiz.korio.stream.*
 import com.talestra.rhcommon.lang.getu
 import com.talestra.rhcommon.lang.invalidOp
 import com.talestra.rhcommon.lang.mapWhile
+import com.talestra.rhcommon.text.StrReader
 
 object WSC {
 	object Encryption {

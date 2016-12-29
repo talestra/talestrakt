@@ -41,9 +41,8 @@ fun main(argv: Array<String>) {
 		setparams(0)
 	}
 
-	for (n in 1..argc) {
+	for (n in 0 until argc) {
 		val arg = if (n < argc) argv[n] else ""
-
 
 		if (arg == "-?" || arg == "-h" || arg == "--help") {
 			//show_help()

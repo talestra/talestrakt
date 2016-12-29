@@ -1,5 +1,7 @@
 package com.talestra.yume.patcher
 
+import com.soywiz.korio.async.sync
+import com.soywiz.korio.vfs.ResourcesVfs
 import java.awt.Desktop
 import java.awt.event.MouseEvent
 import java.io.File
@@ -14,6 +16,7 @@ const val VERSION = "v1.0"
 
 object YumeMiruPatcher {
 	@JvmStatic fun main(args: Array<String>) {
+		val resources = ResourcesVfs()
 		UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName())
 		//UIManager.setLookAndFeel(MetalLookAndFeel())
 		//UIManager.setLookAndFeel(MotifLookAndFeel())
@@ -23,27 +26,32 @@ object YumeMiruPatcher {
 		val frame = JFrame("Yume Miru Kusuri en español - $VERSION")
 		val icon = ImageIO.read(ClassLoader.getSystemResource("patcher_ico.png"))
 		val form = object {
-			val patchpanel = JPanel()
-			val image = JLabel().apply {
-				this.icon = ImageIcon(ImageIO.read(getResource("data/bg.jpg")))
-			}
-			val patch = JButton().apply {
-				text = "Parchear"
-			}
-			val website = JButton().apply {
-				text = "Página web..."
-			}
-
+			lateinit var patchpanel: JPanel
+			lateinit var image: JLabel
+			lateinit var patch: JButton
+			lateinit var website: JButton
 			init {
-				patchpanel.layout = null
-				patchpanel.add(patch)
-				patchpanel.add(website)
-				patchpanel.add(image)
+				sync {
+					patchpanel = JPanel()
+					image = JLabel().apply {
+						this.icon = ImageIcon(ImageIO.read(resources["data/bg.jpg"].read().inputStream()))
+					}
+					patch = JButton().apply {
+						text = "Parchear"
+					}
+					website = JButton().apply {
+						text = "Página web..."
+					}
 
-				image.setBounds(0, 0, 640, 480)
-				patch.setBounds(400, 360, 200, 32)
-				website.setBounds(400, 400, 200, 32)
+					patchpanel.layout = null
+					patchpanel.add(patch)
+					patchpanel.add(website)
+					patchpanel.add(image)
 
+					image.setBounds(0, 0, 640, 480)
+					patch.setBounds(400, 360, 200, 32)
+					website.setBounds(400, 400, 200, 32)
+				}
 			}
 		}
 		frame.iconImage = icon

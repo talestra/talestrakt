@@ -1,15 +1,16 @@
 package com.talestra.yume
 
-import com.talestra.rhcommon.io.invoke
+import com.soywiz.korio.async.sync
+import com.soywiz.korio.vfs.LocalVfs
 import com.talestra.yume.formats.ArcPackage
-import java.io.File
+import com.talestra.yume.formats.openAsARC
 
-fun main(args: Array<String>) {
-	val BASE = File("d:/juegos/yume")
-	val CHIP = ArcPackage(ARC(BASE["Chip.arc"]))
+fun main(args: Array<String>) = sync {
+	val BASE = LocalVfs("d:/juegos/yume")
+	val CHIP = ArcPackage(BASE["Chip.arc"].openAsARC())
 	val CHIP_OUT = BASE["chip.arc.d"]
 
-	File("D:/BG_IMG13.WIP").writeBytes(CHIP.files["BG_IMG13.WIP"]!!.readAll())
+	LocalVfs("D:/BG_IMG13.WIP").writeFile(CHIP.files["BG_IMG13.WIP"])
 
 	//CHIP_OUT.mkdirs()
 	//for ((name, data) in CHIP.files) {

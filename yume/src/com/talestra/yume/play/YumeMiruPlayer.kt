@@ -4,6 +4,7 @@ import com.jtransc.JTranscSystem
 import com.talestra.yume.formats.ARC
 import java.io.File
 
+/*
 val YumeModule = object : Module() {
 	init {
 
@@ -107,3 +108,4 @@ class YumeScene(
 		}
 	}
 }
+	*/

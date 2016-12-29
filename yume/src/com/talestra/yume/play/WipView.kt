@@ -1,5 +1,6 @@
 package com.talestra.yume.play
 
+/*
 import WIP
 
 class WipView(val g2: G2, val entries: List<WIP.Entry>) : ViewContainer(), Disposable {
@@ -15,3 +16,4 @@ class WipView(val g2: G2, val entries: List<WIP.Entry>) : ViewContainer(), Dispo
 		for (i in images) i.texture.dispose()
 	}
 }
+*/

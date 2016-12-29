@@ -4,6 +4,7 @@ import com.jtransc.JTranscSystem
 import com.jtransc.annotation.JTranscUnsafeFastArrays
 import com.jtransc.target.Js
 import com.talestra.rhcommon.compression.LZEncoder
+import com.talestra.rhcommon.lang.setBit
 import java.io.ByteArrayOutputStream
 
 object WillLZ {

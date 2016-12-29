@@ -3,19 +3,28 @@ package com.talestra.yume.patcher
 import WIP
 import com.soywiz.kimage.awt.showImage
 import com.soywiz.kimage.bitmap.Bitmap32
+import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.async.sync
+import com.soywiz.korio.stream.eof
+import com.soywiz.korio.stream.readS32_le
+import com.soywiz.korio.stream.readStringz
+import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.ResourcesVfs
-import com.soywiz.korio.vfs.VfsOpenMode
+import com.talestra.rhcommon.inject.AsyncInjector
+import com.talestra.rhcommon.inject.Singleton
+import com.talestra.rhcommon.lang.AsyncCacheItem
+import com.talestra.rhcommon.lang.mapWhile
 import com.talestra.yume.common.GameAssets
-import com.talestra.yume.formats.ARC
 import com.talestra.yume.formats.WSC
-import java.io.File
+import com.talestra.yume.formats.openAsARC
 
 @Singleton class Patcher(
 	val assets: GameAssets
 ) {
-	val translations by lazy {
-		ResourcesVfs()["data/text/es.bin"].open(VfsOpenMode.READ)
-		val s = getResourceBytes("data/text/es.bin").open2("r")
+	val resources = ResourcesVfs()
+
+	val translations = AsyncCacheItem {
+		val s = resources["data/text/es.bin"].readAsSyncStream()
 		mapWhile({ !s.eof }) {
 			val name = s.readStringz(s.readS32_le())
 			val count = s.readS32_le()
@@ -27,18 +36,18 @@ import java.io.File
 		}.toMap()
 	}
 
-	fun patchScripts() {
-		val rio = ARC.read(assets.folder["Rio.arc"].open2("r"))
-		for ((name, data) in rio) {
+	suspend fun patchScripts() = asyncFun {
+		val rio = assets.folder["Rio.arc"].openAsARC()
+		for (file in rio.listRecursive()) {
 			//println("$name:")
 			//File("D:/$name.out").writeBytes(data.slice().readAll())
-			val instructions = WSC.readInstructions(WSC.Encryption.decryptStream2(data.slice()), "UNKNOWN")
-			println("$name: ${instructions.take(10)}")
+			val instructions = WSC.readInstructions(WSC.Encryption.decryptStream2(file.readAsSyncStream()), "UNKNOWN")
+			println("${file.fullname}: ${instructions.take(10)}")
 		}
 	}
 
-	fun dumpTranslations() {
-		for ((name, texts) in translations) {
+	suspend fun dumpTranslations() = asyncFun {
+		for ((name, texts) in translations.get()) {
 			println("$name:")
 			for ((id, text) in texts) {
 				println("- $id: ${text.replace("\r", "").replace("\n", "\\n")}")
@@ -46,7 +55,7 @@ import java.io.File
 		}
 	}
 
-	fun patchImages() {
+	suspend fun patchImages() = asyncFun {
 		val images = WIP.read(assets.CHIP_ARC["MAINGP.WIP"]!!)
 
 		fun cleanMainMenuBackground(bg: Bitmap32) {
@@ -63,9 +72,9 @@ import java.io.File
 }
 
 object PatcherSpike {
-	@JvmStatic fun main(args: Array<String>) {
-		val assets = GameAssets(File("D:/juegos/yume"))
-		val injector = Injector()
+	@JvmStatic fun main(args: Array<String>) = sync {
+		val assets = GameAssets(LocalVfs("D:/juegos/yume"))
+		val injector = AsyncInjector()
 		injector.map(assets)
 		val patcher = injector.get<Patcher>()
 		//patcher.patchScripts()

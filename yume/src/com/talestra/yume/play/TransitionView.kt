@@ -1,5 +1,6 @@
 package com.talestra.yume.play
 
+/*
 class TransitionView(
 	val g: G2
 ) : View() {
@@ -95,3 +96,4 @@ class TransitionView(
 		}
 	}
 }
+*/
