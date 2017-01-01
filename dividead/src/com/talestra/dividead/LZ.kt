@@ -1,9 +1,6 @@
 package com.talestra.dividead
 
-import com.soywiz.korio.stream.MemorySyncStream
-import com.soywiz.korio.stream.openSync
-import com.soywiz.korio.stream.readS32_le
-import com.soywiz.korio.stream.readStringz
+import com.soywiz.korio.stream.*
 import com.soywiz.korio.util.ByteArraySlice
 import com.soywiz.korio.util.UByteArray
 import com.soywiz.korio.util.readS32_le
@@ -23,9 +20,9 @@ object LZ {
 		return _decode(sdata, uncompressedSize)
 	}
 
-	private fun _decode(input: MemorySyncStream, uncompressedSize: Int): ByteArray {
+	private fun _decode(input: SyncStream, uncompressedSize: Int): ByteArray {
 		//return measure("decoding image") { _decodeFast(input.toByteArraySlice(), uncompressedSize) }
-		return _decodeFast(input.toByteArraySlice(), uncompressedSize)
+		return _decodeFast((input.base as MemorySyncStreamBase).data.toByteArraySlice(), uncompressedSize)
 	}
 
 	private fun _decodeFast(input: ByteArraySlice, uncompressedSize: Int): ByteArray {

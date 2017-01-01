@@ -4,7 +4,7 @@ import org.junit.Assert
 import org.junit.Test
 
 class FontTest {
-	val resources = ResourcesVfs()
+	val resources = ResourcesVfs
 	@Test
 	fun name(): Unit = sync {
 		val glyphs = FONT_WIDTHS.read(resources["font.bin"].readAsSyncStream())

@@ -6,7 +6,7 @@ import com.soywiz.korio.vfs.Vfs
 import com.soywiz.korio.vfs.VfsFile
 import com.soywiz.korio.vfs.VfsOpenMode
 
-class UncompressIfRequired(val parent: SyncStream) : SyncStream() {
+class UncompressIfRequired(val parent: SyncStream) : SyncStreamBase() {
 	val header = parent.slice(0 until 0x10).readAll()
 	val isCompressed = LZ.isCompressed(header)
 
@@ -24,7 +24,8 @@ class UncompressIfRequired(val parent: SyncStream) : SyncStream() {
 		data.openSync("r")
 	}
 
-	override fun read(buffer: ByteArray, offset: Int, len: Int): Int {
+	override fun read(position: Long, buffer: ByteArray, offset: Int, len: Int): Int {
+		dataStream.position = position
 		return dataStream.read(buffer, offset, len)
 	}
 }
@@ -32,5 +33,5 @@ class UncompressIfRequired(val parent: SyncStream) : SyncStream() {
 fun VfsFile.uncompressIfRequired() = object : Vfs.Proxy() {
 	val base = this@uncompressIfRequired
 	suspend override fun access(path: String): VfsFile = base[path]
-	suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream = asyncFun { UncompressIfRequired(base[path].readAsSyncStream()).toAsync() }
+	suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream = asyncFun { UncompressIfRequired(base[path].readAsSyncStream()).toAsync().toAsyncStream() }
 }.root

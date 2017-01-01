@@ -6,7 +6,7 @@ import org.junit.Assert
 import org.junit.Test
 
 class MapTest {
-	val resources = ResourcesVfs()
+	val resources = ResourcesVfs
 
 	@Test
 	fun testTpk(): Unit = sync {
