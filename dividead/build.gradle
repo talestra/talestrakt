@@ -1,12 +1,29 @@
 apply from: '../include.gradle'
 
+apply plugin: 'application'
+apply plugin: 'jtransc'
+
+//mainClassName = 'com.talestra.yume.play.js.YumeMiruPlayerJs'
+mainClassName = 'com.talestra.dividead.play.PlayKorui'
+
+dependencies {
+    compile project(':vnovel')
+}
+
+jtransc {
+    //mainClassName = 'com.talestra.yume.play.js.YumeMiruPlayerJs'
+    minimizeNames = false
+    treeshaking = true
+    assets = ["dividead/resources"]
+}
+
 dependencies {
     compile project(':vnovel')
 }
 
 jar {
     manifest {
-        attributes("Main-Class": "com.talestra.dividead.play.PlaySwingKt")
+        attributes("Main-Class": 'com.talestra.dividead.play.PlayKorui')
     }
     from {
         configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }

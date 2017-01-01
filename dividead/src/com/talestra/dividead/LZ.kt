@@ -4,6 +4,7 @@ import com.soywiz.korio.stream.*
 import com.soywiz.korio.util.ByteArraySlice
 import com.soywiz.korio.util.UByteArray
 import com.soywiz.korio.util.readS32_le
+import com.soywiz.korio.util.toUnsigned
 import com.talestra.rhcommon.lang.measure
 
 object LZ {
@@ -21,8 +22,7 @@ object LZ {
 	}
 
 	private fun _decode(input: SyncStream, uncompressedSize: Int): ByteArray {
-		//return measure("decoding image") { _decodeFast(input.toByteArraySlice(), uncompressedSize) }
-		return _decodeFast((input.base as MemorySyncStreamBase).data.toByteArraySlice(), uncompressedSize)
+		return _decodeFast((input.base as MemorySyncStreamBase).data.toByteArraySlice(input.position), uncompressedSize)
 	}
 
 	private fun _decodeFast(input: ByteArraySlice, uncompressedSize: Int): ByteArray {

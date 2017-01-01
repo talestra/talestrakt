@@ -33,5 +33,10 @@ class UncompressIfRequired(val parent: SyncStream) : SyncStreamBase() {
 fun VfsFile.uncompressIfRequired() = object : Vfs.Proxy() {
 	val base = this@uncompressIfRequired
 	suspend override fun access(path: String): VfsFile = base[path]
-	suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream = asyncFun { UncompressIfRequired(base[path].readAsSyncStream()).toAsync().toAsyncStream() }
+	suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream = asyncFun {
+		UncompressIfRequired(base[path].readAsSyncStream()).toAsync().toAsyncStream()
+	}
+
+	// @TODO: This shouldn't be necessary
+	//suspend override fun readFully(path: String): ByteArray = base[path].openUse { readAll() }
 }.root
