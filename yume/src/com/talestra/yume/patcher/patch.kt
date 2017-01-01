@@ -1,8 +1,8 @@
 package com.talestra.yume.patcher
 
 import WIP
-import com.soywiz.kimage.awt.showImage
-import com.soywiz.kimage.bitmap.Bitmap32
+import com.soywiz.korim.awt.showImage
+import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.stream.eof
@@ -19,66 +19,66 @@ import com.talestra.yume.formats.WSC
 import com.talestra.yume.formats.openAsARC
 
 @Singleton class Patcher(
-	val assets: GameAssets
+        val assets: GameAssets
 ) {
-	val resources = ResourcesVfs()
+    val resources = ResourcesVfs
 
-	val translations = AsyncCacheItem {
-		val s = resources["data/text/es.bin"].readAsSyncStream()
-		mapWhile({ !s.eof }) {
-			val name = s.readStringz(s.readS32_le())
-			val count = s.readS32_le()
-			name to (0 until count).map {
-				val id = s.readS32_le()
-				val text = s.readStringz(s.readS32_le(), Charsets.ISO_8859_1)
-				id to text
-			}.toMap()
-		}.toMap()
-	}
+    val translations = AsyncCacheItem {
+        val s = resources["data/text/es.bin"].readAsSyncStream()
+        mapWhile({ !s.eof }) {
+            val name = s.readStringz(s.readS32_le())
+            val count = s.readS32_le()
+            name to (0 until count).map {
+                val id = s.readS32_le()
+                val text = s.readStringz(s.readS32_le(), Charsets.ISO_8859_1)
+                id to text
+            }.toMap()
+        }.toMap()
+    }
 
-	suspend fun patchScripts() = asyncFun {
-		val rio = assets.folder["Rio.arc"].openAsARC()
-		for (file in rio.listRecursive()) {
-			//println("$name:")
-			//File("D:/$name.out").writeBytes(data.slice().readAll())
-			val instructions = WSC.readInstructions(WSC.Encryption.decryptStream2(file.readAsSyncStream()), "UNKNOWN")
-			println("${file.fullname}: ${instructions.take(10)}")
-		}
-	}
+    suspend fun patchScripts() = asyncFun {
+        val rio = assets.folder["Rio.arc"].openAsARC()
+        for (file in rio.listRecursive()) {
+            //println("$name:")
+            //File("D:/$name.out").writeBytes(data.slice().readAll())
+            val instructions = WSC.readInstructions(WSC.Encryption.decryptStream2(file.readAsSyncStream()), "UNKNOWN")
+            println("${file.fullname}: ${instructions.take(10)}")
+        }
+    }
 
-	suspend fun dumpTranslations() = asyncFun {
-		for ((name, texts) in translations.get()) {
-			println("$name:")
-			for ((id, text) in texts) {
-				println("- $id: ${text.replace("\r", "").replace("\n", "\\n")}")
-			}
-		}
-	}
+    suspend fun dumpTranslations() = asyncFun {
+        for ((name, texts) in translations.get()) {
+            println("$name:")
+            for ((id, text) in texts) {
+                println("- $id: ${text.replace("\r", "").replace("\n", "\\n")}")
+            }
+        }
+    }
 
-	suspend fun patchImages() = asyncFun {
-		val images = WIP.read(assets.CHIP_ARC["MAINGP.WIP"]!!)
+    suspend fun patchImages() = asyncFun {
+        val images = WIP.read(assets.CHIP_ARC["MAINGP.WIP"]!!)
 
-		fun cleanMainMenuBackground(bg: Bitmap32) {
-			val slice = bg.sliceWithSize(207, 162, 7, 268)
-			for (n in 0 until 7) bg.put(slice, 207 + 7 * n, 162)
-			val patch1 = bg.sliceWithSize(248, 315, 29, 10)
-			bg.put(patch1, 248, 267)
-		}
+        fun cleanMainMenuBackground(bg: Bitmap32) {
+            val slice = bg.sliceWithSize(207, 162, 7, 268)
+            for (n in 0 until 7) bg.put(slice, 207 + 7 * n, 162)
+            val patch1 = bg.sliceWithSize(248, 315, 29, 10)
+            bg.put(patch1, 248, 267)
+        }
 
-		cleanMainMenuBackground(images[0].bitmap as Bitmap32)
+        cleanMainMenuBackground(images[0].bitmap as Bitmap32)
 
-		showImage(images[0].bitmap)
-	}
+        showImage(images[0].bitmap)
+    }
 }
 
 object PatcherSpike {
-	@JvmStatic fun main(args: Array<String>) = sync {
-		val assets = GameAssets(LocalVfs("D:/juegos/yume"))
-		val injector = AsyncInjector()
-		injector.map(assets)
-		val patcher = injector.get<Patcher>()
-		//patcher.patchScripts()
-		//patcher.dumpTranslations()
-		patcher.patchImages()
-	}
+    @JvmStatic fun main(args: Array<String>) = sync {
+        val assets = GameAssets(LocalVfs("D:/juegos/yume"))
+        val injector = AsyncInjector()
+        injector.map(assets)
+        val patcher = injector.get<Patcher>()
+        //patcher.patchScripts()
+        //patcher.dumpTranslations()
+        patcher.patchImages()
+    }
 }

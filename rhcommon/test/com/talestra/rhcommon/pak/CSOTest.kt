@@ -10,7 +10,7 @@ import org.junit.Assert
 import org.junit.Test
 
 class CSOTest {
-	val resources = ResourcesVfs()
+	val resources = ResourcesVfs
 
 	@Test
 	fun name() = sync {

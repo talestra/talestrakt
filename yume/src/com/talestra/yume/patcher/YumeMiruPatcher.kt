@@ -16,7 +16,7 @@ const val VERSION = "v1.0"
 
 object YumeMiruPatcher {
 	@JvmStatic fun main(args: Array<String>) {
-		val resources = ResourcesVfs()
+		val resources = ResourcesVfs
 		UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName())
 		//UIManager.setLookAndFeel(MetalLookAndFeel())
 		//UIManager.setLookAndFeel(MotifLookAndFeel())

@@ -19,7 +19,7 @@ class ARCTest {
 
 	@Before
 	fun setUp() = sync {
-		val resources = ResourcesVfs()
+		val resources = ResourcesVfs
 		RIO_ARC = resources["Rio.arc"].read()
 		TITLE_WSC_decrypt = resources["TITLE.WSC.decrypt"].read()
 		rio = RIO_ARC.openSync().toAsync().openAsARC()

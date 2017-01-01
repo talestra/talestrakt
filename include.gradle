@@ -40,7 +40,8 @@ repositories {
 dependencies {
     compile "com.jtransc:jtransc-rt-core:${props.jtranscVersion}"
     compile "com.soywiz:korio:$korioVersion"
-    compile "com.soywiz:kimage:$kimageVersion"
+    compile "com.soywiz:korim:$korimVersion"
+    compile "com.soywiz:korui:$koruiVersion"
     //compile "com.badlogicgames.gdx:gdx:${project.ext.gdxVersion}"
     compile "org.jetbrains.kotlin:kotlin-stdlib:${props.kotlinVersion}"
     compile "org.jetbrains.kotlin:kotlin-runtime:${props.kotlinVersion}"

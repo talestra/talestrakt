@@ -8,7 +8,7 @@ import org.junit.Test
 class TimTest {
 	@Test
 	fun name(): Unit = sync {
-		val image = TIM.read(ResourcesVfs()["test.tim"].read().openSync())
+		val image = TIM.read(ResourcesVfs["test.tim"].read().openSync())
 		//showImage(image)
 		Unit
 	}
