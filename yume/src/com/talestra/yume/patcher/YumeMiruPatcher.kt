@@ -1,98 +1,49 @@
 package com.talestra.yume.patcher
 
-import com.soywiz.korio.async.sync
+import com.soywiz.korim.format.readBitmap
+import com.soywiz.korio.async.EventLoop
 import com.soywiz.korio.vfs.ResourcesVfs
-import java.awt.Desktop
-import java.awt.event.MouseEvent
-import java.io.File
-import java.net.URI
-import java.util.prefs.Preferences
-import javax.imageio.ImageIO
-import javax.swing.*
-import javax.swing.event.MouseInputAdapter
-import javax.swing.filechooser.FileFilter
-
-const val VERSION = "v1.0"
+import com.soywiz.korui.Application
+import com.soywiz.korui.frame
+import com.soywiz.korui.geom.len.Padding
+import com.soywiz.korui.geom.len.pt
+import com.soywiz.korui.style.padding
+import com.soywiz.korui.style.width
+import com.soywiz.korui.ui.*
 
 object YumeMiruPatcher {
-	@JvmStatic fun main(args: Array<String>) {
-		val resources = ResourcesVfs
-		UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName())
-		//UIManager.setLookAndFeel(MetalLookAndFeel())
-		//UIManager.setLookAndFeel(MotifLookAndFeel())
-		//UIManager.setLookAndFeel(NimbusLookAndFeel())
+	const val VERSION = "v1.0"
 
-
-		val frame = JFrame("Yume Miru Kusuri en español - $VERSION")
-		val icon = ImageIO.read(ClassLoader.getSystemResource("patcher_ico.png"))
-		val form = object {
-			lateinit var patchpanel: JPanel
-			lateinit var image: JLabel
-			lateinit var patch: JButton
-			lateinit var website: JButton
-			init {
-				sync {
-					patchpanel = JPanel()
-					image = JLabel().apply {
-						this.icon = ImageIcon(ImageIO.read(resources["data/bg.jpg"].read().inputStream()))
+	@JvmStatic fun main(args: Array<String>) = EventLoop.main {
+		val bmp = ResourcesVfs["data/bg.jpg"].readBitmap()
+		val frameIcon = ResourcesVfs["patcher_ico.png"].readBitmap()
+		Application().frame("Yume Miru Kusuri en español - $VERSION", 640, 480) {
+			icon = frameIcon
+			vertical {
+				image(bmp)
+			}
+			layers {
+				padding = Padding(16.pt)
+				vertical {
+					padding = Padding(16.pt)
+					horizontal {
+						padding = Padding(16.pt)
+						button("Parchear...") {
+							alert("Patching!")
+						}.apply {
+							width = 200.pt
+						}
 					}
-					patch = JButton().apply {
-						text = "Parchear"
+					horizontal {
+						padding = Padding(16.pt)
+						button("Página web...") {
+							openURL("http://yume.tales-tra.com/")
+						}.apply {
+							width = 200.pt
+						}
 					}
-					website = JButton().apply {
-						text = "Página web..."
-					}
-
-					patchpanel.layout = null
-					patchpanel.add(patch)
-					patchpanel.add(website)
-					patchpanel.add(image)
-
-					image.setBounds(0, 0, 640, 480)
-					patch.setBounds(400, 360, 200, 32)
-					website.setBounds(400, 400, 200, 32)
 				}
 			}
 		}
-		frame.iconImage = icon
-		frame.isResizable = false
-		frame.contentPane = form.patchpanel
-		frame.defaultCloseOperation = JFrame.EXIT_ON_CLOSE
-		frame.setSize(640, 480)
-		frame.setLocationRelativeTo(null)
-		frame.isVisible = true
-
-		form.website.addMouseListener(object : MouseInputAdapter() {
-			override fun mouseClicked(e: MouseEvent?) {
-				val desktop = Desktop.getDesktop()
-				desktop.browse(URI("http://yume.tales-tra.com/"))
-			}
-		})
-
-		form.patch.addMouseListener(object : MouseInputAdapter() {
-			override fun mouseClicked(e: MouseEvent?) {
-				val prefs = Preferences.userRoot().node(javaClass.name)
-				val LAST_USED_FOLDER = "LAST_USED_FOLDER"
-
-				val fc = JFileChooser()
-
-				fc.currentDirectory = File(prefs.get(LAST_USED_FOLDER, "."))
-
-				fc.fileFilter = object : FileFilter() {
-					override fun getDescription(): String = "yumemiru.exe"
-
-					override fun accept(pathname: File): Boolean {
-						return pathname.isDirectory || pathname.name == "yumemiru.exe"
-					}
-				}
-				val returnVal = fc.showOpenDialog(frame)
-
-				if (fc.selectedFile != null) {
-					prefs.put(LAST_USED_FOLDER, fc.selectedFile.parent)
-
-					JOptionPane.showMessageDialog(null, "Selected file: ${fc.selectedFile}, returnVal = $returnVal")
-				}
-			}
-		})
 	}
 }

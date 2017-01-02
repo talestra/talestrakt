@@ -3,14 +3,13 @@ apply from: '../include.gradle'
 apply plugin: 'application'
 apply plugin: 'jtransc'
 
-mainClassName = 'com.talestra.yume.patcher.YumeMiruPatcher2'
+mainClassName = 'com.talestra.yume.patcher.YumeMiruPatcher'
 
 dependencies {
     compile project(':vnovel')
 }
 
 jtransc {
-    //mainClassName = 'com.talestra.yume.play.js.YumeMiruPlayerJs'
 	minimizeNames = false
 	treeshaking = true
     assets = ["yume/resources"]
