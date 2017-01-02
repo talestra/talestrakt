@@ -11,6 +11,8 @@ dependencies {
 
 jtransc {
     //mainClassName = 'com.talestra.yume.play.js.YumeMiruPlayerJs'
+	minimizeNames = false
+	treeshaking = true
     assets = ["yume/resources"]
 }
 
