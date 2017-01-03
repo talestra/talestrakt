@@ -586,7 +586,7 @@ char[] fromAnsi(char[] s) {
 
 extern (Windows) HWND GetConsoleWindow();
 
-int main(char[][] args) {
+int com.talestra.criminalgirls.main(char[][] args) {
 	//std.file.write("output.test", cast(ubyte[])import("INI.D"));
 	int result = 0;
 	//writefln("1");

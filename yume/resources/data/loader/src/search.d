@@ -78,7 +78,7 @@ void do_process(Process p) {
 	}
 }
 
-void main() {
+void com.talestra.criminalgirls.main() {
 	foreach (w; Window.list) {
 		if (w._class == "yumemirukusuri") {
 			do_process(w.process);

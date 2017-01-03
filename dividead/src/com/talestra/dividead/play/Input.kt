@@ -3,6 +3,7 @@ package com.talestra.dividead.play
 import com.soywiz.korio.async.Signal
 import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.executeInWorker
+import com.soywiz.korio.async.sleep
 
 open class Input {
 	val onClick = Signal<Unit>()
@@ -14,7 +15,7 @@ open class Input {
 			Unit
 		} else {
 			//TODO("Not implemented waitText")
-			executeInWorker { Thread.sleep(500L) }
+			sleep(500)
 			//return Promise.any(onKeyPress.waitOneAsync(), onClick.waitOneAsync())
 		}
 	}

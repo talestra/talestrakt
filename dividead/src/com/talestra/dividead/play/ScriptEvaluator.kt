@@ -1,11 +1,13 @@
 package com.talestra.dividead.play
 
+import com.jtransc.annotation.JTranscKeep
 import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.invokeSuspend
 import com.talestra.dividead.AB
 import java.io.File
 import java.util.*
 
+//@JTranscKeep @TODO: jtransc treeshaking _bug
 class ScriptEvaluator(val script: Script, val render: Renderer, val state: State, val input: Input) {
 	//static var margin = { x = 108, y = 400, h = 12 };
 
@@ -28,10 +30,12 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		render.update(0, 0, 640, 480)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.JUMP) fun JUMP(offset: Int) {
 		script.jump(offset)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.JUMP_IF_NOT) fun JUMP_IF_NOT(flag: Int, op: Char, value: Int, pointer: Int) {
 		//printf("JUMP_IF_NOT (%08X) FLAG[%d] %c %d\n", pointer, flag, op, value);
 		val result = when (op) {
@@ -43,12 +47,14 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		if (!result) script.jump(pointer)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.SET_RANGE_FLAG) fun SET_RANGE_FLAG(start: Int, end: Int, value: Int) {
 		//Log.trace("FLAG[$start..$end] = $value")
 		//Log.trace("CHECK: Is \'end\' flag included?")
 		for (n in start until end) state.flags[n] = value
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.TITLE) fun TITLE(title: String) {
 		state.title = title
 		println("Set title: '$title'")
@@ -58,6 +64,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 	//  SOUND RELATED
 	// ---------------
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.MUSIC_PLAY) suspend fun MUSIC_PLAY(name: String) = asyncFun {
 		render.playMusic(name)
 	}
@@ -66,26 +73,30 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 	//  IMAGE RELATED
 	// ---------------
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.FOREGROUND) suspend fun FOREGROUND(name: String) = asyncFun {
 		state.foreground = name
 		render.draw(state.foreground, 0, 0)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.BACKGROUND) suspend fun BACKGROUND(name: String) = asyncFun {
 		state.background = name
 		render.draw(state.background, 32, 8)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.REPAINT) suspend fun REPAINT(type: Int) = asyncFun {
 		_repaint()
 		//Thread.sleep(300)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.REPAINT_IN) suspend fun REPAINT_IN(type: Int) = asyncFun {
 		_repaint()
 	}
 
-
+	@JTranscKeep
 	@AB.Action(AB.Opcode.TEXT) suspend fun TEXT(text: String) = asyncFun {
 		render.text(text, 102, 400)
 		render.update(0, 400, 640, 80)
@@ -93,6 +104,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		_repaint()
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.SET) fun SET(flag: Int, op: Char, value: Int) {
 		println("FLAG[$flag] $op $value")
 		when (op) {
@@ -103,26 +115,31 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		}
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.OPTION_RESET) fun OPTION_RESET() {
 		state.options.clear()
 	}
 
 	//@Unimplemented
+	@JTranscKeep
 	@AB.Action(AB.Opcode.OPTION_ADD) fun OPTION_ADD(pointer: Int, text: String) {
 		val option = Option(state.script, pointer, text)
 		state.options += option
 	}
 
 	//@Unimplemented
+	@JTranscKeep
 	@AB.Action(AB.Opcode.OPTION_SHOW) suspend fun OPTION_SHOW() = asyncFun {
 		val selected = Random().nextInt(state.options.size)
 		script.jump(state.options[selected].offset)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.OPTION_RESHOW) suspend fun OPTION_RESHOW() = asyncFun {
 		OPTION_SHOW()
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.CHARA1) suspend fun CHARA1(name: String) = asyncFun {
 		val nameColor = name
 		val nameMask = name.split('_')[0] + "_0"
@@ -133,6 +150,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		//}
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.CHARA2) suspend fun CHARA2(name1: String, name2: String) = asyncFun {
 		val name1Color = name1
 		val name1Mask = name1.split('_')[0] + "_0"
@@ -148,19 +166,23 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		//}
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.SCRIPT) suspend fun SCRIPT(name: String) = asyncFun {
 		//Log.trace("SCRIPT('$name')")
 		script.setScript(File(name).nameWithoutExtension.toUpperCase(), 0)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.MAP_OPTION_RESET) fun MAP_OPTION_RESET() {
 		state.optionsMap.clear()
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.MAP_OPTION_ADD) fun MAP_OPTION_ADD(pointer: Int, x1: Int, y1: Int, x2: Int, y2: Int) {
 		state.optionsMap += MapOption(state.script, pointer, x1, y1, x2 - x1, y2 - y1)
 	}
 
+	@JTranscKeep
 	@AB.Action(AB.Opcode.MAP_OPTION_SHOW) suspend fun MAP_OPTION_SHOW() = asyncFun {
 		val selected = Random().nextInt(state.optionsMap.size)
 		script.jump(state.optionsMap[selected].offset)

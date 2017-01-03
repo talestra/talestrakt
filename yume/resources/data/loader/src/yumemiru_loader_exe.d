@@ -34,7 +34,7 @@ void do_process(Process p) {
 
 
 
-void main() {
+void com.talestra.criminalgirls.main() {
 	//writefln((&test_function)[0..1].length);
 
 	/*foreach (p; Process.list) {

@@ -2,7 +2,7 @@ module yume.util;
 
 import std.stdio, std.string, std.stream, std.file, std.path;
 
-//void main() { writefln("R:%s", explode("\n", "Hola\nesto es\nuna prueba", 2)); }
+//void com.talestra.criminalgirls.main() { writefln("R:%s", explode("\n", "Hola\nesto es\nuna prueba", 2)); }
 
 char[] substr(char[] s, int from, int length = 0x7FFFFFFF) {
 	if (from < 0) from += s.length; if (from < 0 || from >= s.length) return "";

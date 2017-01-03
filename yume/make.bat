@@ -13,7 +13,7 @@ del %OUTPUT%.exe 2> NUL
 
 SET PARAMS=
 
-SET MAIN=src\main
+SET MAIN=src\com.talestra.criminalgirls.main
 
 SET PARAMS=%PARAMS% src\locale
 SET PARAMS=%PARAMS% src\patch

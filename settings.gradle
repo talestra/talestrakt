@@ -2,6 +2,9 @@ rootProject.name = 'talestrakt'
 include(
         'rhcommon',
 
+		'engines/ethornell',
+		'edelweiss',
+		'hanabira',
         'vnovel',
         'criminalgirls',
         'dividead',

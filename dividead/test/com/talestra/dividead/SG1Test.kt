@@ -17,6 +17,8 @@ class SG1Test {
 		val TEST_DL1 = resources["TEST.DL1"].read()
 		val files = resources["TEST.DL1"].openAsDL1()
 		val generated = DL1.generate(files)
+		//LocalVfs("c:/temp/test1.dl1").write(TEST_DL1)
+		//LocalVfs("c:/temp/test2.dl1").write(generated)
 		Assert.assertArrayEquals(TEST_DL1, generated)
 
 		Assert.assertEquals(

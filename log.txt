@@ -1,0 +1,1222 @@
+Initialized native services in: C:\Users\Carlos\.gradle\native
+Removing 0 daemon stop events from registry
+Previous Daemon (11960) stopped at Tue Jan 03 20:39:46 CET 2017 other compatible daemons were started and after being idle for 0 minutes and not recently used
+Starting a Gradle Daemon, 1 busy and 1 stopped Daemons could not be reused, use --status for details
+Starting daemon process: workingDir = C:\Users\Carlos\.gradle\daemon\3.2.1, daemonArgs: [C:\Program Files\Java\jdk1.8.0_51\bin\java.exe, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=windows-1252, -Duser.country=ES, -Duser.language=es, -Duser.variant, -cp, C:\Users\Carlos\.gradle\wrapper\dists\gradle-3.2.1-bin\erlz51pt56t1o6vc7t39cikug\gradle-3.2.1\lib\gradle-launcher-3.2.1.jar, org.gradle.launcher.daemon.bootstrap.GradleDaemon, 3.2.1]
+Starting process 'Gradle build daemon'. Working directory: C:\Users\Carlos\.gradle\daemon\3.2.1 Command: C:\Program Files\Java\jdk1.8.0_51\bin\java.exe -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=windows-1252 -Duser.country=ES -Duser.language=es -Duser.variant -cp C:\Users\Carlos\.gradle\wrapper\dists\gradle-3.2.1-bin\erlz51pt56t1o6vc7t39cikug\gradle-3.2.1\lib\gradle-launcher-3.2.1.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 3.2.1
+Successfully started process 'Gradle build daemon'
+An attempt to start the daemon took 1.164 secs.
+Connected to daemon DaemonInfo{pid=2600, address=[07c5c185-c6c0-4f85-954b-e63a31077844 port:63360, addresses:[/127.0.0.1, /0:0:0:0:0:0:0:1]], state=Busy, lastBusy=1483472822847, context=DefaultDaemonContext[uid=cdb1e609-77a2-47a0-a0a1-befc7eba47d6,javaHome=C:\Program Files\Java\jdk1.8.0_51,daemonRegistryDir=C:\Users\Carlos\.gradle\daemon,pid=2600,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=windows-1252,-Duser.country=ES,-Duser.language=es,-Duser.variant]}. Dispatching request Build{id=5f8a766d-5986-48e3-9749-aa6f49aba414.1, currentDir=C:\projects\talestrakt}.
+Received result org.gradle.launcher.daemon.protocol.BuildStarted@1e461e41 from daemon DaemonInfo{pid=2600, address=[07c5c185-c6c0-4f85-954b-e63a31077844 port:63360, addresses:[/127.0.0.1, /0:0:0:0:0:0:0:1]], state=Busy, lastBusy=1483472822847, context=DefaultDaemonContext[uid=cdb1e609-77a2-47a0-a0a1-befc7eba47d6,javaHome=C:\Program Files\Java\jdk1.8.0_51,daemonRegistryDir=C:\Users\Carlos\.gradle\daemon,pid=2600,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=windows-1252,-Duser.country=ES,-Duser.language=es,-Duser.variant]} (build should be starting).
+The client will now receive all logging from the daemon (pid: 2600). The daemon log file: C:\Users\Carlos\.gradle\daemon\3.2.1\daemon-2600.out.log
+Starting build in new daemon [memory: 954,7 MB]
+Executing build with daemon context: DefaultDaemonContext[uid=cdb1e609-77a2-47a0-a0a1-befc7eba47d6,javaHome=C:\Program Files\Java\jdk1.8.0_51,daemonRegistryDir=C:\Users\Carlos\.gradle\daemon,pid=2600,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=windows-1252,-Duser.country=ES,-Duser.language=es,-Duser.variant]
+Starting Build
+Settings evaluated using settings file 'C:\projects\talestrakt\settings.gradle'.
+Projects loaded. Root project using build file 'C:\projects\talestrakt\build.gradle'.
+Included projects: [root project 'talestrakt', project ':criminalgirls', project ':dividead', project ':edelweiss', project ':engines/ethornell', project ':hanabira', project ':rhcommon', project ':shny', project ':tales', project ':toa', project ':tod', project ':toe', project ':tov', project ':vnovel', project ':yume']
+Evaluating root project 'talestrakt' using build file 'C:\projects\talestrakt\build.gradle'.
+Evaluating project ':criminalgirls' using build file 'C:\projects\talestrakt\criminalgirls\build.gradle'.
+Evaluating project ':dividead' using build file 'C:\projects\talestrakt\dividead\build.gradle'.
+Compiling build file 'C:\projects\talestrakt\dividead\build.gradle' using SubsetScriptTransformer.
+Compiling build file 'C:\projects\talestrakt\dividead\build.gradle' using BuildScriptTransformer.
+JTranscPlugin.apply
+com.jtransc.gradle.tasks.JTranscGradleRunTask
+com.jtransc.gradle.tasks.JTranscGradleRunTask
+Evaluating project ':edelweiss' using build file 'C:\projects\talestrakt\edelweiss\build.gradle'.
+Evaluating project ':engines/ethornell' using build file 'C:\projects\talestrakt\engines\ethornell\build.gradle'.
+Evaluating project ':hanabira' using build file 'C:\projects\talestrakt\hanabira\build.gradle'.
+Evaluating project ':rhcommon' using build file 'C:\projects\talestrakt\rhcommon\build.gradle'.
+Evaluating project ':shny' using build file 'C:\projects\talestrakt\shny\build.gradle'.
+Evaluating project ':tales' using build file 'C:\projects\talestrakt\tales\build.gradle'.
+Evaluating project ':toa' using build file 'C:\projects\talestrakt\toa\build.gradle'.
+Evaluating project ':tod' using build file 'C:\projects\talestrakt\tod\build.gradle'.
+Evaluating project ':toe' using build file 'C:\projects\talestrakt\toe\build.gradle'.
+Evaluating project ':tov' using build file 'C:\projects\talestrakt\tov\build.gradle'.
+Evaluating project ':vnovel' using build file 'C:\projects\talestrakt\vnovel\build.gradle'.
+Evaluating project ':yume' using build file 'C:\projects\talestrakt\yume\build.gradle'.
+JTranscPlugin.apply
+com.jtransc.gradle.tasks.JTranscGradleRunTask
+com.jtransc.gradle.tasks.JTranscGradleRunTask
+All projects evaluated.
+Selected primary task 'dividead:distJs' from project :dividead
+Tasks to be executed: [task ':rhcommon:compileKotlin', task ':rhcommon:compileJava', task ':rhcommon:copyMainKotlinClasses', task ':rhcommon:processResources', task ':rhcommon:classes', task ':rhcommon:jar', task ':vnovel:compileKotlin', task ':vnovel:compileJava', task ':vnovel:copyMainKotlinClasses', task ':vnovel:processResources', task ':vnovel:classes', task ':vnovel:jar', task ':dividead:compileKotlin', task ':dividead:compileJava', task ':dividead:copyMainKotlinClasses', task ':dividead:processResources', task ':dividead:classes', task ':dividead:jar', task ':dividead:startScripts', task ':dividead:distTar', task ':dividead:distZip', task ':dividead:assemble', task ':dividead:check', task ':dividead:build', task ':dividead:distJs']
+:rhcommon:compileKotlin (Thread[Daemon worker,5,main]) started.
+:rhcommon:compileKotlin
+Putting task artifact state for task ':rhcommon:compileKotlin' into context took 0.011 secs.
+Task :rhcommon:compileKotlin class loader hash: 8d721e11e2e1832fd5b99304446e0cff
+Task :rhcommon:compileKotlin actions class loader hash: d9c2c7a661162b18863f0fd719c68130
+Executing task ':rhcommon:compileKotlin' (up-to-date check took 0.055 secs) due to:
+  Input property 'classpath' file C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar has changed.
+Using experimental kotlin incremental compilation
+Connected to daemon
+w: The '-d' option with a directory destination is ignored because '-module' is specified
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (23, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (23, 59): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (40, 5): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (40, 53): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (50, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (54, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (54, 88): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (70, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (70, 80): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (82, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (82, 55): The corresponding parameter in the supertype 'AsyncStreamBase' is named 'buffer'. This may cause problems when calling this function with named arguments.
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (82, 86): The corresponding parameter in the supertype 'AsyncStreamBase' is named 'len'. This may cause problems when calling this function with named arguments.
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (82, 105): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\compression\CSO.kt: (96, 1): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\GIM.kt: (71, 21): Variable 'unk0' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\GIM.kt: (73, 21): Variable 'unk1' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\GIM.kt: (74, 21): Variable 'unk2' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\TIM.kt: (31, 17): Variable 'paloffset' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\TIM.kt: (32, 17): Variable 'palX' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\TIM.kt: (33, 17): Variable 'palY' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\TIM.kt: (39, 13): Variable 'imgoffset' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\TIM.kt: (40, 13): Variable 'imgX' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\imaging\format\TIM.kt: (41, 13): Variable 'imgY' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\inject\AsyncInjector.kt: (14, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\inject\AsyncInjector.kt: (28, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\inject\AsyncInjector.kt: (28, 51): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\inject\AsyncInjector.kt: (41, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\inject\AsyncInjector.kt: (41, 51): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\inject\AsyncInjector.kt: (62, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (12, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (13, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (16, 1): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (16, 60): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (17, 1): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (18, 1): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (18, 57): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (20, 1): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\io\PackageReader.kt: (20, 64): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\lang\AsyncCacheItem.kt: (7, 42): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\lang\AsyncCacheItem.kt: (11, 5): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\lang\AsyncCacheItem.kt: (11, 25): The feature is experimental: coroutines
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\text\StringExt.kt: (3, 13): Parameter 'separator' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\text\StringExt.kt: (3, 32): Parameter 'subject' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\text\StringExt.kt: (3, 49): Parameter 'max' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\time\time.kt: (87, 47): Parameter 'stringDate' is never used
+w: C:\projects\talestrakt\rhcommon\src\com\talestra\rhcommon\time\timer.kt: (9, 2): The feature is experimental: coroutines
+Connected to daemon
+:rhcommon:compileKotlin (Thread[Daemon worker,5,main]) completed. Took 1.53 secs.
+:rhcommon:compileJava (Thread[Daemon worker,5,main]) started.
+:rhcommon:compileJava
+Marking task ':rhcommon:compileJava' out of date, because kotlin classes are changed
+Putting task artifact state for task ':rhcommon:compileJava' into context took 0.004 secs.
+Skipping task ':rhcommon:compileJava' as it has no source files and no previous output files.
+:rhcommon:compileJava UP-TO-DATE
+:rhcommon:compileJava (Thread[Daemon worker,5,main]) completed. Took 0.007 secs.
+:rhcommon:copyMainKotlinClasses (Thread[Daemon worker,5,main]) started.
+:rhcommon:copyMainKotlinClasses
+Putting task artifact state for task ':rhcommon:copyMainKotlinClasses' into context took 0.005 secs.
+Task :rhcommon:copyMainKotlinClasses class loader hash: 8d721e11e2e1832fd5b99304446e0cff
+Task :rhcommon:copyMainKotlinClasses actions class loader hash: d9c2c7a661162b18863f0fd719c68130
+Skipping task ':rhcommon:copyMainKotlinClasses' as it is up-to-date (took 0.014 secs).
+:rhcommon:copyMainKotlinClasses UP-TO-DATE
+:rhcommon:copyMainKotlinClasses (Thread[Daemon worker,5,main]) completed. Took 0.023 secs.
+:rhcommon:processResources (Thread[Daemon worker,5,main]) started.
+:rhcommon:processResources
+Putting task artifact state for task ':rhcommon:processResources' into context took 0.001 secs.
+file or directory 'C:\projects\talestrakt\rhcommon\resources', not found
+file or directory 'C:\projects\talestrakt\rhcommon\assets', not found
+Skipping task ':rhcommon:processResources' as it has no source files and no previous output files.
+:rhcommon:processResources UP-TO-DATE
+:rhcommon:processResources (Thread[Daemon worker,5,main]) completed. Took 0.002 secs.
+:rhcommon:classes (Thread[Daemon worker,5,main]) started.
+:rhcommon:classes
+Skipping task ':rhcommon:classes' as it has no actions.
+:rhcommon:classes UP-TO-DATE
+:rhcommon:classes (Thread[Daemon worker,5,main]) completed. Took 0.001 secs.
+:rhcommon:jar (Thread[Daemon worker,5,main]) started.
+:rhcommon:jar
+Putting task artifact state for task ':rhcommon:jar' into context took 0.002 secs.
+Task :rhcommon:jar class loader hash: 83f3637f6805a7b149525a93c5faad58
+Task :rhcommon:jar actions class loader hash: fde60ab3b9776111ebd9bf87f24df716
+Skipping task ':rhcommon:jar' as it is up-to-date (took 0.012 secs).
+:rhcommon:jar UP-TO-DATE
+:rhcommon:jar (Thread[Daemon worker,5,main]) completed. Took 0.016 secs.
+:vnovel:compileKotlin (Thread[Daemon worker,5,main]) started.
+:vnovel:compileKotlin
+Putting task artifact state for task ':vnovel:compileKotlin' into context took 0.001 secs.
+Task :vnovel:compileKotlin class loader hash: 8d721e11e2e1832fd5b99304446e0cff
+Task :vnovel:compileKotlin actions class loader hash: d9c2c7a661162b18863f0fd719c68130
+Executing task ':vnovel:compileKotlin' (up-to-date check took 0.008 secs) due to:
+  Input property 'classpath' file C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar has changed.
+Using experimental kotlin incremental compilation
+Connected to daemon
+w: The '-d' option with a directory destination is ignored because '-module' is specified
+Connected to daemon
+:vnovel:compileKotlin (Thread[Daemon worker,5,main]) completed. Took 0.135 secs.
+:vnovel:compileJava (Thread[Daemon worker,5,main]) started.
+:vnovel:compileJava
+Marking task ':vnovel:compileJava' out of date, because kotlin classes are changed
+Putting task artifact state for task ':vnovel:compileJava' into context took 0.001 secs.
+Skipping task ':vnovel:compileJava' as it has no source files and no previous output files.
+:vnovel:compileJava UP-TO-DATE
+:vnovel:compileJava (Thread[Daemon worker,5,main]) completed. Took 0.002 secs.
+:vnovel:copyMainKotlinClasses (Thread[Daemon worker,5,main]) started.
+:vnovel:copyMainKotlinClasses
+Putting task artifact state for task ':vnovel:copyMainKotlinClasses' into context took 0.001 secs.
+Task :vnovel:copyMainKotlinClasses class loader hash: 8d721e11e2e1832fd5b99304446e0cff
+Task :vnovel:copyMainKotlinClasses actions class loader hash: d9c2c7a661162b18863f0fd719c68130
+Skipping task ':vnovel:copyMainKotlinClasses' as it is up-to-date (took 0.001 secs).
+:vnovel:copyMainKotlinClasses UP-TO-DATE
+:vnovel:copyMainKotlinClasses (Thread[Daemon worker,5,main]) completed. Took 0.003 secs.
+:vnovel:processResources (Thread[Daemon worker,5,main]) started.
+:vnovel:processResources
+Putting task artifact state for task ':vnovel:processResources' into context took 0.0 secs.
+file or directory 'C:\projects\talestrakt\vnovel\resources', not found
+file or directory 'C:\projects\talestrakt\vnovel\assets', not found
+Skipping task ':vnovel:processResources' as it has no source files and no previous output files.
+:vnovel:processResources UP-TO-DATE
+:vnovel:processResources (Thread[Daemon worker,5,main]) completed. Took 0.001 secs.
+:vnovel:classes (Thread[Daemon worker,5,main]) started.
+:vnovel:classes
+Skipping task ':vnovel:classes' as it has no actions.
+:vnovel:classes UP-TO-DATE
+:vnovel:classes (Thread[Daemon worker,5,main]) completed. Took 0.0 secs.
+:vnovel:jar (Thread[Daemon worker,5,main]) started.
+:vnovel:jar
+Putting task artifact state for task ':vnovel:jar' into context took 0.001 secs.
+Task :vnovel:jar class loader hash: 83f3637f6805a7b149525a93c5faad58
+Task :vnovel:jar actions class loader hash: fde60ab3b9776111ebd9bf87f24df716
+Skipping task ':vnovel:jar' as it is up-to-date (took 0.002 secs).
+:vnovel:jar UP-TO-DATE
+:vnovel:jar (Thread[Daemon worker,5,main]) completed. Took 0.005 secs.
+:dividead:compileKotlin (Thread[Daemon worker,5,main]) started.
+:dividead:compileKotlin
+Putting task artifact state for task ':dividead:compileKotlin' into context took 0.001 secs.
+Task :dividead:compileKotlin class loader hash: 8d721e11e2e1832fd5b99304446e0cff
+Task :dividead:compileKotlin actions class loader hash: d9c2c7a661162b18863f0fd719c68130
+Executing task ':dividead:compileKotlin' (up-to-date check took 0.016 secs) due to:
+  Input property 'classpath' file C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar has changed.
+Using experimental kotlin incremental compilation
+Connected to daemon
+w: The '-d' option with a directory destination is ignored because '-module' is specified
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DL1.kt: (12, 11): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DL1.kt: (12, 55): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DL1.kt: (16, 7): Variable 'padding' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DL1.kt: (35, 11): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DL1.kt: (35, 68): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DL1.kt: (50, 1): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DL1.kt: (51, 1): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DL1.kt: (51, 35): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DecryptIfRequired.kt: (35, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DecryptIfRequired.kt: (36, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\DecryptIfRequired.kt: (36, 76): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\LZ.kt: (18, 7): Variable 'compressedSize' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Input.kt: (12, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Input.kt: (12, 38): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Input.kt: (17, 4): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (28, 55): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (38, 17): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (48, 5): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (53, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (53, 38): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (57, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (57, 51): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (68, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (68, 28): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (72, 7): Variable 'WV' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (82, 19): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (87, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (87, 51): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (96, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (96, 61): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (103, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (103, 83): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (107, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (111, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (117, 13): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (117, 48): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (127, 4): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Play.kt: (127, 38): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (109, 12): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (109, 60): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (121, 12): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (121, 82): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (127, 9): Name shadowed: color
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (128, 9): Name shadowed: mask
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (136, 12): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (143, 12): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (147, 12): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (147, 47): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (183, 12): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (183, 50): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (188, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (188, 23): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (209, 15): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (212, 18): Parameter 'x' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\PlaySwing.kt: (212, 21): Parameter 'y' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Renderer.kt: (4, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Renderer.kt: (7, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Renderer.kt: (10, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Renderer.kt: (13, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Renderer.kt: (16, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Script.kt: (15, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Script.kt: (18, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\Script.kt: (18, 53): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (20, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (20, 32): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (27, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (27, 35): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (61, 35): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (61, 74): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (69, 35): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (69, 74): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (74, 35): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (74, 74): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (79, 32): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (79, 52): Parameter 'type' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (79, 65): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (84, 35): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (84, 58): Parameter 'type' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (84, 71): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (89, 29): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (89, 62): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (117, 36): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (117, 64): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (122, 38): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (122, 68): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (126, 31): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (126, 66): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (136, 31): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (136, 82): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (137, 7): Variable 'name1Color' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (138, 7): Variable 'name1Mask' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (140, 7): Variable 'name2Color' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (141, 7): Variable 'name2Mask' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (151, 31): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (151, 66): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (164, 40): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\play\ScriptEvaluator.kt: (164, 72): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (16, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (16, 62): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (26, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (26, 74): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (37, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (37, 73): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (52, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (52, 51): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (57, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (57, 107): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (79, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (79, 27): Parameter 'fps' is never used
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (79, 72): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (97, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (97, 80): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (103, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (103, 55): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (114, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (114, 72): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (127, 2): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (127, 73): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\remaster\Remaster.kt: (141, 45): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\util\utils.kt: (10, 33): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\util\utils.kt: (16, 1): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\util\utils.kt: (16, 55): The feature is experimental: coroutines
+w: C:\projects\talestrakt\dividead\src\com\talestra\dividead\util\utils.kt: (18, 7): Name shadowed: file
+Connected to daemon
+:dividead:compileKotlin (Thread[Daemon worker,5,main]) completed. Took 1.298 secs.
+:dividead:compileJava (Thread[Daemon worker,5,main]) started.
+:dividead:compileJava
+Marking task ':dividead:compileJava' out of date, because kotlin classes are changed
+Putting task artifact state for task ':dividead:compileJava' into context took 0.002 secs.
+Skipping task ':dividead:compileJava' as it has no source files and no previous output files.
+:dividead:compileJava UP-TO-DATE
+:dividead:compileJava (Thread[Daemon worker,5,main]) completed. Took 0.005 secs.
+:dividead:copyMainKotlinClasses (Thread[Daemon worker,5,main]) started.
+:dividead:copyMainKotlinClasses
+Putting task artifact state for task ':dividead:copyMainKotlinClasses' into context took 0.005 secs.
+Task :dividead:copyMainKotlinClasses class loader hash: 8d721e11e2e1832fd5b99304446e0cff
+Task :dividead:copyMainKotlinClasses actions class loader hash: d9c2c7a661162b18863f0fd719c68130
+Skipping task ':dividead:copyMainKotlinClasses' as it is up-to-date (took 0.015 secs).
+:dividead:copyMainKotlinClasses UP-TO-DATE
+:dividead:copyMainKotlinClasses (Thread[Daemon worker,5,main]) completed. Took 0.025 secs.
+:dividead:processResources (Thread[Daemon worker,5,main]) started.
+:dividead:processResources
+Putting task artifact state for task ':dividead:processResources' into context took 0.001 secs.
+Task :dividead:processResources class loader hash: 83f3637f6805a7b149525a93c5faad58
+Task :dividead:processResources actions class loader hash: fde60ab3b9776111ebd9bf87f24df716
+file or directory 'C:\projects\talestrakt\dividead\assets', not found
+Skipping task ':dividead:processResources' as it is up-to-date (took 0.003 secs).
+:dividead:processResources UP-TO-DATE
+:dividead:processResources (Thread[Daemon worker,5,main]) completed. Took 0.007 secs.
+:dividead:classes (Thread[Daemon worker,5,main]) started.
+:dividead:classes
+Skipping task ':dividead:classes' as it has no actions.
+:dividead:classes UP-TO-DATE
+:dividead:classes (Thread[Daemon worker,5,main]) completed. Took 0.0 secs.
+:dividead:jar (Thread[Daemon worker,5,main]) started.
+:dividead:jar
+Putting task artifact state for task ':dividead:jar' into context took 0.002 secs.
+Task :dividead:jar class loader hash: 83f3637f6805a7b149525a93c5faad58
+Task :dividead:jar actions class loader hash: fde60ab3b9776111ebd9bf87f24df716
+Executing task ':dividead:jar' (up-to-date check took 0.008 secs) due to:
+  Input property 'rootSpec$1' file C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar has changed.
+:dividead:jar (Thread[Daemon worker,5,main]) completed. Took 0.555 secs.
+:dividead:startScripts (Thread[Daemon worker,5,main]) started.
+:dividead:startScripts
+Putting task artifact state for task ':dividead:startScripts' into context took 0.003 secs.
+Task :dividead:startScripts class loader hash: 83f3637f6805a7b149525a93c5faad58
+Task :dividead:startScripts actions class loader hash: d883a18cf154fc57e90f4d3fa9e5588f
+Executing task ':dividead:startScripts' (up-to-date check took 0.005 secs) due to:
+  Input property 'classpath' file C:\projects\talestrakt\dividead\build\libs\dividead-0.0.1-SNAPSHOT.jar has changed.
+  Input property 'classpath' file C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar has changed.
+:dividead:startScripts (Thread[Daemon worker,5,main]) completed. Took 0.095 secs.
+:dividead:distTar (Thread[Daemon worker,5,main]) started.
+:dividead:distTar
+Putting task artifact state for task ':dividead:distTar' into context took 0.004 secs.
+Task :dividead:distTar class loader hash: 7746e3800a8f1bea614c0a3db1ea9efc
+Task :dividead:distTar actions class loader hash: fde60ab3b9776111ebd9bf87f24df716
+Executing task ':dividead:distTar' (up-to-date check took 0.003 secs) due to:
+  Input property 'rootSpec$1$1$1$1$1' file C:\projects\talestrakt\dividead\build\libs\dividead-0.0.1-SNAPSHOT.jar has changed.
+  Input property 'rootSpec$1$1$1$1$1' file C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar has changed.
+:dividead:distTar (Thread[Daemon worker,5,main]) completed. Took 0.055 secs.
+:dividead:distZip (Thread[Daemon worker,5,main]) started.
+:dividead:distZip
+Putting task artifact state for task ':dividead:distZip' into context took 0.005 secs.
+Task :dividead:distZip class loader hash: 7746e3800a8f1bea614c0a3db1ea9efc
+Task :dividead:distZip actions class loader hash: fde60ab3b9776111ebd9bf87f24df716
+Executing task ':dividead:distZip' (up-to-date check took 0.003 secs) due to:
+  Input property 'rootSpec$1$1$1$1$1' file C:\projects\talestrakt\dividead\build\libs\dividead-0.0.1-SNAPSHOT.jar has changed.
+  Input property 'rootSpec$1$1$1$1$1' file C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar has changed.
+:dividead:distZip (Thread[Daemon worker,5,main]) completed. Took 0.269 secs.
+:dividead:assemble (Thread[Daemon worker,5,main]) started.
+:dividead:assemble
+Skipping task ':dividead:assemble' as it has no actions.
+:dividead:assemble (Thread[Daemon worker,5,main]) completed. Took 0.0 secs.
+:dividead:check (Thread[Daemon worker,5,main]) started.
+:dividead:check
+Skipping task ':dividead:check' as it has no actions.
+:dividead:check (Thread[Daemon worker,5,main]) completed. Took 0.001 secs.
+:dividead:build (Thread[Daemon worker,5,main]) started.
+:dividead:build
+Skipping task ':dividead:build' as it has no actions.
+:dividead:build (Thread[Daemon worker,5,main]) completed. Took 0.0 secs.
+:dividead:distJs (Thread[Daemon worker,5,main]) started.
+:dividead:distJs
+Putting task artifact state for task ':dividead:distJs' into context took 0.0 secs.
+Executing task ':dividead:distJs' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+buildWithoutRunning distJs : js
+jtranscRuntime: C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-rt\0.5.5\jtransc-rt-0.5.5.jar
+jtranscRuntime: C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-rt-core\0.5.5\jtransc-rt-core-0.5.5.jar
+jtranscRuntime: C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-annotations\0.5.5\jtransc-annotations-0.5.5.jar
+compile: C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-rt-core\0.5.5\jtransc-rt-core-0.5.5.jar
+compile: C:\Users\Carlos\.m2\repository\com\soywiz\korio\0.3.4-SNAPSHOT\korio-0.3.4-SNAPSHOT.jar
+compile: C:\Users\Carlos\.m2\repository\com\soywiz\korim\0.3.4-SNAPSHOT\korim-0.3.4-SNAPSHOT.jar
+compile: C:\Users\Carlos\.m2\repository\com\soywiz\korui\0.3.4-SNAPSHOT\korui-0.3.4-SNAPSHOT.jar
+compile: C:\Users\Carlos\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1-M04\9812a4e7752261826b812ca6c6ea60dfbb82d4a5\kotlin-stdlib-1.1-M04.jar
+compile: C:\Users\Carlos\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.1-M04\7ded39066190e7a12acb8210800a0913e53e7f62\kotlin-runtime-1.1-M04.jar
+compile: C:\projects\talestrakt\vnovel\build\libs\vnovel-0.0.1-SNAPSHOT.jar
+compile: C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-annotations\0.5.5\jtransc-annotations-0.5.5.jar
+compile: C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-rt-core-kotlin\0.5.5\jtransc-rt-core-kotlin-0.5.5.jar
+compile: C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar
+compile: C:\Users\Carlos\.m2\repository\com\soywiz\korim-core\0.3.4-SNAPSHOT\korim-core-0.3.4-SNAPSHOT.jar
+compile: C:\Users\Carlos\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar
+compile: C:\projects\talestrakt\rhcommon\build\libs\rhcommon-0.0.1-SNAPSHOT.jar
+compile: C:\Users\Carlos\.m2\repository\org\jcodec\jcodec-javase\0.1.9\jcodec-javase-0.1.9.jar
+compile: C:\Users\Carlos\.m2\repository\org\jcodec\jcodec\0.1.9\jcodec-0.1.9.jar
+JTranscTask.jtransc() extension: com.jtransc.gradle.JTranscGradleExtension_Decorated@378faf84
+output classesDir: C:\projects\talestrakt\dividead\build\classes\main
+sourceSet: [source set 'main', source set 'test']
+mainClassName: com.talestra.dividead.play.Play
+JTransc targets exposed as services: [CppTarget, DTarget, JsTarget, HaxeTarget]
+AllBuild.build(): language=JsTarget, subtarget=, entryPoint=com.talestra.dividead.play.Play, output=C:\projects\talestrakt\dividead\build\program.js, targetDirectory=C:\projects\talestrakt\dividead\build, plugins=[ExtraLangJTranscPlugin, ServiceLoaderJTranscPlugin, JnaJTranscPlugin, EnumJTranscPlugin, IncludeSingleConstructorsJTranscPlugin, ProxyJTranscPlugin, MetaReflectionJTranscPlugin]
+Generating AST...
+classPaths.add("C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-rt\0.5.5\jtransc-rt-0.5.5.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-rt-core\0.5.5\jtransc-rt-core-0.5.5.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-annotations\0.5.5\jtransc-annotations-0.5.5.jar")
+classPaths.add("C:\projects\talestrakt\dividead\build\classes\main")
+classPaths.add("C:\Users\Carlos\.m2\repository\com\soywiz\korio\0.3.4-SNAPSHOT\korio-0.3.4-SNAPSHOT.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\com\soywiz\korim\0.3.4-SNAPSHOT\korim-0.3.4-SNAPSHOT.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\com\soywiz\korui\0.3.4-SNAPSHOT\korui-0.3.4-SNAPSHOT.jar")
+classPaths.add("C:\Users\Carlos\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1-M04\9812a4e7752261826b812ca6c6ea60dfbb82d4a5\kotlin-stdlib-1.1-M04.jar")
+classPaths.add("C:\Users\Carlos\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.1-M04\7ded39066190e7a12acb8210800a0913e53e7f62\kotlin-runtime-1.1-M04.jar")
+classPaths.add("C:\projects\talestrakt\vnovel\build\libs\vnovel-0.0.1-SNAPSHOT.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\com\jtransc\jtransc-rt-core-kotlin\0.5.5\jtransc-rt-core-kotlin-0.5.5.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\com\soywiz\korio-core\0.3.4-SNAPSHOT\korio-core-0.3.4-SNAPSHOT.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\com\soywiz\korim-core\0.3.4-SNAPSHOT\korim-core-0.3.4-SNAPSHOT.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar")
+classPaths.add("C:\projects\talestrakt\rhcommon\build\libs\rhcommon-0.0.1-SNAPSHOT.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\org\jcodec\jcodec-javase\0.1.9\jcodec-javase-0.1.9.jar")
+classPaths.add("C:\Users\Carlos\.m2\repository\org\jcodec\jcodec\0.1.9\jcodec-0.1.9.jar")
+classPaths.add("C:\projects\talestrakt\dividead\resources")
+classPaths.add("C:\projects\talestrakt\dividead\assets")
+Processing classes...
+Detected service not included for TargetName(name=js): com.soywiz.korio.async.EventLoop with implementations com.soywiz.korio.async.EventLoopJvm for targets [java]
+Detected service: com.soywiz.korio.async.EventLoop with implementations com.soywiz.korio.async.EventLoopJs for targets [js]
+Detected service not included for TargetName(name=js): com.soywiz.korio.vfs.LocalVfsProvider with implementations com.soywiz.korio.vfs.jvm.LocalVfsProviderJvm for targets [java]
+Detected service: com.soywiz.korio.vfs.LocalVfsProvider with implementations com.soywiz.korio.vfs.js.LocalVfsProviderJs for targets [js]
+Detected service not included for TargetName(name=js): com.soywiz.korio.vfs.UrlVfsProvider with implementations com.soywiz.korio.vfs.jvm.UrlVfsProviderJvm for targets [java]
+Detected service: com.soywiz.korio.vfs.UrlVfsProvider with implementations com.soywiz.korio.vfs.js.UrlVfsProviderJs for targets [js]
+Detected service not included for TargetName(name=js): com.soywiz.korio.vfs.ResourcesVfsProvider with implementations com.soywiz.korio.vfs.jvm.ResourcesVfsProviderJvm for targets [java]
+Detected service: com.soywiz.korio.vfs.ResourcesVfsProvider with implementations com.soywiz.korio.vfs.js.ResourcesVfsProviderJs for targets [js]
+Detected service not included for TargetName(name=js): com.soywiz.korim.font.NativeFontProvider with implementations com.soywiz.korim.awt.AwtFontProvider for targets [java]
+Detected service: com.soywiz.korim.font.NativeFontProvider with implementations com.soywiz.korim.html.HtmlFontProvider for targets [js]
+Detected service not included for TargetName(name=js): com.soywiz.korim.format.NativeImageFormatProvider with implementations com.soywiz.korim.awt.AwtNativeImageFormatProvider for targets [java]
+Detected service: com.soywiz.korim.format.NativeImageFormatProvider with implementations com.soywiz.korim.html.BrowserNativeImageFormatProvider for targets [js]
+Discovered used service: com.soywiz.korio.async.EventLoop with impls [com.soywiz.korio.async.EventLoopJs]
+Discovered used service: com.soywiz.korim.format.NativeImageFormatProvider with impls [com.soywiz.korim.html.BrowserNativeImageFormatProvider]
+Discovered used service: com.soywiz.korio.vfs.ResourcesVfsProvider with impls [com.soywiz.korio.vfs.js.ResourcesVfsProviderJs]
+Discovered used service: com.soywiz.korio.vfs.LocalVfsProvider with impls [com.soywiz.korio.vfs.js.LocalVfsProviderJs]
+Ok classes=1540, methods=14813, time=2324
+Ok (2354)
+Preparing generator...
+Ok(23)
+Building source...
+copyTreeTo #merged# -> C:/projects/talestrakt/dividead/build/jtransc-js
+copyTreeTo C:/projects/talestrakt/dividead/resources/dividead -> C:/projects/talestrakt/dividead/build/jtransc-js/dividead
+copyTreeTo C:/projects/talestrakt/dividead/resources/dividead/icon.png -> C:/projects/talestrakt/dividead/build/jtransc-js/dividead/icon.png
+copyTreeTo C:/projects/talestrakt/dividead/resources/dividead/icon1.png -> C:/projects/talestrakt/dividead/build/jtransc-js/dividead/icon1.png
+copyTreeTo C:/projects/talestrakt/dividead/resources/index.html -> C:/projects/talestrakt/dividead/build/jtransc-js/index.html
+CLASS SIZE: kotlin.Function : 292
+CLASS SIZE: java.io.Closeable : 311
+CLASS SIZE: java.lang.Runnable : 313
+CLASS SIZE: kotlin.SinceKotlin : 318
+CLASS SIZE: kotlin.jvm.JvmName : 318
+CLASS SIZE: java.lang.Cloneable : 320
+CLASS SIZE: kotlin.jvm.JvmField : 325
+CLASS SIZE: kotlin.PublishedApi : 325
+CLASS SIZE: java.lang.Comparable : 327
+CLASS SIZE: java.io.Serializable : 327
+CLASS SIZE: java.util.Enumeration : 334
+CLASS SIZE: java.lang.SafeVarargs : 339
+CLASS SIZE: java.lang.reflect.Type : 341
+CLASS SIZE: java.util.RandomAccess : 341
+CLASS SIZE: java.lang.AutoCloseable : 348
+CLASS SIZE: com.jtransc.js.JsDynamic : 355
+CLASS SIZE: java.util.HashMap$1 : 361
+CLASS SIZE: kotlin.reflect.KProperty : 365
+CLASS SIZE: kotlin.reflect.KClassifier : 369
+CLASS SIZE: kotlin.reflect.KFunction : 370
+CLASS SIZE: java.util.Hashtable$1 : 377
+CLASS SIZE: java.util.concurrent.Executor : 390
+CLASS SIZE: java.lang.FunctionalInterface : 395
+CLASS SIZE: kotlin.jvm.functions.Function4 : 402
+CLASS SIZE: kotlin.jvm.functions.Function5 : 402
+CLASS SIZE: kotlin.jvm.functions.Function6 : 402
+CLASS SIZE: kotlin.jvm.functions.Function8 : 402
+CLASS SIZE: kotlin.jvm.functions.Function9 : 402
+CLASS SIZE: kotlin.jvm.functions.Function7 : 402
+CLASS SIZE: java.lang.annotation.Annotation : 404
+CLASS SIZE: java.net.URLClassLoader : 408
+CLASS SIZE: kotlin.jvm.functions.Function14 : 409
+CLASS SIZE: java.lang.annotation.Repeatable : 409
+CLASS SIZE: kotlin.jvm.functions.Function13 : 409
+CLASS SIZE: kotlin.jvm.functions.Function18 : 409
+CLASS SIZE: kotlin.jvm.functions.Function16 : 409
+CLASS SIZE: kotlin.jvm.functions.Function21 : 409
+CLASS SIZE: kotlin.jvm.functions.Function12 : 409
+CLASS SIZE: kotlin.jvm.functions.Function10 : 409
+CLASS SIZE: java.util.LinkedHashMap$1 : 409
+CLASS SIZE: kotlin.jvm.functions.Function15 : 409
+CLASS SIZE: kotlin.jvm.functions.Function17 : 409
+CLASS SIZE: kotlin.jvm.functions.Function22 : 409
+CLASS SIZE: kotlin.jvm.functions.Function11 : 409
+CLASS SIZE: kotlin.jvm.functions.Function19 : 409
+CLASS SIZE: kotlin.jvm.functions.Function20 : 409
+CLASS SIZE: java.io.Flushable : 411
+CLASS SIZE: kotlin.reflect.KAnnotatedElement : 411
+CLASS SIZE: com.soywiz.korui.light.LightEvent : 418
+CLASS SIZE: kotlin.reflect.KProperty$Accessor : 418
+CLASS SIZE: kotlin.reflect.KProperty$Getter : 429
+CLASS SIZE: org.jetbrains.annotations.Nullable : 430
+CLASS SIZE: com.jtransc.annotation.JTranscKeep : 430
+CLASS SIZE: java.util.zip.DataFormatException : 436
+CLASS SIZE: java.lang.reflect.ParameterizedType : 437
+CLASS SIZE: kotlin.reflect.KDeclarationContainer : 439
+CLASS SIZE: java.lang.NoSuchFieldException : 439
+CLASS SIZE: java.util.concurrent.ExecutorService : 444
+CLASS SIZE: com.jtransc.annotation.JTranscInline : 444
+CLASS SIZE: java.lang.reflect.GenericDeclaration : 444
+CLASS SIZE: java.lang.Iterable : 445
+CLASS SIZE: com.jtransc.annotation.JTranscAddFile : 451
+CLASS SIZE: com.jtransc.annotation.JTranscVisible : 451
+CLASS SIZE: com.soywiz.korio.stream.AsyncBaseStream : 460
+CLASS SIZE: com.jtransc.annotation.JTranscInvisible : 465
+CLASS SIZE: com.soywiz.korio.stream.SyncOutputStream : 467
+CLASS SIZE: com.jtransc.annotation.JTranscAddMembers : 472
+CLASS SIZE: com.jtransc.annotation.JTranscMethodBody : 472
+CLASS SIZE: com.jtransc.annotation.JTranscNativeName : 472
+CLASS SIZE: java.lang.Thread$UncaughtExceptionHandler : 474
+CLASS SIZE: kotlin.jvm.internal.markers.KMappedMarker : 474
+CLASS SIZE: java.util.Comparator : 478
+CLASS SIZE: com.soywiz.korio.stream.AsyncOutputStream : 479
+CLASS SIZE: com.jtransc.annotation.JTranscAddFileList : 479
+CLASS SIZE: com.soywiz.korio.stream.SyncRAOutputStream : 481
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeMethodBody : 486
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeAddMembers : 486
+CLASS SIZE: kotlin.ranges.ClosedRange : 487
+CLASS SIZE: com.soywiz.korio.stream.AsyncRAOutputStream : 488
+CLASS SIZE: kotlin.Lazy : 489
+CLASS SIZE: com.jtransc.annotation.JTranscMethodBodyList : 500
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeAddSubtarget : 500
+CLASS SIZE: java.io.EOFException : 504
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeMethodBodyPre : 507
+CLASS SIZE: kotlin.sequences.Sequence : 508
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeMethodBodyList : 514
+CLASS SIZE: java.util.function.Supplier : 514
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeNativeConversion : 528
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeAddSubtargetList : 528
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeAddFilesTemplate : 528
+CLASS SIZE: java.util.Queue : 536
+CLASS SIZE: kotlin.jvm.functions.Function0 : 552
+CLASS SIZE: com.soywiz.korui.style.Styled : 554
+CLASS SIZE: java.util.Collections$2 : 555
+CLASS SIZE: kotlin.jvm.internal.FunctionImpl : 562
+CLASS SIZE: kotlin.jvm.functions.Function1 : 570
+CLASS SIZE: java.lang.AbstractMethodError : 572
+CLASS SIZE: com.talestra.dividead.AB$Action : 576
+CLASS SIZE: java.lang.OutOfMemoryError : 585
+CLASS SIZE: kotlin.jvm.functions.Function2 : 588
+CLASS SIZE: kotlin.TuplesKt : 589
+CLASS SIZE: com.soywiz.korio.vfs.UrlVfsProvider : 600
+CLASS SIZE: java.lang.ref.ReferenceQueue : 600
+CLASS SIZE: kotlin.reflect.KClass : 601
+CLASS SIZE: kotlin.TypeCastException : 603
+CLASS SIZE: kotlin.jvm.functions.Function3 : 606
+CLASS SIZE: java.nio.internal.MemoryBlock : 610
+CLASS SIZE: com.soywiz.korio.stream.SyncInputStream : 611
+CLASS SIZE: kotlin.reflect.KProperty0$Getter : 615
+CLASS SIZE: kotlin.reflect.KProperty1$Getter : 615
+CLASS SIZE: com.soywiz.korio.vfs.LocalVfsProvider : 618
+CLASS SIZE: java.lang.Appendable : 620
+CLASS SIZE: com.soywiz.korio.stream.SyncLengthStream : 626
+CLASS SIZE: java.lang.ClassCastException : 630
+CLASS SIZE: com.soywiz.korio.stream.SyncRAInputStream : 630
+CLASS SIZE: kotlin.text.StringsKt__IndentKt : 630
+CLASS SIZE: com.soywiz.korio.util.AsyncCloseable : 631
+CLASS SIZE: kotlin.ranges.RangesKt__RangesKt : 640
+CLASS SIZE: com.jtransc.JTranscBits : 640
+CLASS SIZE: java.lang.CloneNotSupportedException : 643
+CLASS SIZE: kotlin.KotlinNullPointerException : 648
+CLASS SIZE: java.lang._ClassInternalUtils$1 : 650
+CLASS SIZE: kotlin.reflect.KCallable : 653
+CLASS SIZE: kotlin.collections.MapsKt___MapsKt : 653
+CLASS SIZE: java.util.Iterator : 655
+CLASS SIZE: java.nio.ReadOnlyBufferException : 657
+CLASS SIZE: kotlin.text.StringsKt___StringsKt : 662
+CLASS SIZE: kotlin.LazyKt : 669
+CLASS SIZE: com.talestra.dividead.play.Renderer : 670
+CLASS SIZE: com.soywiz.korio.stream.AsyncInputStream : 674
+CLASS SIZE: com.jtransc.JTranscVersion : 676
+CLASS SIZE: com.soywiz.korio.vfs.ResourcesVfsProvider : 679
+CLASS SIZE: kotlin.collections.MapsKt__MapsJVMKt : 681
+CLASS SIZE: kotlin.reflect.KProperty0 : 683
+CLASS SIZE: com.talestra.rhcommon.io.PackageReader : 684
+CLASS SIZE: kotlin.collections.ArraysKt__ArraysKt : 684
+CLASS SIZE: com.soywiz.korio.stream.AsyncRAInputStream : 688
+CLASS SIZE: java.nio.charset.Charset$1 : 689
+CLASS SIZE: java.lang.System$1 : 689
+CLASS SIZE: com.soywiz.korio.stream.AsyncLengthStream : 689
+CLASS SIZE: java.lang.InstantiationException : 690
+CLASS SIZE: kotlin.text.StringsKt__RegexExtensionsKt : 693
+CLASS SIZE: java.lang.reflect.ArrayType : 697
+CLASS SIZE: kotlin.jvm.internal.DispatchedContinuation : 698
+CLASS SIZE: kotlin.reflect.KProperty1 : 701
+CLASS SIZE: kotlin.text.StringsKt__StringBuilderKt : 705
+CLASS SIZE: java.lang.Void : 720
+CLASS SIZE: kotlin.collections.ArraysKt__ArraysJVMKt : 720
+CLASS SIZE: kotlin.text.StringsKt__StringBuilderJVMKt : 725
+CLASS SIZE: kotlin.coroutines.Continuation : 728
+CLASS SIZE: kotlin.sequences.SequencesKt__SequencesKt : 730
+CLASS SIZE: kotlin.jvm.KotlinReflectionNotSupportedError : 731
+CLASS SIZE: java.util.concurrent.CancellationException : 731
+CLASS SIZE: kotlin.jvm.internal.ClassBasedDeclarationContainer : 737
+CLASS SIZE: com.soywiz.korui.geom.len.Length$Fixed : 739
+CLASS SIZE: kotlin.Unit : 740
+CLASS SIZE: kotlin.collections.MapsKt__MapWithDefaultKt : 750
+CLASS SIZE: kotlin.coroutines.Fail : 754
+CLASS SIZE: java.lang.NoSuchMethodException : 756
+CLASS SIZE: com.soywiz.korui.ui.Layout : 758
+CLASS SIZE: kotlin.jvm.internal.DefaultConstructorMarker : 760
+CLASS SIZE: com.jtransc.compression.jzlib.GZIPException : 765
+CLASS SIZE: kotlin.UninitializedPropertyAccessException : 765
+CLASS SIZE: com.soywiz.korui.geom.len.Length$Variable : 766
+CLASS SIZE: kotlin.collections.CollectionsKt__IteratorsKt : 771
+CLASS SIZE: kotlin.jvm.internal.ArrayIteratorsKt : 781
+CLASS SIZE: java.lang.reflect.Member : 787
+CLASS SIZE: kotlin.jvm.internal.ArrayIteratorKt : 788
+CLASS SIZE: java.util.concurrent.SynchronousQueue : 792
+CLASS SIZE: java.io.FileNotFoundException : 797
+CLASS SIZE: com.talestra.rhcommon.lang.InvalidOpKt : 807
+CLASS SIZE: java.util.concurrent.ThreadPoolExecutor : 808
+CLASS SIZE: kotlin.collections.ArraysUtilJVM : 822
+CLASS SIZE: java.util.Map$Entry : 824
+CLASS SIZE: com.soywiz.korio.async.Signal : 829
+CLASS SIZE: java.io.IOException : 830
+CLASS SIZE: kotlin.collections.CollectionsKt__ReversedViewsKt : 835
+CLASS SIZE: java.lang.IllegalStateException : 840
+CLASS SIZE: com.soywiz.korio.vfs.JailVfsKt : 845
+CLASS SIZE: java.util.NoSuchElementException : 851
+CLASS SIZE: kotlin.collections.CollectionsKt__MutableCollectionsKt : 857
+CLASS SIZE: java.lang.reflect.MethodTypeImpl : 860
+CLASS SIZE: java.lang.reflect.InvocationTargetException : 860
+CLASS SIZE: java.util.LinkedList$Link : 864
+CLASS SIZE: java.lang.CharSequence : 866
+CLASS SIZE: java.lang.IllegalArgumentException : 873
+CLASS SIZE: java.lang.SystemInt : 877
+CLASS SIZE: kotlin.jvm.internal.Ref$BooleanRef : 892
+CLASS SIZE: java.lang.ThreadLocal$1 : 893
+CLASS SIZE: kotlin.jvm.internal.Ref$ObjectRef : 896
+CLASS SIZE: java.lang.InternalError : 916
+CLASS SIZE: kotlin.UNINITIALIZED_VALUE : 921
+CLASS SIZE: java.lang.AnnotatedElement : 921
+CLASS SIZE: com.soywiz.korio.async.EventLoopJs$setInterval$1 : 927
+CLASS SIZE: java.lang.UnsupportedOperationException : 928
+CLASS SIZE: com.talestra.dividead.play.Option : 930
+CLASS SIZE: com.jtransc.compression.jzlib.Inflate$Return : 930
+CLASS SIZE: kotlin.coroutines.ContinuationDispatcher : 934
+CLASS SIZE: com.jtransc.internal.JTranscGenericCharset : 938
+CLASS SIZE: com.talestra.dividead.play.Play$startGame$1$renderer$1 : 954
+CLASS SIZE: com.talestra.dividead.play.Play$startGame$1$input$1 : 955
+CLASS SIZE: java.util.ConcurrentModificationException : 956
+CLASS SIZE: java.io.FilterInputStream : 964
+CLASS SIZE: java.util.concurrent.atomic.AtomicReference : 965
+CLASS SIZE: java.nio.charset.UnsupportedCharsetException : 965
+CLASS SIZE: java.lang.ArrayIndexOutOfBoundsException : 971
+CLASS SIZE: java.lang.IndexOutOfBoundsException : 974
+CLASS SIZE: com.jtransc.ds.FastStringMap : 975
+CLASS SIZE: kotlin.jvm.internal.Lambda : 976
+CLASS SIZE: com.soywiz.korio.async.Promise$Companion : 981
+CLASS SIZE: com.soywiz.korio.util.AsyncCache : 981
+CLASS SIZE: com.jtransc.js.JsMethods : 983
+CLASS SIZE: java.lang.ClassLoader : 998
+CLASS SIZE: com.talestra.dividead.DecryptIfRequiredKt : 1005
+CLASS SIZE: com.soywiz.korio.vfs.VfsOpenMode$Companion : 1007
+CLASS SIZE: com.soywiz.korim.bitmap.Bitmap32$Companion : 1007
+CLASS SIZE: java.lang.reflect.AnnotatedElement : 1025
+CLASS SIZE: com.soywiz.korio.vfs.js.UrlVfsProviderJs : 1029
+CLASS SIZE: kotlin.jvm.JvmName$Impl : 1035
+CLASS SIZE: kotlin.SinceKotlin$Impl : 1035
+CLASS SIZE: java.lang.Number : 1038
+CLASS SIZE: com.soywiz.korim.format.NativeImageFormatProvider : 1044
+CLASS SIZE: com.soywiz.korui.light.LightClickEvent : 1049
+CLASS SIZE: kotlin.PublishedApi$Impl : 1050
+CLASS SIZE: kotlin.jvm.JvmField$Impl : 1050
+CLASS SIZE: com.jtransc.compression.jzlib.Checksum : 1054
+CLASS SIZE: com.soywiz.korio.vfs.js.LocalVfsProviderJs : 1055
+CLASS SIZE: com.soywiz.korio.util.ByteArraySlice$Companion : 1059
+CLASS SIZE: kotlin.ranges.IntRange$Companion : 1059
+CLASS SIZE: java.util.concurrent.BlockingQueue : 1072
+CLASS SIZE: java.lang.SafeVarargs$Impl : 1080
+CLASS SIZE: com.soywiz.korui.geom.len.LengthExtKt : 1084
+CLASS SIZE: java.lang.AssertionError : 1089
+CLASS SIZE: java.util.ListIterator : 1095
+CLASS SIZE: java.lang.ref.WeakReference : 1097
+CLASS SIZE: com.soywiz.korui.light.LightResizeEvent : 1099
+CLASS SIZE: java.lang.ref.Reference : 1100
+CLASS SIZE: java.util.Collections$1 : 1100
+CLASS SIZE: java.lang.Error : 1107
+CLASS SIZE: kotlin.NotImplementedError : 1114
+CLASS SIZE: com.talestra.dividead.play.Input : 1123
+CLASS SIZE: java.util.AbstractList$SubAbstractListRandomAccess : 1124
+CLASS SIZE: java.util.AbstractMap$1 : 1148
+CLASS SIZE: java.util.AbstractMap$2 : 1154
+CLASS SIZE: java.util.Collections$EmptySet : 1173
+CLASS SIZE: com.talestra.dividead.AB$Opcode$Companion : 1176
+CLASS SIZE: com.talestra.dividead.play.MapOption : 1186
+CLASS SIZE: com.soywiz.korio.async.Promise$then$1 : 1195
+CLASS SIZE: com.soywiz.korim.format.TGA$Info : 1197
+CLASS SIZE: kotlin.collections.CollectionsKt__IterablesKt : 1199
+CLASS SIZE: java.lang.FunctionalInterface$Impl : 1200
+CLASS SIZE: java.util.Dictionary : 1206
+CLASS SIZE: com.soywiz.korio.util.ThreadLocalKt$sam$Supplier$7e72b406 : 1207
+CLASS SIZE: com.soywiz.korio.async.Promise$then$2 : 1219
+CLASS SIZE: java.lang.annotation.Annotation$Impl : 1225
+CLASS SIZE: java.lang.RuntimeException : 1227
+CLASS SIZE: java.lang.annotation.Repeatable$Impl : 1230
+CLASS SIZE: com.soywiz.korui.geom.len.Length$Companion : 1233
+CLASS SIZE: java.util.AbstractMap$1$1 : 1239
+CLASS SIZE: java.util.AbstractMap$2$1 : 1241
+CLASS SIZE: com.jtransc.JTranscWrapped : 1251
+CLASS SIZE: kotlin.ranges.IntProgression$Companion : 1254
+CLASS SIZE: com.soywiz.korio.vfs.Vfs$root$2 : 1256
+CLASS SIZE: com.soywiz.korio.stream.SyncStreamBase : 1257
+CLASS SIZE: java.lang._ClassInternalUtils : 1260
+CLASS SIZE: java.util.Deque : 1270
+CLASS SIZE: org.jetbrains.annotations.Nullable$Impl : 1275
+CLASS SIZE: com.jtransc.annotation.JTranscKeep$Impl : 1275
+CLASS SIZE: com.soywiz.korio.vfs.js.JsUtilsKt : 1279
+CLASS SIZE: com.jtransc.js.JsBoundedMethod : 1281
+CLASS SIZE: com.soywiz.korim.format.PNG$Colorspace$Companion : 1281
+CLASS SIZE: com.jtransc.annotation.JTranscInline$Impl : 1305
+CLASS SIZE: com.soywiz.korim.bitmap.NativeImage : 1310
+CLASS SIZE: com.jtransc.annotation.JTranscAddFile$Impl : 1320
+CLASS SIZE: com.jtransc.annotation.JTranscVisible$Impl : 1320
+CLASS SIZE: com.soywiz.korio.vfs.PathInfo$extension$2 : 1322
+CLASS SIZE: com.soywiz.korio.vfs.js.BrowserJsUtilsKt : 1322
+CLASS SIZE: java.lang.NullPointerException : 1327
+CLASS SIZE: com.soywiz.korio.vfs.Vfs$Decorator : 1328
+CLASS SIZE: java.util.concurrent.Executors : 1332
+CLASS SIZE: com.soywiz.korio.async.EventLoopJs$setInterval$id$1 : 1335
+CLASS SIZE: java.util.Collections$EmptyList : 1344
+CLASS SIZE: com.jtransc.annotation.JTranscInvisible$Impl : 1350
+CLASS SIZE: com.soywiz.korio.vfs.PathInfo$basename$2 : 1353
+CLASS SIZE: com.talestra.dividead.DL1Kt : 1357
+CLASS SIZE: com.jtransc.annotation.JTranscMethodBody$Impl : 1365
+CLASS SIZE: com.jtransc.annotation.JTranscAddMembers$Impl : 1365
+CLASS SIZE: java.io.OutputStream : 1365
+CLASS SIZE: com.jtransc.annotation.JTranscNativeName$Impl : 1365
+CLASS SIZE: libcore.io.Streams : 1365
+CLASS SIZE: com.jtransc.annotation.JTranscAddFileList$Impl : 1380
+CLASS SIZE: com.soywiz.korio.vfs.VfsNamed$pathInfo$2 : 1381
+CLASS SIZE: com.soywiz.korio.stream.SyncAsyncStreamBase : 1381
+CLASS SIZE: com.soywiz.korio.vfs.MemoryVfsKt : 1382
+CLASS SIZE: java.util.concurrent.BlockingDeque : 1383
+CLASS SIZE: java.lang.ThreadGroup : 1387
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeAddMembers$Impl : 1395
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeMethodBody$Impl : 1395
+CLASS SIZE: java.lang.ReflectiveOperationException : 1407
+CLASS SIZE: com.soywiz.korio.async.Promise$Deferred$toContinuation$1 : 1419
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeAddSubtarget$Impl : 1425
+CLASS SIZE: java.lang.Exception : 1425
+CLASS SIZE: com.jtransc.annotation.JTranscMethodBodyList$Impl : 1425
+CLASS SIZE: java.io.FilterOutputStream : 1426
+CLASS SIZE: com.jtransc.io.JTranscConsole : 1437
+CLASS SIZE: kotlin.sequences.SequencesKt___SequencesKt$asIterable$$inlined$Iterable$1 : 1440
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeMethodBodyPre$Impl : 1440
+CLASS SIZE: com.soywiz.korio.async.EventLoop : 1442
+CLASS SIZE: com.soywiz.korio.async.EmptyContinuation : 1447
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeMethodBodyList$Impl : 1455
+CLASS SIZE: com.soywiz.korui.ApplicationKt$frame$2 : 1467
+CLASS SIZE: com.soywiz.korio.vfs.VfsFile$parent$2 : 1469
+CLASS SIZE: kotlin.text.StringsKt__StringsKt$splitToSequence$2 : 1475
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeNativeConversion$Impl : 1485
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeAddSubtargetList$Impl : 1485
+CLASS SIZE: com.jtransc.annotation.haxe.HaxeAddFilesTemplate$Impl : 1485
+CLASS SIZE: kotlin.collections.IntIterator : 1488
+CLASS SIZE: kotlin.coroutines.CoroutineIntrinsics : 1506
+CLASS SIZE: com.soywiz.korio.async.EventLoop$Companion$main$1 : 1509
+CLASS SIZE: kotlin.jvm.internal.ArrayIntIterator : 1509
+CLASS SIZE: com.soywiz.korio.vfs.VfsFile$absolutePath$2 : 1512
+CLASS SIZE: com.soywiz.korim.color.ColorFormat$Companion : 1513
+CLASS SIZE: j.ClassInfo : 1514
+CLASS SIZE: kotlin.collections.CharIterator : 1516
+CLASS SIZE: com.soywiz.korio.util.UByteArray : 1530
+CLASS SIZE: com.talestra.dividead.play.State : 1532
+CLASS SIZE: java.lang.Enum : 1532
+CLASS SIZE: com.talestra.dividead.UncompressIfRequired$dataStream$2 : 1535
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamBase : 1538
+CLASS SIZE: com.soywiz.korio.async.InvokeSuspendKt : 1538
+CLASS SIZE: java.util.zip.Inflater : 1541
+CLASS SIZE: kotlin.text.CharsKt__CharKt : 1551
+CLASS SIZE: com.soywiz.korio.vfs.ISO$VolumeDescriptorHeader$TypeEnum$Companion : 1551
+CLASS SIZE: com.soywiz.korio.vfs.PathInfo$basenameWithoutExtension$2 : 1561
+CLASS SIZE: com.soywiz.korio.util.OS$isMac$2 : 1604
+CLASS SIZE: com.soywiz.korio.vfs.js.JsStat : 1613
+CLASS SIZE: kotlin.coroutines.SafeContinuation$Companion : 1618
+CLASS SIZE: kotlin.sequences.TransformingSequence : 1637
+CLASS SIZE: java.util.HashMap$Values : 1647
+CLASS SIZE: com.talestra.dividead.AB$Action$Impl : 1652
+CLASS SIZE: kotlin.text.StringsKt__StringsKt$iterator$1 : 1654
+CLASS SIZE: com.soywiz.korim.format.JPEGDecoder$Component : 1656
+CLASS SIZE: com.soywiz.korio.vfs.IsoVfsKt : 1659
+CLASS SIZE: com.soywiz.korio.util.BYTES_TEMPKt$BYTES_TEMP$2 : 1660
+CLASS SIZE: com.soywiz.korui.geom.len.Length$minus$1 : 1666
+CLASS SIZE: com.soywiz.korio.util.threadLocal : 1673
+CLASS SIZE: java.util.Collections$EmptyMap : 1675
+CLASS SIZE: java.util.LinkedHashMap$LinkedEntry : 1682
+CLASS SIZE: com.soywiz.korio.util.OS$isWindows$2 : 1684
+CLASS SIZE: java.util.Set : 1684
+CLASS SIZE: java.util.concurrent.LinkedBlockingDeque : 1685
+CLASS SIZE: com.soywiz.korui.light.html.HtmlLightComponents$dialogOpenFile$1$1$1$1 : 1709
+CLASS SIZE: java.util.Map : 1710
+CLASS SIZE: com.jtransc.internal.JTranscCType : 1711
+CLASS SIZE: com.soywiz.korui.light.html.SelectedFilesVfs$open$1$_read$1$2 : 1731
+CLASS SIZE: com.soywiz.korio.util.OS$isUnix$2 : 1732
+CLASS SIZE: kotlin.jvm.internal.PropertyReference0 : 1739
+CLASS SIZE: com.soywiz.korim.format.ImageFormat : 1747
+CLASS SIZE: com.soywiz.korio.async.Promise$flush$2 : 1756
+CLASS SIZE: com.soywiz.korui.light.LightKt$defaultLight$2 : 1775
+CLASS SIZE: kotlin.jvm.internal.ArrayIterator : 1796
+CLASS SIZE: com.soywiz.korio.async.AsyncKt$workerLazyPool$2 : 1812
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$readRangeBytes$1$1$1 : 1812
+CLASS SIZE: com.soywiz.korim.html.BrowserNativeImageFormatProvider : 1817
+CLASS SIZE: com.jtransc.io.JTranscConsolePrintStream$ConsoleOutputStream : 1837
+CLASS SIZE: com.soywiz.korim.format.PNG$Header$WhenMappings : 1839
+CLASS SIZE: com.talestra.dividead.DL1 : 1843
+CLASS SIZE: com.soywiz.korio.async.Promise$flush$1 : 1872
+CLASS SIZE: kotlin.internal.ProgressionUtilKt : 1880
+CLASS SIZE: java.util.Collection : 1896
+CLASS SIZE: java.lang.reflect.AccessibleObject : 1898
+CLASS SIZE: com.soywiz.korio.vfs.PathInfo$extensionLC$2 : 1899
+CLASS SIZE: com.talestra.dividead.UncompressIfRequired$data$2 : 1912
+CLASS SIZE: com.soywiz.korio.util.StringExtKt : 1941
+CLASS SIZE: java.util.Collections$SingletonList : 1949
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$httpStat$1$2 : 1951
+CLASS SIZE: kotlin.coroutines.CoroutinesLibraryKt$withDispatcher$1 : 1961
+CLASS SIZE: java.util.concurrent.atomic.AtomicInteger : 1974
+CLASS SIZE: com.soywiz.korim.html.BrowserNativeImageFormatProvider$BrowserImage$decodeToCanvas$1$2 : 1976
+CLASS SIZE: kotlin.ranges.RangesKt : 1984
+CLASS SIZE: com.soywiz.korio.util.NumberExtKt : 1985
+CLASS SIZE: kotlin.sequences.TransformingSequence$iterator$1 : 1993
+CLASS SIZE: com.soywiz.korui.ui.Component$onClick$1 : 1994
+CLASS SIZE: kotlin.jvm.internal.PropertyReference0Impl : 1998
+CLASS SIZE: com.soywiz.korim.color.RGBA : 2009
+CLASS SIZE: com.soywiz.korio.async.Promise$Deferred : 2010
+CLASS SIZE: com.soywiz.korui.geom.len.Length$PT : 2015
+CLASS SIZE: com.soywiz.korui.light.html.HtmlLightComponents$dialogOpenFile$1$2 : 2016
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$readRangeBytes$1$2 : 2029
+CLASS SIZE: com.soywiz.korim.html.CanvasNativeImage : 2038
+CLASS SIZE: kotlin.text.DelimitedRangesSequence : 2041
+CLASS SIZE: kotlin.jvm.internal.PropertyReference1 : 2045
+CLASS SIZE: com.soywiz.korio.stream.MemorySyncStreamBase : 2048
+CLASS SIZE: com.soywiz.korio.vfs.js.ResourcesVfsProviderJs : 2056
+CLASS SIZE: kotlin.collections.MapsKt : 2057
+CLASS SIZE: java.lang.IllegalAccessException : 2065
+CLASS SIZE: com.soywiz.korim.color.ColorFormat : 2079
+CLASS SIZE: java.lang.Math : 2084
+CLASS SIZE: kotlin.text.CharsKt__CharJVMKt : 2085
+CLASS SIZE: com.soywiz.korio.util.OS$name$2 : 2098
+CLASS SIZE: com.soywiz.korio.async.EventLoop$Companion$defaultImpl$2 : 2105
+CLASS SIZE: kotlin.ranges.IntProgressionIterator : 2112
+CLASS SIZE: com.soywiz.korui.geom.len.Length$Ratio : 2120
+CLASS SIZE: kotlin.ranges.RangesKt___RangesKt : 2120
+CLASS SIZE: kotlin.jvm.internal.PropertyReference1Impl : 2124
+CLASS SIZE: java.util.HashMap$KeySet : 2139
+CLASS SIZE: com.jtransc.JTranscArrays : 2139
+CLASS SIZE: com.soywiz.korio.util.BYTES_TEMPKt : 2144
+CLASS SIZE: kotlin.collections.MapsKt__MapsKt : 2147
+CLASS SIZE: com.soywiz.korui.geom.len.LengthKt : 2168
+CLASS SIZE: com.soywiz.korio.util.ByteArrayBuffer : 2170
+CLASS SIZE: com.soywiz.korui.ApplicationKt : 2178
+CLASS SIZE: com.soywiz.korui.Application : 2193
+CLASS SIZE: java.util.concurrent.atomic.AtomicReferenceFieldUpdater$1 : 2195
+CLASS SIZE: kotlin.text.StringsKt__StringsKt$rangesDelimitedBy$2 : 2209
+CLASS SIZE: com.soywiz.korui.light.LightKt : 2218
+CLASS SIZE: kotlin.jvm.internal.ReflectionFactory : 2223
+CLASS SIZE: com.soywiz.korim.format.KorioExtKt$nativeImageFormatProviders$2 : 2223
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$httpStat$1$1 : 2248
+CLASS SIZE: java.lang.Short : 2260
+CLASS SIZE: kotlin.collections.EmptyIterator : 2262
+CLASS SIZE: com.jtransc.io.JTranscConsolePrintStream : 2301
+CLASS SIZE: com.soywiz.korui.light.html.HtmlLightComponents$dialogOpenFile$1$1 : 2303
+CLASS SIZE: kotlin.text.StringsKt__StringsKt$rangesDelimitedBy$4 : 2309
+CLASS SIZE: com.soywiz.korio.vfs.PathInfo$folder$2 : 2314
+CLASS SIZE: kotlin.jvm.internal.ClassReference : 2333
+CLASS SIZE: java.nio.ByteOrder : 2353
+CLASS SIZE: java.io.InputStream : 2365
+CLASS SIZE: com.soywiz.korio.vfs.ResourcesVfsKt$ResourcesVfs$2 : 2372
+CLASS SIZE: com.soywiz.korui.light.LightComponents$Companion : 2373
+CLASS SIZE: java.util.Objects : 2378
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$close$1$1 : 2385
+CLASS SIZE: java.lang.reflect.ParameterizedTypeImpl : 2387
+CLASS SIZE: java.util.AbstractQueue : 2401
+CLASS SIZE: com.soywiz.korui.Application$1 : 2402
+CLASS SIZE: java.lang.ThreadLocal : 2404
+CLASS SIZE: java.io.ByteArrayInputStream : 2433
+CLASS SIZE: com.soywiz.korio.util.OS$isLinux$2 : 2459
+CLASS SIZE: com.soywiz.korio.vfs.LocalVfsKt$localVfsProvider$2 : 2488
+CLASS SIZE: com.soywiz.korio.util.ByteArraySlice : 2506
+CLASS SIZE: j.MemberInfo : 2522
+CLASS SIZE: com.soywiz.korio.vfs.JailVfsKt$JailVfs$1 : 2526
+CLASS SIZE: java.util.concurrent.atomic.AtomicReferenceFieldUpdater : 2526
+CLASS SIZE: java.util.HashMap$EntrySet : 2540
+CLASS SIZE: java.util.LinkedHashMap$KeyIterator : 2561
+CLASS SIZE: com.soywiz.korio.vfs.PathInfo$pathWithoutExtension$2 : 2569
+CLASS SIZE: com.soywiz.korio.vfs.VfsNamed : 2577
+CLASS SIZE: java.util.LinkedHashMap$ValueIterator : 2601
+CLASS SIZE: com.soywiz.korim.format.PNG$Header : 2612
+CLASS SIZE: java.util.Hashtable$HashtableEntry : 2620
+CLASS SIZE: java.lang.Object : 2651
+CLASS SIZE: com.soywiz.korio.vfs.ResourcesVfsKt$resourcesVfsProvider$2 : 2660
+CLASS SIZE: java.lang.Float : 2668
+CLASS SIZE: com.soywiz.korui.geom.len.Length : 2685
+CLASS SIZE: java.util.List : 2699
+CLASS SIZE: com.soywiz.korio.vfs.js.BrowserJsUtils$readRangeBytes$1$1 : 2702
+CLASS SIZE: com.soywiz.korio.stream.BufferedStreamBase$CachedEntry : 2719
+CLASS SIZE: java.lang.Byte : 2730
+CLASS SIZE: java.util.LinkedHashMap$EntryIterator : 2743
+CLASS SIZE: com.soywiz.korui.style.Style : 2744
+CLASS SIZE: com.soywiz.korui.light.html.SelectedFilesVfs$open$1$_read$1$1 : 2752
+CLASS SIZE: kotlin.text.Charsets : 2762
+CLASS SIZE: java.io.ObjectStreamField : 2813
+CLASS SIZE: com.soywiz.korio.vfs.js.LocalVfsProviderJs$invoke$1$open$1$1 : 2828
+CLASS SIZE: com.jtransc.compression.jzlib.GZIPHeader : 2849
+CLASS SIZE: com.soywiz.korio.vfs.LocalVfsKt : 2879
+CLASS SIZE: com.soywiz.korui.light.html.HtmlLightComponents$dialogOpenFile$1$1$1 : 2892
+CLASS SIZE: com.soywiz.korio.vfs.js.JsUtils : 2898
+CLASS SIZE: com.jtransc.JTranscSystem : 2903
+CLASS SIZE: com.soywiz.korio.vfs.js.BrowserJsUtils$stat$$inlined$suspendCoroutine$lambda$1 : 2908
+CLASS SIZE: java.lang.ClassNotFoundException : 2911
+CLASS SIZE: kotlin.text.CharsKt : 2913
+CLASS SIZE: com.soywiz.korui.light.LightComponents$setEventHandler$1 : 2914
+CLASS SIZE: java.util.HashMap$KeyIterator : 2922
+CLASS SIZE: com.jtransc.js.JsAssetStat : 2945
+CLASS SIZE: com.jtransc.compression.jzlib.CRC32 : 2952
+CLASS SIZE: com.soywiz.korui.ui.Container : 2955
+CLASS SIZE: java.util.HashMap$ValueIterator : 2964
+CLASS SIZE: com.soywiz.korui.geom.len.Position : 2971
+CLASS SIZE: kotlin.Pair : 2997
+CLASS SIZE: com.talestra.dividead.play.Play$main$1$1$2 : 3005
+CLASS SIZE: com.soywiz.korio.stream.SyncStream : 3020
+CLASS SIZE: com.soywiz.korio.vfs.js.BrowserJsUtils$stat$1$1 : 3023
+CLASS SIZE: com.talestra.dividead.DecryptIfRequiredKt$uncompressIfRequired$1 : 3032
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$readRangeBytes$1$1$2 : 3071
+CLASS SIZE: com.talestra.dividead.play.Play$startGame$1$1 : 3089
+CLASS SIZE: java.util.HashMap$HashMapEntry : 3095
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$readRangeBytes$1$1 : 3095
+CLASS SIZE: com.soywiz.korio.vfs.js.LocalVfsProviderJs$invoke$1 : 3097
+CLASS SIZE: com.soywiz.korio.vfs.VfsFile$read$1 : 3100
+CLASS SIZE: java.util.HashMap$EntryIterator : 3100
+CLASS SIZE: java.util.Hashtable$KeyIterator : 3121
+CLASS SIZE: java.util.Collections : 3125
+CLASS SIZE: com.soywiz.korio.vfs.ISO$DirectoryRecord$Companion : 3130
+CLASS SIZE: com.talestra.dividead.play.Script : 3133
+CLASS SIZE: kotlin.text.StringsKt__StringNumberConversionsKt : 3146
+CLASS SIZE: java.util.Hashtable$ValueIterator : 3163
+CLASS SIZE: com.talestra.dividead.play.Play$startGame$1$script$1 : 3190
+CLASS SIZE: com.soywiz.korui.ui.Component$onClick$1$1 : 3217
+CLASS SIZE: com.soywiz.korui.ui.Button : 3223
+CLASS SIZE: com.talestra.dividead.play.Play$tryAutoload$1 : 3224
+CLASS SIZE: java.lang.reflect.Constructor : 3240
+CLASS SIZE: kotlin.io.ByteStreamsKt : 3242
+CLASS SIZE: com.soywiz.korio.vfs.VfsFile$readAsSyncStream$1 : 3277
+CLASS SIZE: com.soywiz.korio.vfs.ISO$openVfs$1 : 3298
+CLASS SIZE: java.util.Hashtable$EntryIterator : 3301
+CLASS SIZE: com.soywiz.korio.vfs.js.UrlVfsProviderJs$invoke$1$open$1$1 : 3307
+CLASS SIZE: com.soywiz.korio.vfs.ISO$openVfs$1$1 : 3310
+CLASS SIZE: com.soywiz.korui.ui.LayeredLayout : 3325
+CLASS SIZE: java.util.HashSet : 3332
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$open$$inlined$suspendCoroutine$lambda$1 : 3360
+CLASS SIZE: kotlin.jvm.internal.CoroutineImpl : 3361
+CLASS SIZE: com.soywiz.korio.vfs.NodeVfs : 3362
+CLASS SIZE: com.soywiz.korio.vfs.Vfs$Proxy$initOnce$1 : 3363
+CLASS SIZE: com.soywiz.korio.vfs.js.BrowserJsUtils$readRangeBytes$$inlined$suspendCoroutine$lambda$1 : 3364
+CLASS SIZE: java.lang.Boolean : 3391
+CLASS SIZE: java.lang.reflect.Array : 3399
+CLASS SIZE: com.soywiz.korio.vfs.VfsFile$openUse$1$1 : 3414
+CLASS SIZE: com.jtransc.text.MStringReader : 3483
+CLASS SIZE: com.soywiz.korui.light.html.HtmlLightComponents$dialogOpenFile$1$completed$1 : 3491
+CLASS SIZE: com.talestra.dividead.play.Script$setScript$1 : 3492
+CLASS SIZE: com.soywiz.korim.bitmap.Bitmap : 3494
+CLASS SIZE: java.util.AbstractList$FullListIterator : 3495
+CLASS SIZE: com.jtransc.text.JTranscStringTools : 3515
+CLASS SIZE: java.util.AbstractList$SubAbstractList$SubAbstractListIterator : 3520
+CLASS SIZE: java.lang.reflect.Method : 3546
+CLASS SIZE: com.soywiz.korui.geom.len.Size : 3554
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt$readU16_le$1 : 3566
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt$readS32_le$1 : 3566
+CLASS SIZE: com.soywiz.korio.vfs.ResourcesVfsKt : 3592
+CLASS SIZE: com.jtransc.compression.jzlib.Adler32 : 3613
+CLASS SIZE: java.util.concurrent.TimeUnit : 3635
+CLASS SIZE: java.io.ByteArrayOutputStream : 3655
+CLASS SIZE: com.soywiz.korim.html.BrowserNativeImageFormatProvider$decode$1 : 3660
+CLASS SIZE: com.soywiz.korio.stream.SliceSyncStreamBase : 3691
+CLASS SIZE: com.soywiz.korui.ui.Image : 3692
+CLASS SIZE: com.soywiz.korio.vfs.js.UrlVfsProviderJs$invoke$1 : 3693
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$fstat$$inlined$suspendCoroutine$lambda$1 : 3705
+CLASS SIZE: com.soywiz.korim.bitmap.Bitmap8 : 3739
+CLASS SIZE: com.talestra.dividead.AB$Instruction : 3752
+CLASS SIZE: com.soywiz.korio.vfs.ISO$openVfs$1$1$stat$1 : 3757
+CLASS SIZE: com.soywiz.korui.ui.Frame$dialogOpenFile$1 : 3760
+CLASS SIZE: com.talestra.dividead.play.Play$main$1 : 3772
+CLASS SIZE: com.soywiz.korio.vfs.ISO$IsoReader$getSectorMemory$1 : 3773
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt$readBytes$1 : 3777
+CLASS SIZE: java.lang.reflect.Modifier : 3798
+CLASS SIZE: com.soywiz.korio.async.AsyncKt : 3814
+CLASS SIZE: com.soywiz.korio.stream.AsyncStream$read$1 : 3824
+CLASS SIZE: com.soywiz.korio.vfs.MemoryVfsKt$MemoryVfs$1 : 3831
+CLASS SIZE: java.lang.Thread : 3831
+CLASS SIZE: com.soywiz.korio.vfs.js.JsUtils$stat$1 : 3831
+CLASS SIZE: com.soywiz.korio.vfs.IsoVfsKt$IsoVfs$1 : 3837
+CLASS SIZE: java.util.ServiceLoader : 3838
+CLASS SIZE: com.soywiz.korio.vfs.js.UrlVfsProviderJs$invoke$1$open$1 : 3887
+CLASS SIZE: com.soywiz.korio.async.EventLoopJs : 3973
+CLASS SIZE: com.soywiz.korio.stream.AsyncStream$getAvailable$1 : 3974
+CLASS SIZE: com.jtransc.compression.jzlib.ZStream : 3980
+CLASS SIZE: com.soywiz.korim.format.KorioExtKt : 3983
+CLASS SIZE: com.talestra.dividead.DL1Kt$openAsDL1$1 : 3983
+CLASS SIZE: kotlin.jvm.internal.CallableReference : 3993
+CLASS SIZE: java.util.Properties : 3995
+CLASS SIZE: com.talestra.dividead.play.Play$main$1$1 : 4015
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt$readTempExact$1 : 4027
+CLASS SIZE: com.soywiz.korio.vfs.VfsFile$exists$1 : 4037
+CLASS SIZE: kotlin.ranges.IntRange : 4041
+CLASS SIZE: java.util.AbstractSequentialList : 4046
+CLASS SIZE: java.util.LinkedHashMap$LinkedHashIterator : 4048
+CLASS SIZE: com.soywiz.korio.vfs.ISO$IsoReader : 4061
+CLASS SIZE: kotlin.collections.ArrayAsCollection : 4099
+CLASS SIZE: java.lang.Double : 4105
+CLASS SIZE: java.lang.Character : 4114
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt$hasAvailable$1 : 4142
+CLASS SIZE: com.talestra.dividead.play.Play$main$1$1$$special$$inlined$button$1 : 4150
+CLASS SIZE: com.soywiz.korim.format.JPEGDecoder$Huffman : 4153
+CLASS SIZE: com.soywiz.korio.util.ReadBitsKt : 4163
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt$readStringz$2 : 4166
+CLASS SIZE: com.soywiz.korio.stream.AsyncStream : 4187
+CLASS SIZE: java.lang.Integer : 4210
+CLASS SIZE: com.talestra.dividead.play.ScriptEvaluator$execOne$1 : 4237
+CLASS SIZE: com.talestra.dividead.play.Play$startGame$1$script$1$setScript$1 : 4248
+CLASS SIZE: com.soywiz.korui.light.html.SelectedFilesVfs$open$1$read$1 : 4260
+CLASS SIZE: com.soywiz.korio.vfs.js.UrlVfsProviderJs$invoke$1$open$1$1$getLength$1 : 4261
+CLASS SIZE: kotlin.jvm.JvmClassMappingKt : 4279
+CLASS SIZE: com.jtransc.JTranscSystemProperties : 4285
+CLASS SIZE: kotlin.jvm.internal.Reflection : 4311
+CLASS SIZE: com.soywiz.korio.stream.BufferedStreamBase$read$1 : 4329
+CLASS SIZE: com.soywiz.korim.html.BrowserNativeImageFormatProvider$BrowserImage$decodeToCanvas$1$1 : 4385
+CLASS SIZE: com.soywiz.korio.vfs.js.JsUtils$readRangeBytes$1 : 4405
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils$read$$inlined$suspendCoroutine$lambda$1 : 4412
+CLASS SIZE: com.talestra.dividead.DecryptIfRequiredKt$uncompressIfRequired$1$open$1 : 4430
+CLASS SIZE: com.soywiz.korio.stream.BufferedStreamBase$readSectorsUncached$1 : 4441
+CLASS SIZE: com.soywiz.korio.vfs.Vfs$Proxy$open$1 : 4491
+CLASS SIZE: com.soywiz.korio.vfs.js.LocalVfsProviderJs$invoke$1$open$1$1$read$1 : 4495
+CLASS SIZE: com.soywiz.korio.vfs.js.UrlVfsProviderJs$invoke$1$open$1$1$read$1 : 4517
+CLASS SIZE: com.soywiz.korio.stream.SliceAsyncStreamBase$read$1 : 4542
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt$readExact$1 : 4568
+CLASS SIZE: com.soywiz.korio.vfs.ISO : 4585
+CLASS SIZE: java.lang.AbstractStringBuilder : 4603
+CLASS SIZE: com.soywiz.korim.format.ImageFormats : 4618
+CLASS SIZE: com.soywiz.korui.geom.len.Length$Binop : 4619
+CLASS SIZE: com.soywiz.korio.vfs.VfsOpenMode : 4634
+CLASS SIZE: java.util.HashMap$HashIterator : 4659
+CLASS SIZE: kotlin.SynchronizedLazyImpl : 4677
+CLASS SIZE: com.soywiz.korio.vfs.Vfs$Proxy$stat$1 : 4698
+CLASS SIZE: com.soywiz.korio.vfs.js.UrlVfsProviderJs$invoke$1$stat$1 : 4733
+CLASS SIZE: com.soywiz.korio.vfs.js.LocalVfsProviderJs$invoke$1$open$1 : 4735
+CLASS SIZE: com.soywiz.korio.vfs.js.UrlVfsProviderJs$invoke$1$stat$$inlined$invoke$1 : 4754
+CLASS SIZE: com.soywiz.korim.format.KorioExtKt$decodeImageBytes$1 : 4769
+CLASS SIZE: com.soywiz.korim.format.JPEG : 4795
+CLASS SIZE: com.soywiz.korio.vfs.Vfs$Proxy : 4803
+CLASS SIZE: kotlin.jvm.internal.Intrinsics : 4844
+CLASS SIZE: java.util.Hashtable$HashIterator : 4910
+CLASS SIZE: java.util.AbstractList$SimpleListIterator : 4925
+CLASS SIZE: com.soywiz.korio.vfs.ISO$VolumeDescriptorHeader : 4942
+CLASS SIZE: kotlin.jvm.internal.RestrictedCoroutineImpl : 4957
+CLASS SIZE: com.soywiz.korim.format.KorioExtKt$readBitmap$1 : 4961
+CLASS SIZE: java.nio.Buffer : 4968
+CLASS SIZE: com.soywiz.korui.light.html.SelectedFilesVfs$open$1 : 4999
+CLASS SIZE: java.util.Arrays$ArrayList : 5045
+CLASS SIZE: com.talestra.dividead.play.Play$tryLoadRoot$1 : 5050
+CLASS SIZE: com.talestra.dividead.play.ScriptEvaluator : 5065
+CLASS SIZE: com.soywiz.korio.vfs.js.LocalVfsProviderJs$invoke$1$stat$1 : 5071
+CLASS SIZE: com.soywiz.korio.stream.SliceAsyncStreamBase : 5095
+CLASS SIZE: kotlin.collections.CollectionsKt__CollectionsKt : 5126
+CLASS SIZE: com.soywiz.korim.html.BrowserNativeImageFormatProvider$BrowserImage : 5150
+CLASS SIZE: com.soywiz.korio.vfs.js.EmbededResourceListing : 5159
+CLASS SIZE: com.soywiz.korio.async.EventLoop$Companion : 5258
+CLASS SIZE: com.soywiz.korio.vfs.VfsFile$openUse$1 : 5260
+CLASS SIZE: java.util.AbstractSet : 5271
+CLASS SIZE: com.soywiz.korui.geom.len.Padding : 5277
+CLASS SIZE: com.talestra.dividead.AB : 5286
+CLASS SIZE: java.lang.StackTraceElement : 5296
+CLASS SIZE: com.soywiz.korio.vfs.NodeVfs$stat$1 : 5350
+CLASS SIZE: com.soywiz.korio.vfs.NodeVfs$open$1 : 5387
+CLASS SIZE: kotlin.jvm.internal.CollectionToArray : 5407
+CLASS SIZE: com.soywiz.korui.ui.Frame : 5455
+CLASS SIZE: java.nio.charset.Charset : 5502
+CLASS SIZE: com.soywiz.korim.bitmap.Bitmap32 : 5509
+CLASS SIZE: kotlin.jvm.internal.PropertyReference : 5513
+CLASS SIZE: com.soywiz.korio.stream.BufferedStreamBase : 5551
+CLASS SIZE: com.soywiz.korio.util.OS : 5569
+CLASS SIZE: com.soywiz.korim.format.PNG$Colorspace : 5583
+CLASS SIZE: com.talestra.dividead.UncompressIfRequired : 5596
+CLASS SIZE: com.jtransc.compression.JTranscInflater : 5604
+CLASS SIZE: kotlin.collections.ArraysKt : 5705
+CLASS SIZE: com.talestra.dividead.play.Play$main$1$1$1 : 5760
+CLASS SIZE: kotlin.ranges.IntProgression : 5769
+CLASS SIZE: com.soywiz.korio.util.AsyncCloseableKt$use$1 : 5792
+CLASS SIZE: com.soywiz.korio.vfs.ISO$IsoReader$read$1 : 5814
+CLASS SIZE: com.soywiz.korio.vfs.ISO$DateStruct : 5847
+CLASS SIZE: com.soywiz.korio.stream.BufferedStreamBase$readSectorsCached$1 : 5854
+CLASS SIZE: kotlin.collections.ArraysKt___ArraysKt : 5885
+CLASS SIZE: com.soywiz.korim.format.BMP : 5990
+CLASS SIZE: com.soywiz.korui.light.html.HtmlLightComponents$setEventHandlerInternal$dispatch$1 : 6021
+CLASS SIZE: kotlin.text.StringsKt__StringsJVMKt : 6078
+CLASS SIZE: java.util.Hashtable$Values : 6097
+CLASS SIZE: com.soywiz.korui.geom.IRectangle : 6174
+CLASS SIZE: com.soywiz.korui.light.html.SelectedFilesVfs : 6288
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt$readAll$1 : 6299
+CLASS SIZE: com.jtransc.compression.jzlib.Inflater : 6339
+CLASS SIZE: com.soywiz.korim.html.HtmlImage : 6349
+CLASS SIZE: com.soywiz.korui.style.StyleKt : 6360
+CLASS SIZE: java.lang.Throwable : 6372
+CLASS SIZE: kotlin.sequences.SequencesKt : 6401
+CLASS SIZE: kotlin.jvm.internal.TypeIntrinsics : 6471
+CLASS SIZE: java.lang.StringBuilder : 6538
+CLASS SIZE: com.jtransc.js.JsExtKt : 6541
+CLASS SIZE: com.soywiz.korio.vfs.ISO$VolumeDescriptorHeader$TypeEnum : 6575
+CLASS SIZE: kotlin.sequences.SequencesKt___SequencesKt : 6590
+CLASS SIZE: java.util.LinkedList$LinkIterator : 6599
+CLASS SIZE: com.soywiz.korio.async.InvokeSuspendKt$invokeSuspend$1 : 6629
+CLASS SIZE: com.soywiz.korui.light.LightComponents : 6641
+CLASS SIZE: com.soywiz.korio.vfs.ISO$IsoReader$readDirectoryRecords$1 : 6652
+CLASS SIZE: com.soywiz.korio.async.Promise : 6720
+CLASS SIZE: java.lang.reflect.Field : 6734
+CLASS SIZE: java.util.AbstractCollection : 6767
+CLASS SIZE: com.talestra.dividead.play.Play : 7100
+CLASS SIZE: java.lang.System : 7101
+CLASS SIZE: java.util.AbstractList : 7134
+CLASS SIZE: java.util.zip.InflaterInputStream : 7150
+CLASS SIZE: java.nio.ByteBuffer : 7209
+CLASS SIZE: kotlin.text.DelimitedRangesSequence$iterator$1 : 7256
+CLASS SIZE: kotlin.coroutines.CoroutinesLibraryKt : 7356
+CLASS SIZE: com.soywiz.korim.format.PNG$read$1 : 7528
+CLASS SIZE: java.lang.jtransc.JTranscCoreReflection : 7642
+CLASS SIZE: com.talestra.dividead.LZ : 7665
+CLASS SIZE: java.lang.Long : 7734
+CLASS SIZE: kotlin.coroutines.SafeContinuation : 7813
+CLASS SIZE: com.soywiz.korui.ui.Component : 7873
+CLASS SIZE: com.soywiz.korio.vfs.PathInfo : 7916
+CLASS SIZE: java.util.Formatter : 7918
+CLASS SIZE: kotlin.collections.EmptyList : 8048
+CLASS SIZE: java.io.PrintStream : 8108
+CLASS SIZE: com.soywiz.korim.format.TGA : 8192
+CLASS SIZE: com.soywiz.korio.vfs.Vfs : 8246
+CLASS SIZE: java.util.Hashtable$EntrySet : 8247
+CLASS SIZE: java.lang.reflect.MethodConstructor : 8396
+CLASS SIZE: java.util.AbstractList$SubAbstractList : 8570
+CLASS SIZE: java.lang.String : 8605
+CLASS SIZE: com.soywiz.korio.vfs.ISO$IsoFile : 8682
+CLASS SIZE: com.talestra.dividead.play.Play$startGame$1 : 9006
+CLASS SIZE: com.soywiz.korio.vfs.ISO$DirectoryRecord : 9127
+CLASS SIZE: com.soywiz.korio.vfs.js.BrowserJsUtils : 9362
+CLASS SIZE: com.talestra.dividead.DL1$read$1 : 9571
+CLASS SIZE: java.util.Hashtable$KeySet : 9764
+CLASS SIZE: com.soywiz.korio.vfs.NodeVfs$Node : 9809
+CLASS SIZE: java.util.ArrayList : 10053
+CLASS SIZE: com.soywiz.korio.vfs.VfsUtil : 10301
+CLASS SIZE: com.soywiz.korim.format.JPEGDecoder$IDCT_2D : 10403
+CLASS SIZE: com.soywiz.korio.vfs.VfsFile : 10490
+CLASS SIZE: com.soywiz.korio.vfs.ISO$IsoDate : 10835
+CLASS SIZE: java.util.Arrays : 10934
+CLASS SIZE: java.util.LinkedHashMap : 11725
+CLASS SIZE: java.util.AbstractMap : 12110
+CLASS SIZE: java.lang.reflect._InternalUtils : 12134
+CLASS SIZE: kotlin.collections.CollectionsKt___CollectionsKt : 13652
+CLASS SIZE: com.soywiz.korio.vfs.VfsStat : 14278
+CLASS SIZE: com.soywiz.korio.vfs.js.NodeJsUtils : 16084
+CLASS SIZE: kotlin.collections.CollectionsKt : 16388
+CLASS SIZE: com.soywiz.korio.stream.AsyncStreamKt : 17412
+CLASS SIZE: java.util.LinkedList : 18736
+CLASS SIZE: com.soywiz.korio.stream.SyncStreamKt : 18816
+CLASS SIZE: java.lang.Class : 19393
+CLASS SIZE: com.soywiz.korim.format.PNG : 19657
+CLASS SIZE: com.jtransc.compression.jzlib.InfTree : 22199
+CLASS SIZE: java.util.Hashtable : 23415
+CLASS SIZE: com.talestra.dividead.AB$Opcode : 25691
+CLASS SIZE: java.util.HashMap : 27232
+CLASS SIZE: com.soywiz.korio.vfs.ISO$PrimaryVolumeDescriptor : 28873
+CLASS SIZE: com.jtransc.compression.jzlib.InfCodes : 28927
+CLASS SIZE: com.jtransc.compression.jzlib.InfBlocks : 29538
+CLASS SIZE: com.soywiz.korui.light.html.HtmlLightComponents : 31802
+CLASS SIZE: com.jtransc.compression.jzlib.Inflate : 34460
+CLASS SIZE: kotlin.text.StringsKt : 39656
+CLASS SIZE: com.soywiz.korim.format.JPEGDecoder : 48260
+CLASS SIZE: kotlin.text.StringsKt__StringsKt : 52319
+CLASS SIZE: j.ProgramReflection : 1459028
+Using ... plainMain
+Ok(1575)
+Compiling...
+Generated javascript at...C:\projects\talestrakt\dividead\build\jtransc-js\program.js
+Ok (0)
+:dividead:distJs (Thread[Daemon worker,5,main]) completed. Took 4.64 secs.
+
+BUILD SUCCESSFUL
+
+Total time: 15.254 secs
+Stopped 0 compiler daemon(s).
+Received result Success[value=null] from daemon DaemonInfo{pid=2600, address=[07c5c185-c6c0-4f85-954b-e63a31077844 port:63360, addresses:[/127.0.0.1, /0:0:0:0:0:0:0:1]], state=Busy, lastBusy=1483472822847, context=DefaultDaemonContext[uid=cdb1e609-77a2-47a0-a0a1-befc7eba47d6,javaHome=C:\Program Files\Java\jdk1.8.0_51,daemonRegistryDir=C:\Users\Carlos\.gradle\daemon,pid=2600,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=windows-1252,-Duser.country=ES,-Duser.language=es,-Duser.variant]} (build should be done).

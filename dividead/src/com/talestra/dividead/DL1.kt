@@ -41,7 +41,7 @@ object DL1 : PackageReader {
 		s.write16_le(0) // padding
 		for (file in entries) s.writeStream(file.open())
 		for (file in entries) {
-			s.writeStringz(file.fullname, 12)
+			s.writeStringz(file.fullname.trim('/'), 12)
 			s.write32_le(file.size())
 		}
 	}

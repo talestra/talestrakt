@@ -1,6 +1,7 @@
 package com.talestra.dividead.remaster
 
 import com.soywiz.korio.async.asyncFun
+import com.soywiz.korio.async.filter
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.VfsFile
@@ -8,8 +9,9 @@ import com.talestra.dividead.LZ
 import com.talestra.dividead.openAsDL1
 
 object Remaster {
-	val waifu2x_caffe_cui = "C:/projects/waifu2x-caffe/waifu2x-caffe-cui.exe"
+	val waifu2x_caffe_cui = "waifu2x-caffe-cui"
 	val ffmpeg = "ffmpeg"
+	val opusenc = "opusenc"
 
 	suspend fun waifu2x(input: VfsFile, output: VfsFile): Int = asyncFun {
 		input.parent.passthru(
@@ -109,8 +111,37 @@ object Remaster {
 		}
 	}
 
+	suspend fun convertWavToMp3(wavFolder: VfsFile, outFolder: VfsFile) = asyncFun {
+		outFolder.mkdir()
+		for (wav in wavFolder.list().filter { it.extensionLC == "wav" }) {
+			val out = outFolder[wav.withExtension("mp3").basename]
+			val args = listOf(ffmpeg, "-i", wav.absolutePath, out.absolutePath)
+			//println(wav.basename)
+			//println(outFolder.absolutePath)
+			println(args)
+			if (!out.exists()) outFolder.exec(args)
+			//println(wav.fullname)
+		}
+	}
+
+	suspend fun convertWavToOpus(wavFolder: VfsFile, outFolder: VfsFile) = asyncFun {
+		outFolder.mkdir()
+		for (wav in wavFolder.list().filter { it.extensionLC == "wav" }) {
+			val out = outFolder[wav.withExtension("opus").basename]
+			// opusenc --bitrate 11 --discard-comments --padding 0 --discard-pictures D:\juegos\dividead\WV.DL1.d\AKI0001.WAV D:\juegos\dividead\WV.DL1.d.opus\AKI0001.opus
+			val args = listOf(opusenc, "--bitrate", "11", "--discard-comments", "--padding", "0", wav.absolutePath, out.absolutePath)
+			//println(wav.basename)
+			//println(outFolder.absolutePath)
+			println(args)
+			if (!out.exists()) outFolder.exec(args)
+			//println(wav.fullname)
+		}
+	}
+
 	@JvmStatic fun main(args: Array<String>) = sync {
 		val base = LocalVfs("D:/juegos/dividead")
+		convertWavToMp3(base["WV.DL1.d"], base["WV.DL1.d.mp3"])
+		convertWavToOpus(base["WV.DL1.d"], base["WV.DL1.d.opus"])
 		if (!base["CS_ROGO.AVI.2x.mp4"].exists()) convertVideo(30, base["CS_ROGO.AVI"], base["CS_ROGO.AVI.2x.mp4"])
 		if (!base["OPEN.AVI.2x.mp4"].exists()) convertVideo(15, base["OPEN.AVI"], base["OPEN.AVI.2x.mp4"])
 		if (!base["SG.DL1.d"].exists()) extractDl1(base["SG.DL1"], base["SG.DL1.d"])

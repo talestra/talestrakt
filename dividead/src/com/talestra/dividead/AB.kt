@@ -1,5 +1,6 @@
 package com.talestra.dividead
 
+import com.jtransc.annotation.JTranscKeep
 import com.soywiz.korio.stream.*
 import com.talestra.rhcommon.lang.invalidOp
 

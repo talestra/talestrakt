@@ -3,17 +3,16 @@ apply from: '../include.gradle'
 apply plugin: 'application'
 apply plugin: 'jtransc'
 
-//mainClassName = 'com.talestra.yume.play.js.YumeMiruPlayerJs'
-mainClassName = 'com.talestra.dividead.play.PlayKorui'
+mainClassName = 'com.talestra.dividead.play.Play'
 
 dependencies {
     compile project(':vnovel')
 }
 
 jtransc {
-    //mainClassName = 'com.talestra.yume.play.js.YumeMiruPlayerJs'
     minimizeNames = false
     treeshaking = true
+	//treeshakingTrace = true
     assets = ["dividead/resources"]
 }
 

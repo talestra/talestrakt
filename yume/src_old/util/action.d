@@ -187,7 +187,7 @@ void backup(char[] ori, char[] back) {
 	if (!std.file.exists(back)) copy(ori, back);
 }
 
-void main(char[][] args) {
+void com.talestra.criminalgirls.main(char[][] args) {
 	// Hacemos una copia de seguridad del script si no existe previamente
 	backup("Rio.arc", "Rio.en.arc");
 	backup("yumemiru.exe", "yumemiru.en.exe");
