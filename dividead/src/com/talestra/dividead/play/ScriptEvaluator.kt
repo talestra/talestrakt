@@ -1,6 +1,8 @@
 package com.talestra.dividead.play
 
 import com.jtransc.annotation.JTranscKeep
+import com.soywiz.korim.color.Colors
+import com.soywiz.korim.geom.Anchor
 import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.invokeSuspend
 import com.talestra.dividead.AB
@@ -98,6 +100,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 
 	@JTranscKeep
 	@AB.Action(AB.Opcode.TEXT) suspend fun TEXT(text: String) = asyncFun {
+		render.fill(96, 392, 448, 80, Colors.BLACK)
 		render.text(text, 102, 400)
 		render.update(0, 400, 640, 80)
 		input.waitText()
@@ -144,7 +147,7 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 		val nameColor = name
 		val nameMask = name.split('_')[0] + "_0"
 
-		render.drawMasked(nameColor, nameMask, 0, 0)
+		render.drawMasked(nameColor, nameMask, 640 / 2, 385, Anchor.BOTTOM_CENTER)
 		//return game.getImageMaskCachedAsync(nameColor, nameMask).then { bitmapData ->
 		//	game.back.draw(bitmapData, (640 / 2 - bitmapData.width / 2), (385 - bitmapData.height))
 		//}
@@ -157,6 +160,9 @@ class ScriptEvaluator(val script: Script, val render: Renderer, val state: State
 
 		val name2Color = name2
 		val name2Mask = name2.split('_')[0] + "_0"
+
+		render.drawMasked(name1Color, name1Mask, 640 * 1 / 3, 385, Anchor.BOTTOM_CENTER)
+		render.drawMasked(name2Color, name2Mask, 640 * 2 / 3, 385, Anchor.BOTTOM_CENTER)
 
 		//return game.getImageMaskCachedAsync(name1Color, name1Mask).pipe { bitmapData1 ->
 		//	game.getImageMaskCachedAsync(name2Color, name2Mask).then { bitmapData2 ->
