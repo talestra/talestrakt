@@ -1,14 +1,15 @@
 package com.talestra.yume.patcher
 
 import com.soywiz.korim.format.readBitmap
+import com.soywiz.korim.geom.Anchor
+import com.soywiz.korim.geom.ScaleMode
 import com.soywiz.korio.async.EventLoop
 import com.soywiz.korio.vfs.ResourcesVfs
 import com.soywiz.korui.Application
 import com.soywiz.korui.frame
-import com.soywiz.korui.geom.len.Padding
+import com.soywiz.korui.geom.len.percent
 import com.soywiz.korui.geom.len.pt
-import com.soywiz.korui.style.padding
-import com.soywiz.korui.style.width
+import com.soywiz.korui.style.*
 import com.soywiz.korui.ui.*
 
 object YumeMiruPatcher {
@@ -17,30 +18,35 @@ object YumeMiruPatcher {
 	@JvmStatic fun main(args: Array<String>) = EventLoop.main {
 		val bmp = ResourcesVfs["data/bg.jpg"].readBitmap()
 		val frameIcon = ResourcesVfs["patcher_ico.png"].readBitmap()
-		Application().frame("Yume Miru Kusuri en español - $VERSION", 640, 480) {
-			icon = frameIcon
-			vertical {
-				image(bmp)
-			}
+
+		val buttonStyle = Style {
+			minWidth = 80.pt
+			minHeight = 32.pt
+			maxHeight = 80.pt
+			width = 20.percent
+			height = 10.percent
+		}
+
+		Application().frame("Yume Miru Kusuri en español - $VERSION", 640, 480, icon = frameIcon) {
 			layers {
-				padding = Padding(16.pt)
-				vertical {
-					padding = Padding(16.pt)
-					horizontal {
-						padding = Padding(16.pt)
-						button("Parchear...") {
-							alert("Patching!")
-						}.apply {
-							width = 200.pt
-						}
+				layersKeepAspectRatio(anchor = Anchor.TOP_CENTER, scaleMode = ScaleMode.COVER) {
+					image(bmp)
+				}
+				relative {
+					val patch = button("Parchear...") {
+						alert("Patching!")
+					}.apply {
+						classStyle = buttonStyle
+						right = 32.pt
+						bottom = 32.pt
 					}
-					horizontal {
-						padding = Padding(16.pt)
-						button("Página web...") {
-							openURL("http://yume.tales-tra.com/")
-						}.apply {
-							width = 200.pt
-						}
+
+					val website = button("Página web...") {
+						openURL("http://yume.tales-tra.com/")
+					}.apply {
+						relativeTo = patch
+						classStyle = buttonStyle
+						right = 16.pt
 					}
 				}
 			}
