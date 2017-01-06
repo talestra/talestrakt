@@ -1,6 +1,0 @@
-apply from: '../include.gradle'
-
-dependencies {
-	compile project(':vnovel')
-	compile project(':engines/ethornell')
-}

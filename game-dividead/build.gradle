@@ -1,0 +1,26 @@
+apply from: '../include.gradle'
+
+apply plugin: 'application'
+apply plugin: 'jtransc'
+
+mainClassName = 'com.talestra.dividead.play.Play'
+
+dependencies {
+    compile project(':common-vnovel')
+}
+
+jtransc {
+    minimizeNames = false
+    treeshaking = true
+	//treeshakingTrace = true
+    assets = ["game-dividead/resources"]
+}
+
+jar {
+    manifest {
+        attributes("Main-Class": 'com.talestra.dividead.play.PlayKorui')
+    }
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}

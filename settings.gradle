@@ -1,19 +1,25 @@
 rootProject.name = 'talestrakt'
 include(
-        'rhcommon',
+		// Commons
+		'common-vnovel',
+		'common-rhcommon',
 
-		'engines/ethornell',
-		'edelweiss',
-		'hanabira',
-        'vnovel',
-        'criminalgirls',
-        'dividead',
-        'yume',
-        'shny',
+		// Engines
+		'engine-talesof',
+		'engine-ethornell',
 
-        'tales',
-        'toa',
-        'tod',
-        'toe',
-        'tov',
+		// Platforms
+		'platform-n3ds',
+
+		'game-edelweiss',
+		'game-hanabira',
+        'game-criminalgirls',
+        'game-dividead',
+        'game-yume',
+        'game-shny',
+
+        'game-toa',
+        'game-tod',
+        'game-toe',
+        'game-tov',
 )
