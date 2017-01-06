@@ -1,0 +1,124 @@
+Formato SB7
+
+HEADER
+	32 bytes -      - version    - stringz de 32 bytes con el magic y la fecha de compilaci�n "SB7 Oct  9 2005 15:56:47"
+	
+	04 bytes - uint -            - 00 00 00 00 ??
+	04 bytes - uint - tt_ptr2?   - puntero a los textos
+	
+	04 bytes - uint - icb_count  - info code block count   (cantidad de informaciones bloques de c�digo)
+	04 bytes - uint - icb_size   - info code block size    (tamaño de las informaciones de bloques de c�digo)
+	04 bytes - uint - icb_ptr    - info code block pointer (puntero a las informaciones de bloques de c�digo)
+	
+	04 bytes - uint - unk_ptr    - pointer to UNKNOWN SECTION (end of INFO_CODE_BLOCK section)
+	
+	04 bytes - uint - tt_count   - text table count
+	04 bytes - uint - tt_size    - text table size
+	04 bytes - uint - tt_ptr     - text table pointer
+	
+	04 bytes - uint - i_size     - instruction size
+	04 bytes - uint - i_ptr      - instruction pointer
+	
+	04 bytes - uint - t_size     - text size
+	04 bytes - uint - t_ptr      - text pointer
+	
+	04 bytes - uint - unk_ptr2   - pointer to ... UNKNOWN SECTION
+	04 bytes - uint - unk_ptr3   - ???
+
+TEXT_TABLE (4 bytes * tt_size)
+	POINTER_TO_POINTER (tt_count)
+		...
+	POINTER_TO_TEXT (tt_size-tt_count*4)
+		...
+		
+INFO_CODE_BLOCK (40 bytes*icb_count)
+	04 bytes - uint -
+	04 bytes - uint -
+	04 bytes - uint -
+	04 bytes - uint -
+	04 bytes - uint - i_ptr      - Pointer to instruction (multiple of 16 bytes)
+	04 bytes - uint - i_count    - Number of instructions (*16)
+	04 bytes - uint -
+	04 bytes - uint -
+	04 bytes - uint -
+	04 bytes - uint -
+	
+UNKNOWN (Maybe entry points?)
+	?????
+
+INSTRUCTIONS (16*instruction_count=i_size)
+	04 bytes - uint - OP    - Insruction opcode
+	04 bytes - uint - Stack - Used stack?
+	04 bytes - uint - p1    - Value1
+	04 bytes - uint - p2    - Value2 (when only used p1, p2=OP to allow better compression)
+	
+OPCODES
+flow:
+	case 0x000: return "?PUSH_VAR";
+	case 0x001: return "?PUSH_LVAR"; 
+	case 0x002: return "PUSH_CONST";          // Introudce un elemento en la pila
+	case 0x003: return "POP";           // Extrae un elemento de la pila
+	case 0x004: return "?ASSIGN";
+	case 0x00B: return "?COMP";
+	case 0x00C: return "RETURN";        // Vuelve a la funci'on que llam'o
+	case 0x00D: return "?JUMP";
+	case 0x00E: return "?JUMP_COND";			
+	case 0x010: return "CALL";
+	
+	case 0x01C: return "?SUM";
+	
+	case 0x3F3: return "?FLAG_RELATED";
+
+	case 0x411: return "ITEM_GET_COUNT";
+	
+	case 0x42B: return "PRINT_CONSOLE";
+	case 0x42D: return "CREATE_MOTION";
+	
+	case 0x436: return "MOTION";
+	
+	case 0x434: return "PRINTF";
+	case 0x450: return "TEX_CHANGE"; // Cambia la textura del ojo, la boca, y algo m'as (0, 1, 2)
+	case 0x453: return "INFO_BOX";	
+	
+arithmetic:
+	01C - ADD?? = PUSH (POP + POP)
+
+output:
+	42B - DEBUG:  PRINT_CONSOLE (print a string)
+	434 - DEBUG:  PRINTF (print a string with format)???
+	453 - INFOBOX (title, text)
+	
+TEXT
+	stringz with special codes
+	
+	(ascii < 0x20) && (ascii != 0x0A) && (ascii != 0x0C) -> 4 bytes uint with a reference to a INFO_CODE_BLOCK. (pcb_ptr + reference)
+	
+	
+when an special code is reached, it finds ICB[data] and execute specified fragment of code. In speech generally the code returns the number of the speech to play.
+So with the number returned, it uses to play the speech, show an entry from a list and so on. That is way in each file for the same speech there is a different parameter.
+
+SPECIAL CODES
+	01 - GALD/MONEY/NUMBER?
+	02 - CHARACTER
+	03 - 
+	04 - COLOR
+	05 -
+	06 -
+	07 -
+	08 - SPEECH
+	09 - 
+	
+TABLE for SCRIPT:
+	00 - Names
+	01 - Generic Locked
+	02 - Head to
+	03 - Character names?
+	04 - ??
+	05 - ??
+	06 - Motion?
+	07 - Motion?
+	08 - Motion?
+	09 - Motion? More?
+	10 - Door Locked
+	
+	XX - Scenes?

@@ -1,0 +1,12 @@
+see complib.c/comptoe.exe
+
+Currently there are 3 compression algorithms in Tales of series.
+
+01 - LZSS
+03 - LZSS + RLE
+04 - ??
+
+In Tales of Eternia they used algorithm 1 and 3
+In Tales of Destiny they used algorithm 1 and 3
+In Tales of the Abyss only algorithm 3
+In Tales of Destiny 2 (PSP) algorithm 4

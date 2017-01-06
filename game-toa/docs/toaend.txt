@@ -1,0 +1,6 @@
+Tales of the Abyss TOAEND_XX.TXT - File used for the credits at the end of the game.
+
+@pX - (0-4) Image in ENDROLL.TM2
+@s5TITLE - Title (probablt size X)
+@\6 - Used to reduce image size for names
+@oX - song? video? (0-1) 0 at start for original credits and 1 at the end for american credits

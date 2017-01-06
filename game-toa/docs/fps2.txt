@@ -1,0 +1,12 @@
+Tales of the Abyss FPS2 is a file container.
+It's and index based file container with a type specifier.
+
+HEADER:
+	4 bytes - uint - magic - "FPS2"
+	4 bytes - uint - count - Number of entries
+	
+ENTRY (12 bytes * HEADER.count)
+	4 bytes - uint - offset - Offset of the file
+	4 bytes - uint - length - Length of the file
+	4 bytes - uint - type   - stringz (type) ex: "cb7\0", "sb7\0", "npc\0", "rpx\0"...
+	

@@ -1,0 +1,2 @@
+Tales of the Abyss SFD. SoFtDec Movie. It is an mpeg2 extension using mpeg2 for video and ADX 1/4 for audio.
+With ffmpeg/ffplay can be played or decoded. For encoding you need to use proprietary utilities.

@@ -1,0 +1,11 @@
+Tales of the Abyss AFS. AFS is a container of ADX sounds. music 1/4 or voice 1/10.
+
+HEADER:
+	4 bytes - uint - magic - "AFS\0"
+	4 bytes - uint - count - Number of files
+	
+FILE: (8 bytes * HEADER.count)
+	4 bytes - uint - offset - File offset
+	4 bytes - uint - length - File size
+	
+Files seems to be aligned to 0x800 (to logical sectors, for fast access probably)

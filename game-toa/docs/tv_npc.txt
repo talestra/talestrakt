@@ -1,0 +1,28 @@
+struct ANIMATION { // El contenido completo del fichero .DAT dentro de los TV_*.NPC
+   int effect_pos;
+   int unknown_1;
+   int unknown_2;
+   ANIMATION_CHUNK[3] fixed_chunks;
+   int glyph_count;
+   ANIMATION_CHUNK[glyph_count] glyph_chunks
+   COLOR c1; // Color 1 (fondo del efecto)
+   COLOR c2; // Color 2 (color de las estrellitas)
+}
+
+struct ANIMATION_CHUNK {
+   int start_time;     // ¿medido en frames?
+   // Recorte en la textura (salirse de ella hace que se repita la imagen (como si fuese un pattern))
+   int tex_x1;
+   int tex_y1;
+   int tex_x2;
+   int tex_y2;
+   // coordenadas en pantalla las (0,0) están en la parte superior izquierda
+   int x;
+   int y;
+}
+
+struct COLOR {
+   int R;
+   int G;
+   int B;
+}

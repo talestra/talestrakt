@@ -1,0 +1,23 @@
+Tales of the Abyss OVL - OVL is a dynamical loaded slice of executable to avoid loading ALL code at once (wasting unnecesary memory).
+
+There are 4 OVL modules in USA version:
+
+OV_PDVD_BTL_US.OVL    - Module loaded in battles
+OV_PDVD_FIELD_US.OVL  - Module loaded in world map
+OV_PDVD_SFD_US.OVL    - Module loaded to play movies
+OV_PDVD_SKIT_US.OVL   - Module loaded when playing skits
+
+Modules are cached so they don't have to be loaded each time.
+
+They all loads at reserved address 0x64B880
+EXE starts at 0x57ADA0
+
+HEADER (0x80 bytes)
+	8 bytes    - ulong   - magic   - "MWo3\x03\0\0\0"
+	4 bytes    - uint    - addr    - Address to load file (0x64B880)
+	4 bytes    - uint    - length? - 
+	4 bytes    - uint    -         - ?
+	4 bytes    - uint    -         - ?
+	4 bytes    - uint    -         - ?
+	4 bytes    - uint    -         - ?
+	0x60 bytes - stringz - name of the file

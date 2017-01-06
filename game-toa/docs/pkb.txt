@@ -1,0 +1,3 @@
+Tales of the Abyss PKB files.
+These files are FPS3 (fps2.txt) compressed using algorithm 03 (LZSS + RLE) (compressions.txt)
+containing map script. Textures + Models + Script (text + code)
