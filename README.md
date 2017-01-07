@@ -3,6 +3,7 @@
 El entorno de desarrollo es intelliJ Community Edition.
 Para la construcción y gestión de dependencias se usa gradle.
 El lenguaje de programación elegido es Kotlin.
+La versión 1.1-M04. Para activarla en intelliJ: `Tools` - `Kotlin` - `Configure Kotlin Plugin Updates...`
 
 Las únicas dependencias externas a éstas son (ya están referenciadas en gradle):
 [korio](https://github.com/soywiz/korio),

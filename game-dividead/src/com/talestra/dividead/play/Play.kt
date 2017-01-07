@@ -8,10 +8,8 @@ import com.soywiz.korim.font.drawText
 import com.soywiz.korim.font.nativeFonts
 import com.soywiz.korim.format.readBitmap
 import com.soywiz.korim.geom.Anchor
-import com.soywiz.korio.async.EventLoop
-import com.soywiz.korio.async.async
-import com.soywiz.korio.async.asyncFun
-import com.soywiz.korio.async.sleep
+import com.soywiz.korim.geom.ScaleMode
+import com.soywiz.korio.async.*
 import com.soywiz.korio.util.OS
 import com.soywiz.korio.vfs.*
 import com.soywiz.korui.Application
@@ -31,6 +29,8 @@ object Play {
 
 	var loadButton: Button? = null
 
+	val onClick = Signal<Unit>()
+
 	@JvmStatic fun main(args: Array<String>) = EventLoop.main {
 		val frameIcon = ResourcesVfs["dividead/icon1.png"].readBitmap()
 		//val bmp = ResourcesVfs["dividead/icon.png"].readBitmap()
@@ -38,14 +38,19 @@ object Play {
 		//println(bmp)
 		//backBuffer.put(bmp.toBMP32())
 
+
+
 		Application().frame("DIVI DEAD", width = 640, height = 480) {
 			bgcolor = Colors.BLACK
 			icon = frameIcon
-			layersKeepAspectRatio(anchor = Anchor.MIDDLE_CENTER) {
-				backBufferImage = image(backBuffer).apply {
+			layersKeepAspectRatio(anchor = Anchor.MIDDLE_CENTER, scaleMode = ScaleMode.SHOW_ALL) {
+				backBufferImage = image(backBuffer) {
 					width = 640.pt
 					height = 480.pt
 					smooth = true
+				}.click {
+					onClick()
+					//println("click: $mouseX, $mouseY")
 				}
 			}
 			loadButton = button("Load").click {
@@ -180,7 +185,8 @@ object Play {
 
 			@JTranscKeep
 			suspend override fun waitText() = asyncFun {
-				sleep(1000)
+				onClick.waitOne()
+				//sleep(1000)
 			}
 		}
 

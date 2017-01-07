@@ -12,7 +12,7 @@ dependencies {
 jtransc {
 	minimizeNames = false
 	treeshaking = true
-    assets = ["game-yume/resources"]
+    assets = ["game-ymk/resources"]
 }
 
 jar {
