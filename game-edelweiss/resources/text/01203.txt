@@ -1,0 +1,232 @@
+# Comments for '01203'
+
+@5
+# Pricy? Waht!
+<en>It might be expensive, but I've got no other choice.
+<es>Puede que sea egoísta, pero no tengo elección.
+
+@12
+<en>{Ran}\n"You want me to be nice to you?\nYou know what it takes, right?"
+<es>{Ran}\n"¿Queréis que sea buena con vosotros?\n¿Sabéis lo que eso requiere, no?"
+
+@13
+<en>I knew it. I've even made it a point to collect some money from the other guys.
+<es>Ya lo sabía. Ya ha erecogido el dinero de mis colegas.
+
+@14
+<en>{Kazushi}\n"Here you go."
+<es>{Kazushi}\n"Toma."
+
+@15
+<en>I handed her the envelope with our money.
+<es>Le di el dinero.
+
+@18
+<en>{Ran}\n"Well didn't you come prepared? Good, good."
+<es>{Ran}\n"Me conoces muy bien."
+
+@21
+<en>She gave me an unsatisfied look. I guess it wasn't enough to make her happy.
+<es>
+
+@24
+<en>{Ran}\n"At least you guys are good at bringing what I want."
+<es>
+
+@25
+<en>She put the money in her purse.
+<es>Mete el dinero en su bolso.
+
+@26
+<en>{Ran}\n"What exactly do you want me to do? How am I supposed to be "nice" to you guys?"
+<es>{Ran}\n"¿Qué es lo que queréis exáctamente para que sea "buena" con vosotros?"
+
+@27
+<en>{Kazushi}\n"I leave it up to you."
+<es>{Kazushi}\n"Te lo dejo a ti."
+
+@32
+<en>{Pierre}\n"All the girls in class are being so cold to us and we've lost all our confidence! Please make us feel better."
+<es>{Pierre}\n"Hemos perdido toda la confianza."
+
+@36
+<en>{Appo}\n"Can you give me a kiss?"
+<es>{Appo-}\n"¿Puedes darme un beso?"
+
+@39
+<en>{Ran}\n"A kiss? For that piddly sum?"
+<es>{Ran}\n"¿Un beso? ¿Por esta cantidad?"
+
+@40
+<en>{Kazushi}\n"You'd set a price on that sort of thing?"
+<es>{Kazushi}\n"¿Es cosa de la cantidad de dinero?"
+
+@41
+<en>I hope she's not selling her body for spare funds.
+<es>Espero que no venda su cuerpo a nadie.
+
+@42
+<en>{Kazushi}\n"Hey, Ran."
+<es>{Kazushi}\n"Oye, Ran."
+
+@46
+<en>{Ran}\n"What?"
+<es>{Ran}\n"¿Qué?"
+
+@47
+<en>I beckoned her over to me.
+<es>Le hago señas para que venga.
+
+@48
+<en>{Kazushi}\n"It's all right to want to earn money, but...you're not selling something you shouldn't be as merchandise, are you?"
+<es>{Kazushi}\n"No estarás haciendo nada ilegal... ¿No?"
+
+@49
+<en>I had qualms about saying it bluntly, so I asked in a roundabout manner. Luckily, Ran caught my drift and grinned.
+<es>Me sonrió.
+
+@50
+<en>{Ran}\n"You care that much about me?"
+<es>{Ran}\n"¿Te preocupas por mí?"
+
+@51
+<en>{Kazushi}\n"I trust you."
+<es>{Kazushi}\n"Confío en ti."
+
+@54
+<en>{Ran}\n"Huhun, don't worry. I'd never sell myself short. If you're that worried, Kazushi, then why don't you buy it from me?"
+<es>{Ran}\n"Si estás tan preocupado, ¿por qué no me compras y me haces tuyo?"
+
+@55
+<en>{Kazushi}\n"Me?"
+<es>{Kazushi}\n"¿Yo?"
+
+@56
+<en>{Ran}\n"If I ever decide to sell it, I'll let you know. But, at least for now, I have no intention of doing so."
+<es>{Ran}\n"Si alguna vez quiero vender mi cuerpo a alguien, te llamaré."
+
+@57
+<en>{Kazushi}\n"Y-you will? Alright then."
+<es>{Kazushi}\n"Solo quería saber que no estabas haciendo ninguna estupidez."
+
+@58
+<en>Let me know? What is she planning to sell me? I almost got excited.
+<es>Me ha excitado por un momento.
+
+@62
+<en>{Appo}\n"What are you two doing over there?\nI thought she was here to be nice to all of us!"
+<es>{Appo-}\n"¿¡Qué estáis haciendo vosotros dos!?\n¡Pensaba que estaba aquí para ser buena con todos nosotros!"
+
+@67
+<en>{Ran}\n"All right.\nI'll start with you, Appo."
+<es>{Ran}\n"Está bien.\nEmpezaré contigo, Appo-."
+
+@68
+<en>{Appo}\n"Please do so!"
+<es>
+
+@69
+<en>Ran takes a good look at Appo's body.
+<es>
+
+@72
+# Revisar.
+<en>{Ran}\n"You're way too fat."
+<es>{Ran}\n"Creo que estás muy gordo."
+
+@75
+<en>{Appo}\n"What?"
+<es>{Appo-}\n"¿Qué?"
+
+@76
+<en>{Ran}\n"The way you leer at girls is bad. Your eyes come up to about breast-level as it is. All the girls say your gaze creeps them out."
+<es>
+
+@78
+<en>{Appo}\n"The girls told you that!?"
+<es>
+
+@81
+<en>{Ran}\n"Just keep it in mind.\nYou're next, Pierre!"
+<es>{Ran}\n"Tenlo presente.\n¡Tú eres el siguiente Pierre!"
+
+@85
+<en>She pointed at Pierre.
+<es>Señaló a Pierre.
+
+@86
+<en>{Pierre}\n"Me!?"
+<es>{Pierre}\n"¿¡Yo!?"
+
+@89
+<en>{Ran}\n"Those sideburns of yours are fugly."
+<es>{Ran}\n"Cámbiate el estilo de pelo."
+
+@92
+<en>{Pierre}\n"You're joking, right!?"
+<es>{Pierre}\n"¡Estás de guasa, ¿no?!"
+
+@93
+<en>{Ran}\n"Calling yourself Pierre is also a massive turnoff: It's obvious that you're Japanese. Also, your armpits reek."
+<es>{Ran}\n"Y deja de autollamarte Pierre. Eres japonés.\n¡Y por último...! ¡hueles!"
+
+@97
+<en>{Pierre}\n"I don't smell!"
+<es>{Pierre}\n"¡No huelo!"
+
+@98
+<en>Actually, she's right about that.
+<es>La verdad es que tiene razón en eso.
+
+@101
+<en>{Ran}\n"Daigo, you're next."
+<es>{Ran}\n"Daigo, ahora te toca a ti."
+
+@105
+<en>Ran steps closer to Daigo.
+<es>Ran da un paso hacia Daigo.
+
+@108
+<en>{Ran}\n"You don't look like a student at all, so you should at least use your outfit to look young. No one wears a jersey as their casual clothes."
+<es>{Ran}\n"¡Pareces muy viejo!\nY deja de llevar la misma ropa siempre."
+
+@111
+<en>{Daigo}\n"But they're comfortable..."
+<es>{Daigo}\n"Es cómoda."
+
+@112
+<en>{Ran}\n"Also, we know you're sneaking dirty glances at us, but you better quit while you're ahead."
+<es>{Ran}\n"Y deja de mirar a las chicas..."
+
+@116
+<en>{Daigo}\n"They noticed?"
+<es>{Daigo}\n"Lo sabían..."
+
+@117
+<en>Ran kept pointing out our failures one by one. I thought we'd asked her to be nice to us, so what gives?
+<es>Pensaba que iba a ser buena con nosotros...
+
+@121
+<en>{Kazushi}\n"What are you doing?"
+<es>{Kazushi}\n"¿Qué estás haciendo?"
+
+@124
+<en>{Ran}\n"They say, 'When you help others, you can't help helping yourself,' right? Then isn't pointing out what's wrong with you guys one form of kindness?"
+<es>{Ran}\n"La verdadera amabilidad consiste en decirles a tus amigos sus 'debilidades'."
+
+@125
+<en>{Kazushi}\n"I do not think that expression means what you think it means..."
+<es>{Kazushi}\n"Hoy no estábamos buscando 'ese tipo' de amabilidad."
+
+@128
+<en>{Ran}\n"Now it's your turn, Kazushi..."
+<es>{Ran}\n"Ahora es tu turno, Kazushi..."
+
+@129
+<en>{Kazushi}\n"...I don't want to know."
+<es>{Kazushi}\n"No quiero oírlo."
+
+@130
+<en>I shouldn't have asked her.
+<es>No debería haberle preguntado.
+

@@ -1,0 +1,457 @@
+# Comments for '01001'
+
+@9
+<en>{Sakura}\n"Noooo!\nSomebody help me!!"
+<es>{Sakura}\n"¡No...!\n¡¡Que alguien me ayude!!"
+
+@14
+<en>{Pierre}\n"Deh-heh-heh! What's wrong, girlie? Why don't you come with me?"
+<es>
+
+@15
+<en>Pierre was attacking Sakura. She tried to run away, but he was persistently pursuing her.
+<es>
+
+@21
+<en>{Rin}\n"Guys, please help with the cleaning."
+<es>
+
+@22
+<en>After-school cleaning time.\nFujisaki-san's the only one who's actually making an effort.
+<es>Hora de la limpieza de después de clases.\nRin es la única que está haciendo bien el trabajo.
+
+@29
+<en>{Sakura}\n"No! Help! Somebody help!!"
+<es>{Sakura}\n"¡¡Que alguien me ayude!!"
+
+@32
+<en>{Pierre}\n"Scream all you want, no one's coming. Now give in and become mine!"
+<es>{Pierre}\n"Nadie puede oírte. ¡Ríndete y sé mía!"
+
+@33
+<en>{Sakura}\n"Help!!"
+<es>{Sakura}\n"¡¡Ayuda...!!"
+
+@37
+<en>{???}\n"Hold it right there!!"
+<es>{???}\n"¡¡Déjala tranquila!!"
+
+@38
+<en>A valiant voice responded to Sakura's scream for help.
+<es>Alguien respondió al grito de Sakura.
+
+@41
+<en>{Pierre}\n"Who is it!?"
+<es>{Pierre}\n"¿¡Quién es!?"
+
+@43
+<en>{???}\n"Here I come!!"
+<es>{???}\n"¡¡Allá voy!!"
+
+@46
+<en>Appo came somersaulting onto the scene.
+<es>Era Appo-.
+
+@48
+<en>*roll roll roll roll*
+<es>*Appo- rodando por el suelo*
+
+@49
+<en>He rolled a few extra spins across the floor.
+<es>Está rodando por el suelo.
+
+@53
+<en>{Appo}\n"Stop me!"
+<es>
+
+@57
+<en>{Daigo}\n"Keep it together."
+<es>{Daigo}\n"¿Estás bien?"
+
+@62
+<en>Daigo helped Appo to get up.
+<es>
+
+@63
+<en>{Kazushi}\n"You suck, Appo."
+<es>{Kazushi}\n"Eres penoso, Appo-."
+
+@66
+<en>{Appo}\n"Shut up!"
+<es>{Appo-}\n"¡A callar!"
+
+@70
+<en>{Pierre}\n"Hey, who are you!"
+<es>{Pierre}\n"¿¡Quién eres tú!?"
+
+@75
+<en>Pierre and Appo squared off.
+<es>Pierre y Appo- se encaran.
+
+@78
+# El hombre de la alquimia.
+# ¿El hombre alquímico? ¿Alquémico?
+<en>{Appo}\n"I am the defender of justice, Alchemy Man!"
+<es>{Appo-}\n"Soy...\n¡El hombre alquémico!"
+
+@82
+<en>He made a fighting pose with his hands together above his head. I think he was going for the character for 'gold'.
+<es>En esta ocasión hasta ha puesto una pose de batalla.
+
+@85
+<en>{Pierre}\n"You're the legendary Alchemy Man?"
+<es>{Pierre}\n"¿¡Eres tú el legendario hombre alquémico!?"
+
+@88
+<en>{Appo}\n"Yes, I am! I'm here to vanquish you with my alchemy! Alchemy Charge!"
+<es>{Appo-}\n"¡Sí, soy yo!\n¡¡Y estoy aquí para salvar el mundo!!"
+
+@90
+<en>Shakiiiin!
+<es>
+
+@94
+<en>{Appo}\n"Gold La Esperma!"
+<es>{Appo-}\n"¡¡Rayo dorado!!"
+
+@96
+<en>Kaboom!
+<es>
+
+@98
+<en>An invisible laser shot from Appo's extended palms.
+<es>El rayo se supone que salía de sus manos.
+
+@104
+<en>{Pierre}\n"Gaaah!!"
+<es>{Pierre}\n"¡¡No...!!"
+
+@107
+<en>Pierre died.
+<es>Pierre murió.
+
+@110
+<en>{Appo}\n"Evil has been vanquished. You're safe now, little girl!"
+<es>{Appo-}\n"He erradicado el mal.\nPequeña, ¡ya estás a salvo!"
+
+@115
+<en>{Sakura}\n"...Little girl?"
+<es>{Sakura}\n"¿Pequeña?"
+
+@116
+<en>{Appo}\n"Alchemy Man is a defender of little girls!!"
+<es>{Appo-}\n"¡¡El hombre alquémico!!"
+
+@122
+<en>{Rin}\n"Please everyone, let's clean."
+<es>{Rin}\n"Venga... Limpiad, por favor..."
+
+@123
+<en>Fujisaki-san was about to cry.
+<es>Rin estaba ya casi llorando.
+
+@130
+<en>{Haruka}\n"What are you guys doing?"
+<es>{Haruka}\n"¿Qué estáis haciendo?"
+
+@131
+<en>Haruka had been watching the whole thing from the doorway, but she was too overwhelmed by our curious show to enter.
+<es>Haruka estaba mirando el espectáculo junto a la puerta.
+
+@132
+<en>{Kazushi}\n"It's alright to come in. Evil has been vanquished."
+<es>{Kazushi}\n"Pasa, Haruka."
+
+@133
+<en>{Haruka}\n"Huh? Well, thanks I guess."
+<es>{Haruka}\n"Gracias."
+
+@134
+<en>Haruka is visiting us again.
+<es>Haruka ha venido a visitarnos otra vez.
+
+@139
+<en>{Sakura}\n"Harunyan!\nDo you wanna play Alchemy Man with us?"
+<es>{Sakura}\n"¡Haruka!\n¡¿Juegas con nosotros al hombre alquémico?!"
+
+@142
+<en>{Haruka}\n"What's Alchemy Man?"
+<es>{Haruka}\n"¿Qué es eso del 'hombre alquémico'?"
+
+@149
+<en>{Daigo}\n"A hero of justice who uses alchemy to save the world! ...At least that's the setting."
+<es>{Daigo}\n"Un héroe que usa la alquimia para salvar el mundo..."
+
+@152
+# Suena bien.
+<en>{Haruka}\n"Wow, you're using alchemy to fight evil? That sounds cool!"
+<es>{Haruka}\n"Suena guay."
+
+@153
+<en>I can't believe she's showing genuine interest in this...
+<es>No puedo creer que le haya llamado la atención.
+
+@154
+<en>{Kazushi}\n"We're really feeling the alchemy's influence."
+<es>
+
+@159
+<en>{Haruka}\n"Really!?\nYou guys liked it?"
+<es>{Haruka}\n"¿¡De verdad!?\n¿Os gusta?"
+
+@160
+<en>{Kazushi}\n"Sure.\nIt's cool. Just like magic."
+<es>{Kazushi}\n"Claro.\nMola. Es como la magia."
+
+@161
+<en>{Haruka}\n"Well, it's not really magic.\nBut I'm still glad you guys liked it."
+<es>{Haruka}\n"Bueno. No es exáctamente como la magia,\npero aún así me alegro de que os guste."
+
+@166
+<en>{Fuusen}\n"It's not worth getting worked up about, Haruka-chan.\nNow they're even more annoying than ever."
+<es>
+
+@170
+<en>{Appo}\n"You guys are annoying!"
+<es>
+
+@174
+<en>{Andou}\n"A defender of justice who speaks like that? How low."
+<es>{Rei}\n"Un héroe nunca diría algo así."
+
+@175
+<en>{Appo}\n"You two are the bad guys!\nDo you want me to defeat you with my Gold Anus Cutter?!"
+<es>
+
+@178
+<en>{Andou}\n"What? You want a go?"
+<es>
+
+@182
+<en>Big Rei stood up to fight Alchemy Man.
+<es>La Gran Rei se levantó para luchar al hombre alquémico.
+
+@183
+<en>She's huge. I could barely stand.
+<es>Es enorme.
+
+@188
+<en>{Haruka}\n"Don't fight!\nCome on, let's all join in and play Alchemy Man."
+<es>{Haruka}\n"¡No luchéis!\n¡Juguemos todos al hombre alquémico!"
+
+@192
+<en>{Fuusen}\n"Us too?\nNo way!"
+<es>{Hu-sen}\n"¿Nosotras también?\nNi hablar."
+
+@195
+<en>{Haruka}\n"Come on, it'll be fun!\nThis time Kazuko-chan can be the heroine!"
+<es>
+
+@202
+<en>{Appo}\n"What!?"
+<es>{Appo-}\n"¿¡Qué!?"
+
+@206
+<en>{Pierre}\n"That's a bit rough."
+<es>{Pierre}\n"No funcionaría."
+
+@207
+# "The only one" que comentan en el opening.
+<en>{Haruka}\n"It'll be fine. Kazuko's perfect for the role. She's like a princess!"
+<es>{Haruka}\n"¡Ella es la única!\n¡Es como una princesa!"
+
+@211
+<en>{Daigo}\n"A princess......"
+<es>{Daigo}\n"Una princesa..."
+
+@212
+<en>{Pierre}\n"Are you insane?"
+<es>{Pierre}\n"¿Estás de guasa?"
+
+@213
+<en>At first, I thought Haruka was making fun of Fuusen.
+<es>Al principio pensaba que Haruka estaba tomándole el pelo a Hu-sen.
+
+@219
+<en>{Ran}\n"The fact that she can honestly say that is part of what makes Haruka amazing."
+<es>{Ran}\n"Haruka parece decirlo en serio."
+
+@220
+<en>{Kazushi}\n"I agree."
+<es>{Kazushi}\n"Pues sí."
+
+@221
+<en>Indeed, for some reason, Haruka saw Fuusen as extremely princess-like.
+<es>De hecho, parece que por algún motivo Haruka ve a Hu-sen como alguna especie de princesa.
+
+@226
+<en>{Mizuki}\n"See? Kazuko doesn't seem to mind either."
+<es>{Mizuki}\n"A Hu-sen parece que no le importa."
+
+@231
+<en>{Fuusen}\n"Fine, I'll do it. But I'm not doing this because of you boys. I'm just a girl who can't say no."
+<es>
+
+@232
+<en>It was true. She was totally in to it.
+<es>
+
+@237
+<en>{Andou}\n"Hey, Villain, hurry up and kidnap Kazuko-chan."
+<es>{Rei}\n"Ey, malotes.\nCapturad a la princesa Hu-sen."
+
+@238
+<en>{Kazushi}\n"Huh? Me, the villain?"
+<es>{Kazushi}\n"¿Yo? ¿'Malote'?"
+
+@239
+<en>Why do I have to kidnap Fuusen?
+<es>¿Por qué me han metido en el grupo de los malos?
+
+@246
+<en>{Haruka}\n"Then I'll be a villain along with Kazushi-kun! Kazushi-kun, I'm going to kidnap Kazuko-chan!"
+<es>{Haruka}\n"¡Yo también quiero ser de las malas!\n¡Voy a secuestrar a Hu-sen!"
+
+@247
+<en>It's funny.\nWhen Haruka takes over on something it's impossible to argue.
+<es>
+
+@248
+<en>{Kazushi}\n"All right, let's do it!"
+<es>
+
+@249
+<en>{Haruka}\n"Kazuko-chan, I'm coming after you!!"
+<es>{Haruka}\n"¡¡Hu-sen, voy a atraparte!!"
+
+@256
+<en>{Haruka}\n"Ah, hey, Appo-kun, hurry, save Kazuko-chan."
+<es>{Haruka}\n"Venga Appo-, se supone que tienes que salvar a la princesa Hu-sen."
+
+@257
+<en>{Appo}\n"S-sure!"
+<es>{Appo-}\n"S-Sí."
+
+@258
+<en>Appo set off to reluctantly save the princess.
+<es>
+
+@264
+<en>{Rin}\n"Please, everyone, help clean..."
+<es>{Rin}\n"¿Y qué pasa con la limpieza de la clase?"
+
+@265
+<en>We ended up not doing our afternoon cleaning.
+<es>Al final acabamos por no limpiar nada.
+
+@273
+<en>{Haruka}\n"I had so much fun."
+<es>{Haruka}\n"Me lo he pasado muy bien."
+
+@274
+<en>I'm escorting Haruka back to the dorm.
+<es>
+
+@275
+<en>{Kazushi}\n"I feel bad for Fujisaki-san."
+<es>{Kazushi}\n"Me sabe mal por Rin."
+
+@278
+<en>{Haruka}\n"That's true."
+<es>{Haruka}\n"Es verdad."
+
+@279
+# ¿Rei o Rin?
+<en>Since we refused to listen no matter how often she asked, Fujisaki-san ended up doing all the cleaning by herself.
+<es>Rei acabó limpiando todo ella sola.
+
+@280
+<en>{Haruka}\n"She should've joined us."
+<es>{Haruka}\n"Debería haber jugado con nosotros."
+
+@281
+<en>{Kazushi}\n"That's true."
+<es>{Kazushi}\n"Es cierto."
+
+@284
+<en>{Haruka}\n"By the way, I'm truly happy that you guys liked alchemy class so much. It takes a load off my mind."
+<es>{Haruka}\n"Por cierto. De verdad que estoy muy contenta de que os haya gustado la alquimia."
+
+@285
+<en>I could see how relieved she was.
+<es>Parece aliviada.
+
+@286
+<en>{Kazushi}\n"I didn't know you were so worried about it."
+<es>{Kazushi}\n"No sabía que te preocupase tanto."
+
+@289
+<en>{Haruka}\n"Well, I had no idea what sort of thing big city boys would like. All city people play internet or match-making site, right?"
+<es>{Haruka}\n"Porque no tenía ni idea de cómo serían los chicos de la gran ciudad."
+
+@290
+<en>{Kazushi}\n"Do you even know what those are?"
+<es>{Kazushi}\n"¿Pensabas que no iba a interesarnos la alquimia?"
+
+@293
+<en>{Haruka}\n"Of course not. I was born and raised on this island. That's why I was worried you might find alchemy boring and old-fashioned."
+<es>{Haruka}\n"Me preocupaba que a los chicos de la gran ciudad la alquimia les resultase arcaica, sosa y aburrida."
+
+@294
+<en>{Kazushi}\n"I see.\nBut I guess you worried too much. We all liked it."
+<es>{Kazushi}\n"Ya veo.\nPero creo que te has preocupado demasiado. Nos ha gustado a toos."
+
+@297
+<en>{Haruka}\n"I'm glad you all liked it. I'm glad you took an interest in it too, Kazushi-kun."
+<es>{Haruka}\n"Y yo me alegro de que te gustase."
+
+@298
+<en>{Kazushi}\n"Me?"
+<es>{Kazushi}\n"¿A mí?"
+
+@299
+<en>I think she's starting to look at me as more than just a friend.\n...Does that mean she has feelings for me?
+<es>Creo que me ve como algo más que un simple amigo... ¿Siente algo por mí?
+
+@300
+<en>......Maybe I'm dreaming.
+<es>Quizá esté soñando...
+
+@303
+<en>{Haruka}\n"Hey, how come you didn't get to be Alchemy Man?"
+<es>{Haruka}\n"Oye, ¿y cómo es que no hiciste tú de hombre alquémico?"
+
+@304
+<en>{Kazushi}\n"I was always told to be a bad guy."
+<es>{Kazushi}\n"Siempre hacía de chico malo."
+
+@305
+<en>Appo and Pierre always make sure they're the lead.
+<es>Y Appo- y Pierre siempre hacían de buenos.
+
+@308
+# Ay that me lol.
+<en>{Haruka}\n"Will you be Alchemy Man for me if I need help?"
+<es>{Haruka}\n"¿Y tú serás mi hombre alquémico cuando necesite ayuda?"
+
+@309
+<en>I wonder... is she just being nice, or is she serious?
+<es>Me pregunto si lo ha dicho simplemente por ser amable, o si le gusto.
+
+@310
+<en>Either way, it was strange how she made me feel like doing it.
+<es>Sea como fuere, me alegro de ahora que seamos buenos amigos.
+
+@311
+<en>{Kazushi}\n"Yeah, you can count on me."
+<es>{Kazushi}\n"Claro."
+
+@312
+<en>{Haruka}\n"Okay, I will."
+<es>{Haruka}\n"Ven a rescatarme."
+
+@313
+# Desearía ser/Ojalá pueda|pudiera/Me encantaría ser tu héroe.
+<en>Alchemy Man, huh? I wonder if even I can ever be somebody's hero.
+<es>Me encantaría ser tu héroe.
+

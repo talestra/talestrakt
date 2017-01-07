@@ -1,0 +1,598 @@
+# Comments for '04206'
+
+@9
+<en>{Kazushi}\n"We should go to bed now."
+<es>
+
+@10
+<en>{Appo}\n"*Yawn* Yeah, we should."
+<es>
+
+@17
+<en>{Daigo}\n"Kazushi, Appo! It's an emergency!!"
+<es>
+
+@18
+<en>Big Daigo rushed into our room just as we were about to sleep.
+<es>
+
+@19
+<en>{Kazushi}\n"What is it?\nWhat is the matter?"
+<es>
+
+@24
+<en>{Daigo}\n"Give me a second. I need to drink something first!"
+<es>
+
+@25
+<en>{Appo}\n"Calm down. What do you want?"
+<es>
+
+@26
+<en>{Daigo}\n"Just give me something!"
+<es>
+
+@27
+<en>{Kazushi}\n"Here, drink this."
+<es>
+
+@30
+<en>{Daigo}\n"*Gulp Gulp Gulp* Phah! Thanks, now I'm calm. By the way, what's that weird taste?"
+<es>
+
+@31
+<en>{Kazushi}\n"VapoRub."
+<es>
+
+@34
+<en>{Daigo}\n"That's medicine you rub on your chest! What are you making me drink!?"
+<es>
+
+@35
+<en>{Kazushi}\n"You're the one who said anything would be fine."
+<es>
+
+@36
+<en>{Appo}\n"Don't worry. There wasn't much left so we diluted it with water. Quit complaining."
+<es>
+
+@37
+<en>{Daigo}\n"Ah, well in that case it may be good for me. No! This is no time to act calm! Something's wrong with Pierre! Come quick!!"
+<es>
+
+@38
+<en>{Kazushi}\n"Yeah, the name Pierre is a pretty bad nickname."
+<es>
+
+@39
+<en>{Daigo}\n"I know that, but that's not it! Just come with me!"
+<es>
+
+@40
+<en>{Appo}\n"Alright, alright!"
+<es>
+
+@49
+<en>{Kazushi}\n"So, Daigo, how exactly is Pierre being weirder than usual?"
+<es>
+
+@50
+<en>{Daigo}\n"He just took off after saying 'The time is ripe'."
+<es>
+
+@53
+<en>{Appo}\n"What did he mean by that?"
+<es>
+
+@56
+<en>{Appo}\n"Oh, there he is! Hey, Pierre!!"
+<es>
+
+@61
+<en>{Pierre}\n"Heh, heh, heh..."
+<es>
+
+@62
+<en>{Kazushi}\n"Pierre?"
+<es>
+
+@63
+<en>{Pierre}\n"MWAH HAH HAH HAH HAH!"
+<es>
+
+@69
+<en>{Daigo}\n"What's wrong with you?"
+<es>
+
+@74
+<en>{Pierre}\n"From now on, you are to call me Pierre the Alchemist!"
+<es>
+
+@75
+<en>{Kazushi}\n"Did you get a hair stuck in your throat? You're acting strange."
+<es>
+
+@78
+<en>{Pierre}\n"No! I didn't eat anything bad. I'm not acting strange, either!"
+<es>
+
+@81
+<en>{Pierre}\n"I have accidentally created a drug that will revolutionize this rotten world!"
+<es>
+
+@87
+<en>{Kazushi}\n"......what should we do with this kid?"
+<es>
+
+@88
+<en>{Daigo}\n"Maybe he's been single too long and finally lost his mind."
+<es>
+
+@89
+<en>{Appo}\n"Hey, Pierre, I'm going to tell you three things. If any of them sound familiar to you, then you need to come to the nurse's office with us, OK?"
+<es>
+
+@107
+<en>{Pierre}\n"None of them! Listen, you fools! I have successfully brewed a love potion!"
+<es>
+
+@108
+<en>{Kazushi}\n"A love potion?"
+<es>
+
+@111
+<en>{Pierre}\n"Last time we had alchemy lab I started messing about, and somehow made a kind of pretty looking liquid. Anyways, it looked so good, I went ahead and drank it."
+<es>
+
+@116
+<en>{Daigo}\n"You drank it!?"
+<es>
+
+@123
+<en>{Appo}\n"What the hell were you thinking!!? You're lucky to still be alive!"
+<es>
+
+@128
+<en>{Pierre}\n"I'm still alive, so it doesn't matter. I drank it, I couldn't help but get turned on...\nMy body started heating up..."
+<es>
+
+@133
+<en>{Daigo}\n"Is that why you've been walking funny lately?"
+<es>
+
+@137
+<en>{Pierre}\n"Then it finally hit me. Without a doubt, it was an aphrodisiac!"
+<es>
+
+@138
+<en>{Kazushi}\n"An aphrodisiac? ...You mean those things they only sell by mail-order in sketchy magazines?"
+<es>
+
+@139
+<en>{Pierre}\n"I tried it on Hosoi and Itou from the next class. It was unbelievable."
+<es>
+
+@140
+<en>{Kazushi}\n"What happened?"
+<es>
+
+@143
+<en>{Pierre}\n"They crossed it. They crossed the line. Despite both being men."
+<es>
+
+@148
+<en>{Daigo}\n"No way!! Are you serious!?"
+<es>
+
+@149
+<en>{Pierre}\n"So I got an idea. Why don't we try some on the girls and then show up for them when it's at full effect?"
+<es>
+
+@150
+<en>{Pierre}\n"How would they react?\nYes, Appo?"
+<es>
+
+@157
+<en>{Appo}\n"I...I think the animals within them will be awakened!!"
+<es>
+
+@160
+<en>{Pierre}\n"Right? Right? You think so, right? That's why I've already given them some sweets spiked with it!"
+<es>
+
+@161
+<en>{Kazushi}\n"Are you serious!? Who did you give them to!?"
+<es>
+
+@162
+<en>{Pierre}\n"Lessee, I gave them to..."
+<es>
+
+@169
+<en>{Sakura}\n"Hey, girls! Pierre brought me a cake! Why don't we eat this together?"
+<es>
+
+@174
+<en>{Rin}\n"Oooh, it's a waffle cake. I didn't know that Pierre had that kind of hobby."
+<es>
+
+@181
+<en>{Ran}\n"Be careful, girls. He might have an ulterior motive."
+<es>
+
+@182
+<en>{Sakura}\n"Ahahaha. If that's so, he's using a really old school trick. Trying to bait girls with candy."
+<es>
+
+@185
+<en>{Ran}\n"Given how old school his hairstyle is, I think I'll pass."
+<es>
+
+@186
+<en>{Rin}\n"It looks delicious. I wonder if he made this."
+<es>
+
+@189
+<en>{Sakura}\n"He asked me to share my impression of it after eating it."
+<es>
+
+@192
+<en>{Rin}\n"Wow, a researcher, huh? But I just don't see him baking sweets for a hobby."
+<es>
+
+@197
+<en>{Kazushi}\n"You made Sakura try it?"
+<es>
+
+@200
+<en>{Pierre}\n"Girlslovesweetsloveeatmeeatgirlsloveeat, okay?"
+<es>
+
+@206
+<en>{Daigo}\n"What is going on inside his head?"
+<es>
+
+@207
+<en>{Appo}\n"I think this must be a side effect of the drug. Honestly, he's two points away from me calling the cops."
+<es>
+
+@212
+<en>{Pierre}\n"The girls should be eating the cake in the cafeteria by now. And soon she'll be here to tell me how it is. And she might not be the only one who's eaten it..."
+<es>
+
+@217
+<en>{Appo}\n"Wait a minute!\nAre you saying......?"
+<es>
+
+@218
+<en>{Daigo}\n"You're the man!"
+<es>
+
+@219
+<en>{Pierre}\n"The great, late-night matchup of Pierre VS the female army, will be hosted in Eiden Academy!"
+<es>
+
+@220
+<en>{Kazushi}\n"You must be dreaming......"
+<es>
+
+@221
+<en>{Pierre}\n"Hah, hah, hah! Call me a strategist, Kazushi! Bite in girls! Bite in! Then I'll be the one biting into you! Nom nom! Badmp badmp! MWAHAHAHAHA!!"
+<es>
+
+@230
+<en>{Sakura}\n"Here's the tea. Should we get started?"
+<es>
+
+@233
+<en>{Rin}\n"Oh! Hi, Iida-senpai. What are you doing here?"
+<es>
+
+@240
+<en>{Panchu}\n"Oh. I 'as 'akin' 'ome 'rea' in 'he 'itchen."
+<es>
+
+@243
+<en>{Sakura}\n"Wow! They look delicious! And they're fresh out of the oven!!"
+<es>
+
+@246
+<en>{Rin}\n"It's so true. They look so delicious!!"
+<es>
+
+@249
+<en>{Panchu}\n"Yeah. I'm 're''y 'onfi'en' in 'his 'atch. I''s my firs' 'ime 'a'in' u'uisu an'an."
+<es>
+
+@250
+<en>{Sakura}\n"We don't get to eat freshly baked bread around here very often."
+<es>
+
+@251
+<en>{Rin}\n"I don't think I can bake them this well, either."
+<es>
+
+@254
+<en>{Panchu}\n"...'o you 'irls 'an' 'o 'ry?"
+<es>
+
+@255
+<en>{Sakura}\n"Do you mean that!? I'd be happy to!"
+<es>
+
+@258
+<en>{Rin}\n"But what should we do with this waffle cake?"
+<es>
+
+@259
+<en>{Sakura}\n"How about we give it to Panchu-senpai in exchange?"
+<es>
+
+@262
+<en>{Panchu}\n"Wha' is 'his?"
+<es>
+
+@265
+<en>{Sakura}\n"Pierre-kun made this. He wanted us to tell him how it was, so please make sure you do after you eat it!"
+<es>
+
+@268
+<en>{Panchu}\n"Hmm, 'ierre, huh? Hamgh. I''s 'oo sweet. 'i' he use 'oo 'u'h su'ar? I' has a s'ran'e 'as'e 'oo."
+<es>
+
+@271
+<en>{Rin}\n"He said he'd be cleaning the gates in front of the girls' dorm while waiting for us if you need to see him."
+<es>
+
+@274
+<en>{Sakura}\n"Panfu-semfai, you're freah is sho helicioush!"
+<es>
+
+@277
+<en>{Panchu}\n"Hmm. Now I'm im'resse'. Well, I'll 'o 'rin' hi' some 'rea' for a sna''."
+<es>
+
+@278
+<en>{Sakura}\n"You're sho hind!"
+<es>
+
+@279
+<en>{Rin}\n"Can you tell him we said thanks?"
+<es>
+
+@280
+<en>{Panchu}\n"Sure."
+<es>
+
+@288
+<en>{Panchu}\n"Wha's 'his...?"
+<es>
+
+@289
+<en>{Panchu}\n"My 'o'y feels so ho'..."
+<es>
+
+@290
+<en>{Panchu}\n"I feel li'e......"
+<es>
+
+@293
+<en>{Panchu}\n"I really wan' 'o..."
+<es>
+
+@296
+<en>{Panchu}\n"'oesn'' 'a''er who..."
+<es>
+
+@299
+<en>{Panchu}\n"............"
+<es>
+
+@302
+<en>{Panchu}\n"......'u'' someone."
+<es>
+
+@310
+<en>{Pierre}\n"I hear them! I can hear them!! The footsteps of my angels climbing the stairway to pleasure!"
+<es>
+
+@311
+<en>{Kazushi}\n"We don't hear anything."
+<es>
+
+@314
+<en>{Pierre}\n"What are you still doing here, you fools!? Go hide somewhere! I will let you see the moment I become a man from the front row!"
+<es>
+
+@318
+<en>{Appo}\n"You dumbass."
+<es>
+
+@326
+<en>{Pierre}\n"Ouch! What did you do that for? You really hit me that time!"
+<es>
+
+@330
+<en>{Appo}\n"I thought we were supposed to be friends! I'm so sad! I'm so sad, Pierre!"
+<es>
+
+@333
+<en>{Pierre}\n"Appo......"
+<es>
+
+@334
+<en>{Appo}\n"I thought we were like brothers! We share the rough times in half, and double the good things, like a family!"
+<es>
+
+@337
+<en>{Pierre}\n"Like a family..."
+<es>
+
+@340
+<en>{Appo}\n"Stand up, Pierre. Everyone is equal in our family..."
+<es>
+
+@343
+<en>{Appo}\n"Let me call you Aniki for today."
+<es>
+
+@346
+<en>{Pierre}\n"My little brother!"
+<es>
+
+@349
+<en>{Appo}\n"Aniki!"
+<es>
+
+@350
+<en>{Appo}\n"So, Aniki! If there are too many for you to handle, call on me, your little brother, for help! You can call on me first!"
+<es>
+
+@357
+<en>{Daigo}\n"Appo, you traitor!"
+<es>
+
+@358
+<en>{Kazushi}\n"You just wanna be a part of it!"
+<es>
+
+@361
+<en>{Appo}\n"Shut up! You guys are still just babies. Shut up and watch your big brothers duke it out for love!"
+<es>
+
+@367
+<en>{Pierre}\n"Hey! Someone's coming this way! Hide!"
+<es>
+
+@371
+<en>We jumped into the bushes.
+<es>
+
+@375
+<en>{Pierre}\n"Oh my! Cleaning is so tiring! But I'm happy to help beautify my beloved school!"
+<es>
+
+@376
+<en>{Kazushi}\n"What is that?"
+<es>
+
+@377
+<en>{Appo}\n"His idea of foreplay."
+<es>
+
+@380
+<en>{Pierre}\n"And...... I have one more thing to be happy about."
+<es>
+
+@381
+<en>{Pierre}\n"It's you coming here for me."
+<es>
+
+@382
+<en>{Daigo}\n"He's giving me goosebumps."
+<es>
+
+@383
+<en>{Kazushi}\n"Who's there?"
+<es>
+
+@384
+<en>{Appo}\n"It's too dark to see."
+<es>
+
+@387
+<en>{Pierre}\n"To make today a special day, I will be brave enough to confess this to you!"
+<es>
+
+@390
+<en>{Pierre}\n"I want to have a special relationship with......!"
+<es>
+
+@394
+<en>{Panchu}\n"......"
+<es>
+
+@399
+<en>{Pierre}\n"Youuuuuuuuuuuuu! What?! Why?! Why?!"
+<es>
+
+@402
+<en>{Panchu}\n"A s'ecial......re'ation'hip...?"
+<es>
+
+@405
+<en>{Pierre}\n"Why!? Why are you here, Panchu-sempai!?"
+<es>
+
+@408
+<en>{Panchu}\n"A s'ecial......re'ation'ship... One o' one?"
+<es>
+
+@409
+<en>{Pierre}\n"No! Not at all! There is nothing special about us!! Just sempai and kohai!!"
+<es>
+
+@412
+<en>{Panchu}\n"For 'ome 'eason my 'o'y's no' 'ight......I''s 'ravin' 'lood..."
+<es>
+
+@413
+<en>{Kazushi}\n"What's Panchu-sempai doing here?"
+<es>
+
+@414
+<en>{Daigo}\n"What should we do, big brother?"
+<es>
+
+@415
+<en>{Appo}\n"Are you guys stupid? At a time like this, you watch how your big brother set an example and sacrificed himself for your survival! How can we go out there and deal with that!?"
+<es>
+
+@416
+<en>Pierre's face was pale enough to be a ghost as Panchu-sempai closed in.
+<es>
+
+@417
+<en>{Panchu}\n"A''ight, 'ierre... 'ome 'his 'ay...... Le''s form our s'ecial re'ation'hip."
+<es>
+
+@418
+<en>{Pierre}\n"Seriously! I insist! Don't worry about what I said earlier!\nHelp me, my brothers! Oh, where are my precious brothers?!"
+<es>
+
+@419
+<en>{Panchu}\n"'ierre...... 'ulp A or 'ulp B... whi'h 'o you 'refer?"
+<es>
+
+@422
+<en>{Pierre}\n"......B?"
+<es>
+
+@425
+<en>{Panchu}\n"'loo'y 'ulp I' is 'hen."
+<es>
+
+@430
+<en>{Pierre}\n"No!!"
+<es>
+
+@433
+<en>With a scream, Pierre disappeared into the trees with Panchu-sempai.
+<es>
+
+@434
+<en>{Kazushi}\n"As you said, the animal within was surely awakened."
+<es>
+
+@439
+<en>{Daigo}\n"The only difference was......"
+<es>
+
+@440
+<en>{Appo}\n"The footsteps he heard were not from the angels, but from the grim reaper..."
+<es>
+
+@441
+<en>Later, we heard from Daigo that Pierre had returned early in the morning and covered in blood, whereupon he silently crawled under the covers and cried until dawn.
+<es>
+

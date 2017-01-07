@@ -1,0 +1,418 @@
+# Comments for '007b6'
+
+@8
+<en>Hinata-san, huh? I'd like to get to know her better. We do sit next to each other in class.
+<es>Tengo que conocerla mejor. Nos seguiremos sentado juntos algún tiempo más.
+
+@9
+<en>{Kazushi}\n"Where's Hinata-san?"
+<es>{Kazushi}\n"¿Dónde está Mizuki...?"
+
+@10
+<en>There were a lot of people here, but I didn't see her anywhere I looked.
+<es>No la veo.
+
+@11
+<en>{Kazushi}\n"I wonder if she's..."
+<es>{Kazushi}\n"Podría estar..."
+
+@12
+<en>I had a feeling that she'd be outside.
+<es>Tengo el presentimiento de que está fuera.
+
+@20
+<en>{Kazushi}\n"Knew it."
+<es>{Kazushi}\n"Sip."
+
+@21
+<en>She was sitting there outside, all by herself.
+<es>Estaba sola fuera.
+
+@23
+<en>{Mizuki}\n"Ah!......"
+<es>{Mizuki}\n"¡¡...!!"
+
+@24
+# Revisar.
+<en>She recognized me and turned her head away. I ignored that and kept walking towards her.
+<es>Me ha reconocido y me ha evadido con la cabeza.
+
+@27
+<en>{Kazushi}\n"What are you doing here?"
+<es>{Kazushi}\n"¿Qué haces aquí?"
+
+@28
+<en>{Mizuki}\n"......resting."
+<es>{Mizuki}\n"...Tomarme un respiro."
+
+@29
+<en>Her response was curt. I suddenly had a thought: maybe she was just awkward around people.
+<es>Me ha respondido a regañadientes.
+
+@30
+<en>{Kazushi}\n"Are you drunk?"
+<es>{Kazushi}\n"¿Estás bebida?"
+
+@31
+# Hay que ver si se refiere a que no ha bebido antes o a que no bebe.
+# El japonés es muy ambigüo y los traductores al inglés no se esmeraron mucho.
+<en>{Mizuki}\n"I didn't drink."
+<es>{Mizuki}\n"No he bebido."
+
+@32
+<en>{Kazushi}\n"You sure? Because your face sure is red."
+<es>{Kazushi}\n"¿Ah sí? Es que tienes la cara roja."
+
+@35
+<en>{Mizuki}\n"I-it's the sunset."
+<es>{Mizuki}\n"Es por el sol."
+
+@38
+<en>She turned her head away again. She might just be awkward, not a bad person.
+<es>Ha vuelto a girar la cabeza para evitarme.
+
+@39
+<en>{Mizuki}\n".................."
+<es>{Mizuki}\n"..."
+
+@40
+<en>{Kazushi}\n"Oh, right. I'm sorry about this afternoon."
+<es>{Kazushi}\n"Oye... Siento lo de antes."
+
+@43
+<en>{Mizuki}\n"Huh? What now?"
+<es>{Mizuki}\n"¿Qué quieres decir?"
+
+@44
+<en>{Kazushi}\n"Remember? I called you a lesbian?"
+<es>{Kazushi}\n"Lo de que eras lesbiana."
+
+@45
+<en>Just having to explain that turned my cheeks red. What on Earth was wrong with me when I said that to her face?
+<es>Debo estar como una cabra por decirle eso.
+
+@48
+<en>{Mizuki}\n"That really was horrible. Would you normally say that? Especially to someone's face?"
+<es>{Mizuki}\n"¿Cómo has podido decir algo así?"
+
+@49
+<en>Shit. I didn't mean to get her angry again.
+<es>Ups, no quería hacer que se volviese a enfadar.
+
+@50
+<en>{Kazushi}\n"S-sorry.\nI guess I had the wrong preconception of an all-girls' school. My imagination went wild."
+<es>{Kazushi}\n"Lo siento.\nHabía oído que no era algo inusual en la escuela para chicas."
+
+@53
+<en>{Mizuki}\n"Your imagination? Oh come on! What the heck were you imagining?"
+<es>{Mizuki}\n"¿Dónde has oído eso...?"
+
+@54
+<en>{Kazushi}\n"Well, it's embarrassing to say, but... I imagined two girls ****ing each other, ****ing their *****, and it was pretty realistic too."
+<es>{Kazushi}\n"Me habían dicho que las chicas hacían muchas cosas entre ellas..."
+
+@57
+<en>{Mizuki}\n"Stop! Stop! I wasn't asking you go into that much detail!"
+<es>{Mizuki}\n"¡Para!\n¡Ya es suficiente!"
+
+@58
+<en>{Kazushi}\n"Huh? Oh, you weren't?"
+<es>{Kazushi}\n"Está bien."
+
+@59
+<en>Oops. I made her even angrier. Why do I always end up making her angry? Are we incompatible?
+<es>Ups. La he enfadado todavía más.
+
+@60
+<en>{Kazushi}\n"Hinata-san, are you upset that we boys enrolled at this school?"
+<es>{Kazushi}\n"¿Estás enfadada porque no querías que ningún chico se apuntase a esta escuela?"
+
+@61
+<en>I wondered if that was the reason she was so grumpy. It was the only reason I could think of.
+<es>Era lo primero que se me había ocurrido de por qué me ignoraba.
+
+@64
+<en>{Mizuki}\n"Not really..."
+<es>{Mizuki}\n"Eso no me importa..."
+
+@65
+<en>{Kazushi}\n"No? But you're always grumpy? Oh, are you on your period?"
+<es>{Kazushi}\n"¿Estás con la regla?"
+
+@68
+<en>{Mizuki}\n"............!"
+<es>{Mizuki}\n"¡...!"
+
+@69
+<en>{Kazushi}\n"Er, no, nothing."
+<es>{Kazushi}\n"No he dicho nada."
+
+@70
+<en>I really think I should just shut up.
+<es>Creo que debería dejar de intentar hablar con ella.
+
+@73
+<en>{Mizuki}\n"Can we not talk about that? I hate periods. It's because I can't swim."
+<es>{Mizuki}\n"No me gusta la regla. No puedo nadar cuando la tengo."
+
+@74
+<en>{Kazushi}\n"Oh, yeah..."
+<es>{Kazushi}\n"Ya veo..."
+
+@75
+<en>I guess I was pretty close?
+<es>Ya imaginaba que estaba enfadada conmigo y que no tenía nada que ver con la regla.
+
+@78
+<en>{Mizuki}\n"I haven't been able to swim as much as I want to for a long time."
+<es>{Mizuki}\n"Llevo sin nadar todo lo que me gustaría desde hace bastante tiempo."
+
+@79
+<en>She stretched out like she really hadn't worked her body in a while. Maybe she's just frustrated?
+<es>Se estira.
+
+@80
+<en>{Kazushi}\n"Why can't you swim? Oh, because your period came?"
+<es>{Kazushi}\n"¿Y cómo es eso?"
+
+@83
+<en>{Mizuki}\n"You're wrong! It's because you boys came!"
+<es>{Mizuki}\n"¡Por vosotros!"
+
+@84
+<en>{Kazushi}\n"Huh? Us? Why can't you swim because of us?"
+<es>{Kazushi}\n"¿Nosotros?\n¿Por qué no puedes nadar por nosotros?"
+
+@85
+<en>It had to be a false accusation, right? When I asked her, Hinata puffed out her cheeks. She looked just like an angry kid.
+<es>Pone una cara de enfado como en los dibujos.
+
+@86
+# Revisar.
+<en>I almost started laughing.
+<es>Hace que me entre la risa tonta.
+
+@89
+<en>{Mizuki}\n"Until now, I could swim wherever, whenever without worrying about it. The ocean is all around us after all."
+<es>{Mizuki}\n"Solíamos poder nadar siempre que quisiésemos."
+
+@90
+<en>{Kazushi}\n"That's true."
+<es>{Kazushi}\n"¿Y?"
+
+@91
+<en>This was the perfect place for swimming. To put it differently, the ocean was all we had for fun here.
+<es>Esta isla es un lugar ideal para disfrutar nadando.
+
+@93
+<en>{Mizuki}\n"And well, there were only girls on this island, so I could readily swim without worrying about my outfit. I could just change wherever."
+<es>{Mizuki}\n"Nos podíamos poner el bañador en cualquier parte de la playa."
+
+@96
+<en>{Mizuki}\n"Now that you boys are here, I can't do that. I have to be more careful about a lot of things."
+<es>{Mizuki}\n"Ahora hay chicos por aquí."
+
+@97
+<en>{Kazushi}\n"I see."
+<es>{Kazushi}\n"Ya veo."
+
+@98
+<en>She didn't have to worry earlier because it was an all girls academy, but she had to now that we were here.
+<es>Ahora la entiendo.
+
+@99
+<en>{Kazushi}\n"I guess it is our fault then. I didn't know we were taking away your hobby. ...Sorry."
+<es>{Kazushi}\n"No éramos conscientes de que te hubiésemos fastidiado el hobby."
+
+@102
+<en>{Mizuki}\n"You don't have to be that bothered by it. I'm not blaming you all, okay? But the fact that I can't swim is so fru~stra~ting!"
+<es>{Mizuki}\n"No estoy realmente enfadada, ¿sabes?\nTan solo es que me gustaría poder nadar más amenudo..."
+
+@103
+<en>I see. So that's why she's always in a bad mood.
+<es>Quizá estaba enfadada por eso.
+
+@104
+<en>{Kazushi}\n"So you like swimming, then."
+<es>{Kazushi}\n"Te gusta nadar."
+
+@107
+<en>{Mizuki}\n"I love swimming!"
+<es>{Mizuki}\n"¡Me encanta nadar!"
+
+@108
+<en>Hinata-san's smile was so fascinating it blew away all of her grumpy faces.
+<es>Al final me ha mostrado una sonrisa.
+
+@109
+<en>{Kazushi}\n"Ah!......"
+<es>{Kazushi}\n"¡¡...!!"
+
+@116
+<en>We heard a clap of thunder and it started raining. It was an evening shower.
+<es>Oímos un trueno. La lluvia empezó a caer.
+
+@117
+<en>Then rain picked up force in no time.
+<es>Es una lluvia densa.
+
+@118
+<en>{Kazushi}\n"Gah! Look at the rain! Let's get back inside!"
+<es>{Kazushi}\n"¡Volvamos dentro!"
+
+@121
+<en>But Mizuki refused to budge. She looked up at the sky and basked in the buckets of rain pouring down on her.
+<es>Se negó a moverse.
+
+@122
+<en>{Kazushi}\n"Hey? Hinata-san?"
+<es>{Kazushi}\n"¿Vienes?"
+
+@123
+<en>We were both soaked in no time. Our shirts, our underwear, even the insides of our shoes were wet. And yet...
+<es>Nos empapamos completamente.
+
+@124
+<en>{Mizuki}\n"Mmmmmmm!! This feels great!!"
+<es>{Mizuki}\n"¡Se siente genial...!"
+
+@125
+<en>Hinata-san stretched out wide and screamed with joy.
+<es>Gritó.
+
+@126
+<en>{Kazushi}\n"Feels great? You're soaking wet!"
+<es>{Kazushi}\n"¡Pero si estás empapada!"
+
+@127
+<en>{Mizuki}\n"So what if I get wet? Rain is nothing but water."
+<es>{Mizuki}\n"Solo es lluvia."
+
+@128
+<en>{Kazushi}\n"I know, but..."
+<es>{Kazushi}\n"Ya lo sé, pero..."
+
+@129
+<en>Nothing but water. That's why getting wet was nothing. She had a point.
+<es>Tiene razón. Nos mojamos cuando nadamos.
+
+@130
+<en>{Mizuki}\n"That and it's too late now. We're not getting any wetter than we already are."
+<es>{Mizuki}\n"Ya estamos completamente empapados. Ya no nos podemos mojar más."
+
+@131
+<en>She cast a glance up at the sky.
+<es>Mira al cielo.
+
+@132
+<en>{Mizuki}\n"Heeeeeey! Pour hardeeer!!"
+<es>{Mizuki}\n"¡¡Con más fuerza...!!"
+
+@134
+<en>Sure enough, the rain got harder.
+<es>Y empezó a llover con más intensidad.
+
+@135
+<en>{Mizuki}\n"Ahahahaha! It actually listened!"
+<es>{Mizuki}\n"¿¡Ves!? ¡Me ha escuchado!"
+
+@136
+<en>She was so happy from the rain that she was smiling from the bottom of her heart. Maybe this is the real Hinata-san.
+<es>Sonríe y disfruta.
+
+@137
+<en>{Mizuki}\n"Haruma-kun, come over here and get wetter!"
+<es>{Mizuki}\n"Kazushi, ¡mojémosnos más!"
+
+@138
+<en>{Kazushi}\n"I've never had a girl ask me to get wet before."
+<es>{Kazushi}\n"Nunca me había pedido una chica que me mojase."
+
+@139
+<en>{Mizuki}\n"Men shouldn't worry about little things! Come on over here!"
+<es>{Mizuki}\n"Venga, ¡¿o es que no eres un hombre?!"
+
+@140
+<en>She pulled me out from under the tree and heavy rain beat against me.
+<es>
+
+@141
+<en>{Kazushi}\n"Wow......"
+<es>{Kazushi}\n"Guau..."
+
+@142
+<en>Countless raindrops pelted my skin. It felt like each drop brought new life to me. It was incredible.
+<es>Es como pegarse una ducha. Hace que me sienta muy bien.
+
+@143
+<en>{Mizuki}\n"How is it for you!?"
+<es>{Mizuki}\n"¿¡Qué tal!?"
+
+@144
+<en>She spoke proudly, as if it was her doing. That childlike innocence was also quite charming.
+<es>Su tono me está diciendo: "¡te lo dije!".
+
+@149
+<en>{Kazushi}\n"Ah......"
+<es>{Kazushi}\n"¡¡...!!"
+
+@150
+<en>The rain quickly began to ease up, the clouds started to roll by, and in no time the rain had stopped.
+<es>La lluvia amaina con presteza.
+
+@153
+<en>{Mizuki}\n"Awww, that's it?"
+<es>{Mizuki}\n"¿Qué? ¿Ya?"
+
+@154
+<en>She looked like a child being told to put her toys away. However, she still looked more satisfied than she was before.
+<es>Lo dice como un niño que no ha tenido suficiente entretenimiento.
+
+@155
+<en>{Kazushi}\n"That's a shame."
+<es>{Kazushi}\n"Lo siento."
+
+@158
+<en>{Mizuki}\n"Well-\nI think I had enough for one day."
+<es>{Mizuki}\n"Bueno.\nCon eso ha sido suficiente."
+
+@159
+<en>She was drenched, but she put on a bright smile.
+<es>Sigue mojada y sonriendo.
+
+@160
+<en>{Kazushi}\n"That's right. You certainly have."
+<es>
+
+@161
+<en>I flashed a smile in response to hers.
+<es>Respondí a su sonrisa con otra sonrisa.
+
+@164
+<en>{Mizuki}\n"Ah!......"
+<es>{Mizuki}\n"¡¡...!!"
+
+@165
+<en>She finally realised that she was smiling at me and turned away.
+<es>Al final se ha dado cuenta de que me estaba sonriendo y se gira.
+
+@166
+<en>{Kazushi}\n"You don't have to hide it."
+<es>{Kazushi}\n"No tienes por qué girarte."
+
+@167
+<en>{Mizuki}\n"I-I'm not!"
+<es>{Mizuki}\n"¡No te estoy sonriendo!"
+
+@168
+<en>As the sound of the heavy rain disappeared, we hear a joyful ruckus coming from the cafeteria.
+<es>Oíamos de fondo el alboroto de la cafetería.
+
+@169
+<en>{Kazushi}\n"So, shall we head back?"
+<es>{Kazushi}\n"Volvamos dentro."
+
+@172
+<en>{Mizuki}\n"Yeah, we should."
+<es>{Mizuki}\n"Está bien."
+

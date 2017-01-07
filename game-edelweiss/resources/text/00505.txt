@@ -1,0 +1,605 @@
+# Comments for '00505'
+
+@11
+<en>Mei-sensei is our teacher. I don't like being in debt to people, but it's not a problem if I just pay her back.
+<es>No creo que sea un problema porque sé que podré devolverlo el mes que viene.
+
+@12
+<en>{Kazushi}\n"Then I guess I'll borrow some money. Are you sure it's alright?"
+<es>{Kazushi}\n"¿Seguro que no te importa dejarme dinero?"
+
+@16
+<en>{Mei}\n"Yes, of course."
+<es>{Mei}\n"Seguro."
+
+@17
+<en>With a kind smile, sensei pulled a bill out of her wallet and handed it to me. My eyes nearly popped out when I saw it.
+<es>Me sonrió, me miró, y me ofreció un billete.
+
+@18
+<en>{Kazushi}\n"Mei-sensei, this is 10,000 yen!"
+<es>{Kazushi}\n"Señorita Ibuki, ¡es un billete de 10.000 yenes!"
+
+@21
+<en>{Mei}\n"That should be enough, right?"
+<es>{Mei}\n"Con eso será suficiente, ¿no?"
+
+@22
+<en>{Kazushi}\n"Enough? You're kidding, right? I can't borrow this much..."
+<es>{Kazushi}\n"Claro que será suficiente... Pero es que no necesito tanto..."
+
+@23
+<en>I'm not used to carrying around so much money in my wallet.
+<es>No estoy acostumbrado a llevar tanto dinero en la cartera.
+
+@26
+<en>{Mei}\n"Oh? Won't you be in trouble without it? Today isn't the only day you're eating lunch. You have the whole month to go."
+<es>{Mei}\n"No solo vas a necesitar dinero hoy. Vas a necesitar todo lo que queda de mes."
+
+@27
+<en>{Kazushi}\n"That's true......"
+<es>{Kazushi}\n"Es cierto..."
+
+@28
+<en>She's right. I need money for lunch every day.
+<es>Tiene razón. Necesito dinero para comer todos los días.
+
+@29
+<en>{Kazushi}\n"But I feel bad for taking this much. I was only going to ask to borrow around 1,000 yen."
+<es>{Kazushi}\n"Me bastaba con unos 2.000 yenes o así."
+
+@32
+<en>{Mei}\n"Then just pay me back later. Oh, don't worry, I won't charge interest. I won't suddenly demand to have it back either."
+<es>{Mei}\n"No te preocupes. Confío en que me lo devolverás."
+
+@33
+<en>{Kazushi}\n"Thanks, but...\nAre you really sure?"
+<es>{Kazushi}\n"Muchas gracias, pero...\n¿estás segura?"
+
+@36
+<en>{Mei}\n"Of course I'm sure.\nBesides, there's really not much to spend money on when you live on this island."
+<es>{Mei}\n"Completamente.\nAdemás, no hay muchas cosas en las que gastarse el dinero en esta isla."
+
+@37
+# Revisar.
+<en>Sensei's an attractive young woman, but she's so unselfish. She's so beautiful, but isn't she interested in buying new clothes and dressing to impress?
+<es>Es una mujer jóven y atractiva. Estoy convencido de que invierte el dinero en comprar ropa, cosméticos y cosas así.
+
+@38
+<en>I didn't press the issue, though, because I really needed the money.
+<es>No le pregunté nada más porque realmente necesito el dinero.
+
+@39
+<en>{Kazushi}\n"Thank you, Mei-sensei. I'll make sure to pay you back when my allowance comes in next month."
+<es>{Kazushi}\n"Muchas gracias señorita Ibuki.\nTe lo devolveré en cuanto pueda."
+
+@42
+<en>{Mei}\n"No problem."
+<es>{Mei}\n"Perfecto."
+
+@43
+<en>And so 10,000 yen fell into my hands. Wow, it's actually a lot of pressure to borrow so much money.
+<es>La verdad es que es una gran presión tomar prestado tanto dinero.
+
+@47
+<en>{Appo}\n"Kazushi!\nYou shouldn't need to borrow money from a woman. Act like a man!"
+<es>{Appo-}\n"Kazushi,\nno deberías tomar prestado dinero de una mujer. Sé un hombre."
+
+@48
+<en>{Kazushi}\n"Shut up! I'm well aware of that!"
+<es>{Kazushi}\n"Cállate. Soy bien consciente."
+
+@53
+<en>{Pierre}\n"But if you think about it, Kazushi's come up with a good strategy. It may be due to money, but now he has a special bond with sensei."
+<es>{Pierre}\n"Pero si lo piensas, es una buena estrategia. Acabas de crear un vínculo especial con Mei."
+
+@56
+<en>{Appo}\n"Do what?!"
+<es>{Appo-}\n"¡Eso es verdad...!"
+
+@63
+<en>{Daigo}\n"He's right. Until he returns the money, they're more than just a teacher and her student."
+<es>{Daigo}\n"Tiene razón. Tomar prestado dinero de una profesora no es una relación normal."
+
+@64
+<en>{Kazushi}\n"Y-you guys make it sound kind of dirty."
+<es>{Kazushi}\n"No entiendo por qué le estáis dando tanta importancia."
+
+@65
+<en>{Appo}\n"Kazushi....\nYou were planning this all along, weren't you?"
+<es>{Appo-}\n"Kazushi...\nLo tenías todo planeado, ¿verdad?"
+
+@66
+<en>{Kazushi}\n"O-of course not!"
+<es>{Kazushi}\n"Claro que no..."
+
+@69
+<en>{Pierre}\n"Let's do the same thing!"
+<es>{Pierre}\n"¡Hagamos lo mismo!"
+
+@72
+<en>{Appo}\n"I want a special bond with Mei, too!"
+<es>{Appo-}\n"¡Nosotros también queremos una relación especial con ella!"
+
+@73
+<en>Appo and Pierre started taking the money from their wallets and....
+<es>Appo- y Pierre empiezan a sacar dinero de su cartera y...
+
+@79
+<en>{Kazushi}\n"What are you guys--?"
+<es>{Kazushi}\n"¿Que estáis...?"
+
+@81
+<en>Appo started tearing up his notes.
+<es>Appo- empieza a romper billetes.
+
+@85
+<en>{Pierre}\n*Crunch, crunch, gulp!*
+<es>{Pierre}\n*Pierre tragando billetes*
+
+@86
+<en>Pierre swallowed down his money. I couldn't believe it. They were crazy...
+<es>Pierre trata de tragarse billetes que había roto en dos...
+
+@87
+<en>{Kazushi}\n"What are you guys doing?"
+<es>{Kazushi}\n"¿Qué estáis haciendo?"
+
+@91
+<en>{Appo}\n"I don't have any money, either!"
+<es>{Appo-}\n"¡Yo tampoco tengo dinero!"
+
+@96
+<en>{Pierre}\n"Me neither!\nPlease lend us some money!"
+<es>{Pierre}\n"¡No yo!\n¡Por favor, déjanos algo de dinero!"
+
+@97
+<en>{Kazushi}\n"Idiots."
+<es>{Kazushi}\n"Imbéciles."
+
+@98
+<en>Everyone was watching them with a gaze of hopelessness except for Mei-sensei. She was looking at them like a strict disciplinarian.
+<es>Todo el mundo los mira con desesperación excepto la señorita Ibuki. Ella los miraba con una cara estricta.
+
+@103
+<en>{Mei}\n"You should never treat money like that.\nI don't lend money to those who don't appreciate its value."
+<es>{Mei}\n"Nunca deberíais tratar el dinero así.\nYo no presto dinero a aquellos que no lo aprecian."
+
+@110
+<en>{Appo}\n"No......"
+<es>{Appo-}\n"No..."
+
+@117
+<en>{Daigo}\n"Of course she wouldn't. Use your head."
+<es>{Daigo}\n"Tiene razón. Estúpidos."
+
+@120
+<en>{Pierre}\n"Hurk high, come back, money!"
+<es>{Pierre}\n"Espera...\n¡Que voy a vomitar los billetes ahora mismo!"
+
+@123
+<en>{Appo}\n"If I tape it back together I can still use it, right?"
+<es>{Appo-}\n"Si los pego con celo todavía podría usarlos, ¿no?"
+
+@124
+<en>Appo was crawling on the floor and Pierre was shoving his fingers down his throat.
+<es>Pierre está ocupado metiéndose los dedos todo lo hondo que puede en la garganta.
+
+@125
+<en>There are times in my life when I stop and think. Every time I do, I wonder if I should have done a better job of choosing my friends.
+<es>Se dice que nunca se toman las suficientes precauciones eligiendo a las amistades. Y yo estoy completamente de acuerdo.
+
+@126
+<en>Anyways, I need to eat.
+<es>En cualquier caso, he de comer.
+
+@130
+<en>{Kazushi}\n"Thanks again. I'll make sure to be careful with this."
+<es>{Kazushi}\n"Gracias nuevamente. Lo usaré lo mejor que pueda."
+
+@133
+<en>{Mei}\n"Wait. I'll go with you."
+<es>{Mei}\n"Espera. Iré contigo."
+
+@134
+<en>Mei-sensei followed me to the cafeteria.
+<es>Me sigue.
+
+@135
+<en>{Kazushi}\n"I thought you already finished your lunch."
+<es>{Kazushi}\n"Pensaba que ya habías terminado de comer."
+
+@136
+<en>I remembered that I saw her eating earlier.
+<es>Me había parecido viéndola comer antes.
+
+@137
+<en>{Kazushi}\n"Oh, you must be going for dessert! Am I right?"
+<es>
+
+@138
+<en>I'd heard that every girls' school had a good dessert menu.
+<es>
+
+@141
+<en>{Mei}\n"No, I'll be getting dessert later. What meal should I eat next?"
+<es>{Mei}\n"La verdad es que todavía tengo hambre."
+
+@142
+<en>She started looking over the menu again. She was looking at the lunch menu, not the desert menu, fully intending to eat another lunch.
+<es>Empieza a mirar el menú de nuevo.
+
+@143
+<en>{Kazushi}\n"Are you really eating a second lunch?"
+<es>{Kazushi}\n"¿Vas a comer otra vez?"
+
+@146
+<en>{Mei}\n"What? I'm human too. I get hungry just like you guys."
+<es>{Mei}\n"¿Por qué? ¿Pasa algo porque una chica tenga hambre?"
+
+@147
+<en>{Kazushi}\n"It's just odd seeing as how you just ate."
+<es>{Kazushi}\n"Pensaba que acabas de comer."
+
+@150
+<en>{Mei}\n"True, but I'm still hungry. If you don't eat until you're full, what's the point?"
+<es>{Mei}\n"No tiene que ver con las veces que comas. Sino la cantidad que comes, ¿no?"
+
+@151
+<en>{Kazushi}\n"No point? But they say you should only eat until you're 80% full?"
+<es>{Kazushi}\n"¿Así que estás sobre el 80% ahora?"
+
+@154
+<en>{Mei}\n"And right now, I'm about 30%."
+<es>{Mei}\n"Diría que más bien sobre el 30%."
+
+@155
+<en>{Kazushi}\n"30%......"
+<es>{Kazushi}\n"30%..."
+
+@156
+<en>But sensei just ate a donburi, right? I'm pretty sure it was a fair-sized one. Greasy food like that should hold you for a while.
+<es>Estoy casi seguro de haberla visto comer un bol enorme antes.
+
+@157
+<en>But that's only 30% for her?
+<es>¿Eso es el 30% para ella?
+
+@160
+<en>{Mei}\n"Next I'll have... Yeah, I'll have another Meidon. One more Meidon, please!"
+<es>{Mei}\n"Veamos... Tomaré mi bol especial de nuevo.\n¡Un bol especial, por favoor!"
+
+@161
+<en>{Cafeteria Lady}\n"All right. You sure eat a lot, Mei-chan."
+<es>{Cocinera}\n"Oído cocina.\nEl de siembre, ¿no?"
+
+@162
+<en>They were already in on the fact that Mei-sensei is a big eater.
+<es>Parece que ellos ya saben que la señorita Ibuki come mucho.
+
+@163
+<en>{Mei}\n"You make it sound like I'm a glutton."
+<es>
+
+@164
+<en>She doesn't realize that she is for a woman.
+<es>Parece que no es consciente de que come mucho.
+
+@165
+<en>{Kazushi}\n"What's in a Meidon anyways?"
+<es>{Kazushi}\n"De todas formas, ¿cuál es el bol especial?"
+
+@168
+<en>{Mei}\n"Oh, Haruma-kun, you don't know about the Meidon?"
+<es>{Mei}\n"¿No sabes cual es el bol especial?"
+
+@169
+<en>Mei-sensei looked surprised. I guess it's famous around here?
+<es>Imagino que será un menú famoso por aquí.
+
+@170
+<en>{Kazushi}\n"It's my first day eating here. The Mei in Meidon comes from your name, right sensei?"
+<es>{Kazushi}\n"Hoy es el primer día que pido aquí."
+
+@173
+<en>{Cafeteria Lady}\n"Mei-chan came up with it herself. It's the daily special turned into a hearty donburi with a heaping portion size."
+<es>{Cocinera}\n"Ella es la creadora del bol.\nEs simplemente el bol del día en versión extra grande."
+
+@174
+<en>{Kazushi}\n"That doesn't sound very ladylike."
+<es>{Kazushi}\n"No suena como algo para señoritas."
+
+@177
+<en>{Mei}\n"Hey, that's rude. I'm very careful to maintain my proportions."
+<es>{Mei}\n"Oye. Soy muy consciente de lo que como."
+
+@178
+<en>True, she's not fat at all. In fact, she has perfect style, just like a model.
+<es>
+
+@179
+<en>{Cafeteria Lady}\n"Here you go, one order of Meidon."
+<es>{Cocinera}\n"Aquí tienes tu bol especial."
+
+@181
+<en>It was huge. It was packed so full that there were pieces of meat and vegetables about to fall over the side.
+<es>Es enorme. La comida sobresale y parece que se vaya a caer del bol.
+
+@182
+<en>{Kazushi}\n"Can you actually finish that?"
+<es>{Kazushi}\n"¿Te vas a poder acabar eso?"
+
+@185
+<en>{Mei}\n"Of course.\nYou should get this too. Just pay an extra 50 yen and she'll give you the same amount as me."
+<es>{Mei}\n"Claro.\nTu también deberías pedírtelo. Por 50 yenes más te pondrán todo esto."
+
+@186
+<en>I wonder where she's got room to store all this food in that thin sexy body of hers.
+<es>Me pregunto en qué parte de su cuerpo podrá almacenar toda esa comida.
+
+@187
+<en>{Kazushi}\n"I'll have the same, please."
+<es>{Kazushi}\n"Por favor, lo mismo."
+
+@188
+<en>I'll think later, right now I'm starving.
+<es>Me estoy muriendo de hambre.
+
+@193
+<en>{Mei}\n"Today's Meidon has great spices! It's delicious!"
+<es>{Mei}\n"Nunca me canso del bol especial."
+
+@194
+<en>Mei-sensei devoured her Meidon, leveling the mountain of food. It didn't seem like she was rushing, but the mountain was steadily disappearing.
+<es>Está comiéndose otra vez ese bol enorme.
+
+@195
+<en>It was like watching an eating contest in full frenzy.
+<es>Es como presenciar un concurso de comida.
+
+@196
+<en>{Appo}\n"You sure eat a lot, Mei-chan."
+<es>{Appo-}\n"Comes un montón, Mei..."
+
+@197
+<en>{Pierre}\n"Where does all that food go in your tiny body?"
+<es>{Pierre}\n"¿A dónde va a parar toda esa comida en tu esbelto cuerpo?"
+
+@198
+<en>They were in awe of her appetite.
+<es>Están atónitos por su apetito.
+
+@199
+<en>{Daigo}\n"............beautiful."
+<es>{Daigo}\n"Bello...."
+
+@200
+<en>One guy even thought it was beautiful that she eats a lot.
+<es>Uno hasta piensa que es bello que coma tanto.
+
+@201
+<en>{Mei}\n"There's not much fun to do on this lonely island besides eating."
+<es>{Mei}\n"No hay demasiadas cosas para disfrutar en esta solitaria isla además de comer."
+
+@202
+<en>{Rin}\n"That's true, but...the way she eats that much and doesn't get fat isn't fair."
+<es>
+
+@203
+<en>{Sakura}\n"Rin watches her diet like a supermodel. That's why she has such a great body, guys."
+<es>{Sakura}\n"Rin cuida su dieta como las supermodelos. Por eso tiene ese cuerpazo, chicos."
+
+@204
+<en>{Rin}\n"Stop it, Sakura!"
+<es>{Rin}\n"¡Para ya, Sakura!"
+
+@205
+<en>{Sakura}\n"Mei-sensei, you have to tell us your secret to staying in shape."
+<es>{Sakura}\n"Señorita Ibuki, tienes que contarnos tu secreto para mantenerte en línea."
+
+@206
+<en>{Rin}\n"Please......"
+<es>{Rin}\n"Por favor..."
+
+@207
+<en>Both girls leaned forward to listen. They were serious. Girls sure do love to talk about that.
+<es>A las chicas les encanta estas cosas.
+
+@208
+<en>{Mei}\n"My secret... I guess it's that you need to make sure you exercise."
+<es>{Mei}\n"El secreto...\nImagino que hacer ejercicio."
+
+@209
+<en>She gave them a simple answer.
+<es>Les ha dado una respuesta bien sencilla.
+
+@210
+<en>{Mei}\n"It's obvious that you'll get fat if you don't burn off all the calories you take in."
+<es>{Mei}\n"Si no quemas todas las calorías que te tomas, es normal que engordes."
+
+@211
+<en>{Sakura}\n"Mei-chan, do you actually exercise?"
+<es>{Sakura}\n"No sabía que fueses buena haciendo ejercicio."
+
+@212
+<en>{Mei}\n"Believe it or not, I'm very busy with teaching. It's manual labor."
+<es>
+
+@213
+<en>{Pierre}\n"So you don't need to go to the gym or anything..."
+<es>{Pierre}\n"Así que no vas al gimnasio ni nada."
+
+@214
+<en>{Rin}\n"See? It's not fair!\nI gain weight really easily..."
+<es>{Rin}\n"¿Véis? No es justo.\nYo gano peso con tantísima facilidad..."
+
+@215
+<en>Rin pinched her belly to show how much fat she had.
+<es>
+
+@216
+<en>{Sakura}\n"Rin's good at eating as well as cooking."
+<es>{Sakura}\n"Rin es tan buena cocinando como comiendo."
+
+@217
+<en>{Rin}\n"I'm not proud of the eating part, though."
+<es>{Rin}\n"Aunque no estoy orgullosa de la parte de comer."
+
+@218
+<en>{Mei}\n"You're still young so that much is fine. You all eat so little. You should eat more while you're young."
+<es>{Mei}\n"Chicas, todavía sois jóvenes.\nDeberíais comer lo que queráis."
+
+@220
+<en>She kept packing it away as she spoke. She really does eat a lot.
+<es>Continúa comiendo.
+
+@221
+<en>{Kazushi}\n"How about you, Mei-sensei? How much did you eat when you were young?"
+<es>{Kazushi}\n"¿Y tú, señorita Ibuki? ¿Cuánto solías comer cuando eras jóven?"
+
+@222
+<en>Since she says it's better to eat more while we're young, I wonder how much she used to eat.
+<es>Por cómo come, me pregunto cuánto olía comer antes.
+
+@223
+<en>{Mei}\n"Hey."
+<es>{Mei}\n"Ey."
+
+@224
+<en>Sensei gave me a sharp glance. I felt a sudden chill.
+<es>Me mira disgustada.
+
+@225
+<en>{Pierre}\n"Kazushi, you idiot."
+<es>{Pierre}\n"Kazushi, estúpido."
+
+@226
+<en>{Kazushi}\n"Did I say something wrong?"
+<es>{Kazushi}\n"¿He dicho algo malo?"
+
+@227
+<en>{Mei}\n"Who knows? But the way you said that makes it sound like I'm not young anymore?"
+<es>{Mei}\n"Por lo que has dicho, ya no soy jóven."
+
+@228
+<en>{Kazushi}\n"......I absolutely didn't mean that......"
+<es>{Kazushi}\n"... De ninguna manera quería decir eso..."
+
+@229
+<en>{Pierre}\n"Kazushi, you never talk about age with women."
+<es>{Pierre}\n"Kazushi. Nunca. Nunca hables con una mujer sobre su edad."
+
+@230
+<en>{Appo}\n"Especially with a woman at that borderline age like Mei-chan."
+<es>{Appo-}\n"Especialmente con una mujer con la edad de Mei."
+
+@231
+<en>{Mei}\n"Oh? What do you mean by borderline?"
+<es>{Mei}\n"¿Qué quieres decir?"
+
+@232
+<en>{Appo}\n"Oops. I said that out loud."
+<es>{Appo-}\n"Ups... Lo he dicho en voz alta."
+
+@233
+<en>{Mei}\n"All you boys need to learn some manners.\nI'm still young, and I can eat whatever and however much I want."
+<es>{Mei}\n"Tenéis que aprender todos modales.\nTodavía soy jóven. Y puedo comer todo lo que quiera."
+
+@234
+<en>{Mei}\n"When I was younger, I ate when I was hungry and got sleepy. I felt sleepy every day, so I slept a lot and don't remember much of my younger days."
+<es>{Mei}\n"Recuerdo que estaba todo el día con sueño y con hambre en la pubertad."
+
+@235
+<en>{Sakura}\n"Ahaha, you're kidding us, right?"
+<es>{Sakura}\n"Lo dices en broma, ¿verdad?"
+
+@236
+<en>{Mei}\n"I'm serious. You all should be sure to treasure each day. Now, time for another one."
+<es>{Mei}\n"Es en serio. Por cierto. Voy a comer un poco más."
+
+@237
+<en>{Appo}\n"You're still hungry!?"
+<es>{Appo-}\n"¿Todavía tienes hambre?"
+
+@239
+<en>{Mei}\n"It's so delicious."
+<es>{Mei}\n"Es que está tan bueno..."
+
+@240
+<en>This is her...\nHow many bowls had it been? They were piled up so high...
+<es>Estos son sus...\n¿Cuantos boles hay?... Hay una pila de ellos.
+
+@241
+<en>{Pierre}\n"Hold on, this is just way too much. Does she eat this much every day?"
+<es>{Pierre}\n"¿Comes todo esto cada día?"
+
+@242
+<en>{Sakura}\n"Yes, Mei-chan always does. I can't help but watch her eat."
+<es>{Sakura}\n"Sí, así es.\nMe encanta verla comer."
+
+@243
+# Revisar.
+<en>{Kazushi}\n"You're right. It's hard to take your eyes off of it."
+<es>{Kazushi}\n"Tienes razón. Se disfruta mucho viéndola comer."
+
+@244
+<en>Just looking at those piles made me nervous. I was getting full just by watching her.
+<es>Me siento lleno con el simple hecho de verla comer.
+
+@245
+<en>{Daigo}\n"Beautiful......"
+<es>{Daigo}\n"Bello..."
+
+@246
+<en>One guy even found it beautiful.
+<es>Uno de nosotros hasta lo encuentra bello.
+
+@247
+<en>{Rin}\n"Honestly, where does all that food go?"
+<es>
+
+@248
+<en>{Appo}\n"I know, Mei-chan doesn't shit either."
+<es>
+
+@249
+<en>{Rin}\n"S-stop it, don't talk about that during lunch."
+<es>
+
+@250
+# Revisar.
+<en>{Mei}\n"Chomp chomp chomp... Hah, now I'm stuffed."
+<es>{Mei}\n"Ya me he quedado muy satisfecha..."
+
+@251
+<en>Sensei finally set her chopsticks down and thanked the ladies for her lunch. Her long meal was finally at an end.
+<es>Ya ha terminado su larga comida.
+
+@255
+<en>{Mei}\n"I'm full. I'm going back to my room to get some rest."
+<es>{Mei}\n"Estoy llena. Voy a volver a mi habitación a descansar un rato."
+
+@256
+<en>{Kazushi}\n"......are you going to take a nap?"
+<es>{Kazushi}\n"¿Vas a pegarte una siesta...?"
+
+@260
+<en>{Sakura}\n"Mei-chan does this every day. She has lunch and a nap as a set."
+<es>{Sakura}\n"Eso es lo que hace tras la comida cada día."
+
+@265
+<en>{Pierre}\n"She's not burning any calories like how she said earlier."
+<es>
+
+@272
+<en>{Rin}\n"She must get really poor calorie mileage."
+<es>
+
+@278
+<en>{Mei}\n"I'm so satisfied. I think I'm going to have a good dream."
+<es>
+
+@279
+<en>I can't believe she maintains her tight figure with that much food. Mei-sensei is full of mysteries.
+<es>Me resulta impensable que pueda mantener su figura.
+

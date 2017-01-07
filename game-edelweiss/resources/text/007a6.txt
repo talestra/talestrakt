@@ -1,0 +1,535 @@
+# Comments for '007a6'
+
+@8
+<en>If I was with Haruka, I bet the time would fly right by.
+<es>Me gustaría hablar con Haruka.
+
+@9
+<en>{Kazushi}\n"I wonder where she is?"
+<es>{Kazushi}\n"Me pregunto dónde estará..."
+
+@10
+<en>I looked around the campus, and found her talking to the principal.
+<es>Miré por ahí y la encontré hablando con la directora.
+
+@11
+<en>{Kazushi}\n"She's with the principal. I shouldn't bother them."
+<es>{Kazushi}\n"Está con la directora. No debería molestarles."
+
+@12
+<en>But then she saw me.
+<es>Pero me vio.
+
+@17
+<en>{Haruka}\n"Ah!"
+<es>{Haruka}\n"¡¡...!!"
+
+@18
+<en>We made eye contact.
+<es>Hubo contacto visual.
+
+@21
+<en>{Haruka}\n"Hey, Kazushi-kun!"
+<es>{Haruka}\n"Anda, ¡Kazushi!"
+
+@22
+<en>She started jumping up and down and waving at me. She's always energetic.
+<es>Daba saltitos mientras agitaba el brazo saludándome.
+
+@23
+<en>She gave me a big smile as I waved back at her.
+<es>Me ofreció una radiante sonrisa cuando le devolví el saludo.
+
+@26
+<en>{Principal}\n"Oh, is he your friend?"
+<es>{Directora}\n"¿Amigo tuyo?"
+
+@29
+<en>{Haruka}\n"Yes, he is. See..."
+<es>{Haruka}\n"Él es..."
+
+@32
+<en>Haruka whispered something to the principal.
+<es>Haruka susurró algo a la directora.
+
+@33
+<en>{Kazushi}\n"Hi......"
+<es>{Kazushi}\n"Hola..."
+
+@36
+<en>I knew she wasn't able to hear me, but I bowed to her anyways. The principal put on an elegant smile, said something to Haruka, and urged her towards me.
+<es>
+
+@39
+<en>Haruka made her way through the crowd towards me.
+<es>Haruka andó hacia mí.
+
+@42
+<en>{Haruka}\n"Hah, I finally made it. There're so many people here!"
+<es>{Haruka}\n"Hay demasiada gente."
+
+@43
+<en>{Kazushi}\n"Is it OK to leave her alone?"
+<es>{Kazushi}\n"¿No pasa nada por dejarla sola?"
+
+@44
+<en>{Haruka}\n"Yes, she'll be fine. She told me to come join you."
+<es>
+
+@45
+<en>{Kazushi}\n"Really?\nThe Principal did?"
+<es>{Kazushi}\n"¿En serio?\n¿La directora?"
+
+@48
+<en>{Haruka}\n"I think my grandma likes you."
+<es>{Haruka}\n"Creo que le gustas a mi abuelita."
+
+@49
+<en>{Kazushi}\n"Huh? How could she?\nI've hardly ever spoken to her. She shouldn't even know me."
+<es>{Kazushi}\n"¿Sí?\nPero si apenas he hablado con ella."
+
+@52
+<en>{Haruka}\n"Doesn't seem that way. Grandma sure remembers you from something."
+<es>{Haruka}\n"¿En serio? Pues parece haberte recordado."
+
+@53
+<en>{Kazushi}\n"Seriously? So she's already keeping an eye on me, huh? ......Wait a minute?"
+<es>{Kazushi}\n"¿En serio? Quizá me recuerde por las cosas malas que habrá oído de mí.\n¿Un momento...?"
+
+@54
+<en>Haruka is calling her "grandma" in front of me.
+<es>Haruka la está llamando "abuelita" delante de mí.
+
+@55
+<en>{Kazushi}\n"So she's 'grandma' today?"
+<es>{Kazushi}\n"Hoy la estás llamando "abuelita"."
+
+@58
+<en>{Haruka}\n"Oh, did I say 'grandma'?"
+<es>{Haruka}\n"¿En serio?"
+
+@59
+<en>{Kazushi}\n"You didn't notice?"
+<es>{Kazushi}\n"¿No te habías dado cuenta?"
+
+@62
+<en>{Haruka}\n"She gets mad at me if I don't call her 'Principal' at school. I try my best to be careful, but this mouth of mine..."
+<es>{Haruka}\n"Intento con todas mis fuerzas no llamarla así en la escuela."
+
+@63
+<en>She pinched her lips. I guess Haruka calls the principal 'grandma' outside of school.
+<es>Se muerde los labios.
+
+@64
+<en>I'm sure it's only natural for them, but the idea seemed charming to me.
+<es>Me da un poco de lástima que tenga que distanciarse de la directora en la escuela.
+
+@65
+<en>{Kazushi}\n"I bet you can get away with it today. It is a party, and we do have alcohol."
+<es>{Kazushi}\n"No creo que pase nada por llamarla "abuelita" hoy, teniendo en cuenta que estamos en una fiesta."
+
+@68
+<en>{Haruka}\n"Oh, that's true. So you drink, Kazushi-kun? Maybe I should have one with you."
+<es>{Haruka}\n"Es cierto.\n¿Quieres beber conmigo?"
+
+@69
+<en>She was drinking orange juice.
+<es>Estaba bebiendo un zumo de naranja.
+
+@70
+<en>{Kazushi}\n"Okay, then here you go."
+<es>{Kazushi}\n"Claro."
+
+@72
+# Hay que ver si realmente es una bebida alcoholica, o en la traducción al inglés
+# lo cambiaron para que pareciesen más "adultos".
+<en>I brought her an empty glass and poured some liquor into it.
+<es>Le traje un vaso vacío y vertí una bebida alcoholica en él.
+
+@75
+# Quizá convenga mantener la obscenidad en la frase.
+<en>{Haruka}\n"Wow!\nI'm having a man pour me a drink. Does this make me a delinquent?"
+<es>{Haruka}\n"Guau...\nMe siento especial de que un hombre esté virtiendo una bebida en mi vaso."
+
+@77
+<en>{Kazushi}\n"A delinquent...?"
+<es>{Kazushi}\n"Te sientes especial..."
+
+@80
+<en>{Haruka}\n"This is romantic."
+<es>{Haruka}\n"Es romántico."
+
+@81
+<en>She's already in a good mood and she hasn't even had a sip yet! What a strange girl.
+<es>
+
+@84
+<en>{Haruka}\n"Oh, maybe Grandma would be happy if you poured her one too?"
+<es>{Haruka}\n"Mi abuelita se alegraría si le llevases una bebida."
+
+@85
+<en>{Kazushi}\n"Me? Pour one for the principal?"
+<es>{Kazushi}\n"¿Yo? ¿Llevándole alcohol a la directora?"
+
+@86
+<en>{Haruka}\n"Sure! Follow me!"
+<es>{Haruka}\n"¡Claro, sígueme!"
+
+@87
+<en>{Kazushi}\n"H...Hey...!"
+<es>{Kazushi}\n"O-Oye..."
+
+@89
+<en>She started dragging me towards the principal before I had a chance to reply.
+<es>Me está tirando hasta la directora antes de que me diese tiempo a replicar.
+
+@94
+<en>{Principal}\n"Oh, hello. What's the matter?"
+<es>{Directora}\n"Hola a los dos."
+
+@95
+<en>{Haruka}\n"Kazushi-kun said he'll pour you a drink!"
+<es>{Haruka}\n"¡Kazushi te vertirá una bebida!"
+
+@98
+# He añadido el Kazushi porque luego hace referencia a que ha recordado su nombre.
+# Hay que ver si lo menciona en esta frase o en la anterior.
+<en>{Principal}\n"You will, Haruma-kun?"
+<es>{Directora}\n"¿Lo harás, Kazushi?"
+
+@99
+<en>{Kazushi}\n"Su-, uh, yes..."
+<es>{Kazushi}\n"Sí..."
+
+@100
+<en>She already remembered my name.\nShe had a kind, graceful smile, but something felt wrong.
+<es>Se ha acordado de mi nombre.
+
+@103
+<en>{Haruka}\n"Here, Kazushi-kun!"
+<es>{Haruka}\n"¡Toma, Kazushi!"
+
+@104
+# ¿Copa o vaso?
+<en>Haruka handed me an empty glass and a bottle of liquor. I prepared for the worst and handed the glass to the Principal.
+<es>Haruka me da una copa vacía y una botella de licor.
+
+@105
+<en>{Kazushi}\n"Here you go, ma'am."
+<es>{Kazushi}\n"Aquí tiene."
+
+@108
+<en>{Principal}\n"Why, thank you very much."
+<es>{Directora}\n"Muchas gracias."
+
+@110
+<en>I was nervous as I tried to pour it without spilling any. I glanced up and saw the Principal blushing like a young girl.
+<es>Se lo vertí en la copa tratando de no derramarlo.
+
+@113
+<en>{Principal}\n"I feel so embarrassed. You remind me of him."
+<es>{Directora}\n"Me has recordado a él."
+
+@115
+<en>{Kazushi}\n"Him?"
+<es>{Kazushi}\n"¿"Él"?"
+
+@118
+<en>{Haruka}\n"My grandpa.\nHe passed away a long time ago."
+<es>{Haruka}\n"Mi abuelito.\nFalleció hace mucho tiempo."
+
+@119
+<en>{Kazushi}\n"Oh. I'm sorry..."
+<es>{Kazushi}\n"Lo siento..."
+
+@120
+<en>So the principal is a widow. I guess they did mention that there weren't any male teachers at this academy.
+<es>La directora es viuda.
+
+@121
+<en>I wish I knew what to say at times like these.
+<es>No sabía qué decir.
+
+@124
+<en>{Principal}\n"Don't trouble yourself. It happened many long years ago."
+<es>{Directora}\n"Ha pasado ya mucho tiempo."
+
+@125
+<en>{Haruka}\n"I never knew my grandpa either. He passed away before I was born."
+<es>{Haruka}\n"Falleció antes de que yo naciera."
+
+@126
+<en>{Kazushi}\n"I see. In my case, I never knew my grandma."
+<es>{Kazushi}\n"Ya veo. Bueno, mi abuela también falleció antes de que no naciera."
+
+@127
+<en>My grandma was already gone by the time I was born. I heard that she had died from an illness when she was young.
+<es>Escuché que murió jóven.
+
+@128
+<en>{Kazushi}\n"My grandpa used to talk about her all the time."
+<es>{Kazushi}\n"Mi abuelo solía hablar de ella todo el tiempo."
+
+@131
+<en>{Haruka}\n"It's the same in my family!\nGrandma talks about grandpa all the time!"
+<es>{Haruka}\n"Lo mismo pasa en mi familia\nLa abuelita hablaba del abuelito todo el tiempo."
+
+@132
+<en>{Principal}\n"Haruka,\nyou need to call me "Principal" here."
+<es>{Principal}\n"Haruka,\naquí tienes que llamarme "directora"."
+
+@135
+<en>{Haruka}\n"Oh, shoot! See?"
+<es>{Haruka}\n"¡Ups!"
+
+@138
+<en>Haruka winked at me. We had just talked about it, but the principal was slightly confused.
+<es>Los ojos de Haruka me transmiten un "¿ves?".
+
+@139
+<en>{Principal}\n"It looks like you're getting along well with Haruma-kun. I'm glad you've made a good friend."
+<es>{Directora}\n"Haruka, me alegra de que hayas hecho un buen amigo como él."
+
+@140
+<en>When she said that, the principal's face went back to being grandma.
+<es>Tras decir eso, su cara vuelve a ser la de la "abuelita".
+
+@143
+<en>{Haruka}\n"I wasn't sure if I'd be able to get along with the boys, but luckily there are those like Kazushi-kun."
+<es>{Haruka}\n"A decir verdad, no tenía claro que fuese a llevarme bien con vosotros, chicos. Estoy muy contenta."
+
+@144
+<en>Putting it that way made me blush. The principal watched us with the proud smile of a grandmother.
+<es>La directora mira a Haruka orgullosa.
+
+@147
+<en>{Principal}\n"Well, I better be going now. Thank you very much for the drink, Haruma-kun. You've made me feel young again."
+<es>{Directora}\n"Tengo que marcharme. Muchas gracias por la bebida, Kazushi."
+
+@148
+<en>{Kazushi}\n"You're welcome."
+<es>{Kazushi}\n"De nada."
+
+@151
+<en>After giving us another graceful smile, she finally left. The tension finally drained from my shoulders.
+<es>
+
+@154
+<en>{Haruka}\n"She seemed really happy. Thank you."
+<es>{Haruka}\n"Parecía realmente contenta. Muchas gracias, Kazushi."
+
+@155
+<en>{Kazushi}\n"No, don't mention it. All I did was pour a drink. Anyways, your grandma looks pretty young."
+<es>{Kazushi}\n"Tu abuela es realmente jóven."
+
+@156
+# Revisar.
+<en>I didn't know how old she was, but her skin was still radiant.
+<es>No sé cuantos años tendrá, pero su piel sigue radiante.
+
+@159
+<en>{Haruka}\n"It's just because you talked to her, Kazushi-kun. She said you made her feel young."
+<es>{Haruka}\n"Debe sentirse rejuvenecida hablando contigo."
+
+@160
+<en>{Kazushi}\n"Really?"
+<es>{Kazushi}\n"¿En serio?"
+
+@161
+# Revisar.
+<en>Did she just drain my youth?
+<es>¿La he rejuvenecido yo?
+
+@164
+<en>{Haruka}\n"Grandma is still in love with grandpa."
+<es>{Haruka}\n"La abuelita sigue enamorada de mi abuelo."
+
+@165
+<en>I thought I heard the tone of her voice drop, and I looked over to find a sad smile on her face.
+<es>Por algún motivo, he notado un tono de tristeza en su voz.
+
+@166
+<en>{Haruka}\n"Hey, Kazushi-kun.\nWhat would you do if your lover died?"
+<es>{Haruka}\n"Oye Kazushi,\n¿qué harías tú si tu amada falleciese?"
+
+@167
+<en>{Kazushi}\n"If my lover died?"
+<es>{Kazushi}\n"¿Si mi amada falleciese?"
+
+@168
+# Revisar.
+<en>That was a rather serious question all of a sudden.
+<es>Es una pregunta muy seria para ser así de sopetón...
+
+@169
+<en>I didn't know why she asked, nor how to answer.
+<es>No sé qué decir.
+
+@172
+<en>{Haruka}\n"I'm sorry. Was that a weird question?"
+<es>{Haruka}\n"Lo siento. Era una pregunta muy rara."
+
+@173
+# Revisar.
+<en>She noticed I was having trouble answering, so she tried to play it off with a smile.
+<es>Le di pena por no saber qué decir.
+
+@174
+<en>{Kazushi}\n"It's OK, but why did you ask?"
+<es>{Kazushi}\n"¿Por qué me has preguntado eso?"
+
+@177
+<en>{Haruka}\n"Well, sometimes when I look at grandma, I think about how she can't forget about grandpa. I'm sure she's lonely."
+<es>{Haruka}\n"Me entristece pensar en lo sola que debe sentirse mi abuelita a veces."
+
+@180
+<en>{Haruka}\n"I've been told that they struggled so much to get married."
+<es>{Haruka}\n"He oído que lucharon mucho para poder casarse."
+
+@181
+<en>{Kazushi}\n"The principal did? Wow, I didn't know..."
+<es>{Kazushi}\n"Ya veo..."
+
+@182
+<en>It was hard to imagine that from the strict image the principal had now.
+<es>Resulta difícil de imaginarlo viendo a la directora ahora.
+
+@183
+<en>But I guess it's not surprising. They say she was really pretty when she was young. Such a romance would only be natural for her.
+<es>Todo el mundo ha tenido romances de jóven.
+
+@186
+<en>{Haruka}\n"But, grandpa died in an accident only a year after they got married."
+<es>{Haruka}\n"Pero el abuelo murió solo un año después de que se casaran."
+
+@187
+<en>{Kazushi}\n"That soon?\nThat is sad... She's been alone ever since?"
+<es>{Kazushi}\n"Tan pronto...\n¿Ha estado sola desde entonces?"
+
+@190
+<en>{Haruka}\n"Yes, she has. I'm sure she's never been able to forget about him."
+<es>{Haruka}\n"Supongo que es incapaz de olvidarle."
+
+@191
+<en>{Kazushi}\n"I see.\nShe must have really loved him."
+<es>{Kazushi}\n"Ya veo...\nDebió quererle mucho."
+
+@194
+# Revisar.
+<en>{Haruka}\n"She did.\nI dream about being in a relationship like that."
+<es>{Haruka}\n"Sí.\nYo sueño con tener una relación como la suya."
+
+@195
+# "que sueña con acabar con un príncipe azul."
+<en>She looked little girl in love with romance as she told me about her sweet dream. Haruka in love, huh? I wonder what kind of guy she likes.
+<es>Parecía como una chiquilla que sueña con tener un tierno romance.
+
+@196
+<en>{Kazushi}\n"Have you ever fallen in love with somebody?"
+<es>{Kazushi}\n"¿Te has enamorado alguna vez de alguien?"
+
+@199
+<en>{Haruka}\n"What?! Of course not!"
+<es>{Haruka}\n"¿Qué? ¡Pues claro que no!"
+
+@200
+<en>She shook her head in surprise.
+<es>Parecía muy sorprendida.
+
+@201
+<en>{Kazushi}\n"Never?"
+<es>{Kazushi}\n"¿Nunca?"
+
+@202
+# Me resulta -> ¿Me resulta"ba"? ¿pasado? Quizá no le gustaría recalcar que ahora sí.
+<en>{Haruka}\n"There aren't any boys my age on this island. How could I have met or fallen in love with anyone?"
+<es>{Haruka}\n"Como puedes ver. Me resulta un pelín difícil conocer a chicos en esta isla."
+
+@203
+<en>{Kazushi}\n"Well, I suppose that's true..."
+<es>{Kazushi}\n"Es verdad..."
+
+@204
+<en>Of course, there weren't any boys likely to have gone after Haruka before.
+<es>A las chicas les resulta difícil encontrarse chicos por aquí de la misma edad en la isla.
+
+@207
+<en>{Haruka}\n"I always worried I might grow old without ever getting to fall in love. Hey, Kazushi-kun, have you ever been in love?"
+<es>{Haruka}\n"¿Y tú? ¿Te has enamorado alguna vez de alguien?"
+
+@208
+<en>{Kazushi}\n"Only as much as everyone else."
+<es>{Kazushi}\n"Sí. Como cualquier otro chico."
+
+@211
+<en>{Haruka}\n"Wow, how nice. People our age should already be in love, shouldn't they? Hah..."
+<es>{Haruka}\n"Tienes razón... La gente de nuestra edad debería haber tenido ya alguna experiencia de ese tipo."
+
+@212
+<en>She heaved a deep sigh. I kind of felt bad for her.
+<es>Exhala un largo suspiro.
+
+@215
+<en>{Haruka}\n"So, what's it like to fall in love?"
+<es>{Haruka}\n"Y... ¿Cómo se siente al enamorarse?"
+
+@216
+<en>She leaned forward as she asked me. Her eyes were sparkling. She was so innocent.
+<es>Sus ojos me dicen que está desesperada por oírlo.
+
+@217
+<en>{Kazushi}\n"It's like......"
+<es>{Kazushi}\n"Es como..."
+
+@221
+<en>I recalled a few of my previous encounters. There was the time I got slapped hard as the sun set on the park, the time one girl called me a pervert and stepped on me...
+<es>La verdad es que todos mis recuerdos acabaron fatal...
+
+@225
+<en>{Haruka}\n"Huh? Why are you crying?"
+<es>{Haruka}\n"¿Por qué estás llorando?"
+
+@226
+<en>{Kazushi}\n"All my heartbreaking memories..."
+<es>{Kazushi}\n"Recuerdos..."
+
+@229
+<en>{Haruka}\n"I see. Love is so touching it brings tears."
+<es>{Haruka}\n"Ya veo. Es muy bonito."
+
+@230
+<en>She missed the real meaning behind my words, and looked up the sky with glittering eyes.
+<es>Me ha malentendido por completo.
+
+@231
+<en>{Haruka}\n"I want to fall in love too. I wonder how I can make that happen?"
+<es>{Haruka}\n"A mí también me gustaría enamorarme."
+
+@232
+<en>She looked just like a dreamy-eyed girl. She looked so pure and bright that I wanted to cheer her on.
+<es>Es como una niña pequeña. Es tan pura...
+
+@233
+<en>{Kazushi}\n"I hope that one day you'll have a romance just like your grandparents had. You have my support."
+<es>{Kazushi}\n"Espero que algún día puedas tener un romance como el que tuvieron tus abuelos."
+
+@236
+<en>{Haruka}\n"Really? Thank you!"
+<es>{Haruka}\n"Gracias"
+
+@237
+<en>She happily took my hand in hers. Her hands felt so soft. Their warmth ran through me like a bolt of electricity.
+<es>Me sujeta de la mano. Sus manos son tan suaves.
+
+@238
+<en>Oh, no. I think I'm falling in love.
+<es>Maldición. Creo que me estoy enamorando.
+
+@241
+<en>{Haruka}\n"Love, huh? It's so nice. I wonder how I can start a relationship?"
+<es>{Haruka}\n"¿Cómo se puede empezar un romance?"
+
+@242
+<en>My loves had been too simple. They all led to terrible things too. I need to be a bit more prudent.
+<es>Creo que está preguntando a la persona equivocada. Mi última relación empezó de una forma muy fácil.
+
