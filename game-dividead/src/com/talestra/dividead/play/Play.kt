@@ -164,7 +164,7 @@ object Play {
 			@JTranscKeep
 			override suspend fun update(x: Int, y: Int, width: Int, height: Int) {
 				println("update: $x, $y, $width, $height")
-				backBufferImage.image = backBuffer
+				backBufferImage.refreshImage()
 			}
 
 			@JTranscKeep
@@ -180,7 +180,7 @@ object Play {
 
 			@JTranscKeep
 			suspend override fun waitText() = asyncFun {
-				sleep(100)
+				sleep(1000)
 			}
 		}
 
