@@ -1,4 +1,4 @@
-package com.talestra.rhcommon.imaging.format
+package com.talestra.platform.psp
 
 import com.soywiz.korim.bitmap.Bitmap
 import com.soywiz.korim.bitmap.Bitmap32

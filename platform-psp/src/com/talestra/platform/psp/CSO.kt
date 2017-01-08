@@ -94,4 +94,3 @@ object CSO {
 	}
 }
 
-suspend fun AsyncStream.cso() = CSO.read(this)

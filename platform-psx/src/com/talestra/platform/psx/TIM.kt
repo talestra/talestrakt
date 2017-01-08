@@ -1,4 +1,4 @@
-package com.talestra.rhcommon.imaging.format
+package com.talestra.platform.psx
 
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.bitmap.Bitmap8
@@ -8,6 +8,7 @@ import com.soywiz.korim.color.ColorFormatBase
 import com.soywiz.korim.format.ImageFormat
 import com.soywiz.korim.format.ImageFrame
 import com.soywiz.korim.format.ImageInfo
+import com.soywiz.korio.serialization.xml.Xml2
 import com.soywiz.korio.stream.SyncStream
 import com.soywiz.korio.stream.readBytes
 import com.soywiz.korio.stream.readS32_le
@@ -123,15 +124,17 @@ class TIM : ImageFormat() {
 
 		return listOf(ImageFrame(bmp, targetX = h.imgX, targetY = h.imgY))
 	}
-}
 
-private val BGRA_5551i_mixin: ColorFormatBase = ColorFormatBase.Mixin(
-	bOffset = 0, bSize = 5,
-	gOffset = 5, gSize = 5,
-	rOffset = 10, rSize = 5,
-	aOffset = 15, aSize = 1
-)
+	companion object {
+		private val BGRA_5551i_mixin: ColorFormatBase = ColorFormatBase.Mixin(
+			bOffset = 0, bSize = 5,
+			gOffset = 5, gSize = 5,
+			rOffset = 10, rSize = 5,
+			aOffset = 15, aSize = 1
+		)
+	}
 
-object BGRA_5551i : ColorFormat16(), ColorFormatBase by BGRA_5551i_mixin {
-	override fun getA(v: Int): Int = 0xFF - (BGRA_5551i_mixin.getA(v) and 0xFF)
+	object BGRA_5551i : ColorFormat16(), ColorFormatBase by BGRA_5551i_mixin {
+		override fun getA(v: Int): Int = 0xFF - (BGRA_5551i_mixin.getA(v) and 0xFF)
+	}
 }

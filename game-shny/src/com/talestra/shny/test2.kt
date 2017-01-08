@@ -4,7 +4,7 @@ import com.soywiz.korim.format.PNG
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.openAsIso
-import com.talestra.rhcommon.imaging.format.GIM
+import com.talestra.platform.psp.GIM
 
 fun main(args: Array<String>) = sync {
 	val iso = LocalVfs("D:/isos/console/psp/Suzumiya Haruhi no Yakusoku.iso")
@@ -18,7 +18,7 @@ fun main(args: Array<String>) = sync {
 
 	for (file in files["PSP_GAME/USRDIR/data/bg"].listRecursive()) {
 		println(file.fullname)
-		val img = GIM.read(file.readAsSyncStream())
+		val img = com.talestra.platform.psp.GIM.read(file.readAsSyncStream())
 		//val bgFolder = LocalVfs("D:/bg").mkdirs()
 		LocalVfs("D:/bg/${file.basename}.png").ensureParents().write(PNG.encode(img.toBMP32()))
 	}

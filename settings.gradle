@@ -9,7 +9,9 @@ include(
 		'engine-ethornell',
 
 		// Platforms
+		'platform-psx',
 		'platform-psp',
+		'platform-ps2',
 		'platform-n3ds',
 
 		'game-edelweiss',
