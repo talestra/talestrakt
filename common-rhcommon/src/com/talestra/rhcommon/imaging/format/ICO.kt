@@ -21,7 +21,7 @@ object ICO : ImageFormat() {
 		return ImageInfo()
 	}
 
-	override fun read(s: SyncStream): Bitmap {
+	fun readBitmaps(s: SyncStream): List<Bitmap> {
 		data class DirEntry(
 			val width: Int, val height: Int,
 			val colorCount: Int,
@@ -43,7 +43,7 @@ object ICO : ImageFormat() {
 			offset = s.readS32_le()
 		)
 
-		fun readBitmap(e: DirEntry, s: SyncStream) {
+		fun readBitmap(e: DirEntry, s: SyncStream): Bitmap {
 			val headerSize = s.readS32_le()
 			val width = s.readS32_le()
 			val height = s.readS32_le()
@@ -75,18 +75,18 @@ object ICO : ImageFormat() {
 			val stride = (e.width * bitCount) / 8
 			val data = s.readBytes(stride * e.height)
 			val maskData = s.readBytes(e.width * e.height / 8)
+			val bmp2: Bitmap
 
 			if (bitCount == 4) {
 				val bmp = Bitmap4(e.width, e.height, data, palette)
-				awtShowImage(bmp.toBMP32().apply { flipY() })
-				Thread.sleep(500)
+				bmp2 = bmp
 			} else if (bitCount == 8) {
 				val bmp = Bitmap8(e.width, e.height, data, palette)
-				awtShowImage(bmp.toBMP32().apply { flipY() })
-				Thread.sleep(500)
+				bmp2 = bmp
 			} else if (bitCount == 32) {
 				//val stride = (e.width * bitCount) / 8
 				val bmp = Bitmap32(e.width, e.height)
+				bmp2 = bmp
 				var n = 0
 				for (y in 0 until e.height) {
 					for (x in 0 until e.width) {
@@ -98,23 +98,28 @@ object ICO : ImageFormat() {
 						//println("$x, $y")
 					}
 				}
-				println(s.available)
-				awtShowImage(bmp.toBMP32().apply { flipY() })
-				Thread.sleep(500)
 			} else {
 				throw UnsupportedOperationException()
 			}
+
+			return bmp2
 		}
 
 		val reserved = s.readU16_le()
 		val type = s.readU16_le()
 		val count = s.readU16_le()
 		val entries = (0 until count).map { readDirEntry() }
+		val bitmaps = arrayListOf<Bitmap>()
 		for (e in entries) {
-			println("Entry: $e")
-			readBitmap(e, s.sliceWithSize(e.offset.toLong(), e.size.toLong()))
+			bitmaps += readBitmap(e, s.sliceWithSize(e.offset.toLong(), e.size.toLong()))
 		}
-		return Bitmap32(10, 10)
+		return bitmaps
+	}
+
+	override fun read(s: SyncStream): Bitmap {
+		return readBitmaps(s).sortedByDescending {
+			it.width * it.height
+		}.first()
 	}
 }
 
