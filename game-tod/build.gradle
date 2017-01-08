@@ -1,5 +1,15 @@
 apply from: '../include.gradle'
 
+apply plugin: "jtransc"
+apply plugin: "application"
+
+mainClassName = 'com.talestra.tod.TodPatcher'
+
 dependencies {
     compile project(':engine-talesof')
+}
+
+jtransc {
+	assets = ["game-tod/resources"]
+	treeshaking = true
 }
