@@ -1,0 +1,1237 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: func06_GET_KBOX_MESSAGE@5
+msgid "$1第８３２－００鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@19
+msgid "$1第８３２－０１鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@33
+msgid "$1第８３２－０２鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@47
+msgid "$1第８３２－０３鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@61
+msgid "$1くさい葉っぱ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@75
+msgid "$1冷たい泥$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@89
+msgid "$1草つゆ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@103
+msgid "$1討伐の証１$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@117
+msgid "$1討伐の証２$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@131
+msgid "$1討伐の証３$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@145
+msgid "$1討伐の証４$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@159
+msgid "$1試練の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@173
+msgid "$1結婚式の招待状$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@187
+msgid "$1携帯電話$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@201
+msgid "$1古びた木刀$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@215
+msgid "$1ピンクの日記帳$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@229
+msgid "$1手作りの夕飯$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@243
+msgid "$1額縁入りの表彰状$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@257
+msgid "$1ユーリ教の手引き$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@271
+msgid "$1手紙$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@285
+msgid "$1体操着の写真$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@299
+msgid "$1水着の写真$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@313
+msgid "$1バトンのバッグ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@327
+msgid "$1エメルスのサイフ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@341
+msgid "$1クッテのサンダル$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@355
+msgid "$1チャネルのリップ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@369
+msgid "$1チハニーのリング$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@383
+msgid "$1フラタのチャーム$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@397
+msgid "$1試験薬ＫＮ１８Ａ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@411
+msgid "$1試験薬ＫＮ１８Ｂ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@425
+msgid "$1試験薬ＫＮ１８Ｃ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@439
+msgid "$1試験薬ＫＮ１８Ｄ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@453
+msgid "$1試験薬ＫＮ１８Ｅ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@467
+msgid "$1試験薬ＫＮ１８Ｆ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@481
+msgid "$1試験薬ＫＮ１８Ｇ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@495
+msgid "$1やわらかムチ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@509
+msgid "$1ビリビリ棒$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@523
+msgid "$1ナゾのえきたい$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@537
+msgid "$1羽ぼうき$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@551
+msgid "$1いやし系手袋$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@565
+msgid "$1火炎二段の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@579
+msgid "$1超吸収の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@593
+msgid "$1鉄壁ガードの書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@607
+msgid "$1盾と刀の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@621
+msgid "$1盾と魔法の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@635
+msgid "$1メガサボリの書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@649
+msgid "$1氷結二段の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@663
+msgid "$1雷撃二段の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@677
+msgid "$1応援の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@691
+msgid "$1花丸元気の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@705
+msgid "$1お願いの書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@719
+msgid "$1暗黒祭の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@733
+msgid "$1猛毒作戦の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@747
+msgid "$1せん滅作戦の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@761
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@775
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@789
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@803
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@817
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@831
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@845
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@859
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@873
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@887
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@901
+msgid "$1微量の消えない雪$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@915
+msgid "$1消えない雪$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@929
+msgid "$1聖なるお水$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@943
+msgid "$1天然糸$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@957
+msgid "$1黒曜石の針$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@971
+msgid "$1レターセット$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@985
+msgid "$1ハートのシール$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@999
+msgid "$1管理官の書類$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1013
+msgid "$1資料保管箱の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1027
+msgid "$1丸い宝石$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1041
+msgid "$1円い宝石$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1055
+msgid "$1ぬいぐるみ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1069
+msgid "$1思い出の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1083
+msgid "$1レイジー印の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1097
+msgid "$1ヨミガエリ計画書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1111
+msgid "$1水晶のチェス$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1125
+msgid "$1バレーボール$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1139
+msgid "$1牛乳パック$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1153
+msgid "$1アリスの心の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1167
+msgid "$1温泉チケット$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1181
+msgid "$1ココア$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1195
+msgid "$1シンの部屋の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1209
+msgid "$1ガールズオーダー23$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1223
+msgid "$1ガールズオーダー24$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1237
+msgid "$1ガールズオーダー25$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1251
+msgid "$1ガールズオーダー26$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1265
+msgid "$1ガールズオーダー27$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1279
+msgid "$1ガールズオーダー28$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1293
+msgid "$1ガールズオーダー29$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1307
+msgid "$1ガールズオーダー30$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1321
+msgid "$1ガールズオーダー31$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1335
+msgid "$1ガールズオーダー32$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1349
+msgid "$1ガールズオーダー33$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1363
+msgid "$1ガールズオーダー34$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1377
+msgid "$1ガールズオーダー35$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1391
+msgid "$1ガールズオーダー36$2を手に入れた"
+msgstr ""
+
+#: gate_item_close@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: gate_item_close@17
+msgid ""
+"鍵穴が１つあいている。\n"
+"開けるには$1鍵が１つ$2必要なようだ。"
+msgstr ""
+
+#: gate_item_close@30
+msgid ""
+"鍵穴が２つあいている。\n"
+"開けるには$1鍵が２つ$2必要なようだ。"
+msgstr ""
+
+#: gate_switch_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_close@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: gate_switch_miss@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_miss@5
+msgid ""
+"スイッチを押したが\n"
+"反応がない……"
+msgstr ""
+
+#: gate_switch_opened@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_opened@5
+msgid "もう、押す必要はない。"
+msgstr ""
+
+#: gate_enemy_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_enemy_close@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: ice_gate@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: ice_gate_op@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate_op@5
+msgid "ＯＰが足りない……"
+msgstr ""
+
+#: school_gate@4
+msgid "$0"
+msgstr ""
+
+#: school_gate@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: big_gate@4
+msgid "$0"
+msgstr ""
+
+#: big_gate@5
+msgid "門は固く封印されている"
+msgstr ""
+
+#: come_back_gate@4
+msgid "$0"
+msgstr ""
+
+#: come_back_gate@5
+msgid "門は固く封印されている"
+msgstr ""
+
+#: space_gate@4
+msgid "$0"
+msgstr ""
+
+#: space_gate@5
+msgid "門は固く封印されている"
+msgstr ""
+
+#: gate_after_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_after_close@5
+msgid ""
+"門は特殊な力で\n"
+"封印されているようだ。\n"
+"今は開ける事が出来ない……"
+msgstr ""
+
+#: skill_kis@58
+msgid "$0"
+msgstr ""
+
+#: skill_kis@59
+msgid ""
+"このフロアには\n"
+"宝箱が$1$5$2個残っているようだ。"
+msgstr ""
+
+#: skill_ran@9
+msgid "$0"
+msgstr ""
+
+#: skill_ran@10
+msgid "周囲からクリミナルの気配が消えた。"
+msgstr ""
+
+#: skill_ran2@5
+msgid "$0"
+msgstr ""
+
+#: skill_ran2@6
+msgid "警戒移動の効果が切れた。"
+msgstr ""
+
+#: skill_not@21
+msgid "$0"
+msgstr ""
+
+#: skill_not@22
+msgid ""
+"門が閉ざされている間は\n"
+"使えないようだ。"
+msgstr ""
+
+#: skill_not@35
+msgid "$0"
+msgstr ""
+
+#: skill_not@36
+msgid ""
+"仲間を置いて\n"
+"戻ることはできない。"
+msgstr ""
+
+#: skill_not@44
+msgid "$0"
+msgstr ""
+
+#: skill_not@45
+msgid "ここでは使えないようだ。"
+msgstr ""
+
+#: skill_not2@5
+msgid "$0"
+msgstr ""
+
+#: skill_not2@6
+msgid ""
+"今、そのスキルは\n"
+"使えないようだ。"
+msgstr ""
+
+#: sub_title_school@35
+msgid "１６：００　如月恭華の記憶"
+msgstr ""
+
+#: sub_title_school@49
+msgid "１６：００　蘭堂かよこの記憶"
+msgstr ""
+
+#: sub_title_school@63
+msgid "１６：００　水菜悠里の記憶"
+msgstr ""
+
+#: sub_title_school@77
+msgid "１６：００　春川朋の記憶"
+msgstr ""
+
+#: sub_title_school@91
+msgid "１６：００　片木左子の記憶"
+msgstr ""
+
+#: sub_title_school@105
+msgid "１６：００　片木右子の記憶"
+msgstr ""
+
+#: sub_title_school@119
+msgid "１６：００　初来慎の記憶"
+msgstr ""
+
+#: _TALK_TEST_00_01@42
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@43
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@44
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@45
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@61
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@62
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@70
+msgid "test^-----------------------------------------------------------------^\n"
+msgstr ""
+
+#: _TALK_TEST_00_01@76
+msgid ""
+"$1あＡＢＣＤＥＦＧＨＩＪＫＬＭＮあ\n"
+"$2あＯＰＱＲＳＴＵＶＷＸＹＺあ\n"
+"$2あああああああああああああああああ"
+msgstr ""
+
+#: _TALK_TEST_00_01@84
+msgid ""
+"$1あああああああああああああああああ\n"
+"$2あああああああああああああああああ\n"
+"$2あああああああああああああああああ"
+msgstr ""
+
+#: _TALK_TEST_00_01@92
+msgid ""
+"$1あああああああああああああああああ\n"
+"$2あああああああああああああああああ\n"
+"$2あああああああああああああああああ"
+msgstr ""
+
+#: _TALK_TEST_00_01@96
+msgid "いえ、ただあなたのことが"
+msgstr ""
+
+#: _TALK_TEST_00_01@97
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@98
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@110
+msgid "いえ、ただあなたのことが"
+msgstr ""
+
+#: _TALK_TEST_00_01@111
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@112
+msgid "なんでやにんぐ"
+msgstr ""
+
+#: _TALK_TEST_00_01@131
+msgid ""
+"$1どっち？$2これで$5いい？\n"
+"03駄目？$4なんでやねん100"
+msgstr ""
+
+#: _TALK_TEST_00_01@142
+msgid ""
+"$1どっち？$2これで$5いい？\n"
+"03駄目？$4なんでやねん100"
+msgstr ""
+
+#: _TALK_TEST_00_01@153
+msgid ""
+"$1どっち？$2これで$5いい？\n"
+"03駄目？$4なんでやねん100"
+msgstr ""
+
+#: _TALK_TEST_00_01@164
+msgid ""
+"$1どっち？$2これで$5いい？\n"
+"03駄目？$4なんでやねん100"
+msgstr ""
+
+#: _TALK_TEST_00_01@172
+msgid ""
+"$1あああああああああああああああああ\n"
+"$2あああああああああああああああああ\n"
+"$2あああああああああああああああああ"
+msgstr ""
+
+#: _TALK_TEST_00_01@183
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？$4なんでやねん100"
+msgstr ""
+
+#: _TALK_TEST_00_01@194
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？$4なんでやねん100"
+msgstr ""
+
+#: _TALK_TEST_00_01@198
+msgid "いえ、ただあなたのことが"
+msgstr ""
+
+#: _TALK_TEST_00_01@199
+msgid "アリスさん"
+msgstr ""
+
+#: _TALK_TEST_00_01@200
+msgid "アリスさん"
+msgstr ""
+
+#: _TALK_TEST_00_01@201
+msgid "アリスさん"
+msgstr ""
+
+#: _TALK_TEST_00_01@202
+msgid "アリスさん"
+msgstr ""
+
+#: _TALK_TEST_00_01@221
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？$4なんでやねん100"
+msgstr ""
+
+#: _TALK_TEST_00_01@238
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@239
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？$3なんでやねん200"
+msgstr ""
+
+#: _TALK_TEST_00_01@256
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん300"
+msgstr ""
+
+#: _TALK_TEST_00_01@270
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@271
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん400"
+msgstr ""
+
+#: _TALK_TEST_00_01@290
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@291
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん500"
+msgstr ""
+
+#: _TALK_TEST_00_01@305
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@306
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん600"
+msgstr ""
+
+#: _TALK_TEST_00_01@320
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@321
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん700"
+msgstr ""
+
+#: _TALK_TEST_00_01@335
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@336
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん600"
+msgstr ""
+
+#: _TALK_TEST_00_01@350
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@351
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん700"
+msgstr ""
+
+#: _TALK_TEST_00_01@365
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@366
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん600"
+msgstr ""
+
+#: _TALK_TEST_00_01@380
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@381
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん700"
+msgstr ""
+
+#: _TALK_TEST_00_01@395
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@396
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん600"
+msgstr ""
+
+#: _TALK_TEST_00_01@410
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@411
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん700"
+msgstr ""
+
+#: _TALK_TEST_00_01@425
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@426
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん600"
+msgstr ""
+
+#: _TALK_TEST_00_01@440
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@441
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん700"
+msgstr ""
+
+#: _TALK_TEST_00_01@455
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@456
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん600"
+msgstr ""
+
+#: _TALK_TEST_00_01@470
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@471
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん700"
+msgstr ""
+
+#: _TALK_TEST_00_01@485
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@486
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん600"
+msgstr ""
+
+#: _TALK_TEST_00_01@500
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@501
+msgid ""
+"$1どっち？$2これでいい？\n"
+"03駄目？04なんでやねん700"
+msgstr ""
+
+#: _TALK_TEST_00_01@510
+msgid "いえ、ただあなたのことが"
+msgstr ""
+
+#: _TALK_TEST_00_01@511
+msgid "アリスさん"
+msgstr ""
+
+#: _TALK_TEST_00_01@512
+msgid "アリスさん"
+msgstr ""
+
+#: _TALK_TEST_00_01@527
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@528
+msgid ""
+"$1匹辰a$2任\n"
+"03棔04覆任佑00"
+msgstr ""
+
+#: _TALK_TEST_00_01@535
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@536
+msgid "05匹辰a06匹辰a"
+msgstr ""
+
+#: _TALK_TEST_00_01@568
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@569
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@581
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@582
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@594
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@595
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@607
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@608
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@620
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@621
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@633
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@634
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@646
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@647
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@657
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@658
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@668
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@669
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@679
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@680
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@690
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@691
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@701
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@702
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@712
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@713
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_01@723
+msgid "00"
+msgstr ""
+
+#: _TALK_TEST_00_01@724
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_TEST_00_02@22
+msgid "…………\n"
+msgstr ""
+
+#: _TALK_TEST_00_02@34
+msgid ""
+"どうかした……？\n"
+"　　　　　　　　　　　　　　"
+msgstr ""
+
+#: _TALK_TEST_00_02@43
+msgid ""
+"少し疲れただけです。\n"
+"ありがとう、アリスさん　　　"
+msgstr ""
+
+#: _TALK_TEST_00_02@52
+msgid ""
+"急に立ち止まられて、\n"
+"邪魔だっただけっしゅ！　　　"
+msgstr ""
+
+#: _TALK_TEST_00_02@61
+msgid ""
+"心配してくれて、ありがとう。\n"
+"お優しいんですね、アリスさんは"
+msgstr ""
+
+#: _TALK_TEST_00_02@70
+msgid ""
+"心配してないっしゅ！\n"
+"　　　　　　　　　　　　　　"
+msgstr ""
+
+#: _TALK_TEST_00_02@79
+msgid ""
+"あんたが見るからに\n"
+"弱そうなのがいけないっしゅよ！"
+msgstr ""
+
+#: _TALK_TEST_00_02@88
+msgid ""
+"すみません\n"
+"　　　　　　　　　　　　　　"
+msgstr ""
+
+#: _TALK_TEST_00_02@97
+msgid ""
+"あやまらないでっ！\n"
+"　　　　　　　　　　　　　　"
+msgstr ""
+
+#: _TALK_TEST_00_03@25
+msgid ""
+"……勝てたっしゅね\n"
+"　　　　　　　　　　　　　　"
+msgstr ""
+
+#: _TALK_TEST_00_03@34
+msgid ""
+"あなたのおかげです\n"
+"　　　　　　　　　　　　　　"
+msgstr ""
+
+#: _TALK_TEST_00_03@43
+msgid ""
+"……あんたの指示も\n"
+"ちょっとはよくなってるっしゅ"
+msgstr ""
+
+#: _TALK_TEST_00_03@52
+msgid ""
+"そうですか？\n"
+"　　　　　　　　　　　　　　"
+msgstr ""
+
+#: _TALK_TEST_00_03@61
+msgid ""
+"少しなら……\n"
+"見直してあげてもいいっしゅ　"
+msgstr ""
+
+#: _TALK_TEST_00_03@70
+msgid ""
+"――！\n"
+"　　　　　　　　　　　　　　"
+msgstr ""
+
+#: _TALK_TEST_00_03@79
+msgid ""
+"そ、そこっ！\n"
+"調子にのらないっしゅ！　　　"
+msgstr ""
+
+#: _TALK_TEST_00_03@88
+msgid ""
+"わたしはあんたのことまだ\n"
+"信用してないっしゅからね！"
+msgstr ""
+
+#: _TALK_NPC_00_01@8
+msgid "NPC0 & NPC1\n"
+msgstr ""
+
+#: _TALK_NPC_00_01@62
+msgid "00"
+msgstr ""
+
+#: _TALK_NPC_00_01@63
+msgid ""
+"屬a\n"
+"屬a\n"
+"屬a"
+msgstr ""
+
+#: _TALK_NPC_00_02@0
+msgid "NPC2\n"
+msgstr ""
+
+#: _TALK_NPC_00_02@24
+msgid "アリスさん"
+msgstr ""
+
+#: _TALK_NPC_00_02@33
+msgid ""
+"……何か用っしゅか？\n"
+"いえ、ただあなたのことが\n"
+"……何か用っしゅか？"
+msgstr ""

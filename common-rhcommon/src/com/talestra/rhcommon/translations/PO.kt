@@ -1,5 +1,6 @@
 package com.talestra.rhcommon.translations
 
+import com.talestra.rhcommon.text.escape
 import com.talestra.rhcommon.text.quote
 import com.talestra.rhcommon.text.unquote
 
@@ -10,7 +11,13 @@ object PO {
 		val msgid_plural: String? = null,
 		val msgstrList: List<String> = listOf(),
 		val comments: List<String> = listOf()
-	)
+	) {
+		val references = comments.filter {
+			it.startsWith(':')
+		}.map {
+			it.substring(1).trim()
+		}
+	}
 
 	private val REGEX_ID_LINE = Regex("^(\\w+)(\\[(\\d+)\\])?\\s*(\".*\")$")
 
@@ -74,9 +81,25 @@ object PO {
 		return out
 	}
 
+	fun String.escapePo(): String {
+		var out = ""
+		for (c in this) {
+			when (c) {
+				'\n' -> out += "\\n"
+				'\r' -> out += "\\r"
+				'\t' -> out += "\\t"
+				'"' -> out += "\\\""
+				'\\' -> out += "\\\\"
+				else -> out += c
+			}
+		}
+		return out
+	}
+
+	fun String.quotePo(): String = "\"" + this.escapePo() + "\""
+
 	fun generate(entries: List<Entry>): String {
 		val out = arrayListOf<String>()
-
 
 		fun gen1(type: String, str: String) {
 			val lines3 = str.split('\n')
@@ -86,9 +109,9 @@ object PO {
 			for (line in lines) {
 				if (first) {
 					first = false
-					out += type + " " + line.quote()
+					out += type + " " + line.quotePo()
 				} else {
-					out += line.quote()
+					out += line.quotePo()
 				}
 			}
 		}

@@ -21,6 +21,7 @@ import com.soywiz.korui.ui.*
 import com.talestra.dividead.openAsDL1
 import com.talestra.dividead.uncompressIfRequired
 import java.io.FileNotFoundException
+import java.io.IOException
 
 object Play {
 	lateinit var root: VfsFile
@@ -69,7 +70,11 @@ object Play {
 	}
 
 	suspend private fun tryAutoload() = asyncFun {
-		tryLoadRoot(JailedLocalVfs("D:/juegos/dividead"))
+		try {
+			tryLoadRoot(JailedLocalVfs("D:/juegos/dividead"))
+		} catch (e: IOException) {
+
+		}
 	}
 
 	suspend private fun tryLoadRoot(root: VfsFile) = asyncFun {

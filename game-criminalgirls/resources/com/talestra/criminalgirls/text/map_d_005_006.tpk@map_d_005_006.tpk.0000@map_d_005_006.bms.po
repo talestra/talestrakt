@@ -1,0 +1,4294 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: func06_GET_KBOX_MESSAGE@5
+msgid "Obtained $1No. 832-00's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@19
+msgid "Obtained $1No. 832-01's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@33
+msgid "Obtained $1No. 832-02's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@47
+msgid "Obtained $1No. 832-03's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@61
+msgid "Obtained $1Smelly Leaf$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@75
+msgid "Obtained $1Cold Mud$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@89
+msgid "Obtained $1Leaf Dew$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@103
+msgid "Obtained $1Conquest Proof 1$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@117
+msgid "Obtained $1Conquest Proof 2$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@131
+msgid "Obtained $1Conquest Proof 3$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@145
+msgid "Obtained $1Conquest Proof 4$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@159
+msgid "Obtained $1Key of Trial$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@173
+msgid "Obtained $1Wedding Invitation$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@187
+msgid "Obtained $1Cell Phone$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@201
+msgid "Obtained $1Old Wooden Sword$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@215
+msgid "Obtained $1Pink Diary$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@229
+msgid "Obtained $1Homemade Dinner$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@243
+msgid "Obtained $1Framed Certificate$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@257
+msgid "Obtained $1Yurian Church Note$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@271
+msgid "Obtained $1Letter$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@285
+msgid "Obtained $1Gym Clothes Photo$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@299
+msgid "Obtained $1Swimsuit Photo$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@313
+msgid "Obtained $1Buitton$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@327
+msgid "Obtained $1Hemres$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@341
+msgid "Obtained $1Kucci$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@355
+msgid "Obtained $1Channel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@369
+msgid "Obtained $1Chiffany$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@383
+msgid "Obtained $1Frata$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@397
+msgid "Obtained $1Drug Test KN18A$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@411
+msgid "Obtained $1Drug Test KN18B$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@425
+msgid "Obtained $1Drug Test KN18C$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@439
+msgid "Obtained $1Drug Test KN18D$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@453
+msgid "Obtained $1Drug Test KN18E$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@467
+msgid "Obtained $1Drug Test KN18F$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@481
+msgid "Obtained $1Drug Test KN18G$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@495
+msgid "Obtained $1Soft Whip$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@509
+msgid "Obtained $1Shock Stick$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@523
+msgid "Obtained $1Strange Fluid$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@537
+msgid "Obtained $1Feather Duster$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@551
+msgid "Obtained $1Comforting Gloves$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@565
+msgid "Obtained $12 Step Flames$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@579
+msgid "Obtained $1Super Absorbancy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@593
+msgid "Obtained $1Impregnable Guard$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@607
+msgid "Obtained $1Shield and Katana$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@621
+msgid "Obtained $1Shield and Magic$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@635
+msgid "Obtained $1Ditching Class$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@649
+msgid "Obtained $12 Step Ice$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@663
+msgid "Obtained $12 Step Lightning$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@677
+msgid "Obtained $1Cheering$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@691
+msgid "Obtained $1100％ Energy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@705
+msgid "Obtained $1Requests$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@719
+msgid "Obtained $1Darkness Festival$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@733
+msgid "Obtained $1Poison Strategy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@747
+msgid "Obtained $1Annihilation Plan$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@761
+msgid "Obtained $1Drug Test KN18H$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@775
+msgid "Obtained $1Drug Test KN18I$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@789
+msgid "Obtained $1Whip and Candy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@803
+msgid "Obtained $1Hell Travel Guide$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@817
+msgid "Obtained $1Attendant's Advice$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@831
+msgid "Obtained $1Purification$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@845
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@859
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@873
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@887
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@901
+msgid "Obtained $1Tiny Enduring Snow$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@915
+msgid "Obtained $1Enduring Snow$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@929
+msgid "Obtained $1Holy Water$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@943
+msgid "Obtained $1Natural Thread$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@957
+msgid "Obtained $1Obsidian Needle$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@971
+msgid "Obtained $1Letter Set$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@985
+msgid "Obtained $1Heart Sticker$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@999
+msgid "Obtained $1Commissioner File$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1013
+msgid "Obtained $1Lockbox Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1027
+msgid "Obtained $1Round Jewel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1041
+msgid "Obtained $1Circular Jewel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1055
+msgid "Obtained $1Stuffed Animal$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1069
+msgid "Obtained $1Memorable Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1083
+msgid "Obtained $1Rage Marked Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1097
+msgid "Obtained $1Protocol$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1111
+msgid "Obtained $1Crystal Chess Set$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1125
+msgid "Obtained $1Volleyball$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1139
+msgid "Obtained $1Milk Carton$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1153
+msgid "Obtained $1Alice's Heart Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1167
+msgid "Obtained $1Hot Springs Ticket$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1181
+msgid "Obtained $1Cocoa$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1195
+msgid "Obtained $1Key to Shin's Room$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1209
+msgid "Obtained $1ID Card$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1223
+msgid "Obtained $1Symbol of Sin$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1237
+msgid "Obtained $1Girl's Wish25$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1251
+msgid "Obtained $1Girl's Wish26$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1265
+msgid "Obtained $1Girl's Wish27$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1279
+msgid "Obtained $1Girl's Wish28$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1293
+msgid "Obtained $1Girl's Wish29$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1307
+msgid "Obtained $1Girl's Wish30$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1321
+msgid "Obtained $1Girl's Wish31$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1335
+msgid "Obtained $1Girl's Wish32$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1349
+msgid "Obtained $1Girl's Wish33$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1363
+msgid "Obtained $1Girl's Wish34$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1377
+msgid "Obtained $1Girl's Wish35$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1391
+msgid "Obtained $1Girl's Wish36$2."
+msgstr ""
+
+#: gate_item_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_item_close@17
+msgid ""
+"There's one key hole.\n"
+"It appears you need $1one key$2 to open the gate."
+msgstr ""
+
+#: gate_item_close@30
+msgid ""
+"There's two key holes.\n"
+"It appears you need $1two keys$2 to open the gate."
+msgstr ""
+
+#: gate_switch_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_switch_miss@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_miss@5
+msgid ""
+"Tried using the switch\n"
+"but it didn't do anything..."
+msgstr ""
+
+#: gate_switch_opened@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_opened@5
+msgid "There's no need to use it anymore."
+msgstr ""
+
+#: gate_enemy_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_enemy_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: ice_gate@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: ice_gate_op@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate_op@5
+msgid "Not enough CM..."
+msgstr ""
+
+#: school_gate@4
+msgid "$0"
+msgstr ""
+
+#: school_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: big_gate@4
+msgid "$0"
+msgstr ""
+
+#: big_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: come_back_gate@4
+msgid "$0"
+msgstr ""
+
+#: come_back_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: space_gate@4
+msgid "$0"
+msgstr ""
+
+#: space_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_after_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_after_close@5
+msgid ""
+"It appears the gate is\n"
+"sealed by some special power.\n"
+"You can't open it for now..."
+msgstr ""
+
+#: skill_kis@58
+msgid "$0"
+msgstr ""
+
+#: skill_kis@59
+msgid ""
+"It appears there are $1$5$2 treasure chests\n"
+"left on this floor.\n"
+"(Excluding event treasure chests)"
+msgstr ""
+
+#: skill_ran@9
+msgid "$0"
+msgstr ""
+
+#: skill_ran@10
+msgid "The Convicts in the area have disappeared."
+msgstr ""
+
+#: skill_ran2@5
+msgid "$0"
+msgstr ""
+
+#: skill_ran2@6
+msgid "Alert Move has been exhausted."
+msgstr ""
+
+#: skill_not@21
+msgid "$0"
+msgstr ""
+
+#: skill_not@22
+msgid ""
+"It appears you can't use that\n"
+"while the gate is closed."
+msgstr ""
+
+#: skill_not@35
+msgid "$0"
+msgstr ""
+
+#: skill_not@36
+msgid ""
+"You can't go back.\n"
+"Don't leave your party."
+msgstr ""
+
+#: skill_not@44
+msgid "$0"
+msgstr ""
+
+#: skill_not@45
+msgid "It appears you can't use that here."
+msgstr ""
+
+#: skill_not2@5
+msgid "$0"
+msgstr ""
+
+#: skill_not2@6
+msgid ""
+"You can't use that \n"
+"skill right now."
+msgstr ""
+
+#: sub_title_school@35
+msgid "16:00 Kyoka Kisaragi's Memory"
+msgstr ""
+
+#: sub_title_school@49
+msgid "16:00 Kayoko Rando's Memory"
+msgstr ""
+
+#: sub_title_school@63
+msgid "16:00 Yuri Mizuna's Memory"
+msgstr ""
+
+#: sub_title_school@77
+msgid "16:00 Tomoe Harukawa's Memory"
+msgstr ""
+
+#: sub_title_school@91
+msgid "16:00 Sako Katagi's Memory"
+msgstr ""
+
+#: sub_title_school@105
+msgid "16:00 Yuko Katagi's Memory"
+msgstr ""
+
+#: sub_title_school@119
+msgid "16:00 Makoto Hatsurai's Memory"
+msgstr ""
+
+#: get_treasure@88
+msgid "You can't carry any more items."
+msgstr ""
+
+#: get_treasure@96
+msgid ""
+"Destroy the items you\n"
+"can't carry?"
+msgstr ""
+
+#: get_treasure@100
+msgid ""
+"Destroy the items you\n"
+"can't carry?"
+msgstr ""
+
+#: get_treasure@101
+msgid "No"
+msgstr ""
+
+#: get_treasure@102
+msgid "Yes"
+msgstr ""
+
+#: get_treasure@120
+msgid "Destroyed the items you couldn't carry."
+msgstr ""
+
+#: get_treasure@166
+msgid "Leave in the chest."
+msgstr ""
+
+#: get_treasure@175
+msgid "Already opened."
+msgstr ""
+
+#: key_get_treasure@51
+msgid "Already opened."
+msgstr ""
+
+#: get_treasure_kizuna@46
+msgid "$0"
+msgstr ""
+
+#: get_treasure_kizuna@47
+msgid ""
+"Can't open chest.\n"
+"Looks like you're missing the bond..."
+msgstr ""
+
+#: get_treasure_kizuna@56
+msgid "Already opened."
+msgstr ""
+
+#: msg_kizuna_skill@12
+msgid "$3Kisaragi$2 learned $1Flame Fist$2."
+msgstr ""
+
+#: msg_kizuna_skill@26
+msgid "$3Kisaragi$2 learned $1Hunt and Heal$2."
+msgstr ""
+
+#: msg_kizuna_skill@44
+msgid "$3Ran$2 learned $1True Defense$2."
+msgstr ""
+
+#: msg_kizuna_skill@58
+msgid "$3Ran$2 learned $1Shield Smash$2."
+msgstr ""
+
+#: msg_kizuna_skill@76
+msgid "$3Alice$2 learned $1The Return$2."
+msgstr ""
+
+#: msg_kizuna_skill@90
+msgid "$3Alice$2 learned $1Slacking Nurse$2."
+msgstr ""
+
+#: msg_kizuna_skill@108
+msgid "$3Tomoe$2 learned $1Freezing Sword$2."
+msgstr ""
+
+#: msg_kizuna_skill@122
+msgid "$3Tomoe$2 learned $1Bolt Sword$2."
+msgstr ""
+
+#: msg_kizuna_skill@140
+msgid "$3Sako$2 learned $1Sako Cheer!$2."
+msgstr ""
+
+#: msg_kizuna_skill@154
+msgid "$3Sako$2 learned $1Sako's Mark$2."
+msgstr ""
+
+#: msg_kizuna_skill@172
+msgid "$3Yuko$2 learned $1Sako Punch!$2."
+msgstr ""
+
+#: msg_kizuna_skill@186
+msgid "$3Yuko$2 learned $1Bad Festival$2."
+msgstr ""
+
+#: msg_kizuna_skill@204
+msgid "$3Shin$2 learned $1OPR Venom$2."
+msgstr ""
+
+#: msg_kizuna_skill@218
+msgid "$3Shin$2 learned $1OPR Heaven$2."
+msgstr ""
+
+#: msg_kizuna_skill@236
+msgid "$3Miu$2 learned $1Just Desserts$2."
+msgstr ""
+
+#: msg_kizuna_skill@250
+msgid "$3Miu$2 learned $1Peak Condition$2."
+msgstr ""
+
+#: msg_kizuna_skill@268
+msgid "$3Himekami$2 learned $1Overkill$2."
+msgstr ""
+
+#: msg_kizuna_skill@282
+msgid "$3Himekami$2 learned $1End of Karma$2."
+msgstr ""
+
+#: lockde_box@5
+msgid "The treasure chest is locked."
+msgstr ""
+
+#: gate_item@57
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_switch@40
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_enemy@62
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: party_gate_open@85
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_school@97
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_after@20
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: boss_gate@96
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: select_knight@4
+msgid "$0"
+msgstr ""
+
+#: select_knight@5
+msgid "Consume test drug?"
+msgstr ""
+
+#: select_knight@10
+msgid "Use"
+msgstr ""
+
+#: select_knight@11
+msgid "Don't Use"
+msgstr ""
+
+#: func04_EV05_06_0000D@35
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0000D@36
+msgid "...Line up before you're even told!"
+msgstr ""
+
+#: func04_EV05_06_0000D@58
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0000D@59
+msgid "Y-Yes, m'am!"
+msgstr ""
+
+#: func04_EV05_06_0010D@26
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0010D@27
+msgid ""
+"...I explained everything to you earlier.\n"
+"All right then, $3$0$2. It's all up\n"
+"to you now."
+msgstr ""
+
+#: func04_EV05_06_0010D@40
+msgid ""
+"$1It is highly recommended to record new\n"
+"save data before attempting Knighthood.$2"
+msgstr ""
+
+#: func04_EV05_06_0020D@32
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0020D@33
+msgid "What are you doing?"
+msgstr ""
+
+#: func04_EV05_06_0020D@42
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0020D@43
+msgid ""
+"If you're going to do this, then hurry\n"
+"up and choose someone.\n"
+msgstr ""
+
+#: func04_EV05_06_0020D@52
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0020D@53
+msgid ""
+"Remember, this process is designed for a\n"
+"blameless girl, so whomever you choose should\n"
+"be completely motivated and reformed."
+msgstr ""
+
+#: func04_EV05_06_0020D@62
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0020D@63
+msgid ""
+"If the girl you would like to reach Knighthood\n"
+"isn't fully motivated, go to the $1Infirmary$2\n"
+"and $1Motivate$2 them."
+msgstr ""
+
+#: func04_EV05_06_0030D@29
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0030D@30
+msgid "You're not going to use it?"
+msgstr ""
+
+#: func04_EV05_06_0030D@39
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0030D@40
+msgid ""
+"Well, it's all up to you, really.\n"
+"Do whatever you want.\n"
+msgstr ""
+
+#: func04_EV05_06_0100D@29
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0100D@30
+msgid "Huh!? You want me to drink this...?\n"
+msgstr ""
+
+#: func04_EV05_06_0100D@54
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0100D@55
+msgid ""
+"S-Sorry...\n"
+"I don't think I can do that..."
+msgstr ""
+
+#: func04_EV05_06_0100D@65
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0100D@66
+msgid ""
+"$3Kisaragi$2 isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV05_06_0110D@29
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0110D@30
+msgid "This... You want me to drink this?\n"
+msgstr ""
+
+#: func04_EV05_06_0110D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0110D@38
+msgid "Should $3Kisaragi$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0110D@42
+msgid "Should $3Kisaragi$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0110D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV05_06_0110D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV05_06_0110D@77
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0110D@78
+msgid ""
+"....Fine, if you say so...\n"
+"I made up my mind already anyway.\n"
+msgstr ""
+
+#: func04_EV05_06_0110D@88
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0110D@89
+msgid ""
+"$3Kisaragi$2 swallows the liquid from\n"
+"the tiny vial.\n"
+msgstr ""
+
+#: func04_EV05_06_0110D@104
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0110D@105
+msgid ""
+"Haa...heh...haa...\n"
+"Ahhhh...!"
+msgstr ""
+
+#: func04_EV05_06_0110D@152
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0110D@153
+msgid "Okay..."
+msgstr ""
+
+#: func04_EV05_06_0120D@29
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0120D@30
+msgid ""
+"...$3$0$2, do you think I've become more\n"
+"like the real me, even a little?\n"
+msgstr ""
+
+#: func04_EV05_06_0120D@54
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0120D@55
+msgid "I'll stay by your side. Forever...\n"
+msgstr ""
+
+#: func04_EV05_06_0120D@64
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0120D@65
+msgid ""
+"I beg of you... Please, continue sticking\n"
+"with me for now, and forever...\n"
+msgstr ""
+
+#: func04_EV05_06_0120D@77
+msgid "$3Kisaragi$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV05_06_0120D@86
+msgid "$3Kisaragi$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV05_06_0200D@29
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0200D@30
+msgid "Me...!?"
+msgstr ""
+
+#: func04_EV05_06_0200D@39
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0200D@40
+msgid ""
+"N-No way! There's someone else who\n"
+"you're closer to, right?"
+msgstr ""
+
+#: func04_EV05_06_0200D@64
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0200D@65
+msgid "It's too soon for me..."
+msgstr ""
+
+#: func04_EV05_06_0200D@75
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0200D@76
+msgid ""
+"$3Ran$2 isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV05_06_0210D@29
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0210D@30
+msgid "You want me...to drink this...?\n"
+msgstr ""
+
+#: func04_EV05_06_0210D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0210D@38
+msgid "Should $3Ran$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0210D@42
+msgid "Should $3Ran$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0210D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV05_06_0210D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV05_06_0210D@77
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0210D@78
+msgid "...If you want me to, I'll drink it.\n"
+msgstr ""
+
+#: func04_EV05_06_0210D@87
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0210D@88
+msgid "I mean, I've trusted you this far, right?\n"
+msgstr ""
+
+#: func04_EV05_06_0210D@98
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0210D@99
+msgid ""
+"$3Ran$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV05_06_0210D@114
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0210D@115
+msgid ""
+"Fuaaa!\n"
+"Ah...ah...aaaaahh...!"
+msgstr ""
+
+#: func04_EV05_06_0210D@162
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0210D@163
+msgid "I see..."
+msgstr ""
+
+#: func04_EV05_06_0220D@29
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0220D@30
+msgid ""
+"I was worried about my worthiness to\n"
+"achieve Knighthood..."
+msgstr ""
+
+#: func04_EV05_06_0220D@54
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0220D@55
+msgid ""
+"But now that I've become a Knight, \n"
+"I'll make sure everyone stays safe!"
+msgstr ""
+
+#: func04_EV05_06_0220D@64
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0220D@65
+msgid "I want to protect you the most.\n"
+msgstr ""
+
+#: func04_EV05_06_0220D@77
+msgid "$3Ran$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV05_06_0220D@86
+msgid "$3Ran$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV05_06_0300D@29
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0300D@30
+msgid "You want $3Alice$2...?"
+msgstr ""
+
+#: func04_EV05_06_0300D@54
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0300D@55
+msgid "...$3Alice$2...just can't...\n"
+msgstr ""
+
+#: func04_EV05_06_0300D@65
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0300D@66
+msgid ""
+"$3Alice$2 isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV05_06_0310D@29
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0310D@30
+msgid "You want...$3Alice$2 to drink...?"
+msgstr ""
+
+#: func04_EV05_06_0310D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0310D@38
+msgid "Should $3Alice$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0310D@42
+msgid "Should $3Alice$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0310D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV05_06_0310D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV05_06_0310D@62
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0310D@63
+msgid ""
+"...Okay... $3Alice$2 believes in $3$0$2...\n"
+"\n"
+msgstr ""
+
+#: func04_EV05_06_0310D@73
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0310D@74
+msgid ""
+"$3Alice$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV05_06_0310D@89
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0310D@90
+msgid ""
+"Hm...mmm...\n"
+"Fua...!"
+msgstr ""
+
+#: func04_EV05_06_0310D@137
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0310D@138
+msgid "..."
+msgstr ""
+
+#: func04_EV05_06_0320D@29
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0320D@30
+msgid ""
+"$3Alice$2 really is different from everyone.\n"
+"...But this is a good \"different.\"\n"
+msgstr ""
+
+#: func04_EV05_06_0320D@39
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0320D@40
+msgid ""
+"$3$0$2 chose $3Alice$2...\n"
+"\n"
+msgstr ""
+
+#: func04_EV05_06_0320D@64
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0320D@65
+msgid "So $3Alice$2 is happy...\n"
+msgstr ""
+
+#: func04_EV05_06_0320D@77
+msgid "$3Alice$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV05_06_0320D@86
+msgid "$3Alice$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV05_06_0400D@29
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0400D@30
+msgid "Me...?"
+msgstr ""
+
+#: func04_EV05_06_0400D@54
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0400D@55
+msgid "Forgive me... I can't drink that.\n"
+msgstr ""
+
+#: func04_EV05_06_0400D@79
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0400D@80
+msgid "You must trust somebody else more, right?\n"
+msgstr ""
+
+#: func04_EV05_06_0400D@90
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0400D@91
+msgid ""
+"$3Tomoe$2 still isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV05_06_0410D@29
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0410D@30
+msgid "You want me to drink it?"
+msgstr ""
+
+#: func04_EV05_06_0410D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0410D@38
+msgid "Should $3Tomoe$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0410D@42
+msgid "Should $3Tomoe$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0410D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV05_06_0410D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV05_06_0410D@77
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0410D@78
+msgid "...I'm so happy."
+msgstr ""
+
+#: func04_EV05_06_0410D@87
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0410D@88
+msgid ""
+"You chose me... So all I can do is trust\n"
+"your judgment.\n"
+msgstr ""
+
+#: func04_EV05_06_0410D@98
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0410D@99
+msgid ""
+"$3Tomoe$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV05_06_0410D@114
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0410D@115
+msgid ""
+"Ah...! Ugh...!\n"
+"Aaaaahhh!"
+msgstr ""
+
+#: func04_EV05_06_0410D@162
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0410D@163
+msgid "I see..."
+msgstr ""
+
+#: func04_EV05_06_0420D@29
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0420D@30
+msgid ""
+"$3$0$2... This is what I'm like now...\n"
+"\n"
+msgstr ""
+
+#: func04_EV05_06_0420D@39
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0420D@40
+msgid "What do you think? Do I look good?\n"
+msgstr ""
+
+#: func04_EV05_06_0420D@64
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0420D@65
+msgid ""
+"I'll definitely prove that you made the\n"
+"right choice!\n"
+msgstr ""
+
+#: func04_EV05_06_0420D@77
+msgid "$3Tomoe$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV05_06_0420D@86
+msgid "$3Tomoe$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV05_06_0500D@29
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0500D@30
+msgid "I-I don't want it! I hate medicine!\n"
+msgstr ""
+
+#: func04_EV05_06_0500D@54
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0500D@55
+msgid ""
+"And... You get along better with someone\n"
+"else, don't you?\n"
+msgstr ""
+
+#: func04_EV05_06_0500D@65
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0500D@66
+msgid ""
+"$3Sako$2 still isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV05_06_0510D@29
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0510D@30
+msgid "You want me to drink it?"
+msgstr ""
+
+#: func04_EV05_06_0510D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0510D@38
+msgid "Should $3Sako$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0510D@42
+msgid "Should $3Sako$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0510D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV05_06_0510D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV05_06_0510D@62
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0510D@63
+msgid "I'll take it then!"
+msgstr ""
+
+#: func04_EV05_06_0510D@72
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0510D@73
+msgid ""
+"I-I'm not scared or anything!\n"
+"I trust you!\n"
+msgstr ""
+
+#: func04_EV05_06_0510D@83
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0510D@84
+msgid ""
+"$3Sako$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV05_06_0510D@99
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0510D@100
+msgid ""
+"Fue...\n"
+"Fua...fua...\n"
+"Huaaaaa!"
+msgstr ""
+
+#: func04_EV05_06_0510D@147
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0510D@148
+msgid "How boring..."
+msgstr ""
+
+#: func04_EV05_06_0520D@29
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0520D@30
+msgid ""
+"$3$0$2! Look! I became a Knight!\n"
+"\n"
+msgstr ""
+
+#: func04_EV05_06_0520D@39
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0520D@40
+msgid "So cool, huh!? Did I become stronger?\n"
+msgstr ""
+
+#: func04_EV05_06_0520D@64
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0520D@65
+msgid ""
+"$3$0$2! Thanks for choosing me!\n"
+"\n"
+msgstr ""
+
+#: func04_EV05_06_0520D@77
+msgid "$3Sako$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV05_06_0520D@86
+msgid "$3Sako$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV05_06_0600D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0600D@30
+msgid "I don't like medicine..."
+msgstr ""
+
+#: func04_EV05_06_0600D@54
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0600D@55
+msgid ""
+"Plus, you like someone else more than me\n"
+"anyway, right?\n"
+msgstr ""
+
+#: func04_EV05_06_0600D@64
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0600D@65
+msgid "I'm sorry..."
+msgstr ""
+
+#: func04_EV05_06_0600D@75
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0600D@76
+msgid ""
+"$3Yuko$2 still isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV05_06_0610D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0610D@30
+msgid "So I should drink it then?"
+msgstr ""
+
+#: func04_EV05_06_0610D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0610D@38
+msgid "Should $3Yuko$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0610D@42
+msgid "Should $3Yuko$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0610D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV05_06_0610D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV05_06_0610D@77
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0610D@78
+msgid "...You believe in me, right?\n"
+msgstr ""
+
+#: func04_EV05_06_0610D@87
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0610D@88
+msgid ""
+"Then... I'll do my very best to show\n"
+"you that you made a good choice!\n"
+msgstr ""
+
+#: func04_EV05_06_0610D@98
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0610D@99
+msgid ""
+"$3Yuko$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV05_06_0610D@114
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0610D@115
+msgid ""
+"Fua...\n"
+"Mmm...!\n"
+"Ah...ahhhhh...!"
+msgstr ""
+
+#: func04_EV05_06_0610D@162
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0610D@163
+msgid "I see..."
+msgstr ""
+
+#: func04_EV05_06_0620D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0620D@30
+msgid "$3$0$2... I'm very happy.\n"
+msgstr ""
+
+#: func04_EV05_06_0620D@54
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0620D@55
+msgid "I mean, you chose me.\n"
+msgstr ""
+
+#: func04_EV05_06_0620D@64
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0620D@65
+msgid ""
+"I'll definitely be helpful for everyone, \n"
+"so...always stay by my side, okay?\n"
+msgstr ""
+
+#: func04_EV05_06_0620D@77
+msgid "$3Yuko$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV05_06_0620D@86
+msgid "$3Yuko$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV05_06_0700D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0700D@30
+msgid "Y-You want me to...?"
+msgstr ""
+
+#: func04_EV05_06_0700D@54
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0700D@55
+msgid ""
+"N-Not possible! Sorry, but I must respectfully\n"
+"decline your offer. There's someone else\n"
+"who is a better fit, isn't there?"
+msgstr ""
+
+#: func04_EV05_06_0700D@65
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0700D@66
+msgid ""
+"$3Shin$2 still isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV05_06_0710D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0710D@30
+msgid "You want me...to drink this...?"
+msgstr ""
+
+#: func04_EV05_06_0710D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0710D@38
+msgid "Should $3Shin$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0710D@42
+msgid "Should $3Shin$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV05_06_0710D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV05_06_0710D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV05_06_0710D@62
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0710D@63
+msgid "...Got it. I trust you, $3$0$2.\n"
+msgstr ""
+
+#: func04_EV05_06_0710D@73
+msgid "$0"
+msgstr ""
+
+#: func04_EV05_06_0710D@74
+msgid ""
+"$3Shin$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV05_06_0710D@89
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0710D@90
+msgid ""
+"Ke... Ah... Ah...\n"
+"Ahhhhhh!\n"
+msgstr ""
+
+#: func04_EV05_06_0710D@137
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0710D@138
+msgid "...Well then. All right.\n"
+msgstr ""
+
+#: func04_EV05_06_0720D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0720D@30
+msgid ""
+"I played as one so often in my video\n"
+"games, but..."
+msgstr ""
+
+#: func04_EV05_06_0720D@39
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0720D@40
+msgid ""
+"To really become one... It's actually pretty\n"
+"embarrassing..."
+msgstr ""
+
+#: func04_EV05_06_0720D@64
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0720D@65
+msgid "But... Thank you for choosing me.\n"
+msgstr ""
+
+#: func04_EV05_06_0720D@77
+msgid "$3Shin$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV05_06_0720D@86
+msgid "$3Shin$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV05_06_0800D@38
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0800D@39
+msgid ""
+"Amazing... I've been like, totally overflowing\n"
+"with power from the moment I became a Knight!\n"
+msgstr ""
+
+#: func04_EV05_06_0800D@83
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0800D@84
+msgid ""
+"What the...!? I'm swelling with so much power!\n"
+"So this is the power of a Knight!\n"
+msgstr ""
+
+#: func04_EV05_06_0800D@127
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0800D@128
+msgid ""
+"Amazing...! $3Alice$2 feels so different...\n"
+"Being a Knight...is amazing...!\n"
+msgstr ""
+
+#: func04_EV05_06_0800D@172
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV05_06_0800D@173
+msgid ""
+"Haa... I feel flushed and swollen with\n"
+"power from just standing here...\n"
+"Is this what being a Knight is like?"
+msgstr ""
+
+#: func04_EV05_06_0800D@217
+msgid "Sako"
+msgstr ""
+
+#: func04_EV05_06_0800D@218
+msgid ""
+"A-Amazing! I got really strong!\n"
+"\n"
+msgstr ""
+
+#: func04_EV05_06_0800D@262
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV05_06_0800D@263
+msgid ""
+"W-Woah! It's as if I'm filled with power...\n"
+"Being a Knight is so wonderful!\n"
+msgstr ""
+
+#: func04_EV05_06_0800D@307
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0800D@308
+msgid ""
+"Fascinating... So this is the effect of\n"
+"Knighthood. I feel capable of vanquishing\n"
+"any enemy that gets in our way!"
+msgstr ""
+
+#: func04_EV05_06_0800D@333
+msgid "Ran"
+msgstr ""
+
+#: func04_EV05_06_0800D@334
+msgid "All right, now we're fully ready!"
+msgstr ""
+
+#: func04_EV05_06_0800D@359
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV05_06_0800D@360
+msgid "Yeah! All ready!"
+msgstr ""
+
+#: func04_EV05_06_0800D@385
+msgid "Alice"
+msgstr ""
+
+#: func04_EV05_06_0800D@386
+msgid ""
+"With Knighthood... \n"
+"We can save $3Himekami$2...!"
+msgstr ""
+
+#: func04_EV05_06_0800D@411
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0800D@412
+msgid "...You girls..."
+msgstr ""
+
+#: func04_EV05_06_0800D@437
+msgid "Shin"
+msgstr ""
+
+#: func04_EV05_06_0800D@438
+msgid "Do you need to say something, $3Miu$2?"
+msgstr ""
+
+#: func04_EV05_06_0800D@463
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0800D@464
+msgid "...No. Just do whatever you need to.\n"
+msgstr ""
+
+#: func04_EV05_06_0900D@26
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0900D@27
+msgid ""
+"...Oh, right. I guess I don't need these\n"
+"anymore, so use them if you want.\n"
+msgstr ""
+
+#: func04_EV05_06_0900D@36
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0900D@37
+msgid ""
+"You can use them to relax any girl\n"
+"who is a Knight."
+msgstr ""
+
+#: func04_EV05_06_0900D@46
+msgid "Miu"
+msgstr ""
+
+#: func04_EV05_06_0900D@47
+msgid "All right then..."
+msgstr ""
+
+#: func04_EV05_06_0910D@5
+msgid "I receive $1Comforting Gloves$2"
+msgstr ""
+
+#: func04_EV05_06_0910D@21
+msgid "$1Aftercare$2 has been awakened!"
+msgstr ""
+
+#: func04_EV06_03_0200D@37
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0200D@38
+msgid ""
+"This place... $3Himekami$2 and $3Miu$2\n"
+"should be here...\n"
+msgstr ""
+
+#: func04_EV06_03_0200D@67
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0200D@68
+msgid ""
+"Yeah, I feel ya. This whole place\n"
+"just gives me a bad feeling.\n"
+msgstr ""
+
+#: func04_EV06_03_0200D@93
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0200D@94
+msgid "All right! Let's go!\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0210D@30
+msgid "Wh-What...?"
+msgstr ""
+
+#: func04_EV06_03_0210D@48
+msgid "???"
+msgstr ""
+
+#: func04_EV06_03_0210D@49
+msgid ""
+"Restricted access beyond this point.\n"
+"Access forbidden for wards of the system.\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@56
+msgid "???"
+msgstr ""
+
+#: func04_EV06_03_0210D@57
+msgid "I repeat-"
+msgstr ""
+
+#: func04_EV06_03_0210D@84
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0210D@85
+msgid ""
+"Huh? So we can't go through here?\n"
+"It doesn't make sense at all!\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@110
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0210D@111
+msgid ""
+"It said that access was forbidden for\n"
+"wards of the system... What does that mean?\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@136
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0210D@137
+msgid ""
+"Doesn't that mean... Anyone participating in\n"
+"the Reformation Program can't go inside?\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@146
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0210D@147
+msgid ""
+"You know, like the signs you see at parks\n"
+"that say, \"Staff Only.\"\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@172
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0210D@173
+msgid ""
+"I see... So anyone participating in the\n"
+"program can't go backstage, huh?\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@198
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0210D@199
+msgid ""
+"But...in that case, how are we supposed\n"
+"to move forward?"
+msgstr ""
+
+#: func04_EV06_03_0210D@228
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0210D@229
+msgid "...It's just my assumption, but..."
+msgstr ""
+
+#: func04_EV06_03_0210D@238
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0210D@239
+msgid ""
+"Do you remember what the Convict from\n"
+"earlier said?\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@267
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0210D@268
+msgid "No... What was it again?\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@293
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0210D@294
+msgid ""
+"From what I recall... This system can't\n"
+"handle anyone who's become a Knight.\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@319
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0210D@320
+msgid "Does that mean...!?"
+msgstr ""
+
+#: func04_EV06_03_0210D@348
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0210D@349
+msgid ""
+"We can break through this gate if everyone \n"
+"becomes a Knight!?"
+msgstr ""
+
+#: func04_EV06_03_0210D@374
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0210D@375
+msgid "But...there's no more stuff."
+msgstr ""
+
+#: func04_EV06_03_0210D@400
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0210D@401
+msgid "If that's the case..."
+msgstr ""
+
+#: func04_EV06_03_0210D@410
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0210D@411
+msgid ""
+"The Convict from earlier said something about\n"
+"confirming the destruction of the test drugs!\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@436
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0210D@437
+msgid ""
+"Then that means there might be more if we go\n"
+"look for them!"
+msgstr ""
+
+#: func04_EV06_03_0210D@462
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0210D@463
+msgid ""
+"Then all we gotta do is find enough of the \n"
+"test drug for everyone, right!?\n"
+msgstr ""
+
+#: func04_EV06_03_0210D@488
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0210D@489
+msgid "All right, let's go!"
+msgstr ""
+
+#: func04_EV06_03_0300D@32
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0300D@33
+msgid ""
+"That Convict...\n"
+"It's guarding the gate!"
+msgstr ""
+
+#: func04_EV06_03_0300D@58
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0300D@59
+msgid ""
+"If they get in the way of our search, \n"
+"all we gotta do is beat them up!\n"
+msgstr ""
+
+#: func04_EV06_03_0310D@9
+msgid "All green gate seals have been released."
+msgstr ""
+
+#: func04_EV06_03_0310D@20
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0310D@21
+msgid ""
+"Just like the blue gates from 1F, the green\n"
+"gates might also create new paths!"
+msgstr ""
+
+#: func04_EV06_03_0310D@28
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0310D@29
+msgid "We should probably go check them out."
+msgstr ""
+
+#: func04_EV06_03_0400D@32
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0400D@33
+msgid "That thing... Is it guarding the gate?"
+msgstr ""
+
+#: func04_EV06_03_0400D@55
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0400D@56
+msgid ""
+"Whatever it's doing, it's in the way\n"
+"of our search for the Knight drug."
+msgstr ""
+
+#: func04_EV06_03_0400D@88
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0400D@89
+msgid "All right! Let's do this!\n"
+msgstr ""
+
+#: func04_EV06_03_0410D@9
+msgid "All purple gate seals have been released."
+msgstr ""
+
+#: func04_EV06_03_0410D@20
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0410D@21
+msgid ""
+"Just like the blue gates from 1F, the purple\n"
+"gates might also create new paths!"
+msgstr ""
+
+#: func04_EV06_03_0410D@28
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0410D@29
+msgid "It might be better if we go investigate it."
+msgstr ""
+
+#: func04_EV06_03_0500D@32
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0500D@33
+msgid ""
+"This...must be the Knight Transformation Serum, \n"
+"right!?"
+msgstr ""
+
+#: func04_EV06_03_0500D@55
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0500D@56
+msgid ""
+"The name is slightly different. But that\n"
+"could just be due to a different clinical\n"
+"trial, right?"
+msgstr ""
+
+#: func04_EV06_03_0500D@81
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0500D@82
+msgid ""
+"I never thought we would actually find it!\n"
+"But is this stuff still good? What if it like, \n"
+"spoiled or something?"
+msgstr ""
+
+#: func04_EV06_03_0500D@107
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0500D@108
+msgid ""
+"Well, we won't know unless we give\n"
+"it a try..."
+msgstr ""
+
+#: func04_EV06_03_0500D@133
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0500D@134
+msgid ""
+"$3Miu$2 said you can only transform into\n"
+"a Knight inside the field she made.\n"
+msgstr ""
+
+#: func04_EV06_03_0500D@159
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0500D@160
+msgid "Yeah, let's just head back there for now!"
+msgstr ""
+
+#: func04_EV06_03_0510D@32
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0510D@33
+msgid "Found it...!"
+msgstr ""
+
+#: func04_EV06_03_0510D@55
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0510D@56
+msgid ""
+"Yeah! It was the $1second one$2.\n"
+"That's four more left, right $3Alice$2?"
+msgstr ""
+
+#: func04_EV06_03_0510D@81
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0510D@82
+msgid "$3Yuko$2... You really became a hard worker...\n"
+msgstr ""
+
+#: func04_EV06_03_0510D@107
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0510D@108
+msgid ""
+"Huh? You think so? Eheh...\n"
+"Anyway! Let's go back to that room on\n"
+"the fourth floor of the previous area."
+msgstr ""
+
+#: func04_EV06_03_0510D@133
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0510D@134
+msgid "Yeah."
+msgstr ""
+
+#: func04_EV06_03_0520D@32
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0520D@33
+msgid ""
+"Ahah! This would be our $1third$2 serum for\n"
+"Knight Transformation."
+msgstr ""
+
+#: func04_EV06_03_0520D@55
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0520D@56
+msgid "All right, so there's $1three$2 more left. "
+msgstr ""
+
+#: func04_EV06_03_0520D@81
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0520D@82
+msgid ""
+"...Oh my, $3Sako$2. I wasn't aware that\n"
+"you were capable of arithmetic."
+msgstr ""
+
+#: func04_EV06_03_0520D@107
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0520D@108
+msgid ""
+"Huh? H-Hey now. Even I can do regular\n"
+"old subtraction!\n"
+msgstr ""
+
+#: func04_EV06_03_0520D@133
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0520D@134
+msgid "Oh my, how rare. It's the real face of $3Sako$2.\n"
+msgstr ""
+
+#: func04_EV06_03_0520D@159
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0520D@160
+msgid ""
+"Huh? What? A-Anyway, let's go back to the\n"
+"$1Purgatory Area's 4F$2!\n"
+msgstr ""
+
+#: func04_EV06_03_0530D@35
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0530D@36
+msgid "All right! I've got it!\n"
+msgstr ""
+
+#: func04_EV06_03_0530D@60
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0530D@61
+msgid "...Ahem."
+msgstr ""
+
+#: func04_EV06_03_0530D@83
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0530D@84
+msgid ""
+"...That's our $1fourth$2 one.\n"
+"Just $1two$2 remain..."
+msgstr ""
+
+#: func04_EV06_03_0530D@109
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0530D@110
+msgid "You're right."
+msgstr ""
+
+#: func04_EV06_03_0530D@135
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0530D@136
+msgid "..."
+msgstr ""
+
+#: func04_EV06_03_0530D@161
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0530D@162
+msgid "Wh-What?"
+msgstr ""
+
+#: func04_EV06_03_0530D@187
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0530D@188
+msgid "...You're a really funny person...\n"
+msgstr ""
+
+#: func04_EV06_03_0530D@213
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0530D@214
+msgid ""
+"Huuh? Wh-What does that mean? Anyway, \n"
+"let's go back to that room on the fourth\n"
+"floor of the previous area."
+msgstr ""
+
+#: func04_EV06_03_0540D@32
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0540D@33
+msgid "All right! That's $1five$2 of them!"
+msgstr ""
+
+#: func04_EV06_03_0540D@55
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0540D@56
+msgid ""
+"Yeah... It looks like the real deal.\n"
+"That means we only have $1one$2 left!\n"
+msgstr ""
+
+#: func04_EV06_03_0540D@81
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0540D@82
+msgid ""
+"What, are you still picky about the quality\n"
+"of every object?"
+msgstr ""
+
+#: func04_EV06_03_0540D@107
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0540D@108
+msgid ""
+"Oh, lay off! This is totally important!\n"
+"Let's just go back to that room on the\n"
+"fourth floor of the previous area."
+msgstr ""
+
+#: func04_EV06_03_0540D@133
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0540D@134
+msgid "Hehe. You're right.\n"
+msgstr ""
+
+#: func04_EV06_03_0550D@32
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0550D@33
+msgid "Last one, let's get it!\n"
+msgstr ""
+
+#: func04_EV06_03_0550D@69
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0550D@70
+msgid ""
+"Looks like it's finally my turn!\n"
+"I was getting tired of waiting for this!"
+msgstr ""
+
+#: func04_EV06_03_0550D@105
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0550D@106
+msgid ""
+"So I finally get to become a Knight too, huh?\n"
+"I'm looking forward to it.\n"
+msgstr ""
+
+#: func04_EV06_03_0550D@141
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0550D@142
+msgid "*Sigh* It's like, finally my turn?"
+msgstr ""
+
+#: func04_EV06_03_0550D@151
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0550D@152
+msgid ""
+"Oh well, it's fine. I leave the best for\n"
+"last, too.\n"
+msgstr ""
+
+#: func04_EV06_03_0550D@187
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0550D@188
+msgid ""
+"So, with this, I can finally become a Knight.\n"
+"How am I going to turn out...?\n"
+msgstr ""
+
+#: func04_EV06_03_0550D@223
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0550D@224
+msgid ""
+"All right! Let's do this already!\n"
+"I'm gonna try out a new skill!\n"
+msgstr ""
+
+#: func04_EV06_03_0550D@259
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0550D@260
+msgid ""
+"Even though I ended up being the last one...\n"
+"I'll do my best to catch up to everyone\n"
+"as soon as possible!"
+msgstr ""
+
+#: func04_EV06_03_0550D@295
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0550D@296
+msgid ""
+"$3Alice$2 becomes a Knight too...?\n"
+"Such joy..."
+msgstr ""
+
+#: func04_EV06_03_0550D@331
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0550D@332
+msgid "Looks like we got enough for all of us.\n"
+msgstr ""
+
+#: func04_EV06_03_0550D@357
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0550D@358
+msgid ""
+"Yeah. Let's return to the room on the fourth\n"
+"floor of the previous area and reach\n"
+"Knighthood...together!"
+msgstr ""
+
+#: func04_EV06_03_0560D@29
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0560D@30
+msgid "Um... Like, do I *have* to drink this?\n"
+msgstr ""
+
+#: func04_EV06_03_0560D@39
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0560D@40
+msgid ""
+"S-Sorry...\n"
+"I still don't think I can do it..."
+msgstr ""
+
+#: func04_EV06_03_0560D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0560D@51
+msgid ""
+"You still haven't done enough $1Motivation$2 for\n"
+"$3Kisaragi$2 to consume the drug.\n"
+msgstr ""
+
+#: func04_EV06_03_0561D@29
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0561D@30
+msgid "Um, you want me to drink this, right...?\n"
+msgstr ""
+
+#: func04_EV06_03_0561D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0561D@38
+msgid "Should $3Kisaragi$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0561D@42
+msgid "Should $3Kisaragi$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0561D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV06_03_0561D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV06_03_0561D@62
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0561D@63
+msgid ""
+"....Fine, if you say so...\n"
+"I made up my mind already anyway.\n"
+msgstr ""
+
+#: func04_EV06_03_0561D@73
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0561D@74
+msgid ""
+"$3Kisaragi$2 swallows the liquid from\n"
+"the tiny vial.\n"
+msgstr ""
+
+#: func04_EV06_03_0561D@89
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0561D@90
+msgid ""
+"Haa...heh...haa...\n"
+"Ahhhh...!"
+msgstr ""
+
+#: func04_EV06_03_0561D@137
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0561D@138
+msgid "Okay..."
+msgstr ""
+
+#: func04_EV06_03_0562D@29
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0562D@30
+msgid ""
+"...$3$0$2, do you think I've become more\n"
+"like the real me, even by little?\n"
+msgstr ""
+
+#: func04_EV06_03_0562D@39
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0562D@40
+msgid "I'll stay by your side. Forever...\n"
+msgstr ""
+
+#: func04_EV06_03_0562D@64
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0562D@65
+msgid ""
+"I beg of you... Please, continue sticking\n"
+"with me for now, and forever...\n"
+msgstr ""
+
+#: func04_EV06_03_0562D@77
+msgid "$3Kisaragi$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV06_03_0562D@86
+msgid "$3Kisaragi$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV06_03_0563D@29
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0563D@30
+msgid ""
+"Hurry up and help the other girls achieve\n"
+"Knighthood too, $3$0$2.\n"
+msgstr ""
+
+#: func04_EV06_03_0564D@29
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0564D@30
+msgid "Me...!?"
+msgstr ""
+
+#: func04_EV06_03_0564D@39
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0564D@40
+msgid "It's too soon for me...\n"
+msgstr ""
+
+#: func04_EV06_03_0564D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0564D@51
+msgid ""
+"$3Ran$2 isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV06_03_0565D@29
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0565D@30
+msgid "You want me...to drink this...?\n"
+msgstr ""
+
+#: func04_EV06_03_0565D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0565D@38
+msgid "Should $3Ran$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0565D@42
+msgid "Should $3Ran$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0565D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV06_03_0565D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV06_03_0565D@62
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0565D@63
+msgid ""
+"...If you want me to, I'll drink it.\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0565D@72
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0565D@73
+msgid "I mean, I've trusted you this far, right?\n"
+msgstr ""
+
+#: func04_EV06_03_0565D@83
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0565D@84
+msgid ""
+"$3Ran$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV06_03_0565D@99
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0565D@100
+msgid ""
+"Fuaaa!\n"
+"Ah...ah...aaaaahh...!"
+msgstr ""
+
+#: func04_EV06_03_0565D@147
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0565D@148
+msgid "I see..."
+msgstr ""
+
+#: func04_EV06_03_0566D@29
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0566D@30
+msgid ""
+"I was worried about my worthiness to\n"
+"achieve Knighthood..."
+msgstr ""
+
+#: func04_EV06_03_0566D@54
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0566D@55
+msgid ""
+"But now that I've become a Knight, \n"
+"I'll do my best to keep everyone safe!"
+msgstr ""
+
+#: func04_EV06_03_0566D@67
+msgid "$3Ran$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV06_03_0566D@76
+msgid "$3Ran$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV06_03_0567D@29
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0567D@30
+msgid ""
+"I want to protect you the most.\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0568D@29
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0568D@30
+msgid "You want $3Alice$2...?"
+msgstr ""
+
+#: func04_EV06_03_0568D@39
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0568D@40
+msgid "...$3Alice$2...just can't...\n"
+msgstr ""
+
+#: func04_EV06_03_0568D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0568D@51
+msgid ""
+"$3Alice$2 isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV06_03_0569D@29
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0569D@30
+msgid "You want...$3Alice$2 to drink...?"
+msgstr ""
+
+#: func04_EV06_03_0569D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0569D@38
+msgid "Should $3Alice$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0569D@42
+msgid "Should $3Alice$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0569D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV06_03_0569D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV06_03_0569D@62
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0569D@63
+msgid ""
+"...Okay... $3Alice$2 believes in $3$0$2...\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0569D@73
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0569D@74
+msgid ""
+"$3Alice$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV06_03_0569D@89
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0569D@90
+msgid ""
+"Hm...mmm...\n"
+"Fua...!"
+msgstr ""
+
+#: func04_EV06_03_0569D@137
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0569D@138
+msgid "..."
+msgstr ""
+
+#: func04_EV06_03_0570D@29
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0570D@30
+msgid ""
+"$3Alice$2 really is different from everyone.\n"
+"...But this is a good \"different.\"\n"
+msgstr ""
+
+#: func04_EV06_03_0570D@39
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0570D@40
+msgid ""
+"$3$0$2 chose $3Alice$2...\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0570D@64
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0570D@65
+msgid "So $3Alice$2 is happy...\n"
+msgstr ""
+
+#: func04_EV06_03_0570D@77
+msgid "$3Alice$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV06_03_0570D@86
+msgid "$3Alice$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV06_03_0571D@29
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0571D@30
+msgid "Make everyone special too, for $3Alice$2!\n"
+msgstr ""
+
+#: func04_EV06_03_0572D@29
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0572D@30
+msgid "Me...?"
+msgstr ""
+
+#: func04_EV06_03_0572D@39
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0572D@40
+msgid "Forgive me... I can't drink that.\n"
+msgstr ""
+
+#: func04_EV06_03_0572D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0572D@51
+msgid ""
+"$3Tomoe$2 still isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV06_03_0573D@29
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0573D@30
+msgid "You want me to drink it?"
+msgstr ""
+
+#: func04_EV06_03_0573D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0573D@38
+msgid "Should $3Tomoe$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0573D@42
+msgid "Should $3Tomoe$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0573D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV06_03_0573D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV06_03_0573D@62
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0573D@63
+msgid "...I'm so happy."
+msgstr ""
+
+#: func04_EV06_03_0573D@72
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0573D@73
+msgid ""
+"You chose me... So all I can do is trust\n"
+"your judgment.\n"
+msgstr ""
+
+#: func04_EV06_03_0573D@83
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0573D@84
+msgid ""
+"$3Tomoe$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV06_03_0573D@99
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0573D@100
+msgid ""
+"Ah...! Ugh...!\n"
+"Aaaaahhh!"
+msgstr ""
+
+#: func04_EV06_03_0573D@147
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0573D@148
+msgid "I see..."
+msgstr ""
+
+#: func04_EV06_03_0574D@29
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0574D@30
+msgid ""
+"$3$0$2... This is what I'm like now...\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0574D@39
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0574D@40
+msgid "What do you think? Do I look good?\n"
+msgstr ""
+
+#: func04_EV06_03_0574D@64
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0574D@65
+msgid ""
+"I'll definitely prove that you made the\n"
+"right choice!\n"
+msgstr ""
+
+#: func04_EV06_03_0574D@77
+msgid "$3Tomoe$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV06_03_0574D@86
+msgid "$3Tomoe$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV06_03_0575D@29
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0575D@30
+msgid ""
+"Please, help everyone else reach Knighthood\n"
+"too, okay?\n"
+msgstr ""
+
+#: func04_EV06_03_0576D@29
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0576D@30
+msgid "I-I don't want it! I hate medicine!"
+msgstr ""
+
+#: func04_EV06_03_0576D@39
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0576D@40
+msgid "I don't think I can do it yet...\n"
+msgstr ""
+
+#: func04_EV06_03_0576D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0576D@51
+msgid ""
+"$3Sako$2 still isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV06_03_0577D@29
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0577D@30
+msgid "You want me to drink it?"
+msgstr ""
+
+#: func04_EV06_03_0577D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0577D@38
+msgid "Should $3Sako$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0577D@42
+msgid "Should $3Sako$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0577D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV06_03_0577D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV06_03_0577D@62
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0577D@63
+msgid "I'll take it then!"
+msgstr ""
+
+#: func04_EV06_03_0577D@72
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0577D@73
+msgid ""
+"I-I'm not scared or anything!\n"
+"I trust you!\n"
+msgstr ""
+
+#: func04_EV06_03_0577D@83
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0577D@84
+msgid ""
+"$3Sako$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV06_03_0577D@99
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0577D@100
+msgid ""
+"Fue...\n"
+"Fua...fua...\n"
+"Huaaaaa!"
+msgstr ""
+
+#: func04_EV06_03_0577D@147
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0577D@148
+msgid "How boring..."
+msgstr ""
+
+#: func04_EV06_03_0578D@29
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0578D@30
+msgid ""
+"$3$0$2! Look! I became a Knight!\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0578D@39
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0578D@40
+msgid "So cool, huh!? Did I become stronger?\n"
+msgstr ""
+
+#: func04_EV06_03_0578D@64
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0578D@65
+msgid ""
+"$3$0$2! Thanks for choosing me!\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0578D@77
+msgid "$3Sako$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV06_03_0578D@86
+msgid "$3Sako$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV06_03_0579D@29
+msgid "Sako"
+msgstr ""
+
+#: func04_EV06_03_0579D@30
+msgid ""
+"$3$0$2! Let the others become Knights too!\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0580D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0580D@30
+msgid "I don't like medicine..."
+msgstr ""
+
+#: func04_EV06_03_0580D@39
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0580D@40
+msgid "I'm sorry, $3$0$2..."
+msgstr ""
+
+#: func04_EV06_03_0580D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0580D@51
+msgid ""
+"$3Yuko$2 still isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV06_03_0581D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0581D@30
+msgid "So I should drink it then?"
+msgstr ""
+
+#: func04_EV06_03_0581D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0581D@38
+msgid "Should $3Yuko$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0581D@42
+msgid "Should $3Yuko$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0581D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV06_03_0581D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV06_03_0581D@62
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0581D@63
+msgid "...You believe in me, right?\n"
+msgstr ""
+
+#: func04_EV06_03_0581D@72
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0581D@73
+msgid ""
+"Then... I'll do my very best to show\n"
+"you that you made a good choice!\n"
+msgstr ""
+
+#: func04_EV06_03_0581D@83
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0581D@84
+msgid ""
+"$3Yuko$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV06_03_0581D@99
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0581D@100
+msgid ""
+"Fua...\n"
+"Mmm...!\n"
+"Ah...ahhhhh...!"
+msgstr ""
+
+#: func04_EV06_03_0581D@147
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0581D@148
+msgid "I see..."
+msgstr ""
+
+#: func04_EV06_03_0582D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0582D@30
+msgid "$3$0$2... I'm very happy.\n"
+msgstr ""
+
+#: func04_EV06_03_0582D@54
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0582D@55
+msgid "I mean, you chose me.\n"
+msgstr ""
+
+#: func04_EV06_03_0582D@64
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0582D@65
+msgid ""
+"I'll definitely be helpful for everyone, \n"
+"so...always stay by my side, okay?\n"
+msgstr ""
+
+#: func04_EV06_03_0582D@77
+msgid "$3Yuko$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV06_03_0582D@86
+msgid "$3Yuko$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV06_03_0583D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0583D@30
+msgid ""
+"Go help the others become Knights now, \n"
+"too, okay $3$0$2?\n"
+msgstr ""
+
+#: func04_EV06_03_0584D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0584D@30
+msgid "Y-You want me to...?"
+msgstr ""
+
+#: func04_EV06_03_0584D@39
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0584D@40
+msgid ""
+"N-Not possible! Sorry, but I must respectfully\n"
+"decline your offer."
+msgstr ""
+
+#: func04_EV06_03_0584D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0584D@51
+msgid ""
+"$3Shin$2 still isn't motivated enough to\n"
+"achieve Knighthood.\n"
+msgstr ""
+
+#: func04_EV06_03_0585D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0585D@30
+msgid "You want me...to drink this...?"
+msgstr ""
+
+#: func04_EV06_03_0585D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0585D@38
+msgid "Should $3Shin$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0585D@42
+msgid "Should $3Shin$2 really become a Knight?\n"
+msgstr ""
+
+#: func04_EV06_03_0585D@43
+msgid "Yes"
+msgstr ""
+
+#: func04_EV06_03_0585D@44
+msgid "No"
+msgstr ""
+
+#: func04_EV06_03_0585D@62
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0585D@63
+msgid "...Got it. I trust you, $3$0$2.\n"
+msgstr ""
+
+#: func04_EV06_03_0585D@73
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0585D@74
+msgid ""
+"$3Shin$2 swallows the liquid from the\n"
+"tiny vial.\n"
+msgstr ""
+
+#: func04_EV06_03_0585D@89
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0585D@90
+msgid ""
+"Ke... Ah... Ah...\n"
+"Ahhhhhh!\n"
+msgstr ""
+
+#: func04_EV06_03_0585D@137
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0585D@138
+msgid "...Well then. All right.\n"
+msgstr ""
+
+#: func04_EV06_03_0586D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0586D@30
+msgid ""
+"I played as one so often in my video\n"
+"games, but..."
+msgstr ""
+
+#: func04_EV06_03_0586D@39
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0586D@40
+msgid ""
+"To really become one... It's actually pretty\n"
+"embarrassing..."
+msgstr ""
+
+#: func04_EV06_03_0586D@64
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0586D@65
+msgid "But... Thank you for choosing me.\n"
+msgstr ""
+
+#: func04_EV06_03_0586D@77
+msgid "$3Shin$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV06_03_0586D@86
+msgid "$3Shin$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV06_03_0587D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0587D@30
+msgid ""
+"$3$0$2, let the others become Knights too!\n"
+"\n"
+msgstr ""
+
+#: func04_EV06_03_0590D@4
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0590D@5
+msgid ""
+"I used all of the serum that I had, \n"
+"but the girls aren't all Knights yet.\n"
+msgstr ""
+
+#: func04_EV06_03_0590D@12
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0590D@13
+msgid ""
+"Looks like we need to go back to the\n"
+"$1Warden's Block$2 to look for some more\n"
+"of it."
+msgstr ""
+
+#: func04_EV06_03_0591D@4
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0591D@5
+msgid ""
+"I managed to Knight everyone.\n"
+"Now we should be able to go through the\n"
+"$1Warden's Block$2."
+msgstr ""
+
+#: func04_EV06_03_0591D@12
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0591D@13
+msgid ""
+"I'm worried about $3Miu$2 and $3Himekami$2.\n"
+"We should head over to the gate."
+msgstr ""
+
+#: func04_EV06_03_0600D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV06_03_0600D@30
+msgid ""
+"We should all be able to circumvent\n"
+"the system's recognition method now.\n"
+msgstr ""
+
+#: func04_EV06_03_0605D@20
+msgid "$0"
+msgstr ""
+
+#: func04_EV06_03_0605D@21
+msgid ""
+"I cautiously push against the gate, \n"
+"and it swings open without resistance."
+msgstr ""
+
+#: func04_EV06_03_0605D@40
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV06_03_0605D@41
+msgid "Yay!"
+msgstr ""
+
+#: func04_EV06_03_0605D@63
+msgid "Ran"
+msgstr ""
+
+#: func04_EV06_03_0605D@64
+msgid "All right!\n"
+msgstr ""
+
+#: func04_EV06_03_0606D@4
+msgid "Criminal"
+msgstr ""
+
+#: func04_EV06_03_0606D@5
+msgid ""
+"Emergency! Emergency! Knights present at\n"
+"Gate 5, Zone S!"
+msgstr ""
+
+#: func04_EV06_03_0606D@12
+msgid "Criminal"
+msgstr ""
+
+#: func04_EV06_03_0606D@13
+msgid ""
+"It appears the number of Knights has\n"
+"multiplied! Enter extermination mode!"
+msgstr ""
+
+#: func04_EV06_03_0610D@32
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV06_03_0610D@33
+msgid ""
+"What's going on? I feel like the security is\n"
+"getting stricter..."
+msgstr ""
+
+#: func04_EV06_03_0610D@55
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV06_03_0610D@56
+msgid "I wonder if those two are all right...\n"
+msgstr ""
+
+#: func04_EV06_03_0610D@81
+msgid "Alice"
+msgstr ""
+
+#: func04_EV06_03_0610D@82
+msgid ""
+"$3Alice$2 hears them...!\n"
+"Let's hurry...!"
+msgstr ""
+
+#: func04_EV08_06_0100D@32
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_06_0100D@33
+msgid ""
+"Hey, isn't this the Knight Serum?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0100D@40
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0100D@41
+msgid ""
+"Two vials of the liquid for Knight\n"
+"Transformation are already prepared.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0100D@66
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0100D@67
+msgid ""
+"Looks like it. Everything should've been\n"
+"destroyed already. I wonder how they\n"
+"managed to supply this.\n"
+msgstr ""
+
+#: func04_EV08_06_0100D@92
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0100D@93
+msgid "...Knight.\n"
+msgstr ""
+
+#: func04_EV08_06_0100D@118
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_06_0100D@119
+msgid "Are you all right, $3Himekami$2?\n"
+msgstr ""
+
+#: func04_EV08_06_0100D@144
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0100D@145
+msgid ""
+"...Yeah, I'm fine... I think...\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0110D@27
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_06_0110D@28
+msgid "Ah, we've got the stuff.\n"
+msgstr ""
+
+#: func04_EV08_06_0110D@48
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_06_0110D@49
+msgid ""
+"If we use these, then those two can\n"
+"become Knights too.\n"
+msgstr ""
+
+#: func04_EV08_06_0110D@56
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0110D@57
+msgid ""
+"Once these two are motivated enough, \n"
+"it might be a good idea to try using it.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0120D@27
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_06_0120D@28
+msgid "Ah, we've got the stuff.\n"
+msgstr ""
+
+#: func04_EV08_06_0120D@48
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_06_0120D@49
+msgid ""
+"Oooh! That was worth looking around!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0130D@24
+msgid "Alice"
+msgstr ""
+
+#: func04_EV08_06_0130D@25
+msgid ""
+"...Now... Knights of us all...\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0130D@32
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0130D@33
+msgid ""
+"Once these two are motivated enough, \n"
+"it might be a good idea to try using it.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0140D@27
+msgid "Alice"
+msgstr ""
+
+#: func04_EV08_06_0140D@28
+msgid ""
+"...Now... Knights of us all...\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0140D@48
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_06_0140D@49
+msgid ""
+"Yeah. Let's hurry and go back to the Knight\n"
+"Transformation Field!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0200D@29
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0200D@30
+msgid ""
+"Huh? M-Me...? A Knight...?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0200D@54
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0200D@55
+msgid ""
+"...But I'm still...\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0200D@65
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0200D@66
+msgid ""
+"$3Himekami$2 still isn't motivated enough\n"
+"to become a Knight.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0201D@29
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0201D@30
+msgid ""
+"Huh? M-Me...? A Knight...?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0201D@54
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0201D@55
+msgid ""
+"...But I'm still...\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0201D@65
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0201D@66
+msgid ""
+"Looks like $3Himekami$2 hasn't finished\n"
+"reconciling with her sins yet.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@29
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0210D@30
+msgid "I'm going to become a Knight?\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0210D@38
+msgid ""
+"Should $3Himekami$2 become a Knight?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@42
+msgid ""
+"Should $3Himekami$2 become a Knight?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@43
+msgid "Yes\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@44
+msgid "No\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@62
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0210D@63
+msgid "...\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@72
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0210D@73
+msgid ""
+"...Okay. If you say so...\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@106
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0210D@107
+msgid ""
+"Au... Ughh...\n"
+"Uaaaaa!\n"
+msgstr ""
+
+#: func04_EV08_06_0210D@137
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0210D@138
+msgid "...Okay.\n"
+msgstr ""
+
+#: func04_EV08_06_0211D@29
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0211D@30
+msgid ""
+"I won't run from my problems anymore.\n"
+"As a Knight, I will fight for everyone!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0211D@54
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0211D@55
+msgid "...Thank you, $3$0$2.\n"
+msgstr ""
+
+#: func04_EV08_06_0211D@64
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0211D@65
+msgid ""
+"I'm really glad that I met you.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0211D@77
+msgid "$3Himekami$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV08_06_0211D@86
+msgid "$3Himekami$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV08_06_0220D@29
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_06_0220D@30
+msgid ""
+"$3$0$2... Instead of me, please help out\n"
+"Miss $3Miu$2...\n"
+msgstr ""
+
+#: func04_EV08_06_0300D@29
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0300D@30
+msgid "Me, a Knight... Huh.\n"
+msgstr ""
+
+#: func04_EV08_06_0300D@39
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0300D@40
+msgid ""
+"It's strange to say it, but I don't think\n"
+"I have the right to become one yet.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0300D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0300D@51
+msgid ""
+"$3Miu$2 still isn't motivated enough\n"
+"to become a Knight.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0301D@29
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0301D@30
+msgid "Me, a Knight... Huh.\n"
+msgstr ""
+
+#: func04_EV08_06_0301D@39
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0301D@40
+msgid ""
+"It's strange to say it, but I don't think\n"
+"I have the right to become one yet.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0301D@50
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0301D@51
+msgid ""
+"Looks like $3Miu$2 hasn't finished dealing\n"
+"with her sins yet.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0310D@29
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0310D@30
+msgid ""
+"Do you want me to become a Knight?\n"
+"The decision is on your shoulders.\n"
+msgstr ""
+
+#: func04_EV08_06_0310D@37
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_06_0310D@38
+msgid ""
+"Should $3Miu$2 become a Knight?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0310D@42
+msgid ""
+"Should $3Miu$2 become a Knight?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0310D@43
+msgid "Yes\n"
+msgstr ""
+
+#: func04_EV08_06_0310D@44
+msgid "No\n"
+msgstr ""
+
+#: func04_EV08_06_0310D@62
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0310D@63
+msgid ""
+"Okay. I'll do what you think is best.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0310D@96
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0310D@97
+msgid ""
+"Ah... Ahhhh... Waaaaaaaaah...! \n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0310D@127
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0310D@128
+msgid "...That's a proper judgment.\n"
+msgstr ""
+
+#: func04_EV08_06_0311D@29
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0311D@30
+msgid ""
+"...I never imagined there'd come a day\n"
+"when I would become a Knight.\n"
+msgstr ""
+
+#: func04_EV08_06_0311D@54
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0311D@55
+msgid ""
+"More importantly, thanks for choosing me.\n"
+"...Thank you.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_06_0311D@64
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0311D@65
+msgid ""
+"Let's finish up with the Reformation Program\n"
+"this time!\n"
+msgstr ""
+
+#: func04_EV08_06_0311D@77
+msgid "$3Miu$2 obtained the title of $1Knight$2!"
+msgstr ""
+
+#: func04_EV08_06_0311D@86
+msgid "$3Miu$2's MP consumption went down by $13$2."
+msgstr ""
+
+#: func04_EV08_06_0320D@29
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_06_0320D@30
+msgid ""
+"I'm fine. Just go deal with $3Himekami$2\n"
+"right now.\n"
+msgstr ""

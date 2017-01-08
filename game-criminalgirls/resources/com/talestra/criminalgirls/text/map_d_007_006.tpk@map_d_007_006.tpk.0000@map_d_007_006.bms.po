@@ -1,0 +1,3924 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: pt_test@12
+msgid "7人いるね"
+msgstr ""
+
+#: pt_test@25
+msgid "6人いるね"
+msgstr ""
+
+#: pt_test@38
+msgid "5人いるね"
+msgstr ""
+
+#: pt_test@51
+msgid "4人いるね"
+msgstr ""
+
+#: pt_test@64
+msgid "3人いるね"
+msgstr ""
+
+#: pt_test@77
+msgid "2人いるね"
+msgstr ""
+
+#: pt_test@90
+msgid "1人いるね"
+msgstr ""
+
+#: pt_test@99
+msgid "エラー"
+msgstr ""
+
+#: num_test@15
+msgid "制限人数「$1１５$2」"
+msgstr ""
+
+#: num_test@28
+msgid "制限人数「$1１４$2」"
+msgstr ""
+
+#: num_test@41
+msgid "制限人数「$1１３$2」"
+msgstr ""
+
+#: num_test@54
+msgid "制限人数「$1１２$2」"
+msgstr ""
+
+#: num_test@67
+msgid "制限人数「$1１１$2」"
+msgstr ""
+
+#: num_test@80
+msgid "制限人数「$1１０$2」"
+msgstr ""
+
+#: num_test@93
+msgid "制限人数「$1９$2」"
+msgstr ""
+
+#: num_test@106
+msgid "制限人数「$1８$2」"
+msgstr ""
+
+#: num_test@119
+msgid "制限人数「$1７$2」"
+msgstr ""
+
+#: num_test@132
+msgid "制限人数「$1６$2」"
+msgstr ""
+
+#: num_test@145
+msgid "制限人数「$1５$2」"
+msgstr ""
+
+#: num_test@158
+msgid "制限人数「$1４$2」"
+msgstr ""
+
+#: num_test@171
+msgid "制限人数「$1３$2」"
+msgstr ""
+
+#: num_test@184
+msgid "制限人数「$1２$2」"
+msgstr ""
+
+#: num_test@197
+msgid "制限人数「$1１$2」"
+msgstr ""
+
+#: num_test@210
+msgid "制限人数「$1０$2」"
+msgstr ""
+
+#: num_test@219
+msgid "エラー"
+msgstr ""
+
+#: sys_eve_sgate1@11
+msgid "門は硬く封印されている。"
+msgstr ""
+
+#: sys_eve_sgate@11
+msgid "門は硬く封印されている。"
+msgstr ""
+
+#: sys_eve_sgate@30
+msgid ""
+"あと、ふたつスイッチを押す\n"
+"必要がありそうだ。"
+msgstr ""
+
+#: sys_eve_sgate@39
+msgid ""
+"もうひとつスイッチを押す\n"
+"必要がありそうだ。"
+msgstr ""
+
+#: sys_eve_switch@11
+msgid ""
+"押すことが出来ない\n"
+"押すには、アイテムが必要"
+msgstr ""
+
+#: sys_eve_party@1
+msgid "戻ろうか？"
+msgstr ""
+
+#: sys_eve_party@2
+msgid "戻る"
+msgstr ""
+
+#: sys_eve_party@3
+msgid "戻らない"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@8
+msgid ""
+"$1回復薬Ｓ$2を5コ\n"
+"手に入れた\n"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@21
+msgid ""
+"$1魔物の皮$2を10コ\n"
+"手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@8
+msgid "$1牢2Fの鍵$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@21
+msgid "$1牢3Fの鍵$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@34
+msgid "$1牢4Fの鍵A$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@47
+msgid "$1牢4Fの鍵B$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@60
+msgid "$1牢5Fの鍵 赤$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@73
+msgid "$1牢5Fの鍵 黄$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@86
+msgid "$1牢5Fの鍵 緑$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@99
+msgid "$1牢5Fの鍵 橙$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@112
+msgid "$1沼3Fの鍵A$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@125
+msgid "$1沼3Fの鍵B$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@138
+msgid "$1沼4Fの鍵A$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@151
+msgid "$1沼4Fの鍵B$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@164
+msgid "$1沼4Fの鍵C$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@177
+msgid "$1炎1Fの鍵A$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@190
+msgid "$1炎1Fの鍵B$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@203
+msgid "$1炎3Fの鍵A$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@216
+msgid "$1炎3Fの鍵B$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@229
+msgid "$1炎3Fの鍵C$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@242
+msgid "$1炎3Fの鍵D$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@255
+msgid "$1絵筆$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@268
+msgid "$1キャンバス$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@281
+msgid "$1金塊$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@294
+msgid "$1体操服$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@307
+msgid "$1カメラ$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@320
+msgid "$1カッターナイフ$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@333
+msgid "$1楽譜$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@346
+msgid "$1手紙$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@359
+msgid "$1指輪$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@372
+msgid "$1宇宙1Fの鍵A$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@385
+msgid "$1宇宙1Fの鍵B$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@398
+msgid "$1審判4Fの鍵$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@411
+msgid "$1どこかの地図$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@424
+msgid "$1写真$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@437
+msgid "$1ギミックアイテム33$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@450
+msgid "$1ギミックアイテム34$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@463
+msgid "$1ギミックアイテム35$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@476
+msgid "$1ギミックアイテム36$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@489
+msgid "$1ギミックアイテム37$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@502
+msgid "$1ギミックアイテム38$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@515
+msgid "$1ギミックアイテム39$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@528
+msgid "$1ギミックアイテム40$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@541
+msgid "$1ギミックアイテム41$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@554
+msgid "$1ギミックアイテム42$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@567
+msgid "$1聖者の欠片1$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@580
+msgid "$1聖者の欠片2$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@593
+msgid "$1聖者の欠片3$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@606
+msgid "$1聖者の欠片4$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@619
+msgid "$1聖者の欠片5$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@632
+msgid "$1聖者の欠片6$2を手に入れた\n"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@645
+msgid "$1聖者の欠片7$2を手に入れた\n"
+msgstr ""
+
+#: get_treasure@35
+msgid "しかし、これ以上は持てない。"
+msgstr ""
+
+#: get_treasure@39
+msgid ""
+"持てない分は\n"
+"破棄してもよろしいですが？"
+msgstr ""
+
+#: get_treasure@40
+msgid "はい"
+msgstr ""
+
+#: get_treasure@41
+msgid "いいえ"
+msgstr ""
+
+#: get_treasure@59
+msgid "持てない分は破棄しました。"
+msgstr ""
+
+#: get_treasure@74
+msgid "元に戻した。"
+msgstr ""
+
+#: get_treasure@83
+msgid "既に開いている。"
+msgstr ""
+
+#: key_get_treasure@31
+msgid "既に開いている。"
+msgstr ""
+
+#: lockde_box@5
+msgid "宝箱にはカギがかかっている。"
+msgstr ""
+
+#: gate_item1_1@17
+msgid "門は封印されている。"
+msgstr ""
+
+#: gate_item1_1@25
+msgid ""
+"開くにはカギが１つ\n"
+"必要なようだ。"
+msgstr ""
+
+#: gate_item1_1@53
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_item1_1_fire@17
+msgid "門は封印されている。"
+msgstr ""
+
+#: gate_item1_1_fire@25
+msgid ""
+"開くにはカギが１つ\n"
+"必要なようだ。"
+msgstr ""
+
+#: gate_item1_1_fire@53
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_item1_2@42
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_item1_2@52
+msgid "門は封印されている。"
+msgstr ""
+
+#: gate_item1_2@60
+msgid ""
+"開くにはカギが２つ\n"
+"必要なようだ。"
+msgstr ""
+
+#: gate_item1_2_fire@42
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_item1_2_fire@51
+msgid ""
+"開くにはカギが２つ\n"
+"必要なようだ。"
+msgstr ""
+
+#: gate_item1_2_last@37
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_item1_2_last@46
+msgid ""
+"開くにはカギが２つ\n"
+"必要なようだ。"
+msgstr ""
+
+#: item_select@4
+msgid "最初に何を使用する？"
+msgstr ""
+
+#: item_select@29
+msgid "２番目に何を使用する？"
+msgstr ""
+
+#: item_select@53
+msgid "３番目に何を使用する？"
+msgstr ""
+
+#: item_select@76
+msgid "４番目に何を使用する？"
+msgstr ""
+
+#: item_select@79
+msgid "はじめから"
+msgstr ""
+
+#: item_select2@7
+msgid "なし"
+msgstr ""
+
+#: item_select2@18
+msgid "なし"
+msgstr ""
+
+#: item_select2@19
+msgid "なし"
+msgstr ""
+
+#: item_select2@28
+msgid "なし"
+msgstr ""
+
+#: item_select2@29
+msgid "なし"
+msgstr ""
+
+#: item_select2@30
+msgid "なし"
+msgstr ""
+
+#: item_select2@40
+msgid "なし"
+msgstr ""
+
+#: item_select2@41
+msgid "なし"
+msgstr ""
+
+#: item_select2@42
+msgid "なし"
+msgstr ""
+
+#: item_select2@56
+msgid "なし"
+msgstr ""
+
+#: item_select2@57
+msgid "なし"
+msgstr ""
+
+#: item_select2@66
+msgid "なし"
+msgstr ""
+
+#: item_select2@67
+msgid "なし"
+msgstr ""
+
+#: item_select2@68
+msgid "なし"
+msgstr ""
+
+#: item_select2@78
+msgid "なし"
+msgstr ""
+
+#: item_select2@79
+msgid "なし"
+msgstr ""
+
+#: item_select2@80
+msgid "なし"
+msgstr ""
+
+#: item_select2@94
+msgid "なし"
+msgstr ""
+
+#: item_select2@95
+msgid "なし"
+msgstr ""
+
+#: item_select2@104
+msgid "なし"
+msgstr ""
+
+#: item_select2@105
+msgid "なし"
+msgstr ""
+
+#: item_select2@106
+msgid "なし"
+msgstr ""
+
+#: item_select2@116
+msgid "なし"
+msgstr ""
+
+#: item_select2@117
+msgid "なし"
+msgstr ""
+
+#: item_select2@118
+msgid "なし"
+msgstr ""
+
+#: item_select3@1
+msgid "橙の鍵"
+msgstr ""
+
+#: item_select3@2
+msgid "黄の鍵"
+msgstr ""
+
+#: item_select3@3
+msgid "赤の鍵"
+msgstr ""
+
+#: item_select3@4
+msgid "緑の鍵"
+msgstr ""
+
+#: item_select3@12
+msgid "黄の鍵"
+msgstr ""
+
+#: item_select3@13
+msgid "赤の鍵"
+msgstr ""
+
+#: item_select3@14
+msgid "緑の鍵"
+msgstr ""
+
+#: item_select3@21
+msgid "橙の鍵"
+msgstr ""
+
+#: item_select3@22
+msgid "赤の鍵"
+msgstr ""
+
+#: item_select3@23
+msgid "緑の鍵"
+msgstr ""
+
+#: item_select3@31
+msgid "橙の鍵"
+msgstr ""
+
+#: item_select3@32
+msgid "黄の鍵"
+msgstr ""
+
+#: item_select3@33
+msgid "緑の鍵"
+msgstr ""
+
+#: item_select3@34
+msgid "なし"
+msgstr ""
+
+#: item_select3@41
+msgid "黄の鍵"
+msgstr ""
+
+#: item_select3@42
+msgid "緑の鍵"
+msgstr ""
+
+#: item_select3@43
+msgid "なし"
+msgstr ""
+
+#: item_select3@44
+msgid "なし"
+msgstr ""
+
+#: item_select3@51
+msgid "緑の鍵"
+msgstr ""
+
+#: item_select3@52
+msgid "なし"
+msgstr ""
+
+#: item_select3@53
+msgid "なし"
+msgstr ""
+
+#: item_select3@54
+msgid "なし"
+msgstr ""
+
+#: item_select3@68
+msgid "黄の鍵"
+msgstr ""
+
+#: item_select3@69
+msgid "なし"
+msgstr ""
+
+#: item_select3@70
+msgid "なし"
+msgstr ""
+
+#: item_select3@71
+msgid "なし"
+msgstr ""
+
+#: item_select3@80
+msgid "橙の鍵"
+msgstr ""
+
+#: item_select3@81
+msgid "緑の鍵"
+msgstr ""
+
+#: item_select3@82
+msgid "なし"
+msgstr ""
+
+#: item_select3@83
+msgid "なし"
+msgstr ""
+
+#: item_select3@90
+msgid "緑の鍵"
+msgstr ""
+
+#: item_select3@91
+msgid "なし"
+msgstr ""
+
+#: item_select3@92
+msgid "なし"
+msgstr ""
+
+#: item_select3@93
+msgid "なし"
+msgstr ""
+
+#: item_select3@101
+msgid "橙の鍵"
+msgstr ""
+
+#: item_select3@102
+msgid "なし"
+msgstr ""
+
+#: item_select3@103
+msgid "なし"
+msgstr ""
+
+#: item_select3@104
+msgid "なし"
+msgstr ""
+
+#: item_select3@113
+msgid "橙の鍵"
+msgstr ""
+
+#: item_select3@114
+msgid "黄の鍵"
+msgstr ""
+
+#: item_select3@115
+msgid "なし"
+msgstr ""
+
+#: item_select3@116
+msgid "なし"
+msgstr ""
+
+#: item_select3@123
+msgid "黄の鍵"
+msgstr ""
+
+#: item_select3@124
+msgid "なし"
+msgstr ""
+
+#: item_select3@125
+msgid "なし"
+msgstr ""
+
+#: item_select3@126
+msgid "なし"
+msgstr ""
+
+#: item_select3@134
+msgid "橙の鍵"
+msgstr ""
+
+#: item_select3@135
+msgid "なし"
+msgstr ""
+
+#: item_select3@136
+msgid "なし"
+msgstr ""
+
+#: item_select3@137
+msgid "なし"
+msgstr ""
+
+#: item_select3@146
+msgid "橙の鍵"
+msgstr ""
+
+#: item_select3@147
+msgid "黄の鍵"
+msgstr ""
+
+#: item_select3@148
+msgid "赤の鍵"
+msgstr ""
+
+#: gate_item1_4@40
+msgid "４つのカギ穴が空いている。"
+msgstr ""
+
+#: gate_item1_4@48
+msgid ""
+"左から順番に、\n"
+"りんご、みかん、バナナ、メロンが\n"
+"描かれている。"
+msgstr ""
+
+#: gate_item1_4@82
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_item1_4@96
+msgid "順番が違うようだ……。"
+msgstr ""
+
+#: gate_item1_4@105
+msgid ""
+"りんご、みかん、バナナ、メロン。\n"
+"カギ穴の横に絵が描かれている。"
+msgstr ""
+
+#: gate_switch_1@29
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_switch_enemy@107
+msgid ""
+"遠くの方で\n"
+"スイッチの入るような音がした……。"
+msgstr ""
+
+#: gate_switch_2@45
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_switch_2@64
+msgid ""
+"もうひとつスイッチを押す\n"
+"必要がありそうだ。"
+msgstr ""
+
+#: gate_switch_2_fire@50
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_switch_3@29
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_switch_4@39
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: gate_switch_5@58
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: party_switch@28
+msgid ""
+"数箇所から、何かが\n"
+"切り替わるような音がした……"
+msgstr ""
+
+#: boss_gate@59
+msgid "門の封印が解けた。"
+msgstr ""
+
+#: func01_PUT_C_TRAP@0
+msgid "■■カメラトラップ配置■■\n"
+msgstr ""
+
+#: func04_EV05_06_0000D@30
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0000D@31
+msgid ""
+"この門……\n"
+"いつものモノにもまして……"
+msgstr ""
+
+#: func04_EV05_06_0000D@38
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0000D@39
+msgid ""
+"とっても……\n"
+"とても嫌な感じがするの。"
+msgstr ""
+
+#: func04_EV05_06_0000D@71
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0000D@72
+msgid ""
+"どうやらこの向こうに\n"
+"黒幕が潜んでいるみたいだな。"
+msgstr ""
+
+#: func04_EV05_06_0000D@82
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0000D@83
+msgid ""
+"ええ、私達の卒業を\n"
+"邪魔した張本人……"
+msgstr ""
+
+#: func04_EV05_06_0000D@117
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0000D@118
+msgid ""
+"よーし、どういうつもりか\n"
+"たしかめてやろうぜー"
+msgstr ""
+
+#: func04_EV05_06_0000D@130
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0000D@131
+msgid "うん、そしたら改めて……"
+msgstr ""
+
+#: func04_EV05_06_0000D@153
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0000D@154
+msgid "ええ、卒業しましょう！"
+msgstr ""
+
+#: func04_EV05_06_0100D@27
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0100D@28
+msgid ""
+"この扉……カギ穴も\n"
+"情報の表示もないわね……"
+msgstr ""
+
+#: func04_EV05_06_0100D@35
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0100D@36
+msgid ""
+"えーと、つまり今は開けようが\n"
+"無いってことかしら？"
+msgstr ""
+
+#: func04_EV05_06_0100D@43
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0100D@44
+msgid ""
+"そうね、少なくとも今は開きそうに\n"
+"ないわね……"
+msgstr ""
+
+#: func04_EV05_06_0100D@51
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0100D@52
+msgid ""
+"しかた無い、今は忘れて\n"
+"先へ行きましょう！"
+msgstr ""
+
+#: func04_EV05_06_0110D@5
+msgid ""
+"今は開きそうにない……\n"
+"先を急ごう。"
+msgstr ""
+
+#: func04_EV05_06_0300D@5
+msgid ""
+"門の向こうから、\n"
+"禍々しいものが伝わってくる……"
+msgstr ""
+
+#: func04_EV05_06_0300D@13
+msgid "この先には強敵が潜んでいるようだ。"
+msgstr ""
+
+#: func04_EV05_06_0300D@21
+msgid ""
+"準備を整えてから来るのが\n"
+"よさそうだ。"
+msgstr ""
+
+#: func04_EV05_06_0300D@25
+msgid "準備はいいですか？"
+msgstr ""
+
+#: func04_EV05_06_0300D@26
+msgid "準備はできている。"
+msgstr ""
+
+#: func04_EV05_06_0300D@27
+msgid "まだ、できていない。"
+msgstr ""
+
+#: func04_EV05_06_0400D@30
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@31
+msgid "やっぱり、来たのね…"
+msgstr ""
+
+#: func04_EV05_06_0400D@38
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0400D@39
+msgid ""
+"あなたは……\n"
+"姫上あてな……！！"
+msgstr ""
+
+#: func04_EV05_06_0400D@58
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0400D@59
+msgid "貴女が黒幕だったのね…"
+msgstr ""
+
+#: func04_EV05_06_0400D@69
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@70
+msgid ""
+"……私、あなたたちのこと\n"
+"ずっと見てたわ。"
+msgstr ""
+
+#: func04_EV05_06_0400D@77
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@78
+msgid ""
+"このままだと、あなたたちは\n"
+"元の世界へ戻ってしまう。\n"
+"…それはいけないことよ。"
+msgstr ""
+
+#: func04_EV05_06_0400D@100
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0400D@101
+msgid "な…なんでだよ！？"
+msgstr ""
+
+#: func04_EV05_06_0400D@125
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0400D@126
+msgid ""
+"そうよ。\n"
+"うちら、これからはちゃんと\n"
+"良い子になろうって――"
+msgstr ""
+
+#: func04_EV05_06_0400D@133
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@134
+msgid ""
+"あなたたちは悪い子よ！！\n"
+"だから地獄に来たんでしょう！？"
+msgstr ""
+
+#: func04_EV05_06_0400D@156
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0400D@157
+msgid "……！！"
+msgstr ""
+
+#: func04_EV05_06_0400D@164
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@165
+msgid ""
+"どんなに反省したって\n"
+"罰を受けたって……\n"
+"あなたたちの罪は消えない。"
+msgstr ""
+
+#: func04_EV05_06_0400D@187
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0400D@188
+msgid ""
+"そんなの…\n"
+"それじゃこのプログラム自体が\n"
+"間違ってるってことになるよ！"
+msgstr ""
+
+#: func04_EV05_06_0400D@195
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@196
+msgid ""
+"……ええ。\n"
+"そういうことになるわね。"
+msgstr ""
+
+#: func04_EV05_06_0400D@203
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@204
+msgid ""
+"だから私はこれから\n"
+"この塔およびシステムの全てを\n"
+"破壊する。"
+msgstr ""
+
+#: func04_EV05_06_0400D@211
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@212
+msgid ""
+"あなたたちが大人しく\n"
+"地下の監獄へ戻らないのなら…\n"
+"ここで一緒に果ててもらうわ。"
+msgstr ""
+
+#: func04_EV05_06_0400D@231
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0400D@232
+msgid ""
+"…そんなこと言われて\n"
+"引き返せるわけないの……。"
+msgstr ""
+
+#: func04_EV05_06_0400D@261
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0400D@262
+msgid ""
+"こうなったら強行突破ね！\n"
+"行くよみんなっ！"
+msgstr ""
+
+#: func04_EV05_06_0400D@287
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0400D@288
+msgid ""
+"他に解決方法が無いなら…\n"
+"突破するッ！\n"
+"皆、私についてきて！！"
+msgstr ""
+
+#: func04_EV05_06_0400D@313
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0400D@314
+msgid ""
+"まさかこんな女の子と\n"
+"戦うことになるとはね…"
+msgstr ""
+
+#: func04_EV05_06_0400D@321
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0400D@322
+msgid ""
+"だけど、\n"
+"やるからには手加減しない！\n"
+"みんな、行くよ！！"
+msgstr ""
+
+#: func04_EV05_06_0400D@347
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0400D@348
+msgid ""
+"姫上さん、堪忍な……\n"
+"やけどうちらここで\n"
+"引き下がるわけにいかんから…！"
+msgstr ""
+
+#: func04_EV05_06_0400D@355
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0400D@356
+msgid "みんな、行くで！！"
+msgstr ""
+
+#: func04_EV05_06_0400D@381
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0400D@382
+msgid ""
+"…無理やりにでも\n"
+"行くしかないってことだよな？\n"
+"みんな…行くぞッ！！！"
+msgstr ""
+
+#: func04_EV05_06_0400D@407
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0400D@408
+msgid ""
+"ユコがみんなのこと\n"
+"守るから……\n"
+"……行こう！"
+msgstr ""
+
+#: func04_EV05_06_0400D@433
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0400D@434
+msgid ""
+"進まなきゃ\n"
+"答えは見つからないの。\n"
+"……行くの。"
+msgstr ""
+
+#: func04_EV05_06_0400D@442
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0400D@443
+msgid "させないッ――！！"
+msgstr ""
+
+#: func04_EV05_06_0500A@30
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0500A@31
+msgid "終わっ…た……"
+msgstr ""
+
+#: func04_EV05_06_0500A@38
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0500A@39
+msgid "…………"
+msgstr ""
+
+#: func04_EV05_06_0500A@61
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0500A@62
+msgid ""
+"あなたたち…\n"
+"本当に変わったのね……。"
+msgstr ""
+
+#: func04_EV05_06_0500A@69
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0500A@70
+msgid ""
+"私……\n"
+"気づいたらここにいた…"
+msgstr ""
+
+#: func04_EV05_06_0500A@77
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0500A@78
+msgid ""
+"自分の罪も分からないまま\n"
+"ずっと一人でさまよって…\n"
+"いろんな受刑者を見てきた。"
+msgstr ""
+
+#: func04_EV05_06_0500A@85
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0500A@86
+msgid ""
+"ケンカしたり裏切りあったり…\n"
+"人間の嫌なところばかり\n"
+"目について……"
+msgstr ""
+
+#: func04_EV05_06_0500A@93
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0500A@94
+msgid ""
+"やっぱり悪い子は\n"
+"生き返る資格なんてないって\n"
+"思っていたけど……"
+msgstr ""
+
+#: func04_EV05_06_0500A@101
+msgid "姫上"
+msgstr ""
+
+#: func04_EV05_06_0500A@102
+msgid ""
+"そうじゃない……。\n"
+"本当に悪い子は、\n"
+"私だったんだ…ね……"
+msgstr ""
+
+#: func04_EV05_06_0500A@124
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0500A@125
+msgid "アテナ！！"
+msgstr ""
+
+#: func04_EV05_06_0500A@144
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0500A@145
+msgid "しっかりするのよ！！"
+msgstr ""
+
+#: func04_EV05_06_0500A@179
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0500A@180
+msgid "地震…！？"
+msgstr ""
+
+#: func04_EV05_06_0500A@205
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0500A@206
+msgid "いけない…崩れる！！"
+msgstr ""
+
+#: func04_EV05_06_0500A@231
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0500A@232
+msgid ""
+"なっ…なんだ！？\n"
+"地震か…！？"
+msgstr ""
+
+#: func04_EV05_06_0500A@257
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0500A@258
+msgid "いや…地震や…！！"
+msgstr ""
+
+#: func04_EV05_06_0500A@283
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0500A@284
+msgid ""
+"うわわわーーっ！！\n"
+"く…くずれるよーー！？"
+msgstr ""
+
+#: func04_EV05_06_0500A@309
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0500A@310
+msgid "じ…地震…！？"
+msgstr ""
+
+#: func04_EV05_06_0500A@335
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0500A@336
+msgid "崩れるの！！"
+msgstr ""
+
+#: func04_EV05_06_0500A@367
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@368
+msgid ""
+"みんな！！\n"
+"無事！？"
+msgstr ""
+
+#: func04_EV05_06_0500A@382
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0500A@383
+msgid "間瀬先生！！"
+msgstr ""
+
+#: func04_EV05_06_0500A@405
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0500A@406
+msgid "アテナが…アテナが…！！"
+msgstr ""
+
+#: func04_EV05_06_0500A@425
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0500A@426
+msgid ""
+"こんなの納得いかねえよ！\n"
+"一体どういう事なんだよ…！"
+msgstr ""
+
+#: func04_EV05_06_0500A@438
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@439
+msgid ""
+"ようやく調べが付いたんだけど…\n"
+"間に合わなかったのね。"
+msgstr ""
+
+#: func04_EV05_06_0500A@446
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@447
+msgid ""
+"姫上は、\n"
+"試験段階でヨミガエリに\n"
+"参加した受刑者だったの。"
+msgstr ""
+
+#: func04_EV05_06_0500A@454
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@455
+msgid ""
+"だけど仲間とはぐれたまま\n"
+"消息を絶って、\n"
+"運営側も気づかずに――"
+msgstr ""
+
+#: func04_EV05_06_0500A@465
+msgid ""
+"ひときわ大きく塔が震える。\n"
+"太い柱は今にも崩れそうなほど\n"
+"ぐらぐらと揺れている。"
+msgstr ""
+
+#: func04_EV05_06_0500A@472
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@473
+msgid ""
+"っ……！！\n"
+"もう時間がない！"
+msgstr ""
+
+#: func04_EV05_06_0500A@480
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@481
+msgid ""
+"この先に審判の門がある。\n"
+"そこをくぐれば現世へ戻れるわ。"
+msgstr ""
+
+#: func04_EV05_06_0500A@488
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@489
+msgid ""
+"塔が崩れる前に……\n"
+"$0君、\n"
+"キミが７人を連れて行って！"
+msgstr ""
+
+#: func04_EV05_06_0500A@493
+msgid "なんと答えますか？"
+msgstr ""
+
+#: func04_EV05_06_0500A@494
+msgid "だけど……"
+msgstr ""
+
+#: func04_EV05_06_0500A@495
+msgid "任せろ！"
+msgstr ""
+
+#: func04_EV05_06_0500A@511
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@512
+msgid ""
+"だけどなんて言ってる\n"
+"場合じゃないの！"
+msgstr ""
+
+#: func04_EV05_06_0500A@524
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@525
+msgid ""
+"生徒たちのことは\n"
+"頼んだわよ。"
+msgstr ""
+
+#: func04_EV05_06_0500A@533
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@534
+msgid ""
+"この子は私が連れて\n"
+"ここから脱出するわ。"
+msgstr ""
+
+#: func04_EV05_06_0500A@541
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@542
+msgid ""
+"私が責任を持って\n"
+"社会復帰をさせるから\n"
+"安心して。"
+msgstr ""
+
+#: func04_EV05_06_0500A@549
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0500A@550
+msgid ""
+"$0は\n"
+"大事な生徒たちの行く先を、\n"
+"しっかりと見届けなさい！"
+msgstr ""
+
+#: func04_EV05_06_0500A@574
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0500A@575
+msgid ""
+"$0……\n"
+"行こう、一緒に！"
+msgstr ""
+
+#: func04_EV05_06_0500A@600
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0500A@601
+msgid ""
+"教官……\n"
+"行きましょう"
+msgstr ""
+
+#: func04_EV05_06_0500A@626
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0500A@627
+msgid ""
+"オヤジ……\n"
+"行こうぜ、一緒に。"
+msgstr ""
+
+#: func04_EV05_06_0500A@652
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0500A@653
+msgid ""
+"センセ……\n"
+"行こ……？"
+msgstr ""
+
+#: func04_EV05_06_0500A@678
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0500A@679
+msgid ""
+"$0！\n"
+"なにしてるんだ、行くぞ！"
+msgstr ""
+
+#: func04_EV05_06_0500A@704
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0500A@705
+msgid ""
+"先生……\n"
+"一緒に行こう？"
+msgstr ""
+
+#: func04_EV05_06_0500A@730
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0500A@731
+msgid ""
+"$0も\n"
+"一緒に行くの……。"
+msgstr ""
+
+#: func04_EV05_06_0500A@740
+msgid ""
+"差し出された華奢な手を\n"
+"しっかりと握りしめる。"
+msgstr ""
+
+#: func04_EV05_06_0500A@748
+msgid "彼女といっしょに行こう！！"
+msgstr ""
+
+#: func04_EV05_06_0600A@42
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0600A@43
+msgid ""
+"くそっ…\n"
+"みんな、離れるなよ！"
+msgstr ""
+
+#: func04_EV05_06_0600A@50
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@51
+msgid "…………"
+msgstr ""
+
+#: func04_EV05_06_0600A@68
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@69
+msgid "…………"
+msgstr ""
+
+#: func04_EV05_06_0600A@86
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0600A@87
+msgid ""
+"……声が聞こえるの。\n"
+"アテナの泣いてる声……"
+msgstr ""
+
+#: func04_EV05_06_0600A@104
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0600A@105
+msgid ""
+"ねえ……\n"
+"……ホントに、このまま\n"
+"現世に帰って良いのかな……？"
+msgstr ""
+
+#: func04_EV05_06_0600A@122
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0600A@123
+msgid ""
+"こんな形で終わるなんて……\n"
+"うち、納得できへん。"
+msgstr ""
+
+#: func04_EV05_06_0600A@140
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0600A@141
+msgid ""
+"……アテナのことも\n"
+"ヨミガエリのことも\n"
+"きっと何か秘密がある……"
+msgstr ""
+
+#: func04_EV05_06_0600A@158
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@159
+msgid ""
+"このままじゃ、\n"
+"帰れないよ……"
+msgstr ""
+
+#: func04_EV05_06_0600A@171
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@172
+msgid ""
+"……なあ、$0。\n"
+"やっぱりもういっぺん\n"
+"塔にもどらないか？"
+msgstr ""
+
+#: func04_EV05_06_0600A@184
+msgid "どうしますか？"
+msgstr ""
+
+#: func04_EV05_06_0600A@185
+msgid "審判の間に戻る"
+msgstr ""
+
+#: func04_EV05_06_0600A@186
+msgid "このまま現世へ帰る"
+msgstr ""
+
+#: func04_EV05_06_0600A@219
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0600A@220
+msgid "$0……"
+msgstr ""
+
+#: func04_EV05_06_0600A@227
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0600A@228
+msgid ""
+"よっし！\n"
+"みんな、戻るよ！"
+msgstr ""
+
+#: func04_EV05_06_0600A@253
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0600A@254
+msgid "ありがとうございます、教官。"
+msgstr ""
+
+#: func04_EV05_06_0600A@261
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0600A@262
+msgid "……皆、戻るわよ！"
+msgstr ""
+
+#: func04_EV05_06_0600A@287
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0600A@288
+msgid "分かったよ、オヤジ……"
+msgstr ""
+
+#: func04_EV05_06_0600A@295
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0600A@296
+msgid ""
+"よし！\n"
+"みんな、戻ろう！！"
+msgstr ""
+
+#: func04_EV05_06_0600A@321
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0600A@322
+msgid "センセ……ありがとう。"
+msgstr ""
+
+#: func04_EV05_06_0600A@329
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0600A@330
+msgid "みんな、戻るよ！"
+msgstr ""
+
+#: func04_EV05_06_0600A@355
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@356
+msgid ""
+"よーし！\n"
+"いくぞ、みんな！"
+msgstr ""
+
+#: func04_EV05_06_0600A@381
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@382
+msgid "先生……！"
+msgstr ""
+
+#: func04_EV05_06_0600A@389
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@390
+msgid ""
+"そうだよね……\n"
+"みんな、行こう……！"
+msgstr ""
+
+#: func04_EV05_06_0600A@415
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0600A@416
+msgid "$0、ありがとうなの。"
+msgstr ""
+
+#: func04_EV05_06_0600A@423
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0600A@424
+msgid "……行くの！"
+msgstr ""
+
+#: func04_EV05_06_0600A@467
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0600A@468
+msgid "$0がそう言うんなら……"
+msgstr ""
+
+#: func04_EV05_06_0600A@493
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0600A@494
+msgid "教官の指示であれば……"
+msgstr ""
+
+#: func04_EV05_06_0600A@519
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0600A@520
+msgid "分かったよ、オヤジ……"
+msgstr ""
+
+#: func04_EV05_06_0600A@545
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0600A@546
+msgid "センセがそう言うんやったら……"
+msgstr ""
+
+#: func04_EV05_06_0600A@571
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@572
+msgid ""
+"$0がそれでいーんなら、\n"
+"いいよ……"
+msgstr ""
+
+#: func04_EV05_06_0600A@597
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0600A@598
+msgid ""
+"先生がそれで良いんなら\n"
+"ユコも帰るよ。"
+msgstr ""
+
+#: func04_EV05_06_0600A@623
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0600A@624
+msgid "………………。"
+msgstr ""
+
+#: func04_EV05_06_0600A@640
+msgid ""
+"――こうして、\n"
+"７人はヨミガエリを\n"
+"無事に修了した……。"
+msgstr ""
+
+#: func04_EV05_06_0700A@32
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0700A@33
+msgid ""
+"気をつけて！\n"
+"かなり揺れが激しい！"
+msgstr ""
+
+#: func04_EV05_06_0700A@40
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0700A@41
+msgid ""
+"あ！　あれ……\n"
+"間瀬管理官！"
+msgstr ""
+
+#: func04_EV05_06_0700A@53
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0700A@54
+msgid "だれかと電話してるぞ？"
+msgstr ""
+
+#: func04_EV05_06_0700A@69
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0700A@70
+msgid ""
+"しっ……！\n"
+"静かに……"
+msgstr ""
+
+#: func04_EV05_06_0800A@21
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0800A@22
+msgid ""
+"ええ、全くの想定外で……\n"
+"……大丈夫です。\n"
+"すでに身柄は拘束しました。"
+msgstr ""
+
+#: func04_EV05_06_0800A@29
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0800A@30
+msgid ""
+"七名の囚人には\n"
+"監視役を付けた上で\n"
+"地上に戻しました。"
+msgstr ""
+
+#: func04_EV05_06_0800A@37
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0800A@38
+msgid ""
+"実験データはまとめて\n"
+"そちらにお送りします。"
+msgstr ""
+
+#: func04_EV05_06_0800A@45
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0800A@46
+msgid ""
+"……了解しました。\n"
+"直ちにコントロールルームに\n"
+"向かいます。"
+msgstr ""
+
+#: func04_EV05_06_0800A@53
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0800A@54
+msgid "……それでは。"
+msgstr ""
+
+#: func04_EV05_06_0800A@61
+msgid "ミウ"
+msgstr ""
+
+#: func04_EV05_06_0800A@62
+msgid ""
+"……気を失ってくれてて\n"
+"良かったわ。"
+msgstr ""
+
+#: func04_EV05_06_0900A@32
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0900A@33
+msgid ""
+"今の会話……\n"
+"普通じゃない、よね……"
+msgstr ""
+
+#: func04_EV05_06_0900A@40
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0900A@41
+msgid ""
+"監視役やら実験やら……\n"
+"センセ、意味分かる？"
+msgstr ""
+
+#: func04_EV05_06_0900A@45
+msgid "なんと答えますか？"
+msgstr ""
+
+#: func04_EV05_06_0900A@46
+msgid "何のことだか全く分からん"
+msgstr ""
+
+#: func04_EV05_06_0900A@47
+msgid "俺を疑ってるのか？"
+msgstr ""
+
+#: func04_EV05_06_0900A@78
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_0900A@79
+msgid ""
+"やはり、ヨミガエリには\n"
+"何か大きな秘密が\n"
+"隠されてるみたいね…"
+msgstr ""
+
+#: func04_EV05_06_0900A@94
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0900A@95
+msgid ""
+"クソッ……\n"
+"全然気づかなかったぜ…！"
+msgstr ""
+
+#: func04_EV05_06_0900A@111
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_0900A@112
+msgid ""
+"そ…そんなわけ無いじゃない！\n"
+"$0があたしたちに\n"
+"隠し事してるなんて……"
+msgstr ""
+
+#: func04_EV05_06_0900A@119
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_0900A@120
+msgid ""
+"そうだよ。\n"
+"ユコたちは先生を\n"
+"信じてるもん！"
+msgstr ""
+
+#: func04_EV05_06_0900A@135
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_0900A@136
+msgid ""
+"そんなこと言ってる\n"
+"場合じゃないの。\n"
+"早く追いかけるの！"
+msgstr ""
+
+#: func04_EV05_06_0900A@151
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_0900A@152
+msgid ""
+"みんな！\n"
+"あいつを追っかけようよ！"
+msgstr ""
+
+#: func04_EV05_06_0900A@167
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_0900A@168
+msgid ""
+"……うん！\n"
+"アテナさんのこと…\n"
+"あのままにはしてられへん！"
+msgstr ""
+
+#: func04_EV05_06_0900A@183
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_0900A@184
+msgid ""
+"だな……\n"
+"よし、行くぞ！！"
+msgstr ""
+
+#: func04_EV05_06_1000A@30
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1000A@31
+msgid ""
+"なんだ、\n"
+"グラグラがおさまったぞ？"
+msgstr ""
+
+#: func04_EV05_06_1000A@38
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1000A@39
+msgid ""
+"うん、さっきまであんなに\n"
+"揺れてたのに……"
+msgstr ""
+
+#: func04_EV05_06_1000A@51
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1000A@52
+msgid ""
+"そう言えば……\n"
+"美雨さんらがいなくなったら\n"
+"とたんに治まりましたなぁ。"
+msgstr ""
+
+#: func04_EV05_06_1000A@67
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1000A@68
+msgid "見ろ、ゲートがあるぞ！"
+msgstr ""
+
+#: func04_EV05_06_1000A@83
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1000A@84
+msgid ""
+"あっちのほうから\n"
+"あてなの声が聞こえる……。"
+msgstr ""
+
+#: func04_EV05_06_1000A@99
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1000A@100
+msgid ""
+"間瀬のヤツ…\n"
+"あそこに逃げたのね！"
+msgstr ""
+
+#: func04_EV05_06_1000A@115
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1000A@116
+msgid "行きましょう！"
+msgstr ""
+
+#: func04_EV05_06_1100A@16
+msgid "識別コード読取中・・・・"
+msgstr ""
+
+#: func04_EV05_06_1100A@24
+msgid ""
+"識別コード不適合\n"
+"認証デキマセン"
+msgstr ""
+
+#: func04_EV05_06_1100A@38
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1100A@39
+msgid "識別コード……？"
+msgstr ""
+
+#: func04_EV05_06_1100A@58
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1100A@59
+msgid ""
+"もしかして……\n"
+"みんな、ちょっと待ってて！"
+msgstr ""
+
+#: func04_EV05_06_1100A@72
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1100A@73
+msgid ""
+"もしかして……\n"
+"皆、少しの間下がっていて。"
+msgstr ""
+
+#: func04_EV05_06_1100A@96
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1100A@97
+msgid ""
+"……ちょっと待って。\n"
+"アタシ一人で行ってみる。"
+msgstr ""
+
+#: func04_EV05_06_1100A@120
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1100A@121
+msgid ""
+"もしかして……\n"
+"みんな、ちょっと下がってて。"
+msgstr ""
+
+#: func04_EV05_06_1100A@144
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1100A@145
+msgid ""
+"よし！\n"
+"サコが一人で通ってみるよ！"
+msgstr ""
+
+#: func04_EV05_06_1100A@168
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1100A@169
+msgid ""
+"まさか……！\n"
+"ユコ、一人で通ってみる！"
+msgstr ""
+
+#: func04_EV05_06_1100A@192
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1100A@193
+msgid ""
+"……アリス一人で\n"
+"通ってみるの。"
+msgstr ""
+
+#: func04_EV05_06_1110A@19
+msgid ""
+"識別コード適合\n"
+"認証完了シマシタ"
+msgstr ""
+
+#: func04_EV05_06_1110A@38
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1110A@39
+msgid ""
+"なるほど……\n"
+"ここは騎士化している者しか\n"
+"通れないシステムみたいね。"
+msgstr ""
+
+#: func04_EV05_06_1110A@46
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1110A@47
+msgid ""
+"…ってことは、\n"
+"全員で先に進むには、あと六つ\n"
+"聖者のかけらが必要なのか…。"
+msgstr ""
+
+#: func04_EV05_06_1110A@59
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1110A@60
+msgid ""
+"…全員で行けなきゃ\n"
+"意味がないの。"
+msgstr ""
+
+#: func04_EV05_06_1110A@75
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1110A@76
+msgid "そうだよね……"
+msgstr ""
+
+#: func04_EV05_06_1110A@91
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1110A@92
+msgid ""
+"グズグズしてられないわ！\n"
+"急いで聖者のかけらを\n"
+"探しましょ！"
+msgstr ""
+
+#: func04_EV05_06_1120C@5
+msgid "識別コード読取中・・・・"
+msgstr ""
+
+#: func04_EV05_06_1120C@13
+msgid ""
+"識別コード不適合\n"
+"認証デキマセン"
+msgstr ""
+
+#: func04_EV05_06_1120C@21
+msgid ""
+"やはり全員が騎士化していなと\n"
+"通ることはできないようだ……"
+msgstr ""
+
+#: func04_EV05_06_1200D@27
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1200D@28
+msgid "そうだ……この門！"
+msgstr ""
+
+#: func04_EV05_06_1200D@35
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1200D@36
+msgid ""
+"もしかしたらこの中に\n"
+"$1聖者のかけら$2があるんじゃ"
+msgstr ""
+
+#: func04_EV05_06_1200D@43
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1200D@44
+msgid "この門……開いてるの。"
+msgstr ""
+
+#: func04_EV05_06_1200D@51
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1200D@52
+msgid "えっ！　本当に？"
+msgstr ""
+
+#: func04_EV05_06_1200D@59
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1200D@60
+msgid "あっ……"
+msgstr ""
+
+#: func04_EV05_06_1210D@27
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1210D@28
+msgid ""
+"どういうこと？さっきは\n"
+"ちっとも開かなかったのに……"
+msgstr ""
+
+#: func04_EV05_06_1210D@35
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1210D@36
+msgid ""
+"そうね、恐らく間瀬管理官が\n"
+"姫上さんを連れていったことと\n"
+"関係があるんじゃないかしら？"
+msgstr ""
+
+#: func04_EV05_06_1210D@43
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1210D@44
+msgid ""
+"姫上さんが暴走していたから\n"
+"開かなかったのか、あるいは\n"
+"その逆か……"
+msgstr ""
+
+#: func04_EV05_06_1210D@51
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1210D@52
+msgid ""
+"いずれにせよ、これで\n"
+"中を調べられそうね！"
+msgstr ""
+
+#: func04_EV05_06_1220D@30
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1220D@31
+msgid ""
+"あった！\n"
+"聖者のかけらだ！"
+msgstr ""
+
+#: func04_EV05_06_1220D@38
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1220D@39
+msgid "よかった、ホントにあったよ！"
+msgstr ""
+
+#: func04_EV05_06_1220D@51
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1220D@52
+msgid ""
+"でも、なんでまた、\n"
+"こんなところにおいてあるんやろな？"
+msgstr ""
+
+#: func04_EV05_06_1220D@67
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1220D@68
+msgid ""
+"そうね……私達がここに\n"
+"来るのは想定されていなかった\n"
+"ようだし……"
+msgstr ""
+
+#: func04_EV05_06_1220D@75
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1220D@76
+msgid ""
+"元々、倉庫や宝物庫みたいな\n"
+"部屋だったんじゃないかしら？"
+msgstr ""
+
+#: func04_EV05_06_1220D@91
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1220D@92
+msgid ""
+"ふーん、まあどうでもいいさ、\n"
+"これで全員で門をくぐれるんならさ！"
+msgstr ""
+
+#: func04_EV05_06_1220D@99
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1220D@100
+msgid ""
+"そうね……でも、もしかしたら\n"
+"セキュリティー機能が急に\n"
+"働くかもしれないし……"
+msgstr ""
+
+#: func04_EV05_06_1220D@107
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1220D@108
+msgid "ああ、油断は禁物だな！"
+msgstr ""
+
+#: func04_EV05_06_1230D@27
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1230D@28
+msgid ""
+"これで、６個の$1聖者のかけら$2が\n"
+"そろったの……"
+msgstr ""
+
+#: func04_EV05_06_1230D@35
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1230D@36
+msgid ""
+"それじゃあ、\n"
+"門のところまで戻ろうよ。"
+msgstr ""
+
+#: func04_EV05_06_1230D@43
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1230D@44
+msgid "うん、それがいいの。"
+msgstr ""
+
+#: func04_EV05_06_1300A@25
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1300A@26
+msgid ""
+"これで、\n"
+"六つの聖者のかけらが\n"
+"揃ったのか……"
+msgstr ""
+
+#: func04_EV05_06_1300A@30
+msgid "なんと声をかけますか？"
+msgstr ""
+
+#: func04_EV05_06_1300A@31
+msgid "自分を信じて飲んでくれ"
+msgstr ""
+
+#: func04_EV05_06_1300A@32
+msgid "俺を信じて飲んでくれ"
+msgstr ""
+
+#: func04_EV05_06_1300A@33
+msgid "姫上のために飲んでくれ"
+msgstr ""
+
+#: func04_EV05_06_1300A@74
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1300A@75
+msgid ""
+"はぁっ…はぁっ……はぁっ……\n"
+"あ、熱いっ！！"
+msgstr ""
+
+#: func04_EV05_06_1300A@102
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1300A@103
+msgid ""
+"くっ……はじけ……\n"
+"あっ……あっ……\n"
+"あああーーっ！！"
+msgstr ""
+
+#: func04_EV05_06_1300A@130
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1300A@131
+msgid ""
+"ふああっ！！\n"
+"なんだ、これ……\n"
+"あっ……あ…ああ……！！！"
+msgstr ""
+
+#: func04_EV05_06_1300A@161
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1300A@162
+msgid ""
+"あっ……！　なんやの……！\n"
+"ああぁーーっ！！"
+msgstr ""
+
+#: func04_EV05_06_1300A@192
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1300A@193
+msgid ""
+"ふえっ……すごっ……\n"
+"ふぁっ……ふぁっ……\n"
+"ふわあああーーっ！！！"
+msgstr ""
+
+#: func04_EV05_06_1300A@223
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1300A@224
+msgid ""
+"ふあっ……ひろが…る\n"
+"んんっ……！\n"
+"あ…あああっ……！！"
+msgstr ""
+
+#: func04_EV05_06_1300A@254
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1300A@255
+msgid ""
+"んっ……んんっ……\n"
+"ふぁ……っ！！\n"
+"何かみちる……の……"
+msgstr ""
+
+#: func04_EV05_06_1300A@268
+msgid ""
+"六人が一斉に\n"
+"聖者のかけらを飲み干す。"
+msgstr ""
+
+#: func04_EV05_06_1310A@30
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1310A@31
+msgid ""
+"これでゲートは\n"
+"皆揃ってくぐれるはずよ。"
+msgstr ""
+
+#: func04_EV05_06_1310A@38
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1310A@39
+msgid ""
+"結構時間かかっちゃったわね…\n"
+"アテナ、無事でいてくれたら\n"
+"良いんだけど……"
+msgstr ""
+
+#: func04_EV05_06_1310A@51
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1310A@52
+msgid ""
+"大丈夫。\n"
+"きっと間に合うよ…！"
+msgstr ""
+
+#: func04_EV05_06_1310A@67
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1310A@68
+msgid ""
+"よし！\n"
+"いくぞ！！"
+msgstr ""
+
+#: func04_EV05_06_1400A@6
+msgid "あれから、一ヶ月――"
+msgstr ""
+
+#: func04_EV05_06_1400A@30
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@31
+msgid ""
+"ねえ、$0。\n"
+"やっぱり、男の人って\n"
+"エプロン姿とか好きなわけ？"
+msgstr ""
+
+#: func04_EV05_06_1400A@39
+msgid "晴れた日の午後。"
+msgstr ""
+
+#: func04_EV05_06_1400A@47
+msgid ""
+"日当たりの良い部屋には\n"
+"なにやらアヤシゲな匂いが\n"
+"立ちこめている。"
+msgstr ""
+
+#: func04_EV05_06_1400A@54
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@55
+msgid ""
+"だってさ…あたし、\n"
+"料理なんてしたことなかったし\n"
+"エプロンも持ってないから…"
+msgstr ""
+
+#: func04_EV05_06_1400A@62
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@63
+msgid ""
+"え？\n"
+"エプロンじゃなくて\n"
+"裸エプロンが男のロマンって…"
+msgstr ""
+
+#: func04_EV05_06_1400A@70
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@71
+msgid ""
+"ばっ…バカ！！\n"
+"いくら$0だって…\n"
+"怒るからね！"
+msgstr ""
+
+#: func04_EV05_06_1400A@78
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@79
+msgid ""
+"って！　あれ！？　やだ！\n"
+"ジャガイモが無くなった…！？\n"
+"お、おっかしーなぁ…"
+msgstr ""
+
+#: func04_EV05_06_1400A@86
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@87
+msgid ""
+"ちょ…な、なんか\n"
+"煙出てきたんだけど！\n"
+"た、タイムタイムーー！！"
+msgstr ""
+
+#: func04_EV05_06_1400A@94
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@95
+msgid ""
+"……ふう。\n"
+"ようやく完成したわ！"
+msgstr ""
+
+#: func04_EV05_06_1400A@102
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@103
+msgid ""
+"お待たせ！\n"
+"これが特製ビーフカレーよ！"
+msgstr ""
+
+#: func04_EV05_06_1400A@111
+msgid ""
+"テーブルの上に乗せられたのは\n"
+"怪しげな香りを放つ\n"
+"黒いどろりとした液体。"
+msgstr ""
+
+#: func04_EV05_06_1400A@118
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@119
+msgid ""
+"初めて作ったから\n"
+"美味しくないかもしれないけど…\n"
+"食べてくれるよね？"
+msgstr ""
+
+#: func04_EV05_06_1400A@127
+msgid ""
+"当然だとうなずくと\n"
+"キサラギは頬を赤らめて\n"
+"微笑んだ。"
+msgstr ""
+
+#: func04_EV05_06_1400A@134
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@135
+msgid "えへへ……ありがと。"
+msgstr ""
+
+#: func04_EV05_06_1400A@142
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@143
+msgid ""
+"あたしね、\n"
+"今まで避けて通ってきたこと\n"
+"たくさんあるんだ。"
+msgstr ""
+
+#: func04_EV05_06_1400A@150
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@151
+msgid ""
+"だけど、これからは違う。\n"
+"$0と一緒に、\n"
+"いろんなこと経験したいんだ。"
+msgstr ""
+
+#: func04_EV05_06_1400A@158
+msgid "キサラギ"
+msgstr ""
+
+#: func04_EV05_06_1400A@159
+msgid ""
+"だから……\n"
+"ずっと一緒にいてね？\n"
+"$0――。"
+msgstr ""
+
+#: func04_EV05_06_1410A@6
+msgid "あれから、一ヶ月――"
+msgstr ""
+
+#: func04_EV05_06_1410A@30
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@31
+msgid ""
+"はぁ……\n"
+"面白かった……！"
+msgstr ""
+
+#: func04_EV05_06_1410A@38
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@39
+msgid ""
+"とても単純な動きなのに\n"
+"どうしてコーヒーカップって\n"
+"あんなに高揚するんでしょう？"
+msgstr ""
+
+#: func04_EV05_06_1410A@46
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@47
+msgid "不思議ですよ……きゃっ！！"
+msgstr ""
+
+#: func04_EV05_06_1410A@54
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@55
+msgid ""
+"す…すみません、教官！\n"
+"まだ目が回っていたみたいです。"
+msgstr ""
+
+#: func04_EV05_06_1410A@63
+msgid ""
+"ふらつくシンの手を取ると\n"
+"シンはそれをそっと\n"
+"握り返してくる。"
+msgstr ""
+
+#: func04_EV05_06_1410A@70
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@71
+msgid ""
+"遊園地がこんなに\n"
+"楽しいところだったなんて…"
+msgstr ""
+
+#: func04_EV05_06_1410A@78
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@79
+msgid ""
+"前は、わざわざこんな所まで来て\n"
+"長い行列に並ぶなんて\n"
+"馬鹿馬鹿しいと思っていたけど…"
+msgstr ""
+
+#: func04_EV05_06_1410A@86
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@87
+msgid ""
+"教官、私…\n"
+"次はあれに乗ってみたいです。"
+msgstr ""
+
+#: func04_EV05_06_1410A@95
+msgid ""
+"おずおずとシンが指さしたのは\n"
+"一時間待ちは当たり前という\n"
+"大人気の絶叫コースターだ。"
+msgstr ""
+
+#: func04_EV05_06_1410A@102
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@103
+msgid ""
+"ちょ…ちょっと並んでますけど\n"
+"今はお昼時で\n"
+"比較的空いていますし…"
+msgstr ""
+
+#: func04_EV05_06_1410A@110
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@111
+msgid "いけませんか…？"
+msgstr ""
+
+#: func04_EV05_06_1410A@119
+msgid ""
+"良いよ、とうなずくと\n"
+"シンは弾けるように微笑んだ。"
+msgstr ""
+
+#: func04_EV05_06_1410A@126
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@127
+msgid ""
+"ありがとうございます！\n"
+"そうと決まれば…\n"
+"さ、行きましょう！！"
+msgstr ""
+
+#: func04_EV05_06_1410A@134
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@135
+msgid ""
+"はぁ…はぁ……\n"
+"あ、アドレナリン……"
+msgstr ""
+
+#: func04_EV05_06_1410A@142
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@143
+msgid ""
+"想像以上でした……。\n"
+"まさか、遊園地で\n"
+"こんな快感が味わえるなんて。"
+msgstr ""
+
+#: func04_EV05_06_1410A@150
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@151
+msgid ""
+"ふふ……現世に戻れなければ\n"
+"遊園地がこんなに楽しいって、\n"
+"きっと知らずにいたでしょうね。"
+msgstr ""
+
+#: func04_EV05_06_1410A@158
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@159
+msgid ""
+"私、これからもっと\n"
+"今まで知らなかったことを\n"
+"経験していきたい。"
+msgstr ""
+
+#: func04_EV05_06_1410A@166
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@167
+msgid ""
+"教官と一緒なら\n"
+"きっとそれが出来ると思います。"
+msgstr ""
+
+#: func04_EV05_06_1410A@174
+msgid "シン"
+msgstr ""
+
+#: func04_EV05_06_1410A@175
+msgid ""
+"だから……ずっと私を\n"
+"見守っていてください。\n"
+"……教官。"
+msgstr ""
+
+#: func04_EV05_06_1420A@6
+msgid "あれから、一ヶ月――"
+msgstr ""
+
+#: func04_EV05_06_1420A@30
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@31
+msgid ""
+"う…うわぁぁあ！！\n"
+"ケーキ！　ケーキだぁ！！"
+msgstr ""
+
+#: func04_EV05_06_1420A@39
+msgid ""
+"所狭しと並んだ大皿の上の\n"
+"色とりどりの洋菓子を見て\n"
+"サコは目を輝かせている。"
+msgstr ""
+
+#: func04_EV05_06_1420A@46
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@47
+msgid ""
+"び…びゅっふぇってことは\n"
+"バイキングってことだよな？"
+msgstr ""
+
+#: func04_EV05_06_1420A@54
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@55
+msgid ""
+"ってことは……\n"
+"これぜーんぶ、好きなだけ\n"
+"食べていいってことか！？"
+msgstr ""
+
+#: func04_EV05_06_1420A@62
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@63
+msgid ""
+"よし！　待ってろよ！\n"
+"サコが$0のぶんも\n"
+"持ってきてやるからな！"
+msgstr ""
+
+#: func04_EV05_06_1420A@70
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@71
+msgid ""
+"ぜんぶの種類、\n"
+"一個ずつ持ってきたぞ！\n"
+"$0もいっぱい食べろよ！"
+msgstr ""
+
+#: func04_EV05_06_1420A@78
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@79
+msgid ""
+"サコは定番の\n"
+"イチゴのショートから\n"
+"せめるんだ！"
+msgstr ""
+
+#: func04_EV05_06_1420A@86
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@87
+msgid ""
+"そーいえば…\n"
+"イチゴが乗ってるまま\n"
+"食べるの、初めてだなー。"
+msgstr ""
+
+#: func04_EV05_06_1420A@94
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@95
+msgid ""
+"ユコはイチゴ好きだから、\n"
+"いつもサコのぶんも\n"
+"あげてたんだ。"
+msgstr ""
+
+#: func04_EV05_06_1420A@103
+msgid ""
+"サコはしげしげと\n"
+"ケーキの上の苺を見つめると\n"
+"口いっぱいに頬張った。"
+msgstr ""
+
+#: func04_EV05_06_1420A@110
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@111
+msgid ""
+"ん～～！！\n"
+"あまくてすっぱくて\n"
+"おいしー！"
+msgstr ""
+
+#: func04_EV05_06_1420A@119
+msgid ""
+"はぐはぐと食べ進むサコの鼻に\n"
+"白いクリームが付いている。"
+msgstr ""
+
+#: func04_EV05_06_1420A@126
+msgid "サコ"
+msgstr ""
+
+#: func04_EV05_06_1420A@127
+msgid ""
+"……？\n"
+"どうした？　食べないのか？"
+msgstr ""
+
+#: func04_EV05_06_1430A@6
+msgid "あれから、一ヶ月――"
+msgstr ""
+
+#: func04_EV05_06_1430A@30
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@31
+msgid ""
+"……先生、\n"
+"ホントにコーヒーだけで良いの？"
+msgstr ""
+
+#: func04_EV05_06_1430A@38
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@39
+msgid ""
+"じゃ、ユコの分けてあげるね。\n"
+"ここのイチゴのタルト、\n"
+"すっごく美味しいんだよ。"
+msgstr ""
+
+#: func04_EV05_06_1430A@46
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@47
+msgid ""
+"ふふ……なんだか嘘みたい。\n"
+"またここで\n"
+"ケーキ食べられるなんて"
+msgstr ""
+
+#: func04_EV05_06_1430A@54
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@55
+msgid ""
+"ユコね、先生と一緒に\n"
+"ここに来たかったんだ。"
+msgstr ""
+
+#: func04_EV05_06_1430A@62
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@63
+msgid ""
+"だけど……\n"
+"先生、ちょっと居心地悪そう…？"
+msgstr ""
+
+#: func04_EV05_06_1430A@71
+msgid ""
+"確かに乙女チックな内装に\n"
+"客も女の子ばかりで、\n"
+"どこか座りが悪い。"
+msgstr ""
+
+#: func04_EV05_06_1430A@78
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@79
+msgid ""
+"ご……ごめんなさい…\n"
+"ユコがワガママ言ったから……"
+msgstr ""
+
+#: func04_EV05_06_1430A@87
+msgid ""
+"悲しげに眉をひそめるユコに\n"
+"慌てて首を振る。"
+msgstr ""
+
+#: func04_EV05_06_1430A@94
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@95
+msgid "良かったぁ……！！"
+msgstr ""
+
+#: func04_EV05_06_1430A@102
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@103
+msgid ""
+"ふはぁ…！\n"
+"生きてる…って感じがする！"
+msgstr ""
+
+#: func04_EV05_06_1430A@111
+msgid ""
+"イチゴタルトを一口食べて\n"
+"ユコはとろけそうな\n"
+"笑顔を見せた。"
+msgstr ""
+
+#: func04_EV05_06_1430A@118
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@119
+msgid ""
+"イチゴがいっぱい\n"
+"乗ってるでしょ？\n"
+"これが美味しいポイントなの！"
+msgstr ""
+
+#: func04_EV05_06_1430A@127
+msgid ""
+"ユコはそう言うと\n"
+"フォークに乗せたケーキを\n"
+"目の前にさしだしてくる。"
+msgstr ""
+
+#: func04_EV05_06_1430A@134
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@135
+msgid ""
+"はい、先生！\n"
+"あーんして？"
+msgstr ""
+
+#: func04_EV05_06_1430A@143
+msgid ""
+"店員の視線を気にしながらも\n"
+"ケーキを口にふくむと\n"
+"苺の香りが口の中に広がった。"
+msgstr ""
+
+#: func04_EV05_06_1430A@150
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@151
+msgid ""
+"ふふっ！　美味しいでしょ？\n"
+"もっと食べたくなった？"
+msgstr ""
+
+#: func04_EV05_06_1430A@158
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@159
+msgid ""
+"…なら、\n"
+"ユコの分先生にあげる。"
+msgstr ""
+
+#: func04_EV05_06_1430A@166
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@167
+msgid ""
+"ユコはもう\n"
+"お姉さんになったから。"
+msgstr ""
+
+#: func04_EV05_06_1430A@174
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@175
+msgid ""
+"大事な人のためなら\n"
+"どんなことだって\n"
+"我慢できるんだよ？"
+msgstr ""
+
+#: func04_EV05_06_1430A@182
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@183
+msgid ""
+"だから……はい！\n"
+"もう一口！"
+msgstr ""
+
+#: func04_EV05_06_1430A@190
+msgid "ユコ"
+msgstr ""
+
+#: func04_EV05_06_1430A@191
+msgid "あーんして、先生……"
+msgstr ""
+
+#: func04_EV05_06_1440A@6
+msgid "あれから、一ヶ月――"
+msgstr ""
+
+#: func04_EV05_06_1440A@30
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@31
+msgid "センセ、こっちよ。"
+msgstr ""
+
+#: func04_EV05_06_1440A@39
+msgid ""
+"街の人混みを\n"
+"トモエに手を引かれて歩く。"
+msgstr ""
+
+#: func04_EV05_06_1440A@47
+msgid ""
+"すれ違う人が皆、\n"
+"トモエを振り返ってゆくのが\n"
+"照れくさいようで誇らしい。"
+msgstr ""
+
+#: func04_EV05_06_1440A@54
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@55
+msgid ""
+"ねえ、この水色か\n"
+"こっちのストライプのか…"
+msgstr ""
+
+#: func04_EV05_06_1440A@62
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@63
+msgid ""
+"どっちも\n"
+"似合うと思うんやけど、\n"
+"センセはどっちがお好み？"
+msgstr ""
+
+#: func04_EV05_06_1440A@71
+msgid ""
+"ショーウィンドウの中の\n"
+"男物のシャツを指して\n"
+"トモエが言う。"
+msgstr ""
+
+#: func04_EV05_06_1440A@78
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@79
+msgid ""
+"どっちでもええて…？\n"
+"う～ん……困ったわぁ……"
+msgstr ""
+
+#: func04_EV05_06_1440A@86
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@87
+msgid ""
+"あ、そや！\n"
+"どっちも買ったら\n"
+"ええんやわ！"
+msgstr ""
+
+#: func04_EV05_06_1440A@94
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@95
+msgid ""
+"センセ、ちょっと待っててな。\n"
+"うち、すぐに買ってくるから…"
+msgstr ""
+
+#: func04_EV05_06_1440A@103
+msgid ""
+"店内に入っていこうとした\n"
+"トモエを慌てて引き止める。"
+msgstr ""
+
+#: func04_EV05_06_1440A@110
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@111
+msgid ""
+"え？　センセ、いらんの？\n"
+"うち、プレゼントしよと\n"
+"思っとったのに……"
+msgstr ""
+
+#: func04_EV05_06_1440A@118
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@119
+msgid ""
+"でも……\n"
+"……ううん……そうやんね。"
+msgstr ""
+
+#: func04_EV05_06_1440A@126
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@127
+msgid ""
+"想う気持ちの大きさを計るんは\n"
+"物なんかやないって\n"
+"教えてくれたんはセンセやもん…"
+msgstr ""
+
+#: func04_EV05_06_1440A@134
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@135
+msgid ""
+"うちはいま\n"
+"センセとこうやって\n"
+"歩いてるだけで幸せ。"
+msgstr ""
+
+#: func04_EV05_06_1440A@142
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@143
+msgid ""
+"センセは\n"
+"うちとおって幸せ？"
+msgstr ""
+
+#: func04_EV05_06_1440A@151
+msgid ""
+"その言葉にうなずくと\n"
+"トモエはぎゅっと腕を絡ませた。\n"
+"肘に柔らかな感触が当たる。"
+msgstr ""
+
+#: func04_EV05_06_1440A@158
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@159
+msgid "嬉しい！"
+msgstr ""
+
+#: func04_EV05_06_1440A@166
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@167
+msgid ""
+"……うち、\n"
+"今日はこのままずっと、\n"
+"腕組んで歩いてたい。"
+msgstr ""
+
+#: func04_EV05_06_1440A@174
+msgid "トモエ"
+msgstr ""
+
+#: func04_EV05_06_1440A@175
+msgid ""
+"ずっとこのまま……\n"
+"な……センセ？"
+msgstr ""
+
+#: func04_EV05_06_1450A@6
+msgid "あれから、一ヶ月――"
+msgstr ""
+
+#: func04_EV05_06_1450A@30
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@31
+msgid ""
+"うーーん……\n"
+"良い天気だなぁ。"
+msgstr ""
+
+#: func04_EV05_06_1450A@39
+msgid ""
+"柔らかな日差しの注ぐ午後。\n"
+"土手の下では少年たちが\n"
+"白黒のボールを追っている。"
+msgstr ""
+
+#: func04_EV05_06_1450A@46
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@47
+msgid ""
+"さてと……\n"
+"食後のコーヒーでも飲もっか。"
+msgstr ""
+
+#: func04_EV05_06_1450A@55
+msgid ""
+"ランが慣れた手つきで\n"
+"コーヒーを魔法瓶から\n"
+"カップに注いでくれる。"
+msgstr ""
+
+#: func04_EV05_06_1450A@62
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@63
+msgid ""
+"なんか、すっごく地味だけど…\n"
+"こういうデートって\n"
+"ちょっと憧れてたんだ。"
+msgstr ""
+
+#: func04_EV05_06_1450A@70
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@71
+msgid ""
+"サンドイッチのお弁当持って、\n"
+"芝生に並んで座って…\n"
+"ぼーっと空なんか眺めてさ。"
+msgstr ""
+
+#: func04_EV05_06_1450A@78
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@79
+msgid ""
+"気持ちいいよね。\n"
+"天気は良いし、\n"
+"お腹もいっぱいで……"
+msgstr ""
+
+#: func04_EV05_06_1450A@87
+msgid ""
+"釣られて、思わず\n"
+"あくびがこぼれる。"
+msgstr ""
+
+#: func04_EV05_06_1450A@94
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@95
+msgid ""
+"オヤジ、疲れてんじゃないの？\n"
+"このまま昼寝しちゃって良いよ。"
+msgstr ""
+
+#: func04_EV05_06_1450A@103
+msgid ""
+"ランの言葉に甘えて\n"
+"横になろうと姿勢を崩すと\n"
+"柔らかい感触に頭が触れた。"
+msgstr ""
+
+#: func04_EV05_06_1450A@110
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@111
+msgid ""
+"いいよ、そのままで。\n"
+"……アタシの膝枕じゃ\n"
+"寝心地悪いかもしれないけど。"
+msgstr ""
+
+#: func04_EV05_06_1450A@119
+msgid ""
+"そんなことないと\n"
+"慌てて首を振ると、\n"
+"ランは照れたように笑った。"
+msgstr ""
+
+#: func04_EV05_06_1450A@126
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@127
+msgid ""
+"ふふっ。\n"
+"嘘でも嬉しいよ。"
+msgstr ""
+
+#: func04_EV05_06_1450A@134
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@135
+msgid ""
+"……なあオヤジ。\n"
+"アタシ、オヤジに出会えて\n"
+"本当に良かったと思うよ。"
+msgstr ""
+
+#: func04_EV05_06_1450A@142
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@143
+msgid ""
+"自分が人に対して\n"
+"こんなに優しい気持ちに\n"
+"なれるなんて、思わなかった…"
+msgstr ""
+
+#: func04_EV05_06_1450A@150
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@151
+msgid ""
+"だから……\n"
+"ずっとこんなふうに\n"
+"過ごしてられたらいいな。"
+msgstr ""
+
+#: func04_EV05_06_1450A@158
+msgid "ラン"
+msgstr ""
+
+#: func04_EV05_06_1450A@159
+msgid ""
+"オヤジの隣にいるだけで\n"
+"アタシ、幸せなんだ……。"
+msgstr ""
+
+#: func04_EV05_06_1460A@6
+msgid "あれから、一ヶ月――"
+msgstr ""
+
+#: func04_EV05_06_1460A@30
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@31
+msgid ""
+"お狐さま、\n"
+"アリスは無事に戻ったの。\n"
+"いろいろありがとうなの……"
+msgstr ""
+
+#: func04_EV05_06_1460A@39
+msgid ""
+"神社の片隅の古びた祠に向かって\n"
+"アリスは真剣な表情で\n"
+"手を合わせた。"
+msgstr ""
+
+#: func04_EV05_06_1460A@46
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@47
+msgid ""
+"……これで、\n"
+"ご挨拶しなくちゃいけない所は\n"
+"ぜんぶ回ったの。"
+msgstr ""
+
+#: func04_EV05_06_1460A@54
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@55
+msgid ""
+"このお狐さまは\n"
+"こっちにいたときも\n"
+"地獄に居るときも"
+msgstr ""
+
+#: func04_EV05_06_1460A@62
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@63
+msgid ""
+"ずっとアリスのこと\n"
+"助けてくれてたの……。"
+msgstr ""
+
+#: func04_EV05_06_1460A@71
+msgid ""
+"そう呟くと、\n"
+"アリスは祠に向かって\n"
+"ぺこりと頭を下げた。"
+msgstr ""
+
+#: func04_EV05_06_1460A@78
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@79
+msgid "あ……！　猫！"
+msgstr ""
+
+#: func04_EV05_06_1460A@87
+msgid ""
+"真っ黒な子猫が\n"
+"陽の当たる石段で\n"
+"丸くなっている。"
+msgstr ""
+
+#: func04_EV05_06_1460A@94
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@95
+msgid ""
+"$0……\n"
+"さわりに行っても良い？"
+msgstr ""
+
+#: func04_EV05_06_1460A@103
+msgid ""
+"もちろんだとうなずくと\n"
+"アリスは子猫のほうへ\n"
+"かけていった。"
+msgstr ""
+
+#: func04_EV05_06_1460A@110
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@111
+msgid ""
+"ごろごろしてるの…\n"
+"可愛いの……"
+msgstr ""
+
+#: func04_EV05_06_1460A@119
+msgid ""
+"アリスは目を細めて\n"
+"膝の上の子猫を撫でている。"
+msgstr ""
+
+#: func04_EV05_06_1460A@126
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@127
+msgid ""
+"……アリスね、\n"
+"こっちに戻ってきてから\n"
+"声が聞こえなくなったの。"
+msgstr ""
+
+#: func04_EV05_06_1460A@134
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@135
+msgid ""
+"少し寂しいけど……\n"
+"きっとそれでいいの。"
+msgstr ""
+
+#: func04_EV05_06_1460A@142
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@143
+msgid ""
+"アリスには$0がいるし\n"
+"ちゃんとお友達だってできたの。"
+msgstr ""
+
+#: func04_EV05_06_1460A@151
+msgid ""
+"アリスの言葉に応えるように\n"
+"子猫がにゃんと鳴く。"
+msgstr ""
+
+#: func04_EV05_06_1460A@158
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@159
+msgid ""
+"ふふふ……\n"
+"この子ももうお友達なの……。"
+msgstr ""
+
+#: func04_EV05_06_1460A@166
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@167
+msgid ""
+"$0……？\n"
+"$0はお友達じゃないの。"
+msgstr ""
+
+#: func04_EV05_06_1460A@174
+msgid "アリス"
+msgstr ""
+
+#: func04_EV05_06_1460A@175
+msgid ""
+"$0は……\n"
+"アリスの大事な人なの……。"
+msgstr ""

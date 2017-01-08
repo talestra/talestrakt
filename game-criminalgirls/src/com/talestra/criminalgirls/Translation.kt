@@ -10,10 +10,11 @@ import com.soywiz.korio.vfs.VfsFile
 import com.soywiz.korio.vfs.VfsOpenMode
 import com.talestra.rhcommon.lang.invalidOp
 import com.talestra.rhcommon.text.StrReader
+import com.talestra.rhcommon.translations.PO
 import java.util.*
 
 object Translation {
-    val resources = ResourcesVfs
+    val resources = ResourcesVfs["com/talestra/criminalgirls"]
 
     data class CharMap(val from: Char, val to: Char, val width: Int)
 
@@ -44,7 +45,7 @@ object Translation {
     }
 
     val charMapList by lazy {
-        sync { resources["font.map.tbl"].readString() }.lines().map {
+        sync { resources["font/font.map.tbl"].readString() }.lines().map {
             val parts = it.split(',')
             CharMap(parts[0][0], parts[1][0], parts[2].toInt())
         }
@@ -60,7 +61,7 @@ object Translation {
         print("Patching '$original'... ${ss.getLength()}")
         val ORIGINAL = IMY.decode(ss.slice().readAll())
         val ORIGINAL_HAS_PALETTE = ORIGINAL is Bitmap8
-        val TRANSLATED = PNG.read(resources[png].read());
+        val TRANSLATED = PNG.read(resources["images/$png"].read());
         val TRANSLATED_HAS_PALETTE = TRANSLATED is Bitmap8
 
         if (ORIGINAL_HAS_PALETTE != TRANSLATED_HAS_PALETTE) {
@@ -105,9 +106,9 @@ object Translation {
 
                             val out = arrayListOf<String>()
 
-                            val translationFile = "$name@$name2@${script.name}.txt"
+                            val translationFile = "$name@$name2@${script.name}.po"
 
-                            val translations = resources["text/$translationFile"].readString().lines()
+                            val translations = PO.read(resources["text/$translationFile"].readString())
 
                             println(name)
 
@@ -119,15 +120,10 @@ object Translation {
                                 return oo
                             }
 
-                            for (t in translations) {
-                                val s = StrReader(t)
-                                val text_id = s.readWhile { it != ':' }
-                                s.expect(':')
-                                s.readQuotedString()
-                                s.expect(':')
-                                val trans = s.readQuotedString()
-                                trans2[text_id] = trans.transformChars()
-                                //println("$function_index @ $ori  @ $trans")
+                            for (t in translations.filter { it.references.isNotEmpty() }) {
+								val text_id = t.references.first()
+								val trans = t.msgstrList.first()
+								trans2[text_id] = trans.transformChars()
                             }
 
                             //println(translations)

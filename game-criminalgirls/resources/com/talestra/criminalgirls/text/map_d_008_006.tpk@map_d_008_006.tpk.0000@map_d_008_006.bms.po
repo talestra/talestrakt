@@ -1,0 +1,784 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: func06_GET_KBOX_MESSAGE@5
+msgid "Obtained $1No. 832-00's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@19
+msgid "Obtained $1No. 832-01's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@33
+msgid "Obtained $1No. 832-02's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@47
+msgid "Obtained $1No. 832-03's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@61
+msgid "Obtained $1Smelly Leaf$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@75
+msgid "Obtained $1Cold Mud$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@89
+msgid "Obtained $1Leaf Dew$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@103
+msgid "Obtained $1Conquest Proof 1$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@117
+msgid "Obtained $1Conquest Proof 2$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@131
+msgid "Obtained $1Conquest Proof 3$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@145
+msgid "Obtained $1Conquest Proof 4$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@159
+msgid "Obtained $1Key of Trial$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@173
+msgid "Obtained $1Wedding Invitation$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@187
+msgid "Obtained $1Cell Phone$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@201
+msgid "Obtained $1Old Wooden Sword$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@215
+msgid "Obtained $1Pink Diary$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@229
+msgid "Obtained $1Homemade Dinner$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@243
+msgid "Obtained $1Framed Certificate$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@257
+msgid "Obtained $1Yurian Church Note$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@271
+msgid "Obtained $1Letter$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@285
+msgid "Obtained $1Gym Clothes Photo$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@299
+msgid "Obtained $1Swimsuit Photo$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@313
+msgid "Obtained $1Buitton$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@327
+msgid "Obtained $1Hemres$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@341
+msgid "Obtained $1Kucci$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@355
+msgid "Obtained $1Channel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@369
+msgid "Obtained $1Chiffany$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@383
+msgid "Obtained $1Frata$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@397
+msgid "Obtained $1Drug Test KN18A$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@411
+msgid "Obtained $1Drug Test KN18B$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@425
+msgid "Obtained $1Drug Test KN18C$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@439
+msgid "Obtained $1Drug Test KN18D$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@453
+msgid "Obtained $1Drug Test KN18E$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@467
+msgid "Obtained $1Drug Test KN18F$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@481
+msgid "Obtained $1Drug Test KN18G$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@495
+msgid "Obtained $1Soft Whip$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@509
+msgid "Obtained $1Shock Stick$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@523
+msgid "Obtained $1Strange Fluid$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@537
+msgid "Obtained $1Feather Duster$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@551
+msgid "Obtained $1Comforting Gloves$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@565
+msgid "Obtained $12 Step Flames$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@579
+msgid "Obtained $1Super Absorbancy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@593
+msgid "Obtained $1Impregnable Guard$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@607
+msgid "Obtained $1Shield and Katana$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@621
+msgid "Obtained $1Shield and Magic$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@635
+msgid "Obtained $1Ditching Class$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@649
+msgid "Obtained $12 Step Ice$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@663
+msgid "Obtained $12 Step Lightning$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@677
+msgid "Obtained $1Cheering$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@691
+msgid "Obtained $1100％ Energy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@705
+msgid "Obtained $1Requests$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@719
+msgid "Obtained $1Darkness Festival$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@733
+msgid "Obtained $1Poison Strategy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@747
+msgid "Obtained $1Annihilation Plan$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@761
+msgid "Obtained $1Drug Test KN18H$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@775
+msgid "Obtained $1Drug Test KN18I$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@789
+msgid "Obtained $1Whip and Candy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@803
+msgid "Obtained $1Hell Travel Guide$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@817
+msgid "Obtained $1Attendant's Advice$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@831
+msgid "Obtained $1Purification$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@845
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@859
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@873
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@887
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@901
+msgid "Obtained $1Tiny Enduring Snow$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@915
+msgid "Obtained $1Enduring Snow$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@929
+msgid "Obtained $1Holy Water$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@943
+msgid "Obtained $1Natural Thread$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@957
+msgid "Obtained $1Obsidian Needle$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@971
+msgid "Obtained $1Letter Set$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@985
+msgid "Obtained $1Heart Sticker$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@999
+msgid "Obtained $1Commissioner File$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1013
+msgid "Obtained $1Lockbox Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1027
+msgid "Obtained $1Round Jewel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1041
+msgid "Obtained $1Circular Jewel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1055
+msgid "Obtained $1Stuffed Animal$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1069
+msgid "Obtained $1Memorable Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1083
+msgid "Obtained $1Rage Marked Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1097
+msgid "Obtained $1Protocol$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1111
+msgid "Obtained $1Crystal Chess Set$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1125
+msgid "Obtained $1Volleyball$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1139
+msgid "Obtained $1Milk Carton$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1153
+msgid "Obtained $1Alice's Heart Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1167
+msgid "Obtained $1Hot Springs Ticket$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1181
+msgid "Obtained $1Cocoa$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1195
+msgid "Obtained $1Key to Shin's Room$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1209
+msgid "Obtained $1ID Card$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1223
+msgid "Obtained $1Symbol of Sin$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1237
+msgid "Obtained $1Girl's Wish25$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1251
+msgid "Obtained $1Girl's Wish26$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1265
+msgid "Obtained $1Girl's Wish27$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1279
+msgid "Obtained $1Girl's Wish28$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1293
+msgid "Obtained $1Girl's Wish29$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1307
+msgid "Obtained $1Girl's Wish30$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1321
+msgid "Obtained $1Girl's Wish31$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1335
+msgid "Obtained $1Girl's Wish32$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1349
+msgid "Obtained $1Girl's Wish33$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1363
+msgid "Obtained $1Girl's Wish34$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1377
+msgid "Obtained $1Girl's Wish35$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1391
+msgid "Obtained $1Girl's Wish36$2."
+msgstr ""
+
+#: gate_item_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_item_close@17
+msgid ""
+"There's one key hole.\n"
+"It appears you need $1one key$2 to open the gate."
+msgstr ""
+
+#: gate_item_close@30
+msgid ""
+"There's two key holes.\n"
+"It appears you need $1two keys$2 to open the gate."
+msgstr ""
+
+#: gate_switch_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_switch_miss@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_miss@5
+msgid ""
+"Tried using the switch\n"
+"but it didn't do anything..."
+msgstr ""
+
+#: gate_switch_opened@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_opened@5
+msgid "There's no need to use it anymore."
+msgstr ""
+
+#: gate_enemy_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_enemy_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: ice_gate@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: ice_gate_op@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate_op@5
+msgid "Not enough CM..."
+msgstr ""
+
+#: school_gate@4
+msgid "$0"
+msgstr ""
+
+#: school_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: big_gate@4
+msgid "$0"
+msgstr ""
+
+#: big_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: come_back_gate@4
+msgid "$0"
+msgstr ""
+
+#: come_back_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: space_gate@4
+msgid "$0"
+msgstr ""
+
+#: space_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_after_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_after_close@5
+msgid ""
+"It appears the gate is\n"
+"sealed by some special power.\n"
+"You can't open it for now..."
+msgstr ""
+
+#: skill_kis@58
+msgid "$0"
+msgstr ""
+
+#: skill_kis@59
+msgid ""
+"It appears there are $1$5$2 treasure chests\n"
+"left on this floor.\n"
+"(Excluding event treasure chests)"
+msgstr ""
+
+#: skill_ran@9
+msgid "$0"
+msgstr ""
+
+#: skill_ran@10
+msgid "The Convicts in the area have disappeared."
+msgstr ""
+
+#: skill_ran2@5
+msgid "$0"
+msgstr ""
+
+#: skill_ran2@6
+msgid "Alert Move has been exhausted."
+msgstr ""
+
+#: skill_not@21
+msgid "$0"
+msgstr ""
+
+#: skill_not@22
+msgid ""
+"It appears you can't use that\n"
+"while the gate is closed."
+msgstr ""
+
+#: skill_not@35
+msgid "$0"
+msgstr ""
+
+#: skill_not@36
+msgid ""
+"You can't go back.\n"
+"Don't leave your party."
+msgstr ""
+
+#: skill_not@44
+msgid "$0"
+msgstr ""
+
+#: skill_not@45
+msgid "It appears you can't use that here."
+msgstr ""
+
+#: skill_not2@5
+msgid "$0"
+msgstr ""
+
+#: skill_not2@6
+msgid ""
+"You can't use that \n"
+"skill right now."
+msgstr ""
+
+#: sub_title_school@35
+msgid "16:00 Kyoka Kisaragi's Memory"
+msgstr ""
+
+#: sub_title_school@49
+msgid "16:00 Kayoko Rando's Memory"
+msgstr ""
+
+#: sub_title_school@63
+msgid "16:00 Yuri Mizuna's Memory"
+msgstr ""
+
+#: sub_title_school@77
+msgid "16:00 Tomoe Harukawa's Memory"
+msgstr ""
+
+#: sub_title_school@91
+msgid "16:00 Sako Katagi's Memory"
+msgstr ""
+
+#: sub_title_school@105
+msgid "16:00 Yuko Katagi's Memory"
+msgstr ""
+
+#: sub_title_school@119
+msgid "16:00 Makoto Hatsurai's Memory"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@5
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@19
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@33
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@47
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@61
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: get_treasure@88
+msgid "You can't carry any more items."
+msgstr ""
+
+#: get_treasure@96
+msgid ""
+"Destroy the items you\n"
+"can't carry?"
+msgstr ""
+
+#: get_treasure@100
+msgid ""
+"Destroy the items you\n"
+"can't carry?"
+msgstr ""
+
+#: get_treasure@101
+msgid "No"
+msgstr ""
+
+#: get_treasure@102
+msgid "Yes"
+msgstr ""
+
+#: get_treasure@120
+msgid "Destroyed the items you couldn't carry."
+msgstr ""
+
+#: get_treasure@166
+msgid "Leave in the chest."
+msgstr ""
+
+#: get_treasure@175
+msgid "Already opened."
+msgstr ""
+
+#: key_get_treasure@51
+msgid "Already opened."
+msgstr ""
+
+#: get_treasure_kizuna@46
+msgid "$0"
+msgstr ""
+
+#: get_treasure_kizuna@47
+msgid ""
+"Can't open chest.\n"
+"Looks like you're missing the bond..."
+msgstr ""
+
+#: get_treasure_kizuna@56
+msgid "Already opened."
+msgstr ""
+
+#: msg_kizuna_skill@12
+msgid "$3Kisaragi$2 learned $1Flame Fist$2."
+msgstr ""
+
+#: msg_kizuna_skill@26
+msgid "$3Kisaragi$2 learned $1Hunt and Heal$2."
+msgstr ""
+
+#: msg_kizuna_skill@44
+msgid "$3Ran$2 learned $1True Defense$2."
+msgstr ""
+
+#: msg_kizuna_skill@58
+msgid "$3Ran$2 learned $1Shield Smash$2."
+msgstr ""
+
+#: msg_kizuna_skill@76
+msgid "$3Alice$2 learned $1The Return$2."
+msgstr ""
+
+#: msg_kizuna_skill@90
+msgid "$3Alice$2 learned $1Slacking Nurse$2."
+msgstr ""
+
+#: msg_kizuna_skill@108
+msgid "$3Tomoe$2 learned $1Freezing Sword$2."
+msgstr ""
+
+#: msg_kizuna_skill@122
+msgid "$3Tomoe$2 learned $1Bolt Sword$2."
+msgstr ""
+
+#: msg_kizuna_skill@140
+msgid "$3Sako$2 learned $1Sako Cheer!$2."
+msgstr ""
+
+#: msg_kizuna_skill@154
+msgid "$3Sako$2 learned $1Sako's Mark$2."
+msgstr ""
+
+#: msg_kizuna_skill@172
+msgid "$3Yuko$2 learned $1Sako Punch!$2."
+msgstr ""
+
+#: msg_kizuna_skill@186
+msgid "$3Yuko$2 learned $1Bad Festival$2."
+msgstr ""
+
+#: msg_kizuna_skill@204
+msgid "$3Shin$2 learned $1OPR Venom$2."
+msgstr ""
+
+#: msg_kizuna_skill@218
+msgid "$3Shin$2 learned $1OPR Heaven$2."
+msgstr ""
+
+#: msg_kizuna_skill@236
+msgid "$3Miu$2 learned $1Just Desserts$2."
+msgstr ""
+
+#: msg_kizuna_skill@250
+msgid "$3Miu$2 learned $1Peak Condition$2."
+msgstr ""
+
+#: msg_kizuna_skill@268
+msgid "$3Himekami$2 learned $1Overkill$2."
+msgstr ""
+
+#: msg_kizuna_skill@282
+msgid "$3Himekami$2 learned $1End of Karma$2."
+msgstr ""
+
+#: lockde_box@5
+msgid "The treasure chest is locked."
+msgstr ""
+
+#: gate_item@57
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_switch@40
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_enemy@62
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: party_gate_open@85
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_school@97
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_after@20
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: boss_gate@96
+msgid "The gate was unlocked!"
+msgstr ""

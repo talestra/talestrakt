@@ -1,0 +1,783 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: func06_GET_KBOX_MESSAGE@5
+msgid "$1第８３２－００鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@19
+msgid "$1第８３２－０１鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@33
+msgid "$1第８３２－０２鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@47
+msgid "$1第８３２－０３鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@61
+msgid "$1くさい葉っぱ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@75
+msgid "$1冷たい泥$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@89
+msgid "$1草つゆ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@103
+msgid "$1討伐の証１$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@117
+msgid "$1討伐の証２$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@131
+msgid "$1討伐の証３$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@145
+msgid "$1討伐の証４$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@159
+msgid "$1試練の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@173
+msgid "$1結婚式の招待状$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@187
+msgid "$1携帯電話$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@201
+msgid "$1古びた木刀$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@215
+msgid "$1ピンクの日記帳$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@229
+msgid "$1手作りの夕飯$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@243
+msgid "$1額縁入りの表彰状$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@257
+msgid "$1ユーリ教の手引き$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@271
+msgid "$1手紙$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@285
+msgid "$1体操着の写真$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@299
+msgid "$1水着の写真$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@313
+msgid "$1バトンのバッグ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@327
+msgid "$1エメルスのサイフ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@341
+msgid "$1クッテのサンダル$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@355
+msgid "$1チャネルのリップ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@369
+msgid "$1チハニーのリング$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@383
+msgid "$1フラタのチャーム$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@397
+msgid "$1試験薬ＫＮ１８Ａ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@411
+msgid "$1試験薬ＫＮ１８Ｂ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@425
+msgid "$1試験薬ＫＮ１８Ｃ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@439
+msgid "$1試験薬ＫＮ１８Ｄ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@453
+msgid "$1試験薬ＫＮ１８Ｅ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@467
+msgid "$1試験薬ＫＮ１８Ｆ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@481
+msgid "$1試験薬ＫＮ１８Ｇ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@495
+msgid "$1やわらかムチ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@509
+msgid "$1ビリビリ棒$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@523
+msgid "$1ナゾのえきたい$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@537
+msgid "$1羽ぼうき$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@551
+msgid "$1いやし系手袋$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@565
+msgid "$1火炎二段の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@579
+msgid "$1超吸収の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@593
+msgid "$1鉄壁ガードの書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@607
+msgid "$1盾と刀の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@621
+msgid "$1盾と魔法の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@635
+msgid "$1メガサボリの書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@649
+msgid "$1氷結二段の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@663
+msgid "$1雷撃二段の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@677
+msgid "$1応援の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@691
+msgid "$1花丸元気の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@705
+msgid "$1お願いの書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@719
+msgid "$1暗黒祭の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@733
+msgid "$1猛毒作戦の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@747
+msgid "$1せん滅作戦の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@761
+msgid "$1試験薬ＫＮ１８Ｈ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@775
+msgid "$1試験薬ＫＮ１８Ｉ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@789
+msgid "$1ムチとアメの書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@803
+msgid "$1監獄旅行のしおり$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@817
+msgid "$1接待の進め$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@831
+msgid "$1洗浄の書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@845
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@859
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@873
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@887
+msgid "$1予備$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@901
+msgid "$1微量の消えない雪$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@915
+msgid "$1消えない雪$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@929
+msgid "$1聖なるお水$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@943
+msgid "$1天然糸$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@957
+msgid "$1黒曜石の針$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@971
+msgid "$1レターセット$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@985
+msgid "$1ハートのシール$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@999
+msgid "$1管理官の書類$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1013
+msgid "$1資料保管箱の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1027
+msgid "$1丸い宝石$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1041
+msgid "$1円い宝石$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1055
+msgid "$1ぬいぐるみ$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1069
+msgid "$1思い出の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1083
+msgid "$1レイジー印の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1097
+msgid "$1ヨミガエリ計画書$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1111
+msgid "$1水晶のチェス$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1125
+msgid "$1バレーボール$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1139
+msgid "$1牛乳パック$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1153
+msgid "$1アリスの心の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1167
+msgid "$1温泉チケット$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1181
+msgid "$1ココア$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1195
+msgid "$1シンの部屋の鍵$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1209
+msgid "$1身分証$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1223
+msgid "$1罪の証$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1237
+msgid "$1ガールズオーダー25$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1251
+msgid "$1ガールズオーダー26$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1265
+msgid "$1ガールズオーダー27$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1279
+msgid "$1ガールズオーダー28$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1293
+msgid "$1ガールズオーダー29$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1307
+msgid "$1ガールズオーダー30$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1321
+msgid "$1ガールズオーダー31$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1335
+msgid "$1ガールズオーダー32$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1349
+msgid "$1ガールズオーダー33$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1363
+msgid "$1ガールズオーダー34$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1377
+msgid "$1ガールズオーダー35$2を手に入れた"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1391
+msgid "$1ガールズオーダー36$2を手に入れた"
+msgstr ""
+
+#: gate_item_close@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: gate_item_close@17
+msgid ""
+"鍵穴が１つあいている。\n"
+"開けるには$1鍵が１つ$2必要なようだ。"
+msgstr ""
+
+#: gate_item_close@30
+msgid ""
+"鍵穴が２つあいている。\n"
+"開けるには$1鍵が２つ$2必要なようだ。"
+msgstr ""
+
+#: gate_switch_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_close@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: gate_switch_miss@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_miss@5
+msgid ""
+"スイッチを押したが\n"
+"反応がない……"
+msgstr ""
+
+#: gate_switch_opened@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_opened@5
+msgid "もう、押す必要はない。"
+msgstr ""
+
+#: gate_enemy_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_enemy_close@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: ice_gate@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: ice_gate_op@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate_op@5
+msgid "ＯＰが足りない……"
+msgstr ""
+
+#: school_gate@4
+msgid "$0"
+msgstr ""
+
+#: school_gate@5
+msgid "門は固く封印されている。"
+msgstr ""
+
+#: big_gate@4
+msgid "$0"
+msgstr ""
+
+#: big_gate@5
+msgid "門は固く封印されている"
+msgstr ""
+
+#: come_back_gate@4
+msgid "$0"
+msgstr ""
+
+#: come_back_gate@5
+msgid "門は固く封印されている"
+msgstr ""
+
+#: space_gate@4
+msgid "$0"
+msgstr ""
+
+#: space_gate@5
+msgid "門は固く封印されている"
+msgstr ""
+
+#: gate_after_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_after_close@5
+msgid ""
+"門は特殊な力で\n"
+"封印されているようだ。\n"
+"今は開ける事が出来ない……"
+msgstr ""
+
+#: skill_kis@58
+msgid "$0"
+msgstr ""
+
+#: skill_kis@59
+msgid ""
+"このフロアには\n"
+"宝箱が$1$5$2個残っているようだ。"
+msgstr ""
+
+#: skill_ran@9
+msgid "$0"
+msgstr ""
+
+#: skill_ran@10
+msgid "周囲からクリミナルの気配が消えた。"
+msgstr ""
+
+#: skill_ran2@5
+msgid "$0"
+msgstr ""
+
+#: skill_ran2@6
+msgid "警戒移動の効果が切れた。"
+msgstr ""
+
+#: skill_not@21
+msgid "$0"
+msgstr ""
+
+#: skill_not@22
+msgid ""
+"門が閉ざされている間は\n"
+"使えないようだ。"
+msgstr ""
+
+#: skill_not@35
+msgid "$0"
+msgstr ""
+
+#: skill_not@36
+msgid ""
+"仲間を置いて\n"
+"戻ることはできない。"
+msgstr ""
+
+#: skill_not@44
+msgid "$0"
+msgstr ""
+
+#: skill_not@45
+msgid "ここでは使えないようだ。"
+msgstr ""
+
+#: skill_not2@5
+msgid "$0"
+msgstr ""
+
+#: skill_not2@6
+msgid ""
+"今、そのスキルは\n"
+"使えないようだ。"
+msgstr ""
+
+#: sub_title_school@35
+msgid "１６：００　如月恭華の記憶"
+msgstr ""
+
+#: sub_title_school@49
+msgid "１６：００　蘭堂かよこの記憶"
+msgstr ""
+
+#: sub_title_school@63
+msgid "１６：００　水菜悠里の記憶"
+msgstr ""
+
+#: sub_title_school@77
+msgid "１６：００　春川朋の記憶"
+msgstr ""
+
+#: sub_title_school@91
+msgid "１６：００　片木左子の記憶"
+msgstr ""
+
+#: sub_title_school@105
+msgid "１６：００　片木右子の記憶"
+msgstr ""
+
+#: sub_title_school@119
+msgid "１６：００　初来慎の記憶"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@5
+msgid "$1回復薬Ｓ$2×０手に入れた"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@19
+msgid "$1回復薬Ｓ$2×０手に入れた"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@33
+msgid "$1回復薬Ｓ$2×０手に入れた"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@47
+msgid "$1回復薬Ｓ$2×０手に入れた"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@61
+msgid "$1回復薬Ｓ$2×０手に入れた"
+msgstr ""
+
+#: get_treasure@72
+msgid "しかし、これ以上は持てない。"
+msgstr ""
+
+#: get_treasure@80
+msgid ""
+"持てない分は\n"
+"破棄してもよろしいですか？"
+msgstr ""
+
+#: get_treasure@84
+msgid ""
+"持てない分は\n"
+"破棄してもよろしいですか？"
+msgstr ""
+
+#: get_treasure@85
+msgid "いいえ"
+msgstr ""
+
+#: get_treasure@86
+msgid "はい"
+msgstr ""
+
+#: get_treasure@104
+msgid "持てない分は破棄しました。"
+msgstr ""
+
+#: get_treasure@150
+msgid "元に戻した。"
+msgstr ""
+
+#: get_treasure@159
+msgid "既に開いている。"
+msgstr ""
+
+#: key_get_treasure@51
+msgid "既に開いている。"
+msgstr ""
+
+#: get_treasure_kizuna@46
+msgid "$0"
+msgstr ""
+
+#: get_treasure_kizuna@47
+msgid ""
+"箱を開けることが出来ない。\n"
+"キズナが欠けているようだ……"
+msgstr ""
+
+#: get_treasure_kizuna@56
+msgid "既に開いている。"
+msgstr ""
+
+#: msg_kizuna_skill@12
+msgid "$3キサラギ$2は$1火炎爆裂拳$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@26
+msgid "$3キサラギ$2は$1ＨＰハント斬り$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@44
+msgid "$3ラン$2は$1ミナハイガード$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@58
+msgid "$3ラン$2は$1∞スマッシュ$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@76
+msgid "$3アリス$2は$1守ってカエース$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@90
+msgid "$3アリス$2は$1オサボリナース$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@108
+msgid "$3トモエ$2は$1氷結剣カッチン$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@122
+msgid "$3トモエ$2は$1落雷剣ショック$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@140
+msgid "$3サコ$2は$1サコ・エール！$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@154
+msgid "$3サコ$2は$1サコの元気印$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@172
+msgid "$3ユコ$2は$1サコ・パンチ！$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@186
+msgid "$3ユコ$2は$1バッドフェスタ$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@204
+msgid "$3シン$2は$1ＯＰＲベノム$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@218
+msgid "$3シン$2は$1ＯＰＲヘイヴン$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@236
+msgid "$3ミウ$2は$1ご褒美フルコース$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@250
+msgid "$3ミウ$2は$1絶対体調管理メニュー$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@268
+msgid "$3ヒメカミ$2は$1オーバーキル$2を覚えた"
+msgstr ""
+
+#: msg_kizuna_skill@282
+msgid "$3ヒメカミ$2は$1エンド・オブ・カルマ$2を覚えた"
+msgstr ""
+
+#: lockde_box@5
+msgid "宝箱には鍵がかかっている。"
+msgstr ""
+
+#: gate_item@57
+msgid "門の封印が解けた！"
+msgstr ""
+
+#: gate_switch@40
+msgid "門の封印が解けた！"
+msgstr ""
+
+#: gate_enemy@62
+msgid "門の封印が解けた！"
+msgstr ""
+
+#: party_gate_open@85
+msgid "門の封印が解けた！"
+msgstr ""
+
+#: gate_school@97
+msgid "門の封印が解けた！"
+msgstr ""
+
+#: gate_after@20
+msgid "門の封印が解けた！"
+msgstr ""
+
+#: boss_gate@96
+msgid "門の封印が解けた！"
+msgstr ""

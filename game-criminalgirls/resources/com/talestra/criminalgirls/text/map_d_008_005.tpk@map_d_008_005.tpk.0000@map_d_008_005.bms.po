@@ -1,0 +1,2434 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: func06_GET_KBOX_MESSAGE@5
+msgid "Obtained $1No. 832-00's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@19
+msgid "Obtained $1No. 832-01's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@33
+msgid "Obtained $1No. 832-02's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@47
+msgid "Obtained $1No. 832-03's Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@61
+msgid "Obtained $1Smelly Leaf$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@75
+msgid "Obtained $1Cold Mud$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@89
+msgid "Obtained $1Leaf Dew$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@103
+msgid "Obtained $1Conquest Proof 1$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@117
+msgid "Obtained $1Conquest Proof 2$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@131
+msgid "Obtained $1Conquest Proof 3$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@145
+msgid "Obtained $1Conquest Proof 4$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@159
+msgid "Obtained $1Key of Trial$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@173
+msgid "Obtained $1Wedding Invitation$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@187
+msgid "Obtained $1Cell Phone$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@201
+msgid "Obtained $1Old Wooden Sword$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@215
+msgid "Obtained $1Pink Diary$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@229
+msgid "Obtained $1Homemade Dinner$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@243
+msgid "Obtained $1Framed Certificate$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@257
+msgid "Obtained $1Yurian Church Note$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@271
+msgid "Obtained $1Letter$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@285
+msgid "Obtained $1Gym Clothes Photo$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@299
+msgid "Obtained $1Swimsuit Photo$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@313
+msgid "Obtained $1Buitton$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@327
+msgid "Obtained $1Hemres$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@341
+msgid "Obtained $1Kucci$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@355
+msgid "Obtained $1Channel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@369
+msgid "Obtained $1Chiffany$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@383
+msgid "Obtained $1Frata$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@397
+msgid "Obtained $1Drug Test KN18A$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@411
+msgid "Obtained $1Drug Test KN18B$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@425
+msgid "Obtained $1Drug Test KN18C$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@439
+msgid "Obtained $1Drug Test KN18D$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@453
+msgid "Obtained $1Drug Test KN18E$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@467
+msgid "Obtained $1Drug Test KN18F$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@481
+msgid "Obtained $1Drug Test KN18G$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@495
+msgid "Obtained $1Soft Whip$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@509
+msgid "Obtained $1Shock Stick$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@523
+msgid "Obtained $1Strange Fluid$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@537
+msgid "Obtained $1Feather Duster$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@551
+msgid "Obtained $1Comforting Gloves$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@565
+msgid "Obtained $12 Step Flames$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@579
+msgid "Obtained $1Super Absorbancy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@593
+msgid "Obtained $1Impregnable Guard$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@607
+msgid "Obtained $1Shield and Katana$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@621
+msgid "Obtained $1Shield and Magic$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@635
+msgid "Obtained $1Ditching Class$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@649
+msgid "Obtained $12 Step Ice$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@663
+msgid "Obtained $12 Step Lightning$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@677
+msgid "Obtained $1Cheering$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@691
+msgid "Obtained $1100％ Energy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@705
+msgid "Obtained $1Requests$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@719
+msgid "Obtained $1Darkness Festival$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@733
+msgid "Obtained $1Poison Strategy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@747
+msgid "Obtained $1Annihilation Plan$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@761
+msgid "Obtained $1Drug Test KN18H$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@775
+msgid "Obtained $1Drug Test KN18I$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@789
+msgid "Obtained $1Whip and Candy$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@803
+msgid "Obtained $1Hell Travel Guide$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@817
+msgid "Obtained $1Attendant's Advice$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@831
+msgid "Obtained $1Purification$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@845
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@859
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@873
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@887
+msgid "Obtained $1Spare$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@901
+msgid "Obtained $1Tiny Enduring Snow$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@915
+msgid "Obtained $1Enduring Snow$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@929
+msgid "Obtained $1Holy Water$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@943
+msgid "Obtained $1Natural Thread$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@957
+msgid "Obtained $1Obsidian Needle$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@971
+msgid "Obtained $1Letter Set$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@985
+msgid "Obtained $1Heart Sticker$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@999
+msgid "Obtained $1Commissioner File$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1013
+msgid "Obtained $1Lockbox Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1027
+msgid "Obtained $1Round Jewel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1041
+msgid "Obtained $1Circular Jewel$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1055
+msgid "Obtained $1Stuffed Animal$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1069
+msgid "Obtained $1Memorable Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1083
+msgid "Obtained $1Rage Marked Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1097
+msgid "Obtained $1Protocol$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1111
+msgid "Obtained $1Crystal Chess Set$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1125
+msgid "Obtained $1Volleyball$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1139
+msgid "Obtained $1Milk Carton$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1153
+msgid "Obtained $1Alice's Heart Key$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1167
+msgid "Obtained $1Hot Springs Ticket$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1181
+msgid "Obtained $1Cocoa$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1195
+msgid "Obtained $1Key to Shin's Room$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1209
+msgid "Obtained $1ID Card$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1223
+msgid "Obtained $1Symbol of Sin$2"
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1237
+msgid "Obtained $1Girl's Wish25$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1251
+msgid "Obtained $1Girl's Wish26$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1265
+msgid "Obtained $1Girl's Wish27$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1279
+msgid "Obtained $1Girl's Wish28$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1293
+msgid "Obtained $1Girl's Wish29$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1307
+msgid "Obtained $1Girl's Wish30$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1321
+msgid "Obtained $1Girl's Wish31$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1335
+msgid "Obtained $1Girl's Wish32$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1349
+msgid "Obtained $1Girl's Wish33$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1363
+msgid "Obtained $1Girl's Wish34$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1377
+msgid "Obtained $1Girl's Wish35$2."
+msgstr ""
+
+#: func06_GET_KBOX_MESSAGE@1391
+msgid "Obtained $1Girl's Wish36$2."
+msgstr ""
+
+#: gate_item_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_item_close@17
+msgid ""
+"There's one key hole.\n"
+"It appears you need $1one key$2 to open the gate."
+msgstr ""
+
+#: gate_item_close@30
+msgid ""
+"There's two key holes.\n"
+"It appears you need $1two keys$2 to open the gate."
+msgstr ""
+
+#: gate_switch_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_switch_miss@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_miss@5
+msgid ""
+"Tried using the switch\n"
+"but it didn't do anything..."
+msgstr ""
+
+#: gate_switch_opened@4
+msgid "$0"
+msgstr ""
+
+#: gate_switch_opened@5
+msgid "There's no need to use it anymore."
+msgstr ""
+
+#: gate_enemy_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_enemy_close@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: ice_gate@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: ice_gate_op@4
+msgid "$0"
+msgstr ""
+
+#: ice_gate_op@5
+msgid "Not enough CM..."
+msgstr ""
+
+#: school_gate@4
+msgid "$0"
+msgstr ""
+
+#: school_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: big_gate@4
+msgid "$0"
+msgstr ""
+
+#: big_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: come_back_gate@4
+msgid "$0"
+msgstr ""
+
+#: come_back_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: space_gate@4
+msgid "$0"
+msgstr ""
+
+#: space_gate@5
+msgid "The gate is closed tight."
+msgstr ""
+
+#: gate_after_close@4
+msgid "$0"
+msgstr ""
+
+#: gate_after_close@5
+msgid ""
+"It appears the gate is\n"
+"sealed by some special power.\n"
+"You can't open it for now..."
+msgstr ""
+
+#: skill_kis@58
+msgid "$0"
+msgstr ""
+
+#: skill_kis@59
+msgid ""
+"It appears there are $1$5$2 treasure chests\n"
+"left on this floor.\n"
+"(Excluding event treasure chests)"
+msgstr ""
+
+#: skill_ran@9
+msgid "$0"
+msgstr ""
+
+#: skill_ran@10
+msgid "The Convicts in the area have disappeared."
+msgstr ""
+
+#: skill_ran2@5
+msgid "$0"
+msgstr ""
+
+#: skill_ran2@6
+msgid "Alert Move has been exhausted."
+msgstr ""
+
+#: skill_not@21
+msgid "$0"
+msgstr ""
+
+#: skill_not@22
+msgid ""
+"It appears you can't use that\n"
+"while the gate is closed."
+msgstr ""
+
+#: skill_not@35
+msgid "$0"
+msgstr ""
+
+#: skill_not@36
+msgid ""
+"You can't go back.\n"
+"Don't leave your party."
+msgstr ""
+
+#: skill_not@44
+msgid "$0"
+msgstr ""
+
+#: skill_not@45
+msgid "It appears you can't use that here."
+msgstr ""
+
+#: skill_not2@5
+msgid "$0"
+msgstr ""
+
+#: skill_not2@6
+msgid ""
+"You can't use that \n"
+"skill right now."
+msgstr ""
+
+#: sub_title_school@35
+msgid "16:00 Kyoka Kisaragi's Memory"
+msgstr ""
+
+#: sub_title_school@49
+msgid "16:00 Kayoko Rando's Memory"
+msgstr ""
+
+#: sub_title_school@63
+msgid "16:00 Yuri Mizuna's Memory"
+msgstr ""
+
+#: sub_title_school@77
+msgid "16:00 Tomoe Harukawa's Memory"
+msgstr ""
+
+#: sub_title_school@91
+msgid "16:00 Sako Katagi's Memory"
+msgstr ""
+
+#: sub_title_school@105
+msgid "16:00 Yuko Katagi's Memory"
+msgstr ""
+
+#: sub_title_school@119
+msgid "16:00 Makoto Hatsurai's Memory"
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@5
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@19
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@33
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@47
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: func06_GET_TBOX_MESSAGE@61
+msgid "Obtained $1Potion$2 x 0."
+msgstr ""
+
+#: get_treasure@88
+msgid "You can't carry any more items."
+msgstr ""
+
+#: get_treasure@96
+msgid ""
+"Destroy the items you\n"
+"can't carry?"
+msgstr ""
+
+#: get_treasure@100
+msgid ""
+"Destroy the items you\n"
+"can't carry?"
+msgstr ""
+
+#: get_treasure@101
+msgid "No"
+msgstr ""
+
+#: get_treasure@102
+msgid "Yes"
+msgstr ""
+
+#: get_treasure@120
+msgid "Destroyed the items you couldn't carry."
+msgstr ""
+
+#: get_treasure@166
+msgid "Leave in the chest."
+msgstr ""
+
+#: get_treasure@175
+msgid "Already opened."
+msgstr ""
+
+#: key_get_treasure@51
+msgid "Already opened."
+msgstr ""
+
+#: get_treasure_kizuna@46
+msgid "$0"
+msgstr ""
+
+#: get_treasure_kizuna@47
+msgid ""
+"Can't open chest.\n"
+"Looks like you're missing the bond..."
+msgstr ""
+
+#: get_treasure_kizuna@56
+msgid "Already opened."
+msgstr ""
+
+#: msg_kizuna_skill@12
+msgid "$3Kisaragi$2 learned $1Flame Fist$2."
+msgstr ""
+
+#: msg_kizuna_skill@26
+msgid "$3Kisaragi$2 learned $1Hunt and Heal$2."
+msgstr ""
+
+#: msg_kizuna_skill@44
+msgid "$3Ran$2 learned $1True Defense$2."
+msgstr ""
+
+#: msg_kizuna_skill@58
+msgid "$3Ran$2 learned $1Shield Smash$2."
+msgstr ""
+
+#: msg_kizuna_skill@76
+msgid "$3Alice$2 learned $1The Return$2."
+msgstr ""
+
+#: msg_kizuna_skill@90
+msgid "$3Alice$2 learned $1Slacking Nurse$2."
+msgstr ""
+
+#: msg_kizuna_skill@108
+msgid "$3Tomoe$2 learned $1Freezing Sword$2."
+msgstr ""
+
+#: msg_kizuna_skill@122
+msgid "$3Tomoe$2 learned $1Bolt Sword$2."
+msgstr ""
+
+#: msg_kizuna_skill@140
+msgid "$3Sako$2 learned $1Sako Cheer!$2."
+msgstr ""
+
+#: msg_kizuna_skill@154
+msgid "$3Sako$2 learned $1Sako's Mark$2."
+msgstr ""
+
+#: msg_kizuna_skill@172
+msgid "$3Yuko$2 learned $1Sako Punch!$2."
+msgstr ""
+
+#: msg_kizuna_skill@186
+msgid "$3Yuko$2 learned $1Bad Festival$2."
+msgstr ""
+
+#: msg_kizuna_skill@204
+msgid "$3Shin$2 learned $1OPR Venom$2."
+msgstr ""
+
+#: msg_kizuna_skill@218
+msgid "$3Shin$2 learned $1OPR Heaven$2."
+msgstr ""
+
+#: msg_kizuna_skill@236
+msgid "$3Miu$2 learned $1Just Desserts$2."
+msgstr ""
+
+#: msg_kizuna_skill@250
+msgid "$3Miu$2 learned $1Peak Condition$2."
+msgstr ""
+
+#: msg_kizuna_skill@268
+msgid "$3Himekami$2 learned $1Overkill$2."
+msgstr ""
+
+#: msg_kizuna_skill@282
+msgid "$3Himekami$2 learned $1End of Karma$2."
+msgstr ""
+
+#: lockde_box@5
+msgid "The treasure chest is locked."
+msgstr ""
+
+#: gate_item@57
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_switch@40
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_enemy@62
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: party_gate_open@85
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_school@97
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: gate_after@20
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: boss_gate@96
+msgid "The gate was unlocked!"
+msgstr ""
+
+#: func04_EV08_08_0100D@29
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_08_0100D@30
+msgid ""
+"Hey, isn't that the gate to the mortal world?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0101D@14
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_08_0101D@15
+msgid ""
+"I look to where $3Yuko$2 is pointing.\n"
+"There's definitely a gate there, and it\n"
+"might just be the one leading home.\n"
+msgstr ""
+
+#: func04_EV08_08_0102D@32
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_08_0102D@33
+msgid ""
+"You're right. But, like, why is it here?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0102D@55
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_08_0102D@56
+msgid ""
+"There isn't just a single gate to the real\n"
+"world, and this is the final trial...\n"
+"It's not strange for it to be here.\n"
+msgstr ""
+
+#: func04_EV08_08_0102D@81
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_08_0102D@82
+msgid ""
+"Well, that's convenient. It'll save us\n"
+"all the time of backtracking to the\n"
+"other one that we found.\n"
+msgstr ""
+
+#: func04_EV08_08_0110D@16
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0110D@17
+msgid ""
+"Oh my. You don't seem to be done cleansing\n"
+"those two girls of their sins.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0110D@24
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0110D@25
+msgid ""
+"Once you've taken care of that, head on\n"
+"back over here, okay?\n"
+msgstr ""
+
+#: func04_EV08_08_0120D@32
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_08_0120D@33
+msgid ""
+"Hey, come on out! These two have finished\n"
+"up with their trials!\n"
+msgstr ""
+
+#: func04_EV08_08_0120D@42
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_08_0120D@43
+msgid ""
+"We're all done now, right!? Open the gate!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@22
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@23
+msgid ""
+"...I have confirmed that both $3Himekami$2\n"
+"and $3Miu$2 have completed the Reformation\n"
+"Program.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@30
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@31
+msgid ""
+"However, I cannot allow you to pass\n"
+"through this gate.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@53
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_08_0130D@54
+msgid ""
+"Huuuuuh!? What're you talking about!?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@76
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_08_0130D@77
+msgid ""
+"Yeah! We've all finished our trials, so\n"
+"even these two have like, totally overcome\n"
+"their sins, right?\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@90
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@91
+msgid ""
+"While you were completing the trials, we\n"
+"managed to piece together the database\n"
+"that just happened to have been destroyed.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@98
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@99
+msgid ""
+"From its records, you ten appear to be\n"
+"in violation of several regulations as well\n"
+"as responsible for its destruction.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@106
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@107
+msgid ""
+"So you're all just going to sit tight and\n"
+"await your punishment from the committee.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@129
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_08_0130D@130
+msgid ""
+"...I see. So you're going to start\n"
+"down that path, huh?\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@139
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_08_0130D@140
+msgid ""
+"You know, I rarely get angry, but you're\n"
+"seriously starting to piss me off.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@159
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_08_0130D@160
+msgid ""
+"I'm totally with you. This is just what\n"
+"we should have expected from the management\n"
+"in Hell. It's totally ridiculous!\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@185
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_08_0130D@186
+msgid ""
+"But what do we do? We can't beat them, right?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@211
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_08_0130D@212
+msgid ""
+"...Wait, everyone. We don't need to\n"
+"beat them.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@221
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_08_0130D@222
+msgid ""
+"Don't get distracted. What's our purpose?\n"
+"It's not defeating them, it's getting back\n"
+"to the mortal world.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@247
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_08_0130D@248
+msgid ""
+"...You're right. I knew you were smart, $3Miu$2.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@273
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_08_0130D@274
+msgid "Huh? What do you mean?\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@299
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_08_0130D@300
+msgid ""
+"Remember, Shaitan may come back, but\n"
+"it takes some time.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@309
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_08_0130D@310
+msgid ""
+"We just have to wait for when Shaitan\n"
+"is down, then rush the gate.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@335
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_08_0130D@336
+msgid ""
+"So, you're saying that we should just\n"
+"forget defeating Shaitan permanently, and\n"
+"focus on opening the gate, right?\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@358
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_08_0130D@359
+msgid "That's right.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@384
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_08_0130D@385
+msgid ""
+"B-But, is that even possible...?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@410
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_08_0130D@411
+msgid ""
+"It's going to be all right, $3Yuko$2.\n"
+"We've got this far!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@436
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_08_0130D@437
+msgid ""
+"She's right, $3Yuko$2. We've made it all the\n"
+"way here. Let's get back to the mortal world\n"
+"now, no matter what.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@462
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_08_0130D@463
+msgid "...You're right. I'm gonna do my best.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@481
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@482
+msgid ""
+"Hahaha, are you lot done with your chatting?\n"
+"No matter what scheme you come up with\n"
+"it'll be wasted effort. I am perfect.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@489
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@490
+msgid ""
+"If I am capable of restraining you while\n"
+"the new, updated system couldn't, then\n"
+"that would make me superior.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@497
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@498
+msgid ""
+"Heheh, I'm looking forward to taking\n"
+"you all down.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@505
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_08_0130D@506
+msgid ""
+"Now then, in accordance with regulation, \n"
+"Shaitan, the bomb-dot-com, will take\n"
+"you all down.\n"
+msgstr ""
+
+#: func04_EV08_08_0130D@522
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_08_0130D@523
+msgid ""
+"...Here it comes! Be careful!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0100D@29
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_09_0100D@30
+msgid ""
+"Now! Everyone run!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0110D@32
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_09_0110D@33
+msgid "N-Not yet? $3Sako$2?\n"
+msgstr ""
+
+#: func04_EV08_09_0110D@59
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_09_0110D@60
+msgid "Ughnnnuh... This thing's tough.\n"
+msgstr ""
+
+#: func04_EV08_09_0110D@85
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_09_0110D@86
+msgid ""
+"We're not getting anywhere.\n"
+"Let's force it open!\n"
+msgstr ""
+
+#: func04_EV08_09_0120D@32
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV08_09_0120D@33
+msgid "It opened!\n"
+msgstr ""
+
+#: func04_EV08_09_0120D@55
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0120D@56
+msgid "Hurry up and go in!\n"
+msgstr ""
+
+#: func04_EV08_09_0130D@29
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_09_0130D@30
+msgid "It can regenerate that fast?!\n"
+msgstr ""
+
+#: func04_EV08_09_0140D@23
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_09_0140D@24
+msgid ""
+"Teehee, bwahahaha! Unfortunately for all of\n"
+"you, your course of action was well within\n"
+"my expectations of you.\n"
+msgstr ""
+
+#: func04_EV08_09_0140D@31
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_09_0140D@32
+msgid ""
+"Didn't I tell you that I wouldn't overlook\n"
+"any acts of violence anymore? Didn't I?\n"
+"Well, didn't I!?\n"
+msgstr ""
+
+#: func04_EV08_09_0140D@48
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_09_0140D@49
+msgid "Operation...failed?\n"
+msgstr ""
+
+#: func04_EV08_09_0140D@64
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_09_0140D@65
+msgid ""
+"Haha. I too am integrated into Hell itself.\n"
+"I cannot be demolished.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0140D@72
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_09_0140D@73
+msgid ""
+"I am still in my prime. I am ready for\n"
+"prime time. I'm perfect. I will not allow\n"
+"you to escape. Hahaha.\n"
+msgstr ""
+
+#: func04_EV08_09_0140D@89
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_09_0140D@90
+msgid "...Miss $3Miu$2.\n"
+msgstr ""
+
+#: func04_EV08_09_0140D@115
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0140D@116
+msgid "...Understood, $3Himekami$2.\n"
+msgstr ""
+
+#: func04_EV08_09_0140D@141
+msgid "Alice"
+msgstr ""
+
+#: func04_EV08_09_0140D@142
+msgid ""
+"...! $3Miu$2, $3Himekami$2, no!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@23
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_09_0150D@24
+msgid ""
+"...!? What are you!?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@40
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_09_0150D@41
+msgid "Wh-What are you guys doing!?\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@63
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0150D@64
+msgid ""
+"That's my line! Hurry up and go!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@89
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_09_0150D@90
+msgid ""
+"What're you saying!? What're you guys gonna do!?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@117
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_09_0150D@118
+msgid "We're fine!\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@143
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_09_0150D@144
+msgid ""
+"What are you blabbering about? We're all\n"
+"going back together, aren't we!?\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@166
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_09_0150D@167
+msgid ""
+"I wanted to go back too. I want to return\n"
+"with everyone and hang out together.\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@191
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_09_0150D@192
+msgid ""
+"But I couldn't forgive myself if you\n"
+"all weren't able to return because of\n"
+"my own selfish wants.\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@217
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0150D@218
+msgid ""
+"She's right. I'd do anything to ensure\n"
+"that you can all return safely.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@227
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0150D@228
+msgid "So you girls go home.\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@253
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_09_0150D@254
+msgid "...Don't mess with us!\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@279
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_09_0150D@280
+msgid ""
+"Do you, like, really think that we'd all\n"
+"be content with this!?\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@305
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV08_09_0150D@306
+msgid ""
+"That's right. If you do something like that, \n"
+"I'll curse you for the rest of my life!\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@331
+msgid "Alice"
+msgstr ""
+
+#: func04_EV08_09_0150D@332
+msgid "Everyone...all together...!\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@357
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_09_0150D@358
+msgid "That's right! We're all going home!\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@383
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_09_0150D@384
+msgid ""
+"There's no way we can leave you two behind!\n"
+"\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@409
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_09_0150D@410
+msgid ""
+"Overruled! Your proposal is rejected!\n"
+"I won't allow any objections!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0150D@419
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_09_0150D@420
+msgid "Everyone, ready yourselves!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@32
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_09_0160D@33
+msgid ""
+"We're going to destroy Shaitan one more\n"
+"time, and all go together!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@55
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_09_0160D@56
+msgid "Okay!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@81
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_09_0160D@82
+msgid "I'm in!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@107
+msgid "Alice"
+msgstr ""
+
+#: func04_EV08_09_0160D@108
+msgid "Do it...!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@133
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_09_0160D@134
+msgid "Roger!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@159
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_09_0160D@160
+msgid "I'll do my best!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@185
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV08_09_0160D@186
+msgid "Let's go!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@211
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_09_0160D@212
+msgid "...$3$0$2! The signal!\n"
+msgstr ""
+
+#: func04_EV08_09_0160D@222
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_09_0160D@223
+msgid "Got it!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@15
+msgid "Do it now!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@16
+msgid "Go!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@30
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_09_0161D@31
+msgid "Gooooo!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@40
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_09_0161D@41
+msgid "Uuuryaaaa!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@50
+msgid "Alice"
+msgstr ""
+
+#: func04_EV08_09_0161D@51
+msgid "Disappear!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@60
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_09_0161D@61
+msgid "Fly away!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@70
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_09_0161D@71
+msgid "Crushhhhh!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@80
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV08_09_0161D@81
+msgid "We're going to wreck you!\n"
+msgstr ""
+
+#: func04_EV08_09_0161D@90
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_09_0161D@91
+msgid "Haaaaaaah!\n"
+msgstr ""
+
+#: func04_EV08_09_0170D@40
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0170D@41
+msgid "Shaitan's...!?\n"
+msgstr ""
+
+#: func04_EV08_09_0170D@63
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_09_0170D@64
+msgid "$3Himekami$2, $3Miu$2! Hurry!\n"
+msgstr ""
+
+#: func04_EV08_09_0180D@14
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_09_0180D@15
+msgid ""
+"...They escaped? I allowed their escape?\n"
+"I...?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0180D@22
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_09_0180D@23
+msgid ""
+"Impossible... IMPOSSIBLE!\n"
+"I am a perfect system. \n"
+"A perfect system never fails...\n"
+msgstr ""
+
+#: func04_EV08_09_0181D@14
+msgid "Shaitan"
+msgstr ""
+
+#: func04_EV08_09_0181D@15
+msgid "I... I...\n"
+msgstr ""
+
+#: func04_EV08_09_0190D@22
+msgid "Announce"
+msgstr ""
+
+#: func04_EV08_09_0190D@23
+msgid ""
+"Warning! System AI activity cannot\n"
+"be confirmed.\n"
+msgstr ""
+
+#: func04_EV08_09_0190D@30
+msgid "Announce"
+msgstr ""
+
+#: func04_EV08_09_0190D@31
+msgid ""
+"Please reboot the System AI immediately!\n"
+"...I repeat!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0200D@40
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_09_0200D@41
+msgid ""
+"Jeez! The next time you say something stupid, \n"
+"I'm going to smack you!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0200D@63
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_09_0200D@64
+msgid "S-Sorry...\n"
+msgstr ""
+
+#: func04_EV08_09_0200D@89
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV08_09_0200D@90
+msgid ""
+"You're no longer part of the management\n"
+"either, $3Miu$2. You mustn't risk yourself.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0200D@115
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0200D@116
+msgid ""
+"...Understood. Sorry.\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0200D@141
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_09_0200D@142
+msgid ""
+"Well, nevertheless, I'm glad we were\n"
+"able to escape safely.\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@42
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_09_0210D@43
+msgid ""
+"All that's left is to return safely, right?\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@65
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_09_0210D@66
+msgid ""
+"But, if we go back, everyone's going\n"
+"to get split up...\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@91
+msgid "Alice"
+msgstr ""
+
+#: func04_EV08_09_0210D@92
+msgid "$3Alice$2...will miss you...\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@117
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV08_09_0210D@118
+msgid ""
+"Argh! Jeez! Let's stop with the gloomy mood!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@143
+msgid "Ran"
+msgstr ""
+
+#: func04_EV08_09_0210D@144
+msgid ""
+"She's right! We might find that we\n"
+"all live remarkably close to each other!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@169
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV08_09_0210D@170
+msgid "Maybe we even go to the same school.\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@195
+msgid "Shin"
+msgstr ""
+
+#: func04_EV08_09_0210D@196
+msgid "I'm like, 20...\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@221
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV08_09_0210D@222
+msgid ""
+"Ugh... But, but, there's always like part-time\n"
+"schooling, and online classes...!\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@247
+msgid "Sako"
+msgstr ""
+
+#: func04_EV08_09_0210D@248
+msgid ""
+"Maybe $3$0$2 could even be our teacher!\n"
+"\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@273
+msgid "Alice"
+msgstr ""
+
+#: func04_EV08_09_0210D@274
+msgid "And $3Miu$2 could be our guidance counselor?\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@299
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV08_09_0210D@300
+msgid ""
+"Heheheh... That sounds like real fun!\n"
+"\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@325
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0210D@326
+msgid ""
+"Jeez... You girls are...\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@335
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0210D@336
+msgid ""
+"...$3$0$2. You really did well with these girls.\n"
+"\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@345
+msgid "Miu"
+msgstr ""
+
+#: func04_EV08_09_0210D@346
+msgid ""
+"I'm so glad you were here...\n"
+"\n"
+msgstr ""
+
+#: func04_EV08_09_0210D@356
+msgid "$0"
+msgstr ""
+
+#: func04_EV08_09_0210D@357
+msgid ""
+"Now then, let's go back together.\n"
+"Back to our happy, normal lives.\n"
+msgstr ""
+
+#: func04_EV99_07_0010A@25
+msgid "$0"
+msgstr ""
+
+#: func04_EV99_07_0010A@26
+msgid ""
+"In a certain classroom after school...\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0010A@33
+msgid "$0"
+msgstr ""
+
+#: func04_EV99_07_0010A@34
+msgid ""
+"The girls' chatter rings throughout\n"
+"the hallways.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@27
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV99_07_0110A@28
+msgid ""
+"Whaaat! That's like totally boring!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@37
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV99_07_0110A@38
+msgid ""
+"Maybe, but aren't flowers the best choice\n"
+"at times like this?\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@47
+msgid "Sako"
+msgstr ""
+
+#: func04_EV99_07_0110A@48
+msgid ""
+"I think food is good too!\n"
+"Like cakes, meat...\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@57
+msgid "Alice"
+msgstr ""
+
+#: func04_EV99_07_0110A@58
+msgid ""
+"Something memorable would be good...\n"
+"Like the statue of this cat god...\n"
+"It is highly recommended...\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@67
+msgid "Miu"
+msgstr ""
+
+#: func04_EV99_07_0110A@68
+msgid ""
+"Something practical might be good.\n"
+"Like watches and stuff.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@77
+msgid "Ran"
+msgstr ""
+
+#: func04_EV99_07_0110A@78
+msgid ""
+"Jeez! This is going nowhere.\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@87
+msgid "Ran"
+msgstr ""
+
+#: func04_EV99_07_0110A@88
+msgid ""
+"We got together to plan $3$0$2's birthday\n"
+"party, but we're getting nowhere.\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@97
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV99_07_0110A@98
+msgid ""
+"We gotta decide soon... His birthday's\n"
+"next Sunday, you know.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@107
+msgid "Shin"
+msgstr ""
+
+#: func04_EV99_07_0110A@108
+msgid ""
+"Well, it can't be helped. We've never\n"
+"all agreed about something before.\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@117
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV99_07_0110A@118
+msgid ""
+"Ehehe... I totally forgot that's true.\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@127
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV99_07_0110A@128
+msgid ""
+"Um... How about we make something together?\n"
+"\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@137
+msgid "Sako"
+msgstr ""
+
+#: func04_EV99_07_0110A@138
+msgid ""
+"Make something? What're we gonna make?\n"
+"Like hamburger steak? Omelette rice?\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@147
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV99_07_0110A@148
+msgid ""
+"N-Not like that... Like how we make a card\n"
+"and all write out our own message on it.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@157
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV99_07_0110A@158
+msgid ""
+"Hmm. That's good too, but isn't that\n"
+"kind of...plain?\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@167
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV99_07_0110A@168
+msgid ""
+"She's right... I want to do something bigger.\n"
+"\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@177
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV99_07_0110A@178
+msgid ""
+"It's the birthday of the person who\n"
+"got us all out of Hell, after all.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@187
+msgid "Shin"
+msgstr ""
+
+#: func04_EV99_07_0110A@188
+msgid ""
+"We gotta do something special.\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@197
+msgid "Alice"
+msgstr ""
+
+#: func04_EV99_07_0110A@198
+msgid ""
+"What does everyone want the most...?\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@207
+msgid "Sako"
+msgstr ""
+
+#: func04_EV99_07_0110A@208
+msgid ""
+"Huh!? What *we* want the most? Not $3$0$2?\n"
+"\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@217
+msgid "Alice"
+msgstr ""
+
+#: func04_EV99_07_0110A@218
+msgid ""
+"$3Alice$2 doesn't know what $3$0$2 wants...\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@227
+msgid "Alice"
+msgstr ""
+
+#: func04_EV99_07_0110A@228
+msgid ""
+"So if we give him something we want...\n"
+"$3$0$2 will be happy still...\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@237
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV99_07_0110A@238
+msgid ""
+"Hmm... I see, I see. Yep! \n"
+"That sounds like a good idea!\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@247
+msgid "Shin"
+msgstr ""
+
+#: func04_EV99_07_0110A@248
+msgid "But what we want the most...?\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@257
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV99_07_0110A@258
+msgid ""
+"I...definitely want $3$0$2 himself...Å\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@267
+msgid "Ran"
+msgstr ""
+
+#: func04_EV99_07_0110A@268
+msgid ""
+"Hey, hey, hey! $3Tomoeeeee$2!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@277
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV99_07_0110A@278
+msgid ""
+"But, I feel that way too...\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@287
+msgid "Sako"
+msgstr ""
+
+#: func04_EV99_07_0110A@288
+msgid "Y-$3Yuko$2!?\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@297
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV99_07_0110A@298
+msgid ""
+"Ehehe... I want $3$0$2 all to\n"
+"myself sometimes.Å\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@307
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV99_07_0110A@308
+msgid "Y-You're, like, totally right...\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@317
+msgid "Shin"
+msgstr ""
+
+#: func04_EV99_07_0110A@318
+msgid "Well, yeah...\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@327
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV99_07_0110A@328
+msgid ""
+"Ever since we got back to the mortal world, \n"
+"we've always been together.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@337
+msgid "Alice"
+msgstr ""
+
+#: func04_EV99_07_0110A@338
+msgid ""
+"But stalling is no good...\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@347
+msgid "Miu"
+msgstr ""
+
+#: func04_EV99_07_0110A@348
+msgid ""
+"She's right. If we're going to do this, \n"
+"we should attack it head on.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@357
+msgid "Ran"
+msgstr ""
+
+#: func04_EV99_07_0110A@358
+msgid ""
+"Hm... Then how should we do it?\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@367
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV99_07_0110A@368
+msgid ""
+"How about we decide on an order, and then\n"
+"everyone gets a date with Mr. $3$0$2!?\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@377
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV99_07_0110A@378
+msgid ""
+"Wow! That sounds like a great plan!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@387
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV99_07_0110A@388
+msgid ""
+"Wouldn't he get tired after all of us?\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@397
+msgid "Ran"
+msgstr ""
+
+#: func04_EV99_07_0110A@398
+msgid ""
+"No problem! That old man's sturdy.\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@407
+msgid "Miu"
+msgstr ""
+
+#: func04_EV99_07_0110A@408
+msgid ""
+"Haha, but can he be trusted?\n"
+"\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@417
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV99_07_0110A@418
+msgid ""
+"Okay, how about we all, like, meet at\n"
+"$3$0$2's room afterward, and do a\n"
+"surprise birthday party?\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@427
+msgid "Sako"
+msgstr ""
+
+#: func04_EV99_07_0110A@428
+msgid ""
+"Wee! That sounds like fun!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@437
+msgid "Alice"
+msgstr ""
+
+#: func04_EV99_07_0110A@438
+msgid ""
+"We must decide...the date order...\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@447
+msgid "Shin"
+msgstr ""
+
+#: func04_EV99_07_0110A@448
+msgid ""
+"Then to avoid hurt feelings, let's decide\n"
+"in our usual way.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@457
+msgid "Ran"
+msgstr ""
+
+#: func04_EV99_07_0110A@458
+msgid ""
+"...Yeah!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@467
+msgid "All"
+msgstr ""
+
+#: func04_EV99_07_0110A@468
+msgid "Rock, paper, scissors!\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@487
+msgid "Himekami"
+msgstr ""
+
+#: func04_EV99_07_0110A@488
+msgid ""
+"Ah! $3$0$2!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@497
+msgid "Ran"
+msgstr ""
+
+#: func04_EV99_07_0110A@498
+msgid ""
+"We were just talking about you.\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@507
+msgid "Kisaragi"
+msgstr ""
+
+#: func04_EV99_07_0110A@508
+msgid ""
+"Why're you zoning out? Come in! Come in!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@517
+msgid "Tomoe"
+msgstr ""
+
+#: func04_EV99_07_0110A@518
+msgid ""
+"Hey, do you have any plans for next Sunday?\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@527
+msgid "Yuko"
+msgstr ""
+
+#: func04_EV99_07_0110A@528
+msgid "You'd cancel everything for us, right?\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@537
+msgid "Shin"
+msgstr ""
+
+#: func04_EV99_07_0110A@538
+msgid ""
+"You're asking why? Don't be so rude!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@547
+msgid "Sako"
+msgstr ""
+
+#: func04_EV99_07_0110A@548
+msgid ""
+"We're gonna have a reaaal fun plan!\n"
+"\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@557
+msgid "Miu"
+msgstr ""
+
+#: func04_EV99_07_0110A@558
+msgid "So you'd better look forward to it.\n"
+msgstr ""
+
+#: func04_EV99_07_0110A@567
+msgid "Alice"
+msgstr ""
+
+#: func04_EV99_07_0110A@568
+msgid ""
+"$3Alice$2 wishes it was Sunday already...♪\n"
+"\n"
+msgstr ""

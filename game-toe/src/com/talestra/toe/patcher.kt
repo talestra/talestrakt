@@ -4,7 +4,7 @@ import com.soywiz.korio.async.sync
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.openAsIso
-import com.talestra.talesof.comlib.Decode
+import com.talestra.talesof.complib.Decode
 import java.io.File
 
 fun main(args: Array<String>) = sync {
