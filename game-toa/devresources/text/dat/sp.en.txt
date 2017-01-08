@@ -1,0 +1,893 @@
+-> ダミー
+説明文章
+
+-> Radiant Howl
+ 
+
+-> Radiant Howl
+ 
+
+-> Lost Fon Drive
+ 
+
+-> Fang Blade
+Base: Slash the enemy down, then up into the air.
+
+-> Lightning Tiger Blade
+Arte: Call forth lightning to attack surrounding enemies.
+
+-> Havoc Strike
+Base: A fierce kick attack from above.
+
+-> Burning Havoc
+Arte: A fiery mid-air kick followed by an explosion
+upon impact.
+
+-> Rending Thrust
+Base: A thrust attack followed by an uppercut.
+
+-> Rending Quake
+Arte: A thrust attack followed by an earth-shattering
+punch.
+
+-> Raging Blast
+Base: Unleash a burst of power from within that downs
+the enemy.
+
+-> Frigid Blast
+Arte: Unleash a cold burst of power from within that
+freezes and downs the enemy.
+
+-> Steel
+Base: Concentrate and temporarily raise your chances
+of making a critical hit.
+
+-> Coil
+Arte: Concentrate and temporarily raise your physical
+attack power.
+
+-> Swallow Fury
+Arcane: A flurry of slashes and kicks.
+
+-> Shadow Fury
+Arte: A blinding flurry of slashes and kicks that cut
+through the darkness.
+
+-> Guardian Field
+Arcane: Light emanating from your sword damages
+surrounding enemies and heals all allies within range.
+
+-> Guardian Frost
+Arte: Freezing energy emanating from your sword
+damages the enemy.
+
+-> Light Spear Cannon
+Arcane: A spinning blade attack that knocks the enemy
+into the air.
+
+-> Light Blast
+Arte: A powerful gust holds the enemy in mid-air for a
+series of thrust attacks.
+
+-> Devil's Inferno
+Arcane: A fiery blast from your sword sends
+frontal enemies flying.
+
+-> Devil's Maw
+Arte: Rocks spew forth from the earth and damage
+frontal enemies.
+
+-> Guardian
+Arcane: Increases defense against certain attacks.
+
+-> Fang Blade Havoc
+Arcane: A combination of Fang Blade & Havoc Strike.
+
+-> Rending Fang Blade
+Arcane: A combination of Fang Blade & Rending
+Thrust.
+
+-> Fang Blade Rage
+Arcane: A combination of Fang Blade & Raging Blast.
+
+-> Rending Havoc
+Arcane: A combination of Havoc Strike & Rending
+Thrust.
+
+-> Raging Havoc
+Arcane: A combination of Havoc Strike & Raging Blast.
+
+-> Rending Blast
+Arcane: A combination of Rending Thrust & Raging
+Blast.
+
+-> Demon Fist
+Base: Unleash a powerful shockwave along the ground.
+
+-> Lightning Blade
+Arcane: An electrifying thrust attack.
+
+-> Slag Assault
+Arcane: Strike the earth and send rock fragments
+flying towards the enemy.
+
+-> Sonic Blast
+Arcane: Rapid thrusts create powerful wind blasts that
+send the enemy flying.
+
+-> Sonic Thrust
+Base: Powerful thrusts that down the enemy.
+
+-> Innocent Shine
+ 
+
+-> Fortune's Arc
+ 
+
+-> Pow Hammer
+Base: A pow hammer knocks the enemy silly.
+Sometimes renders the enemy unconscious.
+
+-> Frozen Hammer
+Arte: A barrage of frozen hammers knock the enemy
+silly.
+
+-> Nocturnal Light
+Base: Hurl blades towards the enemy.
+
+-> Inlay Nocturne
+Arte: Shatter a crystal and send its shards flying 
+towards the enemy.
+
+-> Severed Fate
+Arcane: Jump and throw blades that create a damaging
+force field when they pierce the ground.
+
+-> Fatal Circle
+Arte: Jump and throw blades that create a fonic
+circle that damages the enemy.
+
+-> Banishing Sorrow
+Arcane: Attack the enemy with a blast of fonic power.
+
+-> Searing Sorrow
+Arte: Launch a giant ball of flame towards the enemy.
+
+-> Invoke Ground
+Novice: Invoke an earth-based FOF.
+
+-> Invoke Aqua
+Novice: Invoke a water-based FOF.
+
+-> Invoke Flame
+Novice: Invoke a fire-based FOF.
+
+-> Invoke Gale
+Novice: Invoke a wind-based FOF.
+
+-> Nightmare
+Hymn: Use the First Fonon to put targeted enemies
+to sleep. 
+
+-> Force Field
+Hymn: Use the Second Fonon to temporarily protect
+all allies within range.
+
+-> Resurrection
+High: Revive one fallen ally.
+
+-> Regenerate
+Fonic: Revive all fallen allies within range.
+
+-> Enhance Cast
+Mid: Shorten the casting time for one ally.
+
+-> Witchcraft
+Fonic: Shorten the casting time of all allies within
+range and lengthens the enemy's casting time.
+
+-> Charge
+Novice: Give some of your TP to one ally.
+
+-> Tribute
+Fonic: Give some of your TP to all allies.
+
+-> Eclair de Larmes
+Mid: Burn a glyph into the ground that damages all
+enemies standing on it.
+
+-> Flamme Rouge
+Fonic: Engulf the targeted enemy in a pillar of fire.
+
+-> Holy Lance
+High: The targeted enemy is showered with sacred
+spears of light.
+
+-> Cluster Raid
+Fonic: Crystal shards rain down and damage the enemy.
+
+-> First Aid
+Novice: Restore a small amount of HP to one ally.
+
+-> Meditation
+Fonic: Restore a moderate amount of HP to one ally.
+Also cures both magical and physical ailments.
+
+-> Healing Circle
+Mid: Restore a moderate amount of HP to all allies
+within range. Heals all allies when used outside of battle.
+
+-> Fairy Circle
+Hymn: Restore a large amount of HP and heals the
+ailments of all allies within range. Also damages enemies.
+
+-> Revitalize
+Hymn: Use the Fourth Fonon to restore a large amt. of
+HP to allies within range. Heals all allies outside of battle.
+
+-> Holy Song
+Hymn: Use the Third Fonon to increase the attack and
+defense of all allies and restore a small amount of HP.
+
+-> Judgment
+Hymn: Use the Fifth Fonon to summon judgment from
+the heavens and strike down all enemies.
+
+-> Grand Cross
+Hymn: Use the Sixth Fonon to call forth sacred light
+that damages all enemies within range.
+
+-> Mystic Cage
+ 
+
+-> Indignation
+ 
+
+-> Thunder Lance
+Base: Lances infused with lightning rain down upon
+the enemy.
+
+-> Lightning Tempest
+Arte: Damage the enemy with a barrage of lightning
+attacks.
+
+-> Sonic Spear
+Base: A blindingly fast thrust attack.
+
+-> Crushing Spear
+Arte: Shatter a boulder to send rock fragments flying
+towards the enemy.
+
+-> Impaling Heaven
+Arcane: Launch the enemy into the air, then follow up
+with a thrust attack.
+
+-> Goring Hell
+Arte: Launch the enemy into the air, follow up with a
+thrust attack, then finish with an explosion.
+
+-> Sovereign Gale
+Arcane: Summon the wind with your spear to damage
+the enemy.
+
+-> Mighty Deluge
+Arte: Plunge your weapon into the ground to draw forth
+a violent burst of water.
+
+-> Energy Blast
+Novice: Create a small explosion that damages the
+targeted enemy.
+
+-> Photon
+Fonic: Light particles gather and explode multiple times
+to damage the enemy.
+
+-> Drain Magic
+Novice: Absorb TP from the targeted enemy.
+
+-> Absorption
+Fonic: Absorb TP from the enemy and divide it among
+the party.
+
+-> Stalagmite
+Mid: Jagged rocks burst through the ground and attack
+the targeted enemy.
+
+-> Eruption
+Fonic: Lava appears and surrounds the targeted enemy.
+
+-> Ground Dasher
+High: Releases the mighty power of the earth.
+
+-> Frigid Coffin
+Fonic: Summon a frozen mist that crystallizes the
+enemy.
+
+-> Splash
+Mid: Calls forth powerful blasts of water from above.
+
+-> Icicle Rain
+Fonic: Summon a shower of ice blades that rain down
+over a wide area.
+
+-> Blessed Drops
+High: Water bubbles forth and explodes beneath the
+feet of the targeted enemy.
+
+-> Divine Saber
+Fonic: A sacred bolt of lightning pierces the enemy.
+
+-> Flame Burst
+Mid: Create a small burst of fire that damages the
+targeted enemy.
+
+-> Explosion
+Fonic: Create a large explosion that engulfs the area
+surrounding the targeted enemy.
+
+-> Infernal Prison
+High: Surround the targeted enemy in pillars of fire.
+
+-> Raging Mist
+Fonic: Summon burning mist from the charred earth.
+
+-> Turbulence
+Mid: Send the enemy flying with violent blasts of wind.
+
+-> Flare Tornado
+Fonic: Encircle the targeted enemy with a tornado of
+flame.
+
+-> Thunder Blade
+High: Send forth lightning from your blade to attack
+the enemy.
+
+-> Gravity Well
+Fonic: Create a distorted gravity field in the area
+surrounding the enemy.
+
+-> Prism Sword
+High: A blade bathed in light plunges down from the
+heavens.
+
+-> Absolute
+High: Freeze the enemy solid with supercooled air.
+
+-> Meteor Storm
+High: Summon shooting stars from the far corners of
+the universe.
+
+-> Final Fury
+ 
+
+-> Dying Moon
+ 
+
+-> Fever Time
+ 
+
+-> Dragon Surge
+Base: Knock the enemy skyward with a powerful punch.
+
+-> Stone Dragon Ascent
+Arte: A devastating uppercut that sends the earth
+flying into the air along with the enemy.
+
+-> Dual Punishment
+Base: A spinning punch attack.
+
+-> Lightning Punishment
+Arte: A high-powered spinning attack that summons
+a lightning storm.
+
+-> Shadow Raid
+Base: A series of fierce punches.
+
+-> Fire Dragon Blast
+Arte: A blazing series of punches powered by the
+spirit of a fire dragon.
+
+-> Eagle Dive
+Base: Leap into the air and dive down to deliver a
+crushing blow to the enemy.
+
+-> Frigid Raptor
+Arte: Turn into a block of ice and launch yourself at 
+the enemy.
+
+-> Soaring Blast
+Arcane: Jump into the air and hurl a burst of energy
+towards the ground.
+
+-> Brutal Torrent
+Arte: Summon a spout of water from the earth.
+
+-> Cyclone Shot
+Arcane: A full-force spinning attack that sends your
+enemy flying.
+
+-> Cyclone Blaze
+Arte: Launch yourself towards the enemy like a fiery
+missile.
+
+-> Surge Breaker
+Arcane: A mixed series of fonic and strike arte
+attacks.
+
+-> Gungnir A Go Go
+Arte: A combination of attacks culminating in a brutal
+roundhouse punch.
+
+-> Guardian
+Arcane: Increases defense against certain attacks.
+
+-> Dual Dragon Surge
+Arcane: A combination of Dual Punishment & Dragon
+Surge.
+
+-> Shadow Punishment
+Arcane: A combination of Dual Punishment & Shadow
+Raid.
+
+-> Shadow Tempest
+Arcane: A combination of Shadow Raid & Dragon Surge.
+
+-> Negative Gate
+Mid: Create a dark void that seals the enemy's
+movement.
+
+-> Crimson Riot
+Fonic: Burn the enemy to ashes with a giant ball of
+flame.
+
+-> Bloody Howling
+High: Scream a curse to tear the enemy apart.
+
+-> Maelstrom
+Fonic: Call forth a violent waterfall that surrounds the
+targeted enemy.
+
+-> Limited
+Mid: Drop a glowing pillar of light down onto the 
+targeted enemy.
+
+-> Spark Wave
+Fonic: Charge the atmosphere and electrify the enemy.
+
+-> Miracle Hammer
+High: Knock some sense into the enemy with a
+deadly hammer attack from above.
+
+-> Rock Mountain
+Fonic: Pulverize the enemy with an overhead boulder
+attack.
+
+-> Lucky
+Base: Toss out some dice and attack the enemy.
+Cheers Anise up and increases your luck.
+
+-> Happy Light
+Arte: Spread happiness all around. Raises the luck and
+abilities of surrounding allies.
+
+-> Mighty Charge
+Base: Temporarily increases the amount of damage the
+enemy takes from your combo attacks.
+
+-> Mighty Circuit
+Arte: Temporarily increases the amount of damage the
+enemy takes from your and nearby allies' combo attacks.
+
+-> Razing Phoenix
+ 
+
+-> Brilliant Overlord
+ 
+
+-> Demon Fang
+Base: Unleash a powerful shockwave along the ground.
+
+-> Infernal Torrent
+Arte: Send forth a fiery shockwave towards the enemy.
+
+-> Crescent Strike
+Base: Draw a moon with one slash, then slice it in
+half with another slash.
+
+-> Frigid Moon
+Arte: Create a frozen moon, then shatter it with a
+slash from your sword.
+
+-> Void Tempest
+Base: A spinning sword attack that creates a powerful
+vacuum.
+
+-> Dragon Tempest
+Arte: A spinning sword attack that creates multiple
+vacuums.
+
+-> Tiger Blade
+Base: A two-tiered slash attack.
+
+-> Wyrm Wrath
+Arte: Strike the ground and unleash the power of an
+ancient dragon.
+
+-> Center
+Base: Absorb energy particles from the atmosphere to 
+restore a small amount of HP.
+
+-> Focus
+Arte: Concentrate and temporarily increase your
+physical defense.
+
+-> Beast
+Arcane: Harness the power of a beast to
+rip through the enemy.
+
+-> Thunder Beast
+Arte: Stop the enemy with a lion's battlecry, then
+attack with lightning.
+
+-> Severing Wind
+Arcane: A tornado created from a spinning attack
+damages the enemy.
+
+-> Searing Gale
+Arte: A fiery spinning attack that spawns a deadly 
+tornado of flame.
+
+-> Sword Rain: Alpha
+Arcane: Slice the enemy up with a rapid series of
+thrust attacks.
+
+-> Eternal Quake
+Arte: Shatter a boulder with thrust attacks to send
+rock fragments flying towards the enemy.
+
+-> Final Cross
+Arcane: Carve a cross into the ground with shockwaves.
+
+-> Final Glacier
+Arte: Shatter the ice crystals and send shards flying at
+the enemy.
+
+-> Guardian
+Arcane: Increases defense against certain attacks.
+
+-> Moonlight Demon
+Arcane: A combination of Demon Fang & Crescent 
+Strike.
+
+-> Demonic Void
+Arcane: A combination of Demon Fang & Void Tempest.
+
+-> Demonic Tiger Blade
+Arcane: A combination of Demon Fang & Tiger Blade.
+
+-> Moonlight Tempest
+Arcane: A combination of Crescent Strike & Void
+Tempest.
+
+-> White Tiger Strike
+Arcane: A combination of Crescent Strike & Tiger Blade.
+
+-> Nihil Blade Tempest
+Arcane: A combination of Tiger Blade & Void Tempest.
+
+-> Tempest
+Base: A spinning attack that arcs across the battlefield.
+
+-> Soaring Light Spear
+Arcane: A vicious spinning attack launches the enemy
+into the air for another slash attack.
+
+-> 未設定
+ 
+
+-> Noble Roar
+ 
+
+-> Astral Rain
+ 
+
+-> Piercing Line
+Base: Shoot an arrow that pierces its target.
+
+-> Voltaic Line
+Arte: Pierce the enemy with an electrically charged
+arrow.
+
+-> Storm Edge
+Base: Shoot multiple arrows at once.
+
+-> Blast Edge
+Arte: Shoot a barrage of flaming arrows at the enemy.
+
+-> Aerial Laser
+Base: Knock the enemy into the air with your bow,
+then follow up with an arrow attack.
+
+-> Astral Laser
+Arte: Knock the enemy into the air with your bow, then
+follow up with a deadly charged arrow attack.
+
+-> Star Stroke
+Arcane: Jump and shoot multiple arrows at the enemy.
+
+-> Quake Stroke
+Arte: Jump and shoot arrows down into the earth to
+trigger a powerful tremor.
+
+-> Star Embrace
+Arcane: Bombard the enemy with a shower of arrows.
+
+-> Blue Embrace
+Arte: Shoot an arrow into the heavens to summon an
+onslaught of ice blades.
+
+-> Chronos Raid
+削除
+
+-> Imperial Raid
+削除
+
+-> Heal
+Mid: Restore a moderate amount of HP to one ally.
+
+-> Healing Wind
+Fonic: Use the power of the wind to restore a moderate
+amount of HP to all allies within range.
+
+-> Cure
+High: Restore a large amount of HP to one ally.
+
+-> Restore
+Fonic: Completely restore the HP of one ally.
+Also cures both magical and physical ailments.
+
+-> Revive
+High: Automatically revive one ally when
+they fall in battle.
+
+-> Angel's Breath
+Fonic: Automatically revive, completely restore HP, and
+cure ailments for all allies within range.
+
+-> Barrier
+Mid: Temporarily increase the physical defense of one
+ally.
+
+-> Aqua Protection
+Fonic: Increase the physical defense of one ally.
+Remains effective until the recipient is KO'd.
+
+-> Sharpness
+Mid: Temporarily increase the physical attack of one
+ally.
+
+-> Blaze Emitter
+Fonic: Increase the physical attack of one ally.
+Remains effective until the recipient is KO'd.
+
+-> Resist
+Mid: Temporarily increase the fonic defense of one
+ally.
+
+-> Anti-Magic
+Fonic: Increase the fonic defense of one ally.
+Remains effective until the recipient is KO'd.
+
+-> Recover
+Mid: Cure both the magical and physical ailments of
+one ally.
+
+-> Purify
+Fonic: Cure both the magical and physical ailments of
+all allies within range.
+
+-> Scare Shot
+Mid: Decrease the physical defense of the targeted
+enemy.
+
+-> Calamitous Bane
+Fonic: Decrease both the physical attack and defense
+of all enemies within range.
+
+-> Cavalry
+Base: Temporarily prevent Natalia from being knocked
+back by attacks.
+
+-> Phalanx
+Arte: Temporarily prevent Natalia from being knocked
+back by attacks. Lasts longer than Cavalry.
+
+-> 未設定
+ 
+
+-> Gallant Barrage
+Arcane: A barrage of arrow attacks, the first one fanned
+and the second one concentrated.
+
+-> Healing Force
+High: Gradually restore the HP of all allies within range
+for a limited amount of time.
+
+-> Time Stop
+ 
+
+-> X-BUSTER
+Base: Shoot a powerful laser from Tokunaga's stomach.
+Can only be used once per battle.
+
+-> Pow Hammer
+Base: Toss multiple pow hammers at the enemy.
+Sometimes renders the enemy unconscious.
+
+-> Acid Rain
+ 
+
+-> Demon Breath
+Arcane: Channel energy into both hands and attack to
+send the enemy flying.
+
+-> Stone Head
+Base: Bash the enemy with a strong head attack.
+
+-> Evil Light
+ 
+
+-> Inspect Eye
+Base: Check the parameters of a single enemy.
+Has the same effect as a Magic Lens.
+
+-> Brimstone Tempest
+ 
+
+-> テスト魔法
+ 
+
+-> Prism Ballet
+ 
+
+-> Resurrection
+High: Revive one fallen ally.
+
+-> Divine Saber
+High: A sacred bolt of lightning pierces the enemy.
+
+-> Evil Light
+ 
+
+-> Brimstone Tempest
+ 
+
+-> Prism Ballet
+ 
+
+-> Harrowing Gale
+ 
+
+-> Akashic Torment
+ 
+
+-> Akashic Torment
+ 
+
+-> ディスト合体秘奥義
+ 
+
+-> Big Bang
+ 
+
+-> Big Bang
+ 
+
+-> Akashic Torment
+ 
+
+-> Wild Geese
+ 
+
+-> Harrowing Gale
+ 
+
+-> ディスト合体秘奥義（正装）
+ 
+
+-> Stalagmite
+Mid: Jagged rocks burst through the ground and attack
+the targeted enemy.
+
+-> Icicle Rain
+Fonic: Summon a shower of ice blades that rain down
+over a wide area.
+
+-> Explosion
+Fonic: Create a large explosion that engulfs the area
+surrounding the targeted enemy.
+
+-> Thunder Blade
+High: Send forth lightning from your blade to attack
+the enemy.
+
+-> Big Bang
+ 
+
+-> Fragmented End
+ 
+
+-> ネビリム秘奥義
+ 
+
+-> Aurora Wall
+ 
+
+-> アッシュ秘奥義（表）
+ 
+
+-> Rending Saber
+ 
+
+-> Imperial Slaughter
+ 
+
+-> Celestial Elegy
+ 
+
+-> Ancient Requiem
+ 
+
+-> Grand Fonic Hymn
+ 
+
+-> Beast
+Arcane: Harness the power of a beast to 
+rip through the enemy.
+
+-> Ravaging Thunder
+ 
+
+-> Infernal Blast
+ 
+
+-> Big Bang
+ 
+
+-> Gungnir
+ 
+
+-> Surge Breaker
+Arcane: An mixed series of fonic and strike arte
+attacks.
+
+-> Sacred Penance
+ 
+
+-> Burning Phoenix
+ 
+
+-> Ion
+ 
+
+-> ティア秘奥義追加
+ 
+
+-> Radiant Howl
+ 
+
+-> Innocent Shine
+ 
+
+-> Mystic Cage
+ 
+
+-> Rending Saber
+ 
+
+-> Fortune's Arc
+ 
+
+-> Indignation
+ 
+

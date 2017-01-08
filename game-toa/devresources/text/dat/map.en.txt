@@ -1,0 +1,649 @@
+--------------
+Main -debug
+System text -Debug
+Battle -Debug
+Skit -Debug
+Shop -Debug
+Effect -Debug
+Sound 01 -Debug
+Sound 02 -Debug
+Sound 03 -Debug
+Town - 00 Debug
+Town - 01 Debug
+Town - 02 Debug
+Town - 03 Debug
+Town - 04 Debug
+Town - 05 Debug
+Town - 06 Debug
+Town - 07 Debug
+Town - 08 Debug
+Town - 09 Debug
+Town - 10 Debug
+Dungeon -Debug
+Indoor -Debug
+Field -Debug
+Character -Debug
+Monster -Debug
+Motion -Debug
+Creek & River -Debug
+Minryu -Debug
+Prokion -Debug
+System 01 -Debug
+System 02 -Debug
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres
+Isle of Feres, Fomicry Lab
+Engeve
+Engeve
+Rose's Residence
+Rose's Residence
+Engeve
+Engeve
+Engeve
+Auldrant
+Auldrant (Night)
+Baticul
+Baticul, Downtown
+Baticul, Port
+Baticul, Military Facility
+Baticul Castle, Hanging Gardens
+Baticul, Luke's Residence
+Baticul
+Baticul, Coliseum
+Baticul, Coliseum
+Baticul, Coliseum
+Baticul, Coliseum
+Baticul, Coliseum
+Miyagi Dojo
+Order of Lorelei Monastery
+Baticul
+Baticul
+Baticul
+Baticul, Military Facility
+Baticul Castle
+Baticul Castle, Throne Room
+Baticul Castle
+Baticul Castle
+Baticul Castle
+Baticul Castle
+Baticul Castle, Natalia's Room
+Baticul Castle
+Baticul Castle, King's Chamber
+Baticul Castle
+Baticul Castle
+Baticul Castle, Prison
+Baticul, Luke's Residence
+Baticul, Luke's Residence
+Baticul, Luke's Residence
+Baticul, Luke's Residence
+Baticul, Luke's Residence
+Baticul, Luke's Room
+Baticul, Luke's Residence
+Baticul, Luke's Residence
+Choral Castle
+Choral Castle, Great Hall
+Choral Castle
+Choral Castle
+Choral Castle, Strange Facility
+Choral Castle
+Choral Castle
+Choral Castle
+Choral Castle
+Choral Castle
+Choral Castle
+Oracle Headquarters, Great Hall
+Oracle Headquarters, Great Hall
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters
+Oracle Headquarters, Training Hall
+Daath, Hill of the Forth Stela
+Daath, Headquarters of the Order of Lorelei
+Daath, Headquarters of the Order of Lorelei
+Daath, Cathedral
+Daath, Cathedral Bethel
+Daath, Cathedral
+Daath, Cathedral
+Daath, Tatlins' Room
+Daath, Cathedral
+Daath, Cathedral, Ion's Room
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath, Cathedral
+Daath Bay
+Theor Forest, Entrance Gate
+Theor Forest
+Theor Forest
+Theor Forest
+Theor Forest
+Chesedonia, Kimlasca
+Chesedonia, Kimlasca Port
+Chesedonia, Border
+Chesedonia, Malkuth
+Chesedonia
+Chesedonia, Kimlasca
+Chesedonia, Kimlasca Port
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia, Kimlascan Consulate
+Chesedonia, Kimlascan Consulate
+Chesedonia
+Chesedonia, Astor's Residence
+Chesedonia, Astor's Residence
+Chesedonia, Astor's Residence
+Chesedonia, Astor's Residence
+Chesedonia, Astor's Residence
+Chesedonia, Malkuth Consulate
+Chesedonia, Malkuth Consulate
+Chesedonia, Malkuth Consulate
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia
+Chesedonia, Astor's Residence
+Albiore
+Replica Lab, The Abyss
+Replica Lab, The Abyss
+Replica Lab, The Abyss
+Baticul, Abandoned Factory
+Baticul, Abandoned Factory
+Baticul, Abandoned Factory
+Baticul, Abandoned Factory
+Baticul, Abandoned Factory
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Mt. Zaleho
+Albiore
+Albiore
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Shurrey Hills
+Kaitzur, Malkuth
+Kaitzur, Kimlasca
+Kaitzur, Malkuth
+Kaitzur, Kimlasca
+Kaitzur, Kimlasca
+Kaitzur Naval Port
+Kaitzur Naval Port
+Kaitzur Naval Port
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Tataroo Valley
+Meggiora Highlands
+Meggiora Highlands
+Meggiora Highlands
+Meggiora Highlands
+Meggiora Highlands
+Meggiora Highlands
+Tower of Rem
+Tower of Rem
+Tower of Rem
+Tower of Rem
+Tower of Rem
+Tower of Rem
+Tower of Rem
+Tower of Rem
+Tower of Rem
+Tower of Rem
+Outer Lands, Sinkhole
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mt. Roneal
+Mushroom Road
+Mushroom Road
+Mushroom Road
+Mushroom Road
+Mushroom Road
+Mushroom Road
+Mushroom Road
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Eldrant, Yulia's Grave
+Eldrant
+Eldrant
+Eldrant
+Eldrant
+Hidden Room
+Core
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan, Capacity Core Store
+Sheridan
+Sheridan
+Sheridan
+Sheridan
+Sheridan, Airship Hangar
+Port Sheridan
+Port Sheridan
+Port Sheridan
+Akzeriuth
+Akzeriuth
+Fallen Akzeriuth
+Akzeriuth
+Akzeriuth
+Akzeriuth
+Akzeriuth
+Ortion Cavern
+Ortion Cavern
+Ortion Cavern
+Ortion Cavern, Fomicry Lab
+Ortion Cavern
+Ortion Cavern
+Ortion Cavern, Strange Facility
+Deo Pass
+Deo Pass
+Deo Pass
+Deo Pass
+Deo Pass
+Deo Pass
+Deo Pass
+Deo Pass
+Deo Pass
+Cheagle Woods
+Cheagle Woods
+Cheagle Woods
+Cheagle Woods, Great Tree
+Cheagle Woods, Inside Great Tree
+Cheagle Woods
+Cheagle Woods, Cavern
+Nam Cobanda Isle
+Nam Cobanda Isle
+Nam Cobanda Isle, Hidden Passage
+Nam Cobanda Isle, Security Station
+Nam Cobanda Isle, Dark Wings' Room
+Nam Cobanda Isle, Costume Room
+Nebilim's Crag
+Radiation Gate
+Radiation Gate
+Radiation Gate
+Desert Oasis
+Desert Oasis
+Desert Oasis
+Planet Storm
+Belkend
+Belkend
+Belkend
+Belkend, Governor's Residence
+Belkend, Fonic Device Laboratory I
+Belkend, Fonic Device Laboratory I
+Belkend, Fonic Device Laboratory I
+Belkend, Fonic Device Laboratory I
+Belkend, Fonic Device Laboratory I
+Belkend, Fonic Device Laboratory I
+Belkend, Fonic Device Laboratory I
+Belkend, Fonic Device Laboratory I
+Belkend, Fomicry Lab
+Belkend, Fomicry Lab
+Belkend, Fomicry Lab
+Belkend, Van's Room
+Belkend, Fomicry Lab
+Port Belkend
+Port Belkend
+Fubras River
+Fubras River
+Fubras River
+St. Binah
+St. Binah
+St. Binah
+St. Binah, Malkuth Military Base
+St. Binah, Malkuth Military Base
+St. Binah, Malkuth Military Base
+St. Binah, Malkuth Military Base
+St. Binah
+St. Binah
+Zao Ruins
+Zao Ruins
+Zao Ruins
+Zao Ruins
+Zao Ruins
+Zao Ruins
+Zao Ruins
+Zao Ruins
+Zao Ruins
+Fallen St. Binah
+Fallen St. Binah
+St. Binah
+St. Binah
+Land Dreadnaught Tartarus, Cabin
+Land Dreadnaught Tartarus, Cabin
+Land Dreadnaught Tartarus, Cabin
+Land Dreadnaught Tartarus, Aisle
+Land Dreadnaught Tartarus, Aisle
+Land Dreadnaught Tartarus, Deck
+Land Dreadnaught Tartarus
+Land Dreadnaught Tartarus, Bridge
+Land Dreadnaught Tartarus, Hallway
+Land Dreadnaught Tartarus, Cell
+Land Dreadnaught Tartarus, Cell
+Land Dreadnaught Tartarus, Cell
+Land Dreadnaught Tartarus, Cell
+Land Dreadnaught Tartarus, Cell
+Land Dreadnaught Tartarus, Cell
+Land Dreadnaught Tartarus, Hallway
+Land Dreadnaught Tartarus
+Land Dreadnaught Tartarus
+Land Dreadnaught Tartarus, Exit
+Katsbert Ferry, Cabin
+Katsbert Ferry, Cabin
+Katsbert Ferry, Cabin
+Katsbert Ferry, Hallway
+Katsbert Ferry, Cabin
+Katsbert Ferry, Deck
+Katsbert Ferry, Bridge
+Keterburg
+Keterburg
+Keterburg
+Keterburg, Entrance Square
+Keterburg
+Keterburg, Entrance Square
+Keterburg, Casino
+Keterburg, Casino
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg
+Keterburg, Governor's Residence
+Keterburg, Governor's Residence
+Keterburg
+Keterburg
+Keterburg
+Keterburg Bay
+Keterburg Bay
+Keterburg Bay
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Absorption Gate
+Aramis Spring
+Aramis Spring
+Aramis Spring
+Aramis Spring, Yulia Road
+Akzeriuth Mine Shaft 14
+Akzeriuth Mine Shaft 14
+Akzeriuth Mine Shaft 14
+Akzeriuth Mine Shaft 14
+Grand Chokmah
+Grand Chokmah, Port
+Grand Chokmah
+Grand Chokmah Palace
+Grand Chokmah, Military Base
+Grand Chokmah
+Grand Chokmah
+Grand Chokmah
+Grand Chokmah
+Grand Chokmah
+Grand Chokmah, Capacity Core Store
+Order of Lorelei Monastery
+Grand Chokmah
+Grand Chokmah
+Grand Chokmah
+Grand Chokmah Palace
+Grand Chokmah Palace
+Grand Chokmah Palace, Peony's Room
+Grand Chokmah Palace, Throne Room
+Grand Chokmah Palace
+Grand Chokmah Palace
+Grand Chokmah Palace
+Grand Chokmah Palace
+Grand Chokmah, Military Base
+Grand Chokmah, Military Base
+Grand Chokmah, Military Base
+Grand Chokmah, Military Base
+Grand Chokmah, Military Base
+Military Base, Jade's Office
+Grand Chokmah, Military Base
+Inista Marsh
+Inista Marsh
+Yulia City
+Yulia City
+Yulia City
+Yulia City
+Yulia City, Central Facility
+Yulia City, Fonstone Room
+Yulia City,  Council Room
+Yulia City, Yulia Road
+Yulia City
+Yulia City
+Yulia City Tear's Room
+Yulia City, Garden of Selenia Flowers
+Aiuchi -Debug
+Anabuki 01 -Debug
+Anabuki 02 -Debug
+Enomoto -Debug
+Hasegawa -Debug
+Takami -Debug
+Kanemaru -Debug
+Kawase -Debug
+Koizumi -Debug
+Miyadera 01 -Debug
+Miyadera 02 -Debug
+Murai -Debug
+Otsuka -Debug
+Wakatsuki -Debug
+Yamauchi 01 -Debug
+Yamauchi 02 -Debug
+Mizushima -Debug
+Matsushita -Debug
+Ito -Debug
+Clear Data
+Endo -Debug
+Suzuki -Debug
+Nagasawa -Debug
+Sawada -Debug
+Tanaka -Debug
+Title -Debug

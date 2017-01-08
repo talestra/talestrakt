@@ -1,0 +1,55 @@
+// Casillas
+005BEA18:'Nombre'
+005BEA20:'Título'
+
+// Apellidos
+005BEA78:' fon Fabre'
+005BEA88:' Grants'
+005BEA90:' Curtiss'
+005BEAA0:' Tatlin'
+005BEAA8:' Cecil'
+005BEAB0:' L. K. Lanvaldear'
+
+// Página 1.
+005BEB00:'Ataque físico'
+005BEB10:'Defensa física'
+005BEB28:'Ataque fónico'
+005BEB38:'Defensa fónica'
+005BEB48:'Agilidad'
+005BEB50:'Mejora'
+
+// Página 2. Grupo 1.
+005BEBD0:'Arma'
+005BEBD8:'Cuerpo'
+005BEBE0:'Mano'
+005BEBE8:'Otros'
+005BEBF0:'Núc. de C.'
+
+// Página 2. Grupo 2.
+005BEC58:'A. ATR'
+005BEC60:'D. ATR'
+
+// Página 2. Grupo 3.
+005BEC68:'Suerte'
+
+
+// Nombre (ancho 0x12 original)
+$$:0055EE54:ushort:0x0C
+
+// Núc. de C. (ancho 0x0E original)
+$$:0055F7B4:ushort:0x0C
+
+// Cuerpo (Ancho 0x13 original)
+$$:0055F76C:ushort:0x11
+
+// Ancho Lista en CharacterStatus (0x11)
+$$:003A3618:ushort:0x0F
+
+// ClassCCharaStatusEquipCCore_method3
+// 003A3820
+
+// TEST
+//$$:003A36B8:ushort:0x01
+//$$:003A36B8:ushort:0x01
+//$$:003A8664:ushort:0x01
+//$$:00351DC0:ushort:0x01

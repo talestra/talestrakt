@@ -1,0 +1,12 @@
+005B9720:'Modo de control'
+005B9738:'Usar arte'
+005B9750:'Quitar'
+005B9760:'Info'
+005B9770:'Cámara de FR'
+005B9788:'Confirmar'
+005B9798:'Volver'
+005B97A0:'Sí/No'
+005B9900:'Uso'
+
+//$$:005B9930:stringz:'CdF'
+$$:005B9930:stringz:'CDF'

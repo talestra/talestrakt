@@ -1,0 +1,273 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+No eres un ser humano normal.
+¿Qué?
+Has decidido tomar un camino difícil\npor propia voluntad. Tienes un aura que sólo\nse ve en los que han derrotado\na enemigos muy poderosos.
+¿De verdad?
+Pero debes tener cuidado.<PAGE>\nSi estás día y noche combatiendo, obsesionado\ncon derrotar a los enemigos, puedes llegar\na convertirte en un demonio.
+No acabo de entender lo que dices...
+Te daré esto.
+¿Qué es esto?...
+Es la ropa que llevaba un\nespadachín cuando partió en un viaje\npara volver a tomar control <PAGE>\nde sí mismo después de estar a punto de\npermitir que su sed de batalla le consumiera.
+Ah...\nMe lo probaré.
+Te sienta bien.<PAGE>\nPero eso puede ser un signo que indique\nque estás perdiendo la cordura.
+Debes tener cuidado.\nEl final de un espadachín dominado por\nsu sed de sangre no es precisamente bonito.
+Está bien. \nLo recordaré.
+¡Dale!\n¡Patéale!\n¡Machácalo!
+¡No! ¡Así no es como se hace!\nEres inútil...
+¡Sí!\n¡A por todas!
+Qué pelea tan aburrida…\nSería mucho más divertido\nsi bajase yo ahí.
+¡Derecha!\n¡A la derecha!
+¡Venga, a por todas!
+Ésta es la primera vez que vengo.\nEstoy bastante abrumado...
+Ojalá yo también pudiera mirar...
+¡Ve a por él!
+¡Ahora!

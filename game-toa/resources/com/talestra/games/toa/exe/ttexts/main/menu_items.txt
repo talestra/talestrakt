@@ -1,0 +1,15 @@
+// Parte inferior
+005B93E8:'Confirmar'
+005B93F8:'Volver'
+005B9408:'Desechar'
+005B9418:'Info'
+
+// Pomos
+005B94A0:'Sientes una bendición sagrada sobre ti.'
+005B94D0:'Sientes una oscura maldición sobre ti.'
+
+// Equipar
+005B9500:'¿Quién se lo equipará?'
+
+// Tirar objeto
+005B9510:'¿Desechar %s?\nSí\nNo'

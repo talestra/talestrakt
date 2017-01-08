@@ -4,8 +4,8 @@ import com.soywiz.korio.async.filter
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.ResourcesVfs
-import com.talestra.rhcommon.translations.PO
 import com.talestra.rhcommon.translations.KAcme
+import com.talestra.rhcommon.translations.PO
 
 object ConvertTxtToPo {
 	@JvmStatic fun main(args: Array<String>) = sync {

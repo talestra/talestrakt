@@ -2,9 +2,7 @@ package com.talestra.dividead
 
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.async.toList
-import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.ResourcesVfs
-import com.soywiz.korio.vfs.VfsFile
 import com.talestra.rhcommon.io.generate
 import org.junit.Assert
 import org.junit.Test

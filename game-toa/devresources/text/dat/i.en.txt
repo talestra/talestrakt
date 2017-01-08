@@ -1,0 +1,2368 @@
+*TYPE1
+Apple Gel
+A sweet gummi medicine.
+Recover 30% Max HP.
+
+Lemon Gel
+A sweet gummi medicine.
+Recover 60% Max HP.
+
+Orange Gel
+A sweet gummi medicine.
+Recover 30% Max TP.
+
+Pineapple Gel
+A sweet gummi medicine.
+Recover 60% Max TP.
+
+Melange Gel
+A sweet gummi medicine.
+Recover 30% Max HP & TP.
+
+Miracle Gel
+A sweet gummi medicine.
+Recover 60% Max HP & TP.
+
+Specific
+A soda-flavored gummi medicine.
+Entire party recovers 30% Max HP.
+
+Treat
+A grape-flavored gummi medicine.
+Entire party recovers 30% Max TP.
+
+Special Gel
+A gummi treat made from a miraculous elixir.
+Recovers all HP & TP.
+
+Lottery Gel
+Maybe something good. Maybe not.
+You won't know until you try it.
+
+Poison Bottle
+Cures Poison.
+
+Paralysis Bottle
+Cures Paralysis.
+
+Stone Bottle
+Cures Petrification.
+
+Seal Bottle
+Cures Sealed Artes.
+
+Weak Bottle
+Cures Weak.
+
+Virus Bottle
+Cures Illness.
+
+Life Bottle
+Revives KO'd ally with 30% HP & 15% TP.
+
+Cure Bottle
+Cures Physical Ailments: Poison, Paralysis, 
+Petrification, Sealed Artes, Weak, and Illness.
+
+Dinei Bottle
+Cures Magical Ailments.
+
+Panacea Bottle
+Cures both Physical and Magical Ailments.
+
+Holy Bottle
+A vessel holding pure holiness.
+Monsters notice the party less.
+
+Dark Bottle
+A vessel holding pure darkness.
+Monsters notice the party more.
+
+Syrup Bottle
+Prevents Physical Ailments for 1 minute 
+during battle.
+
+Nectar Bottle
+Prevents Magical Ailments for 1 minute 
+during battle.
+
+Wing Bottle
+A bottle decorated with a pair of wings.
+Transports party to a dungeon's entrance.
+
+Sage
+A medicinal herb.
+Increases Max HP by 10.
+
+Red Sage
+A medicinal herb.
+Increases Max HP by 30.
+
+Savory
+A medicinal herb.
+Increases Max TP by 10.
+
+Red Savory
+A medicinal herb.
+Increases Max TP by 30.
+
+Lavender
+A medicinal herb.
+Increases P.ATK by 1.
+
+Red Lavender
+A medicinal herb.
+Increases P.ATK by 3.
+
+Verbena
+A medicinal herb.
+Increases P.DEF by 1.
+
+Red Verbena
+A medicinal herb.
+Increases P.DEF by 3.
+
+Chamomile
+A medicinal herb.
+Increases F.ATK by 1.
+
+Red Chamomile
+A medicinal herb.
+Increases F.ATK by 3.
+
+Basil
+A medicinal herb.
+Increases F.DEF by 1.
+
+Red Basil
+A medicinal herb.
+Increases F.DEF by 3.
+
+Saffron
+A medicinal herb.
+Increases AGL by 1.
+
+Red Saffron
+A medicinal herb.
+Increases AGL by 3.
+
+Magic Lens
+A mysterious lens that reveals enemy details.
+
+All-Divide
+Reduces all damage inflicted on allies 
+and enemies during battle by 50%.
+
+Hourglass
+Temporarily freezes the enemy during battle.
+
+Yellow Fonic Shard
+
+
+Blue Fonic Shard
+
+
+Red Fonic Shard
+
+
+Green Fonic Shard
+
+
+White Fonic Shard
+
+
+Black Fonic Shard
+
+
+ATTACK ITEM 1
+
+
+ATTACK ITEM 2
+
+
+ATTACK ITEM 3
+
+
+Beef
+Meat this tasty only comes from 
+cows raised on wide, green pastures!
+
+Chicken
+All natural meat from healthy chickens. 
+No additives or preservatives.
+
+Pork
+A wonderful meat chock full of energy 
+and nutrition.
+
+Sketchy Beef
+Meat from a cow. (Don't ask what part...)
+Not great, but not disgusting.
+
+Sketchy Chicken
+Meat from a chicken. (Don't ask what part...)
+Not great, but not disgusting.
+
+Rappig Meat
+Meat from rappigs, which live all over Auldrant.
+You either love it or hate it.
+
+Tuna
+A very popular fish. Especially tasty when 
+caught during winter.
+
+Snapper
+It's often called the "King of
+the Sea." Very tasty.
+
+Cod
+A white fish with mild flavor.
+
+Salmon
+A standard fish that can be cooked
+any number of ways.
+
+Octopus
+An eight-legged mollusk that is sometimes 
+referred to as the "Sea Devil."
+
+Squid
+A ten-legged mollusk that tastes 
+better than it looks.
+
+Shrimp
+A sea creature with a hard shell and 
+a tender body.
+
+Fishy Fish
+Mermaid meat. Tough and smelly.
+It's dry, but not too bad.
+
+Lettuce
+Vegetable for all types of dishes. 
+The undisputed King of Salad.
+
+Cucumber
+A summer vegetable. Enjoy its crisp, 
+cool flavor.
+
+Carrot
+A vegetable with a cute shape and color. 
+It tastes sweet when boiled.
+
+Onion
+Particularly pungent, and can cause 
+crying when cut.
+
+Radish
+One of many ingredients used in a stew.
+
+Mushroom
+An unusual plant that spreads by spores.
+Some are poisonous.
+
+Tomato
+A tasty vegetable either hot or cold. 
+It can also be made into juice or sauce.
+
+Potato
+There are many ways to prepare it. 
+Try it steamed and salted.
+
+Kirima
+A refreshing fruit with a sweet and 
+sour flavor.
+
+Amango
+A sweet fruit, but hard to eat because 
+of its many seeds.
+
+Apple
+A crisp and juicy fruit.
+
+Lemon
+An extremely sour fruit.
+
+Strawberry
+It is tasty with milk and cream. 
+Makes excellent cake topping.
+
+Banana
+A fruit wrapped in a yellow peel. 
+It's just waiting to be eaten.
+
+Engeve Rice
+Rice straight from Engeve. 
+Ah, what a wondrous blessing of nature!
+
+Engeve Bread
+Bread straight from Engeve.
+Ah, just the thing for breakfast!
+
+Engeve Noodles
+Noodles straight from Engeve.
+Ah, such world-renowned flavor!
+
+Rice
+Cooked rice. Steaming it to perfection 
+can be difficult.
+
+Bread
+Its aroma is excellent when
+baked well.
+
+Noodles
+A general term for spaghetti, macaroni, etc.
+
+Egg
+An ingredient in various dishes. 
+Also a good source of protein.
+
+Milk
+Milked from a cow. A good source of 
+calcium for strong and healthy bones!
+
+Tofu
+Made from processed soy beans. 
+Well-known among health nuts.
+
+Kombu
+A type of seaweed that contains 
+lots of minerals. Good for your hair.
+
+Cheese
+Made from fermented milk. 
+Not everyone likes its smell.
+
+Miso
+A thick paste made from fermented 
+soybeans. Perfect for soups.
+
+Stre
+A capacity core with the meaning "haughty" 
+inscribed.
+
+Nocer
+A capacity core with the meaning "stubborn" 
+inscribed.
+
+Alca
+A capacity core with the meaning "easygoing" 
+inscribed.
+
+Nocere
+A capacity core with the meaning "mischievous" 
+inscribed.
+
+Scild
+A capacity core with the meaning "gorgeous" 
+inscribed.
+
+Esprit
+A capacity core with the meaning "eccentric" 
+inscribed.
+
+Styl
+A capacity core with the meaning "lively" 
+inscribed.
+
+Nobile
+A capacity core with the meaning "elegantly" 
+inscribed.
+
+Stre Forte
+A capacity core with the meaning "strongly" 
+inscribed.
+
+Nocer Forte
+A capacity core with the meaning "mystic" 
+inscribed.
+
+Scild Forte
+A capacity core with the meaning "in the same way" 
+inscribed.
+
+Esprit Forte
+A capacity core with the meaning "energetically" 
+inscribed.
+
+Balla Forte
+A capacity core with the meaning "peacefully" 
+inscribed.
+
+Alca Forte
+A capacity core with the meaning "with full force" 
+inscribed.
+
+Stre Maggiore
+A capacity core with the meaning "even stronger" 
+inscribed.
+
+Nocer Maggiore
+A capacity core with the meaning "sweetly" 
+inscribed.
+
+Scild Maggiore
+A capacity core with the meaning "rigidly" 
+inscribed.
+
+Alca Maggiore
+A capacity core with the meaning "roughly" 
+inscribed.
+
+Balla Maggiore
+A capacity core with the meaning "with harmony" 
+inscribed.
+
+Marcato
+A capacity core with the meaning "distinctly" 
+inscribed.
+
+Strecido
+A capacity core with the meaning "wildly" 
+inscribed.
+
+Nocercido
+A capacity core with the meaning "solemnly" 
+inscribed.
+
+Ballacido
+A capacity core with the meaning "vigorously" 
+inscribed.
+
+Lebhaft
+A capacity core with the meaning "energetically" 
+inscribed.
+
+Scildecido
+A capacity core with the meaning 
+"extremely quick" inscribed.
+
+Parlanto
+A capacity core with the meaning 
+"as if telling a tale" inscribed.
+
+Largamente
+A capacity core with the meaning 
+"with great ease" inscribed.
+
+Lunatito
+A capacity core with the meaning "crazed" 
+inscribed.
+
+Grandioz
+A capacity core with the meaning "grandly" 
+inscribed.
+
+Tutti
+A capacity core with the meaning "all" 
+inscribed.
+
+Carmine Chamber
+A mysterious transparent red jewel.
+Said to alter the performance of Artes.
+
+Cobalt Chamber
+A mysterious transparent blue jewel.
+Said to alter the performance of Artes.
+
+Grass Chamber
+A mysterious transparent green jewel.
+Said to alter the performance of Artes.
+
+Sunlight Chamber
+A mysterious transparent yellow jewel.
+Said to alter the performance of Artes.
+
+Shell
+A common shell that washed up on a beach.
+
+Coral
+Handy in places with no ocean nearby.
+
+Bearskin
+Used for making warm clothing.
+
+Giant Shell
+An enormous shell with coral attached.
+
+Charcoal
+A fuel. A deodorant. A dehumidifier.
+Endless possibilities.
+
+Gel Base
+Forms the basis of all gels.
+What it is made of is highly confidential.
+
+Phantom Fish
+The one that always gets away.
+That's why it's so expensive.
+
+Meltwater
+Melted from the eternal snows of the 
+Roneal region.
+
+Holy Water
+Water that can cause miracles and drive
+away monsters.
+
+Giant Fish Bone
+A bone of a giant fish no one has ever seen.
+Is it really even from a fish?
+
+Ramie
+A relative of hemp.
+
+Clothing Material
+Common textile used for making clothes.
+
+Silk Thread
+So light, soft, and lustrous. Used for clothing 
+of exquisite feel enjoyed by royalty.
+
+Red Pigment
+A red coloring used in dyes. Made from 
+a natural mineral, and fairly expensive.
+
+Yellow Pigment
+A yellow coloring used in dyes. Made from 
+a natural mineral, and fairly expensive.
+
+Blue Pigment
+A blue coloring used in dyes. Made from 
+a natural mineral, and fairly expensive.
+
+Weeds
+Normal, everyday, run-of-the-mill weeds.
+
+Cotton
+Can be turned into material for a 
+variety of clothing.
+
+Compost
+Excellent water and air properties, and 
+full of all sorts of organic matter.
+
+Tataroo Grass
+Grass from the Tataroo Valley. Also called 
+"nightlight grass" because it glows in the dark.
+
+Glowing Moss
+A moss that glows ever-so-slightly in 
+the dark.
+
+Roneal Mushroom
+Mushrooms from the Roneal region.
+
+Chokmah Bark
+Bark from the trees of the Chokmah region.
+Some like to use it as fertilizer.
+
+Winter Tomato
+A tomato that can only be had in cold places.
+Cool and juicy.
+
+Plant Worm
+Handy as a catalyst for medicine and magic.
+
+Chesedonian Cactus
+A cactus from the Chesedonia region.
+Never turns red, no matter how hot.
+
+Sacred Tree
+A piece of the giant tree in Cheagle Woods.
+Handy for performing a variety of miraculous feats.
+
+Phantom Vegetable
+A special vegetable that is almost never available.
+Nutritious and delicious!
+
+Linkite Nut
+Produces beautiful music when the wind blows.
+Also used in musical instruments.
+
+Iron Sand
+Tiny bits of iron.
+
+Gold Dust
+Tiny bits of gold.
+
+Rock
+A normal, everyday, run-of-the-mill rock.
+
+Iron Ore
+An ore with lots of iron.
+
+Copper Ore
+An ore with lots of copper.
+
+Silver Ore
+An ore with lots of silver.
+
+Gold Ore
+An ore with lots of gold.
+
+Meggioran Fish
+Fish from the Meggioran Highlands.
+Has a peculiar flavor.
+
+Scorpion Stinger
+The poisonous tail of a scorpion.
+Used in making poison bottles.
+
+Insect Wing
+A wing with an unusual design.
+Used in making medicine.
+
+Firewood Bug
+An insect that hides in hollow places. They 
+have a habit of gathering in warm firewood.
+
+Penguin Quill
+A feather from a penguin.
+
+Basilisk Scale
+A scale from the rare basilisk.
+Used in making stone bottles.
+
+Dragon Fang
+Used in weapons, medicine, fonic artes and more.
+Very rare. Very expensive.
+
+Pearl
+Also known as a "fish tear" or "moon drop".
+Very popular among noble ladies.
+
+Black Pearl
+Rarer than regular pearls, but they aren't 
+as expensive, since they aren't as popular.
+
+Meadow Crystal
+A crystal that can be found in grasslands.
+Purer than normal crystals.
+
+Highland Ruby
+A ruby with properties of the 
+Fifth Fonon.
+
+Ice Diamond
+A diamond with properties of the 
+Third Fonon.
+
+Aqua Sapphire
+A sapphire with properties of the
+Fourth Fonon.
+
+Forest Emerald
+An emerald with properties of the 
+Second Fonon.
+
+Lizard Fossil
+A valuable educational material.
+
+Fonstone Fragment
+A fragment that fell from the Fonic Belt.
+Useful for protective charms.
+
+Meteorite Fragment
+The hardest ore on the planet.
+Very difficult to process.
+
+Naevimetal
+A very rare metal that grows.
+Left alone, it will consume other living things.
+
+Mana Fragment
+An extremely dense crystal that 
+alters the flow of energy.
+
+Libavius Ore
+Its silver shine is like a piece of a star.
+It is also known as "Star Cloud".
+
+Arm of Fire
+Fire in the form of an arm, imbued with a 
+power different from Fonons.
+
+Song of Water
+Water in the form of a note, imbued with a 
+power different from Fonons.
+
+Feather of Wind
+Wind in the form of a feather, imbued with a 
+power different from Fonons.
+
+Tail of Earth
+Earth in the form of a tail, imbued with a power
+different from Fonons.
+
+Eye of Thunder
+Thunder in the form of an eye, imbued with 
+a power different from Fonons.
+
+Tear of Ice
+Ice in the form of a tear, imbued with a power
+different from Fonons.
+
+Wing of Light
+Light in the form of a wing, imbued with a 
+power different from Fonons.
+
+Claw of Shadow
+Shadow in the form of a claw, imbued with 
+a power different from Fonons.
+
+Cutlass
+A sword with a long, curved blade.
+The preferred sword of mariners.
+
+Long Sword
+A long and powerful sword.
+Real swordsmen know how to wield it well.
+
+Rapier
+A long and thin sword.
+Requires an experienced hand.
+
+Broad Sword
+A sword with a wide blade.
+Very durable, but also hard to use.
+
+Scimitar
+A sword with a crescent blade.
+
+Steel Sword
+A sword forged from many layers of 
+tempered steel.
+
+Nimble Rapier
+A thin sword that can slice like the wind.
+
+Great Sword
+A large sword with a very wide blade.
+
+Falx
+A sword with a blade like a scythe.
+
+Silver Sword
+A sword with a finely crafted blade.
+
+Wasier Rapier
+A rapier that belonged to a renowned lord.
+
+Bastard Sword
+A hardened great sword.
+
+Talwar
+A curved sword preferred by some tribes.
+Easy to use.
+
+Knight Fencer
+Standard sword of the Order of Lorelei.
+
+Epee
+A thin sword with a sharp point 
+made to run the enemy through.
+
+Killer Sword
+A sword said to strike an enemy's 
+vital organs.
+
+Katana
+A single-edged sword said to have been 
+commonly used on the Isle of Hod.
+
+Mythril Sword
+A sword of mythril that wields magical powers.
+Made in Akzeriuth.
+
+Imperial Guard
+A sword used by the imperial guards 
+of Grand Chokmah.
+
+Mighty Saber
+A sword with a large, heavy blade
+made for cleaving enemies.
+
+Hauteclere
+A mystical blade that can cut stone.
+
+Schwarzloewe
+A sword christened Black Lion.
+
+Holy Judgment
+A sword with divine protection.
+
+Dragon Killer
+A sword said to slay even dragons.
+
+Shakunage
+A single-edged sword like a katana.
+A prize for the Coliseum's Advanced Single Battle.
+
+Soul Crush
+Brutal power, but hard to wield.
+A prize for the Coliseum's Advanced Single Battle.
+
+Full Metal Edge
+A sword forged by folding steel upon 
+itself over and over again.
+
+Celcius Calibur
+A sword that incorporates the 
+Third and Fourth Fonons. 
+
+Maestro Sword
+A sword that may only be used by maestros
+of the Order of Lorelei.
+
+Flamberge
+A magic sword with a vermillion shine.
+
+Vorpal Sword
+A magic sword with an indigo shine.
+
+Last Fencer
+A sword made from libavius ore.
+
+Swordian Dymlos
+A relic of another world, imbued with a power
+different from the Fifth Fonon.
+
+Ultimatus
+A relic of the Fonic War.
+
+Table Knife
+The way of food begins and ends with a knife.
+
+Wooden Sword
+A practice sword made of wood.
+Hurts a tad when hit.
+
+Fonic Sword
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Fonic Blade
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Nebilim
+A magic sword with the power of the First Fonon.
+Said to be a catalyst for fonic artes.
+
+Lost Celesti
+A shining sword with the power of the Sixth Fonon.
+Said to be a catalyst for fonic artes.
+
+Blade
+A single-edged sword with good balance.
+
+Key of Lorelei
+Fonic weapon created by Yulia through the 
+power of Lorelei. Concentrates the Seventh Fonon.
+
+Jewel of Gardios
+The sword handed down through the 
+Gardios family.
+
+Wand
+A staff that slightly amplifies fonic artes.
+
+Rod
+A staff with a simple design.
+
+Mace
+A specialized striking staff.
+Actually hurts when hit.
+
+Magic Wand
+A staff imbued with a small amount of 
+the First Fonon.
+
+Cane
+A light, but strong staff with ample 
+thought put into function and design.
+
+Gothic Mace
+A staff of simple yet elegant construction.
+
+Ruby Wand
+A staff with a ruby adorning the top.
+
+Silver Rod
+A staff decorated with silver.
+
+Sword Mace
+A mace with a blade.
+Good for shedding lots of blood.
+
+Knight Mace
+Standard staff of the Order of Lorelei.
+
+Mystic Rod
+A staff with mystic powers.
+
+Killer Mace
+A staff designed less for artes and 
+more for kills. A deadly blunt weapon.
+
+Arc Wand
+A staff with fonstone inlaid that
+strengthens the user's fonic artes.
+
+Mythril Rod
+A staff of mythril that wields magical powers.
+Made in Akzeriuth.
+
+Arc Scepter
+A staff with fonstone inlaid that greatly
+strengthens the user's fonic artes.
+
+Schwarzvogel
+A staff christened Black Bird.
+
+Kreuzzeichen
+A special staff with a sharp blade, 
+intended for both hitting and cutting.
+
+Holy Cross
+A staff that can only be wielded by the 
+agent of divine judgment.
+
+Lollipop
+Yes, it's candy.
+Really sweet, too! Yum!
+
+Shakujo
+A staff with a decoration and rings on the top.
+Can be used for hitting and thrusting.
+
+Wizard Cane
+A child's staff for enhancing fonic artes.
+More powerful than it looks.
+
+Grand Cross
+A staff in the shape of a cross.
+A prize for the Coliseum's Advanced Single Battle.
+
+Genius Wand
+Only the most intelligent can wield this staff.
+Or not...
+
+Star Rod
+A staff in the shape of a star.
+Leaves a trail of starlight.
+
+Hanuman's Staff
+A staff that once belonged to a legendary hero.
+
+Blue Crystal Rod
+A staff made of a blue crystal.
+A prize for the Coliseum's Advanced Single Battle.
+
+Spoon
+A treasure of intelligent design and 
+curvaceous beauty.
+
+Broom
+There's one in every home. 
+An indispensable household item.
+
+Fonic Rod
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Fonic Mace
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Heart of Chaos
+A magic staff with the power of the First Fonon.
+Said to be a catalyst for fonic artes.
+
+Unicorn Horn
+A shining staff with the power of the Sixth Fonon.
+Said to be a catalyst for fonic artes.
+
+Spear
+An orthodox iron spear.
+
+Glaive
+A spear with a single-edged blade on one end.
+More suited to swinging around than thrusting.
+
+Guisarme
+A spear with the qualities of an axe.
+
+Corsesca
+A kind of pole arm. Has three prongs and 
+is also known as a wind spear.
+
+Scythe
+A spear with a smooth, curved blade.
+
+Halberd
+An excellent weapon that combines attributes
+of an axe and a spear.
+
+Partisan
+A spear with a sharp steel blade.
+
+Bardiche
+A spear affixed with a large blade.
+
+Heavy Halberd
+A strengthened halberd.
+
+Trident
+A three-pronged spear.
+Known for being held by the god of the sea.
+
+Crescent
+A spear with a blade in the shape of the moon.
+
+Battle Axe
+A spear affixed with two large blades.
+Closer to an axe than a spear.
+
+Mythril Lance
+A spear of mythril that wields magical powers.
+Made in Akzeriuth.
+
+Papillon
+A spear with a blade in the shape of 
+a butterfly's wing.
+
+War Hammer
+A powerful hammer with a long handle.
+
+Do Sanga
+A spear with a sinuous tip to improve accuracy.
+
+Penetrator
+A spear that does what its name implies.
+
+Bahamut's Tear
+A powerful spear that can even annihilate the 
+legendary dragon.
+
+Efreet
+A spear protected by Efreet, the manifestation
+of the Fifth Fonon.
+
+Undine
+A spear protected by Undine, the manifestation
+of the Fourth Fonon.
+
+Sylph
+A spear protected by Sylph, the manifestation
+of the Third Fonon.
+
+Gnome
+A spear protected by Gnome, the manifestation
+of the Second Fonon.
+
+Deck Brush
+Scrub, ya scurvy swab! Scrub!
+Make the deck shine!
+
+Dunamis
+A spear based on the axe of a legendary young man.
+A prize for the Coliseum's Advanced Single Battle.
+
+Diabolic Fang
+A pole arm feared to be a demon's fang.
+
+Gae Bolg
+A magic spear made by a witch from the bone 
+of a dead sea monster.
+
+Longinus
+A legendary spear that metes out woe 
+with every strike.
+
+Gungnir
+The spear of the leader of legendary gods.
+
+Fork
+A beautiful fork honed to its finest to 
+run the enemy (or food) through.
+
+Pointer
+Check out the pointy finger!
+
+Fonic Lance
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Blood Pain
+A magic staff with the power of the First Fonon.
+Said to be a catalyst for fonic artes.
+
+Bow
+An orthodox bow.
+Light and easy to use.
+
+Custom Bow
+A strengthened bow.
+
+Self Bow
+A bow made with a single kind of wood.
+
+Slash Arrow
+A bow said to fire powerful shots.
+
+Composite Bow
+A bow with enhanced flexibility.
+
+Rapid Bow
+A bow made for rapid fire.
+
+Shincarrow
+A bow with a thick riser and upper limb
+for stronger shots.
+
+Killer Bow
+A bow said to strike an enemy's 
+vital organs.
+
+Hamayumi
+A bow said to have been commonly used on 
+the Isle of Hod. A symbol of good health.
+
+Hunting Bow
+A bow used for hunting.
+Requires an experienced archer.
+
+Battle Bow
+A bow for warfare. 
+Designed for ease of use.
+
+Merciless Bow
+A bow with cruel destructive power.
+Said to penetrate any armor.
+
+Clay Arrow
+A bow made harder and heavier for more 
+power when shooting.
+
+Cators Bow
+A strong bow made of a very flexible wood 
+reinforced with metal.
+
+Steel Bow
+A bow that pushes the limits of lightweight 
+material and powerful design.
+
+Full Metal Fang
+A bow forged by tempering steel over 
+and over again.
+
+Anclent Bow
+A bow made from a special metal.
+Lighter and easier to use than a normal bow.
+
+Ether Slash
+A bow made of processed steel.
+Very durable.
+
+Strike Eagle
+A bow that reminds one of a flying eagle.
+An extremely powerful weapon.
+
+Great Bow
+A larger-than-normal bow.
+
+Yutis
+A bow said to be wielded by a legendary 
+spirit of wind.
+
+Soul Steal
+A bow said to slowly eat into its target.
+
+Celestial Star
+Life is like the shining of a star.
+A prize for the Coliseum's Advanced Single Battle.
+
+Elven Bow
+A sacred bow from a legendary race.
+Always flies true to its target.
+
+Shooting Star
+Fires arrows like falling stars through the 
+night sky.
+
+Angel Arrow
+Feel the wrath of the heavens.
+
+Fonic Arrow
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Holy Quelquatl
+A shining bow with the power of the Sixth Fonon.
+Said to be a catalyst for fonic artes.
+
+Wonder Doll
+A doll with a darling red helmet.
+Raises Agility and Luck.
+
+Heihachi
+A doll with a cute hairdo.
+Unlocks Demon Breath and Stone Head.
+
+Artificial Life Form
+A doll with a cool visor.
+Unlocks the base arte X-BUSTER.
+
+Warrior Maiden
+A doll with a winged helmet.
+Raises various combat abilities.
+
+Time Traveling Hero
+A doll with a red bandana.
+Greatly raises critical rate.
+
+Priestess
+A doll with tidy braids.
+Unlocks the base arte Inspect Eye.
+
+Great Pirate
+A doll with pretty lips.
+Unlocks the base arte Pow Hammer.
+
+Time Traveling Girl
+A doll with a lovely pink hair tie.
+Unlocks the fonic arte Resurrection.
+
+Empty Girl
+A doll with graceful pigtails.
+Unlocks the arcane arte Beast.
+
+Rare Genius
+A doll with voluptuous lips.
+Unlocks the fonic arte Divine Saber.
+
+The Prince
+Really just an innocent, little doll.
+Gives a 15% chance to recover from KO.
+
+Ant Lion Man
+A doll with two horns.
+Periodically recover 8% HP & TP.
+
+Haute Couture
+Made especially for House fon Fabre.
+More expensive than weak armor.
+
+Leather Mail
+Armor made of leather. The basic armor 
+of all beginning adventurers.
+
+Iron Mail
+Armor made of iron.
+
+Chain Mail
+Thick upper-body chain mail.
+
+Splint Mail
+Upper-body chain mail inlaid with a 
+metal chest plate for added protection.
+
+Breastplate
+Upper-body armor overlaid with metal plating.
+
+Silver Mail
+Armor made of silver. 
+Normally reserved for ceremonial use.
+
+Silver Plate
+Armor that covers the entire body in silver.
+Normally reserved for ceremonial use.
+
+Battlesuit
+Armor made of small metallic plates. 
+The joints are protected by chain mail.
+
+Light Plate
+Armor made from a special metal that is 
+lighter and stronger than normal.
+
+Knight Armor
+Standard armor of the Order of Lorelei.
+
+Full Plate
+Hard armor with protected joints.
+Very heavy.
+
+Mythril Mail
+Armor made of mythril.
+
+Mythril Plate
+Armor that covers the entire body in mythril.
+
+Rare Mail
+A perfectly crafted masterpiece.
+
+Rare Plate
+A perfectly crafted masterpiece.
+
+Brigandine
+Lamellar armor which uses more plates to 
+increase defensive properties.
+
+Fonic Mail
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Golden Armor
+Armor that belonged to an ancient legendary hero.
+
+Reflex
+A magical suit of armor.
+
+Mumbane
+Armor protected by the great spirits 
+of the world.
+
+Leather Guard
+Light armor made of leather. The basic armor
+of all beginning adventurers.
+
+Iron Guard
+Light armor made of iron.
+
+Chain Guard
+Light upper-body chain mail.
+
+Scale Guard
+Light armor made from adding small metal 
+scales to chain guard.
+
+Breast Guard
+Light upper-body armor overlaid with 
+metal plating.
+
+Silver Guard
+Light armor made of silver. 
+Normally reserved for ceremonial use.
+
+Half Guard
+Light armor composed of steel and leather.
+Absorbs impacts well.
+
+Battle Guard
+Light armor made of small metallic plates. 
+The joints are protected by chain mail.
+
+Light Guard
+A version of battle guard strengthened
+to withstand extreme impacts.
+
+Knight Guard
+Standard light armor of the Order of Lorelei.
+
+Royal Guard
+Extremely expensive light armor that
+only the most noble may use.
+
+Mythril Guard
+Light armor made of mythril.
+
+Mighty Guard
+Armor made using advanced Artes.
+
+Rare Guard
+A perfectly crafted masterpiece.
+
+Rare Protector
+A perfectly crafted masterpiece.
+
+Princess Guard
+Special light armor solely for nobility.
+Every aspect has been given special thought.
+
+Fonic Guard
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Lunar Guard
+Light armor imbued with the power of the 
+moon.
+
+Solar Guard
+Light armor imbued with the power of the 
+sun.
+
+Prism Protector
+Mystic armor whose luster shines in 
+seven colors.
+
+Cloak
+A cloak made from regular cloth.
+Slightly better than normal clothing.
+
+White Cloak
+A cloak that can only be worn by those 
+with a pure heart.
+
+Silk Cloak
+A cloak made of silk. 
+Gives the wearer an air of refinement.
+
+Feather Cloak
+A feather-light cloak.
+
+Magic Cloak
+A cloak with a small amount of Fonons.
+
+Silver Cloak
+A cloak embroidered with silver.
+
+Mystic Cloak
+A cloak made from cloth as thin as mist.
+Despite its appearance, it is very durable.
+
+Mage Cloak
+A cloak infused with Fonons.
+Worn by mid-level fonists.
+
+Mirage Cloak
+A cloak specially made to refract light.
+
+Knight Cloak
+Standard clothing of the Order of Lorelei.
+
+Druid Cloak
+A cloak worn only by master fonists.
+
+Mythril Cloak
+A cloak made of mythril.
+
+Elder Cloak
+A cloak imbued with power different from
+Fonons.
+
+Reflection Cloak
+A cloak made of a rare, ancient ore.
+Much stronger against fonic artes.
+
+Fonic Cloak
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Queen Cloak
+A cloak that exudes integrity and refinement.
+
+Robe
+A robe made of thick cloth.
+
+White Robe
+A robe that can only be worn by those 
+with a pure heart.
+
+Silk Robe
+A robe made of silk.
+
+Feather Robe
+A feather-light robe.
+Gives the wearer an air of refinement.
+
+Carnelian Robe
+A robe of deep red, like the color of a
+heart.
+
+Silver Robe
+A robe embroidered with silver.
+
+Misty Robe
+A robe made from cloth as thin as mist.
+Despite its appearance, it is very durable.
+
+Cerulean Robe
+A robe of clear blue, like the color of
+the sky.
+
+Mirage Robe
+A robe specially made to refract light.
+
+Knight Robe
+Standard robe of the Order of Lorelei.
+
+Amber Robe
+A robe of amber, like the color of earth.
+
+Mythril Robe
+A robe made of mythril.
+
+Elder Robe
+A robe imbued with power different from
+Fonons.
+
+Viridian Robe
+A robe of green, like the color of forests.
+
+Fonic Robe
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Maestro Robe
+A robe said to be worn only by Maestros
+of the Order of Lorelei.
+
+Bracelet
+A very plain metal bracelet.
+
+Bronze Bracelet
+A bracelet made of bronze.
+
+Iron Bracelet
+A bracelet made of iron.
+
+Lapis Bracelet
+A bracelet with lapis lazuli.
+
+Steel Bracelet
+A bracelet made of steel.
+
+Silver Bracelet
+A bracelet made of silver.
+
+Gold Bracelet
+A bracelet made of gold.
+
+Platinum Bracelet
+A bracelet made of platinum.
+
+Diamond Bracelet
+A bracelet made of processed diamonds.
+
+Knight Bracelet
+Standard bracelet of the Order of Lorelei.
+
+Mythril Bracelet
+A bracelet made of mythril.
+
+Rare Bracelet
+A perfectly crafted masterpiece.
+
+Angel Bracelet
+A bracelet of happiness with an angel 
+engraved on it.
+
+Draupnir
+A magical bracelet. 
+Allows its wearer to triumph over evil.
+
+Fonic Bracelet
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Kaiser Bracelet
+A bracelet said to have been the favorite
+of an ancient king.
+
+Gloves
+Knit gloves made with thin material. 
+They provide little defense.
+
+White Gloves
+Pure white gloves worn by brides.
+
+Silk Gloves
+Gloves made of silk.
+Gives the wearer an air of refinement.
+
+Feather Gloves
+Gloves made from processed feathers.
+Lighter and better than real feathers.
+
+Archery Gloves
+Gloves made for pulling a bowstring.
+
+Silver Gloves
+Gloves made of silver.
+
+Mystic Gloves
+Gloves with mystic powers.
+
+Iron Gauntlets
+Gauntlets made of iron.
+
+Mirage Gloves
+Gloves specially made to refract light.
+
+Knight Gloves
+Standard gloves of the Order of Lorelei.
+
+Snow Mittens
+Gloves made from processed penguin 
+feathers.
+
+Mythril Gauntlets
+Gloves with mythril woven into the material.
+
+Elder Gloves
+Gloves imbued with power different from
+Fonons.
+
+Queen Gloves
+Gloves said to have been the favorite
+of the previous queen of Kimlasca.
+
+Fonic Gloves
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Kitchen Mittens
+Mittens used for cooking.
+Good for holding hot pans.
+
+Leather Helm
+A helmet made of leather.
+Only protects the head.
+
+Iron Helm
+A helmet made of iron. 
+Exposes the lower half of the face.
+
+Armet Helm
+An iron helmet that covers the 
+face and head.
+
+Steel Helm
+A helmet made of steel.
+Protects the face and head.
+
+Silver Helm
+A helmet made of silver. 
+Normally reserved for ceremonial use.
+
+Cross Helm
+A type of Armet Helm. 
+More refined than the original.
+
+Knight Helm
+Standard helmet of the Order of Lorelei.
+
+Duel Helm
+A gift given to a hero in an ancient land.
+
+Mythril Helm
+A helmet made of mythril.
+
+Rare Helm
+A perfectly crafted masterpiece.
+
+Fonic Helm
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Golden Helm
+A helmet that belonged to an ancient legendary hero.
+
+Alice Band
+A common item to keep hair back.
+
+Bronze Circlet
+A circlet made of bronze.
+
+Iron Circlet
+A circlet made of iron.
+
+Steel Circlet
+A circlet made of steel.
+
+Silver Circlet
+A circlet made of silver. 
+Normally reserved for ceremonial use.
+
+Gold Circlet
+A circlet made of gold. 
+Said to increase concentration. 
+
+Platinum Circlet
+A circlet made of platinum.
+A very expensive accessory.
+
+Knight Circlet
+Standard circlet of the Order of Lorelei.
+
+Mythril Circlet
+A circlet made of mythril.
+
+Rare Circlet
+A perfectly crafted masterpiece.
+
+Fonic Crest
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Elemental Circlet
+A circlet protected by Fonons.
+
+Beret
+A fashionable hat that also protects 
+from the elements.
+
+Straw Hat
+A round hat. Be careful not to lose 
+it on windy days.
+
+Pointed Hat
+A finely crafted hat. They don't make 
+'em like this anymore!
+
+Green Beret
+A green beret adorned with feathers.
+Kinda makes you feel a little more nimble.
+
+Silver Hat
+A hat embroidered with silver.
+
+Hunting Cap
+A plaid hat worn on hunting excursions.
+
+Knight Hat
+Standard hat of the Order of Lorelei.
+
+Silk Hat
+The choice of fine gentlemen.
+Can't pull a rabbit out of it, though.
+
+Cowboy Hat
+Put this here hat on, and you'll be whistlin' 
+"Home on the Range" in no time.
+
+Wizard Hat
+A hat that seems to make Artes easier.
+
+Fonic Hat
+One of the relics of the Six Kingdoms during
+the era of the Fonic War.
+
+Aifread's Hat
+A hat said to have been worn by a 
+certain pirate.
+
+Ribbon
+A cute ribbon of crisp red.
+Infused with the Fifth Fonon.
+
+Orange Ribbon
+A cute ribbon of calming orange.
+Infused with the Second Fonon.
+
+Yellow Ribbon
+A cute ribbon of robust yellow.
+Infused with the Sixth Fonon.
+
+Green Ribbon
+A cute ribbon of brisk green.
+Infused with the Third Fonon.
+
+Blue Ribbon
+A cute ribbon of fresh blue.
+Infused with the Fourth Fonon.
+
+Purple Ribbon
+A cute ribbon of sacred purple.
+Infused with the First Fonon. 
+
+Pretty Ribbon
+A very cute ribbon.
+
+Tartan Ribbon
+A ribbon with a checkered tartan pattern.
+
+Striped Ribbon
+A ribbon with stripes.
+
+Ancient Ribbon
+A ribbon made of a rare, ancient ore.
+
+Magical Ribbon
+A ribbon with strong fonic power.
+
+Elemental Ribbon
+A ribbon protected by Fonons.
+
+Poison Ward
+50% chance of preventing Poison.
+Also slightly resistant to water.
+
+Poison Charm
+Prevents Poison.
+Also slightly resistant to water.
+
+Paralysis Ward
+50% chance of preventing Paralysis. 
+Also slightly resistant to wind.
+
+Paralysis Charm
+Prevents Paralysis.
+Also slightly resistant to wind.
+
+Stone Ward
+50% chance of preventing Petrification. 
+Also slightly resistant to earth.
+
+Stone Charm
+Prevents Petrification.
+Also slightly resistant to earth.
+
+Drain Ward
+50% chance of preventing Weak. 
+Also slightly resistant to fire.
+
+Drain Charm
+Prevents Weak.
+Also slightly resistant to fire.
+
+Amulet
+Prevents all Physical Ailments.
+
+Laurel
+Prevents all Magical Ailments.
+
+Heal Bracelet
+Restores 10% of Max HP for every 
+enemy defeated.
+
+Spirit Bangle
+Restores 5% of Max TP for every 
+enemy defeated.
+
+Stun Bracelet
+A bracelet that reduces the duration 
+of Stun by 50%.
+
+Stun Talisman
+Prevents Stun.
+
+Tear's Pendant
+A memento of Tear's mother.
+A valuable accessory in its own right.
+
+World Charm
+Sometimes prevents Status Effects. 
+Also raises P.DEF & F.DEF.
+
+Sapphire Ring
+A ring with a star sapphire.
+Reduces TP consumption by 25%.
+
+Emerald Ring
+A ring with an emerald.
+Reduces TP consumption by 33%.
+
+Faerie Ring
+A ring engraved with a fairy. 
+Reduces TP consumption by 50%.
+
+Attack Ring
+A ring engraved with a sword.
+Raises both P.ATK & F.ATK during battle.
+
+Defense Ring
+A ring engraved with a shield.
+Raises both P.DEF & F.DEF during battle.
+
+Holy Ring
+Periodically restores 1% of wearer's 
+Max HP during battle.
+
+Spirit Ring
+Periodically restores 1% of wearer's 
+Max TP during battle.
+
+Protect Ring
+A ring engraved with a war god. 
+Reduces physical damage 10%.
+
+Force Ring
+A ring engraved with a war god. 
+Reduces physical damage 20%.
+
+Resist Ring
+A ring engraved with a goddess. 
+Reduces elemental damage 10%.
+
+Reflect Ring
+A ring engraved with a goddess. 
+Reduces elemental damage 20%.
+
+Effecti Ring
+A ring engraved with a devil.
+Reduces all damage 15%.
+
+Fonic Mark
+A crest engraved with fonic writing.
+Raises F.ATK by 10%.
+
+Fonic Symbol
+A crest engraved with fonic writing.
+Raises F.DEF by 10%.
+
+Holy Symbol
+A holy relic. 
+Periodically restores 3% of Max HP.
+
+Spirit Symbol
+A spiritual relic. 
+Periodically restores 3% of max TP.
+
+Mystic Mark
+The mark of a fonist.
+Slightly reduces casting time.
+
+Mystic Symbol
+The mark of a scorist.
+Reduces casting time.
+
+Strange Mark
+A crest that slightly shortens the time a 
+fonist is immobile after casting a fonic arte.
+
+Wonder Symbol
+A crest that shortens the time a fonist 
+is immobile after casting a fonic arte.
+
+Dark Seal
+EXP x1.5. (Must be equipped prior to battle). 
+Enemy damage x2. Sealed Artes.
+
+Demon's Seal
+EXP x2. (Must be equipped prior to battle). 
+Causes Physical Ailment during battle. 
+
+Krona Symbol
+Protects against all Status Effects.
+
+Knight Symbol
+A crest with the symbol of the Order
+of Lorelei. Increases critical hit rate.
+
+Maestro Stone
+A crest made from fonstone carved 
+with a portion of the Score.
+
+Jewel of Lorelei
+Created by Yulia through the power of Lorelei.
+Has the power to diffuse the Seventh Fonon.
+
+Cape
+A generic cape made of cloth. 
+A standard accessory for rookies.
+
+Leather Cape
+A cape made of leather. 
+A standard accessory for an adventurer.
+
+Thief's Cape
+The cape of choice for thieves. 
+Raises Agility slightly.
+
+Elven Cape
+A green cape from a legendary race.
+Slight elemental defense and raised Agility.
+
+Flare Cape
+A cape with a crest of the Fifth Fonon.
+Raises fire resistance 30%.
+
+Aqua Cape
+A cape with a crest of the Fourth Fonon.
+Raises water resistance 30%.
+
+Wind Cape
+A cape with a crest of the Third Fonon.
+Raises wind resistance 30%.
+
+Earth Cape
+A cape with a crest of the Second Fonon.
+Raises earth resistance 30%.
+
+Leather Boots
+Normal, everyday, run-of-the-mill boots.
+Comfy feet carry you through battle.
+
+Fine Boots
+Improved leather boots.
+Indispensable on long journeys.
+
+Iron Boots
+Boots made of iron.
+
+Heavy Boots
+Improved iron boots.
+Good, but heavy.
+
+Silver Boots
+Boots made of silver. 
+Normally reserved for ceremonial use.
+
+Mythril Boots
+Boots made of mythril.
+
+Rare Boots
+A perfectly crafted masterpiece.
+
+Persian Boots
+Cute boots in the shape of cat's paws.
+
+Garnet
+A gem protected by the Fifth Fonon.
+Said to prevent illness.
+
+Aquamarine
+A gem protected by the Fourth Fonon.
+Believed to guard against shipwrecks.
+
+Opal
+A gem protected by the Third Fonon.
+Hard to handle and affects those who possess it.
+
+Ruby
+A gem protected by the Second Fonon.
+Used for safeguarding love, happiness and bravery.
+
+Black Onyx
+Dispels evil to keep you balanced.
+Raises HP 30%.
+
+Moonstone
+Makes one very sensitive.
+Raises TP 30%.
+
+Magic Mist
+A crystal with smoke sealed inside. 
+Increases escape speed.
+
+Alexandrite
+A jewel that strengthens one's resolve.
+Increases HP & TP 25%.
+
+Sephira
+A sculpture of an unnamed goddess. 
+Equip it to earn 50% more Gald.
+
+Blue Sephira
+A sculpture of an unnamed goddess. 
+Equip it to earn 100% more Gald.
+
+Dice
+Carved from the fossil of an animal.
+Raises GRADE earned 10%.
+
+Blue Dice
+Made from aqua sapphire.
+Raises GRADE earned 20%.
+
+Rebirth Doll
+A statue symbolizing sacrifice.
+Automatically resurrects its KO'd wearer.
+
+<906C><8C60><975C><94F5><8250>
+
+
+<906C><8C60><975C><94F5><8251>
+
+
+<906C><8C60><975C><94F5><8252>
+
+
+World Map
+Map of Auldrant. A journey of a thousand 
+miles starts with but a single step. 
+
+Collector's Book
+A must-have for item collectors. 
+Have you recorded everything?
+
+<8382><8393><8358><835E><815B><8375><8362><834E>
+0
+
+Character Disc
+A tool for transferring information into the 
+registry in Teodoro's room.
+
+Sorcerer's Ring
+A ring entrusted to the Cheagle by Yulia Jue, 
+the founder of the Church of Lorelei.
+
+<8360><8383><836C><838A><8393><834F>
+0
+
+Moon Selector
+Change the controlled character during battle by 
+opening the menu and pressing the START button.
+
+Technical Ring
+Allows switching to Manual control mode.
+Be a master technician of the sweet science!
+
+Winged Boots
+Shoes decorated with wings.
+Increases movement speed.
+
+Magical Pouch
+Ingredients seem to come flying out!
+
+S Flag
+A sculpture of an S. A yellow flag for luck.
+Allows changing the displayed party member.
+
+All-Purpose Knife
+Light! Sharp! Easy to maintain!
+Use fonic power to cook even better!
+
+Incomplete Key of Lorelei
+Fonic weapon created by Yulia through the 
+power of Lorelei. It is missing its jewel.
+
+Passport
+A document necessary for travel between
+Malkuth and Kimlasca.
+
+Fonic Disc
+A disc taken from Sync at Choral Castle.
+Must use a fonic disc reader to learn what it holds.
+
+Principles of Fonology
+A book from Tear on Fonology.
+Contains a simple explanation for beginners.
+
+Permit
+A pass given by Tritheim authorizing 
+entry into Oracle Headquarters
+
+Launcher
+A fonic device that shoots a wire.
+Used to secure Albiore.
+
+Hover Drive
+A fonic device that allows Albiore to fly.
+
+Genesis of the World
+A forbidden book with a draft plan on stopping 
+core vibration while maintaining the Planet Storm.
+
+Dark Wings Badge
+The badge of a member of the Dark Wings. 
+So, are you a member, too?
+
+Frequency Counter
+A device that measures the frequency 
+of the core vibration.
+
+Flightstone
+A kind of fonstone. Indispensable for 
+aerial fonic devices to function properly.
+
+A Letter from Friends
+A letter from Luke's friends.
+
+Ion's Fonstone
+A piece of fonstone from the last Score 
+Ion read - the Planet Score.
+
+Locket
+A small locket with a portrait of a 
+blonde baby.
+
+Drive Chamber
+Albiore's Hover Drive without the Flightstone.
+
+Greater Flightstone
+Improves Albiore's performance when 
+installed in the Drive Chamber.
+
+Refined Flightstone
+Brings out the full power of Albiore's 
+Drive Chamber.
+
+Mors Draconis
+A special key made for playing
+Dragon Buster.
+
+Gourmet Apple
+The finest apple, sold only to a select few.
+A sweet aroma that entices even monsters.
+
+Rose's Charm
+A protective charm from Rose.
+
+Bronze Medal
+A bronze medal from a Single Battle in
+the Baticul Coliseum.
+
+Gold Medal
+A gold medal from a Single Battle in
+the Baticul Coliseum.
+
+Bronze Trophy
+A bronze trophy from a Party Battle in
+the Baticul Coliseum.
+
+Gold Trophy
+A gold trophy from a Party Battle in
+the Baticul Coliseum.
+
+Sorcerer's Ring - A
+Unlocks Mieu Attack.
+
+Sorcerer's Ring - W
+Unlocks Mieu Wings.
+
+Sorcerer's Ring - F2
+Increases the distance Mieu can 
+breathe fire.
+
+Key of Darkness
+A key from Noir that opens a 
+secret room...
+
+Robot's Generator
+A core used to operate the far elevator 
+on the Meggiora Highlands.
+
+Rem Capacitor
+A vessel for running the mechanical arm in the 
+Tower of Rem. Must be charged.
+
+Light Fonstone
+The voice of light that shakes the world.
+
+King's Portrait
+A youthful king with a peaceful smile.
+
+Spa Membership
+Enjoy the members-only facilities of 
+Keterburg's hotel.
+
+Shadow Fonstone
+The voice of shadow that shakes the world.
+
+Prelude
+A fonic disc whose pleasant tone brings 
+back memories of the beginning of a tale.
+
+Purity
+A fonic disc whose beautiful tone
+cleanses one's heart.
+
+Requiem
+A fonic disc whose tone gives rest to souls 
+who have passed.
+
+Noble Thief
+A fonic disc whose tone inspires those 
+who have sacrificed themselves.
+
+Silver and White
+A fonic disc whose tone closely resembles a 
+land covered in snow.
+
+Comedy
+A fonic disc whose tone puts a smile on 
+faces everywhere.
+
+Finale
+A fonic disc whose tone tells the end 
+of a tale. 
+
+<8CB6><917A><82CC><89B9><94D5>
+
+
+Secret Box
+The secret box of the fruitseller in Engeve.
+No one is allowed to look inside.
+
+Fanzine
+The newsletter of the Black Dream's fan club. 
+Out of 16 articles, 14 are all about Noir.
+
+Cecille's Sword
+On Auldrant, receiving a sword from a woman
+means a breakup.
+
+Frings' Letter
+A letter from General Frings to General Cecille.
+
+Memento Ring
+A memento of General Frings' mother
+given to General Cecille.
+
+Rugnican Death Cap
+A special mushroom that grows only along the 
+Mushroom Road. It has medicinal uses.
+
+Ancient Scroll
+A sonnet written in Ancient Ispanian.
+The three forbidden tones are encoded within.
+
+<8EBD><8D95><82CC><9783><82CC><975C><8D90><8FF3>
+
+
+Hod Citizen Registry
+A registry with the names of Artes Council 
+members who learned Sigmund-style artes.
+
+Arcana Albertis
+A book of Albert-style arcane artes.
+It is said there are four volumes in total.
+
+Holy Seal
+A seal that raises the effect of Holy Bottles.
+
+Dark Seal
+A seal that raises the effect of Dark Bottles.
+
+Gald Detector
+Who knows? You might find some Gald just 
+by walking around!
+
+
+
+
+*TYPE2
+
+Tool: Gel
+Tool: Bottle
+Tool: Herb
+Tool: Battle
+Food: Meat
+Food: Veg.
+Food: Fruit
+Food: Grain
+Food: Other
+Weap: Sword
+Key: Weapon
+Weap: Staff
+Weap: Spear
+Weap: Bow
+Armor: Body
+Armor: Guard
+Armor: Cloak
+Armor: Robe
+Armor: Bracelet
+Armor: Glove
+Armor: Helmet
+Armor: Circlet
+Armor: Hat
+Armor: Ribbon
+Access: Charm
+Access: Ring
+Access: Crest
+Key: Crest
+Access: Cape
+Access: Boots
+Access: Jewel
+Access: Doll
+Access: Sculpture
+Spec: C. Core
+Spec: FS Chamber
+Tool: Key Item
+Tool: Trade

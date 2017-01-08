@@ -1,0 +1,358 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¿Mmm?\n¿Qué es ese ruido?
+Parece un torneo de lucha...
+¡¿Un torneo de lucha?!\n¡¿Qué es eso?!
+Oh-oh...
+¿Qué?...
+Todos los de la mansión intentamos mantenerlo\nen secreto. Supusimos que si Luke lo hubiera\nsabido, habría suplicado y lloriqueado por venir.
+Yo también fui cómplice\nde ese engaño.
+¡N-No soy tan inmaduro!
+Oh, ¿en serio? ~
+Este torneo de lucha nacional es famoso.
+Yo también pasé una dura temporada\ncon el emperador Peony diciendo:\n"¡Yo quiero ir! ¡Quiero participar!"
+Creí que esta vez no podrían\ncelebrarlo, pero como la\nguerra ya ha acabado...
+Usar espectáculos de este tipo para distraer\nal pueblo y aliviar temporalmente su miedo y\nsu descontento es el truco favorito de los\ngobiernos.
+No tienes por qué describirlo así.
+Oh, lo siento.
+Bienvenidos al torneo de lucha.\nEste es el centro de información.<PAGE>\n¿Quieres oír una explicación del\nacontecimiento?
+Sí\nNo
+Los participantes disputan un número determinado\nde batallas según el nivel de combate.\nTienen que ganarlas todas o quedan eliminados.<PAGE>\nSi quieres participar, primero tienes que\npagar la entrada, el precio de la cual\ndependerá del nivel que elijas.<PAGE>\nSi pierdes, se acabó, pero si ganas\ntodas las batallas del nivel, ganarás\nun fabuloso premio.<PAGE>\nDurante el torneo\nestá prohibido:\n- Usar objetos.\n- Cambiar el equipo<PAGE>\nTendrás que luchar batallas consecutivas,\nasí que será mejor estar en plena forma\nantes de participar.<PAGE>\nPero aunque pierdas, tu vida no correrá\npeligro, así que no te preocupes.<PAGE>\nSi quieres participar, regístrate\nen la mesa de ahí.<PAGE>\nHay diferentes lugares donde registrarse\nsegún el nivel de combate que elijas.
+¿Escuchar la explicación otra vez? \nSí \nNo
+A la izquierda está la sala de espera y\na la derecha, los asientos del público.<PAGE>\nDisfruta del torneo.
+¡Hola! ~ \n¡Este es el registro del torneo individual!<PAGE>\nAquí puedes elegir el nivel,\npagar la entrada y elegir quien\nva a participar.<PAGE>\nCuando hayas decidido quien va a\nparticipar, no puedes abandonar\nel torneo hasta que acabe.
+¿Quieres participar?\nSí\nNo
+Torneo individual - Principiante (3 combates):  6.000 gald\nExplicación\nCancelar
+Torneo individual - Principiante (3 combates):  6.000 gald\nTorneo individual - Avanzado (5 combates):  10.000 gald\nExplicación\nCancelar
+En los combates individuales, el luchador\nelegido disputa una serie de batallas\nconsecutivas en el nivel seleccionado.<PAGE>\nDespués de elegir el nivel, dejaremos\nque decidas quien será el participante.<PAGE>\nDurante la batalla, no está permitido\nusar objetos ni cambiar el equipo.<PAGE>\nSi pierdes, no recuperarás el dinero\nde tu entrada, pero si ganas... bueno,\n¡premios espléndidos esperan al campeón!.<PAGE>\nAunque pierdas, nos aseguraremos de que\nsalgas curado, ¡así que no te preocupes!\n¡Entra ahí y hazlo lo mejor que puedas!
+¿Quién va a participar?
+¿Quién participará?\nLuke\nTear\nGuy\nJade\nAnise\nNatalia\nCancelar
+Luke participará en\nel nivel Principiante.\n¿Correcto?
+Tear participará en\nel nivel Principiante.\n¿Correcto?
+Guy participará en\nel nivel Principiante.\n¿Correcto?
+Jade participará en\nel nivel Principiante.\n¿Correcto?
+Anise participará en\nel nivel Principiante.\n¿Correcto?
+Natalia participará en\nel nivel Principiante.\n¿Correcto?
+¿Va a participar Luke? \nSí\nNo
+¿Va a participar Tear? \nSí\nNo
+¿Va a participar Guy? \nSí\nNo
+¿Va a participar Jade? \nSí\nNo
+¿Va a participar Anise? \nSí\nNo
+¿Va a participar Natalia? \nSí\nNo
+La sala de espera de los participantes\nestá a la izquierda. Cuando estés listo,\ndíselo al soldado de la puerta.
+Qué pena.\n¡Inténtalo la próxima vez!
+¡Lo siento, no tienes\nsuficiente gald!
+Luke participará en\nel nivel Avanzado.\n¿Correcto?
+Tear participará en\nel nivel Avanzado.\n¿Correcto?
+Guy participará en\nel nivel Avanzado.\n¿Correcto?
+Jade participará en\nel nivel Avanzado.\n¿Correcto?
+Anise participará en\nel nivel Avanzado.\n¿Correcto?
+Natalia participará en\nel nivel Avanzado.\n¿Correcto?
+¿Quieres participar en el torneo por equipos?<PAGE>\nLa selección del nivel y el pago\nde la entrada se hacen aquí.
+¿Participar? \nSí \nNo
+Torneo por equipos - Principiante: 6.000 gald \nExplicación \nCancelar
+Torneo por equipos - Principiante: 5.000 gald \nTorneo por equipos - Avanzado: 10.000 gald \nExplicación\nCancelar
+En el torneo por equipos, el equipo de\ncuatro miembros elegido disputará una serie\nde combates consecutivos según el nivel.<PAGE>\nDespués de escoger el nivel, tendrás que elegir \na los miembros del equipo que participarán.<PAGE>\nDurante el combate, está prohibido\nusar objetos y cambiar el equipo.<PAGE>\nSi perdéis, no recuperaréis el dinero\nde vuestra entrada, pero los ganadores\nse llevaran premios fantásticos.<PAGE>\nAunque derroten a tu equipo, nuestros\nsanadores son muy buenos y se ocuparán ellos.\nSalid y luchad con todas vuestras fuerzas.
+Ahora escoge a los participantes.<PAGE>\n¿"<819B><819B>"?\n¿Es correcto?
+Sí\nNo
+La sala de espera de los participantes\nestá a la izquierda. Cuando estéis listos,\ndecídselo al soldado de la puerta.
+Si cambiáis de opinión,\nhablad conmigo.
+¿Participar con este equipo? \nSí \nNo
+Lo siento. \nNo tienes suficiente gald.
+Los participantes serán<PAGE>\n<04*><02*><04*>\n<04*><02*><04*>\n<04*><02*><04*>\n<04*><02*><04*>\n¿Correcto?
+Aquí te puedes registrar para...
+Lo siento, parece que no te has\nganado el derecho a participar.\nPor favor, prueba en otros torneos.
+Aquí puedes registrarte en el juego\nnuevo, "los globos de Baticul".
+¿Quieres participar? \nSí \nNo
+Principiante - 1.000 gald \nExplicación \nCancelar
+Principiante - 1.000 gald \nMedio - 3.000 gald \nAvanzado - 5.000 gald \nExplicación \nCancelar
+¡¡Explota los globos que flotan por\nel Coliseo tan rápido como puedas!!\nDe eso va "los globos de Baticul".<PAGE>\nSólo puede participar uno cada vez.\nCuando el tiempo se acabe,\nel juego terminará.<PAGE>\nPuedes utilizar cualquier método\npara explotar los globos.\nEsfuérzate al máximo.
+¿Quieres participar?
+Sí\nNo
+La sala de espera de los participantes\nestá a la izquierda. Cuando estés listo,\ndíselo al soldado de la puerta.
+Creo que eso suena un poco suave.
+¿Quién participará?\nLuke\nTear\nGuy\nJade\nAnise\nNatalia\nCancelar
+Luke participará en\nel nivel Principiante.\n¿Correcto?
+Tear participará en\nel nivel Principiante.\n¿Correcto?
+Guy participará en\nel nivel Principiante.\n¿Correcto?
+Jade participará en\nel nivel Principiante.\n¿Correcto?
+Anise participará en\nel nivel Principiante.\n¿Correcto?
+Natalia participará en\nel nivel Principiante.\n¿Correcto?
+¿Va a participar Luke? \nSí\nNo
+¿Va a participar Tear? \nSí\nNo
+¿Va a participar Guy? \nSí\nNo
+¿Va a participar Jade? \nSí\nNo
+¿Va a participar Anise? \nSí\nNo
+¿Va a participar Natalia? \nSí\nNo
+¡Lo siento, no tienes\nsuficiente gald!
+Luke participará en\nel nivel medio. \n¿Es correcto?
+Tear participará en\nel nivel medio. \n¿Es correcto?
+Guy participará en\nel nivel medio. \n¿Es correcto?
+Jade participará en\nel nivel medio. \n¿Es correcto?
+Anise participará en\nel nivel medio. \n¿Es correcto?
+Natalia participará en\nel nivel medio. \n¿Es correcto?
+Luke participará en\nel nivel Avanzado.\n¿Correcto?
+Tear participará en\nel nivel Avanzado.\n¿Correcto?
+Guy participará en\nel nivel Avanzado.\n¿Correcto?
+Jade participará en\nel nivel Avanzado.\n¿Correcto?
+Anise participará en\nel nivel Avanzado.\n¿Correcto?
+Natalia participará en\nel nivel Avanzado.\n¿Correcto?
+Lo siento. Veo que uno de tus miembros\ntiene el título de <10*>.<PAGE>\nNo tienes que pagar la entrada.\nPuedes entrar tanto como quieras.
+Ésta es la mesa de recepción\npara los equipos. Lo siento,\npero el Coliseo está cerrado.
+Ésta es la mesa de recepción para\nlos combates individuales. Lo siento,\npero el Coliseo está cerrado.
+¡El Coliseo es enorme!
+Si bajas las escaleras, verás\na un montón de gente\nnerviosa... dan miedo
+Ha valido mucho la pena\nvenir desde Sheridan.
+Este sitio es genial.\n¿Por qué no lo reabrieron antes?
+¿Estás aquí para entrar en el torneo?\nEn ese caso, firma en la recepción.
+Si quieres mirar, las\nescaleras del lado este\nllevan a las gradas.
+En mis tiempos vi a un montón de\ncompetidores del Coliseo, ¿pero ellos?\nEllos están a otro nivel.<PAGE>\nPareces bastante fuerte, pero\ndudo que puedas vencerles.
+Personalmente, a mi me gusta esa\nmonada de rubio con el traje blanco.

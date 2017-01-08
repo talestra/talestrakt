@@ -14,48 +14,48 @@ group = "com.tales-tra"
 version = "${props.talestraVersion}"
 
 configurations {
-    provided
+	provided
 }
 
 sourceSets {
-    main { compileClasspath += configurations.provided }
+	main { compileClasspath += configurations.provided }
 }
 
 sourceSets {
-    main.java.srcDirs = ['src']
-    main.kotlin.srcDirs = ['src']
-    main.resources.srcDirs = ['resources', 'assets']
-    test.java.srcDirs = ['test']
-    test.kotlin.srcDirs = ['test']
-    test.resources.srcDirs = ['testresources', 'testassets']
+	main.java.srcDirs = ['src']
+	main.kotlin.srcDirs = ['src']
+	main.resources.srcDirs = ['resources', 'assets']
+	test.java.srcDirs = ['test']
+	test.kotlin.srcDirs = ['test']
+	test.resources.srcDirs = ['testresources', 'testassets']
 }
 
 repositories {
-    mavenLocal()
-    maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
-    maven { url "https://dl.bintray.com/soywiz/soywiz-maven" }
-    mavenCentral()
+	mavenLocal()
+	maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+	maven { url "https://dl.bintray.com/soywiz/soywiz-maven" }
+	mavenCentral()
 }
 
 dependencies {
-    compile "com.jtransc:jtransc-rt-core:${props.jtranscVersion}"
-    compile "com.soywiz:korio:$korioVersion"
-    compile "com.soywiz:korim:$korimVersion"
-    compile "com.soywiz:korui:$koruiVersion"
-    //compile "com.badlogicgames.gdx:gdx:${project.ext.gdxVersion}"
-    compile "org.jetbrains.kotlin:kotlin-stdlib:${props.kotlinVersion}"
-    compile "org.jetbrains.kotlin:kotlin-runtime:${props.kotlinVersion}"
-    testCompile 'junit:junit:4.12'
+	compile "com.jtransc:jtransc-rt-core:${props.jtranscVersion}"
+	compile "com.soywiz:korio:$korioVersion"
+	compile "com.soywiz:korim:$korimVersion"
+	compile "com.soywiz:korui:$koruiVersion"
+	//compile "com.badlogicgames.gdx:gdx:${project.ext.gdxVersion}"
+	compile "org.jetbrains.kotlin:kotlin-stdlib:${props.kotlinVersion}"
+	compile "org.jetbrains.kotlin:kotlin-runtime:${props.kotlinVersion}"
+	testCompile 'junit:junit:4.12'
 }
 
 buildscript {
-    repositories {
-        maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
-        mavenLocal()
-        mavenCentral()
-    }
-    dependencies {
-        classpath "com.jtransc:jtransc-gradle-plugin:$jtranscVersion"
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
-    }
+	repositories {
+		maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+		mavenLocal()
+		mavenCentral()
+	}
+	dependencies {
+		classpath "com.jtransc:jtransc-gradle-plugin:$jtranscVersion"
+		classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+	}
 }

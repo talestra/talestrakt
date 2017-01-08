@@ -1,7 +1,5 @@
 package com.talestra.rhcommon.translations
 
-import com.talestra.rhcommon.text.escape
-import com.talestra.rhcommon.text.quote
 import com.talestra.rhcommon.text.unquote
 
 // https://www.gnu.org/software/gettext/manual/html_node/PO-Files.html

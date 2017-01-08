@@ -1,0 +1,20 @@
+POS: 0
+UN1: 0
+UN2: 40
+
+# UNKNOWN ACHUNK
+ACHUNK:  15, (450,  90,   0,  64), (  0, 128)
+
+# STATIC ACHUNKS
+ACHUNK:  30, (  0,   0, 100,  32), (100,   5)
+ACHUNK:  60, (  0,   0, 290,  32), ( 90,  80)
+
+# GLYPH ACHUNKS (5)
+ACHUNK:  40, (  0,   0,  52,  45), (120,  40)
+ACHUNK:  40, ( 52,   0,  90,  36), (170,  40)
+ACHUNK:  70, (  0,  45,  45,  90), (210,  30)
+ACHUNK:  80, (  0,  92,  38, 111), (250,  50)
+ACHUNK:  90, ( 48,  48, 102, 107), (280,  30)
+
+COLOR0: #FFFFFF
+COLOR1: #FFFFFF

@@ -1,0 +1,735 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Esta estatua es de Karl III.\nSe le considera un héroe en Keterburg.
+Keterburg fue fundada\npor Karl III.\nAquí se le tiene en gran estima.
+El Hotel de Keterburg tiene dos entradas,\nla del este y la del oeste.<PAGE>\nLas dos llevan al vestíbulo,\nasí que no importa cual uses.
+Keterburg fue fundada\npor Karl III.\nAquí se le tiene en gran estima.
+El cofre del techo de\nahí no es mío.<PAGE>\nAsí que no me preocupo por él.\nNo me molesta en absoluto.
+Tampoco creo que se\ncaiga por el peso\nde la nieve. ¡En serio!
+El cofre del techo de\nahí no es mío.<PAGE>\nAsí que no me preocupo por él.\nNo me molesta en absoluto.
+Tampoco creo que se\ncaiga por el peso\nde la nieve. ¡En serio!
+Nephry, la gobernadora de Keterburg,\nvive ahí atrás.
+Pero estoy seguro de que éso ya lo sabes\nde mirar las chapas del suelo.
+Nephry, la gobernadora de Keterburg,\nvive ahí atrás.
+Pero seguro que lo \nsabes de mirar las \nchapas del suelo.
+Si sigues este camino,\nverás un montón de casas\ngrandes como la mía.
+Hay muchas "casas de campo", y\nla casa de Nephy está ahí también.
+Si sigues este camino,\nverás un montón de casas\ngrandes como la mía.
+Hay muchas "casas de campo", y\nla casa de Nephy está ahí también.
+Estoy cansado de estar\ntodo el rato en el hotel.
+Me gustaría poder\nir al casino.
+Estoy cansado de estar\ntodo el rato en el hotel.
+Me gustaría poder\nir al casino.
+Los gemelos que viven en esas casas\nson famosos aquí en Keterburg.<PAGE>\nA pesar de que sus casas están\nconectadas, se llevan fatal.\n¡Son tan raros!
+La de la izquierda pertenece a\nYanu, el hermano mayor.<PAGE>\nLa de la derecha pertenece a\nMarbo, el hermano menor.
+Los gemelos que viven en esas casas\nson famosos aquí en Keterburg.<PAGE>\nA pesar de que sus casas están\nconectadas, se llevan fatal.\n¡Son tan raros!
+La de la izquierda pertenece a\nYanu, el hermano mayor.<PAGE>\nLa de la derecha pertenece a\nMarbo, el hermano menor.
+Vine aquí con mis padres después de\nmi ceremonia de mayoría de edad.
+Ya no tiene sentido preocuparse\npor la Partitura.
+Vine aquí con mis padres después de\nmi ceremonia de mayoría de edad.
+Ya no tiene sentido preocuparse\npor la Partitura.
+En Keterburg nacieron dos genios:\nel experto en fonotecnología, el doctor Neis, y el\nmaestro de las artes fónicas, el doctor Jade Balfour.<PAGE>\nEl doctor Neis es ahora uno de\nlos Seis Generales de Élite.
+Y, al parecer, el doctor Balfour se fue\ny lo adoptaron en alguna familia militar.
+En Keterburg nacieron dos genios:\nel experto en fonotecnología, el doctor Neis, y el\nmaestro de las artes fónicas, el doctor Jade Balfour.<PAGE>\nEl doctor Neis es ahora uno de\nlos Seis Generales de Élite.
+Y, al parecer, el doctor Balfour se fue\ny lo adoptaron en alguna familia militar.
+Plaza de Keterburg^
+{Residencia de la gobernadora\n   Entrada oeste al Hotel Keterburg}\n   Casino|
+Estatua del héroe, Karl III
+Hotel de Keterburg
+<SPEECH*>Si no os importa, me gustaría\nparar en Keterburg.<PAGE>\n<SPEECH*>Preguntemos a Nephry acerca de las\ncondiciones actuales en monte Roneal.
+<SPEECH*>Vale.
+<SPEECH*>¡Jade! \n¡Justo a tiempo!
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Saphir se desmayó en la plaza del pueblo\ny no ha despertado desde entonces.
+<SPEECH*>¿Saphir?
+<SPEECH*>El verdadero nombre de Dist.
+<SPEECH*>¡¿Eh?! \n¡¿Qué hace Dist desmayado aquí?!
+<SPEECH*>Parece que mi hermano le prometió a\nSaphir encontrarse aquí con él.<PAGE>\n<SPEECH*>Farfulla "¿aún no ha llegado Jade?".
+<SPEECH*>¿No recibimos una carta suya cuando\nestábamos buscando la piedra de vuelo?...
+<SPEECH*>Vaya, ha esperado fielmente a Jade.
+<SPEECH*>Bueno, después de todo, es idiota.<PAGE>\n<SPEECH*>Aunque nos es conveniente.\nLo despertaremos a hostias y le\npreguntaremos por el monte Roneal.<PAGE>\n<SPEECH*>¿Dónde está?
+<SPEECH*>Le alquilé una habitación en\nel hotel y lo acosté allí.
+<SPEECH*>Pues llama a la policía militar\ny envíalos al hotel.
+<SPEECH*>Vas a arrestarlo... Vale.\nPero no dejes que le hagan\nnada violento.
+<SPEECH*>Ni se me ocurriría.\nVenga, Luke, vamos al hotel.
+<SPEECH*>De acuerdo...
+<SPEECH*>Jade... espérame...\nzzz....
+<SPEECH*>Está soñando que juega al pilla\npilla contigo, Coronel...
+<SPEECH*>Bueno... \nLe preguntaré un poco sobre el monte Roneal.<PAGE>\n<SPEECH*>Por favor, esperad fuera, todos.
+<SPEECH*>...
+<SPEECH*>¡Aaaaaaah!
+<SPEECH*>¡P-Para!\n¡Para! ¡Me estás matando!
+¡Jade! \n<SPEECH*>¡¡Lo sientooooooooo!!
+<SPEECH*>Parece que los terremotos provocan\navalanchas más frecuentes.<PAGE>\n<SPEECH*>Además, hay un monstruo muy poderoso\nviviendo en las partes más profundas.<PAGE>\n<SPEECH*>Los monstruos de ese área serán\nmás agresivos a causa de su influencia.
+<SPEECH*>V-Vale... \nEm... sobre ese grito de ahora...
+<SPEECH*>Oh, no era nada.\nVenga, vámonos.
+<SPEECH*>Vale...
+<SPEECH*>El General de Élite Dist está dentro.\nArréstalo inmediatamente.
+<SPEECH*>¡Sí, señor!
+<SPEECH*>Le he calmado un poco,\npero sed precavidos.
+<SPEECH*>¡Entendido!
+<SPEECH*>Ahora nos podemos dirigir al monte Roneal.
+<SPEECH*>Creo que ahora entiendo por qué\nte tiene tanto miedo...
+<SPEECH*>Los Generales de Élite trajeron aquí una\nvez un regimiento de los Caballeros del\nOráculo. Los monstruos y las avalanchas\nse llevaron a muchos de ellos.
+<SPEECH*>Sí, no puedes escapar de una avalancha.
+<SPEECH*>No hagáis más\nruido del necesario.\n¿De acuerdo?
+<SPEECH*>¿Es eso el viento?...
+<SPEECH*>Suena como una mujer llorando...
+<SPEECH*>Es espeluznante...
+<SPEECH*>¿Qué pasa, Jade?\nNo me digas que también estás asustado.
+<SPEECH*>No...\nSólo recordaba el pasado.
+<SPEECH*>¿El pasado?
+<SPEECH*>Je je. Es la historia del fantasma\nde una mujer que murió en estas\nmontañas. ¿Os gustaría oírla?
+<SPEECH*>¡Oh, me encantan esa clase de historias!
+<SPEECH*>¡D-Dejad de perder el tiempo!\n¡Vamos!
+<SPEECH*>¿Eh? No me digas...
+<SPEECH*>¡No estoy asustada en absoluto!\n¡Así que sigamos!
+<SPEECH*>Arietta, cualquier movimiento\nimprudente podría provocar una\navalancha.
+<SPEECH*>No importa. Ellos ya espera\nque estemos aquí esperándoles.
+<SPEECH*>Otra vez. Ahora incluso me\nempiezo a sentir mal.
+<SPEECH*>Es extraño.\nEso ha sido...
+<SPEECH*>Sí... Voces humanas.\nTengamos cuidado.\nNo estamos solos aquí.
+<SPEECH*>¿Son los Generales de Élite?
+<SPEECH*>No creo que haya ninguna duda...
+<SPEECH*>Está bien, sed precavidos.
+<SPEECH*>¡Ahí están!
+<SPEECH*>¡Aaah!
+<SPEECH*>Maestro Fónico... no te metas en medio.
+<SPEECH*>Arietta... Yo...
+<SPEECH*>¡Ion! \n¡No hay por qué decírselo\na la estúpida de Arietta!
+<SPEECH*>Anise...
+<SPEECH*>Algunas cosas es mejor\ndejarlas sin decir.
+<SPEECH*>Tear, deja de sacrificarte.\n¿Vale tanto este mundo?
+<SPEECH*>Capitán. No puedo compartir la\nopinión extremista de mi hermano.<PAGE>\n<SPEECH*>Me frustra no poder detenerle,\npero te menosprecio porque tú ni\nsiquiera lo has intentado.
+<SPEECH*>Entonces no esperaré más.\n¡Eliminaremos a todos los que se \nopongan al Comandante!
+<SPEECH*>¿Qué tal si vuelves al castillo\ny portas bien, Princesa?
+<SPEECH*>No me insultes.\nTengo el deber de acabar con todo\nesto en nombre de mi padre.
+<SPEECH*>Tú "padre", ¿eh? Qué más da.\n¡Si no podemos convencerte, entonces\nte detendremos a la fuerza!
+<SPEECH*>¡No!\n¡La batalla ha causado una avalancha!
+<SPEECH*>¡Cantaré un himno fónico!
+<SPEECH*>¡No hay tiempo!
+<SPEECH*>¡Luke!\n¡Venga!
+<SPEECH*>¿Estamos vivos?...
+<SPEECH*>Hemos tenido suerte de que esto\nestuviera justo debajo de donde estábamos.\nHemos logrado parar aquí...
+<SPEECH*>Entonces, los Generales de Élite están...
+<SPEECH*>Cayeron al barranco...
+<SPEECH*>No pasa nada... Habríamos matado a\nla capitán Legretta de todos modos.\nEra un enemigo.
+<SPEECH*>Bueno, mirad... es la entrada\nal anillo de tránsito.
+<SPEECH*>¡Tienes razón!\nPrecisamente aquí...
+<SPEECH*>De algún modo, hemos tenido\nsuerte de que nos alcanzara la avalancha.
+<SPEECH*>Voy a abrir el sello.
+<SPEECH*>Ion, aún estás débil por la avalancha...
+<SPEECH*>Tranquila.\nYo me ocupo.\nÉste es el último.
+<SPEECH*>Gracias, Ion...
+<SPEECH*>¡Ion!
+<SPEECH*>No pasa nada.\nYa casi estamos...
+<SPEECH*>Vale... Vamos.
+<SPEECH*>Tear, ¿estás bien?
+<SPEECH*>Si te refieres a lo de la\nCapitán, estoy bien...
+<SPEECH*>¿Acaso lo has olvidado?\nTenemos que hacer lo que esté en nuestras manos.
+<SPEECH*>Ahora, Luke.<PAGE>\n<SPEECH*>Sólo hay que conectar todos los\nsephiroth a los Portales de la Absorción\ny de la Radiación.
+<SPEECH*>Entendido.
+<SPEECH*>Vale. Hecho.
+<SPEECH*>Ahora, en cuanto activemos los\ndos Portales, todos los sephiroth\nse conectarán.
+<SPEECH*>¡¿Qué ocurre?!
+<SPEECH*>¡¿La he cagado en algo?!
+<SPEECH*>Buena jugada...
+<SPEECH*>¿De qué se trata?\n¿Qué ha pasado?
+<SPEECH*>Las partículas de memoria están fluyendo\na la inversa desde el Portal de la Absorción.<PAGE>\n<SPEECH*>¡Está estimulando el núcleo\nusando el poder de todos los\nsephiroth que están conectados!
+<SPEECH*>Solamente una persona capaz de\ncontrolar los anillos de tránsito\npodría hacerlo...
+<SPEECH*>¡Van! ¡¿Pero por qué?! ¡Está en el\nPortal de la Absorción! Si invierte \nel flujo de partículas de memoria,<PAGE>\n<SPEECH*>entonces el árbol de sephiroth donde\nse encuentra se invertirá,<PAGE>\n<SPEECH*>y todo el archipiélago de Tuft\ncaerá junto con el Portal.
+<SPEECH*>No, hemos hecho que el poder de\ntodos los sephiroth del mundo fluya\nhacia el Portal de la Absorción.<PAGE>\n<SPEECH*>Es probable que esté utilizando el exceso\nde poder de ahí para invertir el sephiroth.<PAGE>\n<SPEECH*>De hecho, si algo va a caer, va a ser\ntodo EXCEPTO el Portal de la Absorción.
+<SPEECH*>¡Ni de coña dejaremos\nque eso pase!
+<SPEECH*>Oye, el Tartarus está neutralizando\nla vibración del núcleo, ¿no es así?\nSi esto estimula el núcleo...
+<SPEECH*>¡El Tartarus se romperá!
+<SPEECH*>¡Maldita sea!\n¡Tenemos que detener al maestro Van!
+<SPEECH*>No te olvides de dejar que Ion\ndescanse en el pueblo.
+<SPEECH*>Lo siento.
+<SPEECH*>No te disculpes.<PAGE>\n<SPEECH*>Has estado arriesgando tu\nvida para salvarnos.<PAGE>\n<SPEECH*>Incluso Luke entiende que\ndebemos dejar que descanses.
+<SPEECH*>Sí. Perdona, Ion.\nAguanta sólo un poco más.
+<SPEECH*>Vale. Gracias.
+<SPEECH*>Eso no es todo.\nEl miasma...
+<SPEECH*>No entiendo por qué la\nCapitán y los demás creen\nen el loco ideal de Van...
+<SPEECH*>Estoy seguro de que cada uno tiene\nsus motivos. Creo que los entiendo.
+<SPEECH*>Guy... ¿Por qué?
+<SPEECH*>Durante años, prometí que colaboraría\ncon Van para vengarme del Duque.<PAGE>\n<SPEECH*>Si en algún momento hubiera tomado \nun camino ligeramente distinto, quizá \nahora estaría a su lado.
+<SPEECH*>Guy... ¿Incluso sabiendo qué tipo de\nmundo pretende crear el maestro Van?
+<SPEECH*>Si eso significase que Hod... que mis\namigos y toda mi familia vuelvieran, aunque \nsea como réplicas, me parecería bien...
+<SPEECH*>¡Guy!
+<SPEECH*>Posiblemente eso habría pensado.\nSinceramente, incluso ahora, no estoy \nseguro de lo que es correcto.
+<SPEECH*>Sí...\nPerdiste tu hogar.
+<SPEECH*>Me imagino que todos los Generales de Élite\ntienen algo que les importa tanto que\nserían capaces de destruir el mundo.<PAGE>\n<SPEECH*>Y esos sentimientos coinciden\ncon el ideal de Van.
+<SPEECH*>Ambos intentamos preservar la humanidad, entonces\n¿por qué hay tanta distancia entre el maestro Van y nosotros?
+<SPEECH*>Un mundo donde permanecen los originales,\ny un mundo que los mata...\nTan cerca y a la vez tan lejos...
+<SPEECH*>Te he estado esperando.
+<SPEECH*>¡Noelle!\n¿Qué haces aquí?
+<SPEECH*>La verdad es que el aeromotor\ndel Albiore se ha congelado\ncon el frío que hace...
+<SPEECH*>¡¿Quééé?!
+<SPEECH*>Estoy trabajando con Nephry para\narreglarlo, pero nos llevará\nlo que queda de noche como poco.
+<SPEECH*>Vaya... Yo que quería que nos pusiéramos en\nmarcha tan pronto como Ion hubiera descansado...
+<SPEECH*>Oh, bueno, hay cosas que no se pueden evitar.
+<SPEECH*>Sí, aprovechemos este momento\npara prepararnos para mañana.
+<SPEECH*>Nuestro enemigo es el general dórico Grants.<PAGE>\n<SPEECH*>Ya visteis lo que hizo en Belkend.\nTenemos que estar preparados.
+<SPEECH*>Vale, yo voy a dejar a Ion con Nephry.\nVosotros preparaos para marcharnos.
+<SPEECH*>Muy bien entonces... Separémonos\npor hoy y preparémonos.
+<SPEECH*>Voy a dejar el Albiore en perfecto estado.\nPor favor, descansad.
+<SPEECH*>Cuando te canses, ve a la posada.
+<SPEECH*>Menos Dist, todos los Generales\nde Élite están muertos.\nEl único que queda es Van.
+<SPEECH*>Tear, ¿estás segura sobre\nlo de luchar contra Van?
+<SPEECH*>A decir verdad...
+<SPEECH*>¿Sí?
+<SPEECH*>No quiero...\nVan era como un padre para mí.<PAGE>\n<SPEECH*>Incluso después de marcharse a las\nTierras Exteriores, seguía viniéndome a ver.
+<SPEECH*>Sí...
+<SPEECH*>Yo le quería. Por eso quería hacer\nque detuviera su ridículo plan...
+<SPEECH*>Volvamos a intentar hablar con él, Tear.
+<SPEECH*>¡Es imposible!\nNunca nos escucharía.
+<SPEECH*>Aun así, una última vez. Vamos a empezar\npor lo que podemos hacer, ¿vale?
+<SPEECH*>Has cambiado...
+<SPEECH*>¿Qué te pasa, así de golpe?...
+<SPEECH*>La gente puede cambiar.\nPero... Van no lo cree así.<PAGE>\n<SPEECH*>Mi hermano es el más idiota, es un auténtico\nesclavo de la Partitura de Yulia.
+<SPEECH*>Tear... Si se te hace muy doloroso,\nno tienes por qué venir con nosotros.
+<SPEECH*>Idiota-\nPrometí que te vigilaría.
+<SPEECH*>Tear...
+<SPEECH*>Y además, como hermana...\nes mi deber acabar con su vida.
+<SPEECH*>Simplemente no te fuerces.
+<SPEECH*>Gracias, Luke...
+<SPEECH*>Han pasado muchas cosas.
+<SPEECH*>Sí.
+<SPEECH*>Tú y yo somos completamente\ndistintos a como éramos antes\nde este viaje.
+<SPEECH*>Lo siento, Natalia.
+<SPEECH*>Oh, ¿a qué viene eso?\nEs raro en ti pedir perdón.
+<SPEECH*>No pude mantener mi promesa.
+<SPEECH*>Mi propuesta de matrimonio.\nNo podía recordar las palabras.\nNunca las supe.
+<SPEECH*>Nos oíste hablar...
+<SPEECH*>En Sheridan.
+<SPEECH*>¿S-Sabías que estaba allí?
+<SPEECH*>¿Me las podrías decir?
+<SPEECH*>¿P-Por qué?...
+<SPEECH*>Creo que eso me ayudará a\nresolver algunas cosas...
+<SPEECH*>Un día, cuando hayamos crecido,\ncambiaremos este país.<PAGE>\n<SPEECH*>Lo cambiaremos para que nadie sea\npobre. Lo cambiaremos para que\nnunca haya guerras.<PAGE>\n<SPEECH*>Colaboremos para cambiar este país...\nPor el resto de nuestros días. Juntos.
+<SPEECH*>Gracias...\nYa no vacilaré ni dudaré\nsobre quién eres.<PAGE>\n<SPEECH*>Al igual que yo he aceptado\nque no soy de la realeza.\nTe aceptaré tal y como eres.
+<SPEECH*>Natalia...
+<SPEECH*>Eres mi querido amigo de la \ninfancia, al igual que Asch.<PAGE>\n<SPEECH*>Sobrevivamos juntos a todo esto\ny hagamos de Kimlasca un buen lugar.
+<SPEECH*>Sí. Gracias.
+<SPEECH*>Anise... ¿estás llorando?
+<SPEECH*>No... ¡no estoy llorando!\nSólo estaba pensando\nen algunas cosas.
+<SPEECH*>No intentes ocultarlo.\nEstoy viendo las marcas que\nhan dejado tus lágrimas...
+<SPEECH*>Tío, qué falso...\nTe pareces a Guy.
+<SPEECH*>No estoy intentando parecer guay.\nEstoy preocupado por ti, simplemente.
+<SPEECH*>¿Oh?\n¿Así que resulta que estás enamorado de mí?
+<SPEECH*>N-No me refería a eso.
+<SPEECH*>¿Seguro? Puede que no me importe\ncasarme contigo, si tú quieres.
+<SPEECH*>Oh. Buf.
+<SPEECH*>Arietta murió sin ni siquiera tener\nla oportunidad de casarse con alguien...<PAGE>\n<SPEECH*>Debía de hacer mucho frío,\nbajo toda esa nieve...
+<SPEECH*>Así que estabas llorando por eso.
+<SPEECH*>¡N-No!\n¡No era por eso!<PAGE>\n<SPEECH*>Arietta nunca supo que la\npersona que ella amaba ya no\nestaba en este mundo.<PAGE>\n<SPEECH*>Pero el Comandante lo sabía\ny la utilizó. Y ella murió\npor eso... Es que...
+<SPEECH*>No creo que el maestro Van sea\nese tipo de persona.
+<SPEECH*>Respetas demasiado al\nComandante, Luke...<PAGE>\n<SPEECH*>Tear está sufriendo por culpa suya...\nY utilizó tanto a Ion como a Arietta...<PAGE>\n<SPEECH*>¡Odio a ese viejo idiota!
+<SPEECH*>V-Viejo idiota...
+<SPEECH*>Luke.\n¡Prepárate para luchar!\n¡Mañana vamos a ganar!
+<SPEECH*>Lo sé... No perderé.\nOs tengo a vosotros.
+<SPEECH*>Si quieres que te diga la verdad,\ncuando te conocí, pensé que nunca\nme gustarías.
+<SPEECH*>Yo sentí lo mismo.\nEras odioso y grosero.
+<SPEECH*>Pero, desde que viajamos\njuntos, me he dado cuenta\nde que... no eres tan malo.
+<SPEECH*>¿Por una vez estás hablando en serio?...
+<SPEECH*>Sí. Sé lo de las pesadillas\nque aún te despiertan en\nmedio de la noche.
+<SPEECH*>Para ti, la caída de\nAkzeriuth no forma aún\nparte del pasado.
+<SPEECH*>Pues sí.\n¿Qué esperabas?
+<SPEECH*>Por la noche, cuando has matado\na bandidos o a soldados del Oráculo,\npermaneces tumbado despierto, temblando.
+<SPEECH*>Soy un cobarde...
+<SPEECH*>No. Esa parte tuya me falta a mí.\nYo... todavía no entiendo qué significa\nque la gente muera.
+<SPEECH*>Jade...
+<SPEECH*>He aprendido muchas\ncosas observándote.
+<SPEECH*>Estoy contento de haber viajado contigo, Jade.\n<SPEECH*>Gracias a ti, he descubierto qué es lo que\ntengo que hacer.<PAGE>\n<SPEECH*>No es lo mismo que con el maestro Van, pero aun así,\npara mí eres como un profesor y un mentor.
+<SPEECH*>Odio enseñar.\nNo tomo aprendices.\nNo imparto conocimientos.
+<SPEECH*>Está bien.\nLos robaré yo solo.
+<SPEECH*>¿Oh?\nJe, je. Muy bien.
+<SPEECH*>¿Qué pasa?\nPareces muy serio.
+<SPEECH*>¿En serio? Bueno, quizá sí.\nEs que tendremos que luchar\ncontra el maestro Van.
+<SPEECH*>Sí.\nVamos a luchar contra Van...
+<SPEECH*>Ah... perdona.\nEstaba pensando en cuando\néramos pequeños.
+<SPEECH*>Es verdad... tú y el maestro Van\nérais amigos de la infancia.
+<SPEECH*>Je, je, je, pues sí.<PAGE>\n<SPEECH*>Tenía miedo a todo.\nMi hermana solía echarme la bronca\npor no ser un hombre.<PAGE>\n<SPEECH*>Van siempre me protegía.
+<SPEECH*>Me cuesta imaginar que el maestro Van\nfuera un niño alguna vez.
+<SPEECH*>No seas estúpido.\nTodos hemos sido pequeños alguna vez.
+<SPEECH*>Incluso tú...\nCon siete años\naún se es un niño.
+<SPEECH*>¿De qué estás hablando?\n¡No recuerdo haber sido tan joven!
+<SPEECH*>Idiota.\nAhora sólo tienes siete años.
+<SPEECH*>Oh... Te referías a eso.
+<SPEECH*>Te quedan trece años para\nser un adulto.\nDisfruta de tu niñez.
+<SPEECH*>Guy... Gracias.\nEstoy contento de haber crecido contigo.
+<SPEECH*>Ja, ja. Venga ya.\nDi "cállate" o algo como\n"vaya rollo".
+<SPEECH*>Eso sería más típico de ti.
+<SPEECH*>Muy bien... Cuando todo esto haya\nacabado, diré "Tío, ha sido un rollo".
+<SPEECH*>No lo digas delante de Su Majestad.\nQue te mirará de esa forma.
+<SPEECH*>Amo, ¿qué debería hacer mañana?
+<SPEECH*>¿Tú?\nMmm...
+<SPEECH*>¿Debería escupir fuego \na la cara de Van? O...
+<SPEECH*>Puedes esconderte en la bolsa\nde objetos comos siempre.
+<SPEECH*>¿De verdad?\nPero entonces no seré de utilidad...
+<SPEECH*>Ya nos has ayudado mucho.\nEres un pesado, pero\nnos animas.
+<SPEECH*>¡¡El Amo me ha alabado!!
+<SPEECH*>Lo retiro.\nSólo eres un pesado.
+<SPEECH*>Mieuuu...
+<SPEECH*>Así que tú también eres una réplica.
+<SPEECH*>Sí.\nVan me creó.<PAGE>\n<SPEECH*>Nos examinaron para saber quién sería más\napropiado para ser el Maestro Fónico...
+<SPEECH*>Y te escogieron a ti.
+<SPEECH*>Sí. Siempre había pensado<PAGE>\n<SPEECH*>"No importa si muero porque\npueden remplazarme por otro".
+<SPEECH*>¡No. no pueden!\nMe refiero a que si pueden hacer eso\ncontigo, conmigo también...
+<SPEECH*>Tienes razón. Cuando vi a\nSync morir ante mis ojos,\nfinalmente lo entendí.<PAGE>\n<SPEECH*>Soy el sustituto de Ion,\npero no hay reemplazo para mí.
+<SPEECH*>Tanto Sync como yo odíabamos\nser un reemplazo.<PAGE>\n<SPEECH*>Así que reprimí mis sentimientos.\nY Sync maldijo haber nacido.
+<SPEECH*>Me... me pregunto qué es lo que quiero\nhacer con mi vida en realidad.
+<SPEECH*>Creo que entiendo qué es\nlo que quieres hacer.
+<SPEECH*>¿Qué?
+<SPEECH*>Van tiene la respuesta. Creo que te \ndarás cuenta cuando te liberes de él.\nCuando te valgas por ti mismo.
+<SPEECH*>Luke, ¿puedo hablar contigo?
+<SPEECH*>¿Mmm?
+<SPEECH*>El Coronel ha enviado una carta al\nrey Ingobert y al emperador Peony.
+<SPEECH*>¿Ha pasado algo?
+<SPEECH*>Les ha dicho que se preparen porque\nno sabemos cuando empezarán a\ndescender las Tierras Exteriores.
+<SPEECH*>¿Por qué?\nAún nos quedan el Portal de la Absorción\ny el Portal de la Radiación.
+<SPEECH*>El Coronel ha dicho que mantengamos\nesto en secreto entre tú y yo...<PAGE>\n<SPEECH*>A causa de lo que ha hecho Van, puede que las\nTierras Exteriores caigan en cualquier momento.<PAGE>\nHa dicho que quizá no haya tiempo de activar\nel Portal de la Radiación.
+<SPEECH*>Pero hemos indicado que las\nTierras Exteriores desciendan cuando se\nactive el Portal de la Radiación.
+<SPEECH*>Parece que tiene un plan,\npero ha dicho que quiere evitarlo\nsi es posible.
+<SPEECH*>Vale. En otras palabras, ambos\ndebemos estar preparados al respecto.
+<SPEECH*>Cierto.\nPerdona por haberte molestado.\nDuerme bien.
+<SPEECH*>¡Ahí esta otra vez!...
+<SPEECH*>Te diriges al Portal de\nla Absorción, ¿no? Vale.
+<SPEECH*>Ten cuidado.
+<SPEECH*>¿Qué es lo que quieres, réplica?
+<SPEECH*>¿No me habías llamado? He oído ese ruido\nque siempre me da dolor de cabeza.
+<SPEECH*>El momento se acerca...
+<SPEECH*>¡A quién le importa!\n¿Estás bien?\nEl maestro Van te hirió...
+<SPEECH*>¡No necesito que TÚ\nte preocupes por mí!
+<SPEECH*>¡¿Qué?!\n¡Si tienes algo que decir, dilo!
+<SPEECH*>Gracias...
+<SPEECH*>Aunque me odies, sigues\nayudándonos en todo...
+<SPEECH*>¡No me malinterpretes!\n¡Sólo te estoy utilizando!\n¡No lo hago por tu bien!<PAGE>\n<SPEECH*>¡Si lo vuelves a decir,\nte mataré!
+<SPEECH*>¡Asch!...\nVen con nosotros a detener el maestro\nVan. Parémosle los pies juntos.
+<SPEECH*>¡No!...
+<SPEECH*>¡¿Por qué?!
+<SPEECH*>¡Asch!\n¡Te sangra el vientre!
+<SPEECH*>¡Maldita sea!... ¡Si no estuviera\nen este estado, habría ido al Portal\nde la Absorción hace siglos!<PAGE>\n<SPEECH*>Si no eliminas a Van, entonces\nle mataré yo, aunque tenga\nque caer con él.
+<SPEECH*>Muy bien.\nTe prometo que le detendré.
+<SPEECH*>¡"Detenerle" no!\n¡¡Matarle!!
+<SPEECH*>Vale...
+<SPEECH*>Han acabado de arreglar el Albiore.\nNoelle está esperándonos en el puerto.
+<SPEECH*>Ion, ¿te encuentras bien?
+<SPEECH*>Me gustaría decir que estoy bien...\npero creo que seré una carga si voy con vosotros.
+<SPEECH*>Vale...
+<SPEECH*>Esperaré aquí a que regreséis.<PAGE>\n<SPEECH*>Así que, Anise, quiero que tú\nte enteres de las cosas por mí.
+<SPEECH*>¡Entendido!...
+<SPEECH*>Bueno, ha llegado la hora.\n¿Estás preparado, Luke?
+<SPEECH*>Sí. ¿Listos, chicos?
+<SPEECH*>¡Por supuesto! @ \nTengo que parar el plan\ndel Comandante por Ion.
+<SPEECH*>Sí...\nAunque tengamos que acabar con su vida.
+<SPEECH*>Tear.\n¿Estás absolutamente segura?
+<SPEECH*>Sí...
+<SPEECH*>Si Tear está tan decidida, nosotros\ntambién tenemos que estarlo.
+<SPEECH*>Pararemos el flujo inverso del\nPortal de la Absorción y haremos\ndescender las Tierras Exteriores.
+<SPEECH*>¡Aunque eso signifique luchar contra el maestro Van!
+<SPEECH*>¡Yo también lo haré lo mejor que pueda!
+<SPEECH*>Ja, ja.\nCuento contigo, Mieu.\nCon todos.
+<SPEECH*>¡Vamos!\n¡Al Portal de la Absorción!
+Vayamos rápidamente a Gran Chokmah.
+Deberíamos ir rápidamente a Gran Chokmah.
+Deberíamos darnos prisa\ny llegar a Gran Chokmah.
+Vayamos rápidamente a Gran Chokmah.
+¡Tenemos que ir rápidamente a Gran Chokmah!
+Deberíamos ir rápidamente a Gran Chokmah.
+Vayamos rápidamente a San Binah.
+Deberíamos ir rápidamente a San Binah.
+Deberíamos darnos prisa\ny llegar a San Binah.
+Vayamos rápidamente a San Binah.
+¡Debemos ir rápidamente a San Binah!
+Deberíamos ir rápidamente a San Binah.
+Vayamos rápidamente a Sheridan.
+Deberíamos ir rápidamente a Sheridan.
+Deberíamos darnos prisa\ny llegar a Sheridan.
+Vayamos rápidamente a Sheridan.
+¡Debemos ir rápidamente a Sheridan!
+Deberíamos ir rápidamente a Sheridan.
+Dijo que las montañas de Meggiora\nestán al suroeste de Sheridan.
+Démonos prisa y rescatemos\nal piloto del Albiore.
+Debemos darnos prisa y\nrescatar al piloto
+Vamos a rescatar a ese piloto.\nLas montañas de Meggiora están \nal suroeste de Sheridan.
+Si no nos damos prisa, ¡ese piloto\nva a tener problemas!
+Las montañas de Meggiora están \nal suroeste de Sheridan.\nDémonos prisa.
+Regresemos a Sheridan de momento.
+Primero, regresemos a Sheridan.
+Lo primero es lo primero. Llevemos\nel aeromotor a Sheridan.
+Vamos a devolver el aeromotor \nal laboratorio de Iemon.
+Regresemos a Sheridan.
+Regresemos a Sheridan.\nNos están esperando.
+Vamos a Ciudad de Yulia.\nTenemos que dejar descansar a \nMcGovern y al resto de la gente.
+Vayamos a Ciudad de Yulia.\nSeguro que el Abuelo nos ayudará.
+Estoy seguro de que llevarán a los \nresidentes de San Binah a Ciudad de Yulia.
+Vamos a Ciudad de Yulia.\nDeberían dar la bienvenida a McGovern \ny a los residentes de San Binah.
+Creo que McGovern y los residentes de San Binah \npodrían descansar un poco en Ciudad de Yulia.
+Vamos a escoltar a la gente\nque rescatamos a Ciudad de Yulia.
+El suelo está congelado y\nno podemos subir...
+El suelo está congelado.\nNo podemos subir...
+Parece que el suelo está congelado,\nasí que no podemos subir.
+¡El suelo está congelado y\nno podemos subir!
+El suelo está congelado.\nNo podemos subir...
+El suelo está congelado.\nNo podemos subir.
+Supongo que podríamos descansar en la\nposada hasta que el Albiore esté arreglado.
+Oye, Jade, ¿dónde está\nel monte Roneal?
+Está al oeste de aquí.\nSi caminamos un poco,\nacabaremos viéndolo.
+Vale. ¡Entendido!
+Entonces, en marcha.
+Oye, Jade, ¿dónde está\nel monte Roneal?
+Está al noroeste de Keterburg.
+Vale. ¡Entendido!
+Confío en que ya lo sepas, pero no\nse puede llegar allí a menos\nque salgamos por el norte...
+¡L-Lo sé!
+Oh, ¿a dónde habrá ido Anise?...
+Qué raro.\nSe fue antes que nosotros.
+Vamos a buscarla.
+Y eso es todo...
+(¿Anise y un soldado del Oráculo?...)
+¿Algo más que transmitir?
+Te he dicho todo lo debía.
+Está bien... No olvides\nen qué situación estás.
+Lo sé...\nSé que sólo soy una...
+¡Hey! \n¡Anise!
+¿Eh? \nTenias asuntos con la Orden,\n¿verdad? \n¿Va todo bien?
+¿Qué?... Oh, s-sí... \nYa hemos acabado.
+Oh. En fin, está bien que quieras hacer\ntu trabajo, pero dínoslo primero, ¿vale?<PAGE>\nEstábamos preocupados por ti.
+V-Vale. Sí. \nLo siento.
+Venga, vamos.
+Sí...
+(Lo siento...)
+Oh, Anise se ha ido otra vez
+¿Qué estará haciendo?
+La otra vez estaba informando sobre\nsu trabajo. Quizá esté en la catedral.\nVamos a buscarla.
+Eso es todo sobre Ion...
+¿Estás ocultando algo más? \nTe estás encariñando demasiado\ncon esos tipos. Será mejor que\nno planees traicionarnos...
+¡Cállate ya! \n¡No estoy haciendo nada así!
+¡Anise! ¡¿Qué pasa?! \n¡¿Era un enemigo?!
+Tch, se ha escapado.
+Luke...
+¿Estás bien?
+S-Sí. La verdad es que sólo estábamos\ndiscutiendo. No es un enemigo.
+Oh. ¿En serio?
+Eres tonto, Luke.
+Hey... \nEstaba preocupado por ti.
+Vale, vale. Gracias.
+Bueno, en fin, da igual...\nTodos te están buscando. No\ndesaparezcas de esa manera.
+Está bien, está bien...
+(Eres tonto de verdad... \nLuke... Lo siento...)
+Me desperté temprano, no sé por qué...
+Sienta bien madrugar.
+¿Mmm? \nÉsa es...
+¡Es Anise!
+Anise, ¿qué estás haciendo?
+¡Uala! \nSí que madrugas, Luke.
+Tú también
+Ah, sí... Je, siempre eres tú\nel que me encuentra, Luke.
+Ya sabes... cuando le enviaba\ninformación a Mohs sobre lo\nque Ion hacía.<PAGE>\nMe pillaste muchas veces.
+Ahora que lo dices...
+Por aquel entonces...<PAGE>\nLa verdad, parte de mí quería que\nte dieras cuenta de lo que estaba\nhaciendo y que me detuvieras.
+¿Y cómo iba yo a saberlo?...
+Je je. ~ \nSí, lo sé. Es culpa mía por no\nsaber parar por mí misma.
+Siento no haberte podido\nayudar, Anise...
+¡¿Q-Q-Qué?! \nNo... no era para que te disculparas...
+Más o menos, entiendo\ncómo te sientes.<PAGE>\nAunque sepas que algo es culpa\ntuya... a veces sigues deseando\nque alguien te ayude.
+Ack... ¿qué pasa contigo? \nIntentas sonar así maduro y tal. 
+Al fin y al cabo, soy más mayor que tú.
+Humf... Hacerse mayor no es lo\nmismo que convertirse en adulto.<PAGE>\nPero... gracias. Perdona por las cosas\nmalas que te digo todo el tiempo.
+Hey, al final estás mostrando\ntus sentimientos, para variar.
+Sólo por ahora...
+¡Es bueno llevarse bien!
+Uh...
+¡Guarf! ¡Guarf! ¡Guarf!
+¡Oh, hola!\nVeo que también estáis\nviajando por el mundo.
+Ja ja. \nSí, supongo que eso es lo que parece.
+Acabo de volver de\nescalar el monte Roneal.
+Oh, ¿fuiste a un sitio\ntan peligroso tú solo?
+Bueno, este chico siempre está conmigo.
+*Arf* *arf* *arf*
+Eres todo un temerario.
+Por cierto, ¿te parecería bien que le\necháramos un vistazo a ese objeto\nbrillante que el perro tiene en la boca?
+Oh, ¿eso? \nLo cogimos en el monte Roneal.
+Pero a saber qué es.\nEnséñaselo, Peko.
+¡Guarf!
+Esto es...
+¿Sabes lo que es?
+Sí. Es una "semilla de hielo".\nEs muy poco común.
+¿Eso es una semilla de hielo?
+¿Sabes lo que es?
+Sí, aunque es la primera vez que veo una.\nHe oído que es un grupo condensado de varios\nfonones que rara vez se ve en la naturaleza.
+Sí. Se forma con cuartos fonones que\nse han condensado y congelado debido\na la baja temperatura.
+¿Es valioso?
+No del todo.\nCosas como ésta no tienen valor si no\nhay alguien que las coleccione.
+¡Buu! ¡Buu! Mira qué bonita es. \nSeguro que alguien querría tenerla.
+Es porque es peligroso que germine.
+¿Germinar?
+Si se dejan, los fonones comprimidos\nal final explotan. Ese efecto se\nllama "germinación".
+Guau, hey, ¿dices que \nesta cosa es peligrosa?
+Guarf...
+Guau... no me digas que...
+¿Va a... germinar?
+Tenemos un problema.\nSi brota, todo la zona se\ncongelará por el hielo.
+Maldita sea. \n¿Qué hacemos?
+Si lo tiráramos al monte Zaleho, aunque\nresultara congelado, ¿no acabaría derritiéndose?
+No sé si llegaremos a tiempo,\npero intentémoslo...
+¡Luke, tíralo dentro! \n¡Rápido!
+Va-vale.
+Lo... lo conseguimos.
+Ufff...
+¿Pero el interior del volcán\nestará bien después de\ntirar algo así dentro?
+Buena pregunta. \nHay una posibilidad que cause un\ncambio medioambiental a gran escala.
+Echemos un vistazo dentro.
+Sí.
+Ahora que lo pienso, hemos\ndejado a Shiba atrás.
+¿Y eso es un problema? \nDudo que quisieran\ncongelarse.
+Tienes razón.

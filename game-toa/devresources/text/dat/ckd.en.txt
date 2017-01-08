@@ -1,0 +1,241 @@
+*TYPE1
+-> Rice Ball
+Rice rolled into balls. Great for adventurers on the go.
+Restores a small amount of HP.
+- Shrimp Rice Ball
+- 
+- Salmon Rice Ball
+- Beef Rice Ball
+- Seafood Rice Ball
+- Chicken Rice Ball
+- 
+
+-> Spaghetti
+A basic pasta dish. Simple and delicious.
+Restores a small amount of TP.
+- 
+- Carbonara
+- Engeve Pasta
+- 
+- Seafood Pasta
+- Cheese Pasta
+- 
+
+-> Sandwich
+No lunch is complete without one of these.
+Restores a small amount of HP and TP.
+- Chicken Sandwich
+- Egg Sandwich
+- 
+- Fruit Sandwich
+- Fish Sandwich
+- Cheese Sandwich
+- Chicken Sandwich
+
+-> Fried Chicken
+Tender pieces of chicken fried to perfection.
+Cures poison.
+- 
+- French Fries
+- Fried Tofu
+- 
+- 
+- Fried Cheese
+- 
+
+-> Fried Rice
+Stir fried egg and rice. Goes well with pork dumplings.
+Restores a small amount of HP.
+- Shrimp Fried Rice
+- 
+- 
+- Rice Pilaf
+- 
+- 
+- 
+
+-> Ramen
+Prepared in many different ways around the world.
+Restores a small amount of TP.
+- Chicken Ramen
+- Pork Ramen
+- 
+- Pork Ramen
+- Miso Ramen
+- 
+- Chicken Ramen
+
+-> Pizza
+Cheese, meat, and veggies baked on a crispy crust.
+Restores a small amount of HP and TP.
+- 
+- 
+- Potato Pizza
+- 
+- Seafood Pizza
+- Cheese Pizza
+- 
+
+-> Salad
+A great way to get the leafy greens your body needs.
+Cures Sealed Artes.
+- 
+- Egg Salad
+- Potato Salad
+- Fruit Salad
+- Tuna Salad
+- Healthy Salad
+- 
+
+-> Curry
+The right blend of spices makes this dish irresistible.
+Restores a small amount of HP.
+- Chicken Curry
+- Mild Curry
+- Spicy Tofu Curry
+- Beef Curry
+- Seafood Curry
+- Cheese Curry
+- Chicken Curry
+
+-> Soba Noodles
+Buckwheat noodles served in a light broth.
+Restores a small amount of TP.
+- Chicken Noodle Soup
+- 
+- Egg and Soba Noodles
+- 
+- Tenpura Soba
+- 
+- Chicken Noodle Soup
+
+-> Cake
+A sweet treat that's best when served with ice cream.
+Restores a small amount of HP and TP.
+- 
+- Apple Pie
+- 
+- Strawberry Shortcake
+- 
+- Cheesecake
+- 
+
+-> Egg Bowl
+A bowl of rice topped with eggs and onions.
+Cures Paralysis.
+- Chicken Bowl
+- 
+- 
+- Beef Bowl
+- Fried Shrimp Bowl
+- 
+- Chicken Bowl
+
+-> Sushi
+Made with vinegared rice. Tasty and good for you!
+Restores a moderate amount of HP.
+- 
+- 
+- Salmon Roll
+- 
+- Tuna Roll
+- 
+- 
+
+-> Udon Noodles
+Similar to soba noodles, but made from wheat.
+Restores a moderate amount of TP.
+- 
+- Miso Noodles
+- Egg and Udon Noodles
+- Beef Noodles
+- 
+- 
+- 
+
+-> Toast
+Perfect for breakfast! Very easy to prepare.
+Restores a small amount of HP and TP.
+- 
+- Egg Toast
+- 
+- Toast and Jam
+- 
+- Cheese Toast
+- 
+
+-> Onion Soup
+Cooked for hours to bring out the onion's rich flavor.
+Cures Poison, Paralysis, and Sealed Artes.
+- 
+- Minestrone
+- 
+- Cream Soup
+- 
+- Clam Chowder
+- 
+
+-> Gratin
+A creamy and delicious baked casserole.
+Restores a large amount of HP.
+- 0
+- 0
+- 0
+- 0
+- Rice Gratin
+- Risotto
+- 
+
+-> Fruit Cocktail
+Delectable fruits served in their own juices.
+Restores a large amount of TP.
+- 0
+- 0
+- Fruit Parfait
+- Strawberry Mix
+- 0
+- 0
+- 
+
+-> Stew
+A thick, rich broth filled with savory vegetables.
+Restores a moderate amount of HP and TP.
+- 0
+- Cream Stew
+- 0
+- Beef Stew
+- 0
+- 0
+- 
+
+-> Miso Stew
+Meat and vegetables in a miso broth.
+Temporarily increases ability in battle.
+- 0
+- 0
+- 0
+- 0
+- Savory Miso Stew
+- 0
+- 
+
+*TYPE2
+Meat/fish
+Meat
+Seafood
+Vegetables
+Fruits
+Rice
+Pasta
+Bread
+©ÅŒã‚É•K‚¸“ü‚ê‚Ä‚­‚¾‚³‚¢
+
+*TYPE3
+Sticky
+Slimy
+Burnt
+Disgusting
+Hard
+Soggy
+Bitter
+

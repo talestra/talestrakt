@@ -1,0 +1,566 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Esta zona está llena de lava...\nserá mejor que nos mantengamos alejados.
+Esta zona está llena de lava...\ntal vez haya algo allá abajo,\npero nunca llegaríamos hasta allí.
+Qué calor hace aquí...\nParece que este camino\nqueda descartado.
+Esta zona está llena de lava... alejémonos de ella.\nVale, aunque podría haber algo ahí abajo.
+¡Aquí hace demasiado calor!\n¡No hay forma de llegar\nhasta allí abajo!
+Ciertamente parece que no\npodremos pasar por la lava.
+<SPEECH*>¡Chicos!
+<SPEECH*>Anise me ha dicho lo que\nle ha pasado a Tear...
+<SPEECH*>Maestro Fónico... estoy bien.\nSiento haberte preocupado.
+<SPEECH*>Tear, a mí no me parece\nque estés demasiado bien...
+<SPEECH*>Hey, ¿adónde ha ido Anise?
+<SPEECH*>Qué raro, dijo que iba a\nencontrarse contigo, Luke...
+<SPEECH*>Yo no la he visto.
+<SPEECH*>Bueno, seguro que volverá\npronto. Mientras tanto, vamos\ntodos a mi habitación.
+<SPEECH*>Algo no va bien. A menos que\nse haya expuesto al miasma,\nno debería estar tan cansada.
+<SPEECH*>Es posible que el miasma haya\nimpregnado la Tormenta Planetaria.
+<SPEECH*>Si es así, debería atravesar el cinturón\nfónico, llegando hasta la atmósfera.\nEl impacto debería ser mínimo...
+<SPEECH*>¿No querrás decir que el hecho de\nque la Tormenta Planetaria tenga más\nfuerza, esté creando más miasma?
+<SPEECH*>¿No deberíamos preocuparnos más de\neliminar el miasma que hay acumulado\nen el cuerpo de Tear?
+<SPEECH*>¿Pero no dijo el doctor de \nBelkend que eso era imposible?
+<SPEECH*>Y Natalia, ¿tú no ibas a proponer\nuna cumbre sobre la Partitura al\nMaestro Fónico?
+<SPEECH*>Bueno, sí, pero...
+<SPEECH*>Bueno, de hecho, tengo una\nidea para extraer el miasma\ndel cuerpo de Tear.
+<SPEECH*>Pero para hacerlo, mi...
+<SPEECH*>¡Ion! \n¡Tenemos un problema!
+<SPEECH*>Anise, ¿pero dónde has estado?
+<SPEECH*>¡Eso es lo que estoy diciendo!\n¡Tenemos un problema muy serio ahí fuera!
+<SPEECH*>¿Qué ha pasado?
+<SPEECH*>¡Hay miasma por todas partes!\n¡La cosa está muy mal!\n¡Ion, por favor, ven deprisa!
+<SPEECH*>¡Nosotros también deberíamos ir!
+<SPEECH*>¡Tear!
+<SPEECH*>Puede que te hayas desmayado debido\na tu fuerte sensibilidad por el miasma.\nDeberías quedarte aquí.
+<SPEECH*>Si de verdad el miasma ha\nvuelto, no creo que importe\nmucho donde esté.
+<SPEECH*>Siempre tan cabezona...
+<SPEECH*>Cabezona, pero tengo razón.
+<SPEECH*>Vale...\nPero tómatelo con calma.
+<SPEECH*>Lo haré. Gracias.
+<SPEECH*>¡¿Qué?!
+<SPEECH*>No os mováis.
+<SPEECH*>¡Capitán Legretta!
+<SPEECH*>¡¿Qué demonios es esto?!
+<SPEECH*>No podemos permitir que os\nentrometáis ahora.
+<SPEECH*>También tenemos unas cuantas\npreguntas sobre la Llave de Lorelei. \nAhora, comportaos.
+<SPEECH*>¡Ya te dije antes que lanzas\ndemasiado lenta! No cometas\nel mismo error dos veces.
+<SPEECH*>Grr...
+<SPEECH*>¿Qué vas a hacer\ncon Ion, Legretta?
+<SPEECH*>¡Arietta!\n¡Retírate!
+<SPEECH*>¡¿De verdad vas a obligar a Ion a leer\nla Partitura de la Séptima Piedra Fónica?!
+<SPEECH*>¿La Partitura Planetaria?\nPero eso le...
+<SPEECH*>¡Eso le mataría! \n¡Su cuerpo es demasiado débil!\n¡No dejaré que lo hagas!
+<SPEECH*>Es el mejor cebo\npara atraer a Mohs.
+<SPEECH*>Es necesario para elevar la isla\nde Feres. Es lo que quieres, ¿no?
+<SPEECH*>¡Luke! Anise se ha llevado\na Ion al sephiroth de la\ncatedral.
+<SPEECH*>¡¿Anise?!
+<SPEECH*>¡Arietta! \n¡¿Nos vas a traicionar?!
+<SPEECH*>¡Van dijo que no mataría a Ion!\n¡Todos vosotros sois los traidores!
+<SPEECH*>¡Luke!\nVamos deprisa al pasadizo secreto.
+<SPEECH*>He notado que Anise actuaba\nde forma extraña últimamente.
+<SPEECH*>Está bien.\n¡Arietta, gracias!
+<SPEECH*>¡Espera!
+<SPEECH*>¡Luke!
+<SPEECH*>¡¿Qué demonios hace Mohs aquí?!\nAnise, ¿qué estás intentado hacer?
+<SPEECH*>Yo....
+<SPEECH*>Legretta es una inútil. ¿Ni\nsiquiera ha podido mantener\nocupado a este grupo de críos?
+<SPEECH*>¡Anise! ¡Encárgate de este desastre!\nNo me traiciones. Oliver y Pamela\ncuentan contigo.
+<SPEECH*>¡Espera, Anise!\n¡¿Qué quiere decir?!
+<SPEECH*>¡Cállate! ¡Desde el principio,\nmi trabajo ha sido mantener a\nMohs informado sobre Ion!
+<SPEECH*>¡Detente!
+<SPEECH*>Mmm, no hay manera.\nNo responde.
+<SPEECH*>¿No hay ninguna otra manera\nde llegar al sephiroth?
+<SPEECH*>Hey, echadle un vistazo a esto.
+<SPEECH*>Sostiene una carta...
+<SPEECH*>Podéis llegar al sephiroth a\ntravés del cráter del volcán\nen el monte Zaleho. Lo siento.
+<SPEECH*>Es de Anise. Parece que\nMohs ha tomado a sus\npadres como rehenes.
+<SPEECH*>En efecto. Probablemente, también\nes verdad que ha sido la espía de\nMohs desde el principio.
+<SPEECH*>En ese caso, confiemos en\nAnise por ahora y vayamos\nrápido al monte Zaleho.
+<SPEECH*>Es peligroso para Ion leer\nla Partitura Planetaria.
+<SPEECH*>Sí. Ion es una réplica.
+<SPEECH*>En el momento en que la lea, los séptimos\nfonones de su cuerpo se separarán.\nNo sobrevivirá.
+<SPEECH*>¡Sí, tenemos que salvarlo!
+<SPEECH*>No hay rastro de Arietta...
+<SPEECH*>Ni de Legretta...\nMe pregunto qué habrá pasado...
+<SPEECH*>Si se hubieran matado la una a la otra,\nal menos veríamos sus cadáveres.
+<SPEECH*>¡Coronel! Puede que Arietta haya sido\nnuestra enemiga, pero acaba de ayudarnos.
+<SPEECH*>Y Legretta fue la instructora de Tear.\nPor favor, muestra un poco de consideración.
+<SPEECH*>Mis disculpas.
+<SPEECH*>¡Ohh! ¡Tear!\nArietta me lo ha dicho.
+<SPEECH*>¿De verdad Mohs a secuestrado\nal maestro fónico Ion?...
+<SPEECH*>Sí. Ahora nos dirigimos al monte\nZaleho para ayudar al Maestro Fónico. \n¿Sabes dónde está Arietta?
+<SPEECH*>Está herida, así que la he dejado\ndescansando en la habitación de Oliver.
+<SPEECH*>Primero resulta que Legretta\ny Arietta están vivas, ahora el\nmiasma reaparece...
+<SPEECH*>¿Pero qué demonios está pasando?
+<SPEECH*>¿Así que es cierto el rumor de\nque ha vuelto el miasma?
+<SPEECH*>Sí, y debido a eso, en la\nciudad ha cundido el pánico.\nPor favor, tened cuidado.
+<SPEECH*>Enviaré a los Caballeros del Oráculo\nal volcán inmediatamente.
+<SPEECH*>Ah, y si encontráis a Oliver o a Pamela\nen algún sitio, decidles que vuelvan rápido.
+<SPEECH*>Tal como están las cosas, no hay\nnadie que pueda cuidar de Arietta.
+<SPEECH*>Parece que los padres de Anise\nsí que están retenidos.
+<SPEECH*>Sí, tenemos que hacer\nalgo para ayudarlos.
+<SPEECH*>Maldita sea... ¿Esto también es\na causa de que Lorelei esté preso\nen algún sitio?
+<SPEECH*>Si es así, entonces Van debe de estar...
+<SPEECH*>¿Mi hermano... está vivo?
+<SPEECH*>*Tos*
+<SPEECH*>¡Tear!\n¿Estás bien?
+<SPEECH*>Estoy bien... yo también he estado\nun poco expuesta al miasma.
+<SPEECH*>El cuerpo de Tear ha sido el primero en\nsentir que el miasma estaba volviendo.
+<SPEECH*>Estaré bien.\nAhora tenemos que ir a por Ion.
+<SPEECH*>Tear, lo siento. \nQuisiera poder hacer algo para ayudarte...
+<SPEECH*>Idiota. No hay tiempo para\nregodearse en la culpa. Vamos.
+<SPEECH*>¡¿Qué es eso?!
+<SPEECH*>¡É-Ése es...!
+<SPEECH*>¿Iemon? ¡No es posible!
+<SPEECH*>¡Callaos y apartaos!
+<SPEECH*>Quieto todo el mundo.
+<SPEECH*>Réplicas...
+<SPEECH*>¿Qué?
+<SPEECH*>¿Puede que estos sean réplicas?
+<SPEECH*>El ejército hizo experimentos\nprogramando réplicas para que\nhicieran una determinada tarea.
+<SPEECH*>Los ojos de esta gente son los mismos\nque los de los sujetos de esos experimentos.
+<SPEECH*>Objetivos a la vista. Rodeadlos.
+<SPEECH*>Mary...
+<SPEECH*>¿Mary? Guy, ¿de qué estás hablando?...
+<SPEECH*>¿Por qué?\n¡¿Por qué está aquí mi hermana?!
+<SPEECH*>¡Guy! ¡¿Qué pasa?!
+<SPEECH*>¡El general Frings también!\n¡Pero si lo vimos morir en Gran Chokmah!
+<SPEECH*>¡Veo a otros que ya han muerto!\nEl Coronel tiene razón.\n¡Deben de ser réplicas!
+<SPEECH*>Ya sabéis las órdenes del gran\nmaestro Mohs... Matadlos.
+<SPEECH*>Usar aquí artes fónicas también\nherirían a los civiles.
+<SPEECH*>Deberíamos eliminar las réplicas de la salida y...
+<SPEECH*>¡Espera! Ahí es donde mi hermana... ¡es donde está Mary!
+<SPEECH*>¡Es una réplica!
+<SPEECH*>¡Lo sé! Pero aun así...
+<SPEECH*>Aunque sepamos que son réplicas,\nno significa que podamos matar a\nIemon y a los demás.
+<SPEECH*>Mohs cuenta exactamente con eso.
+<SPEECH*>Dejádmelos... a mí.
+<SPEECH*>¡Tear!
+<SPEECH*>Nunca había probado dormir a tanta gente a la vez.
+<SPEECH*>Dudo que dure mucho. ¡Salgamos\nde aquí, rápido!
+<SPEECH*>¡Maldita sea! Han pasado tantas cosas.\nEstoy hecho un lío.
+<SPEECH*>Ahora, decidir lo que hacer con\nla Partitura es la menor de\nnuestras preocupaciones.
+<SPEECH*>Nunca pensé que vería una\nréplica de mi hermana.
+<SPEECH*>Seguramente fue un plan para\nconmocionarnos, el hacer réplicas\nde gente cercana a nosotros.
+<SPEECH*>¡Mohs es tan cabrón!
+<SPEECH*>Pero un cabrón eficiente.
+<SPEECH*>¡No digas cosas así!
+<SPEECH*>Lo siento. En cualquier caso,\nlo primero que tenemos que \nhacer es ayudar a Ion.
+<SPEECH*>Si no le ayudamos, morirá.
+<SPEECH*>Tienes razón. También me preocupa Anise.\nVayamos rápido al monte Zaleho.
+<SPEECH*>Dios, qué calor...\nAquí no se puede ni respirar.
+<SPEECH*>El monte Zaleho está más activo\nque nunca ahora que ha descendido\nal Qliphoth.
+<SPEECH*>Bueno, ahora vayamos al\nanillo de tránsito.
+<SPEECH*>Puedo sentir la ubicación del sephiroth.
+<SPEECH*>Contaremos contigo si nos perdemos, Mieu.
+<SPEECH*>¡Sí, señor!
+<SPEECH*>¡¿Eeeh?!
+<SPEECH*>¡Mierda!...
+<SPEECH*>Oh, vaya.
+<SPEECH*>¡¡Qué!!
+<SPEECH*>¡¡Aaah!!
+<SPEECH*>¿Qué demonios?
+<SPEECH*>Es...
+<SPEECH*>¡Increíble! ¡Es un dragón!
+<SPEECH*>Es impresionante que viva\nen un volcán como éste.
+<SPEECH*>Si vamos por aquí, nos tendremos\nque enfrentar con él. \nO con ella, debería decir.
+<SPEECH*>Asombroso, Coronel. ¿Sabes\ndiferenciar el sexo de los\ndragones?
+<SPEECH*>Si observaras la manera en \nla que escupen fuego...
+<SPEECH*>Increíble. Jade, de verdad lo sabes todo, ¿eh?
+<SPEECH*>"...y pudieras determinar su\nsexo, ¿a que sería interesante?",\nes lo que iba a decir.
+<SPEECH*>Bueno, ¿nos vamos?
+<SPEECH*>Ya lo suponía....
+<SPEECH*>Ya te digo.
+<SPEECH*>¡Cuidado! ¡Aquí viene!
+<SPEECH*>¡Grr!\n¡Esperad una oportunidad y luego atacad!
+<SPEECH*>¡Ahora! ¡Vamos!
+<SPEECH*>Me sabe mal...
+<SPEECH*>Sí. Somos nosotros los que hemos\nentrado en su casa sin que nos invitara.
+<SPEECH*>Me preocupa la seguridad de Ion.\nSigamos.
+<SPEECH*>Sí...
+<SPEECH*>"...Lo que finalmente llevará\na la caída de Auldrant".<PAGE>\n<SPEECH*>"ND2019. Las fuerzas de\nKimlasca-Lanvaldear marcharán al\nnorte, por las llanuras de Rúgnica".<PAGE>\n<SPEECH*>"Después de cometer atrocidades en\nlos pueblos a su paso, el ejército\nrodeará la capital fortaleza".<PAGE>\n<SPEECH*>"En dos semanas, la ciudad caerá.\nEl ejército de Kimlasca teñirá el trono de\nMalkuth con la sangre del último emperador".<PAGE>\n<SPEECH*>"Sus gritos de victoria resonarán\npor todo el mundo".<PAGE>\n<SPEECH*>"ND2020. Una montaña de cadáveres enterrará\nla capital fortaleza. La muerte y la enfermedad\nenvolverán la ciudad".<PAGE>\n<SPEECH*>"La plaga que entonces nacerá se convertirá\nen el nuevo veneno de la humanidad,\ny matará todo lo que encuentre".<PAGE>\n<SPEECH*>"Su propagación marcará el\nauténtico fin de Malkuth".<PAGE>\n<SPEECH*>"Kimlasca disfrutará de décadas de prosperidad\nmientras crezca la plaga en Malkuth".<PAGE>\n<SPEECH*>"Finalmente, un único hombre traerá\nla plaga al reino de Kimlasca".
+<SPEECH*>¡T-Tú!
+<SPEECH*>¡Para, Ion! ¡Tienes que parar!
+<SPEECH*>"La luz de la llama sagrada irá a la ciudad\nde las máquinas fónicas de Kimlasca, buscando\nuna manera de purificar la contaminación".
+<SPEECH*>"Entonces, la salvación se alcanzará con\nel uso de un poder prohibido..."
+<SPEECH*>¡Ion! ¡¿Estás bien?!
+<SPEECH*>Luke... Esa ha sido mi lectura\nde la Partitura para ti...
+<SPEECH*>Un único camino... entre tus\nmuchos futuros posibles...
+<SPEECH*>Sé que no dependes de los\ndemás... pero ésta era mi\núnica manera de ayudarte.
+<SPEECH*>¡Cállate! ¡Nos has ayudado\nun millón de veces! Y nos\nseguirás ayudando...
+<SPEECH*>Luke...\nNo me mires así.\nTengo muchos sustitutos...
+<SPEECH*>¡¿Cómo puedes decir eso?! ¡Las otras\nréplicas no me conocen de nada!
+<SPEECH*>Tú eres el único Ion que fue al\nBosque de los Cheagles conmigo.
+<SPEECH*>Tear, acércate...
+<SPEECH*>Yo... absorberé el miasma\nde tu cuerpo en el mío.
+<SPEECH*>Pero Maestro Fónico, te...
+<SPEECH*>Ya te lo dije antes. Sólo\nhay una manera de salvarte.
+<SPEECH*>Los séptimos fonones se atraen mutuamente.
+<SPEECH*>Como mis séptimos fonones se\ndisipan, también se disiparán\nlos tuyos contaminados.
+<SPEECH*>¡Ion!
+<SPEECH*>¿No lo ves?... Así... Tear está... a salvo.
+<SPEECH*>Ion...
+<SPEECH*>Ya no tendrás... que cuidar de\nmí... nunca más... Anise...
+<SPEECH*>¡Lo siento mucho, Ion! Yo... yo...
+<SPEECH*>Gracias... por todo...\nMi más... querida...
+<SPEECH*>¡Ion!...
+<SPEECH*>Humf. La mejor réplica del montón\ny ni siquiera ha podido leer bien\nla Partitura...
+<SPEECH*>¡Partitura, Partitura, Partitura!\n¡¿Sólo piensas en eso?! \n¡La Partitura no vale una mierda!
+<SPEECH*>¡Estúpido idiota! ¡La Partitura es crucial\npara la supervivencia del ser humano!
+<SPEECH*>¡El ser humano se las puede apañar sin ella!
+<SPEECH*>¡Promete prosperidad para\ntodos! ¡¿Qué razón podríamos\ntener para ignorarla?!
+<SPEECH*>¡Soy un custodio! ¡Tengo el deber de\nproteger y de guiar a la humanidad!
+<SPEECH*>Juro que usaré estas réplicas para\nprovocar la guerra tal y como\npredice la Partitura de Yulia.
+<SPEECH*>Ahí está nuestro único camino a la salvación.
+<SPEECH*>¿Qué debemos hacer?...\nSon civiles.\nLuchar contra ellos sería demasiado...
+<SPEECH*>No os harán daño a no ser\nque alguien se lo ordene.\nOs lo aseguro.
+<SPEECH*>Por favor, dejad que el gran maestro\nMohs se vaya ileso. Si lo hacéis,\nse retirarán pacíficamente.
+<SPEECH*>Pero...
+<SPEECH*>Ha escapado... Ya no podemos hacer nada.
+<SPEECH*>Aun así, pensar que se han\ncreado tantas réplicas...
+<SPEECH*>Debe ser el resultado de los\ndatos de réplica que Van dejó.
+<SPEECH*>Es imposible que hayan hecho réplicas\nde toda la gente de Hod sin eso.
+<SPEECH*>Eso lo podemos investigar luego.\nPor ahora, escoltemos a los padres\nde Anise hasta Daath...
+<SPEECH*>Anise, te parece bien, supongo.
+<SPEECH*>Sí...
+<SPEECH*>¡Arietta! ¡Si te mueves, se te\nvolverán a abrir las heridas!
+<SPEECH*>¡Lo has matado!...\n¡Anise, has matado a Ion!
+<SPEECH*>¡Por favor, espera!\nFue porque Mohs nos\ntomó como rehenes...
+<SPEECH*>¡Papá, cállate!
+<SPEECH*>Sí, lo he matado. ¡¿Quieres\npelea, Lugubrietta?!
+<SPEECH*>Ion me ayudó mucho.\nYa no es sólo vengar a mamá, Anise.\n¡También vengaré a Ion!
+<SPEECH*>Anise, te desafío a un duelo.
+<SPEECH*>¡Acepto!...
+<SPEECH*>¡Anise!
+<SPEECH*>¡Tengo que ajustar cuentas con ella!
+<SPEECH*>Enviaré a alguien para que te diga\nla hora y el lugar más tarde.\n¡Nunca te perdonaré si huyes!
+<SPEECH*>¡Anise!\n¿Un duelo? ¡Es una tontería!
+<SPEECH*>¿No podéis hablar de esto?\nEstoy segura de que Arietta lo entendería...
+<SPEECH*>¡Mamá, cállate!
+<SPEECH*>Pero Anise...
+<SPEECH*>¡Cállate!
+<SPEECH*>¡Espera! ¡Anise!
+<SPEECH*>Dividámonos y vamos a buscarla.
+<SPEECH*>Sí...
+Si Anise es culpable,\nyo también lo soy.
+Quizá Ion haya aceptado leer la Partitura\nPlanetaria como Mohs le ordenó
+para eliminar\nel miasma de\nmi cuerpo.
+Me repugna mi propia impotencia...
+Deberías animar a Anise \ncuando la encuentres.
+No... no puedo hacerlo.
+Estoy mejor, pero a causa de mi pequeña\nfobia, Anise acabará preocupándose por\nmí en lugar de por sí misma.
+Deberías animar a Anise \ncuando la encuentres.
+Tendréis que disculparme...\nDejaré la búsqueda de Anise\nen vuestras manos.
+A veces, la gente quiere estar\nsola. Yo, personalmente,\npreferiría dejarla a su aire.
+Y además, hay algo que me\npreocupa más que Anise.
+Puede que en realidad Yulia leyera\nla Partitura de la destrucción...
+Si es así... Puede que lo \nque Van está haciendo tenga\nbastante sentido...
+A veces, la gente quiere estar\nsola. Yo, personalmente,\npreferiría dejarla a su aire.
+Cuando Synch murió,\nIon lloró.
+Creo que Ion en realidad no\nquería morir. Y seguramente\nAnise lo sabe.
+Me da tanta pena...\nHa tenido que escoger\nentre sus padres y Ion.
+Me da tanta pena...\nHa tenido que escoger\nentre sus padres y Ion.
+<SPEECH*>Así que estabas aquí.
+<SPEECH*>Mira, todos están preocupados por ti.\nOliver y Pamela también...
+<SPEECH*>¡No me hables de ellos!
+<SPEECH*>Venga, Anise... No podrías\nhaber hecho otra cosa.
+<SPEECH*>Él tenía a tus padres como rehenes.
+<SPEECH*>¡No!
+<SPEECH*>Le mentí a Ion desde el principio.
+<SPEECH*>Mohs me ordenó que le informara\nde todo lo que hacía Ion.
+<SPEECH*>Que intentaba detener la guerra,\nque pasaba el tiempo con vosotros...\n¡Le informé de todo!\n
+<SPEECH*>Anise... Todo eso...
+<SPEECH*>¡Escucha! ¡El ataque al Tartarus y\nlas emboscadas de los seis Generales\nde Élite, todo fue culpa mía!
+<SPEECH*>¿Pero todo eso no fue porque\nte preocupaban tus padres?
+<SPEECH*>Papá es muy crédulo, ¿verdad?...
+<SPEECH*>Cuando era muy pequeña, le timaron\nun montón de dinero y se vio hasta\nel cuello de deudas.
+<SPEECH*>Mohs le sacó del apuro. Desde\nentonces, mis padres han trabajado\npara la catedral sin cobrar.
+<SPEECH*>No... no podía desobedecer sus órdenes...
+<SPEECH*>Lo sé...
+<SPEECH*>Odiaba hacer eso... Ion \nera tan confiado, de verdad\nme dolía mentirle...
+<SPEECH*>Sí...
+Después de que echaran a Mohs, pensé que al\nfin seríamos libres... Pero entonces\ntomó a papá y a mamá como rehenes.
+<SPEECH*>Pero yo... yo quería a mamá y a papá.
+<SPEECH*>Anise... Hiciste lo correcto.
+<SPEECH*>¡No era lo correcto! ¡Claro que no lo era! \n¡Yo... yo.... yo maté a Ion!
+<SPEECH*>Pobre Ion... Es culpa mía...\n¡Y ahora está muerto!...
+<SPEECH*>Anise... Toma... coge esto.
+<SPEECH*>Lo cogí en el monte Zaleho.\nEs un fragmento de la piedra fónica\nde la Partitura que Ion leyó.
+<SPEECH*>La piedra fónica de Ion...
+<SPEECH*>¿Ahora qué vas a hacer?\n¿Quieres quedarte en Daath?
+<SPEECH*>No. Iré con vosotros.
+<SPEECH*>Creo que si Ion estuviera\nvivo, hubiera querido\nayudaros.
+<SPEECH*>Gracias.\nEntonces volvamos y veamos a los demás.
+<SPEECH*>Parece que te has calmado un poco...
+<SPEECH*>Sí, Coronel. Me gustaría quedarme\ncon todos vosotros y pensar qué debería\nhacer de ahora en adelante.
+<SPEECH*>Sé fuerte, Anise.
+<SPEECH*>¿Qué deberíamos hacer ahora? Será\ndifícil seguir la Partitura hasta\nque la Orden se reestructure.
+<SPEECH*>Y no tenemos ni idea de dónde\nir a buscar a Asch...
+<SPEECH*>Yo... quisiera darle uso a la\núltima lectura de Ion de la Partitura.
+<SPEECH*>¿Te refieres a ese trozo que trata sobre\ndescubrir cómo acabar con el miasma en Belkend?
+<SPEECH*>Exacto. Ion lo sacrificó todo\npara darnos esa pista.
+<SPEECH*>Estoy de acuerdo. Eso es todo lo que\ntenemos para continuar, de momento.
+<SPEECH*>Ahora que lo dices... Al final, tendremos\nque ocuparnos de este asunto.
+<SPEECH*>Detuvimos la visión de Van\nde un mundo donde no se puede\nleer la Partitura.
+<SPEECH*>Pero tampoco es que nosotros\nla apoyemos totalmente.
+<SPEECH*>Cuando las cosas se calmen,\nharemos una cumbre sobre qué\nhacer con la Partitura.
+<SPEECH*>Sí, tienes razón.
+¿Pero qué?\nLas antorchas se mueven.
+Quizá tengamos que apuntar y disparar\ndesde lejos. Pero no parece que el\nFuego de Mieu vaya a llegar.
+¿Podemos darles con algo que\ntenga un alcance mayor?...
+Eso está formado por un\nmonstruo congelado, ¿no?<PAGE>\n¿Pueden volver a su\nforma original?
+Mmm. Supongo.<PAGE>\nSi le damos un impacto fuerte, \npuede que se mueva otra vez...
+Tenemos que alcanzar a Anise.
+Sigamos a Anise.
+Sigamos a Anise.
+Sigamos a Anise.
+Deberíamos seguir a Anise.
+Anise no puede estar lejos.<PAGE>\nBusquemos en la iglesia.

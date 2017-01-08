@@ -4,8 +4,6 @@ import com.soywiz.korio.stream.*
 import com.soywiz.korio.util.ByteArraySlice
 import com.soywiz.korio.util.UByteArray
 import com.soywiz.korio.util.readS32_le
-import com.soywiz.korio.util.toUnsigned
-import com.talestra.rhcommon.lang.measure
 
 object LZ {
 	fun isCompressed(data: ByteArray): Boolean = data.openSync("r").readStringz(2) == "LZ"

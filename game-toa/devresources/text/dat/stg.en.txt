@@ -1,0 +1,123 @@
+*profiles
+
+Attack!
+Hold 'em off!
+On your guard!
+
+*targets
+
+Nearby enemies
+Attack the nearest enemy.
+
+Distant enemies
+Attack the furthest enemy.
+
+Different enemy
+Attack a different enemy.
+
+Same enemy
+Attack the same enemy as the player.
+
+Weak enemies
+Attack enemies with little HP.
+
+Strong enemies
+Attack enemies with lots of HP.
+
+Help allies
+Defend allies with little HP.
+
+Flying enemies
+Attack flying enemies.
+
+Arte users
+Attack enemies using Artes.
+
+*tpuse
+
+Use 100%
+Use Artes until TP is gone.
+
+Use 75%
+Do not let TP drop below 25%.
+
+Use 75%
+Do not let TP drop below 25%,
+except when healing.
+
+Use 50%
+Do not let TP drop below 50%.
+
+Use 50%
+Do not let TP drop below 50%,
+except when healing.
+
+Use 25%
+Do not let TP drop below 75%.
+
+Use 25%
+Do not let TP drop below 75%,
+except when healing.
+
+Do not use
+Do not use any Artes.
+
+*behaviour
+
+Normal
+Keep your distance and attack.
+
+Guard
+Hold your position.
+
+Artes only
+Use only Strike Artes and Fonic Artes.
+
+Strike Artes
+Mostly use Strike Artes.
+
+Fonic Artes
+Mostly use Fonic Artes.
+
+Heal
+Keep an eye on HP.
+
+Assist
+Mostly support party with Fonic Artes.
+
+*items
+
+Do not use
+Do not use any items.
+
+Watch HP
+Use items when HP is low.
+
+Watch TP
+Use items when TP is low.
+
+Condition
+Use items when condition
+changes.
+
+Up to you
+Use items freely.
+
+*overlimit
+
+Use it
+Use Over Limit whenever you can.
+
+Near enemy
+Use Over Limit near the enemy.
+
+Far from enemy
+Use Over Limit from a distance.
+
+Save it
+Save Over Limit for when you
+are in trouble.
+
+Do not use
+Do not use Over Limit.
+

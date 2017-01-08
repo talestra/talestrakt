@@ -1,0 +1,234 @@
+25-08-2007 - 28-08-2007
+----------
+soywiz
+	- Fuente actualizada con todos los caracteres
+	- Corregido algunos problemas
+	- Hecho primer prototipo del parcheador
+	- Primeros intentos con udf
+	- Soporte para mkisofs
+	- Otras cosas
+pacochan
+	- Traducidos textos de instrucción en batallas
+
+24-08-2007
+----------
+soywiz
+	- Corregido un texto de explicación de Tear para que salga mas homogéneo.
+
+23-08-2007
+----------
+soywiz
+	- Corregido btlcommon del reinsertor de texto/imágenes de batalla para que compruebe si existe el fichero
+	- Quitado \r de los textos de batalla de forma que ahora salen bien los saltos de línea
+
+22-08-2007
+----------
+soywiz
+	- Añadido soporte para los textos de adiestración de las batallas
+pacochan	
+	- Traducidas las imágenes de las batallas
+
+14-05-2007 ~ 21-08-2007
+----------
+soywiz
+	- Han habido muchísimos cambios desde el último log que no se habían anotado.
+	- Parcheado de rutina de fuentes
+	- Edición de nueva fuente
+	- Soporte para skits
+	- Soporte para journal
+	- Soporte para script principal
+	- Soporte para algunos DAT
+	- Traducidos los créditos
+	- Mejoradas e implementadas muchas funciones/clases en la librería común
+	- Añadido soporte para sqlite
+	- [...]
+
+13-05-2007
+----------
+soywiz
+	- Pequeña modificación y readaptaciones de algunas cosas
+	- ¿Extracción del script?
+
+22-04-2007
+----------
+soywiz
+	- Reestructurado todo el tema del isopath
+	- Creado reinsertor para las imágenes
+	- Añadido texto fijo /text/exe/fix/ (Para ahorrar recalcular punteros y ya que en los exe de
+	  la ps2 no hay relocs en el exe principal, siempre que se pueda se deberían usar las mismas
+	  direcciones)
+	- Añadido a la librería un recompilador dinámico (genera código nativo 80386 y permite
+	  ejecutarlo y asociarlo a código emulado)
+	- Modificado RangeList para soportar cálculo de logitudes de cadenas.
+	- Creada función del módulo tales.sb7 encargada de generar un RangeList con el espacio utilizable
+	  en un Stream sb7 dado.
+	- Varios bugs corregidos y nuevas funcionalidades añadidas en sb7, gameformat y rangelist
+	- ¡¡Ya se generan sb7 modificados!! Ahora solo hay que reinsertarlos en los fps3 y fps2,
+	  recomprimirlos y engancharlos en la iso :P
+
+21-04-2007
+----------
+soywiz
+	- Empezado reinsertor de los skits.
+	- Hecho reinsertor de los títulos de skits. Los coloca sin alinear (esperemos que no de problemas)
+
+17-04-2007
+----------
+soywiz
+	- Corregidos un par de bugs en los streams
+	- "Mejorado" (xD) el módulo TXD
+	- Corregido el bug tocapelotas en el módulo de compresión que hacía que
+	  la memoria creciera indefinidamente. El bug llevaba bastante tiempo presente.
+
+13-04-2007
+----------
+soywiz
+	- Soporte para reinsercción del fichero _SLTSKL_.DAT
+
+11-04-2007
+----------
+soywiz/pacochan
+	- Revisado videos
+	- Editado creditos del final
+
+09-04-2007
+----------
+soywiz
+	- Postpuesto la búsqueda de nombres de quien habla en cada momento. Extraeré el script de forma que se puedan añadir mas adelante
+	- Script extraido (kinda XD)
+
+08-04-2007
+----------
+soywiz/pacochan
+	- Añadido lyrics de karma
+	- Preparandome mentalmente para empezar la extracción del script xD
+	- Añadidos sonidos al parcheador (extraidos por pacochan)
+	- Reducido mixing rate a 22050
+	- Corregido un problema que hacía que se repitiesen dos veces los sonidos
+	- Corregido un bug que hacía que se reprodujesen todos los sonidos en un mismo canal, parando las reproducciones actuales
+	- Corregidos algunos bugs
+	- Soporte para primitivas en tales.media.media
+	- Corregidos variso fallos
+	- Empezando extracción del script
+	- Primera aproximación a la extracción del script
+	- Buscando la forma de localizar los nombres de quién habla en cada momento
+
+07-04-2007
+----------
+soywiz
+	- Pasado el Tales of the Abyss ^^
+	- Creado wrapper para el parcheador
+	- Mejorado tales.media.media.*
+	- Mejoras generales
+	- Corregido un fallo de liberación de recursos en el parcheador
+
+06-04-2007
+----------
+soywiz
+	- Parcheador con opengl
+	- Mejorado parcheador
+	- Corregido un bug en tales.media.media.Font
+	- Añadido soporte dinámico para espaciado en las fuentes
+	- Añadido class TimeLine a tales.media.media (preeliminar)
+
+05-04-2007
+----------
+soywiz
+	- Añadida pequeña librería gráfica tales.image
+	- Soporte para guardar tga
+	- Soporte para leer ficheros TIM2
+	- Soporte inicial para leer streams TXD
+	- Empezado a desensamblar intensivamente el ejecutable principal
+	- Empezando prunning de cosas antiguas
+	- Quitado 'util/adskills' la nueva versión genérica es 'text/dat/extract acs'
+	- Quitado 'util/cooking' la nueva versión genérica es 'text/dat/extract ckd'
+	- Quitado 'util/skills' la nueva versión genérica es 'text/dat/extract sp'
+	- Movido 'subtitulos' a 'text/sub'
+	- Movido 'util/TOAEND_*.TXT' a 'text/end/TOAEND_*.TXT'
+	- Quitado 'util/strategy' la nueva versión genérica es 'text/dat/extract stg'
+	- Quitado 'util/skits' y creado 'text/skt/extract.d'
+	- Quitado 'util/slotskill' la nueva versión genérica es 'text/dat/extract sltskl'
+	- Quitado 'util/items' la nueva versión genérica es 'text/dat/extract i' y 'text/dat/extract clbd'
+	- Quitado 'util/journal' la nueva versión genérica es 'text/exe/extract journal'
+	- Empezado parcheador
+	- Añadida librería multimedia
+
+04-04-2007
+----------
+soywiz
+	- Empezado reestructuración del SVN
+	- Añadido directorio lib
+	- Añadido directorio text
+	- Reprogramando extractores
+	- Programando insertores
+	- Creando utilidades genéricas para extractores/reinsertores/parcheador
+	- Modificado extractor para adskills
+	- Añadido reinsertor para adskills
+	- Añadido extractor para skits
+	- Ahora los programas de extracción, obtienen los ficheros directamente de la ISO original
+
+03-04-2007
+----------
+soywiz
+	- Empezado acme2
+	- Extraido skills
+	- Extraido el toca-pelotas _CKD_.DAT (cooking)
+
+02-04-2007
+----------
+soywiz
+	- Extraidas adskills (nombre, descripción)
+	- Extraidos textos de estrategia
+	- Preparados para extraer habilidades y cocina
+
+01-04-2007
+----------
+soywiz
+	- Extraido listado de objetos
+	- Cambios multiples
+	- Creado video tutorial de edición en acme para los nuevos
+	- Extraido y empezado a traducir y editar 'TOAEND_US.TXT' con los creditos
+	- Añadido extractor para el fichero _SLTSKL_.DAT (slotskill) añadida también la traducción (falta revisar)
+	- Empezado subproyecto: parcheador
+	- Preparando una reestructuración del SVN (quizá mañana o pasado)
+
+31-03-2007
+----------
+soywiz
+	- Extraido journal de luke
+	- Añadido journal al traductor colaborativo online 'acme' (DIOS, necesitamos un nombre xD)
+	- Añadidas imágenes usadas en acme para los proyectos de la traducción
+
+29-03-2007
+----------
+soywiz
+	- Extraidos skits
+	- Utilidad para extraer los textos de los skits y juntarlos con los títulos del EXE
+
+28-03-2007
+----------
+soywiz
+	- Añadido directorio de skits
+	- Creada utilidad para extraer los titulos de los skits
+	- Nuevas utilidades programadas relativas a streams y a containers
+	- ISO containers
+	- FPS3 containers
+	- Compressed->Uncompressed stream
+	- Uncompressed->Compressed stream
+
+24-03-2007
+----------
+soywiz
+	- Anunciado proyecto en la web
+	- Terminada utilidad para reinsertar archivos
+
+17-02-2007
+----------
+pacochan
+	- Terminado de subtitular todos los vídeos.
+
+16-02-2007
+----------
+soywiz
+	- Establecido repositorio SVN
+	- Iniciada primera utilidad: extracción de script.

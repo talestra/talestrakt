@@ -1,0 +1,138 @@
+## POINTER 210
+Holy Bottle
+
+## POINTER 211
+A vessel holding pure holiness.
+Monsters notice the party less.
+
+## POINTER 220
+Dark Bottle
+
+## POINTER 221
+A vessel holding pure darkness.
+Monsters notice the party more.
+
+## POINTER 230
+Syrup Bottle
+
+## POINTER 231
+Prevents Physical Ailments for 1 minute 
+during battle.
+
+## POINTER 240
+Nectar Bottle
+
+## POINTER 241
+Prevents Magical Ailments for 1 minute 
+during battle.
+
+## POINTER 250
+Wing Bottle
+
+## POINTER 251
+A bottle decorated with a pair of wings.
+Transports party to a dungeon's entrance.
+
+## POINTER 260
+Sage
+
+## POINTER 261
+A medicinal herb.
+Increases Max HP by 10.
+
+## POINTER 270
+Red Sage
+
+## POINTER 271
+A medicinal herb.
+Increases Max HP by 30.
+
+## POINTER 280
+Savory
+
+## POINTER 281
+A medicinal herb.
+Increases Max TP by 10.
+
+## POINTER 290
+Red Savory
+
+## POINTER 291
+A medicinal herb.
+Increases Max TP by 30.
+
+## POINTER 300
+Lavender
+
+## POINTER 301
+A medicinal herb.
+Increases P.ATK by 1.
+
+## POINTER 310
+Red Lavender
+
+## POINTER 311
+A medicinal herb.
+Increases P.ATK by 3.
+
+## POINTER 320
+Verbena
+
+## POINTER 321
+A medicinal herb.
+Increases P.DEF by 1.
+
+## POINTER 330
+Red Verbena
+
+## POINTER 331
+A medicinal herb.
+Increases P.DEF by 3.
+
+## POINTER 340
+Chamomile
+
+## POINTER 341
+A medicinal herb.
+Increases F.ATK by 1.
+
+## POINTER 350
+Red Chamomile
+
+## POINTER 351
+A medicinal herb.
+Increases F.ATK by 3.
+
+## POINTER 360
+Basil
+
+## POINTER 361
+A medicinal herb.
+Increases F.DEF by 1.
+
+## POINTER 370
+Red Basil
+
+## POINTER 371
+A medicinal herb.
+Increases F.DEF by 3.
+
+## POINTER 380
+Saffron
+
+## POINTER 381
+A medicinal herb.
+Increases AGL by 1.
+
+## POINTER 390
+Red Saffron
+
+## POINTER 391
+A medicinal herb.
+Increases AGL by 3.
+
+## POINTER 400
+Magic Lens
+
+## POINTER 401
+A mysterious lens that reveals enemy details.

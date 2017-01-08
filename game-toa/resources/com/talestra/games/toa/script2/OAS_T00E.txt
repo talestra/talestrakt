@@ -1,0 +1,951 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Dicen que estas columnas tienen\nel mismo diseño que las de las\nruinas Zao.<PAGE>\n¿Quiere decir esto que son las\nruinas de algo, también?
+He oído que una gran piedra fónica\ncayó del cinturón fónico.<PAGE>\nLa leyenda dice que el impacto\nhizo que se alzara el agua de debajo.
+Dicen que hubo algo en \nla dirección de las ruinas Zao,\npero no veo nada.
+Me imagino que desde aquí no.
+¡¿Cayeron Chesedonia y el \noasis por culpa de esa \nenorme piedra fónica?!
+No creo que esa sea la causa, pero\nno puedo evitar preguntarme... 
+He oído que las ruinas Zao\nrecibieron mucho daño.
+Apuesto a que la caída de Chesedonia\ntiene algo que ver con las ruinas Zao.
+¡Todo este miasma tiene que\nser malo para nuestra salud!
+Afortunadamente, me siento bien hoy.
+¿Las ruinas Zao?\nDirigíos al este.<PAGE>\nLa mayoría de las ruinas\nestán perdidas desde hace mucho.\n¡Tío, qué calor hace!
+Chesedonia está hacia el noroeste.<PAGE>\nEste calor es demasiado para mí... 
+¿Eh? \n¿Vais a Baticul?\nEs hacia el sur de aquí.
+Sin embargo las ruinas Zao están hacia el este.
+... ... ...\n¿Habéis estado en el norte?
+Chesedonia solía estar allí,\npero ahora no queda nada... 
+¡Bebed de esa fuente y \nos sentiréis refrescados\ny vigorizados!
+Podéis decir lo que queráis de \nla Partitura, pero os aseguro que\nesa agua es una bendición de Yulia.
+No me preocupo por el miasma.\nMientras tengamos el agua de\nla fuente estaremos bien.
+Aunque no lo puedo demostrar, claro.
+El agua de este manantial\nestá bendecida por Lorelei.<PAGE>\nTe purifica cuando la bebes. \n¿Donarás 100 gald por un trago?
+Sí\nNo
+Que Lorelei te bendiga.
+El agua de este manantial\nestá bendecida por Lorelei.<PAGE>\nTe purifica cuando la bebes. \n¿Donarás 100 gald por un trago?
+Sí\nNo
+Que Lorelei te bendiga.
+El agua de este manantial\nestá bendecida por Lorelei.<PAGE>\nTe purifica cuando la bebes. \n¿Donarás 100 gald por un trago?
+Sí\nNo
+Que Lorelei te bendiga.
+Lo siento, pero no tenéis\nsuficiente gald.
+Es importante mantenerse tranquilo\nen tiempos como estos.<PAGE>\nEl agua sagrada os aliviará. \n¿Donaréis 100 gald por una bebida?
+Sí\nNo
+Que Lorelei te bendiga.
+Dirigíos al este del oasis y\nencontrareis las ruinas Zao.<PAGE>\nNadie va allí ya porque\nla mayor parte están enterradas\ndebajo de la arena.
+Si quieres ir a Chesedonia, dirigete al \nnoroeste. No está muy lejos de aquí.<PAGE>\nTe ahorrarás un poco de tiempo si\nte vas por esta salida.
+Dirígete al este si quieres\nir a las ruinas Zao.
+Si quieres ir a Baticul,\ndirígete al sur.
+¿Quién podría pensar que \neste lugar ha caído?
+¿No estaba escrito en la Partitura?
+He oído que las ruinas Zao discurren\nprofundamente en el desierto.
+Cuidado con los monstruos.\nYo no iría a menos que estuviera\nescrito en la Partitura.
+¿Decía la Partitura algo sobre\nla aparición del miasma?
+Oh, sí... \nMe imagino que la Partitura ya no está.
+¡Acércate!\n¡Compra aquí tus armas!
+Un mercader está vendiendo herramientas\nen la tienda, si las necesitáis.
+¡Acércate!\n¡Compra aquí tus armas!
+Un mercader está vendiendo herramientas\nen la tienda, si las necesitáis.
+No me puedo creer que hayamos caído\nen el Qliphoth... ¿Aun tienes ganas\nde comprar armas?
+Puedes comprar herramientas del mercader\nque está dentro de esa tienda.
+¡Acércate!\n¡Compra aquí tus armas!
+Un mercader está vendiendo herramientas\nen la tienda, si las necesitáis.
+¡Acércate!\n¡Compra aquí tus armas!
+Un mercader está vendiendo herramientas\nen la tienda, si las necesitáis.
+¡Acércate!\n¡Compra aquí tus armas!
+Un mercader está vendiendo herramientas\nen la tienda, si las necesitáis.
+Has obtenido <05*>.
+Herramientas
+Armas/Armaduras
+Ultramarinos
+<SPEECH*>Qué raro. Normalmente,\naquí hay un soldado...
+<SPEECH*>¿Un soldado? ¿Por qué?
+<SPEECH*>Este lugar es un área restringida.
+<SPEECH*>Si estás buscando a ese soldado,\nacaba de irse diciendo que le\nhan llamado del castillo.
+<SPEECH*>¿Vosotros también vais\na la vieja fábrica?
+<SPEECH*>Acabo de ver a otra joven señorita\nsubiéndose al aerocoche hace un momento.\nMe pregunto por qué es un lugar tan\npopular de repente.
+<SPEECH*>¿Mmm?\n¿Así que alguien más ha ido hacia allá?
+<SPEECH*>¿Eso importa?\nMontémonos en esta cosa y vámonos ya.
+<SPEECH*>Ya sabes que Baticul se construyó\nen el cráter hecho por una piedra \nfónica que cayó, ¿verdad?
+<SPEECH*>Si vamos por aquí, deberíamos\npoder atravesar la pared del cráter.
+<SPEECH*>Si, por supuesto.\nSi esto era una fábrica, entonces...
+<SPEECH*>...debería haber instalaciones\npara evacuar el agua sucia.
+<SPEECH*>Exacto. El sistema de alcantarillado\nno funciona hoy en día, pero deberíamos\npoder salir a través de él.
+<SPEECH*>Oh, desde luego sabes\nmucho sobre esto, Guy.
+<SPEECH*>Os encontré.
+<SPEECH*>¿Qué estás haciendo aquí?\n¿Por qué vas vestida así?
+<SPEECH*>¿Tú qué crees? Dos enemigos acérrimos\npor fin van a firmar la paz. No es\nmomento para que una princesa se quede\nen casa.
+<SPEECH*>¿Eres tonta?...\nEl mundo exterior no es lugar\npara una niñata malcriada.
+<SPEECH*>Quizá tengas que enfrentarte a\npersonas, ¿sabes? No sólo monstruos.
+<SPEECH*>Hace tres años, en la batalla\nen el norte de Chesedonia, hice una\nvisita para animar a las tropas.
+<SPEECH*>Estoy preparada para la batalla.
+<SPEECH*>Levantar la moral y pelear son dos\ncosas diferentes. Posiblemente sea\nmejor que vaya detrás de nosotros. @
+<SPEECH*>Con todos los respetos,\nme temo que estoy de acuerdo.
+<SPEECH*>Alteza, creo que lo mejor sería\nque volviera al castillo...
+<SPEECH*>¡Silencio! ¡Soy maestra del tiro\ncon arco del estilo Lanvaldear!
+<SPEECH*>¡Y también he estudiado cómo sanar!
+<SPEECH*>Ciertamente yo seré más útil que\neste Caballero del Oráculo cabeza hueca\no que el maleducado ése.
+<SPEECH*>¿Alguien más piensa que debería hacerle\nun agujero nuevo a la nenita de papá?
+<SPEECH*>Qué vulgar. Así demuestras\ntu falta de refinamiento.
+<SPEECH*>Menuda princesa...
+<SPEECH*>Vaya, esto se pone divertido.
+<SPEECH*>Esto es por lo que me\nasustan las mujeres...
+<SPEECH*>¡Bueno, da igual, deja de seguirnos!
+<SPEECH*>Les contaré ya sabes qué.
+<SPEECH*>¿De qué estás hablando?
+<SPEECH*>Te he oído hablar con el\ngeneral dórico Grants en la\nparte de abajo del castillo...
+<SPEECH*>¡¿Cuánto has oído?!
+<SPEECH*>Que él es quien te\nsecuestró y que vas a\nhuir hacia Daath.
+<SPEECH*>¿Y qué hay de lo anterior?...
+<SPEECH*>No oí nada más.\nNo fui ahí para espiar.
+<SPEECH*>He pensado en pedirte\nque me dejes ir contigo.
+<SPEECH*>Si lo hago, ¿no dirás nada de eso?
+<SPEECH*>Siempre que recuerdes tu promesa\nincluso después de huir hacia Daath.
+<SPEECH*>Vale, lo prometo...
+<SPEECH*>Prometido está.\nPensé que no te gustaban estas cosas.
+<SPEECH*>¿Eh?
+<SPEECH*>No importa...
+<SPEECH*>He decidido que Natalia\ndebería venir con nosotros.
+<SPEECH*>Seguro que nos llevamos bien.
+<SPEECH*>Luke... No puedo creerte.
+<SPEECH*>¡Cállate!\n¡Soy el embajador!\n¡Lo que digo va a misa! ¡¿Entendido?!
+<SPEECH*>Oh, por favor, habladme\nde forma normal, y llamadme\nNatalia.
+<SPEECH*>Sino, la gente podría\ndescubrir que soy la Princesa.
+<SPEECH*>Cómo huele.
+<SPEECH*>¡Huele a algo grasiento!
+<SPEECH*>¿Será de cuando la fábrica funcionaba?\nNo, es demasiado fuerte para eso...
+<SPEECH*>¡Esperad! \nOigo algo... \n¿Hay algo ahí?
+<SPEECH*>Yo no oigo nada.
+<SPEECH*>No, definitivamente aquí hay algo.\n¿Un monstruo?
+<SPEECH*>¡Cuidado!
+<SPEECH*>¡Uah! ¡Ahí viene!
+<SPEECH*>¿Qué demonios era eso?
+<SPEECH*>No era algo que haya visto antes por aquí.\nEl interior parecía una araña.
+<SPEECH*>Bueno, no es sorprendente que una\nfábrica abandonada tenga algunas\narañas, pero...
+<SPEECH*>El combustible del que se alimentaba\npodría haber causado una mutación\ndebido a la actividad de los fonones.
+<SPEECH*>¿Tear?...
+<SPEECH*>¿Sí?
+<SPEECH*>Gracias. Me has salvado. \nSiento los problemas que\nos he causado a todos...
+<SPEECH*>No pasa nada.
+<SPEECH*>Sí que pasa. \nNo nos estorbes, Natalia.
+<SPEECH*>Por cierto, ¿dónde está el alcantarillado?
+<SPEECH*>Imagino que está abajo... ¿mmm?
+<SPEECH*>Hey, ¿es una salida de emergencia?
+<SPEECH*>Echemos un vistazo.
+<SPEECH*>Vale, si bajamos esta escalera,\ndeberíamos poder salir fuera.
+<SPEECH*>Vale, si bajamos esta escalera,\ndeberíamos poder salir fuera.
+<SPEECH*>Sí, Amo. ¡Cuando salgamos de aquí,\npodremos llegar a Chesedonia!
+<SPEECH*>Chesedonia está atravesando el desierto.\nDebería haber un oasis a medio camino,\nasí que pararemos ahí para descansar.
+<SPEECH*>Guy, baja tú primero.
+<SPEECH*>Cógeme si resbalo.
+<SPEECH*>Me dices que haga eso aún\nsabiendo que no puedo, ¿verdad?
+<SPEECH*>Necesito que superes tu fobia,\no tendremos problemas cuando Luke\ny yo nos casemos.
+<SPEECH*>Luke prefiere chicas mucho\nmás jóvenes y monas,\n¿no es cierto, Luke?
+<SPEECH*>Puedes cancelar ese enfermizo\ncompromiso en cualquier momento. @
+<SPEECH*>¡¿Disculpa?!
+<SPEECH*>¡¿Qué?!
+<SPEECH*>Luke, eres despreciable.
+<SPEECH*>¡¿Qué?! \n¡¿Acaso es culpa mía?!
+<SPEECH*>Me alegra ver que os\nlleváis todos tan bien.
+<SPEECH*>¡¿Estás ciego?!
+<SPEECH*>¡Asch! \n¡Ahora Ion es lo importante!
+<SPEECH*>¡Lo sé!
+<SPEECH*>¿No eres tú el caballero de las damas?
+<SPEECH*>Él... es igual que yo...
+<SPEECH*>¿Qué significa esto?
+<SPEECH*>Por cierto, han cogido\na Ion y se han ido.
+<SPEECH*>¡Aaah! ¡Les he dejado escapar!
+<SPEECH*>No obstante, nos hemos encontrado\ncon los Seis Generales de Élite. \nEl señuelo ha sido un fracaso.
+<SPEECH*>¿No sería mejor volver\na Baticul e ir en barco?
+<SPEECH*>Sería una pérdida de tiempo.
+<SPEECH*>¿Por qué?
+<SPEECH*>Padre todavía no confía en Malkuth.
+<SPEECH*>Habrá cerrado el puerto para\nevitar una invasión después de que\nel señuelo zarpara.
+<SPEECH*>Vayamos por tierra y busquemos a Ion.
+<SPEECH*>Si Ion muriera, podría afectar\ntodo este esfuerzo por la paz.
+<SPEECH*>¡Es cierto! ¡Por favor, buscad a Ion! \nAunque sea mientras hacéis otras cosas.\n¡Por favor!
+<SPEECH*>Es tu decisión, Luke.\n¿Buscaremos a Ion mientras\nvamos por tierra?
+<SPEECH*>¿O pondremos a Natalia en\nmanos de Su Majestad y que él\nabra el puerto?
+<SPEECH*>¡No puedes hacer eso!\n¡Luke! ¡Ya SABES a lo que me refiero!
+<SPEECH*>¡Gaaah, callaos la boca todos!\n¿Por qué soy yo el que tiene que decidir?
+<SPEECH*>Bueno, eres el que\nestá al cargo, ¿no?
+<SPEECH*>Eres realmente odioso.\n¡Iremos a pie!... Tendremos muchos problemas\nsi no llevamos a Natalia con nosotros.
+<SPEECH*>Ion... \n¿A dónde se lo habrán llevado?
+<SPEECH*>El buque de tierra se dirigía al este...\nÉsa es la dirección del oasis.
+<SPEECH*>También planeábamos parar ahí.\nLuke, los perseguirás, ¿verdad?
+<SPEECH*>Sí...
+<SPEECH*>(Ese tipo que se parecía a mí...\nLe llamaban "Asch"...)
+<SPEECH*>(Tío, menudo yuyu...)
+¡Se llevaron a Ion al oasis!\n¡Se supone que has de llevarnos ahí!\n¡Caray!
+¡¿Qué haces?! ¡No te dejaré subir\nal barco hasta que encontremos a Ion!
+Si entramos aquí, ¡me llevarán\nde vuelta a Baticul!
+<SPEECH*>Respóndeme... ¡Respóndeme!
+<SPEECH*>Aaah... ¡¿qué demonios?!
+<SPEECH*>¡Luke! \n¿Son esos dolores de cabeza otra vez?
+<SPEECH*>¿Dolores de cabeza?
+<SPEECH*>Desde que lo secuestraron,\na veces tiene dolores de cabeza e\nincluso a veces oye voces.
+<SPEECH*>¡Respóndeme, engendro!
+<SPEECH*>¡¿Quién... demonios... eres?!
+<SPEECH*>Ya sabes quién soy. \nEres igual que yo.
+<SPEECH*>¡Asch!
+<SPEECH*>¿A dónde te crees que vas,\nidiota? No me eches las culpas\nsi le pasa algo a Ion.
+<SPEECH*>¡¿Dónde estás?!
+<SPEECH*>Las ruinas Zao...\nAunque dudo que un engendro\ncomo tú pueda llegar hasta\naquí.
+<SPEECH*>¡Luke! ¿Estás bien?
+<SPEECH*>Amo, ¿se encuentra mal?
+<SPEECH*>Aguanta, Luke.
+<SPEECH*>¿Vuelves a oír voces imaginarias?
+<SPEECH*>Dudo que fuera mi imaginación...
+<SPEECH*>Dijiste algo de "Asch".\n¿Te referías a ese Caballero del Oráculo?
+<SPEECH*>La voz que oí era definitivamente\nla de Asch. Dijo que estaba con Ion en\nlas ruinas Zao...
+<SPEECH*>¡¿Ion está ahí?!
+<SPEECH*>¿Las ruinas Zao? \n¿Las de hace 2000 años?
+<SPEECH*>¿Dónde están?
+<SPEECH*>Me temo que no lo sé. Estaría\nmás agradecido si el líder de esta\nmisión las encontrara por nosotros...
+<SPEECH*>Te gusta ser imbécil, ¿verdad?
+<SPEECH*>En absoluto. Soy tan bondadoso\ny honesto que casi duele.
+<SPEECH*>¡Coronel! \nDeja de tomarle el pelo a Luke.
+<SPEECH*>Luke, preguntemos a la\ngente de este oasis.
+<SPEECH*>De acuerdo...
+¿Las ruinas Zao?\nEstán atravesando el desierto hacia el este.
+Pero no es que quede\nmucho de ellas.
+<SPEECH*>¡Tiene que ser eso!
+<SPEECH*>Aquí dentro, eh...
+<SPEECH*>Está oscuro dentro...
+<SPEECH*>Escupiré fuego.
+<SPEECH*>¿Vas a estar escupiendo fuego\ntodo el rato? Eso nunca funcionará.
+<SPEECH*>Tal vez sea por el viento, pero no\nhay rastro de ningún buque de tierra.
+<SPEECH*>¿Ya se han ido? \n¿O aún están dentro?...
+<SPEECH*>Sea lo que sea, \npodría haber pistas\nsobre Ion, ¡así que vamos!
+¡Se han llevado a Ion a las ruinas Zao!\n¡¿Qué narices estás haciendo?!
+¡¿Qué haces?! ¡No te dejaré subir\nal barco hasta que encontremos a Ion!
+Si entramos aquí, ¡me llevarán\nde vuelta a Baticul!
+<SPEECH*>El Maestro Fónico está en mitad de un ritual.\nNo consentiremos que interfiráis.
+<SPEECH*>¡Los Generales de Élite!
+<SPEECH*>¡Qué insolencia, después\nde secuestrar al que se supone\nque has de servir!
+<SPEECH*>¡Sync! ¡Largo!\n¡Soltad a Ion!
+<SPEECH*>Creo que no.\nAún tenemos trabajo para él.
+<SPEECH*>Pues nos lo llevaremos por la fuerza.
+<SPEECH*>Esto será divertido. Veamos cuánto\nhas crecido desde la última vez que\nte vi, acobardado en el Tartarus.
+<SPEECH*>No está mal, viniendo de alguien que\nquedó medio muerto de un golpe de Jade.
+<SPEECH*>¡Bua ja ja ja! \nSí, bueno, no perderemos tan\nfácilmente esta vez, chaval...
+<SPEECH*>Sync la Tempestad, General de\nÉlite de los Caballeros del Oráculo,\nno mostrará piedad.
+<SPEECH*>Tampoco lo hará Largo el León Negro.\n¡Preparaos!
+<SPEECH*>Aah...
+<SPEECH*>Argh...
+<SPEECH*>¿Vosotros dos juntos AÚN no\npodéis vencerles? ¡Patético!
+<SPEECH*>Eso era...\n¡Uno de los movimientos del maestro Van!
+<SPEECH*>¡¿Cómo lo HAS sabido?!
+<SPEECH*>¡¿Qué eres, estúpido?! \nEs porque entrenamos con el\nmismo estilo, ¡¿por qué sino?!
+<SPEECH*>¡Asch! ¡Para!
+<SPEECH*>Te emocionas cuando te dejan solo.\nAparta esa espada. ¡Ahora!
+<SPEECH*>Hagamos un trato. \nA cambio de terminar con esta batalla,\ndejaremos marchar al Maestro Fónico.
+<SPEECH*>No necesitaremos un trato\nsi nos los cargamos.
+<SPEECH*>No olvides que estamos\nbajo el desierto.
+<SPEECH*>Podemos enterraros junto a nosotros.
+<SPEECH*>También moriríamos, por supuesto,\npero es un sacrificio que estamos\ndispuestos a hacer.
+<SPEECH*>Luke, aceptemos su oferta.
+<SPEECH*>Ahora mismo, tenemos que recuperar\na Ion y correr hacia Akzeriuth.
+<SPEECH*>Ya llegamos tarde\npor viajar por tierra.
+<SPEECH*>De acuerdo...
+<SPEECH*>¡Ion! Estaba preocupada por ti.
+<SPEECH*>Siento los problemas que he causado.
+<SPEECH*>Daos la vuelta y salid de aquí.\nSi volvéis, os aseguro que os enterraré.
+<SPEECH*>Realmente son iguales...
+<SPEECH*>No puedo soportar recibir órdenes\nde un asqueroso como él.
+<SPEECH*>¿Qué? Oh... sí. Pero tendrás\nque aguantarlo por ahora, Natalia.
+<SPEECH*>Lo sé. En este viaje, no estoy\nviajando como princesa.
+<SPEECH*>¿Natalia?...
+<SPEECH*>¿Qué pasa?...
+<SPEECH*>¡Natalia, vámonos!
+<SPEECH*>Vale...
+<SPEECH*>¿Ésa es la princesa Natalia?\nDebe ser el destino, Largo.
+<SPEECH*>¿Estás relacionado con\nNatalia de alguna forma?
+<SPEECH*>Fue hace mucho tiempo...\nLo he olvidado.
+<SPEECH*>No hay necesidad de que los\nSeis Generales de Élite sepan\nel pasado de cada uno.
+<SPEECH*>Deberías ser dolorosamente\nconsciente de eso.
+<SPEECH*>De toda la gente, tú... las\ncenizas sobrantes de la "llama sagrada".
+<SPEECH*>Tch...
+<SPEECH*>Ése, Guy... lo sabe.
+Démonos prisa y salgamos de aquí.
+Es peligroso volver.
+No podemos volver justo\ndespués de hacer ese trato.
+No deberíamos volver.
+Démonos prisa y volvamos\na la superficie.
+Echo de menos el\nmundo exterior.
+<SPEECH*>Fiu. Incluso si hace calor,\nestá todo lleno de arena y\nde polvo, me alegro de\nestar fuera.
+<SPEECH*>Lo siento por los problemas\nque os he causado. Si no hubiera\nsido tan descuidado...
+<SPEECH*>¡Sí, no me digas, Ion!\n¡Fue peligroso!
+<SPEECH*>Por cierto, Ion, ¿qué te\nhacían hacer? Éste es otro\nde los sephiroth, ¿verdad?
+<SPEECH*>Sí... Para proteger los sephiroth,
+<SPEECH*>la Orden de Lorelei puso\nsellos daáthicos en ellos.
+<SPEECH*>Sólo un Maestro Fónico puede quitarlos. \nLos Generales de Élite me pidieron que\nlo hiciera aquí.
+<SPEECH*>¿Por qué la Orden está\nprotegiendo los sephiroth?
+<SPEECH*>Eso es confidencial en la Orden.\nPero incluso con el sello abierto,\nno deberían de poder hacer nada...
+<SPEECH*>Bueno, lo que sea.\nDémonos prisa y vayamos a la ciudad.\nMe voy a marchitar aquí.
+<SPEECH*>Sí.\nVayamos a Chesedonia.
+<SPEECH*>Estoy de acuerdo.
+<SPEECH*>¡Yo también!
+<SPEECH*>¡Calla, cosa!\n¡Si abres la boca,\nempeorarás las cosas!
+<SPEECH*>Lo siento, Amo. Mieuu...
+Este bidón apesta.
+Está lleno de combustible.\nParece inflamable.
+Por poco.\nAlgunas de estas tuberías están sueltas...
+Algunas tuberías están sueltas.\nTendremos que tener cuidado.
+Parece que algunas tuberías están sueltas.
+¡Qué susto!\nAlgunas tuberías están sueltas.
+¡Dios, vaya susto!\nAlgunas tuberías están sueltas, ¿eh?
+Vaya sorpresa.\nAlgunas de estas tuberías están sueltas.
+Ése es el mismo tipo de bidón que el\nque le prendimos fuego antes, ¿verdad?
+Sí. Me pregunto si le podríamos\nprender fuego e iluminar la zona.
+Me pregunto si le podríamos prender\nfuego e iluminar la zona.
+Esto es una máquina que\nproporciona combustible.<PAGE>\nDeben haber usado esto para bombear\ncombustible por toda la fábrica.
+Este barril está vacío.\nSeguro que podríamos moverlo...
+El combustible está goteando.
+Sí. El combustible debe circular\npor esa tubería.
+Parece que el combustible circulaba\npor esa tubería, pero...<PAGE>\nHa caído.
+El barril que tiramos se ha\nllenado de combustible.
+Encender el combustible que\ngotea no será suficiente\npara iluminar este lugar.
+¿Qué?
+Necesitamos algo para\nrecoger el combustible.
+Algo para recogerlo, eh...
+Necesitamos algo para\nrecoger el combustible.
+¿Eh?\nEsto no se está iluminando.
+Eso es porque el barril está vacío.\nSi estuviera lleno de combustible,\neste sito se iluminaría al prenderlo...
+Tenemos que llenar el barril con\ncombustible de alguna forma.
+Hemos tirado el barril allí\nabajo, ¿pero ahora qué?
+Mmm...\nEstá oscuro y no se ve bien.<PAGE>\nMe gustaría poder iluminar\nesto un poco...
+Sí...\nVamos a explorar la zona un poco más.
+Sí. Vamos a comprobar también el\nsitio por el que hemos venido.
+¿Vamos a volver por donde acabamos de venir?\nMenudo rollo...
+Tenemos que ir a Belkend para\nobtener información de Van.
+Esto no es Belkend.\nVolvamos.
+Vamos a Belkend.\nHay algo que quiero investigar.
+Nos dirigimos a Belkend, ¿no?
+Primero vayamos a Belkend,\ncomo sugirió Asch.
+Ahora nos vamos a la caverna de Ortion.
+La caverna de Ortion es nuestro destino,\n¿correcto? En marcha...
+Démonos prisa en ir a la caverna\nde Ortion y encarguémonos de esto.
+La caverna de Ortion está en el territorio\nde Kimlasca, en el continente radessiano.
+Vamos a preguntar a la gente de\npor aquí sobre las ruinas Zao.
+Vamos a preguntarle a alguien\nsobre las ruinas Zao.
+Investiguemos un poco\nsobre las ruinas Zao.<PAGE>\nLa gente que vive aquí\nquizá sepa algo.
+Primero preguntemos a la gente de\npor aquí sobre las ruinas Zao.<PAGE>\nPreferiría no perderme y morir\nde sed en el desierto.
+Tenemos que rescatar a Ion. \nPreguntemos a la gente\nsobre las ruinas Zao.
+Es peligroso ir vagando por el\ndesierto. Primero reunamos\ninformación sobre las runas Zao.
+Démonos prisa y vayamos a Akzeriuth.
+Corramos a Akzeriuth.
+¿No tenemos que ir\nrápidamente a Akzeriuth?
+Corramos a Akzeriuth.
+No tenemos necesidad de venir aquí.\nTenemos que ir a Akzeriuth.
+No queda tiempo. \nDebemos ir rápidamente Akzeriuth.
+¿Pero qué...?\nHay una especie de partículas que\nsalen del círculo de memoria.
+Oh, sí, es un círculo de memoria\nque sirve como ruta de escape.
+¿"Ruta de escape"?
+Si tienes un objeto llamado <04*><05*><04*>, \npuedes volver a la entrada.
+Eh...\nLos círculo de memoria verdes\ntienen propiedades sanadoras, ¿no?<PAGE>\nY estos que tienen partículas que\nsalen son rutas de escape.\nHay un montón de tipos, eh...
+Los círculos de memoria que emiten\npartículas son rutas de escape.
+Puedes usar unas <04*><05*><04*> para volver\na la entrada de la mazmorra.
+Úsalos como atajos para\nmoverte más rápido.
+¡Tenemos problemas! \nLas ruinas Zao están...
+¡¿Qué?!... Entendido.\nSellaremos la salida.
+Ya no podemos pasar por aquí...\nVayamos a ver a Astor.
+Sí.
+¡No podemos dejaros salir, \nno importa quiénes seáis!
+<SPEECH*>¡Luke! \n¡Princesa Natalia!
+<SPEECH*>Había rumores, todo tipo de rumores,\nde que ambos habíais muerto.
+<SPEECH*>Me alegro tanto de volver a veros. \nJi ji ji ji.
+<SPEECH*>Tenemos que pedirte un favor.
+<SPEECH*>Tranquilo. El maestro fónico\nIon ya ha pedido que aceptemos\na la gente de Engeve.
+<SPEECH*>Oh, bien...
+<SPEECH*>Estamos en deuda contigo.\nGracias.
+<SPEECH*>No es nada. \nJi ji ji.
+<SPEECH*>Por cierto, ¿ha pasado algo\nen el Desierto de Zao?
+<SPEECH*>Sí que viajan rápido las noticias. \nTenemos algunos problemas.
+<SPEECH*>Los terremotos han dividido el\nDesierto de Zao y la península ispaniense,\ny esta zona ha empezado a hundirse.
+<SPEECH*>¡Parece que...!
+<SPEECH*>¡Chesedonia está cayendo!
+<SPEECH*>¡Noticias, señor! \n¡El ejército de Kimlasca llegó\na Engeve a las 11:32!
+<SPEECH*>*Suspiro* \nAsí que la gente de Engeve estaba destinada\na estar en peligro pasara lo que pasara...
+<SPEECH*>¿Y eso es lo que hay?
+<SPEECH*>Me pregunto si Noelle lo\nconsiguió a tiempo.
+<SPEECH*>Gracias. \nSigue vigilando la situación.
+<SPEECH*>¿Me pareció oíros decir\nque Chesedonia va a caer?
+<SPEECH*>¡Lo mismo que pasó en Akzeriuth \ny San Binah está ocurriendo aquí!
+<SPEECH*>Aquí viven ciudadanos de ambas\nnaciones. No tienen sitio a donde\nhuir en medio de esta guerra.
+<SPEECH*>¿Significa que hay un anillo\nde tránsito en esta área\nque Van ha cerrado?
+<SPEECH*>Eso sería en las ruinas Zao, \ndonde se llevaron a Ion...
+<SPEECH*>Maldita sea, ¿y ahora qué hacemos?\nTal vez si revivimos el árbol de\nsephiroth ahora mismo...
+<SPEECH*>No, Teodoro dijo que era imposible.\nNo obstante...
+<SPEECH*>¡Coronel! \n¡¿Tiene una idea?!
+<SPEECH*>Bueno, incluso si no podemos\nrevivir el árbol, el flujo del\nsephiroth aún debería ascender.
+<SPEECH*>Si usamos ese poder, me pregunto si\npodríamos hacer descender la tierra\nlentamente, como un ascensor.
+<SPEECH*>¿Podemos hacer que el anillo de\ntránsito haga eso?
+<SPEECH*>Eso no lo sé.
+<SPEECH*>Echemos un vistazo. ¡Mientras\nhablamos, no hacemos más que\nesperar a que esto caiga!
+<SPEECH*>Me temo que no te sigo del todo...
+<SPEECH*>Tal vez haya una forma de evitar\nla destrucción de Chesedonia.
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Bueno...
+<SPEECH*>El Qliphoth...\nEs una historia difícil de creer.
+<SPEECH*>Pero, a estas alturas, no queda más\nremedio que confiar en vosotros.
+<SPEECH*>Permitid que me encargue de\ninformar a los residentes. Por\nfavor, salvad Chesedonia.
+<SPEECH*>¡Vale, vamos a las ruinas Zao!
+<SPEECH*>Natalia...
+<SPEECH*>¿Qué? O-Oh, vale.\n¿Ya nos vamos?
+<SPEECH*>Hey... anímate, ¿vale? \nNi siquiera sabemos aún si\nlo que dijo Mohs es verdad.
+<SPEECH*>Cierto... Lo sé.\nEstoy bien...
+<SPEECH*>Astor nos ha informado de la\nsituación. Por favor, tened cuidado.
+<SPEECH*>¡Hey, réplica!... ¿Puedes oírme?
+<SPEECH*>¡Auu!...
+<SPEECH*>Ven al oasis del desierto.\nTenemos que hablar.
+<SPEECH*>¿El... oasis?
+<SPEECH*>¡Sí!\n¡Date prisa!
+<SPEECH*>¿Es otro de esos dolores de cabeza? \nPuedes oír la voz de Asch, ¿verdad?
+<SPEECH*>Sí...\nSoy su réplica.
+<SPEECH*>¡Asch!\n¿Qué ha dicho?
+<SPEECH*>¿Qué? Um... Dijo de ir\nal oasis, y que tenía algo\nde lo que hablar.
+<SPEECH*>Me pregunto si Van está detrás\nde esto.
+<SPEECH*>No lo creo. Es improbable que, a estas\nalturas, esté del lado de Van.
+<SPEECH*>Vamos al oasis. Deberíamos de seguir\nteniendo tiempo para operar el sephiroth\nincluso después de escuchar a Asch.
+<SPEECH*>Ya era hora de que llegaras.
+<SPEECH*>¿Qué quieres?
+<SPEECH*>¿Ha ocurrido algo raro? \n¿Como que tu mente se\nmezclara con la de otro?
+<SPEECH*>¿Eh?\n¿De qué estás hablando?
+<SPEECH*>No ocurre nada raro aparte\nde cuando te conectas conmigo.
+<SPEECH*>Ya veo...
+<SPEECH*>Asch, ¿ha pasado algo?\n¿Estás enfermo?
+<SPEECH*>No...
+<SPEECH*>¿Eso era todo lo\nque tenías que decir?
+<SPEECH*>Engeve ha empezado a caer...\nEl campo de batalla probablemente\ncaerá poco después.
+<SPEECH*>¡No!
+<SPEECH*>¡A este ritmo, todos los que estén\nen el campo de batalla morirán!
+<SPEECH*>¡Maldita sea! ¡Vosotros también,\nsi os quedáis aquí, idiota!
+<SPEECH*>Lo sé muy bien.
+<SPEECH*>Pero intentamos usar el flujo\ndel sephiroth para descender\nChesedonia de forma segura.
+<SPEECH*>¿Podéis hacer eso?
+<SPEECH*>¿Quién sabe?
+<SPEECH*>Nunca sé qué es lo que \npasa por esa cabeza tuya...
+<SPEECH*>Si lo que ha dicho Natalia es cierto,\n¿no podemos hacer descender también el\ncampo de batalla?
+<SPEECH*>Puede que no lleguemos a la\ncolina de Shurrey a tiempo...
+<SPEECH*>Llegaréis. Los sephiroth están\nconectados dentro del planeta.
+<SPEECH*>Naturalmente, los anillos de tránsito\ntambién están conectados.
+<SPEECH*>Cuando los anillos están activados,\npodéis controlar remotamente un anillo\ndesde otro.
+<SPEECH*>Así que si activamos el de las\nruinas Zao, ¿también podremos controlar\nel de la colina de Shurrey?
+<SPEECH*>Eso es lo que dijo Van...
+<SPEECH*>¡Asch! \n¿A dónde vas?
+<SPEECH*>A averiguar qué es lo que trama Van.\nTenemos que saber cuál será la\nsiguiente área que hará caer.
+<SPEECH*>Bueno, si falláis,\nmoriré aquí junto con\ntodos los demás...
+<SPEECH*>¡Prometo que la haremos descender\nde forma segura! ¡Lo juro!
+<SPEECH*>No me vengas con juramentos de críos.\nNo seas absurda.
+<SPEECH*>¡Asch!...
+<SPEECH*>No hay garantías en este mundo.\nPor eso, antes, yo...
+<SPEECH*>Me voy... Vosotros también\ndeberíais marcharos.
+<SPEECH*>¡¿Q-Qué demonios...?! \n¡¿Un terremoto?!
+<SPEECH*>No. Esto es...
+<SPEECH*>¡Cuidado!
+<SPEECH*>¡Aquí viene!
+<SPEECH*>¿Qué demonios es esta cosa?
+<SPEECH*>Tal vez sea un monstruo de la Era del\nAmanecer. Lo he visto anteriormente,\nen un libro de Ciudad de Yulia.
+<SPEECH*>Pero no pensé que fueran\ntan agresivos...
+<SPEECH*>Los Generales de Élite del Oráculo estuvieron\naquí antes. Tal vez lo enfurecieron.
+<SPEECH*>Quizá estaba vigilando\nlas ruinas.
+<SPEECH*>¿Y qué más da? Recemos\npara que no nos topemos con\notro bicho como éste.
+<SPEECH*>Estoy totalmente de\nacuerdo. Bueno, ¿seguimos?
+<SPEECH*>Oh, bien, éste también\nme ha respondido...
+<SPEECH*>¿El Comandante también ha sellado éste?
+<SPEECH*>Eso parece. Pero...\n¿Los sephiroth están fuera de control?
+<SPEECH*>Tengo que deshacerme de la parte roja, ¿verdad?
+<SPEECH*>¿Y ahora qué?
+<SPEECH*>Oh, vale. Inscribe inmediatamente una flecha\nmirando hacia arriba justo encima de la luz.
+<SPEECH*>¿Os sustituyo?
+<SPEECH*>No, estamos borrando el código mediante\nfuerza bruta, así que no podemos escribir\nusando los controles normales.
+<SPEECH*>Tenemos que inscribirlo por la fuerza\ncon la hiperresonancia de Luke...
+<SPEECH*>Ahora, introduciremos los comandos,\npero... tú no sabes ispaniense\nantiguo, ¿verdad?
+<SPEECH*>¡Claro que no!
+<SPEECH*>Muy bien. Hazlo utilizando el \nlenguaje fónico que usamos ahora.
+<SPEECH*>La gramática es casi igual.\nDebería funcionar.
+<SPEECH*>¿Qué escribo?
+<SPEECH*>Árbol ascender. Velocidad triple. Aguantar.
+<SPEECH*>Entendido.
+<SPEECH*>Parece que funcionó.
+<SPEECH*>Pero aún queda Engeve...
+<SPEECH*>Ahora, dibuja una línea del \ncuarto sephiroth al tercero.
+<SPEECH*>Y escribe las mismas órdenes \nen el tercer sephiroth.
+<SPEECH*>El tercer sephiroth es la colina de\nShurrey, ¿no? Lo intentaré.
+<SPEECH*>Parece que ha empezado a descender...
+<SPEECH*>Por si acaso, vamos a esperar al lado\ndel anillo de tránsito hasta que termine
+<SPEECH*>Ha terminado el descenso y el \nanillo de tránsito parece normal.
+<SPEECH*>Fiuu. Je, ha sido casi aburrido \nque todo fuera tan bien.
+<SPEECH*>Yo no chulearía tanto,\nsi fuera tú.
+<SPEECH*>Sí, seguramente tienes razón...
+<SPEECH*>Guau, ni siquiera te has hecho el ofendido.
+<SPEECH*>Tengo miedo de confiarme demasiado \ny dejar que pase algo que luego \nno pueda deshacer...
+<SPEECH*>Tear, no me mires de esa manera.\nYa no voy a tener más arrebatos.
+<SPEECH*>No, no es eso...
+<SPEECH*>Seguramente sólo esté cansada.\nHemos estado más de un día con esto.
+<SPEECH*>¡Guau, hey! \n¡¿Estás bien?!
+<SPEECH*>Lo siento. Estoy bien.
+<SPEECH*>No puedo ni cuidar de mi propia salud.\nMenuda soldado más lamentable.
+<SPEECH*>Preocúpate más por ti misma que\npor tu reputación como soldado. \n¿Estás segura de que estás bien?
+<SPEECH*>G-gracias.\nEstoy bien.
+<SPEECH*>Entonces vamos fuera. Deberíamos \ncomprobar a ver si hemos llegado  \nal Qliphoth.
+<SPEECH*>Cuando crees que estás viendo un\nproblema, lo mejor es buscar la causa.
+<SPEECH*>¿Qué? Oh... Claro.
+<SPEECH*>Estamos sin duda en el Qliphoth.
+<SPEECH*>Pero, ¿cómo volvemos \na las Tierras Exteriores?
+<SPEECH*>Es verdad. \nEl Albiore no ha vuelto todavía.
+<SPEECH*>Nuestro punto de encuentro es Chesedonia. \nCreo que Noelle es lo bastante buena como\npara aterrizar con la tierra descendiendo.
+<SPEECH*>Dirijámonos a Chesedonia.
+<SPEECH*>¡Estáis todos bien!
+<SPEECH*>¡Qué bien que estés a salvo, también!\n¿Cuándo llegaste a Chesedonia?
+<SPEECH*>Justo antes de que esta área empezara a descender.
+<SPEECH*>¿Y qué pasa con la gente de Engeve?
+<SPEECH*>Ya los he traído a todos aquí.
+<SPEECH*>¡Gracias a Dios! \nBuen trabajo, Noelle. @
+<SPEECH*>Siento pedirte esto justo cuando acabas\nde llegar, ¿pero puedes llevarnos arriba?
+<SPEECH*>Claro. Os esperaré en\nel Albiore. Subid a bordo\ncuando estéis listos.
+<SPEECH*>¿Vamos a volver a las Tierras Exteriores?
+<SPEECH*>Algo me preocupa. Me\ngustaría volar un poco\nsobre el Qliphoth.
+<SPEECH*>¿Qué pasa?
+<SPEECH*>No diré nada hasta que no esté seguro.
+<SPEECH*>Cuando dices cosas\nasí, siempre pasa\nalgo malo...
+<SPEECH*>Vale.\nVamos a volar.
+<SPEECH*>Guau, ¿qué pasa con ese\nárbol de sephiroth?
+<SPEECH*>Brilla un momento y se apaga\nluego. Parece una linterna de\nfonones a punto de fundirse.
+<SPEECH*>Así que los sephiroth están fuera\nde control... Tal y como decía la\nadvertencia del anillo de tránsito.
+<SPEECH*>¿Fuera de control?...
+<SPEECH*>Sí. Seguramente algo hizo que los \nsephiroth se descontrolaran y que los \nárboles dejaran de funcionar correctamente.
+<SPEECH*>Estos últimos terremotos tan frecuentes\nno eran sólo porque la tierra se caía.
+<SPEECH*>¡Espera! Si los árboles dejan\nde funcionar, eso significa que\nlas Tierras Exteriores...
+<SPEECH*>La advertencia decía que los anillos de\ntránsito estaban al máximo de tolerancia,\nseguramente por el descontrol de los sephiroth.
+<SPEECH*>No queda mucho tiempo hasta que los anillos\nse rompan, los árboles desaparezcan\ny las Tierras Exteriores caigan.
+<SPEECH*>¡¿Lo dices en serio?! ¿Lo saben\nlos de Ciudad de Yulia?
+<SPEECH*>El Abuelo dijo que no caerían más\npartes de las Tierras Exteriores... \nÉl no lo sabe.
+<SPEECH*>Hey, el sephiroth es lo que mantiene\na Chesedonia flotando en la\nsuperficie licuada, ¿no?
+<SPEECH*>Si los anillos de tránsito se rompen...
+<SPEECH*>El mar de lodo se la tragará. A no ser\nque la superficie licuada se solidificase.
+<SPEECH*>El motivo por el que hicieron las\nTierras Exteriores fue para escapar\ndel miasma y la licuación, ¿verdad?
+<SPEECH*>Ni ellos pudieron\nsolucionar lo de la\nsuperficie licuada...
+<SPEECH*>¿La Partitura de Yulia dice\nalgo de que los sephiroth\nse descontrolen?
+<SPEECH*>Debe de haber una razón. ¿La Partitura\nno dice nada sobre cómo solucionarlo?
+<SPEECH*>Aunque lo diga, quizá sea\ninformación privilegiada que ni\nsiquiera el Abuelo puede ver...
+<SPEECH*>Pero Ion podría...
+<SPEECH*>Creo que Ion puede acceder\na los secretos de más alto\nnivel de Ciudad de Yulia.
+<SPEECH*>¡¿De verdad?!
+<SPEECH*>Sí. Quiero decir, él\nes el Maestro Fónico...
+<SPEECH*>¡Pues vayamos a Daath!\n¡Quizá haya alguna manera de arreglar las cosas!
+<SPEECH*>¿Y lo de ir a Baticul\na detener la guerra?
+<SPEECH*>El campo de batalla ha caído al Qliphoth.\nDudo que sigan pensando en la guerra.
+<SPEECH*>Sí, espero que tengas razón...
+Vayamos al oasis y veamos\nqué tiene que decir Asch.
+Quizá esté planeando algo, pero\nvayamos al oasis a escuchar lo que\nAsch tiene que decir.
+Vayamos al oasis y veamos\nqué tiene que decir Asch.
+Me interesa lo que Asch\ntiene que decir.\nVayamos al oasis.
+No es que quiera, pero tenemos\nque ir al oasis y oír lo que\nAsch tiene que decirnos.
+Vayamos primero al oasis.\nAsch nos está esperando.
+Vayamos a ver a Astor y\npidámosle que nos deje\nsalir por el lado de Kimlasca.
+Sin el permiso de Astor,\nno podemos salir por el\nlado de Kimlasca.
+Vayamos a ver a Astor. Sin\nsu permiso para salir, no\npodemos ir a Baticul.
+Vamos a ver a Astor. Si le explicamos\nla situación, debería darnos permiso\npara salir por el lado de Kimlasca.
+Vamos a pedirle permiso a Astor para que nos\ndeje salir del pueblo por el lado de Kimlasca.
+Para llegar a Baticul,\ntenemos que ver a Astor\ny obtener permiso para salir.
+Antes de ir a las ruinas Zao,\nvayamos al oasis a ver a Asch.
+Antes de ir a las ruinas Zao, vayamos\nal oasis a reunirnos con Asch.
+Antes de ir a las ruinas Zao,\ntenemos que ir al oasis\ny ver a Asch.
+Antes de ir a las ruinas Zao...<PAGE>\npasémonos por el oasis y oigamos\nlo que tiene que decir Asch.
+Antes de ir a las ruinas Zao,\nse supone que tenemos que ver\na Asch en el oasis.
+Antes de ir a las ruinas Zao,\nvamos a ver a Asch. Nos está\nesperando en el oasis.
+Démonos prisa en ir a las ruinas Zao.
+Deberíamos darnos prisa en ir a las ruinas Zao.
+Démonos prisa en ir a las ruinas Zao.
+Vayamos a las ruinas Zao.
+¡Vayamos a las ruinas Zao!
+Vayamos a las ruinas Zao. \nNo podemos dejar que más personas\nacaben siendo víctimas.
+Por cierto, Guy, no estarás\nsiendo una carga para los\ndemás en la batalla, ¿verdad?
+No sé. Todos los del grupo\nson buenos luchadores.
+Mmm...<PAGE>\nSi tienes la oportunidad, ve a visitar\na un viejo llamado Gee que vive en\nel Desierto de Zao, al este.<PAGE>\nSi le dices que te envía Pere, \ndebería de poder enseñarte algo\nútil sobre la espada.
+Vale.
+Soy Gee. \n¿Puedo ayudarte en algo?...
+Pere me envió. \nMe llamo Guy Cecil.
+¡¿T-Tú eres Guy?! \n¡Ah, ya veo!<PAGE>\nPere me ha contado los detalles...\nEntiendo tu situación.
+No veas si se ha emocionado el viejo.
+Ja ja, sí.<PAGE>\nBueno, Gee,<PAGE>\nPere me dijo que me enseñarías algo\nque me sería útil para mi técnica\nde lucha con la espada...
+Ah, ya veo. Entonces tendré que\npasarte mis artes arcanas, Guy.
+Lo siento, pero lo de pasar\nartes se hace de tú a tú. \n¿Puedo pediros a los demás que salgáis?
+¿Por qué?
+Luke, no seas tozudo.
+Natalia tiene razón.\nVamos.
+Me alegra tanto ver\nque estás bien...
+Has obtenido "censo de ciudadanos de Hod".
+Bueno, ¿has aprendido ese arte arcano?
+No, las artes arcanas de mi estilo de\nlucha se transmiten oralmente.<PAGE>\nNo lo habré completado hasta que encuentre\na los miembros del concilio de artes arcanas\ny lo reciba de ellos. Parece que el\npróximo está en Kaitzur.
+Correcto. Los miembros del concilio de\nartes arcanas están ahora dispersados\npor todo el mundo.<PAGE>\nSi puedes buscarlos y\ncompletar el censo\nque te  he dado,<PAGE>\ncreo que al final serás capaz de aprender\nel arte arcano. Trabaja duro, joven.
+Eh, tu estilo de lucha conlleva\nmucho trabajo. Ahora que lo dices,\n¿qué estilo es?...
+Nuestra estilo es secreto.\nNo puedo dar detalles a los\nde fuera. Por favor, perdoname.
+Lo siento, Luke.\nEs lo que hay.
+V-Vale...
+¡Ese censo! \n¡¿Es de Gee?!
+¿Lo conoces? \nMe llamo Guy. \nHe recibido esto de Gee.
+¡Te he estado esperando! \nTe enseñaré lo que sé de\nla espada ahora mismo.<PAGE>\nLo siento, ¿podrías acercarte\naquí tú solo?
+Está bien.\nEsperad un poco, chicos.
+Guy aprende un ataque especial.
+Lo has hecho espléndidamente. El\npróximo que te enseñará te está\nesperando en un monumento histórico.
+¿Eh? ¿No nos vas a decir\nen qué ciudad está?
+Aunque quisiera, ninguno de nosotros\ntiene información detallada sobre dónde\nviven los demás.<PAGE>\nSi Guy es capaz de llenar el censo,\nnuestras posiciones se verían\nclaras, pero...
+Oh, ¿por qué es así?
+Hay varios motivos... En fin, busquemos\nun monumento histórico de piedra.
+Cuidaos...
+Te he estado esperando.... Tengo un mensaje\ndel tercer maestro de artes.
+¿Ha pasado algo?
+El tercer maestro es muy mayor,<PAGE>\ny nos dijo que se instalaría con sus\nfamiliares en una ciudad costera.
+Una ciudad costera...
+¿Baticul?
+Gran Chokmah es una ciudad en el mar.
+Sí.<PAGE>\nHay otras ciudades cerca del mar,\npero la ciudad costera debe de\nser una de esas dos.
+¡Ohh! Has hecho bien en encontrarme.<PAGE>\nDisculpame por haber dejado mi puesto.\nDeja que te pase el arte arcano\nahora mismo.
+¿Por qué pasas tus artes\narcanas de una forma tan\nlarga y engorrosa?
+Sí. Tu usas técnicas del estilo\nalbertesco, ¿verdad?<PAGE>\nPodrías aprender el arte arcano de\nlos textos que dejó el maestro Van...
+Nuestro estilo no es de la rama\nprincipal del estilo albertesco.
+La técnica de espada que yo uso\nes del estilo sigmundesco, que\nsalió el estilo albertesco.
+Sigmund aprendió a usar la\nespada con Fleil Albert.<PAGE>\nPara proteger a Yulia y a Albert y ser\nsu guardia avanzada, mejoró lo que\naprendió y creó el estilo sigmundesco.<PAGE>\nTemiendo que, si se conocía bien, se\nharía pública la debilidad del\nestilo albertesco,<PAGE>\ndecretó que las técnicas deberían\ntransmitirse de forma oral.
+Además, los únicos que usan el estilo\nsigmundesco son los miembros de la Casa\nGardios y los que están unidos a ella.<PAGE>\nNo sabíamos qué haría la realeza de\nKimlasca o el duque Fabre si nuestra\nexistencia se descubriera.
+No le diré nada a Padre....
+¡Yo tampoco!
+Gracias...
+Bueno, ¿has aprendido el arte?
+Yo soy el tercer maestro.\nTendrá que ver a dos más.
+No veas si lleva tiempo esto...
+¿Dónde puedo encontrar al cuarto?
+Debería estar frente a una\nmáquina que gira.
+Una máquina que gira, ¿eh? \nVale. A ver si lo encuentro.
+¿Eres tú el cuarto maestro del\nestilo sigmundesco?
+Te he estado esperando. \nTe enseñaré nuestro arte\narcano ahora mismo.
+Quizá por tu amplia\nexperiencia en combate\nreal, aprendes deprisa.
+¿De verdad? \nEspero que tengas razón.
+El quinto maestro está en una\nhabitación pequeña y fría.
+Una habitación pequeña y fría, eh...
+Rezaré para que puedas\naprender la siguiente técnica.
+Perdona, ¿eres el quinto maestro?
+Lo soy. \n¿Puedo ver el censo?...
+Magnífico. Ahora, deja que\nte enseñe lo que sé.
+Guy aprende un arte arcano.
+¡Lo has conseguido, Guy!
+¡Te a costado lo tuyo, pero has\naprendido tu arte arcano!
+Sí. Parece que he podido aprender\ntodas mis artes arcanos.<PAGE>\nGracias por ayudarme, chicos.<PAGE>\nTrabajaré duro para seros\nútil con mis artes nuevas.
+Pero aún hay espacios\nen blanco en el censo.
+Oh. ¿Significa eso que\naún quedan maestros?
+Exacto.\nEl sexto lo podéis encontrar a\nla sombra de un antiguo árbol. \nDomina el arte arcano final, Guy.
+Lo haré.
+Sí. Espero ayudar con\nestos movimientos nuevos.
+¡Señor Gailardia!
+¿Quién eres tú?...
+Me llamo Jin. \nSirvo a Peregynt.<PAGE>\nCuidé de ti cuando\neras joven.
+¡Oh! ¡Jin! \n¡Eres tú!
+Sí. La caída de las Tierras fue\nuna experiencia terrible,<PAGE>\npero tú y tus compañeros nos salvasteis.
+¿Quién es éste, Guy?...
+Él y Pere me cuidaron después\nde que huyera de Hod.
+Por cierto, señor Gailardia, oí que\nestás visitando a los maestros\nde las artes arcanas...
+Sí. Han pasado muchas cosas y tuve\nque dejar eso de lado, pero ya he\nhablado con los cinco primeros.
+Entonces ha llegado el momento\nde que te pase la sexta enseñanza.
+¡¿Tú eres el sexto, Jin?!
+Te la enseñaré ahora mismo.
+Veo que has entrenado bien.
+Gracias, Jin.
+Por favor, sigue mejorando\ntus habilidades.<PAGE>\nPuedes encontrar al séptimo\nmaestro en el muelle de\nla ciudad de agua.
+Entendido.
+El señor Gailardia, imagino.\nTe he estado esperando.
+¿Q-Quién eres tú?...
+Soy la séptima maestra.
+¡¿Eres una mujer?! \nYo... eh...
+Guy, venga, ya lo has\nsuperado un poco, ¿no?
+Bueno, sí, pero...
+Te enseraré el arte arcano\ninmediatamente...
+V-Vale...\nVolveré cuando haya entrenado más.
+¿Qué haremos contigo?...
+Lo siento.
+¿...? \nEstá bien.
+V-vale.... \nPuedo hacerlo.
+¡Ánimo, Guy! ¡Imagina que sólo\nes un rescate marítimo!
+Pero en tierra.
+Parecías extremamente tenso, pero tu\ndestreza con la espada es espléndida.
+Ja... ja ja...
+El octavo maestro está\nen el lugar más cercano.
+¿El lugar más cercano?
+Cuídate.\nAdiós
+He estado esperándote.\n¿Estás listo?
+Saludos, maestro Gailardia...\n¿Has completado el censo?
+Sí, todo excepto el último.
+Ya veo...\nEntonces es hora de que yo,\nPeregynt, acabe el trabajo.
+¿Pere? \n¡¿No me digas que tú eres\nel octavo maestro?!
+En efecto, lo soy.
+Entonces...
+Sí. Te enseñaré el\narte arcano final. \n¡Empecemos!
+Guy aprende un arte arcano.
+Gracias, Pere...
+No hay de qué... No sé cómo\nexpresar lo orgulloso que estoy.<PAGE>\nY pensar que te vería\nalcanzar tal maestría...
+Guau, Guy...
+Contaremos contigo aún más.
+Gracias.
+Si pules tu técnica y te sientes\nseguro, ve a ver a Gee.<PAGE>\nSi Gee reconoce tu\ndestreza con la espada,<PAGE>\nse te reconocerá oficialmente como\nmaestro del estilo sigmundesco.
+Está bien. Puliré mis habilidades\ne iré a visitarlo algún día.
+¡¿Monstruos?!
+¡Un viajero está en peligro!
+¡Tch!
+¡Gra-gracias! Cuando me\natacaron ahí fuera, pensé\nque era el fin...
+¡Es peligroso para los principiantes\nsalir de los pueblos sin un guarda!
+Sí. Confiaba en mis habilidades,\npero parece que he subestimado\nel desierto...
+Señor Gailardia, has conseguido\nuna habilidad extraordinaria.
+Gee...
+Permíteme que escolte a este\nhombre hasta Chesedonia.<PAGE>\nY, señor Gailardia, tu destreza\nes digna de ser reconocida.<PAGE>\nDe ahora en adelante, puedes llamarte\nmaestro de la rama sigmundesca del\nestilo albertesco de Hod.
+Gracias, Gee...
+Por favor, continúa con tu\nentrenamiento. Y ahora,\nviajero, permíteme escoltarte.

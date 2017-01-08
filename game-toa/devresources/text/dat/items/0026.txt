@@ -1,0 +1,138 @@
+## POINTER 5210 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214778]
+Símbolo espiritual
+
+## POINTER 5211 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271436]
+Una reliquia espiritual. 
+Recupera periódicamente un 3% del TP máximo.
+
+## POINTER 5220 [t:1;r:1;ru:parsec;user:pacochan;time:1182271436]
+Marca mística
+
+## POINTER 5221 [t:1;r:1;ru:parsec;user:pacochan;time:1182271437]
+La marca de un fonista.
+Reduce ligeramente el tiempo de conjuro.
+
+## POINTER 5230 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214778]
+Símbolo místico
+
+## POINTER 5231 [t:1;r:1;ru:parsec;user:pacochan;time:1182271613]
+La marca de un intérprete.
+Reduce el tiempo de conjuro.
+
+## POINTER 5240 [t:1;r:1;ru:parsec;user:pacochan;time:1182271437]
+Marca extraña
+
+## POINTER 5241 [t:1;r:1;ru:parsec;user:parsec;time:1200302905]
+Reduce ligeramente el tiempo durante el que un fonista
+está inmóvil después de lanzar una arte fónica.
+
+## POINTER 5250 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271437]
+Símbolo milagroso
+
+## POINTER 5251 [t:1;r:1;ru:parsec;user:parsec;time:1200302906]
+Reduce el tiempo durante el que un fonista
+está inmóvil después de lanzar una arte fónica.
+
+## POINTER 5260 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271437]
+Sello oscuro
+
+## POINTER 5261 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271437]
+EXP x1.5. (Debe equiparse antes de batalla). 
+Daño enemigo x2. Artes selladas.
+
+## POINTER 5270 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271437]
+Sello demoníaco
+
+## POINTER 5271 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271437]
+EXP x2. (Debe equiparse antes de batalla). 
+Provoca estados alterados físicos en batalla.
+
+## POINTER 5280 [t:1;r:1;ru:parsec;user:kaene;time:1198459932]
+Símbolo de Krona
+
+## POINTER 5281 [t:1;r:1;ru:parsec;user:kaene;time:1188920749]
+Protege contra todos los estados alterados.
+
+## POINTER 5290 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271437]
+Símbolo de caballero
+
+## POINTER 5291 [t:1;r:1;ru:parsec;user:parsec;time:1200302906]
+Emblema con el símbolo de la Orden de Lorelei.
+Aumenta la posibilidad de un golpe crítico.
+
+## POINTER 5300 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271437]
+Piedra de maestro
+
+## POINTER 5301 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271556]
+Emblema hecho a partir de una piedra fónica
+esculpida con una porción de la Partitura.
+
+## POINTER 5310 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214987]
+Joya de Lorelei
+
+## POINTER 5311 [t:1;r:1;ru:parsec;user:kaene;time:1198508851]
+Creada por Yulia con el poder de Lorelei.
+Tiene el poder de difundir el séptimo fonón.
+
+## POINTER 5320 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179955774]
+Capa
+
+## POINTER 5321 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960205]
+Una capa genérica hecha de tela. 
+Un accesorio estándar para novatos.
+
+## POINTER 5330 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960129]
+Capa de cuero
+
+## POINTER 5331 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180215006]
+Una capa hecha de cuero. 
+Un accesorio estándar para un aventurero.
+
+## POINTER 5340 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960130]
+Capa de ladrón
+
+## POINTER 5341 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960270]
+La capa elegida por los ladrones. 
+Aumenta la agilidad ligeramente.
+
+## POINTER 5350 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960130]
+Capa élfica
+
+## POINTER 5351 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960353]
+Una capa verde de una raza legendaria.
+Ligera defensa elemental y aumento de agilidad.
+
+## POINTER 5360 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960130]
+Capa llamarada
+
+## POINTER 5361 [t:1;r:1;ru:parsec;user:kaene;time:1198508852]
+Capa con un emblema del quinto fonón.
+Aumenta la resistencia al fuego un 30%.
+
+## POINTER 5370 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960130]
+Capa agua
+
+## POINTER 5371 [t:1;r:1;ru:parsec;user:kaene;time:1198508852]
+Capa con un emblema del cuarto fonón.
+Aumenta la resistencia al agua un 30%.
+
+## POINTER 5380 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960130]
+Capa viento
+
+## POINTER 5381 [t:1;r:1;ru:parsec;user:kaene;time:1198508852]
+Capa con un emblema del tercer fonón.
+Aumenta la resistencia al viento un 30%.
+
+## POINTER 5390 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960130]
+Capa tierra
+
+## POINTER 5391 [t:1;r:1;ru:parsec;user:kaene;time:1198508852]
+Capa con un emblema del segundo fonón.
+Aumenta la resistencia a la tierra un 30%.
+
+## POINTER 5400 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960481]
+Botas de cuero
+
+## POINTER 5401 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182271437]
+Botas normales y corrientes.
+Tendrás los pies muy cómodos en batalla.

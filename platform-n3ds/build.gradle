@@ -1,1 +1,5 @@
 apply from: '../include.gradle'
+
+dependencies {
+	compile project(':common-rhcommon')
+}

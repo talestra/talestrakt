@@ -1,0 +1,33 @@
+// Agrupación de alimentos
+005BC510:'Ingredientes'
+005BC520:'Ingredientes Extra'
+
+005BC588:'Atajos'
+005BC5A0:'Cocinar'
+005BC5B0:'Confirmar'
+005BC5C0:'Volver'
+005BC5C8:'Intercambiar'
+005BC5D0:'Cancelar'
+
+005BC640:'Estás demasiado lleno como para comer ahora.'
+005BC670:'%s no puede cocinar ahora mismo.'
+005BC690:'No tienes suficientes ingredientes.'
+
+005BC758:'Chef'
+005BC760:'Menú'
+
+005BC7C0:'Ingredientes necesarios:'
+005BC7E0:'Ingredientes extra:'
+005BC920:'Ingredientes usados:'
+005BC938:'Efecto:'
+005BC980:'¡%s ha hecho un plato sabroso!'
+005BC9A0:'%s ha hecho algo... no muy sabroso.'
+005BC9D0:'¡"%s" se convierte en "%s"!'
+005BC9F0:'¡Se ha servido "%s"!'
+005BCA98:'Veneno curado'
+005BCAB0:'Parálisis curada'
+005BCAC0:'Petrificación curada'
+005BCAE0:'Artes selladas curadas'
+
+// Ancho de cocinar (0x11)
+//$$:005587C4:ushort:0x10

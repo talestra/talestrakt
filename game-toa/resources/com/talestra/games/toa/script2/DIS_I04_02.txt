@@ -1,0 +1,558 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Incluso la mansión está llena de miasma...
+¿Podremos sobrevivir a esto?
+La guerra ha desplegado su sombra\nen Chesedonia también.\n¿Cómo nos enfrentaremos a ella?
+Vino alguien de el ejército de Kimlasca,\npero se fue rápidamente otra vez.<PAGE>\nSi estás buscando a Astor,\nestá en sus aposentos.
+¿Vas a ir al desierto?
+La caída de Chesedonia, tener\nque vivir en el Qliphoth...\n¿aún no se ha calmado el mundo?
+La caída de Chesedonia, tener\nque vivir en el Qliphoth...\n¿aún no se ha calmado el mundo?
+Aunque no es la primera vez, aún\nno me puedo acostumbrar al miasma...
+Aunque no es la primera vez, aún\nno me puedo acostumbrar al miasma...
+Este regalo es de Astor.\nEspera que os resulte útil\npara ayudar a Chesedonia.
+Has recibido 3 <04*>geles variados<04*>.
+Has recibido 3 <04*>pomos de vida<04*>.
+Has recibido 2 <04*>panaceas<04*>.
+¡Para!
+¡Uwah!
+¡¿Has olvidado la Convención de Daath?! \n¡¿Qué clase de basura eres para tratar\nasí a prisioneros de guerra?!
+¡Cállate! ¡Los perros de Kimlasca\ndeberíais estar contentos de poder\ncomer las migajas del suelo!
+¡Cómo te atreves!
+¡S-Suéltame!
+No. Ese hombre es mi soldado.
+¡¿Es que las Fuerzas de Malkuth no \ntienen ni un mínimo de consideración?!<PAGE>\n¡Ese solado nos tiró la\ncomida al suelo y nos\ndijo que nos la comiéramos!
+Aun así, sigue siendo mi soldado.<PAGE>\n¡Dirac! \nLleva a este hombre a la empalizada de Haides.
+General Frings.<PAGE>\n¡Yo no he hecho nada!
+¿Crees que no he oído\nlo que ha pasado?<PAGE>\nDecirle a un general enemigo que se\n"coma las migajas" mancha la dignidad\nde las Fuerzas de Malkuth.<PAGE>\nOiré tu versión cuando\nhable contigo más\ntarde. ¡Llévatelo!
+General Cecille.<PAGE>\nLa actitud de mi soldado ha sido inapropiada.\nEl comportamiento de mis tropas es mi\nresponsabilidad. Por favor, perdóname.
+B-Bien... Es suficiente.
+¡Coronel Curtiss! \n¡Vosotros!
+¡General Frings! \n¿Qué acaba de pasar?
+Siento que hayáis tenido\nque ver eso.<PAGE>\nEl miasma que nos rodea ahora ha\ndesestabilizado a mis tropas...<PAGE>\nPor cierto, ¿sabéis\nqué ha pasado?<PAGE>\n¿En qué se ha convertido\nnuestra nación?
+Ah, sí. Deja que lo expliquemos.<PAGE>\nPero no nos quedemos aquí fuera.\n¿Por qué no tomamos prestada la casa de Rose?
+Ya veo. Así que el continente\nde Rúgnica ha caído\nal Qliphoth...<PAGE>\nEs difícil de creer, pero\nencaja con los informes de\nlas tropas de reconocimiento.
+Si hay algún mensaje que quisieras comunicar,\nestaré encantado de llevárselo a Su Majestad.
+Por ahora estamos bien.
+Bueno, chicos, vayamos a hablar\ncon la general Cecille.<PAGE>\nCreo que deberíamos informar a\nKimlasca de que también está viva.
+Oh, sí. Pero...
+No me importa. Les\ndiré que vais a ir.
+¡Gracias!
+¡Princesa Natalia! \n¡Y Luke fon Fabre!
+Cecille, ¿por qué estás prisionera?
+La verdad es que...
+El General intentaba salvarme.
+¿Salvarte?
+Cuando estábamos en el campo de batalla\nhubo de repente un gran terremoto y\ncasi caí por una fisura.<PAGE>\nLa General vino a rescatarme y...
+El solado Hamilton y yo nos quedamos\naislados por las grietas de la tierra.<PAGE>\nY entonces el general Frings... nos rescató...
+Me alegro de que estéis bien.
+Es una historia embarazosa, que me\nsalve la vida un general enemigo.
+Ni siquiera deberías pensar algo así.
+Oh, hey, informaremos a los de\nKimlasca sobre ti. ¿Tienes\nalgún mensaje para ellos?
+Me siento irrespetuosa pidiendo a Su Alteza\ny compañía que hagan de mensajeros para\nmí, pero si no os importa...<PAGE>\nPor favor, informad al conde Almandine de que\nestoy viva, y hacedle llegar mis disculpas.
+Creo que el conde Almandine \ndebe de estar en Kaitzur.
+¿No tienes nada que decirle a Padre?
+N-No...
+¿Quieres ir a Kaitzur?
+Ese es el plan.
+¿Puedo pediros que entreguéis un mensaje?<PAGE>\nComo la tierra cayó después de que el general\nNordheim volviera a Gran Chokmah,<PAGE>\nme he convertido en el comandante\nen jefe en funciones aquí.\nQuisiera proponer una tregua temporal.
+Es una idea excelente.
+Si están dispuestos a aceptar la tregua,\nquisiera organizar un intercambio\nde prisioneros en Kaitzur.
+¿Soltarás a la general Cecille?
+Por supuesto.
+No puedo decir que esté de acuerdo con esta idea...
+Supuse que dirías eso, Coronel.\nPero ella no es apropiada\ncomo prisionera.
+Estás siendo blando, General.
+Oh, venga, Jade. Eso significa\nque no pueden mantener a\nun general enemigo.
+Eres una jovencita inteligente.\nGracias a todos por vuestra ayuda.
+*Embelesada* ¿Habéis oído eso?\nOíd, ¿el general Frings es rico?
+Mmm, sí, creo que está bastante\nacomodado, pero creo que\nllegas un poco tarde.
+¿Tarde? \n¿Qué?
+Nada. No te preocupes por eso.
+Una tregua... Sí, bajo estas\ncircunstancias, supongo que\nes lo mejor.<PAGE>\nEmpezaré las preparaciones ahora mismo.\nTenéis mi más sincera gratitud por\nemplear vuestro tiempo en esto.
+¿No debería informarse al general Frings?
+Naturalmente, enviaré a un emisario de\nnuestras fuerzas. No puedo seguir\nmolestando más a Su Alteza...
+Bueno, si tenemos un motivo para ir\na Engeve igualmente, pues ya se lo\ndecimos. ¿Qué te parece?
+Sí, eso suena bien.
+Ya veo. Entonces nosotros también\nempezaremos las preparaciones para\nel intercambio de prisioneros.<PAGE>\n¡Gracias!
+Pasa algo fuera...
+¡Puedo sentir monstruos cerca!
+Estoy preocupado.\nVamos a ver.
+¡Oh, no!
+¡Ayudémosles!
+¡General Cecille!
+Ahora... nosotros...
+¿Por qué dejaste de la posada?\nEs peligroso salir fuera.
+Si la ciudad cayera ante los monstruos, no\ntendría sentido esconderse en la posada.<PAGE>\nAdemás, soy un soldado. No puedo \npermitirme evitar el peligro.
+No tienes armas.\nLa imprudencia no es valentía.
+¡¿Me estás llamando imprudente?!
+Eres una oficial general.<PAGE>\nPonerte en peligro para rescatar un\nrecluta o actuar precipitadamente\npara salvar a un general enemigo es...
+¿Y tú qué? Te pusiste en peligro para\nsalvarme, a tu enemiga, cuando estaba\natrapada en medio de aquellas fisuras.
+Eso fue...
+Confías en mí, una general enemiga,\ny me concedes libertad...
+Eres un idiota...
+Creo que eso lo somos los dos...
+¿Deberíamos dejarlos solos?...
+Sí...
+¿Mmm? \n¿Por qué?
+Eres dura de mollera, Natalia. \nBueno, nos vamos.
+Pero, ya sabes, esos dos son\nsoldados enemigos.
+Si uno u otro dejara el\nejército, quizá tendrían\nuna oportunidad.
+¿Qué? ¡Oh, vaya! ¿Quieres decir que\nestán interesados el uno en el otro?
+Natalia, para ser mujer, eres muy dura de mollera.
+El ambiente entre los dos\ncambió totalmente.
+(No me dí cuenta...)
+Oh, hoy debe de ser el día del\nintercambio de prisioneros.
+Princesa Natalia. Señorito Luke.\nHemos suspendido este conflicto\nsatisfactoriamente con una tregua.
+Eso parece.<PAGE>\nAhora, debemos trabajar con Malkuth para\nasegurar nuestra supervivencia hasta que\nhayan descendido las Tierras Exteriores.
+Nosotros también haremos nuestra parte.
+Entendido.
+Estaré en el puerto de Kaitzur. Si\nquieres, por favor, pásate luego y...
+¡General Cecille!
+¡S-Sí, señor!
+Jozette...
+Jozette es el nombre de\nla general Cecille, ¿no?
+S-Sí. Eso parece.<PAGE>\nD-Después de acabar de investigar los\ndaños aquí, intenté volver a Engeve.<PAGE>\n¿Qué vais a hacer vosotros?
+Tenemos que hacer descender\nlas Tierras Exteriores.<PAGE>\nLa situación de aquí la\ndejamos en tus manos.
+Entendido.\nPor favor, cuidaos.
+Mmmm. Parecía que se iba a poner\ninteresante, pero me pregunto si\nesto va terminar así..
+¿El qué?
+¡El amor prohibido entre dos enemigos!
+No creo que esté prohibido...
+Oye, la general Cecille decía\nque quería que fuéramos con ella. \n¿Podemos?
+Oh, sí. En el puerto de Kaitzur.\nPasemos por allí más tarde.
+Gracias por venir.
+Hay algo de lo que querías\nhablar, ¿verdad?
+Sí...<PAGE>\nSiento molestaros, pero quisiera\nque le diérais esta daga al\ngeneral Frings de Malkuth.
+Oh...\nPero, esto es...
+Natalia. \nCreo que no tenemos derecho a criticar.
+¿Eh? \n¿Qué?
+¿Darle una daga significa algo?
+Oh, sí, Tear creció en el Qliphoth.
+Pero Luke no puede saberlo.
+Cuando una mujer le da una daga a\nun hombre, simboliza cotar toda\nrelación seria con él.
+Siento molestarte...
+¡Oh, hola!<PAGE>\nSiento tener que irme cuando llegáis,<PAGE>\npero me temo que debo ir a Chesedonia \na hablar con los habitantes de Engeve.
+Um... General Frings...
+La general Cecille nos dijo que te diéramos esto.\nLuke, por favor.
+(Él lo suelta así sin más,\nsin dudar ni lo más mínimo...)
+Eso es... Jozette...
+Lo siento, ¿podéis\nesperar un momento?
+Perdonad, pero, ¿podríais\nllevarle esta carta?
+Está bien...
+¡General Frings! \n¡Es la hora!
+Entendido.\nGracias...\nAgradezco vuestra ayuda.
+Sois vosotros...
+Cuando le dimos la daga, él\nnos dio esto para ti.
+Aslan...
+Siento pediros esto, pero,\nsi no os importa...<PAGE>\n¿Puedo pediros que me llevéis a\nla mansión de Astor en Chesedonia?
+El general Frings te pidió\nque vinieras, ¿verdad?
+Sí.... Me parece mejor \nnegarme en persona.
+V-Vale...
+Entonces te estaré esperando en el Albiore.
+Esto empieza a ser agobiante.
+Pero los dos van en serio.\nTenemos que ayudarlos.
+¿Ayudar a quién? \n¿Y cómo?
+Sí, de verdad.
+Um, bueno... Supongo que tienes razón...
+Oh, bueno. Simplemente cooperemos e\nintentemos no involucrarnos demasiado.<PAGE>\nIgualmente, es algo que sólo\npueden decidir ellos dos.
+Siempre suenas tan\nindiferente para todo...
+¡Jozette!
+Aslan...
+Saludos a todos. Hemos estado \nesperándoos. Acabo de hablar  \ncon el general Frings.<PAGE>\nEstamos pensando en hacer regresar \na los residentes de Engeve de\nvuelta a su pueblo.
+Ya veo. ¿Para aliviar el problema\ncon los suministros de comida?
+Sí. Si Engeve es capaz de funcionar por\nsu cuenta otra vez, debería ayudar \na mejorar la situación.
+Algunos de los residentes de San Binah\nfueron evacuados a Engeve.<PAGE>\nSi las cosas van bien, podríamos restaurar\nla funcionalidad de San Binah también.
+Ésa es una excelente idea. \nSin embargo, estoy preocupado por el miasma.
+Mientras estemos en el Qliphoth, eso \nno cambiará, no importa a donde vayan.
+Sí. Y si las ciudades empiezan a funcionar \notra vez, puede que sean capaces de\nproporcionar suministros a Kaitzur.
+Y... así...
+Vosotros dos tenéis algo de\nlo que hablar... ¿verdad? \nNos vamos.
+¡¿Quéééé?!
+Nada de "quééé".\nVamos.
+Gracias por venir.
+Yo... No puedo hacer lo que pides. \nMi familia tiene una deuda con Kimlasca.<PAGE>\nCon la responsabilidad de la familia\nCecille sobre mis hombros, no puedo...
+He oído los rumores.
+¡Entonces deberías entenderlo!
+Que sean verdad o no no tiene\nrelación alguna con tus virtudes.<PAGE>\nCreo que tú eres la novia de la\nque se habla en mi Partitura.
+Pero el duque Fabre y yo...
+Vosotros dos, ya vale.
+No me puedo creer que estéis fisgando. \nEso es horrible.
+¡Vergüenza debería daros!
+Pero me preocupo de ellos...
+¡Sólo soy cotilla! @
+Entiendo cómo os sentís.
+¡Hey! \nSe supone que tienes que regañarles.
+Esperaré el tiempo que sea hasta\nque tus sentimientos cambien.
+Bueno, ¿cómo van las cosas?
+Me dio un anillo... Dijo que \nera un recuerdo de su madre.
+¡Vaya! \n¡Se te declaró!
+¿Por qué estás dudando?
+¡Sí! \nCreo que deberías aceptarle... \nParece lo correcto...
+No... No puedo.
+¿Por qué?
+Es un soldado enemigo. Y además, tengo el \ndeber de restablecer la Casa Cecille.<PAGE>\nPor favor, devuelve esto al general Frings.
+¡¿Qué?! \nPero...
+Por favor, discúlpame.\nTengo que irme. \nGracias.
+Soy el heredero al trono, ¿sabes?
+Es el deber de la realeza el\nservir a los ciudadanos...
+*Suspiro*...\nMe pregunto si Frings aceptará esto de vuelta. \nEsto se está poniendo fastidioso.
+¡Esto se está poniendo interesante!
+¿Te dijo ella que me devolvieras el anillo?
+Ugh... \nSí...
+No puedo aceptarlo.<PAGE>\nIncluso si ella no acepta mis sentimientos, \nsiempre la estaré esperando.<PAGE>\nPor favor, entrégale este anillo.
+Mira... ¿puedo decir algo? \nNo soy el chico de los recados de los dos.
+L-Lo siento...
+Pero, de verdad, ¿qué vamos a hacer?<PAGE>\nIncluso si vamos a ver a Cecille, \nno sabemos si ella lo aceptará...
+Me imagino que tendremos que\nseguir de un lado a otro.
+*Suspiro*... \nEsto va a ser una prueba de paciencia...
+Esto es lo que pasa cuando te\ninvolucras en los romances de otros. \nJa ja ja.
+No puedo aceptar el anillo...
+¿Por qué insistes en rechazarlo?<PAGE>\nAl general Frings no le importa que lo cojas\naunque no aceptes sus sentimientos.<PAGE>\nDice que quiere que lo tengas.
+Pero, quiero decir, ya sabes, aceptar un\nanillo de un tipo que no te gusta es un poco...
+¡No es que no me guste!
+¿Oh?...
+Puede que no todos lo sepáis,<PAGE>\npero arrebataron la nobleza\na la Casa de Cecille.<PAGE>\nEntré en el ejército para restaurar\nel nombre de mi familia.
+Oh, sí, he oído algo de eso.<PAGE>\nPero ni siquiera Padre me contó los detalles...
+La Casa de Cecille desapreció de la\nsociedad real como traidores de Kimlasca.
+Sí. Mi tía, Eugenie, se casó\ncon un conde de Malkuth.<PAGE>\nMás tarde, cuando estalló la guerra, mi tía estaba\nestigmatizada como traidora de Kimlasca...<PAGE>\nAsí que, aunque agradezco los\nsentimientos del general Frings,<PAGE>\nno puedo casarme con alguien de Malkuth.
+Sé que la general Cecille se niega a\naceptarme debido a la preocupación\npor el nombre de su familia.<PAGE>\nLe sugerí que, si ella quería,\npodíamos abandonar nuestros\npaíses e irnos a Daath.
+Pero mientras el conflicto entre\nMalkuth y Kimlasca continúe, \nseguramente no estará de acuerdo.
+He oído que Kimlasca y Malkuth \nhan llegado a un tratado de paz.
+Sí. Ahora ya no tienes ningún\nmotivo para rechazar a Frings.
+Pero...
+Jozette. Mi nombre es \nGailardia Galan Gardios.<PAGE>\nSoy el hijo de Eugenie Cecille.
+¡El hijo de tía Eugenie!... \n¿Eres mi primo, Gailardia?!<PAGE>\n¡¿Estás vivo?!
+Es por respeto a mi madre que no\npuedes estar con el general Frings, \n¿verdad?
+Si abandono el ejército y me caso con\nalguien de Malkuth, Cecille volverá a\ninfamarse como una casa de traidores...
+Eso no es cierto.<PAGE>\nEs natural que una esposa de\nMalkuth proteja a su país.
+Su Majestad es una persona racional.\nPero la sociedad no pensará de esa manera.
+¿Entonces por qué no te conviertes en\nun auténtico símbolo de paz entre\nKimlasca y Malkuth esta vez?
+¿Convertir el compromiso de la general Cecille\ny del general Frings en un símbolo?
+Sería una buena publicidad. Se acaba de\nfirmar un tratado de paz. Esto podría ser\nun símbolo de esperanza para la gente. 
+¡Exacto! Si quieres al general Frings,<PAGE>\ninformaré a Padre de este asunto\ny haré los preparativos.
+¡Pero...!
+Jozette.\nTanto mi madre Eugenie como mi\nhermana Marybelle Radan murieron.<PAGE>\nQuiero que al menos tú seas feliz.<PAGE>\nTe pareces bastante\na mi hermana.
+Está bien... Aceptaré el anillo.<PAGE>\nPero, por favor, no se lo digáis a Su\nMajestad hasta que el mundo esté en calma.
+Deseo tu felicidad.
+Gracias...
+Gracias por todo.<PAGE>\nGracias a las palabras de la princesa\nNatalia, Su Majestad ha reconocido\noficialmente mi boda con Aslan.
+¡Es genial!
+¿Cuándo es la boda?
+Aún tengo que investigar el\nPortal de la Absorción.<PAGE>\nUna vez acabe esta misión, me retiraré\ndel ejército. La boda será\ndespués de eso.
+Entonces parece que aún queda tiempo.
+Pero a pesar de todo, mi familia ya ha\nempezado a hacer la ropa para que\nse la dé al general Frings.
+¿Ropa? \n¿Para la boda?
+No... para la boda no.<PAGE>\nLa leyenda dice que si la novia le da\nal novio ropa que ha cosido ella misma, \nla pareja encontrará la felicidad.<PAGE>\nEs una tradición formal, y la verdad es\nque yo sólo he cosido un punto...
+Guau... La verdad es que no sé\nnada de este tipo de cosas.\n¡Bueno, felicidades!
+Gracias.
+Yo... he oído lo que ha pasado...
+No sé que decir...
+No pasa nada. Los dos somos soldados. \nMientras continuemos en este trabajo, \nes algo que pasará algún día...
+Pero...
+No... No importa. \nDiscúlpame.
+¿Cómo ha podido pasar esto? \nEs demasiado cruel...
+Sí...
+¡General Cecille! \n¿Qué estás haciendo aquí?
+Oí que él... que Aslan estaba aquí.<PAGE>\nTengo algo que quisiera darle...
+Pero ya no hay nadie aquí, ¿verdad?...
+Lo siento...
+Por favor, no culpes a Luke. \nEl general Frings de aquí era una réplica.<PAGE>\nNo era la persona a quien amabas.
+Lo sé....<PAGE>\nÉl ya está muerto. La persona\nque desapareció aquí junto\ncon el miasma era otro. \nPero...
+¿Por qué no acepté su propuesta entonces?\nSi hubiera sabido que esto iba a pasar...<PAGE>\nNo me hubiera preocupado ni de nombres ni\ndel honor. ¡Debería haber ido a su lado!
+General Cecille, volvamos. \nNo debes quedarte aquí...
+¡No!...\n¡No tengo donde volver!<PAGE>\n¡¿Qué voy a hacer en\nun mundo sin él?!
+Con su último aliento, el general\nFrings le pidió a Yulia: "Por\nfavor, trae felicidad... a ella".<PAGE>\nEstaba hablando de ti, ¿no es así?
+Aslan...
+Volvamos. El general Frings rezó para\nque fueras feliz hasta el final.<PAGE>\nNo puedo creer que la felicidad que él deseaba\npara ti sea que te maten los monstruos aquí.
+Tienes razón...
+Está bastante lejos.
+Pero...
+No pasa nada....<PAGE>\nAún no puedo calmar mis sentimientos,\npero quiero pensar en la felicidad\nque Aslan deseó para mí.
+Oh... deja que te dé esto, Gailardia.
+Es el traje de caballero que le iba a\ndar a Aslan para nuestra boda.<PAGE>\nLo llevé a la Torre de Rem, pensando que\nal menos se lo daría a su réplica. \nPero...
+No puedo aceptar algo así...
+No hay nadie que vaya a reclamarlo.<PAGE>\nPensé en ofrecerlo en la tumba de Aslan,\npero nunca nos llegamos a casar.<PAGE>\nTú eres mi primo, y tú conocías a Aslan.\nCreo que a él le gustaría que lo tuvieras.
+Está bien...
+Me voy, disculpadme.
+Guy ha recibido el título de "title 16."
+Natalia, ¿quieres saber más\nsobre tu verdadero padre?
+Padre... Yo... \nTú eres mi único padre.
+Muy bien. Soy muy consciente \nde lo que sientes.<PAGE>\nPero si tienes interés  \nen Largo... en Badaq,<PAGE>\nentonces ve a ver a tu aya \nen Chesedonia.
+Padre...
+¡Alteza!
+Aya...
+Lo lamento tanto, Alteza.<PAGE>\nSoy una vieja cruel que ayudó a \nMohs a causarle mucho daño.<PAGE>\nPor favor, perdóneme...
+Aya... no, abuela...
+Por favor cuéntame \nsobre mi padre, Badaq.
+Pero...
+Por favor.
+Muy bien.<PAGE>\nPuede que ya hayas oído esto\nde tus amigos,<PAGE>\npero Badaq trabajaba de guarda en una \ncaravana que viajaba a través del desierto.<PAGE>\nEra un hombre muy amable, cuidó \nmucho de Sylvia, quien estaba \na menudo enferma.<PAGE>\nCuando fueron bendecidos con \nuna hija, él estaba entusiasmado.<PAGE>\n"¿Qué nombre le pondremos? ¿Qué deberíamos\nhacer con los juguetes? Remodelemos la \ncasa y añadamos una habitación para la niña..."<PAGE>\nHubo mucho bullicio.
+Padre...
+Y sin embargo, yo te alejé de ellos...
+¿Por el bien de tu país?...
+No, por el bien de la reina \nconsorte. Ella llevaba un tiempo \nmolesta porque no había sido \ncapaz de concebir un niño.<PAGE>\nAsí que rápidamente consulté a un Intérprete.<PAGE>\nEl Interprete leyó una Partitura que afirmaba\nque Meryl se convertiría en la Princesa.
+Y por eso...
+Justo después que su hija hubiera nacido, \nBadaq se dirigió a su siguiente trabajo,\nlejos de su casa.<PAGE>\nCuando volvió y se enteró \nque se habían llevado a su hija, \nse precipitó al castillo,<PAGE>\npero por supuesto, nadie le escuchó,\ny se enzarzó en una pelea con los  \nguardas, matando a uno de ellos...
+Y así se fue de Baticul...
+La que truncó el destino de Badaq,\nasí como el tuyo, fue la vieja \nque tienes ante ti.<PAGE>\nEstoy lista para cualquier castigo...
+Aya... No he venido  \naquí por esto.<PAGE>\nNo creo que Padre... No creo que \nSu Majestad quiera eso tampoco.
+Alteza...
+Tú también debiste sufrir \ncuando perdiste a Sylvia.<PAGE>\nGracias por contármelo \ntodo, aya.
+Luke, ¿me permites un momento?...
+¿Qué pasa?
+Me gustaría tener un poco de tiempo para rezar.
+Oh... sí, claro...
+¿Estabas rezando por Largo?...
+Sí...
+¿Es correcto no cavar una \ntumba o algo por él?
+Badaq y Largo serían criminales\nsi fueran juzgados bajo la \nluz de la ley de Kimlasca.<PAGE>\nCreo que es mejor que reposen\nen paz en esta tierra...
+Muy bien... De acuerdo.
+Lamento haberte hecho esperar. \nVamos.

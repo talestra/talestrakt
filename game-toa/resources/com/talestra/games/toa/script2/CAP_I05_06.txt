@@ -1,0 +1,544 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Buenos días, señor.
+Ésta siempre será la habitación \nde la princesa Natalia.
+<SPEECH*>Ahora todo lo que queda de Rúgnica\nen las Tierras Exteriores es el área\ncircundante a Gran Chokmah...
+<SPEECH*>Espero que el anillo de\ntránsito haya funcionado y\nque los soldados estén bien...
+<SPEECH*>Apuesto a que aún había\ngente en Kaitzur. \nYo tampoco pensé que iba a caer.
+<SPEECH*>Probablemente estén todos conmocionados...
+<SPEECH*>¡¿Cuánto tiempo tendremos\nque esperar por un barco?!
+<SPEECH*>¡Cuando fuimos al puerto, nos\npersiguieron y nos dijeron que\nviniéramos a preguntar aquí!
+<SPEECH*>¡El ochenta por ciento del continente\nde Rúgnica ha desaparecido! Es demasiado\npeligroso. ¡No podemos permitir que\nzarpen los barcos!
+<SPEECH*>¡Deja de mentir!\n¡¿Quién creería una historia como ésa?!
+<SPEECH*>¡No es mentira!<PAGE>\n<SPEECH*>La destrucción de Rúgnica incluso\nha supuesto un alto en la guerra\nentre Malkuth y Kimlasca.<PAGE>\n<SPEECH*>No podemos mandar más barcos\nhasta que sepamos más.
+<SPEECH*>Rúgnica es el continente más grande del mundo.\n¿Cómo puede haber desaparecido?...<PAGE>\n<SPEECH*>¡No puedo creerlo!
+<SPEECH*>¿Qué le está pasando al mundo?...
+<SPEECH*>Parece que incluso el rey\nIngobert no ha sido tan idiota\ncomo para seguir luchando.
+<SPEECH*>Sí, gracias a Dios.
+<SPEECH*>Pero cuando la gente se\nentere, les entrará el pánico.
+<SPEECH*>Tal vez evitemos eso si les comunicamos claramente\ncómo nos vamos a ocupar de la situación.
+<SPEECH*>Sí. Reunámonos con Ion para hablar de eso.
+<SPEECH*>¿Dónde está Ion?
+<SPEECH*>Quizá en su habitación.
+<SPEECH*>Pero sólo los ejecutivos de\nla Orden pueden entrar en la\nhabitación del Maestro Fónico.<PAGE>\n<SPEECH*>En vez de una cerradura, hay un glifo\nfónico que bloquea a los intrusos.
+<SPEECH*>¡Parece un trabajo para la\nGuardiana del Maestro Fónico,\nAnise Tatlin! @
+<SPEECH*>Querrás decir "ex" Guardiana\ndel Maestro Fónico.
+<SPEECH*>Buuu. Vale, "ex", ¡pero aún sé el\nconjuro para activar el glifo fónico!
+<SPEECH*>El glifo fónico es esa cosa que hay\nen la habitación contigua, ¿verdad?
+<SPEECH*>Sí. ¡Vamos!
+<SPEECH*>Aquí está.
+<SPEECH*>Veamos...\n"El espíritu de Yulia está con el Maestro Fónico".
+<SPEECH*>¡Guau, ha desaparecido!
+<SPEECH*>Es el mismo principio que el del Sendero\nde Yulia. No hay por qué preocuparse.
+<SPEECH*>Vale. Vamos.
+<SPEECH*>¿A dónde ha ido Ion?
+<SPEECH*>¡Silencio! \n¡Viene alguien!
+<SPEECH*>¡Esto no es bueno! ¡Aquí sólo\npuede entrar personal autorizado!
+<SPEECH*>¡Será mejor que nos escondamos!
+<SPEECH*>Mmm... Me ha parecido oír a alguien. Tal vez\nsólo sea mi mente jugándome una mala pasada.
+<SPEECH*>Gran maestro Mohs, permíteme\nconfirmar tu promesa.<PAGE>\n<SPEECH*>Si te ayudo a reanudar la guerra,\nme darás los datos de réplica de\nla profesora Nebilim...
+<SPEECH*>Déjamelo a mí.\nLos obtendré de Van.
+<SPEECH*>Entonces permite que Dist la Rosa\nte ofrezca el plan para reanudar \nla guerra.<PAGE>\n<SPEECH*>Primero, creo que deberíamos hacer\nque el maestro fónico Ion proclame\noficialmente el fin de la tregua.
+<SPEECH*>Mmm. Haré los arreglos tan pronto\ncomo Ion vuelva de la biblioteca.
+<SPEECH*>Parece que Mohs y Van\ntienen objetivos distintos...
+<SPEECH*>Sí, parece que Dist juega con ambos\npara conseguir sus propios propósitos.
+<SPEECH*>Mohs solo quiere causar la guerra tal\ny como está escrito en la Partitura.\n¿Cuál es el objetivo de Van?
+<SPEECH*>Pretende hacer caer las Tierras\nExteriores y exterminar a la humanidad...
+<SPEECH*>No me parece que sea \nalguien interesado en una\nmatanza sin sentido.<PAGE>\n<SPEECH*>Mohs parece el menos amenazador,\nya que su objetivo está claro.
+<SPEECH*>Entonces encarguémonos antes\ndel enemigo que conocemos.<PAGE>\n<SPEECH*>Hablemos con el rey Ingobert\npara que deje de escuchar a Mohs...
+<SPEECH*>Pero... me pregunto si Padre me creerá.
+<SPEECH*>¡Natalia!\n¡Claro que lo hará!
+<SPEECH*>Puede que no sea su auténtica hija.
+<SPEECH*>¡Gaah, nos encargaremos de\neso cuando lo averigüemos!\n¡Ahora, vamos a la biblioteca!
+<SPEECH*>¡¿Oh?! \n¿Qué estáis haciendo todos aquí?
+<SPEECH*>¡Ion, las Tierras Exteriores\nestán en peligro!<PAGE>\n<SPEECH*>¡Por favor, dinos si está \nescrito en la Partitura que los \nsephiroth se descontrolarán!
+<SPEECH*>Es la primera vez que oigo algo así.\nRealmente nunca he confirmado la existencia\nde la Partitura Restringida por mí mismo.
+<SPEECH*>¡¿Qué?! ¿En serio?
+<SPEECH*>Si conociera la Partitura Restringida,\ncreo que hubiera sabido quién es\nLuke la primera vez que lo vi.<PAGE>\n<SPEECH*>Incluso puede que hubiera podido\nevitar lo que ocurrió en Akzeriuth.
+<SPEECH*>Volví a Daath para comprender\ncompletamente la Partitura\nRestringida.
+<SPEECH*>¿Pero dice algo la Partitura Restringida \nsobre los sephiroth fuera de control?
+<SPEECH*>No, que yo sepa. Vamos a la parte\ntrasera de la capilla para asegurarnos.
+<SPEECH*>¿La parte trasera de la capilla? \n¿Por qué?
+<SPEECH*>Hay una piedra fónica consagrada ahí.\nPodemos consultar la Partitura.
+<SPEECH*>¡Ion! \n¡Sabes que no es bueno para tu salud!
+<SPEECH*>Por favor, no me lo impidas, Anise.\nDebe hacerse.
+<SPEECH*>Esta piedra fónica se formó al combinar\nde la Primera a la Sexta Piedra Fónica.
+<SPEECH*>Así, los Maestros Fónicos pueden leer la\nPartitura completa a partir de los fragmentos.
+<SPEECH*>Pero el volumen es inmenso.\nInspeccionaré la Partitura con\nrespecto a los derrumbamientos\nde estos últimos años.
+<SPEECH*>"ND2000. En Kimlasca nacerá alguien\nque heredará el poder de Lorelei. Será un\nchico de sangre noble y de rojo cabello".
+<SPEECH*>"Se le conocerá como la 'luz de la llama\nsagrada', y llevará a Kimlasca-Lanvaldear\nhacia una nueva era de prosperidad".
+<SPEECH*>"ND2002. Aquél que ansía gloria\ndestruirá la isla en la que nació.\nUna tierra con el nombre de Hod".
+<SPEECH*>"Posteriormente, la guerra entre\nKimlasca y Malkuth persistirá durante\nun ciclo completo de estaciones".
+<SPEECH*>"ND2018. El joven heredero del\npoder de Lorelei llevará a su\ngente a la ciudad minera".
+<SPEECH*>"Allí, el joven convertirá el poder\nen calamidad y será el arma de Kimlasca,\ndestruyéndose a sí mismo y a la ciudad".
+<SPEECH*>"A partir de entonces, la tierra\nde Rúgnica se verá envuelta en guerra,\ny Malkuth perderá territorio".
+<SPEECH*>"Kimlasca-Lanvaldear crecerá,\ny esto la conducirá hacia una\nprosperidad sin precedentes".
+<SPEECH*>¡Ion!
+<SPEECH*>Es todo lo que la Sexta Piedra\nFónica dice sobre la caída.
+<SPEECH*>Así que todo de lo que habla\nes de Akzeriuth y la guerra.
+<SPEECH*>Lo de los sephiroth descontrolados\ntal vez esté escrito en la Séptima\nPiedra Fónica.
+<SPEECH*>¿Quién es "el joven heredero del poder de Lorelei"?
+<SPEECH*>Luke, por supuesto. \n¿Quién si no?
+<SPEECH*>Pero Luke nació hace\nsólo siete años.
+<SPEECH*>Estamos en ND2018. \nDecía 2000, así que\ntiene que ser Asch.
+<SPEECH*>Asch se suponía que iba\na morir en Akzeriuth, pero\naún está vivo.
+<SPEECH*>Pero Luke fue a Akzeriuth antes de que\neso pudiera ocurrir. La Partitura está\ncompletamente desbaratada.
+<SPEECH*> Asch apareció más tarde, pero ya\nno se llamaba Luke, la \n"luz de la llama sagrada".
+<SPEECH*>La existencia de Luke, la\nexistencia de una réplica, no\naparece en la Partitura de Yulia.
+<SPEECH*>¿Estás diciendo que mi\nnacimiento hizo que la\nPartitura se fuera al traste?
+<SPEECH*>¿Luke?
+<SPEECH*>¡Te encontré!
+<SPEECH*>¡Esto va mal!
+<SPEECH*>¡Huid todos!\n¡Tú también, Anise!
+<SPEECH*>Volvamos al Albiore.
+<SPEECH*>Gran maestro Mohs.<PAGE>\n<SPEECH*>¡Auldrant ha tomado un\ncamino diferente al de\nla Partitura de Yulia!
+<SPEECH*>¡Silencio! ¡Has olvidado tu misión \nrespecto a la Séptima Piedra Fónica\ny te has mezclado con esta chusma!<PAGE>\n<SPEECH*>¡Si Luke muere y la guerra empieza\ncomo está escrito en la Partitura,\nllegará la prosperidad!
+<SPEECH*>No te resistas, Jade, o esta mujer morirá.
+<SPEECH*>¡Aah ja ja ja ja!\n¡Estás genial así, Jade!
+<SPEECH*>Me honra tu cumplido.
+<SPEECH*>¡Nadie te está haciendo un cumplido!
+<SPEECH*>¡¿Qué vais a hacer con nosotros?!
+<SPEECH*>Os llevaremos a Baticul. \nAllí, haremos que nos ayudéis\na reanudar la guerra.
+<SPEECH*>¡Lleváoslos!
+<SPEECH*>Espero que Noelle esté a salvo.
+<SPEECH*>Daath es una teocracia autónoma.\nNo creo que simplemente la maten...
+<SPEECH*>¿Qué nos va a pasar?
+<SPEECH*>Luke probablemente será ejecutado, \ncon tal de validar la Partitura.
+<SPEECH*>Tal vez eso sea lo mejor...
+<SPEECH*>¡Luke! \n¡¿Qué estás diciendo?!
+<SPEECH*>Bueno, ya sabes, mi nacimiento hizo\nque el mundo se saliera del rumbo de\nprosperidad que la Partitura describió.<PAGE>\n<SPEECH*>Tal vez sea por eso que los sephiroth\nse están descontrolando.
+<SPEECH*>¿De qué demonios estás hablando?
+<SPEECH*>Tiene que ser eso.\nAdemás, tú misma lo dijiste, Tear.<PAGE>\n<SPEECH*>No existo en la Partitura de Yulia.
+<SPEECH*>¡Eres un idiota!
+<SPEECH*>¡¿Qué?! \n¡Hey!
+<SPEECH*>Lo que quería decir es que no estás\natado a la Partitura de Yulia.<PAGE>\n<SPEECH*>¡Tienes el potencial de crear un nuevo\nfuturo, diferente al de la Partitura!
+<SPEECH*>Tear...
+<SPEECH*>¡Dijiste que cambiarías! \n¡Pero vuelves a lloriquear!\n¡De acuerdo! ¡Haz lo que quieras!
+<SPEECH*>Tear... Lo siento.
+......
+<SPEECH*>Lo siento....
+<SPEECH*>Nos separaron de los demás...
+<SPEECH*>Me pregunto qué nos\nva a pasar ahora.
+<SPEECH*>Meryl, impostora de la Princesa\nde Kimlasca. Luke, impostor del \nhijo del duque Fabre.
+<SPEECH*>¿"Meryl"?\n¿Qué estás diciendo?
+<SPEECH*>El Reino os despoja de vuestros\nderechos de sucesión.<PAGE>\n<SPEECH*>Tú también eres responsable\nde la matanza de Akzeriuth.
+<SPEECH*>¡¿De qué estás hablando?!\n¡No he hecho nada de eso!
+<SPEECH*>Te criaste como noble. Ahora ten el\nvalor de morir por tu propia mano.
+<SPEECH*>Su Majestad propocionó esto\npara que no sufrieras.
+<SPEECH*>¡Veneno!
+<SPEECH*>Q-Qué es... eso...
+<SPEECH*>Lo conseguimos.
+<SPEECH*>¡Tear! ¡¿Cómo habéis\nentrado todos aquí?!
+<SPEECH*>Nos metieron en una celda, pero\nrecibimos una ayuda inesperada...
+<SPEECH*>¡Lo explicaremos luego! \n¡Vámonos!
+<SPEECH*>¡Esperad! Dejadme ver a Padre...\n¡Dejadme ver a Su Majestad!\n¡Quiero oír qué piensa realmente!
+<SPEECH*>Estoy de acuerdo. Por favor. \nNecesito ver a mi tío con tal\nde detener esta guerra.
+<SPEECH*>Comprendes el peligro...
+<SPEECH*>Gracias...
+<SPEECH*>Tear.
+<SPEECH*>Pensé que te habías rendido conmigo.\nGracias por venir.
+<SPEECH*>Eres un idiota.
+<SPEECH*>Natalia...
+<SPEECH*>¡Padre!
+<SPEECH*>¡Traidora! \n¡¿Aún sigues viva?!
+<SPEECH*>¡Padre! \n¡¿De verdad no soy tu hija?!
+<SPEECH*>Yo... no quiero creerlo, pero...
+<SPEECH*>La nodriza ha testificado. \nMeryl, hija de Sylvia, ayudante\nde la difunta Reina.
+<SPEECH*>Ésa es quien es, ¿correcto?
+<SPEECH*>Sí... La auténtica Natalia nació muerta.<PAGE>\n<SPEECH*>La reina se desesperó.<PAGE>\n<SPEECH*>Así que le di el bebé de mi hija,\nque había nacido unos días antes...
+<SPEECH*>¿Lo... lo dices en serio, aya?
+<SPEECH*>Qué deshonroso, Meryl. \nHas descubierto que no eres\nla verdadera princesa.<PAGE>\n<SPEECH*>¡Ayudaste en la destrucción de Akzeriuth\npor el odio que sentías al verte\nseparada de tus verdaderos padres!
+<SPEECH*>¡No!\n¡No hice nada de eso!
+<SPEECH*>¡Tío! \n¡¿En serio te crees un cuento como éste?!
+<SPEECH*>No quiero creerlo, pero...\n¡encontramos restos de un bebé \nenterrados donde ella dijo!
+<SPEECH*>¡Aunque fuera cierto,\ncriaste a Natalia como si\nfuera tu propia hija!<PAGE>\n<SPEECH*>¡No tiene sentido condenarla\npor un crimen que no ha cometido!
+<SPEECH*>Esto no sólo tiene que ver con ella.\nTú también morirás aquí, como cerebro de\nla destrucción de Akzeriuth.
+<SPEECH*>Con vuestras muertes, declararemos\nde nuevo la guerra contra Malkuth...
+<SPEECH*>¡Matadlos!
+<SPEECH*>¡¿Qué estás haciendo, Largo?! \n¿No te importa que unos extraños\nhagan el trabajo por ti?
+<SPEECH*>Grr... ¡¿Así que por eso me\nhas arrastrado hasta aquí?!
+<SPEECH*>¡Asch! ¡Justo a tiempo!\n¡Captúralos!
+<SPEECH*>Lu... Asch...
+<SPEECH*>¡Os he liberado! \n¿Qué demonios hacéis aquí?\n¡Huid! ¡Ahora!
+<SPEECH*>¡¿Nos has rescatado?!\n¡Entonces ven con nosotros!
+<SPEECH*>¡Cállate! \n¡Alguien los ha de distraer!\n¡Ahora, idos!
+<SPEECH*>¡Ten cuidado!
+<SPEECH*>¡Grrr! ¡Traidor!
+<SPEECH*>Cállate, perturbado mental...\n¡Traicionaste a Van y le filtraste\ninformación a Mohs!
+<SPEECH*>¡Tú!...\n¡¿Un General de Élite traicionando al Comandante?!
+<SPEECH*>Sólo me importa alcanzar mi meta.\nEso tiene más prioridad que mi lealtad hacia Van.
+<SPEECH*>Padre...
+<SPEECH*>Asch nos dio la oportunidad de escapar. \nNo podemos desperdiciarla.
+<SPEECH*>Lo... lo sé...
+<SPEECH*>¡Venga, marchémonos de Baticul! \nSi nos quedamos, lo que ha hecho\nAsch no habrá servido de nada.
+<SPEECH*>¡Señorito Luke! \nLos Caballeros Blancos han abierto\nel camino tal y como ordenó.
+<SPEECH*>¿Que yo ordené?...
+<SPEECH*>¿Mmm? Su pelo...\n¿Llevaba una peluca antes?...
+<SPEECH*>(Así que Asch preparó esto...)
+<SPEECH*>¡Gracias, Pere!\n¡Ahora debes irte!
+<SPEECH*>No, me quedaré aquí y haré\nlo que pueda para protegerle.
+<SPEECH*>¡Es demasiado peligroso! \n¡Debes huir!
+<SPEECH*>No te preocupes. El viejo Pere\nera mi instructor en el manejo de la\nespada. Contamos contigo, Pere.
+<SPEECH*>Señorito Gailardia, \nrezaré por su seguridad.
+<SPEECH*>Señorito Luke, Su Alteza es\nla luz de esperanza de nuestro\nreino. ¡Manténgala a salvo!
+<SPEECH*>¡Sí!
+<SPEECH*>¡Alto, traidores!
+<SPEECH*>¡¿Qué estáis haciendo?!
+<SPEECH*>¡Alteza, corra!
+<SPEECH*>¡¿C-Cómo supisteis que era yo?!...
+<SPEECH*>La gente del circo dijo que\nibais a ser ejecutada por\ncrímenes que no cometisteis.
+<SPEECH*>No sabíamos que aspecto teníais,\npero huíais del nivel superior.\n¡Así que tenéis que ser la Princesa!
+<SPEECH*>¡Ahora, por favor, corred!
+<SPEECH*>¡Natalia! \n¡Vamos!
+<SPEECH*>D-De acuerdo...
+<SPEECH*>¡Deteneos! Ahí va la atroz criminal\nque usurpó el nombre de la Princesa.\n¡Entregádnosla de inmediato!
+<SPEECH*>¡Es cierto! ¡No poseo sangre real! \nSoy una impostora. No os\narriesguéis por mí.<PAGE>\n<SPEECH*>¡Por favor, huid!
+<SPEECH*>No nos importa si tenéis\nsangre real o no.
+<SPEECH*>Sois la que abrió el\nhospital por nosotros.
+<SPEECH*>Sois la que nos contrató para\ntrabajar en el puerto cuando\nperdimos nuestros trabajos.
+<SPEECH*>¡Argh, ya basta! \n¡Sal de en medio!
+<SPEECH*>¡Detente!
+<SPEECH*>¡Ya he tenido suficiente con esto!
+<SPEECH*>¡¿Asch?!
+<SPEECH*>Serás desgraciado. \n¡Proteger a la gente de Kimlasca\nes tu trabajo como soldado!
+<SPEECH*>Dejádnoslo a nosotros.\n¡Ahora, vete, Natalia!
+<SPEECH*>Asch...
+<SPEECH*>Veo que has mantenido tu promesa....
+<SPEECH*>¡Asch... "Luke"!\n¡Lo recuerdas!
+<SPEECH*>¡Venga!<PAGE>\n<SPEECH*>¡No podemos cambiar este país juntos\nsi siempre estás desanimada!...
+<SPEECH*>¡De acuerdo!...
+<SPEECH*>¡Luke! \nUn error y te mataré.
+<SPEECH*>Tú ten cuidado también...
+<SPEECH*>¡Parte del Desierto de Zao ha sido\ndestruido! ¡Id al pantano de Inista!
+<SPEECH*>Entendido. Gracias.
+¡Princesa Natalia! \n¡Por favor, tened cuidado!
+¡Nos alegra tanto que volvierais\na nosotros con vida!\n¡Por favor, seguid así!
+¡No queremos guerra!\n¡Sabemos que podéis detenerla!
+¡Mantendremos ocupados a los soldados!\n¡Corred!
+El hospital que abristeis salvó\nla vida de mi hija. ¡Ahora voy\na pagar esa deuda!
+¡La princesa Natalia es nuestra verdadera\nprincesa! ¡Esperaremos vuestro regreso!
+¡Princesa Natalia! \n¡El desierto es muy peligroso! \n¡Tomad el camino sur hasta el pantano de Inista!
+El pantano de Inista está al suroeste de aquí.\n¡Por favor, tened cuidado!
+Si nos presentamos ahora, haremos\nque las cosas empeoren. Esperemos\nun rato para ver como va la cosa.
+Mantengámonos alejados\nde Baticul por un tiempo.
+Están llenos de hostilidad por culpa\nde la guerra. Dudo que alguien fuera\na creer lo que tenemos que decir.
+Considerando la situación con\nNatalia, sería prudente evitar\nBaticul por ahora.
+No es que quiera, pero tenemos\nque ir al oasis y oír lo que\nAsch tiene que decirnos.
+Aún no podemos volver...\nVayamos fuera.
+Vayamos a ver a Guy.\nDebería estar en la capilla.
+Guy está en la capilla.\nVamos.
+Guy está en la capilla, ¿verdad?\n¡Vamos a verle!
+Guy está en la capilla.\nVamos a verle.
+Tenemos que salir de la ciudad.
+Tenemos que salir de prisa.
+Démonos prisa y larguémonos de aquí.
+Démonos prisa en huir.
+¡Venga, salgamos de aquí!
+Ahora mismo, debemos concentrarnos\nen salir de la ciudad.
+Si nos presentamos ahora, haremos\nque las cosas empeoren. Esperemos\nun rato para ver como va la cosa.
+Evitemos permanecer en Baticul\nmás de lo necesario.
+Debemos ser pacientes por ahora.\nVolvamos atrás.
+No debemos permanecer en Baticul,\ntal y como están las cosas.
+¡Baticul aún es peligroso!\n¡Salgamos de aquí!
+Todavía no podemos volver...\nNo avancemos más.
+Tenemos que abandonar Baticul.
+Salgamos de Baticul.
+En cualquier caso, creo que\ndebemos alejarnos de Baticul.
+No tenemos mucho tiempo. Vamos a poner\ntierra de por medio entre Baticul y\nnosotros, antes de que nos atrapen.
+¡Tenemos problemas!\n¡Larguémonos de aquí, deprisa!
+Por Asch, también,\ndéjanos huir de esta ciudad.
+Si nos presentamos ahora, haremos\nque las cosas empeoren. Esperemos\nun rato para ver como va la cosa.
+Mantengámonos alejados\nde Baticul por un tiempo.
+Están llenos de hostilidad por culpa\nde la guerra. Dudo que alguien fuera\na creer lo que tenemos que decir.
+Considerando la situación con\nNatalia, sería prudente evitar\nBaticul por ahora.
+Es demasiado peligroso.\nVolvamos atrás.
+Aún no podemos volver...\nVayamos fuera.
+Alteza, ¿puedo ayudarla?
+¿Qué pasa, Tear?
+¿Eh? \nO-Oh, n-nada.
+Je, je. ¡*Yo* lo sé!<PAGE>\n¡Apuesto a que Tear miraba ese\nuniforme de doncella y pensaba\n"¡Es tan mono! @" o algo así!
+Oh, ¿de verdad?\nDeberías haberlo dicho.
+Tú, ayúdala a ponerse\nun uniforme de doncella.
+E-Espera...
+Sí, Alteza.\nPor aquí, señorita.
+Pero...
+Guau, te queda bien.
+Um... Yo...
+¡Estabas aquí!\n¡Tenemos una emergencia!\n¡Ven a ayudar!
+¿Eh?\n¿Qué pasa?
+¡El ministro de Interior Alpine\nse ha olvidado el sello real en\nalguna parte del castillo!<PAGE>\nVosotras dos, daos prisa y buscadlo.\nY que nadie de la corte\nse entere de esto.
+Uh, um, por favor, no le diga nada\nsobre esto a la princesa Natalia.
+Sí. Será un secreto.<PAGE>\nLa pérdida del sello real supone un\nserio problema. Ayudaré a buscarlo.
+¡Gracias!
+(¡Un gato! @)
+Ven p'acá...
+Miau...
+¡¿No será el sello real lo que llevas en la boca?!
+Gracias a Dios. \nLo has encontrado por nosotras, ¿verdad? \nEres un buen gatito.
+¡Miau!
+Ah, ¿eres tú la que ha encontrado\nel sello real?\n¡Gracias! ¿Dónde estaba?
+Lo tenía un gato en la boca.
+¿Un gato?...\n¿Estás segura?
+Sí...
+Mmm... En ese caso, todo arreglado, supongo...\nBueno, no, no lo está, pero...<PAGE>\nOh, bueno. Permítame concederle\nuna recompensa.<PAGE>\n¿Mmm? \n¿Nos hemos visto antes?...
+S-Seguramente está pensando\nen otra persona.\n¡C-Con permiso!
+Oh, has tardado mucho.
+Como no venías, habíamos\nempezado a buscarte.
+Perdón.\nEs que había un gato muy mono...
+¿Un gato? No debería haber\ngatos en el castillo...
+¿En serio?\nQuizá entró un gato callejero, y...
+¿En el castillo?\nDudo que eso pudiera pasar.
+Por cierto, parece que\nhabía un gran alboroto\nen el castillo...
+¿Quién sabe?\nBueno, siento haberos hecho esperar.\nVámonos.
+¿Irnos? \n¿Vestida así?
+¡Oh!
+Oh, debe de gustarte de verdad.\nTe lo doy, Tear.
+L-Lo siento.

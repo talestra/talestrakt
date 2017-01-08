@@ -1,0 +1,54 @@
+Principio del juego:
+
+>>CAP_I06_00.txt:
+>>001BF74A: Baticul, the Capital of Light
+>>Kingdom of Kimlasca-Lanvaldear
+>>Remday, Rem-Decan 23, ND2018
+>>001BF7A5: <08:E8440000>...Guess I'm hearing things.
+
+El texto sale repetido en:
+- CAP_I06_00.txt
+- CAP_I06_01.txt
+- CAP_I06_03.txt
+- CAP_I06_04.txt
+- CAP_I06_05.txt
+
+Extraer los ficheros PKB del script:
+- Abrir el fichero TO7MAP.PKB con el UltraISO, extraer en el directorio PKB
+
+http://www.cri-mw.co.jp/products/product_adx_e.htm
+
+
+
+Hay textos en: 0x47AEA0
+
+EnterTalkTo FieldShopExamineOpenPushPullOperatePress SwitchGo UpGo DownJumpKnockReadRestRideExitMoveGrab???!!!SaveWarpFound %d Gald,
+but you cannot
+carry any more.Found %d Gald.Found %s,
+but you cannot
+carry any more.Found %s.NoticeSelectLoad DataQuit GameView SkitAnd they were never heard from again...Save
+Return to entrance with a Wing BottleUse %s?
+   %d remaining Yes
+N
+
+
+En la dirección: 0x4B8D80 hay mas textos sueltos
+
+--- PKB LOADING LIST:
+
+setup mapfile name -----> [map/title.pkb]
+setup mapfile name -----> [map/_custom.pkb]
+setup mapfile name -----> [map/cap_i06_05.pkb]
+setup mapfile name -----> [map/cap_t05.pkb]
+setup mapfile name -----> [map/cap_i06_02.pkb]
+setup mapfile name -----> [map/cap_i06_00.pkb]
+
+to check: LAS_D04
+
+Los ficheros:
+
+ov_PDVD_*_US.ovl
+Son ficheros binarios que se cargan dinámicamente en la dirección
+0x64B880 (la dirección se lee en el offset 8 de cada fichero)
+
+El texto en el EXE empieza en 0057ADA0

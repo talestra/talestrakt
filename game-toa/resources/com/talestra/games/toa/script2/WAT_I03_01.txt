@@ -1,0 +1,621 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Gran Chokmah no sería nada sin el\nemperador Peony, ¿te enteras?
+Es gracias a Su Majestad que podemos vivir\ntan cómodamente como lo hacemos ahora.
+Bien, ¿quién está conmigo?\n¡Alistémonos en el ejército de Malkuth!
+¡Entregaremos nuestras vidas como soldados\nde Malkuth en servicio del emperador Peony!
+Um...\nBueno...
+Supongo que me voy a pillar algo para comer...\n¿O tal vez algo para beber?...
+¿Y por qué piensa que es tan especial?
+¿Y por qué piensa que es tan especial?
+Sí, ¿pero qué vamos a hacer si se vuelve\na derrumbar el campo de batalla?
+Sí, ¿pero qué vamos a hacer si se vuelve\na derrumbar el campo de batalla?
+Solo mírale.\nNo es nada sin la Partitura.
+Solo mírale.\nNo es nada sin la Partitura.
+Hay mucha gente a la que le gusta el\nemperador Peony, pero el general\nFrings también es popular.
+Hay mucha gente a la que le gusta el\nemperador Peony, pero el general\nFrings también es popular.
+¿En qué está pensando, intentando\nmeternos en el ejército con él?
+¿En qué está pensando, intentando\nmeternos en el ejército con él?
+Así que todo este tiempo solo\nestaba dependiendo de la Partitura...
+Así que todo este tiempo solo\nestaba dependiendo de la Partitura...
+¡Lo sé! Todo el mundo en Gran Chokmah\nestá agradecido al emperador Peony.
+¡Lo sé! Todo el mundo en Gran Chokmah\nestá agradecido al emperador Peony.
+Si tanto se quiere alistar,\nque se aliste él solo.\n¡Que nos deje en paz!
+Si tanto se quiere alistar,\nque se aliste él solo.\n¡Que nos deje en paz!
+Supongo que eso es lo que pasa si\ndependes tanto de la Partitura, pero\ntodos la han usado hasta el extremo...
+Supongo que eso es lo que pasa si\ndependes tanto de la Partitura, pero\ntodos la han usado hasta el extremo...
+El emperador Peony no está mal,\n¡pero el general Frings es el mejor!
+El emperador Peony no está mal,\n¡pero el general Frings es el mejor!
+Gran Chokmah flota encima del agua,\nasí que está segura, ¿verdad?
+Gran Chokmah flota encima del agua,\nasí que está segura, ¿verdad?
+Sí, era útil tener la Partitura, pero\naun así, lo estaba llevando muy lejos.
+Sí, era útil tener la Partitura, pero\naun así, lo estaba llevando muy lejos.
+¿Te gusta Gran Chokmah?\nLas artes fónicas se usan por todas\npartes. ¿No es interesante?
+¿Ves esa bola de agua de ahí?\nPues flota gracias a las artes fónicas.
+¿Qué le va a pasar al mundo ahora, con\ntodos los continentes cayendo y todo eso?
+¿Se va a derrumbar todo el mundo\nsin dejar nada detrás?
+Sin la Partitura, las cosas van\na ser mucho más duras ahora.\nPero seguro que el emperador Peony\nse encargará de todo.
+Sin la Partitura, las cosas van\na ser mucho más duras ahora.\nPero seguro que el emperador Peony\nse encargará de todo.
+Éste es mi asiento reservado.
+Los acueductos están bien, me\nencanta cómo se arremolina el agua...\n¿No son geniales las artes fónicas?
+Si pueden usar artes fónicas para\nmover el agua así, ¿no pueden hacer\nalgo para lo del derrumbamiento?
+Tal vez debería leer la Partitura para\naveriguar que pasará si no lo hacen...
+Me preocupaba que se rompieran\nlos acueductos cuando se hicieran\ndescender los continentes.
+Después de todo, Gran Chokmah\nno es nada sin su belleza.
+El cuarto maestro debería estar\ncerca de una máquina giratoria.
+<SPEECH*>¡General de brigada Frings!
+<SPEECH*>Buen trabajo. Nosotros los llevaremos a partir\nde aquí. Confío en que no sea un problema.
+<SPEECH*>¡Entendido, señor!
+<SPEECH*>Tú eres Luke, ¿correcto?\nEl hijo del duque Fabre.
+<SPEECH*>¡¿Cómo sabes quién soy?!
+<SPEECH*>El Coronel Jade me pidió\nque os fuera a buscar a la\nsalida del Bosque de Theor.
+<SPEECH*>Aunque parece que entrasteis en\nel bosque antes de que pudiera hacerlo...
+<SPEECH*>Disculpa. Unos soldados de Malkuth \nhan sido asesinados. Pensamos que\nsería peligroso no actuar...
+<SPEECH*>No te disculpes.\nDeberíamos agradecéroslo.
+<SPEECH*>Pero, con toda la conmoción, me\ntemo que debo trataros como prisioneros\nhasta que veáis a Su Majestad.
+<SPEECH*>¡¿A quién le importa eso?!\n¡Guy necesita ayuda!
+<SPEECH*>Le han puesto una Ranura Maldita.
+<SPEECH*>Es tan profunda que no puede combatirla.
+<SPEECH*>Yo puedo quitársela si nos dejas\nun lugar donde él pueda descansar.
+<SPEECH*>¿Puedes hacerlo?
+<SPEECH*>Probablemente soy el único que puede.
+<SPEECH*>Esta maldición es un tipo de arte fónico\ndaáthico, un arte fónico transmitido sólo\na través de Maestros Fónicos.
+<SPEECH*>Os ofreceremos una habitación\nen el castillo. ¿Y qué pasa con\nla audiencia con Su Majestad?...
+<SPEECH*>Veré a Su Majestad el Emperador\nen otra oportunidad. \nAhora mismo, me preocupa Guy.
+<SPEECH*>Está bien. \nDejaré a mis hombres contigo.
+<SPEECH*>¡Yo también me quedo!\n¡Soy la Guardiana de Ion!
+<SPEECH*>¡Espera! ¡Yo también!
+<SPEECH*>Supongo que al final te enterarías,\nasí que creo que te lo diré ahora.
+<SPEECH*>Una Ranura Maldita no puede usarse para\ntener control total sobre el objetivo.
+<SPEECH*>¿Qué significa eso?
+<SPEECH*>Una Ranura Maldita agita los recuerdos\ny paraliza el pensamiento racional.
+<SPEECH*>Guy no te hubiera atacado\nsi no hubiera tenido ya un fuerte\ndeseo de matarte.
+<SPEECH*>Eso es lo que significa.
+<SPEECH*>¿Qué?...
+<SPEECH*>No debes acercarte a Guy hasta\nque le haya quitado la maldición.
+<SPEECH*>¿Qué tal si das una vuelta alrededor\ndel castillo durante un rato?
+<SPEECH*>No puedes salir de la ciudad, pero\nquizá te ayude a relajarte...
+<SPEECH*>Sí, creo que será una buena idea.
+<SPEECH*>Muy bien, entonces. Os esperaré en\nfrente del castillo. Por favor, habladme\ncuando estéis preparados.
+<SPEECH*>Déjame solo un rato.
+Tenemos que ir a ver al\nemperador Peony.
+Vayamos a ver al emperador Peony.
+Vayamos a ver al emperador Peony.
+Vayamos a ver al emperador Peony.
+Tenemos que ir a ver al emperador Peony.
+Vayamos a ver al emperador Peony.
+Vayamos a ver al emperador Peony.
+Vayamos a ver al emperador Peony.
+Vamos a ver cómo le va a Guy.
+Vamos a ver cómo le va a Guy.
+Vamos a ver a Guy.
+Me preocupa el\nestado de Guy.
+Vamos a reunirnos todos.
+Vamos a reunirnos con los demás.
+Vamos a reunirnos con los otros.
+Vamos a reunirnos con los demás.
+<SPEECH*>No me sigas.
+<SPEECH*>Prometí que te vigilaría.
+<SPEECH*>Yo voy con usted, Amo.
+<SPEECH*>¡Dejadme solo!
+<SPEECH*>Si te dejo solo, seguramente\nempezarás a inventarte tonterías.
+<SPEECH*>¡¿Qué quieres decir con "tonterías"?!
+<SPEECH*>Como la idea de que Guy te odia.
+<SPEECH*>¡Pero tiene que odiarme!\nPor eso él...
+<SPEECH*>¿Eres tonto?
+<SPEECH*>¡¿Qué has dicho?!
+<SPEECH*>¿Crees que nunca has\nhecho nada para que le\ncaigas mal a alguien?
+<SPEECH*>Eso no es lo que yo...
+<SPEECH*>Guy es un ser humano. Estoy segura de que\nha habido veces en que lo has hecho enfadar.
+<SPEECH*>Pero volvió a buscarte.
+<SPEECH*>Vale, puede que sí, pero...
+<SPEECH*>Así que hubo un tiempo en el\nque Guy te odiaba tanto como para\nquerer matarte.
+<SPEECH*>Pero aún creía en ti,\nque te recuperarías de lo de\nAkzeriuth. ¿Verdad?
+<SPEECH*>Desde luego, tú no tienes\npelos en la lengua.
+<SPEECH*>¿Qué?...
+<SPEECH*>Sé que intentas que me sienta\nmejor, pero sólo has hecho\nque me doliera más.
+<SPEECH*>L-Lo siento...\nLo he dicho sin pensar.
+<SPEECH*>Quizá sea bueno que\nalguien me meta un poco de\nsentido común.
+<SPEECH*>Luke...
+<SPEECH*>Soy tan idiota. No tengo tiempo\npara estar deprimido. \nTenemos que ver al Emperador.
+<SPEECH*>Gracias a ti también, Mieu.
+<SPEECH*>¡De nada!\n¡Venga, vamos a por Jade y Natalia!
+Las cosas no van bien... puedo sentir\nla tensión en el aire. Será señal de\nque se acerca un conflicto.
+Parece que te has calmado.\nVamos.
+Bien, estamos todos.\nVamos a ver al general Frings.
+Luke, por favor, intenta\nestar animado.
+No es posible que Guy\ndeseara de verdad matarte.
+Bien, estamos todos.\nVamos a ver al general Frings.
+Por favor, trae a los demás contigo.
+Os he estado esperando.\nPor aquí, por favor
+<SPEECH*>Ah, vosotros debéis ser los que\narrastran a mi Jade por todas partes\ny lo tienen fuera de su hogar.
+<SPEECH*>¿Qué?...
+<SPEECH*>Y entonces va y le toca un sello de\nfonorranura. Este merluzo puede\nser un auténtico coñazo, ¿eh?
+<SPEECH*>E-En absoluto, Su Majestad...
+<SPEECH*>Majestad, ¿debe confundir\na nuestros invitados?
+<SPEECH*>Ja ja, lo siento. Sí, creo\nque deberíamos ir al grano.
+<SPEECH*>Jade me ha explicado todo,\nbásicamente.
+<SPEECH*>Tal y como están las cosas ahora,\nhay peligro de que San Binah\ncaiga al Qliphoth.
+<SPEECH*>Eso parece. De hecho, ya me han\ninformado de que la tierra alrededor\nde San Binah ha empezado a hundirse.
+<SPEECH*>¡Entonces tenemos que evacuar a los habitantes!
+<SPEECH*>Me encantaría, pero muchos miembros\ndel consejo están en contra.
+<SPEECH*>¿Por qué? \nSus súbditos están en peligro...
+<SPEECH*>Por la amenaza militar de\nKimlasca.
+<SPEECH*>El reino de Kimlasca-Lanvaldear \nha hecho una declaración.
+<SPEECH*>Por la presente, denunciamos que la\ndestrucción de Akzeriuth por parte de\nMalkuth ha sido causada para
+<SPEECH*>dar muerte tanto a la princesa\nNatalia como al tercer heredero al\ntrono, Luke fon Fabre.
+<SPEECH*>En nombre de Lorelei y \nYulia, iniciaremos sanciones\ninmediatas.
+<SPEECH*>En la práctica, esto es\nuna declaración de guerra.
+<SPEECH*>¡Mi padre está equivocado!
+<SPEECH*>¿Lo está, princesa Natalia?
+<SPEECH*>Creemos que Kimlasca puede\nhaber destruido Akzeriuth para tener\nuna excusa con la que ir a la guerra.
+<SPEECH*>¡Mi país nunca cometería un\nacto tan despreciable!
+<SPEECH*>¡Sí!\nY además... yo fui quien...
+<SPEECH*>Luke. Todos sabemos lo que pasó.\nNatalia, por favor, cálmate.
+<SPEECH*>Ya no importa si Kimlasca \ndestruyó Akzeriuth para\nempezar una guerra o no.
+<SPEECH*>Sí, el problema es que el consejo\ncree que el hundimiento de San\nBinah es cosa de Kimlasca.
+<SPEECH*>Así que piensan que si se envían\nfuerzas para rescatar a los ciudadanos,\néstas serán barridas junto con la ciudad.
+<SPEECH*>Exacto.
+<SPEECH*>Hasta que oímos la historia de Jade, pensábamos\nque Kimlasca había desarrollado un arma fonotecnológica\ncapaz de crear una hiperresonancia.
+<SPEECH*>Y al final, Kimlasca no era\nla responsable de lo de Akzeriuth.
+<SPEECH*>Y aunque lo fuera, San Binah va a caer\nigualmente. ¡¿Cómo puede ser que\nNO rescatarlos sea mejor?!
+<SPEECH*>Lo siento, no quería ser grosero,\nSu Majestad. Si es imposible enviar tropas,\nentonces envíenos a nosotros, por favor.
+<SPEECH*>Permíteme que haga la misma petición. \nSi ocurre algo, al menos las fuerzas\nde Malkuth no se verán involucradas.
+<SPEECH*>Estoy sorprendido. ¿Por qué miembros \nde la realeza como vosotros intentáis\nayudar a un país enemigo?
+<SPEECH*>¡No somos enemigos! Nuestros ciudadanos\nviajan por los dos países como si \nfuera lo más normal del mundo.
+<SPEECH*>Y es mi deber, habiendo nacido en la\nfamilia real, ayudar a quienes lo necesitan.
+<SPEECH*>¿Y tú, señorito Luke?
+<SPEECH*>Soy un criminal para Malkuth. \nEs culpa mía lo que está pasando.\nQuiero hacer todo lo que pueda.
+<SPEECH*>¡Quiero salvarlos a todos!
+<SPEECH*>Bien, ya les has oído.\n¿Tú qué crees, Sesemann?
+<SPEECH*>Tu querido aprendiz, Jade, también\ndice que podemos confiar en estos\ntíos respecto a lo de San Binah.
+<SPEECH*>Su Majestad, no es educado referirse\na ellos como "estos tíos".
+<SPEECH*>Si puedo hacer una sugerencia, quizá\nLuke y mi unidad puedan evacuar San Binah
+<SPEECH*>mientras el general Nordheim contiene\nel avance norte del ejército de Kimlasca.
+<SPEECH*>¿Le estás dando órdenes a un general? \nBueno, supongo que funcionará. \nIntentaremos ganar la aprobación del consejo.
+<SPEECH*>Gracias, tío. \nTe debo una.
+<SPEECH*>Entonces, ¿no abandonará San Binah?
+<SPEECH*>Por supuesto que no. Aunque vosotros\nseáis los que vayan a salvarla.
+<SPEECH*>Son mi gente más querida.\nPor favor, ayúdadanos a salvarlos.
+<SPEECH*>Haré todo lo que esté en mi poder.
+<SPEECH*>Yo también.
+<SPEECH*>Como desees, Su Majestad.
+<SPEECH*>Ahora tengo que reunir al consejo.\nDejaré que te encargues del resto, Jade.
+<SPEECH*>*Suspiro*\nEvacuar una ciudad entera no\nes una tarea fácil, ¿sabes?
+<SPEECH*>¿Qué deberíamos hacer exactamente?
+<SPEECH*>Como Su Majestad ha dicho, el ejército\nno entrará en la ciudad por miedo a\nconvertirse en otro Akzeriuth.
+<SPEECH*>Nosotros entraremos en San Binah \nprimero y pediremos ayuda al anterior\nmariscal de campo McGovern.
+<SPEECH*>Se ha eliminado la maldición.
+<SPEECH*>¡Guy! \nLo siento...
+<SPEECH*>¿Luke?
+<SPEECH*>Yo... yo seguramente hice\nalgo que te hizo sufrir. \nPor eso tú....
+<SPEECH*>Ah ja ja.\n¿Pero de qué demonios hablas?
+<SPEECH*>No es culpa tuya, Luke.
+<SPEECH*>No es culpa tuya que\nte odiara tanto que\nquisiera matarte.
+<SPEECH*>Soy originario de Malkuth...
+<SPEECH*>¿Qué? ¿En serio?
+<SPEECH*>Yo nací en Hod. El día de mi\nquinto cumpleaños, mis familiares\nse reunieron en la mansión.
+<SPEECH*>Justo cuando el Intérprete empezó a\nleer mi Partitura, la guerra se desató.
+<SPEECH*>La Guerra de Hod...
+<SPEECH*>Si no recuerdo mal, fue el duque\nFabre quién atacó Hod...
+<SPEECH*>Sí. El duque Fabre mató a mi familia,\na mis parientes, a nuestros sirvientes.\nA todos.
+<SPEECH*>Él destruyó todo lo que yo amaba\ny se reía mientras lo hacía.
+<SPEECH*>Así que me propuse hacerle\npasar por lo mismo que yo.
+<SPEECH*>Entonces, ¿entraste en la\nCasa Fabre para vengarte?
+<SPEECH*>Gailardia Galan, \nde la Casa del conde Gardios.
+<SPEECH*>Oh... Lo sabías, ¿eh?
+<SPEECH*>Me di cuenta de algunas cosas,\nasí que investigué.
+<SPEECH*>Luchas con el estilo Albert,\nuna técnica que no utiliza escudo.\nEs única de Hod.
+<SPEECH*>Entonces, no puedes estar de\nverdad a mi lado, ¿verdad, Guy?
+<SPEECH*>Puede que sea una réplica, \npero sigo siendo un Fabre...
+<SPEECH*>Venga. A ver, mentiría si te dijera\nque no tengo sentimientos persistentes\nsobre esto, pero...
+<SPEECH*>¿Pero...?
+<SPEECH*>Si quieres que me vaya, cortaré\ncualquier lazo contigo ahora mismo.
+<SPEECH*>Pero si no, ¿puedo quedarme\nun poco más? Aún hay algo que\nquiero confirmar.
+<SPEECH*>Está bien...\nConfío en ti.
+<SPEECH*>No...\nDebería decir...\nConfía en mí, Guy. Por favor.
+<SPEECH*>Ja ja. \nDe las dos maneras me va bien.
+<SPEECH*>Gracias a Dios. \nMe preocupaba que\nempezarais a pelearos.
+<SPEECH*>Bueno, ya que todo se ha\nsolucionado bien, ¿qué tal si\nnos dirigimos a San Binah?
+<SPEECH*>Oh, sí, un mensajero nos dijo que\nvais a ir a San Binah.
+<SPEECH*>Pero Ion está agotado de\nhaber sanado la Ranura Maldita. \nÉl se quedará aquí conmigo.
+<SPEECH*>Anise, estoy bien. \nY si voy con ellos, quizá\npueda ayudarles.
+<SPEECH*>¡¿Ion?!
+<SPEECH*>Anise.\nTodos, por favor, llevadme.\nPor favor.
+<SPEECH*>Si el maestro Van está tras Ion,\nentonces seguirá en peligro esté\ndonde esté.
+<SPEECH*>¿Quieres decir que estará mejor en\nun lugar dónde podamos vigilarlo? \nSupongo que no tenemos alternativa.
+<SPEECH*>¡Oooh! \n¡Otra vez no, Ion!
+Nos vamos a San Binah.
+Nos han notificado de la situación.\nPor favor, pasad.
+¿No íbamos\na Belkend?
+¿No íbamos a la\ncaverna de Ortion?
+Tenemos que ir a hablar\ncon el general Frings.
+Deberíamos hablar con\nel general Frings.
+Vamos a hablar con\nel general Frings.
+¿No deberíamos hablar\ncon el general Frings?
+Por cierto, Guy, no estarás\nsiendo una carga para los\ndemás en la batalla, ¿verdad?
+No sé. Todos los del grupo\nson buenos luchadores.
+Mmm...<PAGE>\nSi tienes la oportunidad, ve a visitar\na un viejo llamado Gee que vive en\nel Desierto de Zao, al este.<PAGE>\nSi le dices que te envía Pere, \ndebería de poder enseñarte algo\nútil sobre la espada.
+Vale.
+Soy Gee. \n¿Puedo ayudarte en algo?...
+Pere me envió. \nMe llamo Guy Cecil.
+¡¿T-Tú eres Guy?! \n¡Ah, ya veo!<PAGE>\nPere me ha contado los detalles...\nEntiendo tu situación.
+No veas si se ha emocionado el viejo.
+Ja ja, sí.<PAGE>\nBueno, Gee,<PAGE>\nPere me dijo que me enseñarías algo\nque me sería útil para mi técnica\nde lucha con la espada...
+Ah, ya veo. Entonces tendré que\npasarte mis artes arcanas, Guy.
+Lo siento, pero lo de pasar\nartes se hace de tú a tú. \n¿Puedo pediros a los demás que salgáis?
+¿Por qué?
+Luke, no seas tozudo.
+Natalia tiene razón.\nVamos.
+Me alegra tanto ver\nque estás bien...
+Has obtenido "censo de ciudadanos de Hod".
+Bueno, ¿has aprendido ese arte arcano?
+No, las artes arcanas de mi estilo de\nlucha se transmiten oralmente.<PAGE>\nNo lo habré completado hasta que encuentre\na los miembros del concilio de artes arcanas\ny lo reciba de ellos. Parece que el\npróximo está en Kaitzur.
+Correcto. Los miembros del concilio de\nartes arcanas están ahora dispersados\npor todo el mundo.<PAGE>\nSi puedes buscarlos y\ncompletar el censo\nque te  he dado,<PAGE>\ncreo que al final serás capaz de aprender\nel arte arcano. Trabaja duro, joven.
+Eh, tu estilo de lucha conlleva\nmucho trabajo. Ahora que lo dices,\n¿qué estilo es?...
+Nuestra estilo es secreto.\nNo puedo dar detalles a los\nde fuera. Por favor, perdoname.
+Lo siento, Luke.\nEs lo que hay.
+V-Vale...
+¡Ese censo! \n¡¿Es de Gee?!
+¿Lo conoces? \nMe llamo Guy. \nHe recibido esto de Gee.
+¡Te he estado esperando! \nTe enseñaré lo que sé de\nla espada ahora mismo.<PAGE>\nLo siento, ¿podrías acercarte\naquí tú solo?
+Está bien.\nEsperad un poco, chicos.
+Guy aprende un ataque especial.
+Lo has hecho espléndidamente. El\npróximo que te enseñará te está\nesperando en un monumento histórico.
+¿Eh? ¿No nos vas a decir\nen qué ciudad está?
+Aunque quisiera, ninguno de nosotros\ntiene información detallada sobre dónde\nviven los demás.<PAGE>\nSi Guy es capaz de llenar el censo,\nnuestras posiciones se verían\nclaras, pero...
+Oh, ¿por qué es así?
+Hay varios motivos... En fin, busquemos\nun monumento histórico de piedra.
+Cuidaos...
+Te he estado esperando.... Tengo un mensaje\ndel tercer maestro de artes.
+¿Ha pasado algo?
+El tercer maestro es muy mayor,<PAGE>\ny nos dijo que se instalaría con sus\nfamiliares en una ciudad costera.
+Una ciudad costera...
+¿Baticul?
+Gran Chokmah es una ciudad en el mar.
+Sí.<PAGE>\nHay otras ciudades cerca del mar,\npero la ciudad costera debe de\nser una de esas dos.
+¡Ohh! Has hecho bien en encontrarme.<PAGE>\nDisculpame por haber dejado mi puesto.\nDeja que te pase el arte arcano\nahora mismo.
+¿Por qué pasas tus artes\narcanas de una forma tan\nlarga y engorrosa?
+Sí. Tu usas técnicas del estilo\nalbertesco, ¿verdad?<PAGE>\nPodrías aprender el arte arcano de\nlos textos que dejó el maestro Van...
+Nuestro estilo no es de la rama\nprincipal del estilo albertesco.
+La técnica de espada que yo uso\nes del estilo sigmundesco, que\nsalió el estilo albertesco.
+Sigmund aprendió a usar la\nespada con Fleil Albert.<PAGE>\nPara proteger a Yulia y a Albert y ser\nsu guardia avanzada, mejoró lo que\naprendió y creó el estilo sigmundesco.<PAGE>\nTemiendo que, si se conocía bien, se\nharía pública la debilidad del\nestilo albertesco,<PAGE>\ndecretó que las técnicas deberían\ntransmitirse de forma oral.
+Además, los únicos que usan el estilo\nsigmundesco son los miembros de la Casa\nGardios y los que están unidos a ella.<PAGE>\nNo sabíamos qué haría la realeza de\nKimlasca o el duque Fabre si nuestra\nexistencia se descubriera.
+No le diré nada a Padre....
+¡Yo tampoco!
+Gracias...
+Bueno, ¿has aprendido el arte?
+Yo soy el tercer maestro.\nTendrá que ver a dos más.
+No veas si lleva tiempo esto...
+¿Dónde puedo encontrar al cuarto?
+Debería estar frente a una\nmáquina que gira.
+Una máquina que gira, ¿eh? \nVale. A ver si lo encuentro.
+¿Eres tú el cuarto maestro del\nestilo sigmundesco?
+Te he estado esperando. \nTe enseñaré nuestro arte\narcano ahora mismo.
+Quizá por tu amplia\nexperiencia en combate\nreal, aprendes deprisa.
+¿De verdad? \nEspero que tengas razón.
+El quinto maestro está en una\nhabitación pequeña y fría.
+Una habitación pequeña y fría, eh...
+Rezaré para que puedas\naprender la siguiente técnica.
+Perdona, ¿eres el quinto maestro?
+Lo soy. \n¿Puedo ver el censo?...
+Magnífico. Ahora, deja que\nte enseñe lo que sé.
+Guy aprende un arte arcano.
+¡Lo has conseguido, Guy!
+¡Te a costado lo tuyo, pero has\naprendido tu arte arcano!
+Sí. Parece que he podido aprender\ntodas mis artes arcanos.<PAGE>\nGracias por ayudarme, chicos.<PAGE>\nTrabajaré duro para seros\nútil con mis artes nuevas.
+Pero aún hay espacios\nen blanco en el censo.
+Oh. ¿Significa eso que\naún quedan maestros?
+Exacto.\nEl sexto lo podéis encontrar a\nla sombra de un antiguo árbol. \nDomina el arte arcano final, Guy.
+Lo haré.
+Sí. Espero ayudar con\nestos movimientos nuevos.
+¡Señor Gailardia!
+¿Quién eres tú?...
+Me llamo Jin. \nSirvo a Peregynt.<PAGE>\nCuidé de ti cuando\neras joven.
+¡Oh! ¡Jin! \n¡Eres tú!
+Sí. La caída de las Tierras fue\nuna experiencia terrible,<PAGE>\npero tú y tus compañeros nos salvasteis.
+¿Quién es éste, Guy?...
+Él y Pere me cuidaron después\nde que huyera de Hod.
+Por cierto, señor Gailardia, oí que\nestás visitando a los maestros\nde las artes arcanas...
+Sí. Han pasado muchas cosas y tuve\nque dejar eso de lado, pero ya he\nhablado con los cinco primeros.
+Entonces ha llegado el momento\nde que te pase la sexta enseñanza.
+¡¿Tú eres el sexto, Jin?!
+Te la enseñaré ahora mismo.
+Veo que has entrenado bien.
+Gracias, Jin.
+Por favor, sigue mejorando\ntus habilidades.<PAGE>\nPuedes encontrar al séptimo\nmaestro en el muelle de\nla ciudad de agua.
+Entendido.
+El señor Gailardia, imagino.\nTe he estado esperando.
+¿Q-Quién eres tú?...
+Soy la séptima maestra.
+¡¿Eres una mujer?! \nYo... eh...
+Guy, venga, ya lo has\nsuperado un poco, ¿no?
+Bueno, sí, pero...
+Te enseraré el arte arcano\ninmediatamente...
+V-Vale...\nVolveré cuando haya entrenado más.
+¿Qué haremos contigo?...
+Lo siento.
+¿...? \nEstá bien.
+V-vale.... \nPuedo hacerlo.
+¡Ánimo, Guy! ¡Imagina que sólo\nes un rescate marítimo!
+Pero en tierra.
+Parecías extremamente tenso, pero tu\ndestreza con la espada es espléndida.
+Ja... ja ja...
+El octavo maestro está\nen el lugar más cercano.
+¿El lugar más cercano?
+Cuídate.\nAdiós
+He estado esperándote.\n¿Estás listo?
+Saludos, maestro Gailardia...\n¿Has completado el censo?
+Sí, todo excepto el último.
+Ya veo...\nEntonces es hora de que yo,\nPeregynt, acabe el trabajo.
+¿Pere? \n¡¿No me digas que tú eres\nel octavo maestro?!
+En efecto, lo soy.
+Entonces...
+Sí. Te enseñaré el\narte arcano final. \n¡Empecemos!
+Guy aprende un arte arcano.
+Gracias, Pere...
+No hay de qué... No sé cómo\nexpresar lo orgulloso que estoy.<PAGE>\nY pensar que te vería\nalcanzar tal maestría...
+Guau, Guy...
+Contaremos contigo aún más.
+Gracias.
+Si pules tu técnica y te sientes\nseguro, ve a ver a Gee.<PAGE>\nSi Gee reconoce tu\ndestreza con la espada,<PAGE>\nse te reconocerá oficialmente como\nmaestro del estilo sigmundesco.
+Está bien. Puliré mis habilidades\ne iré a visitarlo algún día.
+¡¿Monstruos?!
+¡Un viajero está en peligro!
+¡Tch!
+¡Gra-gracias! Cuando me\natacaron ahí fuera, pensé\nque era el fin...
+¡Es peligroso para los principiantes\nsalir de los pueblos sin un guarda!
+Sí. Confiaba en mis habilidades,\npero parece que he subestimado\nel desierto...
+Señor Gailardia, has conseguido\nuna habilidad extraordinaria.
+Gee...
+Permíteme que escolte a este\nhombre hasta Chesedonia.<PAGE>\nY, señor Gailardia, tu destreza\nes digna de ser reconocida.<PAGE>\nDe ahora en adelante, puedes llamarte\nmaestro de la rama sigmundesca del\nestilo albertesco de Hod.
+Gracias, Gee...
+Por favor, continúa con tu\nentrenamiento. Y ahora,\nviajero, permíteme escoltarte.

@@ -7,13 +7,15 @@ import com.soywiz.korio.async.EventLoop
 import com.soywiz.korio.vfs.ResourcesVfs
 import com.soywiz.korui.Application
 import com.soywiz.korui.frame
-import com.soywiz.korui.geom.len.*
+import com.soywiz.korui.geom.len.cm
+import com.soywiz.korui.geom.len.percent
+import com.soywiz.korui.geom.len.pt
+import com.soywiz.korui.geom.len.vh
 import com.soywiz.korui.style.height
 import com.soywiz.korui.style.minWidth
 import com.soywiz.korui.style.padding
 import com.soywiz.korui.style.width
 import com.soywiz.korui.ui.*
-import com.talestra.rhcommon.imaging.format.ICO
 
 object TodPatcher {
 	@JvmStatic fun main(args: Array<String>) = EventLoop.main {

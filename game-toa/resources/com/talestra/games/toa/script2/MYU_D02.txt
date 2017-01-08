@@ -1,0 +1,651 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Esto es Engeve.<PAGE>\n<SPEECH*>Si vais a Kimlasca, deberíais\ndirigiros al puesto de control\nde Kaitzur, hacia el sur.<PAGE>\n<SPEECH*>Cuidaos.
+<SPEECH*>Esto debe de ser Engeve.
+<SPEECH*>Eh, ¿estáis viajando a pie?
+<SPEECH*>¿Tienes algún problema con eso?
+<SPEECH*>No, es que con los bandidos,\nlos monstruos y todo eso,\nla mayoría viene en carro.
+<SPEECH*>¿Puedo preguntarte algo?\n¿Cómo llegamos a Kimlasca desde aquí?
+<SPEECH*>He oído que el puente de Rotelro fue\ndestruido, así que deberías ir al puesto\nde control de Kaitzur, al sur.
+<SPEECH*>Gracias.
+<SPEECH*>No hay problema. ¡Adiós!
+<SPEECH*>Un puesto de control... No\npodremos pasar sin pasaportes.\nPuede ser un problema.
+<SPEECH*>No pasará nada. Si digo que soy\nhijo del duque Fabre, nos dejarán\npasar rápidamente.<PAGE>\n<SPEECH*>¡Pero ahora quiero ver\neste lugar! ¡Es la primera vez\nque estoy en una ciudad!
+<SPEECH*>¿Una ciudad? Bueno, supongo que nos \ntenemos que preparar antes de partir.\nPasemos la noche aquí.
+Espera, vamos a pasar la noche aquí.
+Planeamos pasar la noche aquí.
+<SPEECH*>Guau, estas manzanas tienen buena pinta.
+<SPEECH*>¡Señor! \n¡Tiene que pagar!
+<SPEECH*>¿Por qué tengo que pagar?
+<SPEECH*>¡No puedes llevarte cosas\nde una tienda sin pagar!
+<SPEECH*>Pero estas cosas las\npaga la mansión.<PAGE>\n<SPEECH*>Oh, espera, esto es Malkuth.
+<SPEECH*>En Malkuth O en Kimlasca, la manera\nnormal de comprar es pagando dinero por\nlo que compras en el momento.
+<SPEECH*>¡Yo no llevo dinero!
+<SPEECH*>Tienes el que dejaron\ncaer los monstruos.
+<SPEECH*>Oh, sí.\nNo es oro, así que se me había olvidado.
+<SPEECH*>¡Hey!\n¡Si no vas a pagarme,\nharé que te arresten!
+<SPEECH*>¡Nadie ha dicho nada de no pagar!
+<SPEECH*>Bueno, eh, ¿cómo va esto?
+<SPEECH*>Está bien, te explicaré cómo funcionan las tiendas...
+<SPEECH*>(No puedo creer que no sepa\ncomprar en una tienda. \n¿Todos los aristócratas son así?)
+¿Qué pasa?
+No podremos entrar en la posada así.
+Oh, bueno. Echemos un vistazo por ahí\nhasta que las cosas se calmen.
+Alguien ha robado comida otra vez.\n¿Quién demonios será el responsable?
+Nadie de este pueblo robaría\ncultivos ni ganado ajeno.
+<SPEECH*>Nada... Han robado absolutamente\ntoda la comida del almacén.
+<SPEECH*>Esto ha pasado una y otra vez\ndesde aquel incendio en el norte.<PAGE>\n<SPEECH*>¿Creéis que algunos desertores\nque se escondían allí están viniendo\na buscar comida?
+<SPEECH*>O también puede ser obra de\nlos Alas Oscuras.
+<SPEECH*>Sólo es comida. \n¿Creéis que esos Alas Oscuras\nse molestarían en robar eso?
+<SPEECH*>¡¿Qué quieres decir con "sólo comida"?!\n¡En este pueblo, la comida es lo\nmás preciado que hay!
+<SPEECH*>Oh, venga.\nSi alguien la ha robado... comprad más.
+<SPEECH*>¡¿Qué?! \n¡¡Nos dejamos la espalda todo\nel año cuidando de estos campos!!
+<SPEECH*>Hey, acabo de oír que también han\nrobado comida en la tienda de Kelly.
+<SPEECH*>¡Fuiste tú! \n¡Así que no sólo me robaste a mí, sino\nque lo has hecho por todas partes, ¿eh?!
+<SPEECH*>¿Qué?...\n¡¿Tú has robado lo que había en mi almacén?!
+<SPEECH*>Dicen que los criminales siempre\nvuelven a la escena del crimen.
+<SPEECH*>¡¿Me estáis llamando ladrón?!
+<SPEECH*>¡Intentaste robarme una manzana!
+<SPEECH*>¡Basta, te llevaré ante las autoridades!
+<SPEECH*>(Quizá si dejo que le\narresten le venga bien...)
+<SPEECH*>¡Rose, tenemos problemas!
+<SPEECH*>¡Shh! \nTenemos a un invitado\nimportante del ejército.\n¡Calmaos!
+<SPEECH*>¡¿Cómo nos vamos a calmar?! \n¡Le tenemos!\n¡Tenemos al tipo que robaba comida!
+<SPEECH*>¡Te digo que no fui yo!
+<SPEECH*>¡Rose!\n¡Puede que esté con los Alas Oscuras!
+<SPEECH*>¡Tiene que ser el responsable de\ntoda la comida que falta últimamente!
+<SPEECH*>¡Os estoy diciendo que no soy \nvuestro maldito ladrón!<PAGE>\n<SPEECH*>¡¿Tengo pinta de pasar hambre?!
+<SPEECH*>Vaya, vaya, que chico tan animado.\nVamos a calmarnos primero, ¿de acuerdo?
+<SPEECH*>Sí, por favor.
+<SPEECH*>Coronel...
+<SPEECH*>¿Quién demonios eres?
+<SPEECH*>Soy el coronel Jade Curtiss, Tercera\nDivisión de las Fuerzas Imperiales de Malkuth.\n¿Y tú eres...?
+<SPEECH*>Luke. Luke fon...
+<SPEECH*>¡¡Luke!!
+<SPEECH*>¿Qué problema tienes?
+<SPEECH*>¿Lo has olvidado? \nEsto es territorio enemigo.<PAGE>\n<SPEECH*>Tu padre, el duque Fabre, es uno\nde los mayores enemigos de Malkuth. \nNo uses tu nombre tan a la ligera.
+<SPEECH*>Oh, ¿en serio?
+<SPEECH*>Sí. Hay mucha gente\ncuyos familiares han sido\nasesinados por tu padre.<PAGE>\n<SPEECH*>No quieres problemas\ninnecesarios, ¿verdad?
+<SPEECH*>¿Algún problema?
+<SPEECH*>Lo siento, Coronel.\nÉl es Luke. Yo soy Tear.<PAGE>\n<SPEECH*>Nos dirigíamos a Chesedonia, \npero subimos al carro equivocado\ny acabamos aquí.
+<SPEECH*>¿Oh? ¿Así que vas con este\nhombre sospechoso de estar\ncon los Alas Oscuras?
+<SPEECH*>No estamos con los Alas Oscuras.<PAGE>\n<SPEECH*>El ejército de Malkuth obligó a los\nAlas Oscuras reales a escapar al otro\nlado del puente de Rotelro.
+<SPEECH*>Ah... Ya veo.\nAsí que ibais en el carro de antes.
+<SPEECH*>¿De qué va todo esto, Coronel?
+<SPEECH*>Como ha dicho Tear, unos bandidos\nsospechosos de ser los Alas Oscuras\nescaparon hacia Kimlasca.<PAGE>\n<SPEECH*>Os puedo asegurar que\nestos dos no van con ellos.
+<SPEECH*>Además, no parecen ser\nmeros ladrones de comida.
+<SPEECH*>Maestro fónico Ion...
+<SPEECH*>Tenía curiosidad e investigué\nel almacén de comida.<PAGE>\n<SPEECH*>Encontré esto en un rincón.
+<SPEECH*>Es pelo de un cheagle sagrado.
+<SPEECH*>Sí. Seguramente lo que asaltó\nvuestros almacenes fue un cheagle.
+<SPEECH*>¡Ves! \n¡Os dije que no era un ladrón!
+<SPEECH*>Pero te comiste una manzana antes de pagar.<PAGE>\n<SPEECH*>Tienes que aprender a no hacer cosas\nque te hagan parecer sospechoso.
+<SPEECH*>¿Y cómo iba a saberlo?\nNo sabía que tenía que pagar.
+<SPEECH*>Bueno, parece que ya está solucionado. \n¿No tenéis que decirle algo a\neste chico y a su amiga?
+<SPEECH*>Lo siento...\nÚltimamente, con todos los robos,\nestoy un poco de los nervios.
+<SPEECH*>Siento haberte acusado.
+<SPEECH*>Siento haber empeorado la situación.
+<SPEECH*>¿Crees que puedes perdonarles, chaval?
+<SPEECH*>No soy un chaval.
+<SPEECH*>Disculpa. \nLuke, ¿lo pasado, pasado está?
+<SPEECH*>Bah, lo que sea...
+<SPEECH*>Me alegra oírlo.\nAhora, tengo asuntos que tratar con el coronel.<PAGE>\n<SPEECH*>Pensaré la manera de detener a los cheagles, \nasí que los demás marchad a casa.
+<SPEECH*>¿Qué hace el maestro fónico Ion aquí?
+<SPEECH*>¿Maestro fónico Ion?
+<SPEECH*>El líder supremo de\nla Orden de Lorelei.
+<SPEECH*>Hey, un momento. \nMe dijeron que Ion había desaparecido.<PAGE>\n<SPEECH*>¡El maestro Van dijo que volvía\na su casa para buscarlo!
+<SPEECH*>¿En serio? Eso es nuevo.\nMe pregunto qué estará pasando...\nNo parecía que estuviera\ncautivo a la fuerza.
+<SPEECH*>Voy a preguntarle.
+<SPEECH*>Espera. Parecía que estaban en\nmedio de una discusión importante. \nYa volveremos mañana.
+<SPEECH*>Humf. \n¿Por qué tengo que seguir tus órdenes?
+Espera, vamos a pasar la noche aquí.
+Planeamos pasar la noche aquí.
+<SPEECH*>¡¿Has visto a la persona que iba conmigo?! \nUn chico, bajito... Un poco extraño.
+<SPEECH*>Lo siento, estuve un\nrato fuera de la posada...
+<SPEECH*>¡Hay que ver este Ion!\n¿Adónde se habrá escapado tan deprisa?
+<SPEECH*>¿Ion? \n¿Hablas del maestro fónico Ion?
+<SPEECH*>Si estás buscando a Ion,\nestaba en casa de Rose.
+<SPEECH*>¡¿De verdad?!\n¡Gracias! ~
+<SPEECH*>Hey, espera un segundo.\n¿Qué hace el Maestro Fónico aquí?\nCreia que había desaparecido.
+<SPEECH*>¡Ack!\n¡¿Hay rumores así pululando por ahí?!\n¡Tengo que decírselo a Ion!
+<SPEECH*>¡Hey! \nHumf...\nNo me ha contestado la pregunta.
+<SPEECH*>Bueno, pero parece una guardiana del maestro\nfónico, así que supongo que el viaje de Ion está\nreconocido oficialmente por la Orden de Lorelei.
+<SPEECH*>¿Una guardiana del maestro fónico ?
+<SPEECH*>Son la guardia personal de Ion, una fuerza\nespecial dentro de los Caballeros del Oráculo.\nLe acompañan en sus asuntos oficiales
+<SPEECH*>Esa chavala es uno de los soldados\ndel maestro Van, ¿eh?... <PAGE>\n<SPEECH*>¿Y qué pasa con lo de que Ion estaba\n"desaparecido"? ¡Me cabrearé mucho si\nfue sólo un error!
+<SPEECH*>Siento lo de antes.<PAGE>\n<SPEECH*>Os podéis quedar esta noche gratis.\nEs lo menos que puedo hacer.
+<SPEECH*>Mañana nos dirigiremos al puesto\nde control de Kaitzur.<PAGE>\n<SPEECH*>Con el puente destruido, es el único camino\nde vuelta a Baticul. Además tenemos que\nhacer algo con los pasaportes...
+<SPEECH*>Grr, no puedo aguantarlo.\n¡No puedo irme así, sin más!
+<SPEECH*>Increíble. \n¿Aún estás enfadado?
+<SPEECH*>¡Claro!\n¡Me llamaron ladrón!
+<SPEECH*>Hey, ¿sabes lo que son los cheagles?\nDicen que son "sagrados".
+<SPEECH*>Son herbívoros que viven en los bosques\nal este de las llanuras de Rúgnica.<PAGE>\n<SPEECH*>Son uno de los símbolos de la\nOrden de Lorelei junto con su\nfundadora, Yulia.<PAGE>\n<SPEECH*>De hecho, su bosque está justo\nal norte de este pueblo.
+<SPEECH*>Pues mañana vamos.
+<SPEECH*>¿Para qué?
+<SPEECH*>Para buscar una prueba de que ellos son los ladrones.
+<SPEECH*>Dudo que encontremos alguna.
+<SPEECH*>¡Cállate! \n¡Me he decidido!
+¿El maestro fónico Ion? \nAhora que lo dices, no le\nhe visto esta mañana.<PAGE>\nPero dijo que había algo importante\nque tenía que recibir aquí, así que\nsupongo que acabará volviendo.
+La ruta por tierra hacia la capital, Gran\nChokmah, está cerrada. Si no tienes un\npase, debes irte.
+El bosque con los cheagles está al norte.
+El Bosque de los Cheagles está al norte de aquí.
+<SPEECH*>¡Mira, es el crío ése, Ion!
+<SPEECH*>¡Tiene problemas!
+<SPEECH*>Hey, ¿estás bien?
+<SPEECH*>E-Estoy bien. Acabo de usar un arte\nfónico daáthico demasiado fuerte...
+<SPEECH*>Oh, sois los dos de ayer de Engeve.
+<SPEECH*>Soy Luke.
+<SPEECH*>Luke... Eso significa "luz de la llama\nsagrada" en ispaniense antiguo.\nEs un nombre bonito.
+<SPEECH*>Soy la sargento locrio Tear Grants,<PAGE>\n<SPEECH*>primer pelotón de la División de Inteligencia de los Caballeros\ndel Oráculo, bajo las órdenes del gran maestro Mohs.
+<SPEECH*>Ah, eres la hermana pequeña de Van.\nHe oído hablar de ti.\nEs la primera vez que nos vemos, ¿verdad?
+<SPEECH*>¡¿Eres la hermana del maestro Van?! \n¡¿Entonces por qué intentaste matarle?!
+<SPEECH*>¿Matarle?...
+<SPEECH*>Lo siento, no es nada.\nEs algo entre él y yo.\n
+<SPEECH*>¡No intentes eludir la pregunta!\nSi eres su hermana, ¿por qué\nintentas matarle?
+<SPEECH*>Es que... yo...
+<SPEECH*>¡Es un cheagle!
+<SPEECH*>¡Así que sí viven aquí!\n¡Venga, vamos a pillar a esa cosa!
+<SPEECH*>¿Haría bien en no preguntar\nde nuevo sobre Van y tú?
+<SPEECH*>Lo siento. Es algo relacionado con mi hogar. \nPreferiría no involucraros ni a ti, ni a Luke.
+<SPEECH*>¡Hey! \n¡Se va a escapar!
+<SPEECH*>¡Vamos!
+<SPEECH*>¿Qué? \n¡Oh, sí!
+<SPEECH*>¡Grrr! ¡¿Lo veis?! \n¡Se ha escapado! \n¡No podríais ser más lentos!
+<SPEECH*>No te preocupes. Su madriguera\ndebe estar más adelante.
+<SPEECH*>¿Cómo lo sabes?
+<SPEECH*>Oh, um... Bueno, tenía\ncuriosidad por los robos en Engeve\ne investigué un poco.<PAGE>\n<SPEECH*>Los cheagles son criaturas\ninteligentes y pacíficas.\nNo es propio de ellos robar comida.
+<SPEECH*>Humf... Bueno, pues entonces parece \nque los tres vamos al mismo sitio.
+<SPEECH*>¿Vosotros dos también habéis venido\na investigar a los cheagles?
+<SPEECH*>No voy a dejar que la gente me\nacuse de cosas que no he hecho. Y tú\nvienes con nosotros.
+<SPEECH*>¿De verdad?\n¿No os importa?
+<SPEECH*>¡¿Cómo puedes pensar en llevar al maestro\nfónico Ion a un sitio tan peligroso?!
+<SPEECH*>¿Entonces qué quieres que\nhagamos con él? Acabará\nviniendo aquí él solo.
+<SPEECH*>Lo siento, pero tengo que saber qué pasa. \nDespués de todo, los cheagles son las\nbestias sagradas de nuestra orden.
+<SPEECH*>¿Lo ves? Además tampoco podemos abandonar\na un tío con la cara así de pálida, que parece \nque se va a morir en cualquier momento.
+<SPEECH*>¡Oh! ¡Muchas gracias!\n¡Eres una persona muy amable, Luke!
+<SPEECH*>¡N-No, no lo soy!\n¡Deja ya de decir\ntonterías y vamos!
+<SPEECH*>¡Vale!
+<SPEECH*>Y no uses más ese arte raro.\nHa faltado un pelo para que te desmayaras.\nNosotros nos encargaremos de las luchas.
+<SPEECH*>¿Me vais a proteger?\n¡Señor Luke, estoy conmovido!
+<SPEECH*>¡E-Eso no es lo que quería decir! \n¡Tú sólo molestarías! \nNo te emociones demasiado.<PAGE>\n<SPEECH*>Y es sólo "Luke," ¿entendido?\n¡Venga, nos vamos!
+<SPEECH*>¡Vale, Luke!
+<SPEECH*>¡Mieu, mieu mieu mieu, mieu!
+<SPEECH*>¿Así que esto es un cheagle?
+<SPEECH*>Parece que aún es una cría.
+<SPEECH*>(Es tan mono...)
+<SPEECH*>¡Hey! \n¡Se ha escapado!
+<SPEECH*>Después de todo, es un animal salvaje.
+<SPEECH*>Esto debe de ser la madriguera de los cheagles.
+<SPEECH*>Espero que podamos encontrar alguna\nprueba de que robaron comida del pueblo.
+<SPEECH*>Estas cosas estúpidas probablemente\nhayan dejado pruebas por todas partes.
+<SPEECH*>Exploremos un poco.
+¡Hey, aún no hemos encontrado ninguna prueba!
+Tenemos que buscar alguna prueba.
+Um, se supone que tenemos que buscar pruebas.
+Quizá hayan ido dejando pruebas.\nVamos a buscar.
+<SPEECH*>Estas manzanas llevan la marca de Engeve.
+<SPEECH*>¡Así que estas cosas lo hicieron!
+<SPEECH*>Creo que oigo algo dentro de este árbol.
+<SPEECH*>Los cheagles viven dentro de los troncos de los árboles.
+<SPEECH*>¡Maestro Fónico! \n¡Es demasiado peligroso!
+<SPEECH*>Este niño no tiene remedio...
+<SPEECH*>Por favor, dejadme pasar.
+<SPEECH*>¡Mieu mieu, mieu mieu mieu!
+<SPEECH*>Como si estos monstruos fueran a entenderte...
+<SPEECH*>La fundadora de la Orden, Yulia Jue,\nhizo un pacto con los cheagles y se ganó\nsu ayuda... o al menos eso me enseñaron.
+<SPEECH*>Mieu mieu. Mieu, mieu...
+<SPEECH*>¿Tienes relación con Yulia Jue?
+<SPEECH*>¡Guau, ese monstruo ha hablado!
+<SPEECH*>Es el poder del anillo que se nos ofreció\ncomo parte de nuestro pacto con Yulia.
+<SPEECH*>¿Tienes relación con Yulia?
+<SPEECH*>Sí. Soy Ion, Maestro Fónico\nde la Orden de Lorelei.
+<SPEECH*>¿Hago bien en asumir que tú\neres el patriarca cheagle?
+<SPEECH*>Por supuesto, lo soy.
+<SPEECH*>Hey, monstruo.\nVosotros habéis robado\nen Engeve, ¿verdad?
+<SPEECH*>Ya veo. Así que habéis\nvenido a exterminarnos.
+<SPEECH*>Humf. Así que no lo niegas.
+<SPEECH*>Los cheagles son herbívoros.\n¿Por qué tenéis que\nrobar comida humana?
+<SPEECH*>Para preservar la tribu cheagle.
+<SPEECH*>No parece que os falte comida.\nHay mucha vegetación en este bosque.
+<SPEECH*>Uno de nuestros miembros causó\nun incendio en la región del norte.
+<SPEECH*>Como resultado, los ligres que vivían \nallí se han trasladado a este bosque...
+<SPEECH*>...para cazarnos.
+<SPEECH*>Entonces, la razón por la que robasteis\nla comida fue para que no os comieran.
+<SPEECH*>Correcto. Si no les mandamos\ncomida periódicamente, nos\ncapturan y nos comen.
+<SPEECH*>Es horrible...
+<SPEECH*>Y definitivamente no es problema nuestro.\nSi eres débil, eres comida.\nAsí es como funciona.
+<SPEECH*>Además, yo también me enfadaría\nsi hubierais quemado mi tierra.
+<SPEECH*>Puede que sea cierto, pero esto no\nes una cadena alimenticia normal.
+<SPEECH*>Luke, hemos confirmado que los\nladrones son los cheagles.\n¿Qué quieres hacer ahora?
+<SPEECH*>¿Qué otra cosa? Vamos a arrastrar a\nestos bichos hasta Engeve y...
+<SPEECH*>Pero si hacemos eso, los ligres\nseguramente atacarán Engeve en\nbusca de comida.
+<SPEECH*>No me importa lo que le ocurra\na esa estúpida aldea.
+<SPEECH*>Eso no es aceptable.<PAGE>\n<SPEECH*>La comida de Engeve se envía a \ntodo el mundo... no sólo\nal Imperio de Malkuth.
+<SPEECH*>¿Entonces qué hacemos?
+<SPEECH*>Vamos a negociar con los ligres.
+<SPEECH*>¿Con monstruos?
+<SPEECH*>¿También pueden hablar esos ligres?
+<SPEECH*>No podemos hablar con ellos directamente,\npero si nos llevamos uno de los\ncheagles como intérprete...
+<SPEECH*>Entonces, le dejaré este Anillo\ndel Hechicero a aquél que vaya\na ser vuestro intérprete...
+<SPEECH*>Mieu, mieu mieu mieu mieuuu.
+<SPEECH*>¿Qué demonios...?
+<SPEECH*>Este pequeño es el que causó\nel incendio en el norte.\nQuiero que os lo llevéis con vosotros.
+<SPEECH*>Mi nombre es Mieu.\nEncantado de conoceros.
+<SPEECH*>Hay algo en esta cosa que\nme resulta muy molesto...
+<SPEECH*>¡Lo siento!\n¡Lo siento!
+<SPEECH*>¡Argh! \n¡Vas a volverme loco!\n¡Debería asarte y comerte\nahora mismo!
+<SPEECH*>Ésa debe ser la reina.
+<SPEECH*>¿La reina?
+<SPEECH*>Los ligres viven en manadas alrededor de una hembra gigante.
+<SPEECH*>Mieu, por favor, habla con la reina ligre.
+<SPEECH*>¡Sí, señor!
+<SPEECH*>Mieu, mieu mieu mieu mieu mieu. Mieuuu mieu...
+<SPEECH*>¿Estás bien?
+<SPEECH*>Hey, renacuajo, ¿qué ha dicho?
+<SPEECH*> Ha dicho que sus huevos están a punto\nde eclosionar, que nos vayamos.
+<SPEECH*>Su Alteza está muy enfadada porque\nquemé su hogar sin querer.
+<SPEECH*>¡¿Huevos?!\n¡¿Los ligres ponen huevos?!
+<SPEECH*>Yo también nací de un huevo.\nMuchos monstruos nacen de huevos.
+<SPEECH*>Esto va mal. Los ligres son más violentos\ncuando están defendiendo sus huevos.
+<SPEECH*>¿Entonces qué? ¿Volvemos más tarde?
+<SPEECH*>Pero si los huevos de ligre eclosionan,\nlas crías irán en tropel a la ciudad\nen busca de comida.
+<SPEECH*>¿Eh?
+<SPEECH*>A las crías de ligre les gusta la carne\nhumana, así que la gente los caza antes de que \nse reproduzcan cuando se acercan a las ciudades.
+<SPEECH*>¿Puedes pedirles que se vayan de aquí?
+<SPEECH*>S-Sí, señor.
+<SPEECH*>Mieu, mieuu, mieu mieu...
+<SPEECH*>¡Gra-gracias!
+<SPEECH*>No me malinterpretes.\nNo te estaba protegiendo a ti.\n¡Estaba protegiendo a Ion!
+<SPEECH*>Dice que nos va a matar y que nos\nusará para alimentar a sus hijos.
+<SPEECH*>Aquí viene... Por favor,\nMaestro Fónico, ponte detrás con Mieu.
+<SPEECH*>E-Espera... Si luchamos aquí, \npuede que los huevos se rompan.
+<SPEECH*>Puede que sea cruel, pero\nprobablemente eso sea lo mejor.<PAGE>\n<SPEECH*>Si dejamos que los huevos eclosionen,\nlas crías podrían arrasar todo\nEngeve con facilidad.
+<SPEECH*>¡Cuidado!\n¡La reina!
+<SPEECH*>¡Joder!
+<SPEECH*>¡Anise! \n¿Puedo hablar contigo un momento?
+<SPEECH*>¡Sí, Coronel! @ \n¿Me has llamado?
+<SPEECH*>Vale... Entendido. ¡A cambio,\ntienes que vigilar bien a Ion!
+<SPEECH*>Esto me ha dejado mal sabor de boca.
+<SPEECH*>Eres bastante amable.\nO quizá sólo blando...
+<SPEECH*>¡Y tú eres fría!...
+<SPEECH*>Oh, vaya. ¿Pelea de novios?
+<SPEECH*>¡Cállate!
+<SPEECH*>Coronel Curtiss...\nNo mantenemos ese tipo de relación.
+<SPEECH*>Sólo bromeo. Y, por favor, llamadme Jade.<PAGE>\n<SPEECH*>No estoy acostumbrado a que\nse dirijan a mí por el apellido.
+<SPEECH*>Jade, siento haber escapado\ny haber hecho esto.
+<SPEECH*>No es propio de ti\nhacer algo así cuando\nsabes que está mal.
+<SPEECH*>Junto con Yulia, los cheagles son\nlos cimientos de la Orden de Lorelei.<PAGE>\n<SPEECH*>Creí que debía responsabilizarme\npor todos los problemas que causaron...
+<SPEECH*>¿Y por eso usaste tu poder?\n¿No te dijo el doctor que no lo hicieras?
+<SPEECH*>Lo siento....
+<SPEECH*>Y también has mezclado civiles en esto.
+<SPEECH*>Hey, viejo, se está disculpando, ¿no? \nDéjale tranquilo.
+<SPEECH*>Oh. Esperaba que te quejaras por\nhaberte metido en esto. Estoy sorprendido.
+<SPEECH*>(Y yo...)
+<SPEECH*>Bueno, no tenemos mucho tiempo.\nAcabaré el sermón aquí.
+<SPEECH*>La carta llegó, ¿no?
+<SPEECH*>Sí. Ahora sigamos y\nsalgamos de este bosque.
+<SPEECH*>No. Tenemos que informar al Patriarca.
+<SPEECH*>¿Un cheagle hablando una lengua humana?
+<SPEECH*>Es el poder del Anillo del Hechicero.
+<SPEECH*>Jade, ¿podríamos pasar por\nel hogar de los cheagles?
+<SPEECH*>Está bien. Pero, por favor, no\nolvides que no tenemos mucho tiempo.
+<SPEECH*>Luke, gracias por tu ayuda. \nPor favor, sigue conmigo sólo un poco más.
+<SPEECH*>Bueno, he llegado hasta aquí. \nYa me da igual.
+<SPEECH*>Mieu, mieu mieu mieu, mieu.
+<SPEECH*>Mieuu, mieu mieu mieu...
+<SPEECH*>Es bastante divertido ver\nmonstruos hablando así.
+<SPEECH*>¡Son tan monos! @
+<SPEECH*>¿Eh? ¿Dices algo?
+<SPEECH*>N-No.
+<SPEECH*>Mieu me ha contado lo que ha pasado.\nOs enfrentasteis a un gran peligro por nosotros.<PAGE>\n<SPEECH*>Os agradecemos que hayáis\ncumplido vuestra promesa incluso\ndespués de 2000 años.
+<SPEECH*>Por supuesto. Ayudar a los cheagles \nes parte de las enseñanzas de Yulia.
+<SPEECH*>Pero quien provocó esto\nfue Mieu cuando quemó\nel hogar de los ligres.<PAGE>\n<SPEECH*>Así que tendré que\ncastigar a Mieu por su error.
+<SPEECH*>¿Y qué le vas a hacer?
+<SPEECH*>Voy a expulsarle de nuestra tribu.
+<SPEECH*>Eso es demasiado cruel.
+<SPEECH*>Evidentemente, no es para siempre.\nOí que el señor Luke salvó la vida de Mieu.<PAGE>\n<SPEECH*>Los cheagles no olvidan sus deudas. \nMieu servirá al señor Luke durante\nun ciclo de estaciones.
+<SPEECH*>Hey, no me metas en esto.
+<SPEECH*>Mieu insiste en acompañarte, \nseñor Luke. Dejaré que seas tú\nquien decida qué hacer con él.
+<SPEECH*>¿Por qué no  nos lo llevamos?
+<SPEECH*>¡No necesito una mascota!
+<SPEECH*>Los cheagles son las bestias sagradas\nde la Orden de Lorelei. Seguro que\nserá bien recibido en tu familia.
+<SPEECH*>Mmm, supongo que podría dárselo\na Guy y a los otros como recuerdo...
+<SPEECH*>¡Haré lo que pueda para ser útil, Amo!
+<SPEECH*>Eres tan molesto...
+<SPEECH*>Bueno, parece que ya ha informado.\nSalgamos del bosque.
+<SPEECH*>Humf. ¿Ahora mandas tú?
+<SPEECH*>Hey, ¿ésa no es tu guardaespaldas?
+<SPEECH*>Sí, es Anise.
+<SPEECH*>¡Bienvenidos de nuevo! @
+<SPEECH*>Saludos, Anise.\n¿Cuál es el estado del Tartarus?
+<SPEECH*>Está en frente del bosque, como tú\npediste. ¡Dijiste que me diera prisa, así\nque he venido tan rápido como he podido! @
+<SPEECH*>¡Hey! \n¿Qué está pasando?
+<SPEECH*>Detened a estos dos.\nSon los que han estado \nemitiendo séptimos fonones.
+<SPEECH*>¡Jade!\nNo les hagas ningún daño...
+<SPEECH*>No te preocupes. No los mataré.\nSuponiendo que no se resistan...
+<SPEECH*>Sed buenos, chicos.\n¡Lleváoslos!
+Paremos y descansemos en Engeve.
+Paremos y descansemos en Engeve.
+Mieu mieu, mieu mieuu.\n¿Mieu mieu mieu mieu?
+Pregunta si estamos cansados, \ny si queremos descansar.
+Descansar\nNo descansar
+Mieuuu mieu mieu mieuu.\nMieu mieu...
+Dice que quiere darle las gracias\npor salvar a los cheagles de la\ncaverna de Ortion.
+¿Va a darnos algo?
+Mieu mieu, mieu mieu.
+"Quiero daros dos de mis\nmás preciados tesoros.\nPor favor, cogedlos".
+Mieu mieu mieu mieu.\nMieu mieuu~
+Acaba de decir que...<PAGE>\neste árbol expulsa un\npolen que mantiene a los\nmonstruos alejados.
+Mieu mieu.<PAGE>\nMieu mieuu.\nMieu mieu mieuu.
+Tiene información secreta.<PAGE>\nDice que en algún lugar en el Bosque de\nlos Cheagles hay una bandera amarilla\nque da felicidad a su portador.
+Mieu mieu mieu.\nMieu mieu, mieu mieuu.
+Dice que podéis llegar hasta\nella si usáis mi fuego.
+Mieu mieu.<PAGE>\nMieu mieu mieuu.\nMieu mieuu.
+Tiene información secreta.<PAGE>\nDice que el título de alguien que se\nsiente atraída por las cosas monas tiene\nel efecto de mejorar mi Ala de Mieu.
+Mieuu...
+Dice que los ligres son\nmonstruos que dan miedo.
+Mieuu~
+Dice que está feliz porque\nlos ligres se han ido.
+Mieu mieu mieu.
+Dice que hay signos de\nun monstruo temible\nen el norte.
+Mieuu...
+Dice que los cheagles\nsólo quieren vivir aquí\ntranquilamente.
+¡Mieu mieu mieuu!
+Dice "¡Es culpa tuya que\nestemos amenazados por\nlos ligres, Mieu!".
+¡Mieu mieu mieu mieu!
+Dice "¡Gracias por\nderrotar a los\nligres!".
+Mieu mieu mieu...
+Dice "Los ligres han\nvuelto a la tierra del\nnorte. Ha terminado..."
+¿Mieu mieu?
+Dice "Parece que todo está tranquilo\nde nuevo, pero me siento inquieto..."
+¡Hay algo que brilla!\n¡Es bonito!
+¿Qué es esta cosa?...\nOh, bueno, supongo que lo cogeré.
+Es...
+¿Un círculo de memoria?...
+Es un círculo de memoria con propiedades \ncurativas. Curará tu cuerpo si te pones sobre él.
+Los círculos de memoria verdes tienen\npropiedades curativas.
+Úsalos para restaurar tu HP y TP.
+Hey, no podemos salir al\ncampo durante esta prueba.
+No quisiéramos perder el tiempo de esta prueba.\nExploremos el bosque un poco más.
+Exploremos este bosque hasta\nque se nos acabe el tiempo.
+No podemos salir durante\nesta prueba.
+¿No deberíamos ir a decirle al Patriarca\ncheagle que nos hemos encargado del monstruo?
+Vamos a informar al\nPatriarca cheagle.
+Vamos a informar de que\neliminamos al monstruo.
+Hey, ¿no estábamos \nbuscando a los cheagles?\n¿Dónde vas?
+Vale, vale.
+Hey, los ligres están en la parte\nmás profunda de este bosque.\n¿Dónde vas?
+Vale, vale.
+Los huevos están rotos.
+<SPEECH*>La guarida de los ligres está ahí delante, ¿verdad?
+<SPEECH*>Sí. Crucemos el\nrío y continuemos.
+<SPEECH*>¿Cómo se supone que cruzaremos\nel río si no hay puente?
+<SPEECH*>Tendremos que vadearlo.
+<SPEECH*>¿Lo dices en serio? \nMis zapatos, mi ropa... \n¡acabarán empapados! \n¡Ni hablar!
+<SPEECH*>Vale. Puedes quedarte aquí.\nAlguien que se preocupa tanto por\nsu ropa no haría más que estorbar.
+<SPEECH*>¡¿Disculpa?!
+<SPEECH*>Eh. Cosa. \nEscupe fuego a esas raíces.
+<SPEECH*>¿Mieu?
+<SPEECH*>Ya me has oído. \n¡Que escupas fuego!
+<SPEECH*>¡Mieu mieu mieuuuuu!
+<SPEECH*>Ja. ¿Qué os parece esto?
+<SPEECH*>Ya veo. \nLas raíces estaban podridas. \nBien pensado, Luke.
+<SPEECH*>Je. Eso no es nada.
+<SPEECH*>Tienes razón. \nEs Mieu quien se merece el agradecimiento.
+<SPEECH*>¡H-Hey!
+<SPEECH*>Has dicho que no es nada para ti. \nY deja de gritar.
+<SPEECH*>Maestro fónico Ion,\n¿seguimos nuestro camino?
+<SPEECH*>Oh, claro. Luke, anímate. \nVenga, sigamos.
+<SPEECH*>Vámonos.
+<SPEECH*>¡Cállate!
+<SPEECH*>Mieuuuuuuuu...
+Dale a la base del árbol con fuego.
+Intenta darle a la base del\nárbol con fuego, como dijo Luke.

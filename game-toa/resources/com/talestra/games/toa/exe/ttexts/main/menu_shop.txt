@@ -1,0 +1,35 @@
+// Leyenda
+005BBE78:'Confirmar'
+005BBE88:'Volver'
+005BBE98:'Comprobar estado'
+005BBEB0:'Información'
+
+005BBEF0:'Comprobar receta'
+
+// Confirmaciones
+005BC0A0:'¿Vender objeto(s)?\nSí\nNo'
+005BC100:'¿Comprar objeto(s)?\nSí\nNo'
+
+// Estado
+005BC218:'Agotado'
+
+// Dinero
+005BC370:'Gald'
+005BC378:'Total'
+
+// Opciones
+005BC3B8:'Comprar'
+005BC3C0:'Vender'
+005BC3C8:'Equipar'
+005BC3D0:'Salir'
+
+// Datos equipo
+005BC470:'ATQ F.'
+005BC478:'DEF F.'
+005BC480:'ATQ M.'
+005BC488:'DEF M.'
+
+005BC498:'SUERTE'
+
+// Informaicón
+005BC4F8:'No se puede equipar'

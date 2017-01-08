@@ -1,0 +1,136 @@
+## POINTER 10 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Gel de manzana
+
+## POINTER 11 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:rinoninha;time:1175536334]
+Hecho a partir de zumo de manzana de Engeve y hierbas 
+medicinales de San Binah. La medicina más popular en 
+Auldrant. Gracias al sabor de manzana se traga con facilidad.
+
+## POINTER 20 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Gel de limón
+
+## POINTER 21 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076326]
+Hecho a partir de zumo de limón de Engeve y hierbas 
+medicinales de San Binah. Más potente que el gel de 
+manzana. Con él los niños ponen a prueba su valentía.
+
+## POINTER 30 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Gel de naranja
+
+## POINTER 31 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076326]
+Hecho con zumo de naranja de Engeve y hierbas medicinales
+de San Binah. Calma el cansancio mental y ayuda a concentrarse.
+Gracias al sabor de naranja se traga con facilidad.
+
+## POINTER 40 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Gel de piña
+
+## POINTER 41 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076326]
+Hecho a partir de zumo de piña de Engeve y hierbas medicinales
+de San Binah. Para adultos, como el gel de limón. Los fonistas 
+de las fuerzas de Malkuth los toman en grandes cantidades.
+
+## POINTER 50 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Gel mixto
+
+## POINTER 51 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:Turyx;time:1176374796]
+Hecho a partir de varios zumos de fruta, este gel
+tiene efectos múltiples. Repone las fuerzas y calma
+el cansancio mental.
+
+## POINTER 60 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Gel milagroso
+
+## POINTER 61 [t:1;r:1;ru:parsec;user:parsec;time:1184786469]
+Un gel milagroso, tal como dice su nombre. Un sólo
+mordisco llenará de fuerza al héroe más demacrado. Su 
+potencia le ha ganado la reputación de gominola "adulta".
+
+## POINTER 70 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:rinoninha;time:1175536334]
+Específico
+
+## POINTER 71 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076326]
+Una medicina con sabor a soda. Todo el
+grupo recupera el 30% de su HP máximo.
+
+## POINTER 80 [t:1;r:1;ru:parsec;user:parsec;time:1184786470]
+Delicia
+
+## POINTER 81 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076326]
+Una medicina con sabor a uva. Todo el
+grupo recupera el 30% de su TP máximo.
+
+## POINTER 90 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Gel especial
+
+## POINTER 91 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076326]
+Una deliciosa gominola hecha de un elixir
+milagroso. Recupera todo el HP y el TP.
+
+## POINTER 100 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Gel lotería
+
+## POINTER 101 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179150225]
+Quizá sea bueno. Quizá no.
+No lo sabrás hasta que lo pruebes.
+
+## POINTER 110 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Pomo antiveneno
+
+## POINTER 111 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Cura el veneno.
+
+## POINTER 120 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Pomo antiparálisis
+
+## POINTER 121 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Cura la parálisis.
+
+## POINTER 130 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Pomo antipetrificación
+
+## POINTER 131 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Cura la petrificación.
+
+## POINTER 140 [t:1;r:1;ru:parsec;user:kaene;time:1198457092]
+Pomo antisellado
+
+## POINTER 141 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Cura las artes selladas.
+
+## POINTER 150 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Pomo antidebilidad
+
+## POINTER 151 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Cura la debilidad.
+
+## POINTER 160 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Pomo antivirus
+
+## POINTER 161 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Cura la enfermedad.
+
+## POINTER 170 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Pomo de vida
+
+## POINTER 171 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Revive con 30% HP y 15% TP a un aliado caído.
+
+## POINTER 180 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Pomo de curación
+
+## POINTER 181 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Cura los estados alterados físicos: veneno, parálisis,
+petrificación, artes selladas, debilidad y enfermedad.
+
+## POINTER 190 [t:1;r:1;ru:parsec;user:kaene;time:1198457093]
+Pomo dinei
+
+## POINTER 191 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:rinoninha;time:1175536334]
+Cura los estados alterados mágicos.
+
+## POINTER 200 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:soywiz;time:1175381500]
+Panacea
+
+## POINTER 201 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:soywiz;time:1175777150]
+Cura estados alterados físicos y mágicos.

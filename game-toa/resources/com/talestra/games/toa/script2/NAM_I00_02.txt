@@ -1,0 +1,297 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Vaya, hola, niños.\nNunca pensé que nos\nveríamos por aquí fuera.
+<SPEECH*>Bueno, nos diste la llave,\n¿verdad?
+<SPEECH*>Oh, vaya.\nNo recuerdo habértela dado a TI.
+<SPEECH*>¿Eso qué importa? Bueno, hay\nalgo que quería pedirte.<PAGE>\n<SPEECH*>¿Sabes algo de la\nisla de Nam Cobandai?
+<SPEECH*>¿Qué quieres saber?
+<SPEECH*>¿Por qué la creaste?
+<SPEECH*>Oh... Mmm, ¿qué debo hacer?...
+<SPEECH*>Hey, señora. \nDínoslo, y te daremos a Guy.
+<SPEECH*>¡Anise! \n¿Qué intentas?...
+<SPEECH*>Eso no suena mal. Al\nfin y al cabo, me estaba cansando\nde ver a estos inútiles.
+<SPEECH*>Sería divertido trabajar con un\nhombre guapo como tú, para variar.
+<SPEECH*>N-No, yo... no creo que sea tu tipo.\nNecesitas a alguien un poco más, eh...
+<SPEECH*>Tranquilo. Es broma.\nPero eres encantador cuando te asustas.\nBueno, aquí está el trato.
+<SPEECH*>¡Noir!
+<SPEECH*>¡Noir!
+<SPEECH*>¡Callaos los dos! <PAGE>\n<SPEECH*>Han pasado quince años ya. <PAGE>\n<SPEECH*>Yo nací en Malkuth, en la isla de Feres.\nFue destruida por un tsunami causado\npor la destrucción de Hod.<PAGE>\n<SPEECH*>Seguramente se me hubieran\ncomido los monstruos si un barco no\nme hubiera rescatado.
+<SPEECH*>Y no sólo a mí. \nA York y a Urushi también.
+<SPEECH*>Fuimos muy afortunados de que\nnos salvaran en esas circunstancias.
+<SPEECH*>Perdimos nuestros hogares, nuestras\nfamilias, todo en un instante.
+<SPEECH*>Desde aquel día, hicimos de todo\npara seguir con vida... \nDe todo.<PAGE>\n<SPEECH*>Una vez, cogimos a un Intérprete y\nnos dijo que lo que había pasado en Feres\nera parte de la Partitura Restringida.<PAGE>\n<SPEECH*>Si se lo hubieran dicho a la gente\nantes, todos habrían sobrevivido.
+<SPEECH*>Esa verdad fue muy dura para Noir... \nCada día se deprimía más.
+<SPEECH*>Todo lo que podíamos hacer\nera cuidar de ella...
+<SPEECH*>Ya basta, los dos.<PAGE>\n<SPEECH*>Bueno, empecé a pensar.\nDaath controlaba el mundo con\nla Partitura.<PAGE>\n<SPEECH*>Mientras la Orden tuviera la Partitura\nRestringida, ni Malkuth ni Kimlasca podrían\ndesobedecerles.<PAGE>\n<SPEECH*>Así que los gobernantes de ambos\npaíses se olvidaron de sus gentes y empezaron\na hacerle la pelota a Daath.\n<SPEECH*>Pensamos que lo mejor sería \nrepartir la riqueza de esos idiotas\nentre la gente que sufre.
+<SPEECH*>El tiempo pasaba, y empezamos a \nrecoger huérfanos de guerras y tal.<PAGE>\n<SPEECH*>Y antes de que nos diésemos cuenta,\nteníamos una familia de 459 personas.
+<SPEECH*>Como ladrones, no podemos vivir a la vista...<PAGE>\n<SPEECH*>Pero con tanta gente, era bastante\ndifícil esconderse. Así que construimos\nun pueblo ahí fuera.
+<SPEECH*>Sólo unos pocos trabajan como ladrones.\nLa mayoría son artistas de circo.
+<SPEECH*>Nadie, excepto los ladrones,\nsaben que se está robando.
+<SPEECH*>Bueno, creo que eso habrá\ncontestado a tu pregunta.
+<SPEECH*>Eres muy amable.
+<SPEECH*>O-Oh, vaya,\nno me lo esperaba...
+<SPEECH*>Jade, sobre este pueblo...
+<SPEECH*>Sí, no podemos dejar que se escapen.
+<SPEECH*>¡Jade! \n¡Eso es cruel!
+<SPEECH*>Su pasado en verdad merece compasión,\npero eso no es excusa para\nel robo de propiedades.
+<SPEECH*>¡Coronel! \n¡No es para tanto!
+<SPEECH*>Por supuesto que lo es. \nAunque no tengo intención de redactar un\ninforme si no los pillo in fraganti...
+<SPEECH*>Vaya, qué sorpresa.\nSeñor Nigromante, he oído que\nes usted bastante duro.
+<SPEECH*>Tampoco tenemos intención de que\nnos cojan. El pueblo volverá a estar\nseguro en un tiempo.
+<SPEECH*>Noir, es hora de la\nsiguiente "actuación".
+<SPEECH*>¡Lo sé! \nNos vemos, chicos.
+<SPEECH*>Parece que hasta el Coronel tiene\nun poco de amabilidad en el interior...
+<SPEECH*>Debo admitir que hasta\nduele que confíen en ti...
+<SPEECH*>Coronel... \n¡¿No querrás decir que los has engañado?!
+<SPEECH*>No. Sus conocimientos podrían\nser útiles. Será mejor tenerlos\nvigilados, por ahora.<PAGE>\n<SPEECH*>Además, un pueblo pequeño como\néste caería en un asedio en poco tiempo.
+<SPEECH*>Zzz... \nNo podría comer ni un bocado más...
+Hay un graffiti que pone\n"Una familia de idiotas"...
+Los 21 volúmenes de\n"Digg y Dugg"\nestán expuestos en la estantería.

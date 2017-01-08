@@ -1,0 +1,421 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¡Siempre estoy lista para un reto!
+Té de amango
+Arroz al curry
+Gambas picantes
+Estofado con salsa
+Pastel de zanahorias
+Pasta de marisco
+Natillas de kirima
+Sopa de hedoro
+Especial del día
+Mandragosso
+Cóctel Nephry
+Cerdinejo asado
+<06*> Té de amango<13*><13*><13*><13*><13*>\n
+<06*> Arroz al curry\n
+<06*> Gambas picantes\n
+<06*> Estofado con salsa\n
+<06*> Pastel de zanahorias\n
+<06*> Pasta de marisco\n
+<06*> Natillas de  kirima\n
+<06*> Sopa de hedoro\n
+<06*> Especial del día\n
+<06*> Mandragosso\n
+<06*> Cóctel Nephry\n
+<06*> Cerdinejo asado\n
+<06*> Confirmar\n
+<06*> Restaurar\n
+<06*> Té de amango\n
+<06*> Arroz al curry\n
+<06*> Gambas picantes\n
+<06*> Estofado con salsa\n
+<06*> Pastel de zanahorias\n
+<06*> Pasta de marisco\n
+<06*> Natillas de  kirima\n
+<06*> Sopa de hedoro\n
+<06*> Especial del día\n
+<06*> Mandragosso\n
+<06*> Cóctel Nephry\n
+<06*> Cerdinejo asado\n
+<06*> Confirmar\n
+<06*> Restaurar\n
+<01*>\n
+¿Necesitas instrucciones?\nSí\nNo
+Vale\n¡No lo puedo hacer!
+Sí\nNo
+Sí\nNo
+Has recibido <01*> gald.
+¿Continuar trabajando?\nSí\nNo
+¿Necesitas instrucciones?\nSí\nNo\nHuir
+Okay"\n<09*>away
+¿Continuar?\nSí\nNo
+¡No tienes eso!
+¡No tienes eso!
+¡Qué buena pinta!
+¡Gracias!
+¿Qué es esto?
+Yo no pedí esto.
+Ya me has servido.
+¿No me has servido ya?
+¿Qué estás haciendo?
+¿Qué quieres?
+Has servido toda la\ncomida que ordenaste.
+¡Llegas tarde! \n¿Qué te crees que estás haciendo? \n¡Te dije que hoy teníamos\nun montón de reservas!
+¿Eh? \n¿Qué?
+Date prisa y prepárate. \nPuedes seguir llevando la\nropa que llevas puesta.
+¡E-Espera!
+Vaya, vaya.
+Um... ¿no deberíamos ayudarla?
+Por supuesto. ¡¿Y si esto no\nfuera un simple malentendido\nsino un complot siniestro?!
+Dudo mucho que sea un complot...
+Bueno, creo que igualmente\niré a ver cómo está.
+Aunque sea tu primer día, no te\ncreas que te puedes escaquear.
+Los clientes van a llegar\npronto, así que te explicaré\nlo más básico.
+Bueno, supongo que no me\nhará daño escuchar...
+Cuando un cliente entre y se siente,\ntú les tomas el pedido.<PAGE>\nTienes que recordar lo que piden\ny luego decirlo en la cocina.<PAGE>\nLuego, coges los platos y se los llevas\na los clientes. Tranquila, te pagaremos.<PAGE>\nOh, pero no te pagaré el total\nsi te equivocas, ten cuidado.<PAGE>\nLos clientes llegarán pronto.\n¿Crees que estarás bien?
+Creo que estoy bien, pero...
+Ah, aquí están. \nAhora ve a tomarles el pedido.
+Lo siento. \nNo puedo hacer esto.
+¡Hey! \n¡E-Espera!
+¡Date prisa! \n¿Estás lista?
+No tengo nada que preguntar...
+Los clientes estarán aquí pronto. \n¿Piensas que lo harás bien?
+No lo hiciste demasiado\nmal para ser el primer día.
+¡L-Lo siento! \n¡Me dormí! \nVine tan rápido como pude...
+¿Qué? \n¿Quién eres tú?
+Soy la camarera que se suponía\nque empezaba a trabajar hoy.
+¡¿Entonces quién eres tú?!
+Sacaste conclusiones precipitadas.
+Pero qué....\n¡Deberías haber dicho algo!
+Pero has causado buena impresión, así que\nven a trabajar aquí cuando quieras.
+......
+Tear ha recibido el título de "title 7".
+¿Has venido otra vez a trabajar?
+Oh. Qué pena. \nVuelve cuando quieras.
+Aquí está tu paga.
+...... \nEsto es un poco decepcionante.
+¡Fantástico! \nY los clientes también están satisfechos.
+Mira, han llegado más clientes.
+Oh, eres tú. \nNo te he reconocido. \n¡Menudas pintas!
+O-oh, esto es... uh...
+Has venido a trabajar otra vez, ¿verdad?\n¡E incluso vienes con ese traje!\n¡Me encanta tu entusiasmo!<PAGE>\nEmpecemos ahora mismo...
+Espera un momento.\nTú ya me tienes a mí.\n¿No es suficiente?<PAGE>\nLa otra vez fue un error.\nAhora trabajo yo.\n¿Verdad?
+Bueno, sí, pero la otra vez\nella fue muy popular. Ayudó\na atraer a los clientes.
+¡Parece que digas que yo no ayudo!
+Oh, uh, quiero decir...
+¡Oye, tú!\nSi sólo estás jugando, haz\nel favor de parar.<PAGE>\nEste es mi trabajo.\nSólo porque tienes las tetas un poco más\ngrandes y vienes vestida así...
+¡Venga, vale!\nAcabemos con esto.\n¡Te reto a una competición!
+Venga, no digas eso.\nPodéis trabajar las dos juntas.
+¡Cállate, jefe!
+¡Vamos a competir a ver quién\npuede ganar más dinero!
+No.
+¡¿Vas a salir corriendo?!
+Esto es absurdo...
+¡Venga, Tear! \n¡A por todas! \nY luego vamos a quedarnos también con su dinero.
+No seas estúpida.
+Ja ja. \nTiene envidia de ti, Tear. \nEso demuestra lo atractiva que eres.
+Ve y juega a su juego.
+Sí. \n¡Nos lo pasaremos bien mirando!
+¡Venga, vamos!
+*Suspiro*\nEspero que no se olviden de\ntratar bien a los clientes.
+No necesitas ninguna\nexplicación, ¿verdad? \n¿Estás lista?
+Me gustaría recordar\nlo que tengo que hacer...
+¡¿No te acuerdas?!\nCuando los clientes se sienten,\nte pedirán lo que quieren.<PAGE>\nLo único que tienes que hacer es\ndecirlo en la cocina y llevar la\ncomida a los clientes. Cualquier\nerror saldrá de tu paga.<PAGE>\n¿Estás lista ahora?
+Creo que estaré bien.
+Aquí están. \nTú vas primero.
+No creo que quiera hacer esto.
+¡Je je! \n¡Gané!
+¿Qué pasa? \n¿Has venido a retarme?
+No necesito un reto.
+Pareces muy confiada.\n¡Pues venga!
+Humf... \nEsto es del jefe.
+Yo también podría hacerlo,\npor eso no me molesta.
+¡Ahora, muévete!
+Por supuesto.\n¡Ahora, ve!
+¡Ja! \nPatético.
+¿Qué es lo que quieres? \n¿Has venido a retarme?
+Humf. Esto ha sido sólo porque\nno había muchos clientes.\nNo era ni un concurso.
+¡Ahora, muévete!
+Sí, claro.\n¡Ahora, ve!
+Qué patético. ¿Eso es\nlo que sabes hacer?
+¿Qué es lo que quieres? \n¿Has venido a retarme?
+No lo has hecho tan mal.\nPero yo he ido más rápida.\nNo tengo por qué molestarme.
+¡Siguiente!
+Ahora sí que tenemos todo un\nreto. ¿Podrás hacerlo?
+Bueno, has trabajado mucho, supongo.\nAunque no eres nada comparada conmigo.
+¿Qué es lo que quieres? \n¿Has venido a retarme?
+N-No está mal... Pero para\nmí hubiera sido fácil.
+Aún no hemos acabado.
+Seguramente ya estás hecha polvo, ¿mmm?
+Ahora te dejaré parar.
+¿Qué es lo que quieres? \n¿Has venido a retarme?
+......Estoy impresionado.\nP-Pero yo también podría haberlo hecho.
+Nunca podrás hacerlo bien con el siguiente\ngrupo. Ni yo podría hacerlo solo.
+¿De verdad vas a hacerlo? \n¡No hay manera de que lo hagas bien!
+Admito que eres hábil.\nPero sigues perdiendo.
+¿Qué es lo que quieres? \n¿Has venido a retarme?
+¡No puede ser!...\n¡¿Cómo has podido hacer algo que yo no puedo?!<PAGE>\nEres inhumana...
+Ya es suficiente.\nElla es mejor que tú\ncon los clientes.
+¡Jefe!
+Has olvidado lo más importante de\nser un camarero. El objetivo es que\nlos clientes disfruten de la comida.
+Buen trabajo. Gracias a ti, el\nrestaurante está en auge.
+Si te apetece, ven a ayudar\notra vez cuando quieras.\nEres siempre bienvenida.
+¡Espera!<PAGE>\nHe perdido en algo cotidiano para mí.<PAGE>\nPero me has abierto los ojos.\nVoy a empezar y a aprender\ntodo de nuevo.
+Tear ha obtenido la receta de\n"recipe 18".
+¿Qué es esto?
+Mi especialidad.\nMe gustaría que la aprendieras
+Gracias.
+No me malinterpretes.\nEstoy segura que en la cocina\nsoy mejor que tú.<PAGE>\n¡La próxima vez vamos a hacer un\nconcurso para ver cuál de las dos\nes más atractiva, incluso cocinando!
+Debes estar de broma...
+Oh, claro.\nNo podrías hacerlo.\nNi yo podría.
+¿Qué es lo que quieres? \n¿Has venido a retarme?

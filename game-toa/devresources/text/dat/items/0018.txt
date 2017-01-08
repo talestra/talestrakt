@@ -1,0 +1,131 @@
+## POINTER 3610 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1179952137]
+Protector de escamas
+
+## POINTER 3611 [t:1;r:1;ru:parsec;user:parsec;time:1195310511]
+Armadura ligera hecha añadiendo pequeñas piezas 
+de metal a una protección con cadenas.
+
+## POINTER 3620 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Protector pectoral
+
+## POINTER 3621 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Armadura ligera con placas de metal incrustadas.
+
+## POINTER 3630 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182356956]
+Protector de plata
+
+## POINTER 3631 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Armadura ligera hecha de plata.
+Reservada normalmente para uso ceremonial.
+
+## POINTER 3640 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Semi-protector
+
+## POINTER 3641 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Armadura ligera compuesta de acero y cuero.
+Absorbe bien los impactos.
+
+## POINTER 3650 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179780855]
+Protector de batalla
+
+## POINTER 3651 [t:1;r:1;ru:parsec;user:kaene;time:1198458999]
+Armadura ligera hecha de pequeñas placas metálicas.
+Las juntas están protegidas por cota de malla.
+
+## POINTER 3660 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179780855]
+Protector ligero
+
+## POINTER 3661 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Una versión reforzada del protector de batalla 
+para aguantar golpes extremos.
+
+## POINTER 3670 [t:1;r:1;ru:parsec;user:parsec;time:1179780855]
+Protector de caballero
+
+## POINTER 3671 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264865]
+Armadura ligera, estándar de la Orden de Lorelei.
+
+## POINTER 3680 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179780855]
+Protector real
+
+## POINTER 3681 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264865]
+Armadura ligera y muy cara que sólo
+los más nobles pueden usar.
+
+## POINTER 3690 [t:1;r:1;ru:parsec;user:kaene;time:1199095415]
+Protector de mítril
+
+## POINTER 3691 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1179952138]
+Armadura ligera hecha de mítril.
+
+## POINTER 3700 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264865]
+Protector poderoso
+
+## POINTER 3701 [t:1;r:1;ru:parsec;user:kaene;time:1198459126]
+Armadura hecha usando artes avanzadas.
+
+## POINTER 3710 [t:1;r:1;ru:parsec;user:parsec;time:1200267108]
+Protector extraordinario
+
+## POINTER 3711 [t:1;r:1;ru:parsec;user:parsec;time:1200301635]
+Una obra maestra perfectamente elaborada.
+
+## POINTER 3720 [t:1;r:1;ru:parsec;user:parsec;time:1200267108]
+Protector extraordinario
+
+## POINTER 3721 [t:1;r:1;ru:parsec;user:parsec;time:1200301635]
+Una obra maestra perfectamente elaborada.
+
+## POINTER 3730 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179781039]
+Protector de princesa
+
+## POINTER 3731 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Armadura especial hecha sólo para la nobleza. 
+Cada componente ha sido preparado concienzudamente.
+
+## POINTER 3740 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Protector fónico
+
+## POINTER 3741 [t:1;r:1;ru:parsec;user:parsec;time:1200302137]
+Una de las reliquias de los Seis Reinos
+durante la era de la Guerra Fónica.
+
+## POINTER 3750 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179781115]
+Protector lunar
+
+## POINTER 3751 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Armadura ligera imbuida con el poder de la luna.
+
+## POINTER 3760 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179781115]
+Protector solar
+
+## POINTER 3761 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179952138]
+Armadura ligera imbuida con el poder del sol.
+
+## POINTER 3770 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264866]
+Protector prismático
+
+## POINTER 3771 [t:1;r:1;ru:parsec;user:kaene;time:1198459126]
+Armadura mística cuyo lustre
+brilla en siete colores.
+
+## POINTER 3780 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264866]
+Manto
+
+## POINTER 3781 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264866]
+Un manto hecho de tela normal.
+Ligeramente mejor que las prendas normales.
+
+## POINTER 3790 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264866]
+Manto blanco
+
+## POINTER 3791 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264866]
+Un manto que sólo pueden ponerse
+los que tienen un corazón puro.
+
+## POINTER 3800 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264866]
+Manto de seda
+
+## POINTER 3801 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182264866]
+Un manto hecho de seda. 
+Proporciona al portador un aire de refinamiento.

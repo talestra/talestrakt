@@ -1,0 +1,133 @@
+## POINTER 5810 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180212807]
+Lanzador
+
+## POINTER 5811 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180212807]
+Un mecanismo fónico que dispara un cable.
+Se usa para asegurar el Albiore.
+
+## POINTER 5820 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1181496580]
+Aeronave
+
+## POINTER 5821 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182274713]
+Artilugio fónico que permite volar al Albiore.
+
+## POINTER 5830 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180212892]
+Génesis del mundo
+
+## POINTER 5831 [t:1;r:1;ru:parsec;user:pacochan;time:1182274713]
+Libro con el plan de detener la vibración del
+núcleo y de mantener la Tormenta Planetaria.
+
+## POINTER 5840 [t:1;r:1;ru:parsec;user:kaene;time:1198460211]
+Insignia de los Alas Oscuras
+
+## POINTER 5841 [t:1;r:1;ru:parsec;user:kaene;time:1198460211]
+La insignia de un miembro de los Alas Oscuras.
+¿Así que tú también eres miembro?
+
+## POINTER 5850 [t:1;r:1;ru:parsec;user:parsec;time:1180212892]
+Medidor de frecuencias
+
+## POINTER 5851 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180213135]
+Un aparato que mide la frecuencia 
+de vibración del núcleo.
+
+## POINTER 5860 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180213202]
+Piedra de vuelo
+
+## POINTER 5861 [t:1;r:1;ru:parsec;user:parsec;time:1200303568]
+Un tipo de piedra fónica. Indispensable para el 
+buen funcionamiento de mecanismos fónicos aéreos.
+
+## POINTER 5870 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180213024]
+Una carta de los amigos
+
+## POINTER 5871 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180213024]
+Una carta de los amigos de Luke.
+
+## POINTER 5880 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1181496581]
+Piedra fónica de Ion
+
+## POINTER 5881 [t:1;r:1;ru:parsec;user:kaene;time:1198460211]
+Una parte de la última Partitura que Ion 
+leyó... la Partitura Planetaria.
+
+## POINTER 5890 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180213024]
+Medallón
+
+## POINTER 5891 [t:1;r:1;ru:parsec;user:kaene;time:1198460211]
+Un pequeño medallón con el
+retrato de una niña rubia.
+
+## POINTER 5900 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393066]
+Control
+
+## POINTER 5901 [t:1;r:1;ru:parsec;user:parsec;time:1195309958]
+La aeronave Albiore sin la Piedra de Vuelo.
+
+## POINTER 5910 [t:1;r:1;ru:parsec;user:pacochan;time:1182274713]
+Piedra de vuelo mayor
+
+## POINTER 5911 [t:1;r:1;ru:parsec;user:kaene;time:1198460211]
+Mejora el funcionamiento del Albiore
+cuando se instala en el Control.
+
+## POINTER 5920 [t:1;r:1;ru:parsec;user:pacochan;time:1182274713]
+Piedra de vuelo refinada
+
+## POINTER 5921 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393168]
+Saca todo el poder del Control del Albiore.
+
+## POINTER 5930 [t:1;r:1;ru:parsec;user:parsec;time:1200303568]
+Mors Draconis
+
+## POINTER 5931 [t:1;r:1;ru:parsec;user:kaene;time:1198460211]
+Llave especial para jugar
+al Dragon Buster.
+
+## POINTER 5940 [t:1;r:1;ru:parsec;user:kaene;time:1198460211]
+Manzana de gourmet
+
+## POINTER 5941 [t:1;r:1;ru:parsec;user:pacochan;time:1182540943]
+La mejor manzana, vendida sólo a unos pocos.
+Un dulce aroma que seduce hasta a los monstruos.
+
+## POINTER 5950 [t:1;r:1;ru:parsec;user:kaene;time:1198656752]
+Dije de Rose
+
+## POINTER 5951 [t:1;r:1;ru:parsec;user:kaene;time:1198460211]
+Un amuleto protector de Rose.
+
+## POINTER 5960 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180213291]
+Medalla de bronce
+
+## POINTER 5961 [t:1;r:1;ru:parsec;user:kaene;time:1198460850]
+La medalla de bronce del torneo individual
+del Coliseo de Baticul.
+
+## POINTER 5970 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182540943]
+Medalla de oro
+
+## POINTER 5971 [t:1;r:1;ru:parsec;user:kaene;time:1198460850]
+La medalla de oro del torneo individual
+del Coliseo de Baticul.
+
+## POINTER 5980 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180213480]
+Trofeo de bronce
+
+## POINTER 5981 [t:1;r:1;ru:parsec;user:kaene;time:1198460850]
+El trofeo de bronce del torneo por equipos
+del Coliseo de Baticul.
+
+## POINTER 5990 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180213090]
+Trofeo de oro
+
+## POINTER 5991 [t:1;r:1;ru:parsec;user:kaene;time:1198460850]
+El trofeo de oro del torneo por equipos
+del Coliseo de Baticul.
+
+## POINTER 6000 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393066]
+Anillo de hechicero - A
+
+## POINTER 6001 [t:1;r:1;ru:parsec;user:parsec;time:1180213495]
+Desbloquea el ataque de Mieu.

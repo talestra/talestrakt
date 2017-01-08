@@ -1,0 +1,380 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¡Señorito! \n¡Gracias al cielo que está aquí! \n¡La señora ha caído enferma!
+Lamento preocuparos... \nMe quedé sin la medicina \nque tomo siempre...
+Si necesitas más, iré \na comprar más para ti.
+Desafortunadamente, su medicina\nse elabora sólo para ella, y no\nse vende en las tiendas.<PAGE>\nCon el caos actual, el doctor\nha sido incapaz de conseguir\nlos ingredientes...
+¿Qué ingredientes faltan \nexactamente? <PAGE>\nTenemos el Albiore. \nPodríamos echarle una mano con\nla mayoría de los ingredientes.
+Tear...
+Necesitamos algunas "setas mortales de \nRúgnica". Pero crecen en San Binah, \nque está...
+Oh... Maldita sea... \nQué hacemos...
+Yo conozco un lugar donde\ncrecen ese tipo de setas.
+¿De verdad?
+¡Sí!<PAGE>\nHay que ir al norte a lo\nlargo del río cercano al\nBosque de los Cheagles.<PAGE>\nSe llega a un lugar lleno de hongos \nllamado Camino de las Setas.<PAGE>\nLas setas mortales de Rúgnica crecen allí.
+Ya veo...<PAGE>\nSi subimos a lo largo del río\ncon el Albiore, deberíamos poder \nllegar a ese "Camino de las Setas".
+Iremos a recoger esas setas\npara ti, tía Susanne.<PAGE>\nPor favor, aguanta hasta que volvamos.
+¿Pero no es eso peligroso?...
+¡No nos preocupa eso!
+Que todo el mundo se calme. La madre\nde Luke no está en peligro inmediato.<PAGE>\nLa medicina elaborada a partir de las setas \nmortales de Rúgnica proporciona sobre todo \nsalud mental y física. Hacer que se preocupe \nsólo le causará daño.
+Pero Coronel...
+Tear, tranquilízate.
+Prohíbo hacer un viaje para \nrecolectar esas setas.\n¿Entendido?
+¡Jade!
+Haz lo que Jade dice, Luke.
+Madre...
+Por favor, relájese. No permitiré\nque se exponga al peligro.<PAGE>\nAhora, dejémosla descansar.
+¡Jade!\n¿Pero qué...?
+Ahora, deberíamos ir a coger\nalgunas setas mortales de Rúgnica.
+Pero acabas de decir que...
+Si le dijera a una madre sobreprotectora\nque voy a llevar a su hijo a un lugar\npeligroso, su salud empeoraría aún más.
+Sé que a veces está bien mentir, \npero nunca suena a mentira cuando \neres tú el que lo hace...
+¡Jade! \n¡Gracias!
+Supongo que no deberíamos haber\nesperado menos del Coronel.
+No he hecho nada digno\nde agradecimiento. Ahora, \npongámonos en marcha.
+¡De acuerdo!\n¡Vamos a salvar a\nla madre del amo!
+Rammy, esto es un secreto, \n¿lo entiendes?
+S-Sí... \nClaro.
+Entonces vamos al \nCamino de las Setas.
+¡¿Asch?!...
+¡¿Q-Qué estáis \nhaciendo aquí?!
+Hemos venido a coger setas\nmortales de Rúgnica, para\nfabricar la medicina para \nla tía Susanne.
+Tch...
+Ah, estás aquí por \nla misma razón...
+N-No, qué va...
+¡Ja ja! \n¡Se está ruborizando!
+¡Cállate, maldita mocosa!
+¡Oooops, le he cabreado!
+Bien, esto puede ser útil. Asch,\npreparemos una operación conjunta.
+¡No tengo ninguna intención de\nhacer amistad con vosotros!
+Esta área es una tierra salvaje.\nCreo que sería mejor dejar a\nuna persona detrás, como\nmedio de comunicación.<PAGE>\nSi pasa el tiempo y no volvemos,\nesa persona puede pedir ayuda.
+¡Es una idea espléndida!
+¡¿Has escuchado lo que he dicho?!
+Entonces me quedo aquí.
+¿Por qué tú, Luke?...
+He dicho, escucha lo que estoy...
+Asch y yo luchamos de la \nmisma manera, ¿sabes?<PAGE>\nEn vez de tener a dos del mismo\ntipo, es mejor que uno de\nnosotros se quede atrás.<PAGE>\nY Asch puede comunicarse conmigo.
+Es cierto, tenéis esa conveniente\nvía de comunicación.
+Si eso te parece bien, Luke...\nsupongo que es lo mejor.
+Muy bien. \nVamos, Asch.
+¡Deja de decidir cosas por mí!
+No grites. Atraerás\na los monstruos.
+Grr...
+Démonos prisa.
+Tened cuidado.
+¿Eh? ¿Ya estáis\nde vuelta?
+Imbécil...
+Cuento con vosotros, chicos.
+¿Salir del área ahora?\nSí\nNo
+Asch no está, eh...
+No iba a estar aquí todo\nel rato esperándonos.
+Sí... ¿Qué deberíamos hacer?\n¿Alguien quiere quedarse atrás?
+Ya hemos estado aquí antes,\nasí que no hace falta que\nnadie se quede atrás.
+Sí, vayamos juntos sin\ndividir nuestras fuerzas.
+¡Asch! \n¿Encontraste las setas\nmortales de Rúgnica?
+No...\nEs muy difícil hacerlo solo.
+Entonces...
+N-No tengo intención de\nhacer amistad con...
+¿Por qué no piensas en ello como\nsi nos estuvieras utilizando?
+Exacto. Tú también quieres salvar\na tu madre, ¿verdad?
+......
+Está bien... entonces esperaré aquí.
+Luke, no te esfuerces demasiado.\nSi quieres ir, yo me quedaré atrás.
+Gracias... pero da igual.<PAGE>\nDespués de todo, soy el único\ncon quien Asch puede contactar.\nGracias por tu ayuda, Asch.
+Humf...\nNo lo estoy haciendo por ti.
+Asch no está, eh...
+Tú otra vez.
+Sí, lo siento. Qué oportuno. \nLlévame contigo.
+Entendido. \nMe quedaré aquí.
+Luke, no te tienes que \nquedar detrás por  \nel bien de este tío.
+¡Guy! Eres el amigo de la infancia \nde Asch. Te quiere. Podrías ser\nun poco más amable.
+¡N-No no tengo por qué! \n¡Parad esta estúpida charla \ny vamos de una vez! 
+¡Una seta mortal de Rúgnica! \n¡Hemos encontrado una!
+Así que esto es...
+Ahora la madre de Luke podrá recuperarse.\nGracias a Dios...
+¿Por qué estás tan preocupada\npor mi madre?
+¿Por qué?... Le causé muchos problemas,\nasí que me gustaría solucionarlos\nEso es todo.
+Ya veo...
+Bueno, ya tenemos lo que veníamos a buscar.\nVolvamos.
+¡Una seta mortal de Rúgnica! \n¡Hemos encontrado una!
+¡Ajá!
+Ahora la madre de Luke podrá recuperarse.\nGracias a Dios...
+Tear...\nGracias por preocuparte por mi madre...
+P-Por supuesto.<PAGE>\nY además, le causé muchos problemas\ncon lo que pasó con Van.\nQuiero solucionarlos.<PAGE>\nNo te preocupes.
+Cierto... Perdón.
+Bueno, ya tenemos lo que veníamos a buscar.\nVolvamos.
+La encontré, réplica.
+Cuida de Madre.
+¡H-Hey! \n¡Asch!
+Ese tío necesita\nalegrarse un poco.
+Pues sí...
+Bueno, ya sabéis cómo es. En fin,\nvamos a llevarle esto a la madre Luke.
+Sí.
+¡Señorito!\n¿Encontró alguna seta\nmortal de Rúgnica?
+Sí, hemos traído una.\nDe prisa, prepárala para Madre.
+¡Ahora mismo!
+Luke, me han dado medicinas,\npero no me digas que...
+Uh... bueno... um...
+Te dije que no hicieras\nnada peligroso...
+Lo siento, Madre. Pero lo\ncierto es que no fui yo,<PAGE>\nfueron Asch y los demás que están\naquí los que fueron y la cogieron.\nYo no hice nada...
+¿Él lo hizo?...
+Me gustaría que se lo agradecieras...\nalgún día, cuando vuelva a la mansión.
+Sí, lo haré... Y muchas gracias\na todos, Luke incluido.
+Luke, me han dado medicinas,\npero no me digas que...
+Uh... bueno... um...
+Te dije que no hicieras\nnada peligroso...
+Lo siento, Madre.\nPero estaba demasiado\npreocupado por ti. Yo...
+Bobo... No estoy enfadada. Es solo\nque no quería que hicieras algo\ninsensato por mí.<PAGE>\nMuchas gracias, Luke.\nY gracias a los demás.
+Algún día, Madre, cuando Asch \nvuelva a esta mansión, me gustaría \nque se lo agradecieras también.<PAGE>\nEstuvo buscando junto a nosotros.
+¿De verdad?\nYa veo. Lo haré.<PAGE>\nHe sido bendecida con\ndos hijos maravillosos.\nGracias.
+Amo, si me como esta seta,\n¿me haré grande y fuerte?
+Por supuesto que no.\nNo seas estúpido.
+Setas... Hacerse grande...\nNo, no puede ser.
+¡No podemos volver atrás sin encontrar \nlo que vinimos a buscar!

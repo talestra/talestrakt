@@ -1,0 +1,1582 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+El puerto está cerrado.
+La lava está demasiado caliente\ncomo para acercarse más.
+El puerto está cerrado.
+El puerto está cerrado.
+El puerto está cerrado.
+No se puede aterrizar debido a la Tormenta Planetaria.
+No se puede acercarse debido a la Tormenta Planetaria.
+No se puede acercarse debido a la barrera.
+No se puede aterrizar debido a la barrera.
+El pueblo está medio derrumbado...\nno hay manera de entrar.
+No se puede entrar en el puerto debido a las patrullas.
+El puerto está cerrado.
+No se puede avanzar a causa de una ventisca.\nRetirémonos por ahora.
+No se puede avanzar a causa de una ventisca.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede avanzar a causa de los truenos.\nRetirémonos por ahora.
+No se puede avanzar a causa de los truenos.\nRetirémonos por ahora<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede avanzar a causa de la niebla.\nRetirémonos por ahora.
+No se puede avanzar a causa de la niebla.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede avanzar a causa de una tormenta de arena.\nRetirémonos por ahora.
+No se puede avanzar a causa de una tormenta de arena.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede pasar a causa de una barrera.\nRetirémonos por ahora.
+No se puede pasar a causa del remolino.\nRetirémonos por ahora.
+No se puede pasar a causa del remolino.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede pasar a causa del remolino.\nRetirémonos por ahora.
+No se puede pasar a causa del remolino.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede despegar a causa de la barrera.
+No se puede aterrizar a causa del remolino.
+No se puede aterrizar a causa del remolino.
+No se puede aterrizar a causa de las turbulencias.
+No se puede aterrizar a causa de las turbulencias.
+Es imposible volver\npor el campo de batalla.
+El Albiore se puede controlar libremente.<PAGE>\n           Utiliza <06*> izquierda/derecha o           \n           <06*>/<06*> para dar la vuelta,           <PAGE>\n         <06*> arriba/abajo         \n         para levantar o bajar el morro,         <PAGE>\n     Pulsa <06*> para avanzar y     \n     <06*> para retroceder.     <PAGE>\n      Pulsa <06*> para aterrizar,      \n      y <06*> para despegar.      <PAGE>\n     El Albiore básico sólo puede     \n     aterrizar en llanuras.     <PAGE>\n          Además, ten en cuenta que          \n          no podrás guardar          \n          mientras estés en el Albiore.         
+    Han eliminado la capacidad de    \n    volar del Albiore.    <PAGE>\n No podrás volar por el cielo, \n pero puedes viajar por \n tierra y por mar. <PAGE>\n        Utiliza <06*> izquierda/derecha o        \n        <06*>/<06*> para dar la vuelta,        <PAGE>\n     <06*> para avanzar y     \n     <06*> para retroceder.     <PAGE>\n  Pulsa <06*> para bajar del Albiore,  \n  y <06*> para subir. 
+       Se ha devuelto la capacidad       \n       de volar al Albiore.       <PAGE>\nAl restablecer su poder volador,\nel Albiore ahora puede viajar por\ntierra, mar y aire.<PAGE>\n Mantén pulsado <06*> hacia arriba mientras vuelas \n para cambiar el modo de viaje entre tierra y mar. <PAGE>\n    Mientras vayas por tierra o mar,    \n    mantel pulsado <06*> hacia abajo para cambiar    \n    al modo de vuelo.   
+ Se ha instalado en el Albiore un \n sistema de piloto automático, \n lo que te permite ir instantáneamente \n a lugares que ya has visitado. <PAGE>\n      En el Albiore, pulsa      \n      <06*> para abrir el mapa del mundo,      \n\n<PAGE>\nelige el lugar al que quieres ir,\ny pulsa <06*> para activar\nel piloto automático.
+          Utiliza <06*> izquierda/derecha para dar la vuelta,         \n          <06*> para avanzar y          \n          <06*> para retroceder.          <PAGE>\n          También puedes dar la vuelta con <06*> y <06*>          \n          también.        <PAGE>\nPuedes entrar en los puertos o en lugares parecidos\npulsando <06*> mientras tocas\nel puerto.<PAGE>\n       No puedes salir del Tartarus       \n       si no estás en un puerto.       <PAGE>\n            Ten en cuenta que             \n            no podrás guardar mientras            \n            estés en el Tartarus.           
+El terreno es demasiado inestable como para seguir.
+{  <04*>Engeve<04*>\n    <04*>San Binah<04*>  }
+{  <04*>Castillo de Coral<04*>\n    <04*>Puerto de Kaitzur<04*>  }
+Has capturado al <04*>cerdinejo<04*>.
+No puedes desembarcar aquí.
+El terreno es demasiado inestable como para aterrizar.
+Se puede utilizar el poder del Sephiroth\npara llevar al Albiore a las Tierras Exteriores.<PAGE>\nEl Albiore puede volver al Qliphoth\ndesde las Tierras Exteriores de la misma manera.
+El Albiore no puede ir a las\nTierras Exteriores sin su\npoder para volar.
+El Albiore no puede ir al Qliphoth\nsin su poder para volar.
+¡Hasta aquí habéis llegado!
+¡E-Espera!\n¡Somos civiles!
+¿Qué? ¿Qué hacen civiles aquí?
+¡No dejéis que os engañen! ¡Según la \nPartitura, hay soldados escondidos\nentre ellos! ¡Eliminadlos!
+¡De-Detente!\n¡Escúchame!
+¡¿Por qué tengo que matar gente\nde mi propio país?!...
+Daath está trabajando con ellos. No me digas\nque han reconocido la agresión de Kimlasca\ncomo legítima...
+Los soldados de Daath estaban mezclados\ncon las fuerzas de Kimlasca.\nMohs debe de estar involucrado en esto.
+¡¿Qué hacen los Caballeros del Oráculo aquí?!
+Mohs debe de haber reconocido\noficialmente que el ataque de\nKimlasca es una agresión justificada.
+¡Pero sólo el Maestro Fónico puede hacer eso!
+¡¿Cómo están los aldeanos?!...
+Parece que han herido a algunos.\nSi atacamos de nuevo, los que están \nen peor estado probablemente morirán.
+Curaré a los heridos.
+Por favor.
+Maldita sea... Tenemos que ir\ncon más cuidado, o no seremos\ncapaces de protegerlos...
+¡Maldita sea!
+Hemos fallado...
+¡Espera!\n¡Soy Luke, de la Casa Fabre!\n¡Detened vuestro ataque!
+¡Grrrraaaaaah!
+¡Aquí vienen!
+Ugh...
+He echado un vistazo a los aldeanos...\nTres muertos, cinco heridos... uno grave.\nA los heridos ya los he atendido.
+Fui a echar un vistazo a la gente\nde Engeve. Tres muertos y\ncinco heridos.
+Uno de los heridos está bastante grave.
+He ido a ver a los aldeanos.\nCinco de ellos están heridos, \ny uno pinta bastante mal...
+Además... tres personas \nmurieron en el ataque...
+Son más de los que esperaba...\nPero supongo que ése es el resultado de \nnuestra vacilación a la hora de atacar.
+¡¿Cómo puedes decirlo tan tranquilo?!
+Perder la habilidad de pensar con\ncalma nos traerá aún más incidentes.
+¡...!
+Como estamos viajando con civiles, el\nresultado de cualquier combate serán bajas.\nDebemos tener eso siempre en mente.
+Vale...
+¡Grrrraaaaaah!
+¡Maldita sea! ¡Deteneos!
+Estás perdiendo el tiempo...\nAquí vienen.
+¿Por qué no me escuchan?...
+Esto es el frente.
+No puedes esperar decisiones racionales de \nsoldados jóvenes que no dejan de pensar\nen cuando los atacarán de nuevo.
+Piensa en tu propio pasado.
+La primera vez que mataste a \nalguien, ¿estabas tranquilo?
+Yo...
+Tenemos más bajas...\nUn muerto y dos heridos.\nCon ellos, ya hay seis heridos.
+Hemos perdido a otro aldeano,\ny tenemos seis heridos ahora.\nEsto va mal...
+Otro aldeano muerto...\nY también hay más heridos...
+Las cosas no pintan bien...
+Es culpa mía...\nEs porque no escogí\nun camino seguro...
+Guarda tus lamentaciones para cuando\nlleguemos al punto de descanso.\nVamos.
+Descansemos aquí por hoy.
+De alguna forma hemos conseguido\nllegar hasta aquí a salvo.
+Sí. Buen trabajo.\nPensé que tendrías más problemas.\nEstoy impresionado.
+Algunos aldeanos están heridos...
+Creo que, con estas circunstancias,\nlo has hecho bien.
+Hemos tratado a los heridos.\nNo creo que afecte a\nnuestro avance mañana.
+Hemos perdido algunos aldeanos...\nLo siento...
+No tiene sentido disculparse conmigo.\nYo comparto la culpa, por no objetar\nen tu elección de rutas.
+Ahora sólo tenemos que pensar en\nprevenir posibles incidentes.
+No puedo creer que hayamos\nperdido a tanta gente...
+La inquietud se extiende entre los\naldeanos. Espero que no afecte a\nnuestro avance mañana.
+¿Dónde estamos ahora?...
+Aún no llevamos ni medio camino.
+Oh... Aún queda bastante, eh...
+Perdona... Tú estabas a bordo\ndel Tartarus, ¿no?
+Sí. Yo estaba al mando del Tartarus.\n¿Puedo hacer algo por ti?
+¿Había en la tripulación un\nsoldado de nombre Marco?
+¿Marco?\nEra el ayudante del Coronel.
+¿Marco?\nEra tu ayudante, ¿verdad, Jade?
+¡El ayudante del comandante!\n¡No tenía ni idea que hubiera ascendido tanto!
+¡Es nuestro hijo! ¡Mi mujer estará\nmuy orgullosa cuando se entere!
+Pero... él...
+Eh... pero...
+Entonces, ¿qué está haciendo ahora?
+Estando las cosas como están, ¿creéis\nque podrían enviarlo al frente?
+Eh... lo cierto es que...\ntu hijo está...
+Siento tener que decirte esto,\npero tu hijo murió en combate\ndurante un ataque enemigo.
+¡¿Cu-cuándo?! ¡¿Cuándo ocurrió?!\n¡Estaba bien cuando el Tartarus\nvino a Engeve!
+Fue después de eso. Nos atacaron fuerzas\nque querían capturar al Maestro Fónico.\nTu hijo tuvo una muerte honorable en combate.
+Lo siento.\nSi hubiésemos sido más fuertes...
+Ya veo... Así que Marco murió protegiendo\nal maestro fónico Ion...
+Cuando Marco nació, un Intérprete\nde la Orden de Lorelei nos dijo:
+"Un día, este niño ayudará a un\ngran noble". Nos dijeron que\ndebía convertirse en soldado...
+Ese niño estúpido. ¡No importa lo\nadmirable haya sido, ¿cómo ha\npodido morir antes que yo?!
+Mi hijo está muerto...\nPero su comandante está vivo y bien.\nSé que esas dos cosas no están\nconectadas, pero...
+¡Pero no puedo aceptarlo!\n¡Devuélveme a mi hijo!
+Lo siento.
+¡¡Maldita sea!!
+Mi hijo murió con honor, protegiendo al\nmaestro fónico Ion. Pero tú... ¡tú eres\nun asesino! ¡Devuélveme a mi hijo!
+No negaré que soy un asesino. \nLo siento.
+¡Maldito seas!
+¡Eso significa que Marco murió\npor culpa de la Partitura!
+Los Intérpretes nunca leen una Partitura\nde muerte. No deben.
+Incluso si saben que la\nPartitura conduce a la muerte.
+Un Intérprete nunca leerá una Partitura de \nmuerte. Aunque sepa que eso es lo que\nespera al final de la Partitura...
+Los Intérpretes nunca leen Partituras de\nmuerte, porque provocan pánico.
+Desgraciadamente, ésa es la regla.\nPero quiero cambiar esta estupidez...
+Eso está mal...\n¡Es lo mismo que \npasó en Akzeriuth!
+Enfadarse aquí no \nservirá de nada.
+Ahora, tenemos que concentrarnos\nen llevar la gente de Engeve a \nChesedonia sana y salva.
+Lo sé...
+¡No!\n¡Las fuerzas de Malkuth!
+¡Cuidado!\n¡Las fuerzas de Malkuth!
+No hay necesidad de luchar contra ellos.
+Exactamente.
+¡Esperad!\n¡No tenemos intención de luchar!
+¡Lo sabemos!
+¡Esperad, por favor!\n¡No tenemos intención de luchar!
+¡Grrrraaaaaah!
+¡Aah!...
+No puedo creer que ni\nsiquiera nos escucharan...
+Esto es un campo de batalla. Sus vidas\npenden de un hilo. Fui un ingenuo creyendo\nque podríamos hablar con ellos...
+Por desgracia, así es la vida en\nel campo de batalla. No hay otra \nsalida más que luchar.
+Pero la gente de Malkuth son\ntambién buenas personas...
+En todo caso, la única cosa que podemos\nhacer es evitar las tropas de Malkuth \ntanto como podamos.
+Sí... No quiero matarlos...
+Sí. Preferiría no tener que involucrarme\nen una matanza sin sentido.
+¡E-Enemigos! ¡En guardia!
+¡Joder!
+¡Maldita sea!
+Mamá... las piernas...\nel ojo... me duele...\nMamá...
+Ése debe haber sido su primer despliegue.
+"Mamá"...\nMaldita sea... ¡Lo siento!
+Si hubiese escogido \nuna ruta mejor...
+Si conociéramos una ruta mejor, \nte habríamos ayudado...
+Sí... No tenemos ningún\npoder en el campo de batalla.
+Matar o que te maten... Este campo de\nbatalla es el verdadero Qliphoth...
+¡Morid, perros de Kimlasca!
+¡Otra vez no!
+¡Otra vez no!
+¡Cuidado!
+¡Natalia!\n¡Detrás de ti! ¡Detrás de ti!
+¿Mostraste compasión a tu enemigo?\nNo sobrevivirás mucho haciendo eso...
+¿Estás bien?
+Lo siento. Yo...\nNo pude matarle.
+Entiendo cómo te sientes, pero\nesto es un campo de batalla...
+Sí, lo sé.\nTengo que aprender\ncómo es el mundo real.
+¡¿Estás bien?!
+Lo siento. Yo...\nNo pude matarle.
+No es algo de lo que avergonzarse.\nNadie mata porque le guste. Pero aun así...
+Sí, lo sé.\nTengo que aprender\ncómo es el mundo real.
+Hemos llegado por fin a un lugar de acampada.
+Todavía queda bastante\nhasta llegar a Chesedonia.
+Todavía queda bastante\nhasta llegar a Chesedonia.
+¡¿Hay alguien ahí?!
+Soy yo.
+General Frings...\n¿qué estás haciendo aquí?
+¡¿General Frings?!\n¿Qué haces tú aquí?
+¡Bien! ¡El ejército de Kimlasca\nse ha desplegado en esta zona!
+Mis tropas me informaron de que os habían visto.
+Y tú, el general, ¿viniste a reconocer el\nterreno tú solo? ¿O buscas a Natalia?
+No me creo que un general haya salido a \ninspeccionar el terreno él solo. No me \ndigas que quieres utilizar a Natalia\nen este conflicto...
+Por favor, no me malinterpretes.\nNo he venido a haceros daño.
+Ni a reconocer el terreno. Solo quiero\nque abandonéis el campo de batalla.
+¿Qué quieres decir?
+Si las cosas siguen como hasta ahora, \ntendremos que mataros, porque sois\nde Kimlasca.
+Nos dirigimos a Chesedonia para\nponer fin a la esta lucha.
+No importa el peligro, \nno podemos volver atrás.
+No podréis conseguirlo.\nEsta lucha sólo va\na ir a peor.
+No puedo decirle a mis tropas que\nintenten no atacaros sólo a vosotros.
+Entendemos tu postura.\nNosotros tampoco queremos luchar.
+Bueno, sí, entendemos\nlo que dices.\nPero no podemos echarnos atrás.
+Um, ¡pero tampoco quiero decir \nque queramos luchar!
+Ya veo... Intentaré avisar a aquellos que \nentienden la situación de que no os ataquen.
+Pero... si llegaran a luchar, por favor\nno odies a mis soldados.
+Después de que llegar hasta aquí, \na pesar del peligro, me siento mal\npor decir que no...
+Pero si esta guerra continua, la caída\nde la tierra los atrapará. ¿Verdad?
+Pero si la lucha continua \nmucho más, morirán todos\ncuando caiga la tierra.
+Sí... Espero que al menos podamos \nevitar luchar contra Malkuth.
+Sí...\nVayamos con cuidado.
+Sí.\nVayamos con cuidado.
+¡¿Tengo que luchar contra soldados\nde mi propio país otra vez?!
+¡Gloria a Su Majestad el Rey!
+¡¿Cómo están los campesinos?!
+Parece que están bien esta vez...
+Fiu...
+¡Hey! ¡¿Qué está pasando?!\n¡Pensé que ibas a protegernos\ndel ejército de Kimlasca!
+L-Lo siento.\nNo fui capaz de dirigir bien.
+¡No quiero oír eso!
+¡Dijiste que estaríamos en peligro aunque\nnos quedáramos y nos rindiésemos,\nasí que nos fuimos contigo!
+¡No lo hicimos para ponernos en peligro!
+Tu rabia es comprensible.\nTomaremos toda precaución posible.\nAcepta nuestras disculpas.
+Lo sabemos. Tampoco queremos que te\nmaten. Por favor, sigue trabajando\ncon nosotros un poco más.
+Ack... Por favor, cálmate.\nEntiendo cómo te sientes, pero\nsi empezamos a discutir aquí...
+Escuchad, el Maestro Fónico de la\nOrden de Lorelei está con\nvosotros. Por favor, tranquilos.
+¡B-Bueno, será mejor\nque os las apañéis!...
+¡No sé quiénes sois vosotros, pero\nhe aprendido lo inútiles pueden\nser los soldados!
+¡¿Qué?!...
+Para. Ahora tenemos\nque darnos prisa.
+¡Pero...!
+Haz lo que te digo.
+¡Mierda! ¡Las tropas de Kimlasca\nnos han descubierto otra vez!
+¡Parad! ¡Si causáis un alboroto \naquí, atraeremos la atención de\nmás tropas de Kimlasca!
+¡Cálmate! ¡Si no lo haces, sólo \nconseguirás que haya más víctimas!
+¡Aaagh! ¡Parad ya! ¡Si seguís armando \nfollón, las fuerzas de Kimlasca\nnos encontrarán de nuevo!
+Calmaos, por favor.\n¡No conseguiremos nada\ncausando un alboroto aquí!
+¡Cállate!\n¡Apártate de mi camino!
+¿Qué es todo este jaleo? Vas a \natacar a los soldados de Kimlasca.
+¡Cállate!\n¡Mi mejor amigo está muerto!
+Qué desafortunado.
+¡¿"Desafortunado"?!\n¡¿Es todo lo que tienes que decir?!\n¡Es culpa tuya, señor soldado importante!
+¡Dejad de culpar a Jade!\n¡Soy yo quien eligió nuestra ruta!
+¡¿A quién le importa?!\n¡¿No puedes siquiera disculparte?!
+Lo siento...
+¡¿Y tú qué?!
+No tengo intención de\npedirte disculpas.
+¡¿Qué?!
+Ya que suenas como si\nestuvieras realmente enfadado,\nno mediré mis palabras.
+Prometí llevaros sanos y salvos\na Chesedonia. Conscientes del \npeligro, nos seguisteis.
+Esto es un pacto. Lo siento por\naquellos que han perdido la vida.
+Por aquellos que están vivos, creo que\ntengo cosas más importantes que hacer\nque pedir disculpas.
+¡Los soldados son realmente \ndespreciables!...
+Jade...
+Vamos. Todavía no hemos\nllegado al lugar de acampada.
+¿Otra vez?...
+Lo siento.
+No se puede evitar. ¡Aquí vienen!
+Hemos perdido nueve personas en los \núltimos dos días... Son demasiadas.
+En esa lucha hemos\nperdido nueve personas.\nEsto es horrible...
+Ya hemos perdido nueve personas...\n¿No podríamos haberlo evitado?
+Me siento tan impotente...
+De todas formas, hoy casi hemos llegado\nal lugar de acampada... Manteneos alerta.
+Oíd... lo siento...
+Estamos por fin a mitad del camino.
+Perdona, ¿hay algún sanador o\nquizá algunos geles de sobra\ndisponibles por aquí? 
+Yo soy sanadora.
+¿Hay alguien herido?
+No, sólo me hice\ndaño en el pie...
+¿Quién eres?... Habíamos dicho\nque todas las mujeres se\nsubieran al Albiore...
+También le dijimos eso a ella.
+Pero Miriam dijo que no nos preocupásemos por\nella y que nos ocupáramos de otro en su lugar.\nNi siquiera nos escucha...
+¿Por qué haría algo así?...
+No pasa nada. No me malinterpretes...\nyo tampoco pretendo morir aquí.
+Pero perdí tanto a mi hijo como\na mi marido, así que...
+¿A causa de la guerra?
+Su marido trabajaba \nen las minas de\nAkzeriuth.
+Mi hijo quería visitarle, y la ciudad fue\ndestruida justo cuando mi hijo\nestaba allí...
+Mmm... Yo...
+Que pena oír eso.
+Pero en ese caso, es aún\nmás importante que\ntú sobrevivas.
+Para que puedas vivir por ellos.
+Sí...
+Tear, cúrala, por favor.
+Me aseguraré de que te den unos cuantos geles.
+Llévalos a la fila.
+¡Jade!\n¡¿Por qué no me has \ndejado disculparme?
+No quiero causar un caos innecesario\nrevelando la verdad aquí y ahora.
+Si quieres huir de tu sentimiento de \nculpabilidad, hazlo una vez ella haya\nregresado sana y salva a casa.
+¡No tienes por qué hablar así!
+Si conoces a algún habitante de Malkuth \nque confiaría en el criminal que destruyó \nAkzeriuth, estaría encantado de conocerlo.
+Si quieres disculparte es asunto tuyo, \npero agradecería que eligieras el momento\ny el lugar adecuado para ello.
+¡Oh, no!
+¡Gloria al Emperador!
+Y así, gente inocente murió\npor el bien de su país... no,\npor el bien de la nobleza.
+Natalia...
+Natalia...
+¿Podemos mantener nuestro estilo de vida\ngracias al derramamiento de su sangre?...
+Pospongamos ese tipo de emociones hasta\nque hayamos detenido este conflicto.
+Sé que suena frío, pero tal y como están\nlas cosas ahora, ese "derramamiento\nde sangre" solo aumentará.
+Lo siento si te \nhe herido...
+Sí, la clase alta no ve lo\nque ocurre en el frente.
+Es chocante, tanto para\nti como para nosotros.
+Pero, ahora mismo, tenemos que\nllegar a Chesedonia para detener\neste conflicto, ¿verdad?
+Tienes razón...\nNo podemos pararnos aquí.
+¡Hasta aquí habéis llegado!
+Tenemos que luchar otra vez, ¿no?...
+Primero destruis Akzeriuth... luego\ninvadís nuestro imperio... ¿no tienen\nfin las atrocidades de Kimlasca?
+¡Eso... eso no es lo que ocurrió!
+Desgraciado...\nAugh...
+Esta guerra...
+Todo está ocurriendo porque mi padre está\nhaciendo todo lo que cree necesario para\ntraer la prosperidad escrita en la Partitura.
+No tenemos tiempo para andar\npor ahí sintiéndonos deprimidos.
+Eres la hija de Su Majestad. Tienes una tarea \nque sólo tú puedes llevar a cabo, ¿recuerdas?
+No hay tiempo para deprimirse. Tienes una\ntarea que sólo tú puedes llevar a cabo, \n¿recuerdas?
+Sí... tienes razón.\nComo hija de mi padre, \npondré fin a esta locura.
+¡Ah! Eres tú...
+¿Nos conoces?
+El general Frings nos informó\nde la situación. Nosotros...
+¡Es el enemigo!\n¡Matadlos!
+¡Para!
+¡Soy Natalia Luzu Kimlasca-Lanvaldear! \n¡Envainad vuestras espadas!
+¿La princesa Natalia? ¡Imposible!\nSu Alteza está muerta...
+¡Esos tíos estaban con los \nsoldados de Malkuth!\n¡Debe de ser una impostora!\n¡Matadlos!
+¡Deteneos!\nElla es la auténtica...
+¡Desgraciadamente, Maestro Fónico, vamos\ncon la facción del gran maestro Mohs!\n¡La guerra debe continuar!
+¡Fuera de mi camino!
+¡Para!
+Los soldados de Malkuth\nestán todos muertos...
+Después de que intentaran\nayudarnos...
+Ninguno de ellos ha sobrevivido...\nIntentaron ayudarnos y esto es\nlo que han recibido a cambio...
+Y ahora hemos matado incluso a soldados\nque están de nuestra parte...\nNo sé que debo pensar ya...
+¿Por qué las cosas han tenido que acabar así?\n¡Mierda!
+Es una situación horrible...
+Por fin llegamos al lugar de acampada...
+De alguna forma hemos conseguido llegar hasta\naquí sin encontrarnos con las tropas de Malkuth.
+Espero que podamos continuar así.
+Espero que podamos evitar las posibles\nluchas con el ejército de Malkuth...
+Sí... No son realmente nuestro enemigo.\nIntentemos ser más cuidados\na partir de mañana.
+¿Soy idiota?...\n¡He creado una montaña de cadáveres!
+A partir de mañana, escojamos nuestras\nrutas con más cuidado e intentemos\nevitar a las fuerzas de Malkuth.
+Las cosas van de acuerdo al plan.
+Espero que podamos continuar así.
+Tenemos que evitar posibles luchas \ncon las tropas de Malkuth...
+Sí... No son realmente nuestro enemigo.\nIntentemos ser más cuidados\na partir de mañana.
+Fui una ingenua... Nunca creí que nos\nencontraríamos tantas tropas de Malkuth..
+A partir de mañana, escojamos nuestras\nrutas con más cuidado e intentemos\nevitar a las fuerzas de Malkuth.
+Estamos a medio camino de Chesedonia...
+Estamos a medio camino de Chesedonia.
+¡¿Quién anda ahí?!
+La general de brigada Cecille.
+¿Cómo sabías que estábamos aquí?...
+¿Cómo sabías que estábamos aquí?...
+Mis tropas me informaron de que os habían \nvisto. ¿Qué estáis haciendo en un lugar\ncomo éste?...
+Ya te lo dije.\nVamos a ver a Almandine\npara detener este conflicto.
+¡No puedes hablar en serio! Ahora mismo, estáis \nen una zona que está bajo nuestro control.\nPor favor, regresad a Kaitzur.\nEs demasiado peligroso.
+Si la guerra continúa,\ntodo el mundo morirá.
+Si la guerra continúa,\npuede que todo el mundo muera.
+Nuestras fuerzas no perderán.
+No nos referimos a eso.\nEl campo de batalla está en peligro.
+Tal como están las cosas, ambos\nejércitos van a acabar mal.
+Alteza...\nPor favor, comprenda mi situación.
+Siento hacerte esto.\nPero es mi deber.
+Está bien...\nAl menos, déjame asignarte\nalguna protección.\nPor favor.
+Está bien...\nAgradezco tu preocupación.
+Pero un gran número de tropas\nllamarán demasiado la atención.
+Pero un gran número de tropas podrían\nllamar demasiado la atención.
+Entendido. A partir de mañana,\ntendréis un pelotón que irá\ndetrás de vosotros.
+Por favor, tened cuidado...
+Luke.\nEso ha sido una imprudencia.
+¡Maldita sea!
+Perdona...
+¿Qué pasa?...
+Unos cuantos amigos míos han\nsido heridos en la batalla.
+Tú también estás herido.
+Yo estoy bien. Pero Marus está... uno de\nmis amigos está sangrando mucho...
+Va a casarse pronto.\n¡No puedo dejar que muera en un sitio como éste!
+Yo me encargaré de él.
+Vale, traeré algunos geles.
+¡Oh, no!\n¡Es terrible!\n¡Tenemos que llevarle geles!
+Iré contigo.
+Está bien. Te lo dejo a ti.
+Lo siento. He fallado\nen protegerlos a todos.
+Confiamos en ti...\nNo nos dejes ahora.\nNo quiero que mis amigos mueran.
+Vale...
+Cuando lo hayan tratado, sigamos avanzando.\nNo deberíamos quedarnos aquí mucho tiempo.
+Entendido.
+¡¿Qué le ha pasado al hombre que estaba herido?!
+Lo están tratando ahora.\nSólo podemos esperar que no \nse viera envuelto en la lucha...
+Um...
+¡Ou!...
+¡Éste es un recuerdo de el hombre\nal que no pudiste proteger!
+¡Marus está muerto! ¡Iba a\ncasarse el mes que viene!
+¡¿Cómo voy a decírselo a Nina?!\n¡Asesino!
+Lo... lo siento...
+¡Pídele perdón a Nina, no a mí!\n¡Marus nunca va a volver!
+De verdad, lo siento...
+¡Maldita sea, esto se nos va de las manos!
+Es demasiado tarde. ¡No podemos esquivarlos!
+Siete muertos... Seis heridos.\nEl hombre que estaba gritando\nantes está muerto también.
+Ni siquiera sabíamos\nsu nombre...
+Hay más de diez muertos...\nEl hombre que estaba gritando\nantes está muerto también.
+"Ese hombre"...\nNi siquiera sabemos su nombre.\n¡Maldita sea!
+Tantas personas muertas...\ny otras muchas heridas...
+Y además dijeron que ese hombre estaba\nfurioso por la muerte de Marus..
+Ni siquiera sabemos su nombre.\nEs tan triste que no tengo palabras...
+Todo es culpa mía...
+Intentemos mantener la\nformación y dirijámonos al\npróximo lugar de acampada.
+Es peligroso estar aquí.
+Finalmente hemos llegado al lugar de\nacampada. Chesedonia está justo delante.
+Bien. Hemos llegado hasta aquí sin \nque nadie salga herido. Sigamos así.
+Sí, estemos alerta y\nmantengamos la calma.
+Tenemos algunos\nheridos...
+Unos pocos no pueden evitarse.\nEs considerablemente mejor de\nlo que esperaba.
+Vamos a quedarnos por aquí sólo un poco más.
+Había mucha gente que no hemos \npodido salvar... Maldita sea.
+Sí, pero el arrepentimiento no\nlos traerá de vuelta.
+Ahora, tenemos que centrarnos en\nayudar a los que están vivos.
+Ha muerto mucha gente.\nNo soy inútil, soy peor...
+No hay tiempo para deprimirse.\nMuchos de los habitantes están\ndescontentos con nosotros.
+Si no calmamos su malestar y\nsu descontento, acabaremos\nperdiéndolos a todos.
+Gracias por lo de ayer.
+Sois vosotros...
+Gracias a ti, mi pie está mejor y hoy he\nsido capaz de caminar sin problemas.
+Oh, se te está descosiendo la camisa...
+¡U-uauh!
+¡¿Aah?!
+¡Oh! L-Lo siento...
+Mmm... ¿Hice algo que te molestase?...
+N-No, no es tu culpa.\nEs sólo...
+No parece que estés bien...
+¿Qué es esto?... Me da la sensación de\nque estoy apunto de recordar algo...
+(El olor de la muerte... Gritos...\n¿Me estoy... escondiendo?)
+Lo siento. Probablemente sólo \nestá cansado. ¿Y tú, estás bien?
+S-Sí, estoy bien. Lo siento...\nNo quería asustarte.
+No, soy yo quien debería disculparse...\nMe avergüenzo de haber herido a una señorita.
+Acepta mis más humildes disculpas.
+Oh... qué raro eres.\nPareces un noble y todo.
+¿O-Oh, lo estoy?...\nLo siento.
+Está bien.\nPor favor, ten cuidado.
+Guy... ¿estás bien?\nEsa reacción ha sido diferente\na la que tienes normalmente.
+Sí, bastante rara...\nMe pregunto por qué estoy tan tenso.
+Quizá porque estamos\nen un campo de batalla... \nVamos a descansar un poco.
+Sí, lo tendré...\nGracias.
+Me pregunto qué ocurre.
+Su fobia a las mujeres parece\nestar profundamente arraigada...
+Debe ser algo relacionado \ncon la vida y la muerte.
+Guy...
+Gracias por lo de ayer.
+Sois vosotros...
+Gracias a ti, Tear, mi pie está \nmejor y hoy he sido capaz de\nandar sin ningún problema.
+No tienes por qué darme las gracias.\nEs mi deber como sanadora.
+Tú eres miembro de los \nCaballeros del Oráculo, ¿no?
+S-Sí... lo estoy.
+¿No están tus padres preocupados por ti?
+Ambos están muertos...
+Oh... lo siento. Ya veo.\nDebes sentirte sola.
+No, estoy bien...
+Venga. Yo perdí a mi marido y a mi\nhijo, y siento como si se hubiera \nabierto un agujero en mi corazón.
+¿Cuándo nos dirá la Partitura\nque la guerra va a acabar?...
+La Partitura es... Sin tener en cuenta la \nPartitura, tenemos que poner fin a la lucha.
+Pero si la Partitura dice que continuará\ndurante otros diez años, entonces eso\nes lo que ocurrirá.
+Aunque la Partitura diga que\ncontinuará durante diez años...\nCreo que tenemos que ponerle fin.
+Tear...
+Nunca pensé que oiría a alguien de\nDaath decir algo tan espantoso...
+Pero... estoy de acuerdo contigo.\nEspero que la guerra termine pronto.
+De todas formas, gracias, Tear.
+Tear...\nHas cambiado.\n¿Estás segura de lo que has dicho?
+La verdad es que me da\nmiedo abandonar la Partitura.
+Pero... ahora que sé la verdad,\nme asusta más depender de ella...
+Puedo imaginarlo. Entiendo\ncómo te sientes.
+Pero la gente normal depende\nmucho de la Partitura.
+Como yo estaba atrapado en mi mansión, no he \ntenido mucho que ver con la Partitura, así\nque no la entiendo demasiado.
+Sí... la Partitura es parte de sus vidas.
+Gracias por lo de ayer.
+Sois vosotros...
+Gracias a ti, mi pie está mejor y hoy he\nsido capaz de caminar sin problemas.
+Veo que tú también eres una soldado\na pesar de lo joven que eres.
+Es mi mejor subordinada.
+¡Anda, no me adules,\naunque sea cierto!
+Oh, qué confianza tienes con\nel maestro fónico Ion...
+Tus padres deben estar\nmuy orgullos de ti.
+Oh... je...\nSupongo.
+Seguro que sí.\nCuida bien de ellos, ¿eh?
+Vale...
+Siento lo de tu marido\ny tu hijo...
+Sí... En momentos así, me gustaría que la\nPartitura nos dijera cuánto nos queda de vida.
+Creo que así podríamos usar mejor\nel tiempo que nos queda.
+¿En serio...? Si supieras cuándo\nvas a morir, ¿no te asustarías\nni te desesperarías?
+Sí, es posible, \npero ahora que he\nperdido a mi familia...
+Oh, bueno, no estoy sugiriendo ir\ncontra lo que dicta la Orden.\nSólo divago un poco.
+Entiendo. Espero que al\nmenos a ti te lean la\nPartitura de la felicidad.
+Gracias.
+Personalmente, prefiero no saber\ncuándo dice la Partitura que moriré.
+E incluso si lo oyese, haría todo lo que\nestuviese en mi mano para evitarlo.
+Pero, desafortunadamente, la gente \nhoy en día sigue la Partitura por \npropia voluntad.
+Porque su vida es más\nfácil de esa forma...
+Seguramente se sienten así...
+Eso no es normal...
+¡Tú!
+¿Nos conoces?
+Tú eres el de la operación \nde rescate de San Binah...
+¡Oh! Tú eres el de aquella vez que \nintentábamos salvar San Binah...
+¡Samus! ¡¿Pero qué haces?!\n¡Mátalos!
+Pero están colaborando con el\ncoronel Curtiss para salvar a\nla gente de San Binah...
+¡Idiota! ¡Mientras estén con el ejército de\nKimlasca son nuestros enemigos! ¡¿Quieres\nvértelas con un consejo de guerra o qué?!
+¡E-Espera!
+¡Samus! ¡Ataca!
+¡Pe... perdonadme!
+Estábamos en el mismo lado antes...\n¡Maldita sea!
+Estábamos en el mismo lado antes...\n¿Por qué tiene que ocurrir esto?
+No podemos permitir que\nocurra un conflicto así...
+¡Si no estuviéramos en el campo de\nbatalla, podríamos haber colaborado!
+¡Samus!
+Samus... Lo siento...
+Tomémonos un tiempo para lamentar su\nmuerte. Pero no podemos quedarnos\nmucho rato, ¿entendido?
+Ion...\nEsto es horrible...
+Esta es nuestra realidad... Precisamente\npor eso debemos cambiarla.
+Este mundo rebosa muerte...
+¡Lo siento!...
+¡Oh, no! ¡Refuerzos de Malkuth!
+¡Oh, no! ¡Refuerzos de Malkuth!
+¡Déjanoslos a nosotros!
+¡Es demasiado peligroso!
+¡Vengaremos a nuestros compañeros!
+¡No les pondréis las manos encima!
+No os preocupéis por\nnosotros. ¡Seguid!
+¡Pero...!
+Venga, Natalia.\nNo desaprovechemos lo que\nestán haciendo por nosotros.
+Vamos.\nÉste es su campo de batalla.\nLo único que haremos será estorbar.
+Yo...
+¡Lo siento!...
+¿Cuántos hay ya...?
+¿Qué?...
+¿Qué?
+El número de gente que hemos matado...\nNo, no sólo gente. Si también contamos\na los monstruos, entonces...
+El ser humano está lleno de contradicciones.\nLa moral y los ideales pueden cambiar\nfácilmente de la noche a la mañana.
+Tú estás hablando de una\nde esas contradicciones.
+Quizá la contradicción más grande\ndesde que el ser humano empezó a\npensar, a sentir y a hablar.
+¡No podemos evitarlo!...
+Los cerdinejos son monos, pero si no nos los comemos,\nmoriremos, así que nada de filosofías extremistas, ¿vale?
+Natalia, no es malo \npensar en ello.
+Pero ahora no vas a llegar a\nninguna conclusión racional.
+Porque rechazas todo\ntipo de muertes.
+Tienes razón... Ahora pienso\nen todo de forma demasiado\nnegativa...
+Hoy acamparemos aquí...
+Ya casi estamos en Chesedonia.
+Sólo un poco más hasta Chesedonia.
+Sí...
+¡¿Quién anda ahí?!
+¡Fuerzas de Kimlasca!...
+¡Tropas de Malkuth!
+¡Vosotros dos, por favor, parad!
+¡Vosotros dos, parad!
+General Cecille, envaina tu espada.\nEste hombre no nos hará daño.
+¡Pero!
+¿General Cecille?...\n¿LA general Cecille?
+¿Quién eres?
+General de brigada Aslan Frings.
+¡General Frings!
+Vamos hacia Chesedonia para detener esta guerra.
+Por favor, no empecéis una\npelea delante de nosotros.
+Vamos hacia Chesedonia para \ndetener esta guerra.
+No vamos a permitir que empecéis\nuna lucha delante de nosotros.
+Por eso estoy aquí. Quiero que\nretiréis los escoltas de Kimlasca\nque van detrás de vosotros.
+¡¿Pero qué dices?!\n¡A partir de aquí el territorio está\ncontrolado por Malkuth! ¡Vine a pedir\npermiso para aumentar su escolta!
+He explicado la situación a mis tropas que\nestán desde aquí hasta Chesedonia.
+Podemos dejar pasar al grupo de la princesa\nNatalia, pero si las tropas de Kimlasca los\nacompañan, no tendremos otra opción que atacar.
+¡No podemos confiar en eso!
+General Cecille, espera.\nEl general Frings es un hombre de palabra.
+Pero...
+Me he decidido.
+Si les pasa algo, me\nquitaré la vida.
+Cecille.\nNo me hagas ordenártelo.
+Tu vida apenas vale nada comparada\ncon la de la princesa Natalia...
+Haré lo que Su Alteza desee.
+Gracias.
+Ahora, los dos, volved a vuestros\ncampamentos sin pelear.
+Así que las tropas de Malkuth\nno nos atacarán mañana.
+Así que las tropas de Malkuth\nno nos atacarán mañana.
+Eso no quiere decir que no \ntengamos cuidado. No\ntenemos ningún apoyo.
+Lo sé.
+Es cierto.
+Esa lucha ha sido impresionante.\nAunque he de decir que me sentiría más \nsegura si no lucharais en absoluto.
+¡Tú!\nLo siento.\nSiempre lo fastidio todo...
+¿Pero qué dices?\nTe esfuerzas mucho por nuestro bien.
+Hay quien habla mal de vosotros, \npero oí que fuisteis los que \necharon a los ligres, ¿verdad?
+Confío en vosotros.
+Nuestras vidas están en vuestras\nmanos. ¡No nos decepcionéis ahora!
+¡Cierto!...
+Espero que podamos responder a esa confianza.
+Me alegro de que haya alguien\nque lo entienda.
+Me sabe mal por los ligres, pero me alegro\nde que ayudara a que confíen en nosotros.
+DEBEMOS protegerles.
+Luke, vamos a asegurarnos de que no\nnos cruzamos con más soldados.
+Lo sé.
+¡Luke!\nNo, yo tampoco he tenido cuidado...
+¡Lo siento!...
+Ou ou ou...
+¡Te ayudaremos!
+¡Yo te sanaré!
+Tiene mala pinta. Intentaré sanarte.
+¡Anise, rápido, ayúdale!
+¡Ack! ¡Geles, geles!
+Tío, ¿qué ha sido eso?...\nPensé que nos ibais a dejar\npasar sin luchar.
+Lo siento.\nVeo que tus heridas son profundas...
+Sólo me han dado ligeramente en el brazo, eso\nno basta para matarme... Hay muchos otros heridos.\nNo dejes que esto ocurra otra vez, por favor.
+Haré lo que pueda.
+¡Maldita sea!
+¡Tus heridas!
+Los de Kimlasca...\nme cogieron...
+¡Aguanta!
+¿De quién crees... que\nes la culpa?...
+Este dolor... y este odio...\nYo te maldigo...
+¡...!
+Me encargaré del cuerpo.
+¡Jade!
+Abrazar cadáveres no \nva a cambiar nada.
+Chesedonia está delante.\nVamos ya.
+Lo siento...\nLo siento mucho...
+Por fin hemos llegado...
+No perdimos ni un solo aldeano.\nAunque algunos se cayeron y se\nhicieron daño ellos solos.
+Sí... me alegra que todo\nel mundo esté bien.
+¡Muchísimas gracias!
+Hemos llegado sanos y salvos.\n¡Esto es en señal de agradecimiento!
+No os lo podemos agradecer lo suficiente.\nTenéis mi más sincera gratitud.
+¡Gracias por todo vuestro esfuerzo!
+Guau, eh...
+Deberías estar orgulloso, Luke.\nHas hecho un trabajo admirable.
+No, no podría haberlo hecho sin \ntu ayuda y la de los demás.
+Adularme no te servirá de nada.
+Bueno, entremos en la ciudad.
+Nos hirieron un poco, pero en\ngeneral, ha sido un éxito.
+Sí. Estoy aliviado.
+Bueno, la gente de Engeve ya\nhan entrado en la ciudad.\nEntremos nosotros también.
+Acabamos perdiendo algunos aldeanos...
+Sí.
+Estamos viajando con civiles sin \npreparación. Deberíamos estar contentos\nde que la mayoría estén a salvo.
+No sé qué decir...\nA los que murieron,\na los que viven...
+Pero no puedes huir.\nLo sabes, o eso espero.\nAhora, entremos en la ciudad.
+Al final algunos hemos\nllegado vivos, ¿eh?...
+Ya vale. Sabíamos que era\npeligroso antes de salir.
+¡Pero estos escoltas eran malísimos!...\n¡Está más claro que el agua!
+¡Es como si hubieran olvidado que\nacompañaban a civiles y se metieran\nen peleas a propósito!
+Lo siento...
+Parece que nuestra suposición no fue acertada.
+Os agradecemos que nos\nhayáis traído hasta aquí.
+Pero... nos hubiera gustado que\nhubierais tenido un poco más de...
+¿Qué he hecho?\n¿Qué creía que estaba haciendo?
+Lamentarse no cambiará nada.\nLo único que puedes hacer es\nresponsabilizarte de tus actos.
+Venga, vamos.
+¡¿Por qué nos están atacando los\nCaballeros del Oráculo?!
+Deben considerarnos una amenaza para sus planes.
+¡Hasta aquí habéis llegado!
+¡Traeremos la era de \nprosperidad predicha!
+¿Esto es cosa de Mohs?
+¿Crees que Mohs está detrás esto?
+No podemos saberlo. Los soldados\npueden haber tomado esta\ndecisión por sí mismos.
+Creen que vivir según lo\nque dice la Partitura\nes lo correcto.
+Ellos, también, son parte de la Orden.\nCreen que vivir acorde a la\nPartitura es lo correcto.
+Pero si se quedan aquí,\nmorirán junto con la\ntierra que cae...
+La Orden existe para defender\nla Partitura. Supongo que es lo\nque tienen que hacer, pero...
+Es difícil de soportar.
+Sólo Ion y pocas personas más piensan\nque una mala Partitura es un aviso para\nevitar que tenga lugar ese futuro.
+Sí... La Orden aún controla la\nPartitura y ésta, a su vez, \ncontrola a la Orden.
+¡*Ejem*!
+¡¿De qué tienes miedo?!
+¡Es el maestro fónico Ion!\n¡No puedo!...
+¡Idiota! ¡Captúralo vivo\ny mata al resto!\n¡Ataca!
+¡Van con soldados del Oráculo!\n¡¿Pelearemos contra los nuestros?!
+¡Idiota! ¡Están con el Maestro Fónico!\n¡Si insisten en interferir, no nos \nquedará otra opción que matarlos!
+P-Pero si hace poco\nque me hice Bravo...
+¡Gah! ¡Ya vale! ¡Eres culpable\nde insubordinación!
+¡Cómo ha podido hacer algo así!
+¡Muere!
+Ha matado a su propio\ncompañero...
+Asesinado por su compañero soldado...\nNo hay nada peor que un fanático.
+Esto también es influencia de Mohs, ¿no?...\nNo podemos permitir que esto siga así.
+¡Venga! ¡Vamos a poner fin\na la guerra de ese hombre!
+¡No se van a rendir hasta el final!
+¡Yulia! \n¡Concédenos la Partitura de la victoria!
+Creen que lo que hacen\nestá bien...
+Si esto no fuera un campo de batalla, seguramente\npodríamos habernos entendido bien con ellos...
+Natalia, no nos podemos parar aquí.
+Chesedonia está justo enfrente.\nVamos a detener esta guerra,\n¿verdad?
+¡Natalia! ¡Ánimo!\nChesedonia está justo frente a nosotros.\nVamos a poner fin a esta lucha, ¿verdad?
+Vale...
+Por fin hemos llegado...
+Os lo agradezco. Gracias a vuestra\nayuda, lo hemos conseguido sin\nderramamiento de sangre inútil.
+Es demasiado pronto para relajarse.\nTodavía tenemos que persuadir al\nconde Almandine.
+Todavía nos queda mucho trabajo.\nTenemos que persuadir al conde Almandine.
+Bien.
+Después de todo, no pudimos\nevitar la batalla...
+Aun así, ha ido mejor de lo que esperaba.
+Pero... a pesar de todo me siento fatal.
+Sí.\nEsa pérdida de vidas es la mayor razón por \nla que DEBEMOS persuadir al conde Almandine.
+Vale...
+Después de todo, no pudimos\nevitar la batalla...
+Pero ha ido mejor de lo que esperaba...
+Aun así, me siento fatal...
+Sí. Esa pérdida de vidas es la mayor razón\npor la que DEBEMOS persuadir al conde Almandine.
+Tienes razón... Vamos.
+Fuimos muy ingenuos creyendo que podríamos\natravesar corriendo el campo de batalla...
+Pero no teníamos alternativa...
+La tierra se podría caer en cualquier momento.
+Tienes razón... Al menos vayamos\na ver si conseguimos negociar\ncon el Conde Almandine.
+Fuimos muy ingenuos creyendo que podríamos\natravesar corriendo el campo de batalla...
+Pero no teníamos alternativa...
+La tierra se podría caer en cualquier momento.
+Sí, tienes razón...
+Vale. Al menos asegurémonos de que\nconseguimos negociar con el conde Almandine.
+¡Hasta aquí habéis llegado!
+¡Espera! ¡Somos civiles!
+¡Espera!\n¡Estamos escoltando civiles!
+¿Qué? ¿Qué hacen civiles aquí?
+¡No dejéis que os engañen! ¡Según la \nPartitura, hay soldados escondidos\nentre ellos! ¡Eliminadlos!
+¡Para!\n¡Escúchame!
+¡Espera!\n¡Escúchame!
+*Suspiro*\nNo hemos empezado con buen pie.
+Daath está trabajando con ellos. No me digas\nque han reconocido la agresión de Kimlasca\ncomo legítima...
+¡¿Qué hacen aquí\nCaballeros del Oráculo?!
+Mohs debe de haber reconocido\noficialmente que el ataque de\nKimlasca es una agresión justificada.
+¡Pero sólo el Maestro Fónico puede hacer eso!
+Parece que algunos estaban heridos.\nSi nos atacan otra vez, posiblemente\nlos heridos mueran.
+Curaré a los heridos.
+Por favor.
+Estamos escoltando civiles, así que \ntendremos que tener más cuidado.
+Hemos fallado...
+¡Grrrraaaaaah!
+¡Aquí vienen!
+He echado un vistazo a los aldeanos...\nTres muertos, cinco heridos... uno grave.\nA los heridos ya los he atendido.
+Fui a echar un vistazo a la gente\nde Engeve. Tres muertos y\ncinco heridos.
+Uno de los heridos está bastante grave.
+Son más de los que esperaba...\nPero supongo que ése es el resultado de \nnuestra vacilación a la hora de atacar.
+Como estamos viajando con civiles, el\nresultado de cualquier combate serán bajas.\nDebemos tener eso siempre en mente.
+¡Grrrraaaaaah!
+Aquí vienen...
+Aunque sea culpa nuestra por ir\nhacia ellos, ¿no hay ningún\nmodo de que nos escuchen?
+¿Por qué nos atacan sin\nescuchar lo que decimos?...
+Esto es el frente.
+No puedes esperar decisiones racionales de \nsoldados jóvenes que no dejan de pensar\nen cuando los atacarán de nuevo.
+Sí, es como dice Jade...
+Odio esto...
+Tenemos más bajas...\nUn muerto y dos heridos.\nCon ellos, ya hay seis heridos.
+Otro aldeano muerto...\nY también hay más heridos...
+Las cosas no pintan bien...
+Éste es el lugar de acampada por hoy.
+Bueno, aquí es donde acamparemos hoy.
+Bueno, hoy ha ido bien.\nNo nos hemos enfrentado a ningún enemigo.
+Permití que hirieran a los aldeanos.
+Hemos tratado sus heridas, así que no\ncreo que afecte a nuestro progreso\nmañana, aunque...
+¿Ha fallado mi intuición?... No puedo creer que\nyo haya causado la muerte de algunos aldeanos.
+A partir de mañana, me aseguraré\nde estar más alerta.
+La inquietud se está apoderando de los\naldeanos. Teniendo en cuenta cuántos han\nmuerto, no me sorprende demasiado.
+Me avergüenza ver mi reputación de\n"Nigromante" justificada...
+Mañana tendremos otro largo día\npor delante. ¿A cuánta distancia\nestamos desde aquí?
+Mañana tendremos otro \nlargo día por delante.\nPor cierto, ¿cuánto nos falta?
+Aún no estamos ni a mitad del camino.
+Perdona... Tú estabas a bordo\ndel Tartarus, ¿no?
+Sí. Yo estaba al mando del Tartarus.\n¿Puedo hacer algo por ti?
+¿Había en la tripulación un\nsoldado de nombre Marco?
+¿Marco?\nEra el ayudante del Coronel.
+¿Marco? ¿Te refieres al\nayudante del Coronel?
+¡El ayudante del comandante!\n¡No tenía ni idea que hubiera ascendido tanto!
+¡Es nuestro hijo! ¡Mi mujer estará\nmuy orgullosa cuando se entere!
+Pero... él...
+Pero...
+Entonces, ¿qué está haciendo ahora?
+Tal y como están las cosas, \n¿crees que podrían\nenviarlo al frente?
+Siento tener que decirte esto,\npero tu hijo murió en combate\ndurante un ataque enemigo.
+¡¿Cu-cuándo?! ¡¿Cuándo ocurrió?!\n¡Estaba bien cuando el Tartarus\nvino a Engeve!
+Fue después de eso. Nos atacaron fuerzas\nque querían capturar al Maestro Fónico.\nTu hijo tuvo una muerte honorable en combate.
+Lo siento. Si hubiera sido más fuerte...
+Ya veo... Así que Marco murió protegiendo\nal maestro fónico Ion...
+Cuando Marco nació, un\nIntérprete de la Orden\nde Lorelei nos dijo:
+"Un día, este niño ayudará a un\ngran noble". Nos dijeron que debía\nconvertirse en soldado...
+Ese niño estúpido. ¡No importa lo\nadmirable haya sido, ¿cómo ha\npodido morir antes que yo?!
+Mi hijo está muerto...\nPero su comandante está vivo y bien.\nSé que esas dos cosas no están\nconectadas, pero...
+¡Pero no puedo aceptarlo!\n¡Devuélveme a mi hijo!
+Lo siento.
+¡¡Maldita sea!!
+Mi hijo murió con honor, protegiendo al\nmaestro fónico Ion. Pero tú... ¡tú eres\nun asesino! ¡Devuélveme a mi hijo!
+No negaré que soy un asesino. \nLo siento.
+¡Maldito seas!
+Coronel...
+¿Estás bien, Jade?...
+Siendo soldado, uno se acostumbra a los elogios,\na las quejas y las lágrimas de los padres.
+No te preocupes por mí.
+Ahora mismo, por favor, céntrate\nen llevar a la gente de Engeve\na salvo hasta Chesedonia.
+¡Maldita sea! ¡Soldados de Malkuth!
+No hay necesidad de luchar contra ellos.
+¡Yo tampoco quiero luchar! ¡Hey! \n¡Esperad! No tenemos intención de...
+¡Grrrraaaaaah!
+¡Mierda, aquí vienen!
+¿Por qué ha tenido que pasar esto?...
+No nos han escuchado...
+Por supuesto.\nEsto es una guerra.\nSus vidas están en juego.
+Están desesperados\npor salir con vida.
+Esto es el frente.\nNo hay buenos ni malos aquí...
+Por desgracia, así es la vida en\nel campo de batalla. No hay otra \nsalida más que luchar.
+Pero la gente de Malkuth son\ntambién buenas personas...
+En cualquier caso, lo único que podemos\nhacer es intentar evitar el contacto\ncon el ejército de Malkuth.
+Sí.\nEstoy harto de matar.
+¡E-Enemigos! ¡En guardia!
+¡Joder!
+Mamá... las piernas...\nel ojo... me duele...\nMamá...
+Ése debe haber sido su primer despliegue.
+"Mamá"...\nMaldita sea... ¡Lo siento!
+Llorar no sirve de nada, Anise.\nEsto es la guerra.
+Si hubiera escogido una ruta mejor...\nLo siento.
+Matar o que te maten... Este campo de\nbatalla es el verdadero Qliphoth...
+¡Morid, perros de Kimlasca!
+¡Otra vez no!
+¡Cuidado!
+¡Natalia!\n¡Detrás de ti!
+¡Natalia!\n¡Detrás de ti! ¡Detrás de ti!
+¿Mostraste compasión a tu enemigo?\nNo sobrevivirás mucho haciendo eso...
+¡¿Estás bien?!
+Lo siento. Yo...\nNo pude matarle.
+Lo comprendo. Todos querrían\nevitar matar a gente. Pero...
+Sí, lo sé.\nTengo que aprender\ncómo es el mundo real.
+Por fin hemos llegado\nal lugar de acampada.
+¿Cuánto queda hasta Chesedonia?
+Aún nos queda un largo viaje...
+¡¿Hay alguien ahí?!
+Soy yo.
+¡¿General Frings?!\n¡¿Qué estás haciendo aquí?!
+¡Bien! ¡El ejército de Kimlasca\nse ha desplegado en esta zona!
+Mis tropas me informaron de que os habían visto.
+Y tú, el general, ¿viniste a reconocer el\nterreno tú solo? ¿O buscas a Natalia?
+No me puedo imaginar a un general explorando\npor sí mismo. No me digas que estás intentando\nusar a Natalia en este conflicto...
+Qué, ¿has venido a explorar? \nNo me digas que vienes a por Natalia...
+Lo veo improbable.\n¿Verdad, general?
+Por favor, no me malinterpretes.\nNo he venido a haceros daño.
+Ni a reconocer el terreno. Solo quiero\nque abandonéis el campo de batalla.
+¿Qué quieres decir?
+Si las cosas siguen como hasta ahora, \ntendremos que mataros, porque sois\nde Kimlasca.
+Nos dirigimos a Chesedonia para\nponer fin a la esta lucha.
+No importa el peligro, \nno podemos volver atrás.
+No podréis conseguirlo.\nEsta lucha sólo va\na ir a peor.
+No puedo decirle a mis tropas que\nintenten no atacaros sólo a vosotros.
+Lo sabemos. Nosotros tampoco\nqueremos enfrentarnos a vosotros.
+Hacemos lo que podemos para\nevitar las luchas.
+Ya veo... Intentaré avisar a aquellos\nque entienden la situación\nde que no os ataquen.
+Pero... si llegaran a luchar, por favor\nno odies a mis soldados.
+Después de que viniera hasta aquí, \na pesar del peligro, me siento\nmal por decir que no...
+Pero si esta guerra continúa, todo el\nmundo morirá cuando la tierra caiga.\nTenemos que detenerla, ¿verdad?
+Sí. Espero que podamos evitar\nluchar contra Malkuth.
+Venga. Movámonos con cuidado,\npara no tener que luchar.
+¡Gloria a Su Majestad el Rey!
+Parece que los aldeanos no están heridos...
+¡Hey! ¡¿Qué está pasando?! ¡Creía\nque íbais a protegernos del\nejército de Kimlasca!
+Lo siento.\nEstamos haciéndolo lo mejor que podemos.
+Lo siento. No estamos acostumbrados\na viajar con civiles.
+¡No quiero oír eso!
+¡Dijiste que estaríamos en peligro aunque\nnos quedáramos y nos rindiésemos,\nasí que nos fuimos contigo!
+¡No lo hicimos para ponernos en peligro!
+Ack... Por favor, cálmate.\nEntiendo cómo te sientes, pero\nsi empezamos a discutir aquí...
+Escuchad, el Maestro Fónico de la\nOrden de Lorelei está con\nvosotros. Por favor, tranquilos.
+Tu rabia es comprensible.\nTomaremos toda precaución posible.\nAcepta nuestras disculpas.
+¡B-Bueno, será mejor\nque os las apañéis!...
+¡No sé quienes sois vosotros, pero \ndesde luego he aprendido lo inútiles \nque pueden llegar a ser los soldados!
+¡Espera un minuto!
+Para.\nAhora mismo, debemos darnos prisa.
+¡Pero...!
+Por favor, haz lo que digo.
+¡Hey!
+Para.\nAhora mismo, debemos darnos prisa.
+¡Pero...!
+Sé una buena chica y haz lo que digo.
+¡Buuu!
+Es casi como si alguien\nestuviera controlándome...
+¡Parad! ¡Si causáis un alboroto \naquí, atraeremos la atención de\nmás tropas de Kimlasca!
+¡Aaagh! ¡Parad ya! ¡Si seguís armando \nfollón, las fuerzas de Kimlasca\nnos encontrarán de nuevo!
+Calmaos, por favor.\n¡No conseguiremos nada\ncausando un alboroto aquí!
+¡Cállate!\n¡Apártate de mi camino!
+¿Qué es todo ese ruido?\nVais a atacar a soldados\nde Kimlasca.
+¡Cállate!\n¡Mi mejor amigo está muerto!
+Qué desafortunado.
+¡¿"Desafortunado"?!\n¡¿Es todo lo que tienes que decir?!\n¡Es culpa tuya, señor soldado importante!
+¡¿Ni siquiera puedes disculparte?!
+No tengo intención de\npedirte disculpas.
+¡¿Qué?!
+Ya que suenas como si\nestuvieras realmente enfadado,\nno mediré mis palabras.
+Prometí llevaros a salvo hasta\nChesedonia. Plenamente conscientes\ndel peligro, nos seguisteis.
+Esto es un pacto. Lo siento por\naquellos que han muerto,
+Por aquellos que están vivos, creo que\ntengo cosas más importantes que hacer\nque pedir disculpas.
+¡Los soldados son despreciables!
+Coronel... ¿has hecho bien en decir eso?
+Guau, hey, sé que podrías haber salido\nde ésta de una manera más elegante...
+Podría haberle calmado con\nuna mentira, pero me parecía\nmal hasta para mí.
+Venga, vamos.
+Otra vez no...
+En esa lucha hemos\nperdido nueve personas.\nEsto es horrible...
+Ya hemos perdido a nueve\npersonas... ¿No hay nada\nque podamos hacer?
+Me siento tan impotente...
+Significa que soy un incompetente...\nLo siento de veras.
+Casi hemos llegado al\nlugar de acampada.\nSigamos alerta.
+Estamos por fin a mitad del camino.
+Perdona, ¿hay algún sanador o\nquizá algunos geles de sobra\ndisponibles por aquí? 
+Yo soy sanadora.
+¿Hay alguien herido?
+No, sólo me hice\ndaño en el pie...
+Creí haber dado órdenes de que todas \nlas mujeres embarcaran en el Albiore.
+También le dijimos eso a ella.
+Pero Miriam dijo que no nos preocupásemos por\nella y que nos ocupáramos de otro en su lugar.\nNi siquiera nos escucha...
+¿Por qué haría algo así?...
+En qué estabas pensando...
+No pasa nada. No me malinterpretes...\nyo tampoco pretendo morir aquí.
+Pero perdí tanto a mi hijo como\na mi marido, así que...
+¿A causa de la guerra?
+Su marido trabajaba en\nlas minas de Akzeriuth.
+Mi hijo quería visitarle, y la ciudad fue\ndestruida justo cuando mi hijo\nestaba allí...
+Que pena oír eso.
+Pero en ese caso, es aún\nmás importante que\ntú sobrevivas.
+Para que puedas vivir por ellos.
+Sí...
+Tear, cúrala, por favor.
+Me aseguraré de que te den unos cuantos geles.
+Llévalos a la fila.
+No sabía qué decirle...
+No se me ocurría qué decirle...
+No hay necesidad de explicar\nla verdad aquí y provocar\nintranquilidad inútilmente.
+Si necesita una explicación,\npodemos dársela luego, cuando haya\nvuelto sana y salva a su casa.
+Posiblemente nos odie.
+Nos odiará, ¿verdad?
+No se puede evitar.
+¡Oh, no!
+¡Gloria al Emperador!
+Y así, gente inocente murió\npor el bien de su país... no,\npor el bien de la nobleza.
+Natalia...
+¿Podemos mantener nuestro estilo de vida\ngracias al derramamiento de su sangre?...
+Pospongamos ese tipo de emociones hasta\nque hayamos detenido este conflicto.
+Sé que suena frío, pero tal y como están\nlas cosas ahora, ese "derramamiento\nde sangre" solo aumentará.
+Lo siento si te he herido...
+Sí, la clase alta no ve lo\nque ocurre en el frente.
+Es horrible, tanto para vosotros como para nosotros.
+Pero, ahora mismo, tenemos que\nllegar a Chesedonia para detener\neste conflicto, ¿verdad?
+Sí. Están arriesgando sus vidas porque\ncreen en su país o en sus líderes.
+No saben que esta guerra la \nestá dirigiendo la Partitura.
+Natalia, estoy seguro de que\nesto debe ser espantoso para ti.
+¿Pero no hay algo que\ndeberías estar haciendo?
+Tienes razón...\nNo podemos pararnos aquí.
+Guau, eres alucinante...
+O, mejor dicho... Creo que yo lo soy.\nNecesito entender mejor mi propia\nposición y mi responsabilidad.
+¡Hasta aquí habéis llegado!
+Tenemos que luchar otra vez, ¿no?...
+Primero destruis Akzeriuth... luego\ninvadís nuestro imperio... ¿no tienen\nfin las atrocidades de Kimlasca?
+Yo...
+Maldito\nseas...
+En el fondo, por mi culpa,\nesta guerra comenzó justo\ncomo la Partitura dijo.
+Luke. Éste no es el momento.
+Si sientes que es culpa tuya,\nponle fin tú mismo.
+Y yo también. Como la hija de \nmi padre, acabaré con su locura.
+Natalia tiene razón. Que te consumas\nen la pena o la culpabilidad no va\na hacer que cambie la situación.
+La única manera de provocar\ncambios es la acción.
+Natalia tiene razón. Puede ser\ndoloroso, pero si no entras en\nacción, nada cambiará.
+¡Luke! Llevarse un berrinche no va a \nhacer que nos vean con mejores ojos.
+Vamos, Luke.\nHaremos lo que podamos,\npoco a poco... ¿vale?
+Sí... Tienes razón.\nTenemos que hacerlo.\nTenemos que...
+¡Ah! Eres tú...
+¿Qué?\n¿Nos conocéis?
+El general Frings nos informó\nde la situación. Nosotros...
+¡Es el enemigo!\n¡Matadlos!
+¡Para!
+¡Soy Natalia Luzu Kimlasca-Lanvaldear! \n¡Envainad vuestras espadas!
+¿La princesa Natalia? ¡Imposible!\nSu Alteza está muerta...
+¡Estos tíos estaban con los soldados\nde Malkuth! ¡Debe de ser una impostora!\n¡Matadlos!
+¡Deteneos!\nElla es la auténtica...
+¡Desgraciadamente, Maestro Fónico, vamos\ncon la facción del gran maestro Mohs!\n¡La guerra debe continuar!
+¡Fuera de mi camino!
+¡Para!
+Los soldados de Malkuth están todos muertos...
+Después de que nos intentaran ayudar...
+Ninguno de ellos ha sobrevivido...\nIntentaron ayudarnos y esto es\nlo que han recibido a cambio...
+Me temo que ya están todos muertos...
+¡No!...\n¡Intentaron ayudarnos!
+Y ahora hemos matado incluso a soldados\nque están de nuestra parte...\nNo sé que debo pensar ya...
+¿Por qué ha tenido que acabar así?\n¡Maldita sea!
+Por fin llegamos al lugar de acampada...
+Bien. Hemos conseguido evitar las\ntropas de Malkuth de camino.
+Espero que podamos continuar así.
+Espero que podamos evitar las posibles\nluchas con el ejército de Malkuth...
+Sí... No son realmente nuestro enemigo.\nIntentemos ser más cuidados\na partir de mañana.
+¿De verdad estamos intentando\ndetener esta guerra?
+Más bien parece que estemos compitiendo\npor ver quién mata más gente.
+A partir de mañana, escogeremos las rutas con más\ncuidado y haremos todo lo que esté en nuestras manos\npara evitar cruzarnos con las tropas de Malkuth.
+Estamos a mitad del camino hasta Chesedonia.
+¡¿Quién anda ahí?!
+La general de brigada Cecille.
+¿Cómo sabías que estábamos aquí?...
+Mis tropas han informado de vuestra presencia. \n¿Qué estáis haciendo en un lugar como éste?...
+Ya te lo he dicho. Vamos\na ver a Almandine para\ndetener este conflicto.
+¡No puedes hablar en serio! Ahora mismo, estáis \nen una zona que está bajo nuestro control.\nPor favor, regresad a Kaitzur.\nEs demasiado peligroso.
+No podemos.\nSi esta guerra continúa, todo el mundo morirá.
+Nuestras fuerzas no perderán.
+No nos referimos a eso.\nEl campo de batalla está en peligro.
+Tal como están las cosas, ambos\nejércitos van a acabar mal.
+Alteza...\nPor favor, comprenda mi situación.
+Siento hacerte esto.\nPero es mi deber.
+Está bien...\nAl menos, déjame asignarte\nalguna protección.\nPor favor.
+Está bien...\nAgradezco tu preocupación.
+Pero no necesitamos un montón de tropas.\nEso sólo atraería la atención
+Entendido. A partir de mañana,\ntendréis un pelotón que irá\ndetrás de vosotros.
+Por favor, tened cuidado...
+¡Maldita sea!
+Perdona...
+¿Sí?...
+Unos cuantos amigos míos han\nsido heridos en la batalla.
+Veo que también estás herido.
+Yo estoy bien. Pero Marus está... uno de\nmis amigos está sangrando mucho...
+Va a casarse pronto.\n¡No puedo dejar que muera en un sitio como éste!
+Yo me encargaré de él.
+¡Oh, no!\n¡Es terrible!\n¡Tenemos que llevarle geles!
+Iré contigo.
+Está bien. Te lo dejo a ti.
+Creo en usted, señor.\nPor favor, no deje que nadie más salga herido.
+No quiero ver morir a mis amigos.
+Haré lo que pueda.
+Me pregunto si aquel hombre herido\nde antes está bien.
+¿Estará bien el hombre\nal que hirieron antes?
+Lo están tratando ahora.\nSólo podemos esperar que no \nse viera envuelto en la lucha...
+......
+¡Éste es un recuerdo de el hombre\nal que no pudiste proteger!
+¡Marus está muerto! ¡Iba a\ncasarse el mes que viene!
+¡¿Cómo voy a decírselo a Nina?!\n¡Asesino!
+Siento tu pérdida...
+¡¿Eso es todo lo que vas a decir?!\n¡Marus no volverá nunca!
+No pudimos evitarlos...
+Siete muertos... Seis heridos.\nEl hombre que estaba gritando\nantes está muerto también.
+Ni siquiera sabíamos\nsu nombre...
+Hay más de diez muertos...\nEl hombre que estaba gritando\nantes está muerto también.
+"Ese hombre"...\nNi siquiera sabemos su nombre.\n¡Maldita sea!
+Me avergüenzo de mí mismo.
+En cualquier caso, rehagamos la formación\ny dirijámonos al próximo lugar de acampada.\nEs peligroso quedarse aquí...
+Finalmente hemos llegado al lugar de\nacampada. Chesedonia está justo delante.
+Finalmente hemos llegado al lugar de\nacampada. Chesedonia está justo delante.
+Sí. Y logramos llegar hasta\naquí sin ningún herido.
+Sigamos así hasta\nel final.
+Mi ingenuidad hizo que los aldeanos\nacabasen heridos, pero ya casi\nhemos llegado. Sigamos así.
+Mis errores han resultado en muchas\nmuertes. Pero el arrepentimiento\nno los traerá de vuelta.
+Para salvar a los que siguen vivos\nvoy a hacer todo lo que pueda \nen lo que queda de este viaje.
+Mi incompetencia ha resultado\nen un gran número de muertes.
+Un gran número de aldeanos no \nestán contentos con nosotros.
+Debemos tener cuidado para que no\naumente su miedo y su malestar,\no podríamos perderlos a todos.
+Gracias por lo de ayer.
+Sois vosotros...
+Gracias a ti, mi pie está mejor y hoy he\nsido capaz de caminar sin problemas.
+Oh, se te está descosiendo la camisa...
+¡U-uauh!
+¡¿Aah?!
+¡Oh! L-Lo siento...
+Mmm... ¿Hice algo que te molestase?...
+N-No, no es tu culpa.\nEs sólo...
+No parece que estés bien...
+¿Qué es esto?...\nSiento como si estuviera a\npunto de recordar algo...
+(El olor de la muerte... Gritos...\n¿Me estoy... escondiendo?)
+Lo siento. Probablemente sólo está cansado.\n¿Y tú, estás bien?
+S-Sí, estoy bien. Lo siento...\nNo quería asustarte.
+No, soy yo quien debería disculparse...\nMe avergüenzo de haber herido a una señorita.
+Acepta mis más humildes disculpas.
+Oh... qué raro eres.\nPareces un noble y todo.
+¿O-Oh, lo estoy? Lo siento.
+Está bien.\nPor favor, ten cuidado.
+Guy... ¿te encuentras bien?
+Sí...\nMe pregunto por qué estaré tan tenso.
+Puede que sea porque estamos en pleno campo \nde batalla. De todas formas, ve a descansar.
+Sí, lo tendré...\nGracias.
+Me pregunto qué ocurre.
+¿Está bien Guy?
+Mmm. Estoy preocupado por él.\nSu fobia a las mujeres parece \nestar profundamente arraigada.
+Debe ser algo relacionado \ncon la vida y la muerte.
+Gracias por lo de ayer.
+Sois vosotros...
+Gracias a ti, Tear, mi pie está \nmejor y hoy he sido capaz de\nandar sin ningún problema.
+No tienes por qué darme las gracias.\nEs mi deber como sanadora.
+Tú eres un miembro de los\nCaballeros del Oráculo,\n¿no es cierto?
+S-Sí... lo estoy.
+¿No están tus padres preocupados por ti?
+Ambos están muertos...
+Oh... lo siento. Ya veo.\nDebes sentirte sola.
+No, estoy bien...
+Venga. Yo perdí a mi marido y a mi\nhijo, y siento como si se hubiera \nabierto un agujero en mi corazón.
+¿Cuándo nos dirá la Partitura \nque la guerra va acabar?...
+La Partitura es... Sin tener en\ncuenta la Partitura, tenemos\nque poner fin a la lucha.
+Pero si la Partitura dice que continuará\ndurante otros diez años, entonces eso\nes lo que ocurrirá.
+Aunque la Partitura diga que\ncontinuará durante diez años...\nCreo que tenemos que ponerle fin.
+Tear...
+Nunca pensé que oiría a alguien de\nDaath decir algo tan espantoso...
+Pero... estoy de acuerdo contigo.\nEspero que la guerra termine pronto.
+De todas formas, gracias, Tear.
+Me sorprende oírte \ndecir algo así...
+La verdad es que me da\nmiedo abandonar la Partitura.
+Pero... ahora que sé la verdad,\nme asusta más depender de ella...
+Puedo imaginarlo. Entiendo\ncómo te sientes.
+Después de todo, la Partitura \nes parte de nuestra vida...
+Gracias por lo de ayer.
+Miriam...
+Gracias a ti, mi pie está mejor y hoy he\nsido capaz de caminar sin problemas.
+Veo que tú también eres una soldado\na pesar de lo joven que eres.
+Es mi mejor subordinada.
+¡Anda, no me adules,\naunque sea cierto!
+Oh, qué confianza tienes con\nel maestro fónico Ion...
+Tus padres deben estar\nmuy orgullos de ti.
+Oh... je...\nSupongo.
+Seguro que sí.\nCuida bien de ellos, ¿eh?
+Vale...
+Siento lo de tu marido\ny tu hijo...
+Sí... En momentos así, me gustaría que la\nPartitura nos dijera cuánto nos queda de vida.
+Creo que así podríamos usar mejor\nel tiempo que nos queda.
+¿En serio...? Si supieras cuándo\nvas a morir, ¿no te asustarías\nni te desesperarías?
+Sí, también es posible, pero ahora \nque he perdido a mi familia...
+Oh, bueno, no estoy sugiriendo ir\ncontra lo que dicta la Orden.\nSólo divago un poco.
+Entiendo. Espero que al\nmenos a ti te lean la\nPartitura de la felicidad.
+Gracias.
+La gente de este mundo obedece la \nPartitura ciegamente por su propia \nvoluntad. Me entristece verlo...
+Bueno, sí... la vida es \nmás fácil de esa forma.
+Sí, estoy segura de que así es como \npiensan... Aunque se podría considerar \nuna situación antinatural...
+¡Otra vez no!
+¡Tú!
+¿Nos conoces?
+Hey, tú eres uno de los de la\noperación de rescate de San Binah.
+¡Samus! ¡¿Pero qué haces?!\n¡Mátalos!
+Pero están colaborando con el\ncoronel Curtiss para salvar a\nla gente de San Binah...
+¡Idiota! ¡Mientras estén con el ejército de\nKimlasca son nuestros enemigos! ¡¿Quieres\nvértelas con un consejo de guerra o qué?!
+¡E-Espera!
+¡Samus! ¡Ataca!
+¡Pe... perdonadme!
+¡¿Por qué?!... ¡Trabajamos juntos!\n¡¿Por qué tiene que pasar esto?!
+No podemos permitir que\nocurra un conflicto así...
+¡Si no estuviéramos en el campo de\nbatalla, podríamos haber colaborado!
+Samus... lo siento...\nSé que no es suficiente, pero...\n¡Lo siento!
+Tomémonos un tiempo para lamentar su\nmuerte. Pero no podemos quedarnos\nmucho rato, ¿entendido?
+No puedo creer que esté matando gente de\nmi propio país... No quiero tener que \nhacer esto nunca más...
+Ion...\nEsto es horrible...
+Esta es nuestra realidad... Precisamente\npor eso debemos cambiarla.
+Este mundo rebosa muerte...
+Grr...
+¡Lo siento!...
+¡Oh, no!\n¡Refuerzos de Malkuth!
+¡Mierda!\n¡Refuerzos de Malkuth!
+¡Refuerzos de Malkuth!
+Esto pinta mal...\n¡No estamos preparados!
+¡Déjanoslos a nosotros!
+¡U-Uah, esperad!
+¡Vengaremos a nuestros compañeros!
+¡No les pondréis las manos encima!
+No os preocupéis por\nnosotros. ¡Seguid!
+¡Pero...!
+Natalia, vamos.\nEso es lo que diría Jade \nsi estuviese aquí.
+Yo...
+¡Lo siento!...
+¿Cuántos hay ya...?
+¿Qué?...
+El número de gente que hemos matado...\nNo, no sólo gente. Si también contamos\na los monstruos, entonces...
+Yo no diría que no pasa nada \npor ser "sólo" monstruos.
+Pero si sigues esa lógica \nhasta el final, la gente\nno sería capaz de comer.
+Puede que el mero hecho de vivir\nsea el acto de consumir vida.
+Natalia, no es malo \npensar en ello.
+Pero ahora no vas a llegar a\nninguna conclusión racional.
+Porque rechazas todo\ntipo de muertes.
+El ser humano está lleno de contradicciones.\nLa moral y los ideales pueden cambiar\nfácilmente de la noche a la mañana.
+Tú estás hablando de una\nde esas contradicciones.
+Quizá la contradicción más grande\ndesde que el ser humano empezó a\npensar, a sentir y a hablar.
+¡No podemos evitarlo!...
+Los cerdinejos son monos, pero si no nos los comemos,\nmoriremos, así que nada de filosofías extremistas, ¿vale?
+A mí también me preocupa que lo que estemos\nhaciendo esté mal, o no tenga sentido...
+Pero creo que mientras no olvides \ncuestionarte a ti mismo como ahora, \nno perderás el control.
+Como hice en Akzeriuth...
+Tienes razón... Ahora pienso\nen todo de forma demasiado\nnegativa...
+Hoy acamparemos aquí...
+Ya casi estamos en Chesedonia.
+Sí...
+¡¿Quién anda ahí?!
+¡Fuerzas de Kimlasca!...
+¡Tropas de Malkuth!
+¡Hey, ya basta!\n¡Los dos!
+General Cecille, envaina tu espada.\nEste hombre no nos hará daño.
+¡Pero!
+¿General Cecille?...\n¿LA general Cecille?
+¿Quién eres?
+General de brigada Aslan Frings.
+¡General Frings!
+Escuchadme. Nos dirigimos hacia\nChesedonia para detener esta guerra.
+No vamos a permitir que os\npeleéis delante de nosotros.
+Por eso estoy aquí. Quiero que\nretiréis los escoltas de Kimlasca\nque van detrás de vosotros.
+¡¿Pero qué dices?!\n¡A partir de aquí el territorio está\ncontrolado por Malkuth! ¡Vine a pedir\npermiso para aumentar su escolta!
+He explicado la situación a mis tropas que\nestán desde aquí hasta Chesedonia.
+Podemos dejar pasar al grupo de la princesa\nNatalia, pero si las tropas de Kimlasca los\nacompañan, no tendremos otra opción que atacar.
+¡No podemos confiar en eso!
+General Cecille, espera.\nEl general Frings es un hombre de palabra.
+Y si hace falta, nosotros\nprotegeremos a Natalia.\nNo te preocupes.
+Pero...
+Me he decidido.
+Si les pasa algo, me\nquitaré la vida.
+Por favor, Cecille.
+Tu vida apenas vale nada comparada\ncon la de la princesa Natalia...
+Pero me retiraré por respeto\na las palabras de Luke.
+Gracias.
+Ahora, los dos, volved a vuestros\ncampamentos sin pelear.
+Así que las tropas de Malkuth\nno nos atacarán mañana.
+Eso no quiere decir que podamos\nser descuidados. Tampoco\ntendremos ningún apoyo.
+Lo sé.
+Esa pelea fue impresionante.\nAunque sabes, me sentiría más\nsegura si no tuvierais que luchar.
+¡Eres el tendero!\nLo siento.\nNo pudimos evitarlos...
+¡Oh, eres el tendero!\nSiento que te hayamos puesto en peligro.
+¿Pero qué dices?\nTe esfuerzas mucho por nuestro bien.
+Hay quien habla mal de vosotros, \npero oí que fuisteis los que \necharon a los ligres, ¿verdad?
+Confío en vosotros.
+Nuestras vidas están en vuestras\nmanos. ¡No nos decepcionéis ahora!
+¡No lo haremos!
+¡Por supuesto!
+Me alegro de que haya alguien\nque lo entienda.
+Me sabe mal por los ligres, pero me alegro\nde que ayudara a que confíen en nosotros.
+DEBEMOS protegerles.
+Tengamos cuidado de no\nencontrarnos con más soldados.
+Soy un completo idiota.
+Ou ou ou...
+¡Estás herido!
+¡Yo te sanaré!
+¡Estás herido!
+¡Anise, rápido, ayúdale!
+¡Ack! ¡Geles, geles!
+Tío, ¿qué ha sido eso?...\nPensé que nos ibais a dejar\npasar sin luchar.
+Lo siento.\nVeo que tus heridas son profundas...
+Sólo me han dado ligeramente en el brazo, eso\nno basta para matarme... Hay muchos otros heridos.\nNo dejes que esto ocurra otra vez, por favor.
+Haré lo que pueda.
+¿Estamos haciendo esto a propósito?...
+¡Tus heridas!
+¡Oh, no!
+Los de Kimlasca...\nme cogieron...
+¡Aguanta!
+¡Aguanta!
+Dudo que haya algo que podamos hacer ahora.
+¿De quién crees... que\nes la culpa?...
+Este dolor... y este odio...\nYo te maldigo...
+Me encargaré del cuerpo.
+¡Coronel!
+Jade...\nNo te creo...
+Abrazar cadáveres no \nva a cambiar nada.
+Chesedonia está delante.\nVamos ya.
+¡Lo siento!...
+Por fin hemos llegado...
+Hemos llegado...
+No perdimos ni un aldeano.\nAunque algunos se cayeron y se\nhicieron daño ellos solos.
+¡Muchísimas gracias!
+Hemos llegado sanos y salvos.\n¡Esto es en señal de agradecimiento!
+No os lo podemos agradecer lo suficiente.\nTenéis mi más sincera gratitud.
+¡Gracias por todo vuestro esfuerzo!
+Buen trabajo, chicos.\nLo hicisteis bien.
+No, el mérito aquí\nes tuyo, Jade.
+¡El mérito es tuyo, Coronel!
+Adularme no te servirá de nada.
+Bueno, entremos en la ciudad.
+Nos hirieron un poco, pero en\ngeneral, ha sido un éxito.
+Sí, me alegro.
+Estoy aliviado.
+Bueno, la gente de Engeve ya\nhan entrado en la ciudad.\nEntremos nosotros también.
+Al final, perdimos algunos aldeanos.\nAunque podamos estar agradecidos de que \nla mayoría esté a salvo, aún me duele.
+No sé qué decirles... tanto \na los que murieron, como a\nlos que aún están vivos.
+Como soldado, estoy avergonzado\nde mi incapacidad.
+Pero no podemos huir.\nEntremos a la ciudad.
+Al final algunos hemos\nllegado vivos, ¿eh?...
+Ya vale. Sabíamos que era\npeligroso antes de salir.
+¡Pero estos escoltas eran malísimos!...\n¡Está más claro que el agua!
+¡Es como si hubieran olvidado que\nacompañaban a civiles y se metieran\nen peleas a propósito!
+Lo siento. Parece que mis\ndecisiones no fueron correctas.
+Os agradecemos que nos\nhayáis traído hasta aquí.
+Pero... nos hubiera gustado que\nhubierais tenido un poco más de...
+¿Qué creíamos que\nestábamos haciendo?
+¿Lo que hicimos no tuvo sentido?
+Lamentarse no cambiará nada.\nLo único que puedes hacer es\nresponsabilizarte de tus actos.
+Venga, vamos.
+¡¿Por qué nos atacan los Caballeros del Oráculo?!
+Deben considerarnos una amenaza para sus planes.
+Quizá les han ordenado que\nnos impidan llegar a\nChesedonia.
+¡Hasta aquí habéis llegado!
+¡Traeremos la era de \nprosperidad predicha!
+¿Esto es cosa de Mohs?
+No podemos estar seguros.\nPuede que los soldados hayan\ntomado esa decisión ellos mismos.
+Creen que vivir según lo\nque dice la Partitura\nes lo correcto.
+Pero si se quedan aquí,\nmorirán junto con la\ntierra que cae...
+No puede evitarse.\nSon las enseñanzas de la Orden.
+La Orden existe para defender la Partitura.\nSupongo que es lo que tienen que hacer, pero...
+Es difícil de soportar.
+Sólo Ion y pocas personas más piensan\nque una mala Partitura es un aviso para\nevitar que tenga lugar ese futuro.
+Sí... La Orden aún controla la\nPartitura y ésta, a su vez, \ncontrola a la Orden.
+¡Maldita sea!
+¡*Ejem*!
+¡¿De qué tienes miedo?!
+¡Es el maestro fónico Ion!\n¡No puedo!...
+¡Idiota! ¡Captúralo vivo\ny mata al resto!\n¡Ataca!
+¡Van con soldados del Oráculo!\n¡¿Pelearemos contra los nuestros?!
+¡Idiota! ¡Ellos están con la facción del \nMaestro Fónico! ¡Si insisten en interferir, \nno tenemos otra opción más que matarles!
+P-Pero si hace poco\nque me hice Bravo...
+¡Gah! ¡Ya vale! ¡Eres culpable\nde insubordinación!
+¡Cómo ha podido hacer algo así!
+¡Muere!
+¡Esto es una locura!\n¡Es horrible!
+¡Ha matado a su propio compañero!\n¿Cómo ha podido?...
+Asesinado por su compañero...\nNo hay nada peor \nque un fanático.
+Es porque no tengo poder suficiente.\nSi tan sólo pudiera ser un líder más fuerte...
+Ion...
+Esto también es influencia de Mohs, ¿no?...\nNo podemos permitir que esto siga así.
+¡Venga! ¡Vamos a poner fin\na la guerra de ese hombre!
+¡Otra vez no!\n¡Y casi hemos llegado!\n¡No puedo creer lo estúpido que soy!
+¡Yulia! \n¡Concédenos la Partitura de la victoria!
+Creen que lo que hacen\nestá bien...
+Si esto no fuera un campo de batalla, seguramente\npodríamos habernos entendido bien con ellos...
+Natalia, no nos podemos parar aquí.
+¡Chesedonia está justo delante!\n¡Pongamos fin a esta guerra!
+Sí...
+Por fin hemos llegado...
+Gracias, Luke. Gracias a tu habilidad\npara escoger las rutas, hemos\nevitado combates innecesarios.
+No, se lo debemos a la general\nCecille y al general Frings...
+Oh, te has vuelto más humilde.\nEstoy orgullosa de ti.
+¿Qué?\nOh, bueno, da igual.\n¡Entremos a la ciudad!
+Todavía tenemos que persuadir\nal conde Almandine.
+Bien.
+Después de todo, no pudimos\nevitar la batalla...
+Pero fue mucho menos\nde lo que imaginé.
+Sí...\nAunque aún me siento mal.
+Sí. Las muertes son la razón mas \nimportante por la que DEBEMOS\npersuadir al conde Almandine.
+Sí... Vamos allá.
+Fuimos muy ingenuos creyendo que podríamos\natravesar corriendo el campo de batalla...
+Pero no teníamos alternativa...
+La tierra se podría caer en cualquier momento.
+Sí. Como recuerdo hacia los que\nasesinamos, asegurémonos de que...
+No, supongo que no podemos\nllamarlo realmente de esa\nforma, pero aun así...
+Sí. Vamos a ver\nal conde Almandine.

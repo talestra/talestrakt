@@ -1,0 +1,631 @@
+0000:Lesser Goblin
+
+0001:Lesser Pan
+
+0002:Boarlet
+
+0003:Lesser Fiendlin
+
+0004:Goblin
+
+0005:Pan
+
+0006:Elder Boar
+
+0007:Fiendlin
+
+0008:Great Goblin
+
+0009:Great Pan
+
+0010:Boarrig
+
+0011:Great Fiendlin
+
+0012:Ogre
+
+0013:Yeti
+
+0014:Grimza
+
+0015:Ogre Replica
+
+0016:Behemoth
+
+0017:
+
+0018:Jabberwock
+
+0019:Oryiel
+
+0020:Behemoth
+
+0021:Zombie
+
+0022:Phantom
+
+0023:Dark
+
+0024:Ghoul
+
+0025:Skeleton
+
+0026:Skeleton Warrior
+
+0027:Fonic Golem
+
+0028:Fonic Golem
+
+0029:Fonic Golem
+
+0030:Thief
+
+0031:Hooligan
+
+0032:Sand Thief
+
+0033:Assassin
+
+0034:Two-Handed Master
+
+0035:Kimlascan Pawn
+
+0036:Kimlascan Knight
+
+0037:Malkuth Pawn
+
+0038:Malkuth Knight
+
+0039:Malkuth Pawn
+
+0040:Malkuth Rune
+
+0041:Oracle Knight
+
+0042:Knight Replica
+
+0043:Oracle Knight
+
+0044:Oracle Knight
+
+0045:Oracle Knight
+
+0046:Oracle Knight
+
+0047:Knight Replica
+
+0048:High Oracle Knight
+
+0049:High Knight Replica
+
+0050:High Oracle Knight
+
+0051:High Knight Replica
+
+0052:Oracle Guard
+
+0053:Guard Replica
+
+0054:Kimlascan Rune
+
+0055:Oracle Rune
+
+0056:Rune Replica
+
+0057:Oracle Rune
+
+0058:Rune Replica
+
+0059:Oracle Brass
+
+0060:Brass Replica
+
+0061:Burglar
+
+0062:Savage Helm
+
+0063:Sand Burglar
+
+0064:Full Plate Warrior
+
+0065:
+
+0066:Magitrix
+
+0067:Bersertrix
+
+0068:Sand Shaman
+
+0069:Coliseum Queen
+
+0070:Guardian
+
+0071:Mandragora
+
+0072:Dryad
+
+0073:Alraune
+
+0074:Rafflesian
+
+0075:Cactus
+
+0076:Cactossus
+
+0077:Imitation Mieu
+
+0078:Mandractus
+
+0079:Treant
+
+0080:Snow Treant
+
+0081:Rotting Treant
+
+0082:Chareant
+
+0083:Filifolia
+
+0084:Microcalyx
+
+0085:Hilaris
+
+0086:Minutissima
+
+0087:Veitchii
+
+0088:Muscipula
+
+0089:Heterodoxa
+
+0090:Caerurea
+
+0091:Bat
+
+0092:Flame Bat
+
+0093:Water Bat
+
+0094:Earth Bat
+
+0095:Wind Bat
+
+0096:Thunder Bat
+
+0097:Ice Bat
+
+0098:Poison Bat
+
+0099:Golden Bat
+
+0100:Big Bat
+
+0101:Black Bat
+
+0102:Griffin
+
+0103:Hippogriff
+
+0104:Chimera
+
+0105:Manticore
+
+0106:Garuda
+
+0107:Glasruda
+
+0108:Eggruda
+
+0109:Night Owl
+
+0110:Unicondor
+
+0111:Woodruda
+
+0112:Chirpee
+
+0113:Cawcaw
+
+0114:Peepit
+
+0115:Rustlet
+
+0116:Drencher
+
+0117:Clangette
+
+0118:Blazeit
+
+0119:Howler
+
+0120:Bangette
+
+0121:Flitter
+
+0122:Screechit
+
+0123:Wyvern
+
+0124:Vouivre
+
+0125:Drake
+
+0126:Fafnir
+
+0127:Ribbit
+
+0128:Rebbit
+
+0129:Purbit
+
+0130:Giltbit
+
+0131:Polwigle
+
+0132:Bluwigle
+
+0133:Purwigle
+
+0134:Grewigle
+
+0135:Rewigle
+
+0136:Metawigle
+
+0137:Giltwigle
+
+0138:Piwigle
+
+0139:Tortoise
+
+0140:Charge Tortoise
+
+0141:Storm Tortoise
+
+0142:Tyrantoise
+
+0143:Sludge Tortoise
+
+0144:Mercat
+
+0145:Merfish
+
+0146:Mershark
+
+0147:Merstone
+
+0148:Water Spirit
+
+0149:Mercrity
+
+0150:Golden Slime
+
+0151:Coal Tar
+
+0152:Earth Spirit
+
+0153:Volcano Clown
+
+0154:Rock Spirit
+
+0155:Meltrock
+
+0156:Mirror Spirit
+
+0157:Fire Spirit
+
+0158:Flame Spirit
+
+0159:Ice Spirit
+
+0160:Wind Spirit
+
+0161:Breeze Spirit
+
+0162:Gale Spirit
+
+0163:Storm Spirit
+
+0164:Coryntis
+
+0165:Erythrotis
+
+0166:Streontis
+
+0167:Puseustis
+
+0168:Basilisk
+
+0169:Salamander
+
+0170:Ice Lizard
+
+0171:Sand Fang
+
+0172:Deathseeker
+
+0173:Wolf
+
+0174:Garm Wolf
+
+0175:White Wolf
+
+0176:Treant Wolf
+
+0177:Ice Wolf
+
+0178:Camo Wolf
+
+0179:Night Raid
+
+0180:Gold Wolf
+
+0181:Watcher Wolf
+
+0182:Axe Beak
+
+0183:Hatchet Beak
+
+0184:Tomahawk Beak
+
+0185:Blade Beak
+
+0186:Dragon
+
+0187:Grosbelva
+
+0188:Graelhorn
+
+0189:Gordion
+
+0190:Rhinossus
+
+0191:Rhinoboar
+
+0192:Armaboar
+
+0193:Elephossus
+
+0194:Ligar
+
+0195:Ligan
+
+0196:Ligarre
+
+0197:Ligust
+
+0198:Gremlins
+
+0199:Furies
+
+0200:Sharkliers
+
+0201:Camofliers
+
+0202:Empts
+
+0203:Castle Golem
+
+0204:Stone Golem
+
+0205:Lava Golem
+
+0206:Wood Golem
+
+0207:Gremlin
+
+0208:Fury
+
+0209:Sharklier
+
+0210:Camoflier
+
+0211:Empt
+
+0212:
+
+0213:
+
+0214:Crab
+
+0215:Iron Crab
+
+0216:Balmung Crab
+
+0217:Caliburn Crab
+
+0218:Giant Bee
+
+0219:Killer Bee
+
+0220:Worker Bee
+
+0221:Death Bee
+
+0222:Bee Knight
+
+0223:Death Bee Knight
+
+0224:Poltergeist
+
+0225:Apparition
+
+0226:Turned Fork
+
+0227:Broken Fork
+
+0228:Rusty Fork
+
+0229:Sand Worm
+
+0230:Rock Worm
+
+0231:Leviathan
+
+0232:Desgoyle
+
+0233:Gargoyle
+
+0234:Mirror Goyle
+
+0235:Broken Goyle
+
+0236:Fonic Goyle
+
+0237:Absorb Goyle
+
+0238:Mossy Goyle
+
+0239:Caster
+
+0240:Pedestal
+
+0241:Dressing Table
+
+0242:Broken Chair
+
+0243:Fonic Chest
+
+0244:Absorb Chest
+
+0245:Mossy Chest
+
+0246:Sting Roper
+
+0247:Red Roper
+
+0248:Green Roper
+
+0249:Spear Roper
+
+0250:Tape Roper
+
+0251:Block Roper
+
+0252:Medusa Roper
+
+0253:Fossail
+
+0254:Flarrail
+
+0255:Green Stonail
+
+0256:Stonail
+
+0257:Tostail
+
+0258:Linail
+
+0259:Xi
+
+0260:Chi
+
+0261:Omega
+
+0262:Vita
+
+0263:Hammer Cannon
+
+0264:Pile Cannon
+
+0265:Scissor Cannon
+
+0266:Gear Saw Cannon
+
+0267:Asch
+
+0268:Asch
+
+0269:Sync
+
+0270:Sync
+
+0271:Sync
+
+0272:Legretta
+
+0273:Legretta
+
+0274:Legretta
+
+0275:Largo
+
+0276:Largo
+
+0277:Largo
+
+0278:Arietta
+
+0279:Arietta
+
+0280:Arietta
+
+0281:Van
+
+0282:Van
+
+0283:Van
+
+0284:Liger Queen
+
+0285:Abaddon
+
+0286:Ancylopolyp
+
+0287:Blade Rex
+
+0288:Tyrannopion
+
+0289:Uniceros
+
+0290:Repair Fonbot
+
+0291:Fyr Bronc
+
+0292:Hresvelgr
+
+0293:Hresvelgr
+
+0294:Liger
+
+0295:Liger
+
+0296:Kaiser Dist R
+
+0297:Kaiser Dist RX
+
+0298:Kaiser Dist XX
+
+0299:Gigant Mohs
+
+0300:Replicantis
+
+0301:Reid Hershel
+
+0302:Nanaly Fletch
+
+0303:Philia Philis
+
+0304:Nebilim
+
+0305:Sword Dancer
+
+0306:Sword Dancer
+
+0307:Sword Dancer
+
+0308:Mint Adnade
+
+0309:Balloon
+
+0310:Training Dummy
+
+0311:Sync Replica
+
+0312:Legretta Replica
+
+0313:Largo Replica
+
+0314:Arietta Replica
+
+0315:Polyp 

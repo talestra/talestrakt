@@ -1,0 +1,1947 @@
+﻿testmap
+--------------
+
+xx0_event
+Main -debug
+
+xx0_system
+System text -Debug
+
+xx0_battle
+Battle -Debug
+
+xx0_skit
+Skit -Debug
+
+xx0_shop
+Shop -Debug
+
+xx0_effect
+Effect -Debug
+
+xx0_sound1
+Sound 01 -Debug
+
+xx0_sound2
+Sound 02 -Debug
+
+xx0_sound3
+Sound 03 -Debug
+
+xx1_town
+Town - 00 Debug
+
+xx1_town01
+Town - 01 Debug
+
+xx1_town02
+Town - 02 Debug
+
+xx1_town03
+Town - 03 Debug
+
+xx1_town04
+Town - 04 Debug
+
+xx1_town05
+Town - 05 Debug
+
+xx1_town06
+Town - 06 Debug
+
+xx1_town07
+Town - 07 Debug
+
+xx1_town08
+Town - 08 Debug
+
+xx1_town09
+Town - 09 Debug
+
+xx1_town10
+Town - 10 Debug
+
+xx1_dungeon
+Dungeon -Debug
+
+xx1_indoor
+Indoor -Debug
+
+xx1_field
+Field -Debug
+
+xx2_char
+Character -Debug
+
+xx2_monster
+Monster -Debug
+
+xx2_motion
+Motion -Debug
+
+xx3_creek
+Creek & River -Debug
+
+xx3_mine
+Minryu -Debug
+
+xx3_prokion
+Prokion -Debug
+
+system_01
+System 01 -Debug
+
+system_02
+System 02 -Debug
+
+aji_d00e
+Isla de Feres
+
+aji_d01
+Isla de Feres
+
+aji_d02
+Isla de Feres
+
+aji_d03
+Isla de Feres
+
+aji_d04
+Isla de Feres
+
+aji_d05
+Isla de Feres
+
+aji_d06
+Isla de Feres
+
+aji_d07
+Isla de Feres
+
+aji_d08
+Isla de Feres
+
+aji_d09
+Isla de Feres
+
+aji_d10
+Isla de Feres
+
+aji_d11
+Isla de Feres
+
+aji_d12
+Isla de Feres
+
+aji_d13
+Isla de Feres
+
+aji_d14
+Isla de Feres
+
+aji_d15
+Isla de Feres
+
+aji_d16
+Isla de Feres
+
+aji_d17
+Isla de Feres
+
+aji_d18
+Isla de Feres
+
+aji_d19
+Isla de Feres
+
+aji_d20
+Isla de Feres
+
+aji_d21
+Isla de Feres
+
+aji_d22
+Isla de Feres
+
+aji_d23
+Isla de Feres
+
+aji_d24
+Isla de Feres
+
+aji_d25
+Isla de Feres
+
+aji_d26
+Isla de Feres, laboratorio de fomicría
+
+ani_t00e
+Engeve
+
+ani_t01e
+Engeve
+
+ani_i00_00
+Casa de Rose
+
+ani_i00_01
+Casa de Rose
+
+ani_i01
+Engeve
+
+ani_i02
+Engeve
+
+ani_i03
+Engeve
+
+bas_t00e
+Auldrant
+
+bni_t00e
+Auldrant (de noche)
+
+cap_t00e
+Baticul
+
+cap_t01
+Baticul, centro
+
+cap_t02
+Baticul, puerto
+
+cap_t03
+Baticul, instalaciones militares
+
+cap_t04
+Castillo de Baticul, jardines colgantes
+
+cap_t05
+Baticul, mansión de Luke
+
+cap_i00_00
+Baticul
+
+cap_i00_01
+Baticul, Coliseo
+
+cap_i00_02
+Baticul, Coliseo
+
+cap_i00_03
+Baticul, Coliseo
+
+cap_i00_04
+Baticul, Coliseo
+
+cap_i00_05
+Baticul, Coliseo
+
+cap_i01
+Dojo Miyagi
+
+cap_i02
+Monasterio de la Orden de Lorelei
+
+cap_i03_00
+Baticul
+
+cap_i03_01
+Baticul
+
+cap_i03_02
+Baticul
+
+cap_i04
+Baticul, instalaciones militares
+
+cap_i05_00
+Castillo de Baticul
+
+cap_i05_01
+Castillo de Baticul, sala del trono
+
+cap_i05_02
+Castillo de Baticul
+
+cap_i05_03
+Castillo de Baticul
+
+cap_i05_04
+Castillo de Baticul
+
+cap_i05_05
+Castillo de Baticul
+
+cap_i05_06
+Castillo de Baticul, habitación de Natalia
+
+cap_i05_07
+Castillo de Baticul
+
+cap_i05_08
+Castillo de Baticul, habitación del Rey
+
+cap_i05_09
+Castillo de Baticul
+
+cap_i05_10
+Castillo de Baticul
+
+cap_i05_11
+Castillo de Baticul, prisión
+
+cap_i06_00
+Baticul, mansión de Luke
+
+cap_i06_01
+Baticul, mansión de Luke
+
+cap_i06_02
+Baticul, mansión de Luke
+
+cap_i06_03
+Baticul, mansión de Luke
+
+cap_i06_04
+Baticul, mansión de Luke
+
+cap_i06_05
+Baticul, mansión de Luke
+
+cap_i06_06
+Baticul, mansión de Luke
+
+cap_i06_07
+Baticul, mansión de Luke
+
+cas_d00e
+Castillo de Coral
+
+cas_d01
+Castillo de Coral, sala principal
+
+cas_d02
+Castillo de Coral
+
+cas_d03
+Castillo de Coral
+
+cas_d04
+Castillo de Coral, instalaciones extrañas
+
+cas_d05
+Castillo de Coral
+
+cas_d06
+Castillo de Coral
+
+cas_d07
+Castillo de Coral
+
+cas_d08
+Castillo de Coral
+
+cas_d09
+Castillo de Coral
+
+cas_d10
+Castillo de Coral
+
+chd_d00e
+Sede del Oráculo, sala principal
+
+chd_d01
+Sede del Oráculo, sala principal
+
+chd_d02
+Sede del Oráculo
+
+chd_d03
+Sede del Oráculo
+
+chd_d04
+Sede del Oráculo
+
+chd_d05
+Sede del Oráculo
+
+chd_d06
+Sede del Oráculo
+
+chd_d07
+Sede del Oráculo
+
+chd_d08
+Sede del Oráculo
+
+chd_d09
+Sede del Oráculo
+
+chd_d10
+Sede del Oráculo
+
+chd_d11
+Sede del Oráculo
+
+chd_d12
+Sede del Oráculo
+
+chd_d13
+Sede del Oráculo
+
+chd_d14
+Sede del Oráculo
+
+chd_d15
+Sede del Oráculo
+
+chd_d16
+Sede del Oráculo
+
+chd_d17
+Sede del Oráculo
+
+chd_d18
+Sede del Oráculo
+
+chd_d19
+Sede del Oráculo
+
+chd_d20
+Sede del Oráculo, sala de entrenamiento
+
+chu_t00e
+Daath, colina del Cuarto Monumento
+
+chu_t01e
+Daath, sede de la Orden de Lorelei
+
+chu_t02
+Daath, sede de la Orden de Lorelei 
+
+chu_i00_00
+Daath, catedral
+
+chu_i00_01
+Daath, catedral Bethel
+
+chu_i00_02
+Daath, catedral
+
+chu_i00_03
+Daath, catedral
+
+chu_i00_04
+Daath, habitación de los Tatlin
+
+chu_i00_05
+Daath, catedral
+
+chu_i00_06
+Daath, catedral, habitación de Ion
+
+chu_i00_07
+Daath, catedral
+
+chu_i00_08
+Daath, catedral
+
+chu_i00_09
+Daath, catedral
+
+chu_i00_10
+Daath, catedral
+
+chu_i00_11
+Daath, catedral
+
+chu_i00_12
+Daath, catedral
+
+chu_i00_13
+Daath, catedral
+
+chu_i00_14
+Daath, catedral
+
+chu_i00_15
+Daath, catedral
+
+chu_i00_16
+Daath, catedral
+
+chu_i00_17
+Daath, catedral
+
+chu_i00_18
+Daath, catedral
+
+chu_i00_19
+Daath, catedral
+
+chu_i00_20
+Daath, catedral
+
+chu_i00_21
+Daath, catedral
+
+chu_i00_22
+Daath, catedral
+
+chu_i00_23
+Daath, catedral
+
+chu_i00_24
+Daath, catedral
+
+chu_i00_25
+Daath, catedral
+
+chu_i00_26
+Daath, catedral
+
+chu_i00_27
+Daath, catedral
+
+chu_i00_28
+Daath, catedral
+
+chu_i00_29
+Daath, catedral
+
+chu_i00_30
+Daath, catedral
+
+chu_i00_31
+Daath, catedral
+
+chu_i00_32
+Daath, catedral
+
+chu_i00_33
+Daath, catedral
+
+chu_i00_34
+Daath, catedral
+
+chu_i00_35
+Daath, catedral
+
+chu_i00_36
+Daath, catedral
+
+chu_i00_37
+Daath, catedral
+
+chu_i00_38
+Daath, catedral
+
+chu_i00_39
+Daath, catedral
+
+chu_i00_40
+Daath, catedral
+
+chu_i00_41
+Daath, catedral
+
+chu_i00_42
+Daath, catedral
+
+chu_i00_43
+Daath, catedral
+
+chu_i00_44
+Daath, catedral
+
+chu_i00_45
+Daath, catedral
+
+chu_i00_46
+Daath, catedral
+
+chu_i00_47
+Daath, catedral
+
+chu_i00_48
+Daath, catedral
+
+chu_i00_49
+Daath, catedral
+
+chu_i00_50
+Daath, catedral
+
+chu_i00_51
+Daath, catedral
+
+chu_i00_52
+Daath, catedral
+
+chu_i00_53
+Daath, catedral
+
+chu_i00_54
+Daath, catedral
+
+chu_i00_55
+Daath, catedral
+
+chu_i00_56
+Daath, catedral
+
+chu_i00_57
+Daath, catedral
+
+chu_i00_58
+Daath, catedral
+
+chu_i00_59
+Daath, catedral
+
+chu_i00_60
+Daath, catedral
+
+chu_i00_61
+Daath, catedral
+
+chu_i00_62
+Daath, catedral
+
+chu_i00_63
+Daath, catedral
+
+chu_i00_64
+Daath, catedral
+
+cpo_t00e
+Bahía de Daath
+
+cok_d00e
+Bosque de Theor, entrada
+
+cok_d01
+Bosque de Theor
+
+cok_d02e
+Bosque de Theor
+
+cok_d03e
+Bosque de Theor
+
+cok_d04e
+Bosque de Theor
+
+dis_t00e
+Chesedonia, Kimlasca
+
+dis_t01
+Chesedonia, puerto de Kimlasca
+
+dis_t02
+Chesedonia, frontera
+
+dis_t03e
+Chesedonia, Malkuth
+
+dis_t04
+Chesedonia
+
+dis_t05e
+Chesedonia, Kimlasca
+
+dis_t06
+Chesedonia, puerto de Kimlasca
+
+dis_t07
+Chesedonia
+
+dis_i00_00
+Chesedonia
+
+dis_i00_01
+Chesedonia
+
+dis_i00_02
+Chesedonia
+
+dis_i00_03
+Chesedonia
+
+dis_i00_04
+Chesedonia
+
+dis_i01_00
+Chesedonia
+
+dis_i01_01
+Chesedonia
+
+dis_i02_00
+Chesedonia, consulado de Kimlasca
+
+dis_i02_01
+Chesedonia, consulado de Kimlasca
+
+dis_i03
+Chesedonia
+
+dis_i04_00
+Chesedonia, mansión de Astor
+
+dis_i04_01
+Chesedonia, mansión de Astor
+
+dis_i04_02
+Chesedonia, mansión de Astor
+
+dis_i04_03
+Chesedonia, mansión de Astor
+
+dis_i04_04
+Chesedonia, mansión de Astor
+
+dis_i05_00
+Chesedonia, consulado de Malkuth
+
+dis_i05_01
+Chesedonia, consulado de Malkuth
+
+dis_i05_02
+Chesedonia, consulado de Malkuth
+
+dis_i06_00
+Chesedonia
+
+dis_i06_01
+Chesedonia
+
+dis_i06_02
+Chesedonia
+
+dis_i06_03
+Chesedonia
+
+dis_i06_04
+Chesedonia
+
+dis_i07_00
+Chesedonia
+
+dis_i07_01
+Chesedonia
+
+dis_i08_00
+Chesedonia
+
+dis_i08_01
+Chesedonia
+
+dis_i08_02
+Chesedonia
+
+dis_i08_03
+Chesedonia
+
+dis_i08_04
+Chesedonia
+
+dis_i09
+Chesedonia, mansión de Astor
+
+eve_t00
+Albiore
+
+exd_d00
+Laboratorio de réplicas, The Abyss
+
+exd_d01
+Laboratorio de réplicas, The Abyss
+
+exd_d02
+Laboratorio de réplicas, The Abyss
+
+exe_d00e
+Baticul, fábrica abandonada
+
+exe_d01
+Baticul, fábrica abandonada
+
+exe_d02
+Baticul, fábrica abandonada
+
+exe_d03
+Baticul, fábrica abandonada
+
+exe_d04
+Baticul, fábrica abandonada
+
+fir_d00e
+Monte Zaleho
+
+fir_d01
+Monte Zaleho
+
+fir_d02
+Monte Zaleho
+
+fir_d03
+Monte Zaleho
+
+fir_d04
+Monte Zaleho
+
+fir_d05
+Monte Zaleho
+
+fir_d06
+Monte Zaleho
+
+fir_d07
+Monte Zaleho
+
+fir_d08
+Monte Zaleho
+
+fir_d09
+Monte Zaleho
+
+fir_d10
+Monte Zaleho
+
+fly_t00
+Albiore
+
+fly_t01
+Albiore
+
+fon_d00e
+Colina de Shurrey
+
+fon_d01
+Colina de Shurrey
+
+fon_d02
+Colina de Shurrey
+
+fon_d03
+Colinas de Shurrey
+
+fon_d04
+Colina de Shurrey
+
+fon_d05
+Colina de Shurrey
+
+fon_d06
+Colina de Shurrey
+
+fon_d07
+Colina de Shurrey
+
+fon_d08
+Colina de Shurrey
+
+fon_d09
+Colina de Shurrey
+
+fon_d10
+Colina de Shurrey
+
+fon_d11
+Colina de Shurrey
+
+fon_d12
+Colina de Shurrey
+
+fon_d13
+Colina de Shurrey
+
+fon_d14
+Colina de Shurrey
+
+fon_d15
+Colina de Shurrey
+
+fon_d16
+Colina de Shurrey
+
+fon_d17
+Colina de Shurrey
+
+fon_d18
+Colina de Shurrey
+
+for_t00e
+Kaitzur, Malkuth
+
+for_t01e
+Kaitzur, Kimlasca
+
+for_i00
+Kaitzur, Malkuth
+
+for_i01
+Kaitzur, Kimlasca
+
+for_i02
+Kaitzur, Kimlasca
+
+fpo_t00e
+Puerto de Kaitzur
+
+fpo_i00
+Puerto de Kaitzur
+
+fpo_i01
+Puerto de Kaitzur
+
+gld_d00
+Valle de Tataroo
+
+gld_d01
+Valle de Tataroo
+
+gld_d02e
+Valle de Tataroo
+
+gld_d03
+Valle de Tataroo
+
+gld_d04
+Valle de Tataroo
+
+gld_d05
+Valle de Tataroo
+
+gld_d06
+Valle de Tataroo
+
+gld_d07
+Valle de Tataroo
+
+gld_d08
+Valle de Tataroo
+
+gld_d09
+Valle de Tataroo
+
+gld_d10
+Valle de Tataroo
+
+gld_d11
+Valle de Tataroo
+
+gld_d12
+Valle de Tataroo
+
+gle_d00
+Valle de Tataroo
+
+gle_d01e
+Valle de Tataroo
+
+gra_d00e
+Montañas de Meggiora
+
+gra_d01
+Montañas de Meggiora
+
+gra_d02e
+Montañas de Meggiora
+
+gra_d03e
+Montañas de Meggiora
+
+gra_d04e
+Montañas de Meggiora
+
+gra_d05e
+Montañas de Meggiora
+
+hev_d00e
+Torre de Rem
+
+hev_d01
+Torre de Rem
+
+hev_d02
+Torre de Rem
+
+hev_d03
+Torre de Rem
+
+hev_d04
+Torre de Rem
+
+hev_d05
+Torre de Rem
+
+hev_d06
+Torre de Rem
+
+hev_d07
+Torre de Rem
+
+hev_d08
+Torre de Rem
+
+hev_d09
+Torre de Rem
+
+hol_d00e
+Tierras Exteriores, sumidero
+
+ice_d00e
+Monte Roneal
+
+ice_d01
+Monte Roneal
+
+ice_d02e
+Monte Roneal
+
+ice_d03
+Monte Roneal
+
+ice_d04
+Monte Roneal
+
+ice_d05
+Monte Roneal
+
+ice_d06
+Monte Roneal
+
+ice_d07
+Monte Roneal
+
+ice_d08
+Monte Roneal
+
+ice_d09
+Monte Roneal
+
+ice_d10e
+Monte Roneal
+
+ice_d11
+Monte Roneal
+
+ice_d12
+Monte Roneal
+
+ice_d13e
+Monte Roneal
+
+kin_d00e
+Camino de las Setas
+
+kin_d01
+Camino de las Setas
+
+kin_d02
+Camino de las Setas
+
+kin_d03e
+Camino de las Setas
+
+kin_d04
+Camino de las Setas
+
+kin_d05
+Camino de las Setas
+
+kin_d06
+Camino de las Setas
+
+las_d00e
+Eldrant
+
+las_d01
+Eldrant
+
+las_d02
+Eldrant
+
+las_d03
+Eldrant
+
+las_d04
+Eldrant
+
+las_d05
+Eldrant
+
+las_d06
+Eldrant
+
+las_d07
+Eldrant
+
+las_d08
+Eldrant
+
+las_d09
+Eldrant
+
+las_d10
+Eldrant
+
+las_d11
+Eldrant
+
+las_d12
+Eldrant
+
+las_d13
+Eldrant
+
+las_d14
+Eldrant, tumba de Yulia
+
+las_d15
+Eldrant
+
+las_d16
+Eldrant
+
+las_d17
+Eldrant
+
+las_d18
+Eldrant
+
+luk_i00
+Habitación oculta
+
+mag_d00e
+Núcleo
+
+mei_t00e
+Sheridan
+
+mei_t01e
+Sheridan
+
+mei_t02
+Sheridan
+
+mei_t03
+Sheridan
+
+mei_i00_00
+Sheridan
+
+mei_i00_01
+Sheridan
+
+mei_i01_00
+Sheridan
+
+mei_i01_01
+Sheridan
+
+mei_i01_02
+Sheridan
+
+mei_i01_03
+Sheridan
+
+mei_i01_04
+Sheridan
+
+mei_i01_05
+Sheridan
+
+mei_i01_06
+Sheridan
+
+mei_i02_00
+Sheridan
+
+mei_i02_01
+Sheridan
+
+mei_i02_02
+Sheridan
+
+mei_i03
+Sheridan, tienda de núcleos de capacidad
+
+mei_i04
+Sheridan
+
+mei_i05_00
+Sheridan
+
+mei_i05_01
+Sheridan
+
+mei_i05_02
+Sheridan
+
+mei_i06
+Sheridan, hangar de aeronaves
+
+mep_t00e
+Puerto de Sheridan
+
+mep_i00
+Puerto de Sheridan
+
+mep_i01
+Puerto de Sheridan
+
+min_t00e
+Akzeriuth
+
+min_t01
+Akzeriuth
+
+min_t02
+Akzeriuth caído
+
+min_i00_00
+Akzeriuth
+
+min_i00_01
+Akzeriuth
+
+min_i01
+Akzeriuth
+
+min_i02
+Akzeriuth
+
+mir_d00e
+Caverna de Ortion
+
+mir_d01e
+Caverna de Ortion
+
+mir_d02
+Caverna de Ortion
+
+mir_d03
+Caverna de Ortion, laboratorio de fomicría
+
+mir_d04
+Caverna de Ortion
+
+mir_d05
+Caverna de Ortion
+
+mir_d06e
+Caverna de Ortion, instalaciones extrañas
+
+mou_d00e
+Paso de Deo
+
+mou_d01
+Paso de Deo
+
+mou_d02
+Paso de Deo
+
+mou_d03
+Paso de Deo
+
+mou_d04
+Paso de Deo
+
+mou_d05
+Paso de Deo
+
+mou_d06
+Paso de Deo
+
+mou_d07
+Paso de Deo
+
+mou_d08e
+Paso de Deo
+
+myu_d00e
+Bosque de los Cheagles
+
+myu_d01
+Bosque de los Cheagles
+
+myu_d02
+Bosque de los Cheagles
+
+myu_d03
+Bosque de los Cheagles, gran árbol
+
+myu_d04
+Bosque de los Cheagles, interior del gran árbol
+
+myu_d05
+Bosque de los Cheagles
+
+myu_d06
+Bosque de los Cheagles, caverna
+
+nam_t00e
+Isla de Nam Cobandai
+
+nam_t01
+Isla de Nam Cobandai
+
+nam_i00_00
+Isla de Nam Cobandai, pasaje oculto
+
+nam_i00_01
+Isla de Nam Cobandai, puesto de seguridad
+
+nam_i00_02
+Isla de Nam Cobandai, habitación de los Alas Oscuras
+
+nam_i00_03
+Isla de Nam Cobandai, vestuarios
+
+nev_d00e
+Peñasco de Nebilim
+
+nor_d00e
+Portal de la Radiación
+
+nor_d01
+Portal de la Radiación
+
+nor_d02
+Portal de la Radiación
+
+oas_t00e
+Oasis del desierto
+
+oas_i00
+Oasis del desierto
+
+oas_i01
+Oasis del desierto
+
+onp_d00
+Tormenta Planetaria
+
+org_t00e
+Belkend
+
+org_t01
+Belkend
+
+org_i00
+Belkend
+
+org_i01
+Belkend, residencia del governador
+
+org_i02_00
+Belkend, laboratorio de máquinas fónicas I
+
+org_i02_01
+Belkend, laboratorio de máquinas fónicas I
+
+org_i02_02
+Belkend, laboratorio de máquinas fónicas I
+
+org_i02_03
+Belkend, laboratorio de máquinas fónicas I
+
+org_i02_04
+Belkend, laboratorio de máquinas fónicas I
+
+org_i02_05
+Belkend, laboratorio de máquinas fónicas I
+
+org_i02_06
+Belkend, laboratorio de máquinas fónicas I
+
+org_i02_07
+Belkend, laboratorio de máquinas fónicas I
+
+org_i02_08
+Belkend, laboratorio de fomicría
+
+org_i02_09
+Belkend, laboratorio de fomicría
+
+org_i02_10
+Belkend, laboratorio de fomicría
+
+org_i02_11
+Belkend, habitación de Van
+
+org_i02_12
+Belkend, laboratorio de fomicría
+
+orp_t00e
+Puerto de Belkend
+
+orp_i00
+Puerto de Belkend
+
+riv_d00e
+Río Fubras
+
+riv_d01
+Río Fubras
+
+riv_d02e
+Río Fubras
+
+sai_t00e
+San Binah
+
+sai_t01
+San Binah
+
+sai_i00
+San Binah
+
+sai_i01_00
+San Binah, base militar de Malkuth
+
+sai_i01_01
+San Binah, base militar de Malkuth
+
+sai_i01_02
+San Binah, base militar de Malkuth
+
+sai_i01_03
+San Binah, base militar de Malkuth
+
+sai_i02
+San Binah
+
+sai_i03
+San Binah
+
+san_d00e
+Ruinas Zao
+
+san_d01
+Ruinas Zao
+
+san_d02
+Ruinas Zao
+
+san_d03
+Ruinas Zao
+
+san_d04
+Ruinas Zao
+
+san_d05
+Ruinas Zao
+
+san_d06
+Ruinas Zao
+
+san_d07
+Ruinas Zao
+
+san_d08
+Ruinas Zao
+
+sco_t00e
+San Binah caído
+
+sco_t01
+San Binah caído
+
+sco_t02e
+San Binah
+
+sco_i01
+San Binah
+
+sea_d00
+Acorazado terrestre Tartarus, camarote
+
+sea_d01
+Acorazado terrestre Tartarus, camarote
+
+sea_d02
+Acorazado terrestre Tartarus, camarote
+
+sea_d03
+Acorazado terrestre Tartarus, pasillo
+
+sea_d04
+Acorazado terrestre Tartarus, pasillo
+
+sea_d05
+Acorazado terrestre Tartarus, cubierta
+
+sea_d06
+Acorazado terrestre Tartarus
+
+sea_d07
+Acorazado terrestre Tartarus, puente
+
+sea_d08
+Acorazado terrestre Tartarus, vestíbulo
+
+sea_d09
+Acorazado terrestre Tartarus, celda
+
+sea_d10
+Acorazado terrestre Tartarus, celda
+
+sea_d11
+Acorazado terrestre Tartarus, celda
+
+sea_d12
+Acorazado terrestre Tartarus, celda
+
+sea_d13
+Acorazado terrestre Tartarus, celda
+
+sea_d14
+Acorazado terrestre Tartarus, celda
+
+sea_d15e
+Acorazado terrestre Tartarus, vestíbulo
+
+sea_d16
+Acorazado terrestre Tartarus
+
+sea_d17
+Acorazado terrestre Tartarus
+
+seb_d00
+Acorazado terrestre Tartarus, salida
+
+shi_d00
+Transbordador Katsbert, Camarote
+
+shi_d01
+Transbordador Katsbert, camarote
+
+shi_d02
+Transbordador Katsbert, camarote
+
+shi_d03
+Transbordador Katsbert, cestíbulo
+
+shi_d04
+Transbordador Katsbert, camarote
+
+shi_d05
+Transbordador Katsbert, cubierta
+
+shi_d06
+Transbordador Katsbert, puente
+
+sno_t00e
+Keterburg
+
+sno_t01
+Keterburg
+
+sno_t02
+Keterburg
+
+sno_t03e
+Keterburg, plaza de entrada
+
+sno_t04
+Keterburg
+
+sno_t05e
+Keterburg, plaza de entrada
+
+sno_i00_00
+Keterburg, casino
+
+sno_i00_01
+Keterburg, casino
+
+sno_i01
+Keterburg
+
+sno_i02
+Keterburg
+
+sno_i03_00
+Keterburg
+
+sno_i03_01
+Keterburg
+
+sno_i03_02
+Keterburg
+
+sno_i03_03
+Keterburg
+
+sno_i03_04
+Keterburg
+
+sno_i04
+Keterburg
+
+sno_i05_00
+Keterburg
+
+sno_i05_01
+Keterburg
+
+sno_i05_02
+Keterburg
+
+sno_i05_03
+Keterburg
+
+sno_i05_04
+Keterburg
+
+sno_i05_05
+Keterburg
+
+sno_i05_06
+Keterburg
+
+sno_i05_07
+Keterburg
+
+sno_i05_08
+Keterburg
+
+sno_i05_09
+Keterburg
+
+sno_i05_10
+Keterburg
+
+sno_i05_11
+Keterburg
+
+sno_i06
+Keterburg
+
+sno_i07
+Keterburg
+
+sno_i08_00
+Keterburg, residencia de la governadora
+
+sno_i08_01
+Keterburg, residencia de la governadora
+
+sno_i09_00
+Keterburg
+
+sno_i09_01
+Keterburg
+
+sno_i09_02
+Keterburg
+
+snp_t00e
+Bahía de Keterburg
+
+snp_i00
+Bahía de Keterburg
+
+snp_i01
+Bahía de Keterburg
+
+sou_d00e
+Portal de la Absorción
+
+sou_d01
+Portal de la Absorción
+
+sou_d02
+Portal de la Absorción
+
+sou_d03
+Portal de la Absorción
+
+sou_d04
+Portal de la Absorción
+
+sou_d05
+Portal de la Absorción
+
+sou_d06
+Portal de la Absorción
+
+sou_d07
+Portal de la Absorción
+
+sou_d08
+Portal de la Absorción
+
+sou_d09
+Portal de la Absorción
+
+sou_d10
+Portal de la Absorción
+
+sou_d11
+Portal de la Absorción
+
+sou_d12
+Portal de la Absorción
+
+sou_d13
+Portal de la Absorción
+
+sou_d14
+Portal de la Absorción
+
+sou_d15_00
+Portal de la Absorción
+
+sou_d15_01
+Portal de la Absorción
+
+sou_d16
+Portal de la Absorción
+
+sou_d17
+Portal de la Absorción
+
+sou_d18
+Portal de la Absorción
+
+spw_d00e
+Manantial de Aramís
+
+spw_d01
+Manantial de Aramís
+
+spw_d02
+Manantial de Aramís
+
+spw_d03
+Manantial de Aramís, Sendero de Yulia
+
+tun_d00e
+Pozo 14 de la mina de Akzeriuth
+
+tun_d01
+Pozo 14 de la mina de Akzeriuth
+
+tun_d02
+Pozo 14 de la mina de Akzeriuth
+
+tun_d03
+Pozo 14 de la mina de Akzeriuth
+
+wat_t00e
+Gran Chokmah
+
+wat_t01
+Gran Chokmah, puerto
+
+wat_t02
+Gran Chokmah
+
+wat_t03
+Palacio de Gran Chokmah
+
+wat_t04
+Gran Chokmah, base militar
+
+wat_i00_00
+Gran Chokmah
+
+wat_i00_01
+Gran Chokmah
+
+wat_i00_02
+Gran Chokmah
+
+wat_i00_03
+Gran Chokmah
+
+wat_i01_00
+Gran Chokmah
+
+wat_i01_01
+Gran Chokmah, tienda de núcleos de capacidad
+
+wat_i02
+Monasterio de la Orden de Lorelei
+
+wat_i03_00
+Gran Chokmah
+
+wat_i03_01
+Gran Chokmah
+
+wat_i03_02
+Gran Chokmah
+
+wat_i04_00
+Palacio de Gran Chokmah
+
+wat_i04_01
+Palacio de Gran Chokmah
+
+wat_i04_02
+Palacio de Gran Chokmah, habitación de Peony
+
+wat_i04_03
+Palacio de Gran Chokmah, sala del trono
+
+wat_i04_04
+Palacio de Gran Chokmah
+
+wat_i04_05
+Palacio de Gran Chokmah
+
+wat_i04_06
+Palacio de Gran Chokmah
+
+wat_i04_07
+Palacio de Gran Chokmah
+
+wat_i05_00
+Gran Chokmah, base militar
+
+wat_i05_01
+Gran Chokmah, base militar
+
+wat_i05_02
+Gran Chokmah, base militar
+
+wat_i05_03
+Gran Chokmah, base militar
+
+wat_i05_04
+Gran Chokmah, base militar
+
+wat_i05_05
+Base militar, oficina de Jade
+
+wat_i05_06
+Gran Chokmah, base militar
+
+wet_d00
+Pantano de Inista
+
+wet_d01
+Pantano de Inista
+
+yur_t00e
+Ciudad de Yulia
+
+yur_t01
+Ciudad de Yulia
+
+yur_t02e
+Ciudad de Yulia
+
+yur_t03
+Ciudad de Yulia
+
+yur_i00_00
+Ciudad de Yulia, instalaciones centrales
+
+yur_i00_01
+Ciudad de Yulia, sala de la piedra fónica
+
+yur_i00_02
+Ciudad de Yulia, sala de reuniones
+
+yur_i00_03
+Ciudad de Yulia, Sendero de Yulia
+
+yur_i01_00
+Ciudad de Yulia
+
+yur_i01_01
+Ciudad de Yulia
+
+yur_i01_02
+Ciudad de Yulia, habitación de Tear
+
+yur_i01_03
+Ciudad de Yulia, jardín de flores de selenia
+
+_aiuchi
+Aiuchi -Debug
+
+_anabuki_01
+Anabuki 01 -Debug
+
+_anabuki_02
+Anabuki 02 -Debug
+
+_enomoto
+Enomoto -Debug
+
+_hasetaka
+Hasegawa -Debug
+
+_ichio
+Takami -Debug
+
+_kanemaru
+Kanemaru -Debug
+
+_kawase
+Kawase -Debug
+
+_koizumi
+Koizumi -Debug
+
+_miya_01
+Miyadera 01 -Debug
+
+_miya_02
+Miyadera 02 -Debug
+
+_murai
+Murai -Debug
+
+_otumoo
+Otsuka -Debug
+
+_wakatsuki
+Wakatsuki -Debug
+
+_yamauchi_01
+Yamauchi 01 -Debug
+
+_yamauchi_02
+Yamauchi 02 -Debug
+
+_mizushima
+Mizushima -Debug
+
+_matsushita
+Matsushita -Debug
+
+_ito
+Ito -Debug
+
+_custom
+Clear Data
+
+_endo
+Endo -Debug
+
+_k
+Suzuki -Debug
+
+_nagasawa
+Nagasawa -Debug
+
+_sawada
+Sawada -Debug
+
+_tanaka
+Tanaka -Debug
+
+title
+Title -Debug
+

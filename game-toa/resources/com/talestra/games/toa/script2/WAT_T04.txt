@@ -1,0 +1,546 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Buenos días, señor.
+Ésta es la entrada a los cuarteles de\nlas Fuerzas Imperiales de Malkuth.
+Buenos días, señor.
+Ésta es la entrada a los\ncuarteles militares.
+Buenos días, señor.
+Espero que las fuerzas en el \ncampo de batalla estén a salvo...
+Buenos días, señor.\nPor favor, pase.
+Los cuarteles generales tienen una estructura\ncompleja para confundir a los atacantes, pero\nlos nuevos reclutas también se pierden.
+Buenos días, señor.
+El Emperador te espera\nen el palacio.
+Buenos días, señor.
+El general McGovern está en estos momentos\ndestinado en San Binah. Debería ser \ncapaz de lidiar con cualquier problema.
+Buenos días, señor.
+Estoy seguro de que el general Frings\nencontrará una manera de superar\nincluso esta situación.
+Buenos días, señor.\nPor favor, pase.
+Un número creciente de nuevos reclutas \nestá alistándose en el ejército.\nNo podríamos estar más contentos.
+Cuarteles militares de Malkuth
+¡Muere!
+¡¿Pero qué demonios?! \n¡¿Qué crees que estás haciendo?!
+¡Os he oído hablar en el puerto! \n¡Tu eres Jade el Nigromante!<PAGE>\n¡Vengaré a mi hermano!
+¡Si nos estabas escuchando,\ndeberías saber que vienen\ncomo emisarios de paz!
+Lo sé... Pero ni siquiera pudieron\nencontrar el cuerpo de mi hermano.<PAGE>\nEl Nigromante se lo llevó y lo usó en\nsus experimentos para el Emperador.
+¡M-mis más sinceras disculpas!\n¡Lo arrestaré inmediatamente!
+¿Qué le pasa a este tío? \nQué idiota.
+Luke, no hables así....<PAGE>\nLo que hizo estuvo mal,\npero no se merece que se\nburlen de él por ello.
+Ah, si tu lo dices. Bueno,\nJade, hace tiempo que\nquiero saber una cosa.
+¿Qué pasa?...
+Tu lanza sale de repente\nde la nada. \n¿Cómo haces eso?
+Es un arte de fusión que utiliza\nel efecto contaminador.
+¿El efecto qué?
+El efecto contaminador. Es un efecto en\nel cual los fonones y los elementos de\nla materia se separan y se rechazan.
+Ah, como las propiedades de fusión que\ntienen los materiales usados para síntesis.
+Sí. No sólo los fonones de los seres vivos\ny de las materias inorgánicas son diferentes,\nsino también los elementos que los forman.<PAGE>\nUtilizando esa diferencia, fundo mi lanza\ntemporalmente con la capa exterior de\nmi brazo derecho.
+Y entonces la sacas cuando te\nhace falta, ¿eh? Mira qué útil.
+No me digas que quieres intentarlo, Luke.<PAGE>\nNormalmente, el cuerpo rechaza el\nefecto, y eso puede causar daño\nmental, incluso locura.
+Sí. Hace falta un viejo\ncomo este para hacerlo.
+Sí. En el tiempo que llevo intentando\ndominarlo, me he hecho viejo. \nJa ja ja.<PAGE>\nBueno, ¿nos vamos ya?
+Sobre los rumores que ese chico mencionó...
+Sí, se comenta por todo el ejército.<PAGE>\nLa historia dice que cogía\ncadáveres del campo de batalla\npara revivir a los muertos.
+Incluso hay un rumor que dice que la\nTercera División de las Fuerzas de Malkuth\nestá formada por muertos vivientes.<PAGE>\nPero cuando al final los conocí,\nresultó que no era verdad.
+Revivir a los muertos, eh...
+Amo, ¿qué vamos a hacer\ncon este cheagle?
+Oh, sí. Mmm... No podemos llevarlo\nde vuelta al bosque. Ahora\nestá en el Qliphoth.
+¿Qué pasa?
+Ah, hemos recogido a este cheagle, pero\nno lo podemos llevar con nosotros...
+Oh. Bueno, hombre, yo cuidaré de él\nen mi casa durante un tiempo.
+¡Genial! \n¡Gracias!
+Él dice que se llama Estrella.
+Perdonad, ¿os importaría que nos\nquedáramos esta noche en la posada?
+¿Qué pasa, Coronel?
+Debe ser la edad... Me\nduele la espalda, y no\ncreo que pueda andar hoy.
+Sí, entiendo. Oh, bueno, claro.\nVayamos a la posada.
+Id vosotros primero.
+No me digas que no te ves capaz\nni de caminar hasta la posada.
+No, mis gafas han estado funcionando\nmal, así que me gustaría usar\nel laboratorio de aquí.<PAGE>\nOh, necesitaré fuego. Mieu, \n¿te quedarás conmigo?
+¡Vale!
+Entonces vamos tirando.
+Mieu, antes de empezar a trabajar,\npor favor, déjale el Anillo del\nHechicero a Estrella.<PAGE>\nQuiero preguntarle una cosa.
+¿Mieu? \nVale.
+Estrella, ¿eres un original?\n¿Un sujeto de estudio de réplicas?
+Sí.
+¿Han hecho una réplica... una copia tuya?
+Sí. Un tipo repelente\nllamado Dist me hizo eso.
+Lo imaginaba. \n¿Cuando fue eso?
+Hará medio año, creo.
+Si se enteró en el Castillo de Coral\nque Luke y Asch son isofones perfectos,\nentonces el tiempo encaja...<PAGE>\nUna cosa más. ¿Qué le pasó\na tu otro tú?
+Creo que se murió...
+¿Crees?...
+Bueno, yo morí una vez.<PAGE>\nDespués de eso, sentí algo\nfluyendo dentro de mí, y\nya no estaba muerto.<PAGE>\nY entonces el otro ya no estaba.
+¿Significa eso que Dist ha acabado la investigación\nde los isofones perfectos? ¿Entonces esos resultados\nno eran sólo una coincidencia?
+Mieu, no debes contarle a\nnadie lo que has oído aquí.
+¿Mieuu? \nAunque quisiera, no he\nentendido nada...
+Disculpa, me gustaría hablar contigo\nsobre tu investigación...
+¿Doctor Balfour? \nQué sorpresa.
+Sí, siento molestarte. Los demás,\npor favor, esperad a fuera. Creo\nque esto llevará su tiempo.
+Sí, igualmente no lo entenderíamos.
+Esto seguramente pasó antes de que\nempezaras a ayudarnos pero, ¿Asch\nha venido a hablar contigo?
+Probablemente a preguntar sobre los\nexperimentos que Dist estaba haciendo\nen la caverna de Ortion.
+Sí, vino... Se ve que se enteró en el\nCastillo de Coral de que él y Luke\nno son simples isofones,<PAGE>\nsino isofones perfectos.
+Y se preguntaba si los cheagles de la\ncaverna de Ortion eran isofones\nperfectos, como él.
+Sí... y estaba en lo cierto.<PAGE>\nBasándose en tus teorías, el doctor\nNeis recreó el accidente que ocurrió\ncuando se hizo a Luke.<PAGE>\nConsiguió crear isofones perfectos,\npero después de eso, la maquinaria\nfónica se rompió,<PAGE>\ny los datos de recreación se perdieron.
+¿Preguntó Asch sobre la mortalidad\ndel original cuando nace un\nisofón perfecto?
+Sí.
+Y si es así, ¿le explicaste el efecto de emisión\ngradual que causa la separación de fonones?
+Una explicación técnica no la entendería\ncualquiera, así que sólo le expliqué\nque su fuerza física y fónica iría\nmenguando gradualmente<PAGE>\na medida que se acercara la hora del big bang.
+Eso quizá lo he llevado\na una confusión.
+¿Confusión?
+Nada. Por fin me he dado cuenta de la razón\nque hay detrás de su comportamiento temerario.\nAunque supongo que ya es demasiado tarde.
+¿Ya has acabado?
+Luke, en todas las investigaciones que\nhe hecho, nunca me he equivocado.
+¿Pero qué? \n¿Estás presumiendo?
+Mmm, puede... Pero esta vez,\nespero que la respuesta que\nhe encontrado sea la incorrecta.
+Um, vale...
+Tienes la costumbre de hacer\ncosas más allá de lo que predigo,\nasí que quizá...
+Lo siento, tengo algo importante\nque decirle a Dist, así que,\npor favor, esperad fuera.
+¿Es algo que no quieres que oigamos?
+No, no es eso... Voy a\ninformarle sobre Asch.
+Ya veo... \nEsperaré fuera.
+Yo también...
+Esperemos todos juntos.
+Sí.
+Gracias.
+¿Qué quieres?... ¿Has venido a\nreírte del patético aspecto\nde tu viejo amigo?
+Asch ha muerto.
+¿El big bang?
+Si preguntas eso... supongo que\nsignifica que era casi la hora\ndel big bang de Asch.
+Sí, y si tu dices eso,<PAGE>\nparece que estás diciendo que la\nmuerte de Asch no fue a causa\ndel efecto del big bang.
+Correcto. Veo que eres lo suficientemente\ninteligente para como para deducirlo.
+Dejando de lado lo que causó su muerte,\ncon el tiempo que ha pasado, podemos\nimaginar que el big bang ha empezado.
+Puede que no haya empezado....
+¡¿Qué se supone que significa eso?!\n¡Tú eres quien terminó la teoría de\nlos isofones perfectos!<PAGE>\n¡¿No crees en tu propia\ninvestigación?!<PAGE>\n¡El Jade que yo conocía... Jade\nel Niño de Oro... no es alguien\nque diría algo así!
+Por favor, no me pongas\nmolestos apodos.
+¿O es que esa réplica te\nimporta tanto? ¡¿Más que tu\nmejor amigo, Saphir?!
+El polvo del suelo tiene\nvalor comparado contigo.
+Escucha, Jade. El efecto contaminador\nno puede evitarse.<PAGE>\nNi con tu talento.
+Lo sé. Estás hablando con quien\nfracasó en revivir a los muertos.\nEl destino no puede cambiarse.
+Sus recuerdos permanecerán...
+No, nada excepto sus recuerdos permanecerán.
+¿Qué pasa con esa cara, Jade? \n¿Ocurre algo malo?
+¿Mmm? \nNací con esta cara.<PAGE>\n¿Diríais que es la cara de un\nhombre guapo y pensativo?
+Ja ja...\nEso es lo que obtengo por preocuparme por ti.
+Hrm, esto no pinta bien...
+¿Qué pasa?
+Estamos preparando una operación a gran\nescala con el destino del mundo pendiendo\nde un hilo, pero los soldados están\ndescontentos.<PAGE>\nMe volví hacia ellos diciéndoles que sus\nquejas eran absurdas, y ahora están aún\nmás tristes. No sé qué puedo hacer.
+Mmm. ¿No deberías hablar con el Coronel\no con el emperador Peony sobre eso?
+Bueno, es que... \nDe lo que se quejan es...
+¿Ajá?
+Dicen que la comida que\nles dan está mala.
+Oh oh. Si le dices eso al\nCoronel o a Su Majestad...
+Sí, usarán eso para provocar a los\nsoldados y de eso no puede salir\nnada bueno.
+Sargento Iónico Anise, ¿puedes usar\ntus habilidades culinarias para\nhacer algo al respecto?
+Hrm. Si yo lo hiciera todo sola,\npodría hacer algo, pero...
+¡Pero lo único que hay que hacer es\nque tú mismo mejores en la cocina!
+¡¿Q-Qué?!\n¡Yo soy el Jefe del Estado Mayor!
+¡No te preocupes! \n¡Yo te pondré en forma!
+¡¿Q-Qué quieres decir, "no te preocupes"?!\nPara empezar, eso llevará tiempo...
+¡No quiero quejas!\n¡Está decidido!\n¡Vamos a empezar!
+¡Oh, y además, durante tu entrenamiento,\nte dirigirás a mí como \n"Gran Maestra Chef Anise"!
+¡¿Q-Qué?!
+¡Contesta!
+Urgh... Entendido, \nGran Maestra Chef Anise.
+Anise ha recibido el título de \n"Gran maestro chef".
+¡Muy bien, Sese! \n¡Primero empezaremos con un masaje de hombros!
+¡¿Quéééé?!
+Ja ja ja.\nEl talento para atormentar de\nAnise está en pleno apogeo.<PAGE>\nNunca había visto al Jefe de Estado\nMayor así antes. \nAh ja ja ja.
+¿No crees que va siendo hora\nde que la detengas, Jade?
+El Jefe de Estado Mayor está demasiado\ntenso. Creo que será un buen cambio\npara él.
+Si tú lo dices...
+Tengo la sensación de que me está\nhaciendo hacer cosas que no tienen\nnada que ver con la cocina...
+¡Si no eres bueno dando masajes \nen los hombros, tampoco serás\nbueno cortando verduras!
+O-Oh. ¿En serio?...
+Cuando hayas acabado con el\nmasaje, mmm, veamos...<PAGE>\n¡Lo siguiente, para entrenar tu lengua,\ntendrás que comer muchas cosas!<PAGE>\nEmpezaré enseñándote cómo comer.\nTú mira, Sese.<PAGE>\nNo puedes comer hasta que yo lo diga.<PAGE>\nBueno, tú trae mucha comida.<PAGE>\nOh, sí, y no te olvides de las bebidas.<PAGE>\nCocinar es saber combinar, así que\ntambién tienes que conocer las bebidas.<PAGE>\nOh, los postres van a un estómago diferente,\nasí que se pueden comer tantos como quieras. \nEmpezaremos con lo básico: ¡pastel!<PAGE>\nMmm, me pregunto si podríamos usar algún\narte fónico para hacer helado también.\n¡Podríamos aumentar las posibilidades!<PAGE>\nHacer todo esto es un rollo, así que\nreúne a unos cuantos y haz que busquen\nlos ingredientes y que cocinen.<PAGE>\nAdemás, también necesitarías...\n... y también deberías...\nAdemás, si estás...
+Al final sólo lo has estado molestando\ny no has resuelto su problema, ¿verdad?
+Oh, no te preocupes.\nLe he enseñado lo que falla en sus\nrecetas al tipo que se encarga de\nproporcionar la comida.<PAGE>\nCreo que los soldados no se quejarán tanto.
+Ya veo.
+¿Al final has enseñado\na Sesemann a cocinar?
+Sí, bastante.<PAGE>\nNo se puede mejorar de la noche a la mañana,\nasí que lo todo depende del esfuerzo\nque Sese ponga en cocinar.
+Mmm.
+Estoy seguro de que ha sido un\nbuen descanso de sus funciones.
+Bueno, creo que nosotros ya\nhemos descansado suficiente. \n¿Nos vamos ya?
+¡Vale!
+<03*>Cuando hayas acabado con\nel masaje, mmm, veamos...
+<03*>¡Lo siguiente, para entrenar tu\nlengua, tendrás que comer muchas cosas!
+<03*>Empezaré enseñándote\ncómo comer. Tú mira, Sese.
+<03*>No puedes comer hasta\nque yo lo diga.
+<03*>Bueno, tú trae\nmucha comida.
+<03*>Oh, sí, y no te\nolvides de las bebidas.
+<03*>Cocinar es saber combinar, así que\ntambién tienes que conocer las bebidas.
+<03*>Oh, los postres van a un estómago diferente,\nasí que se pueden comer tantos como quieras. \nEmpezaremos con lo básico: ¡pastel!
+<03*>Mmm, me pregunto si podríamos usar algún\narte fónico para hacer helado también.\n¡Podríamos aumentar las posibilidades!
+<03*>Hacer todo esto es un rollo, así que\nreúne a unos cuantos y haz que busquen\nlos ingredientes y que cocinen.
+<03*>...\n......
+¡Le has arrancado las alas!
+Han salido con demasiada facilidad.
+Ugh, eso es cruel...
+¡Es horrible! ¡Te odio, Rody!
+¿Qué pasa contigo? ¡Si vas a llorar\nno vengas más conmigo!
+¡Sal de en medio, vieja!
+Vi-vi-vi-vieja...
+*Snif* ¡Rody, espérame!
+¡¿Qué les pasa a los niños de hoy en día?!
+Tu también eres una niña, Anise...
+Pero arrancar las alas a una mariposa...\nMe pregunto si tiene algun motivo...
+Lo dudo. Cuando yo era un crío,\ntambién destruía hormigueros\ny me entretenía con ellos.
+Ahora que lo dices... Asch también\nhacía cosas como ésa.
+Por supuesto, aunque si no empiezas a \nentender que ese tipo de cosas son \ncrueles tras haber crecido,<PAGE>\nes una mala señal.
+Oh, sí, a veces te encuentras gente\ncomo ésa que se une al ejército.\nSon terribles.
+Pero normalmente, una vez te haces mayor\nempiezas a sentir pena por ellos.<PAGE>\nY si no, al menos empiezas a pensar \nque las cosas muertas son desagradables.
+Sí... espero que ese chico\ncrezca tal como dices.
+Mientras siga viviendo con otros seres\nhumanos, estará atado a las leyes y la \nmoral, le guste o no.<PAGE>\nImagino que parará antes de \ncometer un crimen de verdad.
+Jade...
+Siempre encuentras una forma \ncínica de ver todo.
+Cuando lo dice Jade, parece que es verdad...
+Mis más sinceras disculpas.
+Dejad de decir tonterías.
+Pero la historia del Coronel\nCurtiss reuniendo cadáveres en\nel campo de batalla es...
+Parece que es verdad que hubo un\ntiempo en que hacía esas cosas...
+Yo oí que inventó la fomicría para\ncriaturas vivas para resucitar a los\nmuertos y crear un ejército inmortal.<PAGE>\n¡Y usan a todo aquél que sea\nenviado a la Tercera División\npara sus experimentos humanos!
+¡Oh! ¡Eso es difamación!\n¡Deja de extender\nrumores falsos!
+¡Coronel Jade!\nLo siento...<PAGE>\nÉl es un nuevo oficial asignado a\nla Tercera División. Unos cuantos\nestán esperando dentro.
+Encantado de conocerte.\nSoy el coronel Jade Curtiss.
+Uh... uh... Yo...
+¿Qué estás balbuceando?\n¡Pídele disculpas al Coronel!
+Natalia. Esto es un tema\nmilitar. No somos quién\npara intervenir.
+¡Pero!
+Natalia, no pasa nada. Algunas\nde las cosas que dice son verdad.
+Para perfeccionar la técnica de la fomicría,\nreuní cadáveres de los campos de batalla y\nlos usé en experimentos.<PAGE>\nNaturalmente, tenía permiso del\ncomando militar, pero aquello\nfue éticamente imperdonable.
+Jade...
+Voy a saludar a un nuevo oficial \ntransferido. Esperadme en la oficina.
+Oh, eres tú.
+Su Majestad...\n¿Has venido a jugar de nuevo?
+Bueno, sí.\nLas criadas me han echado de mi cuarto,\ndiciendo que iban a limpiarlo.<PAGE>\n¿Mmm? ¿Qué te pasa?\nPareces decaído.
+Ya veo... Ya conoces el origen del\napodo "Nigromante".
+¿Jade reunía cadáveres bajo las\nórdenes de los militares?
+Eso parece.<PAGE>\nO, siendo precisos, los militares\nquerían la fomicría de Jade y le\ninvitaron a Gran Chokmah.<PAGE>\nLo adoptaron en la familia Curtiss.
+¿Qué querían hacer  \ncon la fomicría?<PAGE>\nNo me digas que era porque querían usarla\npara crear un regimiento sin fin de soldados.
+Exacto. Con el propósito de la investigación,\nel ejército y la academia le dieron\na Jade mucha autoridad.<PAGE>\nY así, él... bueno, él y Saphir... recogían\ncadáveres que estaban en buenas condiciones\ncada vez que iban al campo de batalla.
+Y los rumores volaron por sí solos, eh...
+(¿Hizo todo eso por el bien\nde la profesora Nebilim?)
+¿Puedo pediros que os\nabstengáis de hablar de\nlos demás a sus espaldas?
+Venga, venga, no te enfades, Jade.<PAGE>\nLo mejor es negar todos esos molestos\nrumores sobre intentar resucitar\na los muertos, ¿no crees?
+No veo la necesidad de negarlo...
+¡Niégalo!\nEs una orden.
+Entendido.\nEntonces, ¿deberíamos irnos?
+Jade, uh...
+Luke... \nA veces es mejor no decir nada.\n¿Entiendes?
+Perdone, ¿es usted el coronel Curtiss?
+Lo soy.\n¿Puedo preguntar quién eres tú?
+Mi nombre es Aqua.<PAGE>\nHe estado buscándote\npara pedirte\nayuda.
+No estoy especialmente interesado\nen ayudar a la gente...
+¡Por favor, tienes que hacerlo!\n¡Eres el único que puede salvarlo!
+Coronel, los soldados existen\npara proteger a los civiles.
+No creo que yo esté relacionado con eso.
+¡Vamos a ayudarla!
+*Suspiro*
+¡Gracias!\n¡Por favor, venid por aquí!
+Quiero que ayudes a la persona\nque va en ese carro. Sólo tu\npuedes ayudarle, Coronel.<PAGE>\nPor favor.
+¡Alejaos, todos vosotros!...
+Jade, ¿qué pasa?
+¿Puede traer a Tony de nuevo a la vida, Coronel?
+Tony...\n¡¿Te refieres a Tony del Tartarus?!
+De vuelta a la vida...\n¡¿Hay un cadáver ahí?!
+Sí, el de Tony. Él era mi amado.<PAGE>\nCuando su misión actual acabara,\nse supone que íbamos a casarnos,\npero estuvo fuera tanto tiempo...<PAGE>\nFui a buscarle.<PAGE>\nEncontré un río lleno de cadáveres,\ny Tony también estaba allí.
+¿Qu... qué está diciendo?
+Estaba en shock, pero\nentonces me acordé.<PAGE>\nLa Tercera División, donde estaba Tony,\nestaba dirigida por el coronel Curtiss.<PAGE>\nTú le devolverás la vida,\n¿verdad, Coronel?
+C-Coronel... ella...
+......
+¡Aqua, lo que estás diciendo\nes todo un malentendido!\nJade no...
+Luke, está bien.\nYo hice experimentos \npara revivir muertos.
+¿De qué hablas? ¿No estabas\ndirigiendo una investigación\npara crear soldados réplica?...
+No, intentaba usar la fomicría\npara revivir a los muertos.<PAGE>\nPero los muertos no vuelven. Es\nla conclusión a la que llegué.
+¿Qué estás diciendo?...\n¡Date prisa y revive a Tony!
+No puedo.\nJade el Nigromante falló\nen revivir a los muertos.
+¡Estás mintiendo!...
+No es una mentira.
+Je je... ¡Ja ja ja ja!\nEstás mintiendo...\nAh ja ja ja....\nJa ja ja ja... mien... tes...
+Jade... \n¿Qué deberíamos hacer?
+Vamos a llevarla al médico.\nEn cuanto a Tony... tenemos que enterrarle.
+Un suceso desafortunado...
+Coronel... sobre lo que dijiste antes...
+Lamento tener un\npasado tan dudoso.
+¡¿Qué?!\n¡No tienes que decir esas cosas!\n¡Yo no he dicho nada sobre eso!
+Jade, eso no venía a cuento.
+Lo sé...<PAGE>\nPero si queréis saber por qué me \nensucié las manos investigando cómo\nresucitar a los muertos,<PAGE>\nos digo que no es algo de lo que esté\ndispuesto a hablar, así que no preguntéis.
+Lo siento... Este asunto es... como\nuna profunda herida para él.<PAGE>\nTodo el mundo aprecia el recuerdo\nde su primer amor, ¿verdad?<PAGE>\nEsto es un poco más complicado, pero... \nBueno, es algo parecido.
+Lo siento...\nFue muy inmaduro por mi parte.
+No pasa nada. Eso sólo muestra que\nincluso tú tienes cosas de las que\nno quieres hablar, Jade. ¿No, Natalia?
+Sí... Tienes razón. \nNo volveré a preguntar sobre eso.
+Lo siento... Puede que llegue el día\nen que os lo tenga que contar.
+¡Rody! \n¿Estás arrancando alas otra vez?
+¡Calla! \n¡A quién le importa!
+¡¿P-Por qué lo haces?! \n¡Duele! \nY ahora la mariposa...
+Oh, duele, ¿no?
+¡Eso es lo que he dicho!
+Entonces le tiene que haber dolido más a la\nmariposa a la que le he arrancado las alas.<PAGE>\nEso como si te hubiera arrancado los brazos.\nMurió luchando. 
+*Snif*...
+*Snif*...\n¡Buaaaa!
+¡Buaaaa!\n*snif* ¡Buaaaa!
+No vayas por ahí matando a\nseres vivos sin motivo.<PAGE>\nDe lo contrario, te haré lo mismo\nque tú le has hecho a la mariposa.
+¡Buaaaa!
+Coronel... Creo que podrías\nhaber sido más delicado.
+Para Jade, creo que eso ya\nha sido bastante delicado.
+Aunque me sorprende verte\nregañando a alguien sin\nque te lo pidan.
+Sí. Quiero decir que si hubiera sido la\nInstructora Natalia, lo entendería, pero...
+¡¿Qué quieres decir con eso?!
+No fue más que un impulso.<PAGE>\nParece que la gente necesita esa\nespecie de moral generalizada\ny regañinas superficiales.
+¡Guau! \nNunca pensé que te oiría\ndecir eso, Coronel.
+Yo fui un niño como él, hace mucho. Tengo\nque corregir esa actitud cuando la veo.<PAGE>\nSino, habrá más gente como yo en el\nmundo, y si eso ocurre, veremos más\ngente desgraciada como Aqua.
+Ya veo... Lo has hecho como si fuera\nuna pequeña expiación hacia Aqua.
+No, fue sólo por autocomplacerme.\nA la gente mayor nos gusta hacer esas cosas.
+Jade, para ser un viejo, creo\nque eres un buen tío...
+Ja ja, yo también.
+¡Y yo!
+Igual que yo.
+Sí...
+*Suspiro*...

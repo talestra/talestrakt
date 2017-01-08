@@ -1,0 +1,392 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Por fin llegamos a Chesedonia.
+<SPEECH*>Desde aquí, nos dirigimos en\nbarco a Kaitzur, ¿verdad?
+<SPEECH*>Si vamos al consulado de Malkuth, \ndeberían conducirnos al barco.
+<SPEECH*>¡Otra vez no!
+<SPEECH*>¡Luke! ¿Otro dolor de cabeza?\nEstán siendo más frecuentes...
+<SPEECH*>Ya ha pasado. Estoy bien.
+<SPEECH*>No, deberías descansar,\npor si acaso.
+<SPEECH*>Entonces vamos a la posada.\nTambién tenemos que decidir\nqué hacemos con Ion.
+<SPEECH*>Está bien.
+<SPEECH*>Agh...
+<SPEECH*>¿Qué pasa, eh?\n¡Por ahí no se va a la posada!
+<SPEECH*>Cállate...
+<SPEECH*>Ja ja, mírate.\nEstás conectado a mí.\n¡Tú ERES yo!
+<SPEECH*>¡Amo! ¿Está usted bien?
+<SPEECH*>Luke, ¿qué pasa?
+<SPEECH*>Veamos, qué más...\nDirige tu espada contra esa mujer.
+<SPEECH*>¡Cállate!\n¡Deja de controlarme!
+<SPEECH*>¡Luke! ¡¿Qué estás haciendo?!
+<SPEECH*>¡No... no soy... yo!\n¡Mi cuerpo está...!\n¡¡P-Para!!
+<SPEECH*>¿Qué le pasa a Luke?
+<SPEECH*>Mmm, problemas de salud, ¿eh?
+<SPEECH*>Si tengo que cuidar de alguien,\nprefiero que sea un viejo rico que\nesté punto de estirar la pata...
+<SPEECH*>¿Has dicho algo, Anise?
+<SPEECH*>¡Nada! @ Ji ji. @
+<SPEECH*>Coronel, ¿tienes idea\nde qué le pasa a Luke?
+<SPEECH*>Mmm...
+<SPEECH*>¿Podría tener relación con el\nhombre que se parecía a él?\n¿Ése al que llamaron "Asch"?
+<SPEECH*>Preferiría no tener que \npronunciarme al respecto.
+<SPEECH*>¡Jade!\n¡Deja de burlarte de nosotros!
+<SPEECH*>No me burlo de nadie. Tan solo creo\nque debería ser Luke el primero que\nsepa de los asuntos que le conciernen.
+<SPEECH*>El amo se está despertando.
+<SPEECH*>¿Qué estabais diciendo de mí?
+<SPEECH*>Nada. ¿Qué tal estás?\n¿Todavía tienes la sensación\nde que alguien te controla?
+<SPEECH*>No... ya no siento nada...
+<SPEECH*>Probablemente Dist te hizo\nalgo en el Castillo de Coral.
+<SPEECH*>Haré que te lo retire\nen cuanto le cojamos.
+<SPEECH*>Eso espero...\nPor cierto, ¿qué vamos\na hacer con Ion?
+<SPEECH*>Hasta que sepamos cuál es el objetivo\nde los Seis Generales de Élite,\ndebemos mantenerle alejado de ellos.
+<SPEECH*>¿Podríais llevarme con vosotros,\nsi no es mucha molestia?
+<SPEECH*>¡Ion!\n¡Mohs se enfadará con nosotros!
+<SPEECH*>El emperador Peony me confió\nesta carta de paz.
+<SPEECH*>Así que me gustaría informarle\nen persona sobre la operación \nde rescate de Akzeriuth.
+<SPEECH*>Me parece buena idea.
+<SPEECH*>Una vez terminemos en Akzeriuth,\npuedes venir a la capital conmigo.
+<SPEECH*>Oh, lo siento...\nLuke ha de ser el que decida, ¿no?
+<SPEECH*>¡Haced lo que os dé la gana!...
+<SPEECH*>Gracias a todos.
+<SPEECH*>Coronel, Luke, os hemos\nestado esperando.<PAGE>\n<SPEECH*>Hemos recibido un mensaje por paloma\nmensajera del general dórico Grants.<PAGE>\n<SPEECH*>Planea proceder hacia Akzeriuth\ncon una unidad de vanguardia.
+Éste es el Embajador de Buena Voluntad \nde Kimlasca, Luke fon Fabre.
+El general dórico Grants nos avisó\na través de una paloma mensajera.
+Su plan consiste en avanzar a Akzeriuth \ncon una unidad de vanguardia.
+<SPEECH*>¡¿Quéééé?!\n¡Es demasiado pronto!
+<SPEECH*>Nosotros también deberíamos darnos prisa.
+
+Entonces, esto...
+<SPEECH*>¡¿Guy?!
+¡Uah!
+¡Guy!\n¡Luke es un hombre!
+¡Ya lo sé...!
+<SPEECH*>¡Ouu! \nGuy, ¿no me digas que Asch\nte está controlando?
+<SPEECH*>No lo creo...\nAdemás, tampoco oigo voces...
+Mmm, te han hecho una cicatriz.\nLa forma de este sello...
+Intentaré curarlo.\nMe acercaré a ti, pero no\nte tocaré, así que aguanta.
+<SPEECH*>Mmm, te han hecho una cicatriz.\nEste símbolo...\nParece una Ranura Maldita.
+<SPEECH*>¿Una "Ranura Maldita"?
+<SPEECH*>Es un arte fónico daáthico que\nse pone en las fonorranuras.
+<SPEECH*>Lee información del cerebro y\nusa los recuerdos de la persona\npara controlarla.
+Pero es...
+<SPEECH*>¿Llamo a un médico o a un sanador?
+<SPEECH*>Estoy bien.\nSubamos a ese barco\ny vayamos tras Van.
+No deberíamos hacer esperar a Van.\nEmbarquemos ya.
+<SPEECH*>¿Pero no es peligroso?...
+<SPEECH*>El poder de la Ranura Maldita varia\nsegún la proximidad del que lo usa.
+<SPEECH*>Quién lo esté usando debe de estar cerca.\nDeberíamos irnos de Chesedonia.
+<SPEECH*>Por aquí.
+<SPEECH*>Sólo un Maestro Fónico puede\nusar artes fónicas daáthicas...\nDebe de ser...
+<SPEECH*>Está resistiendo más de lo que esperaba.\nNo pasa nada... Igualmente, se verán\nenvueltos en lo de Akzeriuth.
+<SPEECH*>Qué raro. Después de salir de\nChesedonia, el dolor desapareció.
+<SPEECH*>Me tenías preocupado, ¿sabes?
+<SPEECH*>Lo siento.
+<SPEECH*>Entonces, el que usaba la\nRanura Maldita sí que debía\nde estar en Chesedonia.
+<SPEECH*>Es bueno que hayamos podido salir de\nChesedonia tan rápido, Guy.
+<SPEECH*>Sí.
+<SPEECH*>Oye, Sync fue quien me dejó el brazo así.\n¿Significa que él la estaba usando?
+<SPEECH*>Probablemente.
+Dime, ¿cómo vamos a llegar\na Akzeriuth desde aquí?
+Está pasada la sierra de Deo, al noreste.
+Bien, vamos. Quizá aún podamos\nalcanzar al maestro Van.
+<SPEECH*>Tío, a este paso nunca alcanzaremos\nal maestro Van.
+<SPEECH*>No deberíamos haber perdido\nel tiempo en el desierto.
+<SPEECH*>¿Qué quieres decir con "perder el tiempo"?
+<SPEECH*>Quiero decir perder el tiempo.\nYa no necesitamos a Ion. La guerra\nno empezará mientras esté yo.
+<SPEECH*>Capullo.
+<SPEECH*>¡H-Hey!...
+<SPEECH*>Luke, incluso yo creo que \neso ha sido muy arrogante.
+<SPEECH*>Esta paz está basada en el respeto\nque el Emperador de Malkuth y\nPadre tienen al Maestro Fónico.
+<SPEECH*>Sin Ion, no habría mediador.
+<SPEECH*>No, no es que ambos países\ntengan respeto hacia mí.
+<SPEECH*>Simplemente quieren la Partitura de\nYulia. No soy realmente necesario.
+<SPEECH*>No puedo estar de acuerdo con eso.\nTú cuentas como elemento disuasorio, Ion. 
+<SPEECH*>Aunque eso se lo debas a \nla Partitura de Yulia.
+<SPEECH*>Ya veo. Todavía sois jóvenes.\nBueno, ¿qué tal si seguimos?
+<SPEECH*>¿Cómo puede soltar algo así en un\nmomento como éste? Nunca se sabe\nen qué está pensando este tío.
+<SPEECH*>(Pero Luke... Debes tener más\ncuidado con tus palabras...)
+<SPEECH*>¡Detente!
+<SPEECH*>Tear, ¿por qué sigues perdiendo\nel tiempo con esta gente?
+<SPEECH*>Estoy bajo las órdenes del gran maestro\nMohs. ¿Y tú? ¡¿Por qué secuestráis\na Ion y lo lleváis al sephiroth?!
+<SPEECH*>Para obtener libertad y voluntad\npropia para los humanos.
+<SPEECH*>¿Qué quieres decir?...
+<SPEECH*>Este mundo está completamente\ncontrolado por la Partitura.
+<SPEECH*>La gente lee la Partitura para todo\nlo que hace. La Partitura dirige sus\nvidas. ¿No creéis que está mal?
+<SPEECH*>La Partitura no existe para controlar a \nla gente. Es meramente una herramienta\npara ayudarles a seguir el camino correcto.
+<SPEECH*>Quizá para ti, Maestro Fónico, pero\nla mayoría de la gente depende\nde la Partitura. Les controla.
+<SPEECH*>Los peores casos consultan la\nPartitura para ver qué deberían\ncenar. No sois diferentes.
+<SPEECH*>Nosotros no llegamos a tanto... Si\nla Partitura muestra el futuro, lo\nmejor es vivir según lo que dice...
+<SPEECH*>La Partitura que te leen en tus\ncumpleaños es una referencia útil.
+<SPEECH*>Sí. Y escuchas la Partitura de tu\nvida desde que naces, así que...
+<SPEECH*>En el fondo, confiar en la\nPartitura hace la vida más fácil.
+<SPEECH*>Recuerda que las Partituras, aparte\nde la de Yulia, son ambiguas\ny complicadas de entender.
+<SPEECH*>De eso estoy hablando.\nEste mundo está enfermo.\nAlguien debe cambiarlo.
+<SPEECH*>¡Tear!\nÚnete a nosotros.
+<SPEECH*>Todavía no confío en mi hermano,\ny tú eres su leal compañera.
+<SPEECH*>Hasta que mis sospechas respecto a Van\nse aclaren, no puedo volver contigo.
+<SPEECH*>¡Entonces os detendré por la fuerza!
+<SPEECH*>Tear...\n¡Aléjate de ese deshecho!
+<SPEECH*>¿Deshecho? \n¡¿Hablas de mí?!
+<SPEECH*>¡Así que FUISTEIS vosotros los que\nresucitasteis esa tecnología prohibida!
+<SPEECH*>¡Jade, no! ¡Hay cosas que\nes mejor que no saber!
+<SPEECH*>¡Ion... ¿lo sabías?!
+<SPEECH*>¿El qué?\n¡No me dejéis fuera\nde la conversación!
+<SPEECH*>¡¿De qué estáis hablando?!\n¡Tiene que ver conmigo, ¿verdad?!
+<SPEECH*>¿De quién fue la idea?...\n¡¿Fue de Dist?!
+<SPEECH*>¿Hablas de la fomicría?\n¿Qué bien te haría saberlo?
+<SPEECH*>¡La suerte está echada, Nigromante!
+<SPEECH*>¡Por encima de mi cadáver!
+<SPEECH*>Coronel... \nSí que estás enfadado...
+<SPEECH*>Lo siento... He perdido el control.\nYa estoy bien.\nVamos a Akzeriuth.
+<SPEECH*>¡Maldita sea, me estáis\nocultando la verdad aposta!\n¡Decidme qué leches está pasando!
+<SPEECH*>Amo, no debería enfadarse...
+<SPEECH*>¡Me están tomando el pelo y\nhaciendo como si no estuviera!\n¡Soy el embajador, joder!
+<SPEECH*>Maestro...
+<SPEECH*>El maestro Van es el único...\n¡Él es el único que lo comprende!

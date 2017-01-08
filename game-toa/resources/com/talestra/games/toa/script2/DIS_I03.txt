@@ -1,0 +1,873 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¿Es la primera vez que\nvienes a Chesedonia?<PAGE>\nEs el centro del comercio mundial.\nComerciantes y bienes llegan desde \ntodos los rincones del mundo.
+La Partitura dice que hoy podré hacer\nbuenos negocios en el este.<PAGE>\nIré hacia allá dentro de un rato.
+¿Qué ha pasado ahí delante?\nAcabo de ver un soldado de Kimlasca\ncruzar corriendo al lado de Malkuth.
+Y un tío alto y con barba iba con\nunas cuantas personas de la Orden\nhacia el puerto.
+Gracias a la guerra, la \nfrontera está cerrada.
+De acuerdo a la Partitura, lo \nmejor que podría hacer es quedarme\naquí, pero no hay nada que hacer.
+¿Cómo ha podido caer Chesedonia?\nNo puedo creerlo.
+Necesitaría leer la Partitura\npara decidir qué hacer.
+Si el miasma, el Qliphoth parece \nun lugar como otro cualquiera.
+Si el miasma, el Qliphoth parece \nun lugar como otro cualquiera.
+No puedo creer que el miasma haya \nvuelto, como cuando Chesedonia cayó...
+No puedo creer que el miasma haya \nvuelto, como cuando Chesedonia cayó...
+Chesedonia tiene su propio\ngobierno independiente.<PAGE>\nAunque en las zonas norte y sur\ntodavía se nota la influencia de\nsus países respectivos.
+Las tiendas en el lado de Kimlasca\nvenden muchísimo equipamiento,<PAGE>\ny en el lado de Malkuth hay un montón\nde tiendas de comida y medicinas.
+Según la Partitura, beber\nté dorado me dará suerte\nen los negocios.
+Ésta es mi quinta taza hoy.\n¿Será demasiado?
+¿Qué debería hacer ahora?\nQuería ir a Baticul hoy...
+Han cerrado la frontera de fuera,\ny ni siquiera me dejan ir al lado\nde Kimlasca desde aquí.
+A pesar de lo mucho que nos han\nadvertido, todavía le da miedo al\npueblo llano caer de esa manera.
+Pensé que quizá el miasma\nno llegaría aquí, pero...
+Con todos los cambios en el mundo, el\nflujo de productos también se ha alterado.\nPuede que ahora se vendan cosas nuevas.
+Con todos los cambios en el mundo, el\nflujo de productos también se ha alterado.\nPuede que ahora se vendan cosas nuevas.
+La verdad es que este miasma es \nuna gran oportunidad económica.
+La verdad es que este miasma es \nuna gran oportunidad económica.
+Chesedonia es lo que es gracias\na la Orden de Lorelei y a Astor.
+No pertenece ni a Kimlasca ni\na Malkuth, así que es fácil\nhacer negocios.
+El puerto de Malkuth ha sido cerrado.
+Pero la Partitura de hoy dice que \nno hay que apurarse, así que voy \na descansar un rato.
+¿Pero cómo se les ocurre\nempezar una guerra?\n¡No son más que problemas \npara nosotros!
+Y justo ahora que la Partitura\ndecía que iba a pasar algo bueno...
+¿De verdad hemos caído en el Qliphoth?
+...
+¿Qué va a hacer la Orden ahora, \nsi ya no va a leer la Partitura?
+¿Qué va a hacer la Orden ahora, \nsi ya no va a leer la Partitura?
+Quizá Astor pueda hacer que lean la\nPartitura para poder combatir el miasma.
+Quizá Astor pueda hacer que lean la\nPartitura para poder combatir el miasma.
+Chesedonia es el único lugar en el mundo\nque tiene puertos para dos países distintos.
+Eso hace que llevar bienes de aquí\npara allá sea mucho más fácil.
+Aquí estoy, recabando información.
+La Partitura dice que debería de\npoder encontrar un buen filón \npara hacer negocios...
+Sólo quiero ir al lado de Kimlasca, pero\nno hacen más que preguntarme por una\ncontraseña. ¡¿Cómo voy a saber algo así?!
+No comprendo por qué tienen que\npartir toda la ciudad en dos, sólo \nporque haya empezado una guerra.
+No me puedo creer que todo el área\nalrededor de Chesedonia cayera...
+Es gracias a la Partitura\nque todavía esté a salvo.
+Chesedonia no existiría si no \nfuera por Astor, cabeza del \nGremio de Mercaderes <PAGE>\ne Ion, el Maestro Fónico de\nla Orden de Lorelei.
+Muchos de los impuestos recaudados \naquí son parcialmente donados a la Orden.
+Puedes ir a cualquier lugar \ndel mundo desde Chesedonia.
+Por aquí pasa una cantidad\nincreíble de transbordadores\ny buques de carga.
+Entre tú y yo,\nhay una manera de saltarse\nel bloqueo fronterizo.
+Te lo puedo decir...\nsi estás dispuesto a pagar.
+La Partitura dice que mejor\nno trabajar hoy.<PAGE>\nParece que hago bien al\npasar el día en el bar.
+Me pregunto si algún día seremos \ncapaces de salir del Qliphoth...
+Bienvenido al Bar Chesedonia.
+Mucha gente de todo el mundo viene\naquí para establecer contactos.
+Bienvenido al Bar Chesedonia.
+Parece que hoy vamos a volver a tener \nun montón de mercaderes por aquí.\nLa Partitura lo dice.
+No cerraremos el bar ni aunque\nhaya una guerra en marcha.
+Todo va mejor si\nseguimos abiertos.
+Qué lástima da todo el mundo,\nvagando por ahí así...
+Me lo tomo con tranquilidad, como \nme dijo que hiciera la Partitura.
+Últimamente no hay muchos clientes...\nno porque las cosas vayan mal, sino\nporque todo el mundo está muy ocupado.
+Últimamente no hay muchos clientes...\nno porque las cosas vayan mal, sino\nporque todo el mundo está muy ocupado.
+Desde luego, este miasma va muy bien \npara mantener a los clientes alejados...
+Desde luego, este miasma va muy bien \npara mantener a los clientes alejados...
+Bienvenido al Bar Chesedonia.\nLa gente dice que estando atento\nse puede conseguir dinero fácil.
+Incluso los mercaderes se \nconfían mientras descansan. \nPuedes ganar mucho.
+Bienvenido al Bar Chesedonia.\nPor favor, ponte cómodo.
+No podemos servir alcohol a menores.
+La gente sigue viniendo,\naun con la guerra...
+¿Crees que la Partitura diría\nalgo sobre comenzar una guerra que\npudiese perjudicar a la gente\ncorriente de esta manera?
+No te preocupes,\nlas cosas irán bien.
+Estoy seguro de que el maestro\nfónico Ion y la Orden de Lorelei\nvendrán a ayudarnos.
+Ya puedes ir y venir \na tu gusto.
+<SPEECH*>¡¿Por qué?!...\n¡¿Por qué están luchando?!
+<SPEECH*>Esto no es bueno.\nAmbos ejércitos podrían ser\ntotalmente aniquilados.
+<SPEECH*>Sí, estamos sobre las llanuras de Rúgnica. \nEl árbol de sephiroth bajo nosotros ya no está.
+<SPEECH*>Esto debe ser... lo que mi hermano\nintentaba llevar a cabo.
+<SPEECH*>¿Qué quieres decir?
+<SPEECH*>Quería erradicar a la gente de las \nTierras Exteriores. Sabía lo de la guerra en\nlas llanuras de Rúgnica por la Partitura...
+<SPEECH*>Elimina el árbol de la colina de Shurrey\ny hace que ambos ejércitos caigan.\nEs bastante eficiente.
+<SPEECH*>¡Tienes que estar bromeando! ¡No sé\ncuáles son su razones, pero lo que está\nhaciendo es de locos!
+<SPEECH*>Si están luchando aquí, entonces la fuerza\nprincipal de Kimlasca debe estar en Kaitzur.\n¡Haré que cesen las hostilidades!
+<SPEECH*>Estoy preocupada también por Engeve.\nProbablemente será fijado como un punto de\nsuministro estratégico.
+<SPEECH*>Sin San Binah, esa aldea está\nprácticamente indefensa.
+<SPEECH*>¿Quieres decir que puede ser atacada\ny destruida antes de que caiga? Joo...
+<SPEECH*>Vamos a dividirnos. Un equipo comprobará\ncómo está Engeve y el otro irá a\npedir un alto el fuego en Kaitzur.
+<SPEECH*>Yo debería ir a Engeve...\nLas negociaciones ni siquiera empezarán\nsin un miembro del ejército de Malkuth.
+<SPEECH*>Y yo iré a Kaitzur.
+<SPEECH*>Cualquiera de los dos me va bien.\nTengo una idea.
+<SPEECH*>¿Y tú, Luke?
+Iré a Engeve.\nIré a Kaitzur.
+<SPEECH*>Iré a Engeve. Le debo una a la \ngente de allí por su ayuda, \ny estoy preocupado por ellos.
+<SPEECH*>Iré a Kaitzur.\nSoy un heredero al trono, después de todo.\nQuizá pueda ayudar.
+<SPEECH*>Vale. ¿Cómo organizamos los equipos?\n¿Hay alguien que quieras llevarte contigo?
+<SPEECH*>Quiero ir contigo. Me preocupo cuando\nno te estoy vigilando.
+<SPEECH*>¡Claro que me llevarás contigo!
+<SPEECH*>Por mí está bien, pero no lleves\na Ion a ningún sitio peligroso, ¿vale?
+<SPEECH*>Gracias por escogerme.\nVamos a trabajar.
+<SPEECH*>Vale.\nHagamos todo lo que podamos.
+<SPEECH*>Así que realmente cuentas conmigo, Luke.
+<SPEECH*>¡Vale, vamos!
+<SPEECH*>Por favor, ven conmigo, Ion.
+<SPEECH*>Vale...
+<SPEECH*>Primero, dejemos al equipo \nde Natalia en Kaitzur.
+<SPEECH*>Después iremos a Engeve en el Albiore.
+<SPEECH*>Suena bien.\nVamos.
+<SPEECH*>¡Coronel!\n¿Es verdad que la primera línea\nse está moviendo hacia el norte?
+<SPEECH*>Creo que las defensas aguantarán\nun poco más, pero esta aldea está\nen extremo peligro.
+<SPEECH*>¿Qué deberíamos hacer?
+<SPEECH*>No podemos evacuar a Gran Chokmah.\nYa han activado las defensas de la capital.
+<SPEECH*>Sí, Gran Chokmah se convierte\nen una fortaleza durante la guerra.
+<SPEECH*>Igualmente, este continente\nestá en peligro. ¿Crees que podrían\nhuir hasta Chesedonia?
+<SPEECH*>Sí, la Orden tiene mucha influencia\nallí. Debería ser un lugar seguro\na pesar de las luchas cercanas.
+<SPEECH*>Sí, quizá sea incluso más seguro ya\nque está más cerca de Kimlasca.
+<SPEECH*>Es una ciudad de comerciantes,\nasí que debería estar a salvo.
+<SPEECH*>Sí, seguro que Astor los acogerá.
+<SPEECH*>Pero sería imposible llevar\na todos los habitantes\nen el Albiore.
+<SPEECH*>Aunque llevarlos a pie por el campo\nde batalla no es menos arriesgado.
+<SPEECH*>¿Podríais llevaros a los\nniños y a los ancianos en ese\nAl-comosellame?
+<SPEECH*>Los demás nos quedaremos aquí y nos\nrendiremos ante el ejército de Kimlasca...
+<SPEECH*>¡Pero seguiréis en peligro si la tierra cae!
+<SPEECH*>¿Caer? \n¡¿Espera, quieres decir como\nSan Binah y Akzeriuth?!
+<SPEECH*>Desgraciadamente, sí.
+<SPEECH*>Entonces iremos a Chesedonia a pie...\nAl menos han reparado el puente.
+<SPEECH*>Dejemos el Albiore a \nNoelle, así escoltaremos a\nlos que van andando.
+<SPEECH*>Luke...\nSí, hagámoslo. Pero creo que hará\nfalta más ayuda, solos no podremos.
+<SPEECH*>Hablaré con el ejército\npermanente de Engeve.
+<SPEECH*>Si pudieran prescindir de al menos un\npelotón para proteger nuestra retaguardia...
+<SPEECH*>Si ella acaba de llevarlos\nantes de lo previsto,\nvolverá aquí.
+<SPEECH*>Aunque yo no me haría ilusiones.
+<SPEECH*>Sí... Ni qué decir de los\nviajes que tendría que hacer.
+<SPEECH*>Al menos el ejército de Malkuth nos ha dejado\ntropas. No tendremos que vigilarnos la espalda.
+<SPEECH*>Malkuth nos ha dejado tropas. Eso\nmejora un poco la situación que\nesperábamos al principio.
+<SPEECH*>Nos podemos relajar un poco sabiendo\nque los soldados de Malkuth están\nvigilando nuestras espaldas.
+<SPEECH*>Sí. Bueno, asegurémonos de que\ntodo el mundo llega a salvo.
+<SPEECH*>¡Coronel! ¿Es cierto que el frente\nestá avanzando hacia el norte?
+<SPEECH*>Creo que las defensas aguantarán\nun poco más, pero esta aldea está\nen extremo peligro.
+<SPEECH*>¿Qué deberíamos hacer?
+<SPEECH*>No podemos evacuar hacia Gran \nChokmah. Ya han activado las\ndefensas de la capital...
+<SPEECH*>Sí, Gran Chokmah se\nconvierte en una fortaleza\ndurante la guerra.
+<SPEECH*>El continente entero está en peligro.\nDeberíamos refugiarnos en Chesedonia.
+<SPEECH*>Sí, la Orden tiene mucha influencia\nallí. Debería ser un lugar seguro\na pesar de las luchas cercanas.
+<SPEECH*>Sí, quizá sea incluso más seguro ya\nque está más cerca de Kimlasca.
+<SPEECH*>Es una ciudad de comerciantes,\nasí que debería estar a salvo.
+<SPEECH*>Sí, seguro que Astor los acogerá.
+<SPEECH*>Pero sería imposible llevar\na todos los habitantes\nen el Albiore.
+<SPEECH*>Aunque llevarlos a pie por el campo\nde batalla no es menos arriesgado.
+<SPEECH*>¿Podríais llevaros a los\nniños y a los ancianos en ese\nAl-comosellame?
+<SPEECH*>Los demás nos quedaremos aquí y nos\nrendiremos ante el ejército de Kimlasca...
+<SPEECH*>No.\nSigue habiendo peligro de\nque la tierra caiga.
+<SPEECH*>¿Caer? \n¡¿Espera, quieres decir como\nSan Binah y Akzeriuth?!
+<SPEECH*>Desgraciadamente, sí.
+<SPEECH*>Entonces iremos a Chesedonia a pie...\nAl menos han reparado el puente.
+<SPEECH*>Hagamos esto: \ndejaremos el Albiore a Noelle. \nNosotros escoltaremos a los que van andando.
+<SPEECH*>Hablaré con el ejército\npermanente de Engeve.
+<SPEECH*>Si pudieran prescindir de al menos un\npelotón para proteger nuestra retaguardia...
+<SPEECH*>Si ella acaba de llevarlos\nantes de lo previsto,\nvolverá aquí.
+<SPEECH*>Aunque yo no me haría ilusiones.
+<SPEECH*>Al menos el ejército de Malkuth nos ha dejado\ntropas. No tendremos que vigilarnos la espalda.
+<SPEECH*>Malkuth nos ha dejado tropas. Eso\nmejora un poco la situación que\nesperábamos al principio.
+<SPEECH*>Nos podemos relajar un poco sabiendo\nque los soldados de Malkuth están\nvigilando nuestras espaldas.
+<SPEECH*>¡Hey!
+<SPEECH*>¡Luke!
+<SPEECH*>¡¿Qué estás haciendo aquí?! \n¿Qué ha pasado con la tregua?
+<SPEECH*>Me dijeron que el comandante en jefe,\nel conde Almandine, fue a Chesedonia para\nreunirse con el gran maestro Mohs, así que...
+<SPEECH*>¡¿H-Has cruzado el campo de batalla?! \n¡¿Eres idiota?! \n¡Ya sabes lo peligroso que es!
+<SPEECH*>¡¿Vosotros también lo habéis hecho, no?!
+<SPEECH*>Calmaos, los dos.
+<SPEECH*>Sí. Los que pueden detener la\nguerra están en esta ciudad.
+<SPEECH*>Dejemos las discusiones y\nvayamos a hablar con ellos.
+<SPEECH*>Ah... sí. Tienes razón.\nEs lo más importante.
+<SPEECH*>¡General Cecille!
+<SPEECH*>¡Seguid!
+<SPEECH*>¡Luke fon Fabre!...\n¡¿Y la princesa Natalia?!\n¡Estáis vivos!
+<SPEECH*>Sí. Ya no hay razón para luchar.\nHaz que tus tropas vuelvan inmediatamente.
+<SPEECH*>Mis más sinceras disculpas, pero no\ntengo autoridad. El teniente general\nAlmandine está a cargo de esta operación.
+<SPEECH*>¡Entonces llévanos ante él!
+<SPEECH*>Por desgracia... se ha ido\na Chesedonia para reunirse con el\ngran maestro Mohs.
+<SPEECH*>¡¿A Chesedonia?! ¡¿Cómo puede dejar un comandante\nel campo de batalla en mitad de una guerra?!
+<SPEECH*>Necesitamos que la Orden\nreconozca que esta operación\nes un castigo justo.
+<SPEECH*>Él ha ido para los trámites.
+<SPEECH*>¡Hey, eso es decisión\nde Ion! ¡Mohs me está\ncabreando mucho!
+<SPEECH*>No es más que una formalidad.
+<SPEECH*>Pero yo esperaba que esto pasase.\nQuizá debería haberme quedado en Daath...
+<SPEECH*>Si te hubieras quedado,\nte hubieran usado para abrir\nlos sellos de los sephiroth.
+<SPEECH*>Sólo el maestro fónico Ion puede autorizar\noficialmente una agresión. El Maestro\nFónico se opone a esta guerra.
+<SPEECH*>Yo creía que sólo el Maestro Fónico\npodía autorizar oficialmente una agresión.
+<SPEECH*>El procedimiento interno de la Orden\nde Lorelei no es de mi incumbencia.
+<SPEECH*>No puedo responder a las peticiones\nde cese de las hostilidades hasta que el\nteniente general Almandine vuelva.
+<SPEECH*>¡Pero tienes que hacerlo!\n¡El campo de batalla va a caer!
+<SPEECH*>¿A caer?
+<SPEECH*>¡Va a quedar destruido,\nigual que Akzeriuth!
+<SPEECH*>¿Estás diciendo que Malkuth tiene\nun arma que puede hacer eso?
+<SPEECH*>¡No! No es eso, pero\nes peligroso.
+<SPEECH*>No lo acabo de entender, pero por desgracia,\nno tengo autoridad para retirar las tropas.
+<SPEECH*>Pues vayamos a hablar con el conde Almandine.
+<SPEECH*>Cogeremos un barco hasta Chesedonia \ndesde Kaitzur, como la última vez.
+<SPEECH*>No podemos, Luke. El puerto de\nKimlasca en Chesedonia está en el\nlado de Baticul.
+<SPEECH*>Sólo pudimos usar el puerto\nde Malkuth aquella vez porque\nno estábamos en guerra.
+<SPEECH*>Su Alteza tiene razón. La ruta\nnormal entre Kaitzur y Chesedonia\nestá al este, a través del mar Albert.
+<SPEECH*>Viajar por mar en tiempos de\nguerra es peligroso. No podemos\npermitir que Su Alteza embarque.
+<SPEECH*>General Cecille, las preparaciones\nse han completado.
+<SPEECH*>Entendido.
+<SPEECH*>Mantendré a mis tropas en espera.\nDisculpa, Alteza, pero debo irme.
+<SPEECH*>Informaré de tu presencia a las\nautoridades del puerto de Kaitzur.\nPor favor, esperad que os escolten.
+<SPEECH*>Ten cuidado.
+<SPEECH*>¿Qué? Oh, sí, gracias.
+<SPEECH*>Si nos llevan a Kaitzur,\nno podremos hacer nada.
+<SPEECH*>¿Quieres dirigirte a Chesedonia por tierra?
+<SPEECH*>Si vamos a Chesedonia, \nsupongo que es la única manera.
+<SPEECH*>¡Es demasiado peligroso!\n¡No puedo dejarte hacer eso!
+<SPEECH*>Es peligroso.\nTendremos que cruzar el campo de batalla.
+<SPEECH*>Ni hablar. Piensa. Tendremos \nque pasar justo por en medio \ndel campo de batalla.
+<SPEECH*>Pero eso quiere decir que podríamos\nencontrarnos con el conde Almandine.
+<SPEECH*>Una vez que se de cuenta de\nque estamos vivos, entenderá que\nesta guerra no tiene sentido.
+<SPEECH*>Si Natalia va a ir, entonces yo iré para protegerla.
+<SPEECH*>Vamos, Anise.
+<SPEECH*>Si me lo ordenas, tengo que obedecer.\n*Suspiro*
+<SPEECH*>Supongo que no tenemos elección...\nNo hagáis nada precipitado.\nMovámonos cuidadosamente.
+<SPEECH*>*Suspiro* \nSólo soy tu modesto sirviente, así \nque me imagino que tendré que aceptarlo.
+<SPEECH*>¡Guy!\nNo quería decir que me...
+<SPEECH*>Es broma, idiota.
+<SPEECH*>Bueno, tened cuidado, ¿vale? \nSi vosotros dos morís,\nno servirá de nada.
+<SPEECH*>Lo siento.\nGracias.
+<SPEECH*>Bien, vamos.
+<SPEECH*>¡General Cecille!
+<SPEECH*>¡Seguid!
+<SPEECH*>¡¿Princesa Natalia?!...\n¡Estás viva!
+<SPEECH*>Sí. Ya no hay razón para luchar.\nHaz que tus tropas vuelvan inmediatamente.
+<SPEECH*>Mis más sinceras disculpas, pero no\ntengo autoridad. El teniente general\nAlmandine está a cargo de esta operación.
+<SPEECH*>¡Entonces llévanos ante él!
+<SPEECH*>Por desgracia... se ha ido\na Chesedonia para reunirse con el\ngran maestro Mohs.
+<SPEECH*>¡¿Chesedonia?! \n¡¿Cómo puede dejar un comandante el\ncampo de batalla en mitad de una guerra?!
+<SPEECH*>Necesitamos que la Orden\nreconozca que esta operación\nes un castigo justo.
+<SPEECH*>Él ha ido para los trámites.
+<SPEECH*>¡Hey, eso es decisión de Ion!\n¡Mohs me está cabreando mucho!
+<SPEECH*>No es más que una formalidad.
+<SPEECH*>Pero yo esperaba que esto pasase.\nQuizá debería haberme quedado en Daath...
+<SPEECH*>Si te hubieras quedado,\nte hubieran usado para abrir\nlos sellos de los sephiroth.
+<SPEECH*>Sólo el maestro fónico Ion puede autorizar\noficialmente una agresión. El Maestro\nFónico se opone a esta guerra.
+<SPEECH*>Yo creía que sólo el Maestro Fónico\npodía autorizar oficialmente una agresión.
+<SPEECH*>¡Pero tienes que hacerlo!\n¡El campo de batalla va a caer!
+<SPEECH*>¿Estás diciendo que Malkuth tiene\nun arma que puede hacer eso?
+<SPEECH*>¡No! No es eso, pero\nes peligroso.
+<SPEECH*>No lo acabo de entender, pero por desgracia,\nno tengo autoridad para retirar las tropas.
+<SPEECH*>Entonces iré a ver al conde Almandine.
+<SPEECH*>Viajar por mar en tiempos de\nguerra es peligroso. No podemos\npermitir que Su Alteza embarque.
+<SPEECH*>General Cecille, las preparaciones\nse han completado.
+<SPEECH*>Entendido.
+<SPEECH*>Mantendré a mis tropas en espera.\nDisculpa, Alteza, pero debo irme.
+<SPEECH*>Informaré de tu presencia a las\nautoridades del puerto de Kaitzur.\nPor favor, esperad que os escolten.
+<SPEECH*>Ten cuidado.
+<SPEECH*>¿Qué?... Oh, sí. Gracias.
+<SPEECH*>Si nos llevan a Kaitzur, \nno podremos hacer nada.\n¡Vayamos a Chesedonia por tierra!
+<SPEECH*>Si vamos a Chesedonia, \nsupongo que es la única manera.
+<SPEECH*>¡Es demasiado peligroso!\n¡No puedo dejarte hacer eso!
+<SPEECH*>Es peligroso.\nTendremos que cruzar el campo de batalla.
+<SPEECH*>Ni hablar. Piensa. Tendremos que pasar\njusto por en medio del campo de batalla.
+<SPEECH*>Pero eso quiere decir que podríamos\nencontrarnos con el conde Almandine.
+<SPEECH*>Una vez que se de cuenta de\nque estamos vivos, entenderá que\nesta guerra no tiene sentido.
+<SPEECH*>Vamos, Anise.
+<SPEECH*>Si me lo ordenas, tengo que obedecer.\n*Suspiro*
+<SPEECH*>Supongo que no tenemos elección...\nNo hagáis nada precipitado.\nMovámonos cuidadosamente.
+<SPEECH*>*Suspiro*\nSé que es mejor que intentar detenerte.\nYo también iré.
+<SPEECH*>Bueno, tened cuidado, ¿vale? \nSi vosotros dos morís, no servirá de nada.
+<SPEECH*>Lo siento.\nGracias.
+<SPEECH*>¡Hey!
+<SPEECH*>¡Luke! ¿Qué estás haciendo aquí? \n¿Qué ha pasado con la tregua?
+<SPEECH*>Se supone que el comandante en jefe,\nel conde Almandine, ha venido aquí\npara reunirse con Mohs.
+<SPEECH*>Vinimos a buscarle...
+<SPEECH*>¿Y por eso habéis cruzado el campo de batalla?\nEso fue una decisión peligrosa.
+<SPEECH*>¿Y tú qué?\nPensaba que habías escapado a Gran Chokmah.
+<SPEECH*>Gran Chokmah es una fortaleza.\nFue imposible entrar desde fuera\nuna vez estalló la guerra.
+<SPEECH*>Por eso habéis venido a Chesedonia...
+<SPEECH*>¿Habéis hablado ya con el conde Almandine?
+<SPEECH*>Estábamos a punto.
+<SPEECH*>Démonos prisa.
+<SPEECH*>¡Conde Almandine!\n¡¿Qué significa todo esto?!
+<SPEECH*>¡¿Princesa Natalia?!
+<SPEECH*>¡Supongo que recibiste un mensaje del\nemperador Peony IX diciendo que las\nnoticias sobre mi muerte eran erróneas!
+<SPEECH*>Su Majestad creyó\nque ese mensaje era\nun plan de Malkuth...
+<SPEECH*>Efectivamente, debería haber\nvuelto al castillo antes.
+<SPEECH*>Pero ahora eres testigo de que no hay\njustificación para esta guerra.\nDetén la lucha inmediatamente.
+<SPEECH*>Conde Almandine, soy yo, Luke.
+<SPEECH*>¡Estás... vivo!
+<SPEECH*>Fui yo quién provocó la\ndestrucción de Akzeriuth.
+<SPEECH*>La culpa debería\ncaer sólo sobre mi...\n¡Luke fon Fabre!
+<SPEECH*>¡Si esta guerra ha nacido de\nun malentendido, entonces debe\narreglarse ahora mismo!
+<SPEECH*>Y el campo de batalla de las llanuras\nde Rúgnica podría caer... ¡y acabar\ndestruido igual que Akzeriuth!
+<SPEECH*>¡Ahora, cesa este conflicto y\nabre la frontera inmediatamente!
+<SPEECH*>Espera. No hace falta\nobedecer las órdenes de\nuna princesa falsa.
+<SPEECH*>¡Cómo te atreves! ¡Ni un Gran\nMaestro puede hablarme de\nesa manera!
+<SPEECH*>¡Insultarme es insultar al\nreino de Kimlasca-Lanvaldear!
+<SPEECH*>Hace tiempo que recibí las\ntristes confesiones de cierto\ncreyente beato.
+<SPEECH*>Al parecer, la hija que él engendró\ncon una ayudante de la Reina fue\nsustituida por Su Alteza la Princesa.
+<SPEECH*>¡Eso es mentira!
+<SPEECH*>No, no lo es.\nMira sus ojos. Su pelo.
+<SPEECH*>Desde tiempos inmemoriales, la familia\nreal Lanvaldear ha tenido el cabello\nrojo y los ojos verdes.
+<SPEECH*>Pero el pelo de esta mujer es dorado.\nY el cabello de la difunta Reina era\nnegro como la noche.
+<SPEECH*>También he informado a Su\nMajestad sobre este asunto.
+<SPEECH*>¡Si vas a Baticul, Su Majestad\nte castigará por conspirar\ncontra el reino!
+<SPEECH*>Es imposible...\nNo puede ser verdad...
+<SPEECH*>Conde, ¿no deberías volver\nal campo de batalla?
+<SPEECH*>Ah... uh, mmm. Sí.
+<SPEECH*>¡Hey! ¡Espera!\n¡El campo de batalla va a caer!
+<SPEECH*>¿Y qué más da?
+<SPEECH*>Mientras haya guerra,\nla Partitura se cumplirá.
+<SPEECH*>¿Por qué se preocupan esos de Ciudad\nde Yulia de una pequeña caída de tierra?
+<SPEECH*>Gran maestro Mohs...\nEs horrible...
+<SPEECH*>Humf. Es tu hermano quien\nestá haciendo lo impensable.
+<SPEECH*>Y ahora, Maestro Fónico,\n¿pretendes seguir pidiendo el cese\nde las hostilidades?
+<SPEECH*>No, quiero volver a Daath,\nde momento.
+<SPEECH*>¡¿Ion?! \n¡¿Lo dices en serio?!
+<SPEECH*>¡El Comandante te obligará a\nabrir los sellos de los sephiroth\npara destruir los árboles!
+<SPEECH*>No lo permitiré. Que caigan más\npartes de las Tierras Exteriores\nsería un problema.
+<SPEECH*>¿Y si viene por la fuerza?...
+<SPEECH*>Si eso ocurre, tú vendrás\na rescatarme, Anise.
+<SPEECH*>¿Qué?...
+<SPEECH*>Cantora Anise Tatlin, a partir de\nahora te relevo de tu posición como\nguardiana del Maestro Fónico.
+<SPEECH*>¡E-E-Espera un segundo!\n¡Ion! ¡No lo hagas!
+<SPEECH*>Quédate siempre con Luke,\nprotégele e infórmame\nde todo lo que oigas.
+<SPEECH*>Por favor, cuidad de Anise por mi.
+<SPEECH*>Vamos a Daath.
+<SPEECH*>Sí, Maestro Fónico.
+<SPEECH*>¿Qué se cree Ion que está haciendo?
+<SPEECH*>Si deja a Anise aquí\nsignifica que volverá.\nAhora, lo más importante es...
+<SPEECH*>Si estás preocupado por mí, estoy bien...\nDeberíamos ir a Baticul.
+<SPEECH*>El único que ahora mismo puede\ndetener el ejército de Kimlasca es\nPadr... Su Majestad el Rey.
+<SPEECH*>Tendremos que buscar la manera\nde cruzar la frontera.
+<SPEECH*>La frontera atraviesa esta ciudad.\nDebe haber algún lugar donde colarse.
+<SPEECH*>Luke, no pierdas de\nvista a Natalia. \nEstoy preocupado por ella.
+<SPEECH*>Sí...
+¿Podemos pasar por aquí?
+Si quieres pasar por aquí,\ndime la contraseña.
+¿Qué? ¿De qué hablas?
+Hablo de lo que hablo. Si no sabes\nla contraseña, no pasas.
+¿Te importaría que pasáramos por aquí?
+Si quieres pasar por aquí,\ndime la contraseña.
+Montaña...
+Incorrecto.
+Río.
+Incorrecto. Si no lo sabes...
+Gilipollas.
+¡¿Q-Qué has dicho?!
+Estaba probando una contraseña.
+¿Podemos pasar por aquí?
+Si quieres pasar por aquí,\ndime la contraseña.
+Oh, venga... ¡sé bueno!
+¡Nunca! Si no sabes la contraseña\nno puedes pasar.
+Parece que podríamos ir por aquí.
+Si quieres pasar por aquí,\ndime la contraseña.
+Seguramente alguien está cobrando\npor ello. ¿Deberíamos informar a\nla patrulla de la frontera?
+¡¿Qu...?! ¡No intentéis amenazarme!...\nSi no sabéis la contraseña, no pasáis.
+¡Guau, qué guapo eres! @ \n¿Podrías dejarnos pasar?\n¿Porfa plis? @
+Si quieres pasar por aquí,\ndime la contraseña.
+Tch. ¡Ten cuidado conmigo,\nso tío feo!
+¡N-No os dejo pasar por aquí ni en broma!
+Déjanos pasar.
+Si quieres pasar por aquí,\ndime la contraseña.
+¡Bueno, bueno! Tarde o temprano os\narrepentiréis de hacer cosas como ésta.
+Sólo son negocios, señora.
+<SPEECH*>Je je je. \n¿Quieres comprar la contraseña?
+<SPEECH*>¡Hey! ¡Eres tú!
+<SPEECH*>Oh, pero si son los niños estos otra vez.
+<SPEECH*>¡No me lo puedo creer, chicos!
+<SPEECH*>¡¿Primero secuestráis a Ion y\nahora estafáis a la gente aquí?! \n¡¿Qué pasa con vosotros?!
+<SPEECH*>Je je je je.\n¿Qué puedo decir? \n¡Nos gusta el dinero! 
+<SPEECH*>A mí también, pero aun así...
+<SPEECH*>Anise... \nVale, Alas Oscuras, ¿de \ncuánto estamos hablando?
+<SPEECH*>Sois seis, así que....
+<SPEECH*>¡No te olvides de mí!
+<SPEECH*>Sois siete, así que  \nserán siete mil gald.
+<SPEECH*>No me lo puedo creer...
+<SPEECH*>¡Idiota! ¡Tu bocaza nos\nacaba de costar mil gald más!
+<SPEECH*>Mieuuuuu...
+<SPEECH*>Bueno, ¿vais a pagar o no?
+Es demasiado caro...\nVale
+<SPEECH*>Es demasiado caro.
+<SPEECH*>Sí. Y yo no creo que haya motivo\npara seguir con este pequeño timo.
+<SPEECH*>Aún estamos en Malkuth, ¿no?\n¡Coronel, arréstalos!
+<SPEECH*>Ya la has oído... Aunque\nsi nos dejas pasar, supongo que\nesta vez os puedo dejar ir.
+<SPEECH*>Sí, bueno, verás...\nNosotros montamos esto porque 
+<SPEECH*>gente como tú ha empezado una\nguerra que está hiriendo a gente\ncomo nosotros, civiles inocentes.
+<SPEECH*>Eso es cierto...\nPaguémosles.
+<SPEECH*>Eso no es propio de ti, Natalia.
+<SPEECH*>Con guerra o sin ella, la decisión\nde cometer crímenes viene de la\npropia falta de principios.
+<SPEECH*>Bueno... sí, pero...
+<SPEECH*>Pues llamemos a la policía militar.
+<SPEECH*>Espera.
+<SPEECH*>Os dejaremos pasar...\nPero no se lo digáis a nadie.
+<SPEECH*>Siempre hay alguno que se \nqueda atrapado en el lado\nequivocado de la frontera.
+<SPEECH*>Gracias.
+<SPEECH*>Está bien.
+<SPEECH*>¡¿Vas a pagar?!\n¡No!\n¡Es un desperdicio!
+<SPEECH*>¡Si pagas, seguirán\nhaciendo esto a\nmás gente!
+<SPEECH*>Claro.\nSon negocios.
+<SPEECH*>Oí que los Alas Oscuras sólo robaban\npor buenas causas. Pero supongo que\nsólo sois matones. Qué asco.
+<SPEECH*>Oh no no no. Eso sí que no.\n¿Cómo te atreves a llamarnos "matones"?
+<SPEECH*>Bueno, está claro que lo sois.\nLos pobres son las únicas\nvíctimas aquí.
+<SPEECH*>Sólo hacemos pagar a los ricos.
+<SPEECH*>Guy, sólo son unos pobres ladrones de\nnobles, que han confundido la gente \na la que deberían quitar el dinero.
+<SPEECH*>Paguémosles y sigamos nuestro camino.
+<SPEECH*>¿Qué has dicho?...
+<SPEECH*>¿Me equivoco? Sólo\nqueremos cruzar la frontera\npara detener la guerra.
+<SPEECH*>Dejarnos pasar\nos aguaría el\nnegocio, ¿verdad?
+<SPEECH*>Vale, me dejo convencer...\nPodéis pasar.\nPero no se lo digáis a nadie.
+<SPEECH*>¿Estás seguro?
+<SPEECH*>¡Luke!\n¡Ha dicho que no pasa nada, así que ya está!
+<SPEECH*>¡No hay nada más barato que lo gratis!
+Primero tenemos que encontrar a\nRose y advertirle del peligro.
+Démonos prisa y pongamos\na todos a salvo.
+No hay tiempo para hacer el tonto.\nTenemos que sacar a todos de aquí.
+Expliquémosle la situación a Rose.
+¡Si no nos damos prisa, los\nhabitantes estarán en problemas!
+¡Tenemos que detener la guerra!
+No hay tiempo para salir a fuera.\nTenemos que detener la guerra.
+Si perdemos el tiempo, será demasiado tarde.
+Busquemos al conde Almandine. Si\nle explicamos la situación, quizá\nél pueda evitar la guerra.
+Vayamos a la frontera, no a fuera. El conde\nAlmandine también debería estar allí.
+Reunámonos con Almandine y\nexpliquémosle la situación. No\npodemos dejar que sufra más gente.
+¿Con quién vas a hablar?\nTear\nGuy\nAnise
+¿Llevar a <04*>Tear<04*> contigo?\nSí\nNo
+¿Llevar a <04*>Guy<04*> contigo?\nSí\nNo
+¿Llevar a <04*>Anise<04*> contigo?\nSí\nNo
+Vayamos a Baticul y pidámosle a\nSu Majestad que detenga la lucha.
+Vayamos a Baticul y pidámosle al\nrey Ingobert que detenga la lucha.
+Vayamos a Baticul y pidámosle al\nrey Ingobert que detenga la lucha.
+Vayamos a Baticul y pidámosle al\nrey Ingobert que detenga la lucha.
+Vayamos a Baticul y pidámosle al\nrey Ingobert que detenga la lucha.
+Vayamos a Baticul y pidamos a mi padr... quiero decir,\na Su Majestad el rey Ingobert, que detenga la lucha.
+<04*>La Llave Incompleta de Lorelei<04*> y \n<04*>la Joya de Lorelei<04*> se han unido\ny se ha creado <04*>la Llave de Lorelei<04*>.
+<SPEECH*>La operación será mañana,\ndespués de encontrarnos\ncon la fuerza aliada.
+<SPEECH*>¿Así que tenemos el día para nosotros?
+<SPEECH*>Sí. Antes de un despliegue, se les\nconceden 24 horas a los soldados\npara que hagan lo que quieran.
+<SPEECH*>¡Pues hagámoslo nosotros también!
+<SPEECH*>Por mí bien pero, por favor, no os\nalejéis mucho de Chesedonia.
+<SPEECH*>¡Sí, señor, no hay problema! @\n¡Guy, Natalia, venga!
+<SPEECH*>¿No vas a ningún sitio?
+<SPEECH*>No... La verdad es\nque no. ¿Y tú?
+<SPEECH*>Nah, Chesedonia está en un desierto, así que...
+<SPEECH*>Y aún no me parece real, ¿sabes?\nQue mañana sea la batalla final.
+<SPEECH*>¿Entonces vosotros dos\nvendréis conmigo un ratito?
+<SPEECH*>¡Yo también!
+<SPEECH*>Claro. Vayamos todos juntos.
+<SPEECH*>Parece que estás esperando\na que venga alguien.
+<SPEECH*>Me temo que es poco probable...
+<SPEECH*>Asch odiaba a las réplicas. Eso le dio\nun objetivo, pero lo perdió cuando\nLuke se sostuvo por sí mismo.
+<SPEECH*>No creo que venga.\nLa próxima vez que lo veamos...
+<SPEECH*>Será cuando luchen.\n¿Pero por qué tienen que pelear?
+<SPEECH*>No es para herirse mútuamente.\nEs para probar quienes son.
+<SPEECH*>Para demostrar que ahora son\ndos personas diferentes.
+<SPEECH*>Me pregunto que debería\nhacer cuando eso ocurra.
+<SPEECH*>Si de verdad te preocupan\nambos... entonces sólo \nacepta el resultado.
+<SPEECH*>¿Tú lo harás?
+<SPEECH*>Bueno... eso hacen los amigos, ¿verdad?
+<SPEECH*>¿Asch también es tu amigo?
+<SPEECH*>He dejado atrás mi pasado tanto\ncomo he podido. Creo que eso\nestá intentando Asch ahora.
+<SPEECH*>Cuando eso ocurra, él ya no será\nel hijo de mi enemigo, y yo\nya no seré su sirviente.
+<SPEECH*>Empezaremos de nuevo\ncomo Asch y Gailardia. \nSólo dos personas.
+<SPEECH*>Seguro que es un tipo bastante\ndivertido sin todo ese peso.
+<SPEECH*>Eres tan maduro. \nNo sé... yo sólo...
+<SPEECH*>Tu ves a Luke como un amigo, ¿verdad?
+<SPEECH*>Sí.
+<SPEECH*>Pues ya está bien por ahora.
+<SPEECH*>Cuando todo acabe,\nhaz lo que sientas.
+<SPEECH*>Tienes razón...\nAlgunas respuestas no vendrán\npor mucho que las pienses.
+<SPEECH*>¿Estás bebiendo, Coronel?
+<SPEECH*>Hubiera preferido un lugar\nalgo más agradable, pero...
+<SPEECH*>¿No ibas a disfrutar de\ntu tiempo libre, Anise?
+<SPEECH*>Quise darle tiempo a Tear.
+<SPEECH*>Mmm...\nEso quizá haya sido\ncruel, a su manera...
+<SPEECH*>Coronel, tú escondes \nalgo, ¿a que sí?
+<SPEECH*>No, claro que no.
+<SPEECH*>Oh, vale... ¿Qué vas a hacer cuando\nderrotemos al comandante Grants?
+<SPEECH*>Soy un soldado. Volveré a mi\nvida en el ejército. Pero...
+<SPEECH*>¿Pero... qué?
+<SPEECH*>He pensado en empezar de nuevo el \nestudio de la fomicría cuando vuelva.
+<SPEECH*>Mejorar el estado de las\nréplicas para que sean algo\nmás que meros sustitutos.
+<SPEECH*>Sí. Por favor, hazlo.\nCreo que a Ion le gustaría.
+<SPEECH*>Tú vas a reformar la\nOrden, ¿no es así?
+<SPEECH*>Te has dado cuenta, ¿eh?\nYa paso de casarme por dinero.\n¡Voy a ser la primera mujer Maestra Fónica!
+<SPEECH*>Excelente. Pero creo que empieza a \nser hora de que vuelvas a la posada.
+<SPEECH*>Hey, tú te vas a quedar\naquí bebiendo, ¿verdad?
+<SPEECH*>Ésta es la hora de los mayores.\nLos niños deben irse a la cama.
+<SPEECH*>Buuu. Eres malo.
+<SPEECH*>Estoy preocupado por el Amo.
+<SPEECH*>No. Tú te quedas aquí conmigo.
+<SPEECH*>Mieuuuu...
+<SPEECH*>Mañana...
+<SPEECH*>Sí. Espero que mi cuerpo\naguante hasta entonces.
+<SPEECH*>Aguantará.
+<SPEECH*>Tear...
+<SPEECH*>Mañana... y pasado...\ny al otro, y al otro...
+<SPEECH*>Tear... yo...
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Ah, no importa...
+<SPEECH*>Estás raro.
+<SPEECH*>¡No lo estoy!...
+<SPEECH*>¿Qué te pasa, tan de repente?
+<SPEECH*>Me has vigilado todo este tiempo, \ntal y como prometiste.
+<SPEECH*>Idiota... También\nseguiré vigilándote.
+<SPEECH*>Tú eres la idiota. \nVoy a desaparecer...
+<SPEECH*>No pasa nada.
+<SPEECH*>Es extraño. \nAhora mismo, soy muy feliz.
+<SPEECH*>Tengo amigos... y a ti...\nPor fin puedo pensar en mí como... yo.
+<SPEECH*>Seguramente, éste es el\nmomento más feliz de mi vida.
+<SPEECH*>¿Qué?...
+<SPEECH*>Quiero decir, me gustaría poder\npensar que no lo es...
+......
+<SPEECH*>Yo sólo... Gracias.
+<SPEECH*>La operación empieza al mediodía.\nNuestros barcos estarán desplegados por\nel océano Central y la península ispaniense.
+<SPEECH*>Tardarán más en tomar\nposiciones que el Albiore.
+<SPEECH*>Estad alerta en el océano\nCentral bajo Eldrant y\nesperad a que lleguemos.
+<SPEECH*>Entendido.
+<SPEECH*>El bombardeo de artillería empezará tan\npronto como lleguen las fuerzas aliadas.
+<SPEECH*>Con ese apoyo, entraremos a \nEldrant desde abajo, donde hay\nmenos defensa antiaérea.
+<SPEECH*>Destruiremos los equipos\nantiaéreos si es posible,\ny luego a por Van.
+<SPEECH*>Nuestro objetivo final es liberar a Lorelei.\nCreo que eso lo cubre todo.
+<SPEECH*>Vale, tu turno, Luke. ¡Ésta\nes nuestra batalla final, así\nque da la orden y hazlo bien!
+<SPEECH*>¿Yo?
+<SPEECH*>Bueno, ahora eres más o menos el líder.
+<SPEECH*>Vale.\n¡Vamos a proteger nuestro mundo!
+<SPEECH*>Todavía queda algo de tiempo.
+<SPEECH*>Estoy algo nervioso.
+<SPEECH*>El Comandante no se contendrá.\nTenemos que luchar con todas nuestras fuerzas.
+<SPEECH*>Mantén la calma, o acabarás\nagotada incluso antes de\nque lleguemos allí.
+<SPEECH*>Sí, es cierto.\nTen cuidado, Luke.
+<SPEECH*>¡¿Por qué yo?!
+<SPEECH*>Je je, sí, tú eres el\nque más nos preocupa.
+<SPEECH*>¿Q-Qué es eso?
+<SPEECH*>¡Huyamos! Los fonones...\n¡Los fonones nos están atacando!
+<SPEECH*>¡Luke!\n¡Mira!
+<SPEECH*>Lo conseguimos...
+<SPEECH*>No esperaba que nos atacaran primero...<PAGE>\n<SPEECH*>Las partículas de memoria empujaron\na Eldrant a esa corriente.<PAGE>\n<SPEECH*>El Tartarus, que estaba en el núcleo,\nha debido quedar destruido.
+<SPEECH*>¡¿El Tartarus no está?! \nEso significa...
+<SPEECH*>No hay nada que neutralice la\nvibración del núcleo. Por supuesto,\neso ahora no es un problema.
+<SPEECH*>Sí. Je, supongo que es bueno que\nLorelei saliera del núcleo...
+<SPEECH*>Sí... Y mientras no revivamos la\nTormenta Planetaria, el núcleo\ndebería permanecer quieto...
+<SPEECH*>Es tal y como dijo Asch. Intentan\nque choquemos contra Eldrant...
+<SPEECH*>Ésa es la amenaza que la Llave\nde Lorelei representa para Van.
+<SPEECH*>¡Ugh!...
+<SPEECH*>La caída de Eldrant no pareció\nafectar al sistema antiaéreo.
+<SPEECH*>No, espera un momento...
+<SPEECH*>En el lado del puerto de Eldrant...\nen la parte plana de la izquierda.\n¡Los cañones antiaéreos están inactivos!
+<SPEECH*>¡Vale! ¡Aterrizaremos ahí!
+¡¿Los "Alas Oscuras"?!
+Qué están haciendo aquí...
+¡Detente, ladrón! \n¡Que alguien le atrape!
+¡Nosotros también le perseguiremos!
+¡Hey, esperad!
+Mis compañeros están persiguiendo al ladrón. \n¿Estás bien?
+Estoy bien... ¡Au!
+Oh, no. \nCreo que tienes un esguince...
+¿Qué vamos a hacer? \nNuestros sanadores se han ido...
+Ay, Dios... \nMi tiempo de descanso ya casi ha acabado. \nSi llego tarde, me regañarán.
+Eso no es bueno. \nUm...
+Guy, llévala a la espalda.
+¡¿Qué?! \nPero... yo...
+Sé lo de tu problema, \npero esta chica tiene problemas.
+¡No, no pasa nada! \nPuedo andar.
+No, sería peligroso con esa pierna.\nLlevarte sobre mi espalda sería\ndemasiado para mí, pero...
+T-Te llevaré al castillo así...
+¡Lo has conseguido! \n¡¡De verdad, lo has conseguido!!
+Ja... ja ja...
+(Puedes hacerlo, Guy. Salvaste a\nAnise aquella vez, ¿te acuerdas?)
+Hemos atrapado al ladrón.
+Aquí está tu bolso.
+Gracias. Me habéis llevado\nhasta aquí e incluso me\nhabéis curado las heridas...
+¿Te importa si llevamos a\neste hombre a la policía?
+Por favor, hacedlo. \n¡Gracias por todo!
+Por favor, soltadme...
+No pienso hacerlo.
+¡Por favor!<PAGE>\nNuestros trabajos no han ido muy\nbien últimamente, y es difícil\nalimentar a nuestra gente.
+Entonces deberías trabajar.
+Asch hace que nos esforcemos\ndemasiado y no hemos podido hacer\nactuaciones de circo.<PAGE>\nSi las cosas siguen así...
+Escuchad, chicos, dejémosle ir esta vez.
+¡Guy! \n¡¿Qué estás diciendo?!
+Lo viste, ¿no? \nFui capaz de llevarla hasta\nel castillo.<PAGE>\nNo creo que lo hubiera podido hacer\nsi esto no hubiera ocurrido...<PAGE>\nY también estamos involucrados\nen lo que está haciendo Asch.
+Eres un blandengue, Guy.
+Pero si arrestan a este\ntío, le pondrá las cosas\ndifíciles a Asch...
+B-Bueno, eso es cierto...
+De acuerdo...\nTe dejaremos marchar.
+Gracias.
+Estoy avergonzado, pero no\nolvidaré esta deuda. ¡Os\nlo recompensaré algún día!
+Dime, Guy, estás certificado\nen rescate marítimo, ¿verdad?
+¿Y eso a qué viene?
+Ah, me preguntaba qué harías si\nuna chica se estuviera ahogando.
+¡Vaya! Ésa es una buena pregunta.<PAGE>\n¿Se puede estar certificado si\nno puedes ocuparte de eso?
+Ah... En realidad, no tengo\nproblemas en momentos así.<PAGE>\nParece que pienso en el hecho de\nque necesitan ayuda antes de\npreocuparme por su sexo.
+Creo que lo entiendo. \nSe convierte en tu deber.
+Ja ja... \nEso es propio de ti, Tear.
+Mmm... Entonces creo que le será\nposible superarla completamente.
+¿Superar mi fobia, quieres decir?
+¡Sí, yo también lo creo!<PAGE>\nAquella vez conmigo, y luego con\nla criada... cuando rescatas gente,\nno te queda otro remedio, ¿verdad?
+En otras palabras, tenemos que sellar\ncompletamente cualquier camino de retirada.
+Um... Espera...
+Es una buena idea. Me gustaría\nayudar a ese chico a recuperarse\ntan pronto como él pueda...
+¡Los "Alas Oscuras"!
+He oído que ayudaste a Urushi.<PAGE>\nEstaba pensando en cómo agradecértelo,\ny después de oír lo que acabas\nde decir, he tenido una idea.
+¿C-Cuál es?...
+Trabajar en el bar de Chesedonia. \nAunque no hay muchas, hay algunas\nmujeres entre el personal y\nlos clientes.<PAGE>\nTenemos contactos en ese bar, \nasí que iremos y les diremos\nque te esperen.
+Mmm... Sí, en un bar, muchas de\nlas mujeres estarán acostumbradas\na manejar hombres.<PAGE>\nDebería ser una experiencia\nestimulante para Guy.
+¡Esperad un momento! \n¡Nadie me deja decir nada!
+¡Vale, pues está decidido!
+Aceptamos tu oferta, Noir.
+De acuerdo. Id a Chesedonia \ncuándo tengáis ocasión.
+*Suspiro* \nTengo un mal presentimiento...
+Debes de ser el nuevo\naprendiz de barman.
+¡¿Aprendiz de barman?!
+Nos lo dijo Noir. \nAhora no te escaquees.
+Eres nuevo aquí, ¿verdad?
+¿Cuál es tu nombre?
+G-Guy...
+Ji ji, ¿estás nervioso?
+¡Qué mono!
+Él es su juguete...
+Espero que esté bien.
+Esto no será fácil para él.
+Vaya, esto ES divertido.
+¡Yahoo! \nCreo que le pediré a Guy que\nme ponga una copa de vino...
+¡No! \nNo puedes beber alcohol hasta\nque completes tu ceremonia de\nmayoría de edad.
+Auu... \nQuiero probarlo...
+Guy consigue un título.

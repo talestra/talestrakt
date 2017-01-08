@@ -1,0 +1,268 @@
+0021:00001098:Paralysis Gas
+0021:00001114:Weak Gas
+0022:0000117C:Paralysis Gas
+0022:000011F8:Weak Gas
+0023:000011F0:Paralysis Gas
+0023:0000126C:Weak Gas
+0024:000011F0:Paralysis Gas
+0024:0000126C:Weak Gas
+0036:00000CCC:Charge!
+0065:00000C54:Charge!
+0071:0000113C:Poison Pollen
+0072:000011D4:Poison Pollen
+0072:00001250:Panic Pollen
+0073:0000113C:Poison Pollen
+0074:00001188:Poison Pollen
+0075:00000DBC:Thorn Burst
+0079:0000136C:Filthy Dust
+0080:0000136C:Freezing Smoke
+0081:0000136C:Filthy Air
+0082:000013E4:Microbes...
+0092:00000DB8:Searing Flame
+0092:00000E34:Searing Flame
+0094:00000DB8:Poison Breath
+0094:00000E34:Poison Breath
+0096:00000DDC:Paralyzing Sigh
+0096:00000E58:Paralyzing Sigh
+0097:00000DB8:Freezing Breath
+0097:00000E34:Freezing Breath
+0098:00000E28:Poison Breath
+0098:00000E7C:Poison Breath
+0104:00000FC4:Burning Flame
+0105:00001088:Freezing Fire
+0128:00000E8C:Poison Pill
+0129:00000E8C:Stone Drops
+0130:00000E8C:Poison Pill
+0131:00001148:Weakened by fire...
+0131:00001218:Strengthened by water!
+0132:00001148:Weakened by fire...
+0132:00001218:Strengthened by water!
+0133:00001000:Poison Pill
+0133:00001170:Weakened by fire...
+0133:00001240:Strengthened by water!
+0134:00001148:Weakened by fire...
+0134:00001218:Strengthened by water!
+0135:00001000:Stone Bubbles
+0135:00001170:Weakened by fire...
+0135:00001240:Strengthened by water!
+0136:00001148:Weakened by fire...
+0136:00001218:Strengthened by water!
+0137:00001148:Weakened by fire...
+0137:00001218:Strengthened by water!
+0138:00001148:Weakened by fire...
+0138:00001218:Strengthened by water!
+0156:00001034:Stone Breath
+0157:00000FD4:Trying to escape...
+0157:00001014:Escaped...
+0157:00001094:Self-Destruct
+0157:00001158:Searing Flame
+0158:00000FD4:Trying to escape...
+0158:00001014:Escaped...
+0158:00001094:Self-Destruct
+0158:00001158:Searing Flame
+0159:00000FD4:Trying to escape...
+0159:00001014:Escaped...
+0159:00001094:Self-Destruct
+0159:00001160:Frigid Sigh
+0168:00000E80:Poison Fang
+0169:00000E80:Poison Fang
+0170:00000E80:Poison Fang
+0171:00000E80:Poison Fang
+0172:00000E80:Poison Fang
+0190:00000C60:Starting to build power!
+0190:00000D08:Building up power!
+0191:00000D60:Starting to build power!
+0191:00000E08:Building up power!
+0192:00000DA8:Starting to build power!
+0192:00000E50:Building up power!
+0193:00000E58:Starting to build power!
+0193:00000F00:Building up power!
+0196:00000EFC:Shock Strike
+0207:00000CF0:Trying to escape...
+0207:00000D18:Escaped...
+0208:00000CF0:Trying to escape...
+0208:00000D18:Escaped...
+0209:00000CF0:Trying to escape...
+0209:00000D18:Escaped...
+0210:00000CF0:Trying to escape...
+0210:00000D18:Escaped...
+0211:00000CF0:Trying to escape...
+0211:00000D18:Escaped...
+0215:00000EC8:Stone Drops
+0219:00000F14:Poison Needle
+0220:00000F14:Poison Needle
+0221:00000F14:Poison Needle
+0222:00000EF0:Poison Needle
+0223:00000EA4:Poison Needle
+0241:00000F28:Stone Breath
+0243:00000F28:Stone Breath
+0244:00000F28:Stone Breath
+0245:00000F28:Stone Breath
+0246:00000EA0:Filthy Hand
+0247:00000EEC:Filthy Hand
+0249:00000EEC:Filthy Hand
+0250:00000EEC:Filthy Hand
+0251:00000EEC:Filthy Hand
+0252:00000EEC:Filthy Hand
+0269:00000F18:Reaper's Toll
+0269:00001038:Dragon Shot
+0270:00001048:Reaper's Toll
+0270:00001168:Dragon Shot
+0271:000011C4:Reaper's Toll
+0271:000012E4:Dragon Shot
+0272:00001350:Rage Laser
+0273:0000139C:Rage Laser
+0274:00001350:Rage Laser
+0275:00000F18:Stone Beast
+0275:000010B0:Blazing Talon
+0275:00001178:Beast
+0275:0000127C:Savage Flame
+0276:00000F18:Stone Beast
+0276:000010B0:Blazing Talon
+0276:00001178:Beast
+0276:0000127C:Savage Flame
+0277:00000F18:Stone Beast
+0277:000010B0:Blazing Talon
+0277:00001178:Beast
+0277:0000127C:Savage Flame
+0281:00000E28:Radiant Dragon
+0281:00000F80:Shining Blade
+0282:00000E74:Radiant Dragon
+0282:00000FCC:Shining Blade
+0283:00001028:Radiant Dragon
+0283:00001180:Shining Blade
+0283:000012AC:Shining Dragon
+0285:00000E28:Bug Parade
+0287:00000DDC:War Cry
+0287:00000E58:Fire Shot
+0288:000014D8:Rushing Galley
+0288:00001648:Poison Wheel
+0290:00000E28:Connect Earth
+0290:00000ECC:Connect Earth
+0290:00000F70:Connect Aqua
+0290:00001014:Connect Aqua
+0290:000010B8:Connect Flame
+0290:0000115C:Connect Flame
+0290:00001200:Connect Gale
+0290:000012A4:Connect Gale
+0291:000011CC:Fire Shot
+0297:00001188:Blast Strike
+0297:00001200:Twin Laser
+0301:00000E04:Sonic Blade
+0301:00000F00:Neo Swarm
+0301:00001218:Tempest Strike
+0301:00001388:Demon Hammer
+0301:00001498:Spiral  Attack
+0301:000015E8:Neo Tempest Swarm
+0301:00001998:Demon Lightning Hammer
+0301:00001B6C:Rising Phoenix
+0302:00000E6C:Storm Glare
+0302:00000F58:Frigid Glare
+0303:00000E4C:Philia Bomb
+0303:00000EF0:Bomb Rain
+0303:00000FE8:Stop Flow
+0303:00001074:Inspect Eye
+0305:000011AC:Fang
+0305:00001260:Roar
+0305:0000132C:Storm
+0305:000013E8:Instant
+0305:000014D4:End
+0305:00001518:Crush
+0306:00001250:Fang
+0306:00001304:Roar
+0306:000013D0:Storm
+0306:0000148C:Instant
+0306:00001578:End
+0306:000015BC:Crush
+0307:00001284:Fang
+0307:00001338:Roar
+0307:00001404:Storm
+0307:000014C0:Instant
+0307:000015AC:End
+0307:000015F0:Crush
+0308:00000DA0:Pow Hammer
+0311:000011C4:Reaper's Toll
+0311:000012E4:Dragon Shot
+0312:00001350:Rage Laser
+0313:00000F18:Stone Beast
+0313:000010B0:Blazing Talon
+0313:00001178:Beast
+0313:0000127C:Savage Flame
+
+0021:00001240:Defenseless!
+0022:00001324:Defenseless!
+0023:00001398:Defenseless!
+0024:00001398:Defenseless!
+0112:00001248:Defenseless!
+0113:00001248:Defenseless!
+0114:00001248:Defenseless!
+0115:00001248:Defenseless!
+0116:00001248:Defenseless!
+0117:00001248:Defenseless!
+0118:00001248:Defenseless!
+0119:00001248:Defenseless!
+0120:00001248:Defenseless!
+0121:00001248:Defenseless!
+0122:00001248:Defenseless!
+0152:00001158:Defenseless!
+0153:00001158:Defenseless!
+0154:00001158:Defenseless!
+0155:00001158:Defenseless!
+0156:000011A8:Defenseless!
+
+0079:000014B8:Defenseless!
+0079:000014F8:Defense weakened!
+0080:000014B8:Defenseless!
+0080:000014F8:Defense weakened!
+0081:000014B8:Defenseless!
+0081:000014F8:Defense weakened!
+0082:00001530:Defenseless!
+0082:00001570:Defense weakened!
+0123:000014E8:Defenseless!
+0123:00001528:Defense weakened!
+0124:000014E0:Defenseless!
+0124:00001520:Defense weakened!
+0125:000014E8:Defenseless!
+0125:00001528:Defense weakened!
+0126:000014E8:Defenseless!
+0126:00001528:Defense weakened!
+0139:00000FE8:Defenseless!
+0139:00001010:Defense weakened!
+0140:00000FE8:Defenseless!
+0140:00001010:Defense weakened!
+0141:00000FE8:Defenseless!
+0141:00001010:Defense weakened!
+0142:00000FE8:Defenseless!
+0142:00001010:Defense weakened!
+0143:00000FE8:Defenseless!
+0143:00001010:Defense weakened!
+0190:00000E54:Defenseless!
+0190:00000E7C:Defense weakened!
+0191:00000FC4:Defenseless!
+0191:00000FEC:Defense weakened!
+0192:0000100C:Defenseless!
+0192:00001034:Defense weakened!
+0193:000010F4:Defenseless!
+0193:0000111C:Defense weakened!
+0214:00000FA8:Defenseless!
+0214:00000FD0:Defense weakened!
+0215:00000FD0:Defenseless!
+0215:00000FF8:Defense weakened!
+0216:00000FA8:Defenseless!
+0216:00000FD0:Defense weakened!
+0217:00000FA8:Defenseless!
+0217:00000FD0:Defense weakened!
+0229:00001490:Defenseless!
+0229:000014D0:Defense weakened!
+0230:00001458:Defenseless!
+0230:00001498:Defense weakened!
+0231:00001430:Defenseless!
+0231:00001470:Defense weakened!
+0263:00000ECC:Defenseless!
+0263:00000EF4:Defense weakened!
+0264:00000ECC:Defenseless!
+0264:00000EF4:Defense weakened!
+0265:00000ECC:Defenseless!
+0265:00000EF4:Defense weakened!
+0266:00000ECC:Defenseless!
+0266:00000EF4:Defense weakened!

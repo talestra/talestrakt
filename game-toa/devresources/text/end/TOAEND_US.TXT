@@ -1,0 +1,1510 @@
+
+
+
+
+
+
+
+
+
+
+
+
+@o0
+
+
+
+
+
+
+
+
+
+
+
+@s5CHARACTER DESIGN
+@\6
+KOSUKE FUJISHIMA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5OPENING THEME "KARMA"
+
+@s5ARTIST
+@\6
+@hBUMP OF CHICKEN
+
+@s5PRODUCED BY
+@\6
+@hBUMP OF CHICKEN & MOR
+
+@s5WORDS & MUSIC
+@\6
+Motoo Fujiwara
+
+@s5RECORDING & MIXING ENGINEER
+@\6
+Makino "Q" Eiji
+
+
+
+
+
+
+@s5INSTRUMENTAL MUSIC
+@s5ARRANGEMENT
+
+@s5SOUND DIRECTOR
+@\6
+Hideki Sakamoto
+
+@s5SOUND DESIGNER
+@\6
+Yasushi Asada
+
+@s5MASTERING
+@\6
+noisycroak Co.,Ltd.
+
+
+@p3
+
+
+
+
+
+
+@s5Fonic Hymn "FUKA"
+
+@s5PERFORMER
+@\6
+Motoo Fujiwara
+
+@s5VOCAL
+@\6
+Tear
+
+@s5WORDS & MUSIC BY
+@\6
+Motoo Fujiwara
+
+@s5PRODUCER
+@\6
+@hMotoo Fujiwara & MOR
+
+@s5PROGRAMMER
+@\6
+Yasunori Ohwada
+
+@s5RECORDED & MIXED BY
+@\6
+Makino "Q" Eiji
+
+
+
+@s5THEME BGM
+
+@s5ARTIST
+@\6
+Motoo Fujiwara
+
+@s5COMPOSED & ARRANGED BY
+@\6
+Motoo Fujiwara
+
+@s5PRODUCER
+@\6
+@hMotoo Fujiwara & MOR
+
+@s5PROGRAMMER
+@\6
+Yasunori Ohwada
+
+@s5MIXED BY
+@\6
+Makino "Q" Eiji
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5NAMCO TALES STUDIO LTD.
+
+
+
+@s5GENERAL DIRECTORS
+@\6
+Akiyoshi Sarukawa
+@\6
+Kiyoshi Nagai
+@\6
+Eiji Kikuchi
+
+
+@s5LEAD PLANNER
+@\6
+Takashi Hasegawa
+
+
+@s5DUNGEON CONCEPT DESIGNER
+@\6
+Kenji Anabuki
+
+@s5TOWN CONCEPT DESIGNER
+@\6
+Hidenori Yamauchi
+
+@s5BATTLE/MONSTER
+@s5CONCEPT DESIGNER
+@\6
+Go Murai
+
+@s5BATTLE PROGRAMMER
+@\6
+Osamu Hisano
+
+
+@s5MAIN PROGRAMMER
+@\6
+Yu Otsuka
+
+
+@s5SYSTEM PROGRAMMER
+@s5MAIN
+@s5LOCALIZATION PROGRAMMER
+@\6
+Takahiro Akiyama
+
+@s5FIELD PROGRAMMER
+@\6
+Noriyuki Yasuda
+
+@s5MAIN PROGRAMMING SUPPORT
+@\6
+Isamu Matsushita
+@\6
+Takashi Mizushima
+
+@s5BATTLE PROGRAMMING SUPPORT
+@\6
+Shin Kawano
+
+@s5SYSTEM PROGRAMMING SUPPORT
+@\6
+Yoshimasa Enji
+
+
+@s5SCRIPT DIRECTOR
+@\6
+Naoto Miyadera
+
+@s5EVENT SCRIPT EDITORS
+@\6
+Soichiro Miyano
+@\6
+Ken Ito
+
+@s5EVENT SCRIPT SUPPORT
+@\6
+Takahiro Kawase
+@\6
+Masaki Kubota
+
+@s5SKIT SCRIPT EDITOR
+@\6
+Ichio Takami
+
+
+@s5LEAD
+@s5DUNGEON GRAPHIC DESIGNER
+@\6
+Kouichi Wakatsuki
+
+@s5DUNGEON GRAPHIC DESIGNERS
+@\6
+Satoshi Katsube
+@\6
+Yuko Kajihara
+@\6
+Sou Segoe
+@\6
+Masahiro Takahama
+
+
+@s5LEAD TOWN GRAPHIC DESIGNER
+@\6
+Shinya Hirota
+
+@s5TOWN GRAPHIC DESIGNERS
+@\6
+Tomohiro Hayashi
+@\6
+Natsuko Terasawa
+@\6
+Erina Shibata
+
+
+@s5LEAD EVENT GRAPHIC DESIGNER &
+@s5SKIT DIRECTOR
+@\6
+Kazuhiro Koizumi
+
+@s5EVENT GRAPHIC DESIGNERS
+@\6
+Chiharu Ishii
+@\6
+Yutaka Nihei
+
+
+@s5LEAD 3D CHARACTER 
+@s5GRAPHIC DESIGNER
+@\6
+Seika Arai
+
+@s5CHARACTER MODELER
+@\6
+Masahiko Musha
+
+@s5EVENT CHARACTER
+@s5DESIGNER/MODELER
+@\6
+Keiichi Asai
+
+@s53D CHARACTER
+@s5GRAPHIC DESIGNERS
+@\6
+Masaaki Kanbayashi
+@\6
+Takuya Kishimoto
+@\6
+Yoshinobu Maezawa
+
+
+@s5LEAD 
+@s5GRAPHIC/MONSTER DESIGNER
+@\6
+Satoshi Nakamura
+
+@s5MONSTER ANIMATORS
+@\6
+Takashi Shimano
+@\6
+Keisuke Nitta
+
+@s5MONSTER GRAPHIC DESIGNERS
+@\6
+Shinichi Yamaguchi
+@\6
+Yoshihito Kawanishi
+@\6
+Takayuki Tsumura
+
+
+@s5LEAD CHARACTER ANIMATOR &
+@s5EVENT DIRECTOR
+@\6
+Masashi Ito
+
+@s5EVENT ANIMATORS
+@\6
+Hisato Ito
+@\6
+Yuji Onishi
+@\6
+Keigo Nakamura
+
+@s5BATTLE ANIMATORS
+@\6
+Go Motoyama
+@\6
+Mayumi Negishi
+@\6
+Jinya Kitsui
+
+
+@s5BATTLE BACKGROUND DESIGNER
+@\6
+Akiyoshi Hoshi
+
+@s5FIELD GRAPHIC DESIGNER
+@\6
+Taku Matsuda
+
+@s5SYSTEM GRAPHIC DESIGNER
+@\6
+Nao Yanase
+
+@s5EFFECT GRAPHIC DESIGNER
+@\6
+Natsuko Taki
+
+
+@s5SCRIPT WRITER
+@\6
+Takumi Miyajima
+
+
+@s5PROCESS MANAGER
+@\6
+Yuzo Amano
+
+@s5PROCESS MANAGEMENT SUPPORT
+@\6
+Takeshi Yokoyama
+
+
+@s5SOUND PROGRAMMER
+@\6
+Shuji Ikegami
+
+@s5MUSIC COMPOSERS
+@\6
+Motoi Sakuraba
+@\6
+Shinji Tamura
+
+@s5SOUND EFFECTS
+@\6
+Atsushi Horiguchi
+@\6
+Hiroshi Tamura
+
+
+@s5SPECIAL THANKS
+@\6
+Yoshifumi Osaki
+@\6
+Junichi Uchida
+@\6
+Yuri Handa
+@\6
+Maki Kojima
+@\6
+Masahiro Abe
+@\6
+Norio Takahashi
+@\6
+Chiaki Sasakura
+@\6
+Isao Kadowaki
+@\6
+Keita Matsui
+@\6
+Kazushige Tomita
+@\6
+Hiroyuki Suzuki
+@\6
+Nobuyuki Sawada
+@\6
+Miho Terada
+@\6
+Asao Furukawa
+@\6
+Susumu Oomameuda
+@\6
+Masafumi Takagi
+@\6
+Shizuka Makino
+@\6
+Makiko Tono
+@\6
+Yuri Suzuki
+@\6
+Kaho Yamauchi
+@\6
+Ryuji Ooki
+@\6
+Ryuichiro Okamoto
+
+@s5DEBUG STAFF
+@\6
+DIGITAL Hearts Co., Ltd
+@\6
+Yoshinori Monma
+@\6
+Tatsuya Nakao
+
+
+
+
+
+
+
+
+@s5CREEK & RIVER Co., Ltd.
+
+@s5CG DIRECTOR
+@\6
+Yoshiyuki Aiuchi
+
+@s5CHIEF DESIGNER
+@\6
+Toshiyuki Hashimoto
+
+@s5CG DESIGNER
+@\6
+Yoshiyuki Aiuchi
+@\6
+Toshiyuki Hashimoto
+@\6
+Takashi Saito
+@\6
+Masahiro Hattori
+@\6
+Ai Yoshida
+@\6
+Mika Endo
+@\6
+Kaori Sakai
+
+
+
+
+
+
+
+
+@s5PROKION Inc.
+
+@s5INTERIOR MAP
+@s5GRAPHIC DESIGNERS
+@\6
+Chisako Kinumura
+@\6
+Yuko Kobayashi
+@\6
+Takahiro Fukuda
+@\6
+Hideyuki Minemori
+@\6
+Kazuhiro Miyawaki
+@\6
+Mayumi Yabe
+@\6
+Midori Yamanouchi
+
+@s5DUNGEON MAP
+@s5GRAPHIC DESIGNERS
+@\6
+Chisako Kinumura
+@\6
+Yuichiro Takao
+@\6
+Midori Yamanouchi
+
+
+
+
+
+
+
+
+@s5Crest works
+
+@s53D CHARACTER
+@s5GRAPHIC DESIGNERS
+@\6
+Kouhei Miyazaki
+@\6
+Yoshio Nozawa
+
+
+
+
+
+
+
+
+@s5MINE LOADER SOFTWARE CO., LTD.
+
+@s5PRODUCT MANAGER
+@\6
+@hXu zhen
+
+@s5ART DIRECTOR
+@\6
+@hGong lizhao
+
+@s5DESIGNERS
+@\6
+@hYan shuang
+@\3
+@hShi quangu
+@\3
+@hQiu peng
+@\3
+@hSong changhu
+@\3
+@hSun jian
+
+@s5SPECIAL THANKS
+@\6
+@hSu Fang 
+@\3
+@hTang yudong
+@\3
+@hHonjoh haori
+@\3
+@hHuang yanzhong
+
+@\3
+@h@s4MINE LOADER SOFTWARE CO., LTD.
+
+
+
+
+
+
+
+
+@s53D CG MOVIES
+
+@s5Digital Zero., Inc.
+
+@s5DIRECTORS
+@\6
+Hirotaka Koizumi
+@\6
+Yasutaka Kaneshige
+@\6
+Yuji Takada
+
+@s5DESIGNERS
+@\6
+Hiroki Maekawa
+@\6
+Sadanobu Inada
+@\6
+Koji Saito
+@\6
+Kenichi Orito
+@\6
+Toshiya Arai
+@\6
+Shinsuke Nakagawa
+@\6
+Yuji Sato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5SOUND
+
+
+@s5SOUND PRODUCTION
+
+
+
+
+@p1
+
+
+
+
+
+@s5SOUND DIRECTOR
+@\6
+Motoi Izawa
+
+@s5SOUND PRODUCTION
+@\6
+Tomoko Nakamura
+
+@s5RECORDING STUDIO
+
+
+
+
+@p2
+
+
+
+
+
+@s5MIXER
+@\6
+Hiroaki Uchiyama
+
+@s5ASSISTANT MIXER
+@\6
+Hisashi Yamamoto
+
+@s5ANIMATION SOUND EFFECTS
+@\6
+Masami Kitakata
+@s5(FIZZ SOUND CREATION co.,ltd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5ANIMATED MOVIES
+
+
+@s5PRODUCER
+@\6
+Hidekazu Terakawa
+
+@s5DIRECTOR/STORYBOARD
+@\6
+Kazuhiro Furuhashi
+
+@s5ANIMATION CHARACTER
+DESIGNER
+@\3
+CHARACTER STATUS
+ILLUSTRATION
+@\3
+FACE CHAT KEY ANIMATION
+SUPERVISOR
+@\6
+Tokuyuki Matsutake
+
+
+@s5KEY ANIMATION SUPERVISOR
+@\6
+Tokuyuki Matsutake
+@\6
+Kanta Kamei
+
+@s5KEY ANIMATORS
+@\6
+@s5OPENING
+@\6
+Atsushi Takeuchi
+@\6
+Syoko Nakamura
+@\6
+Kazutika Kise
+@\6
+Atsushi Nishigori
+@\6
+Hidenori Matsubara
+@\6
+Takashi Hashimoto
+@\6
+Kiyoshi Tateishi
+@\6
+Haruo Sotozaki
+@\6
+Yasunori Miyazawa
+@\6
+Koichi Hashimoto
+@\6
+Kazuhiro Furuhashi
+@\6
+Atsuko Nakajima
+@\6
+Toshihiro Kawamoto
+@\6
+Norio Matsumoto
+
+@s5EVENTS
+@\6
+Kanta Kamei
+@\6
+Syoko Nakamura
+@\6
+Yasunori Miyazawa
+@\6
+Atsuko Inoue
+@\6
+Shinya Ohira
+@\6
+Hideki Takahashi
+@\6
+Ryota Niino
+@\6
+Fumi Morita
+@\6
+Makoto Yamada
+@\6
+Shoichi Masuo
+@\6
+Toshiyuki Yahagi
+@\6
+Kazunori Akiyama
+
+@s5EPILOGUE
+@\6
+Takayuki Goto
+@\6
+Mitsunobu Nakamura
+@\6
+Keita Matsumoto
+
+@s5FACE CHAT
+@\6
+Syoko Nakamura
+
+
+@s5ENDING CREDIT ILLUSTRATION
+@\6
+Kazuyoshi Yaginuma
+
+
+@s5ART/BACKGROUNDS
+@\6
+@s5OPENING
+@\6
+@s5Bamboo
+@\6
+Yusuke Takeda
+@\6
+Tomonori Kato
+@\6
+Michiko Shinohara
+@\6
+Kayo Kozio
+@\6
+Naoko Yamada
+
+@s5EVENTS
+@\6
+@s5Studio Bihou
+@\6
+Masaru Sato
+@\6
+Tatsuya Kushida
+@\6
+Takamasa Masuki
+@\6
+Shuichi Tsuji
+@\6
+Michie Suzuki
+@\6
+Atsushi Satomi
+@\6
+Yoshiou Tanioka
+@\6
+Megumi Kato
+@\6
+Chong Surok
+@\6
+Michiko Shinohara
+@\6
+Ryusei Nishino
+
+@s5EPILOGUE
+@\6
+Hajime Matsuoka
+
+
+@s5INBETWEEN CHECKER
+@\6
+Maiko Nogami
+
+@s5INBETWEENS
+@\6
+@h@s5Production I.G
+@\6
+Yukiko Mita
+@\6
+Tomoko Sugeta
+@\6
+Kazuyo Hasegawa
+@\6
+Kotoe Saito
+@\6
+Mika Kinoshita
+@\6
+Yuki Masuda
+@\6
+Shintaro Douge
+@\6
+Masahiro Matsushita
+@\6
+Mariko Ishikawa
+@\6
+Kim Yoonji
+@\6
+Yuki Sato
+@\6
+Tomohiro Shinoda
+@\6
+Lee Juyoung
+@\6
+Ikuyo Kondo
+@\6
+Miyuki Nakayama
+@\6
+Aki Minamii
+@\6
+Taiki Kondo
+@\6
+Haruyo Nebu
+@\6
+Hisako Shimotsuma
+@\6
+Rie Mizorogi
+@\6
+Hong Chang Hee
+@\6
+Kei Tsushima
+@\6
+Hiroki Nishikawa
+@\6
+Hiromi Maeno
+@\6
+Ayako Onuma
+@\6
+Yukari Hirano
+@\6
+Yoshiaki Kyogoku
+@\6
+Takashi Mamezuka
+@\6
+Yuko Tateiwa
+@\6
+Tomoaki Mimiura
+@\6
+Naoko Kouda
+
+Eriko Sakai
+@\6
+Chieko Ichimanda
+@\6
+Midori Yamamoto
+@\6
+Masatsugu Nishida
+@\6
+Kanako Oikawa
+@\6
+Eriko Shibata
+
+@s5Studio MAT
+@\6
+Nobu Okuda
+@\6
+Haruka Kuchii
+@\6
+Shie Morita
+
+@s5P.A.WORKS
+@\6
+Takeshi Honda
+@\6
+Mayumi Miyaoka
+@\6
+Rika Sato
+@\6
+Kenichi Okuno
+@\6
+Hiromi Makino
+@\6
+Yuka Fujisawa
+@\6
+Asuka Kojima
+@\6
+Aiko Natsuzumi
+@\6
+Aya Takata
+@\6
+Misaki Suzuki
+
+@s5Anime Torotoro
+@\6
+Kumiko Tanihira
+
+@s5Studio Wombat
+@\6
+@s5BeeTrain
+@\6
+@s5FlontLine
+@\6
+@s5Dogakobo
+@\6
+@s5A.P.P.P
+@h@\6
+@s5ufotable
+@\6
+@s5Imove
+@\6
+@s5Sakura Create
+@\6
+@s5Studio Gimlet
+
+
+@s5COLOR COORDINATOR
+@\6
+Kazue Inoue
+
+@s5DIGITAL PAINTERS
+@\6
+@h@s5Production I.G
+@\6
+Mariko Shimokawa
+@\6
+Rie Asano
+@\6
+Kazu Doi
+@\6
+Emiko Ueno
+@\6
+Yuri Okada
+@\6
+Kumiko Sato
+@\6
+Yuka Takeda
+@\6
+Sachiyo Muto
+@\6
+Sayoko Noda
+
+@s5DIRECTOR OF PHOTOGRAPHY
+@\6
+Makoto Kogawa
+
+@s5FILMING
+@\6
+Eiji Arai
+@\6
+Jun Yanai
+
+@s53DCGI PRODUCER
+@\6
+Eiji Mizutani
+
+@s53DCGI
+@\6
+Atsushi Tamori
+@\6
+Daiji Yamaguchi
+@\6
+Daiki Ono
+
+@s5DIGITAL REVISER
+@\6
+Akiko Nakayama
+@\6
+Chieko Ono
+
+@s5SPECIAL EFFECTS
+@\6
+Masahiro Murakami
+@\6
+Sumie Murakami
+
+@s5VISUAL EFFECTS
+@\6
+Kanta Kamei
+@\6
+Masaya Suzuki
+
+@s5EDITING
+@\6
+Taeko Hamauzu
+
+@s5SYSTEM MAINTENANCE
+@\6
+Junichiro Aki
+@\6
+Kazuhiro Yamaguchi
+@\6
+Hidetoshi Okuno
+@\6
+Katsushi Eda
+
+@s53DCGI DESK
+@\6
+Utako Tsukiashi
+
+@s5DIGITAL PAINTERS DESK
+@\6
+Eiji Umehara
+
+
+@s5ASSISTANT PRODUCER
+@\6
+Noriyasu Furuyama
+
+
+
+@s5ANIMATION PRODUCTION
+
+
+@p0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5NAMCO BANDAI GAMES INC.
+
+
+@s5DIRECTORS
+@\6
+Naomiki Yanagisawa
+@\6
+Masashi Shibano
+
+@s5ART DIRECTOR
+@s5LEAD DESIGNER
+@\6
+Daigo Okumura
+
+
+@s5PROGRAMMING SUPPORT
+@\6
+Takahiro Yamase
+
+@s5DIRECTION SUPPORT
+@\6
+Tomomi Masubuchi
+
+@s5MOTION DESIGN
+@\6
+Kumi Sasaki
+@\6
+Eriko Yamada
+
+@s5CG MOVIE DIRECTION
+@\6
+Yasushi Shibue
+
+@s5MECHANICS DESIGN
+@\6
+Yuushou Okada
+
+@s5PRODUCT SUPERVISOR
+@\6
+Shinichiro Okamoto
+
+
+@s5LOCALIZATION
+
+@s5LOCALIZATION PRODUCER
+@\6
+Shuichiro Miyoshi
+
+@s5LOCALIZATION SPECIALISTS
+@\6
+Ko Kimura
+@\6
+Jeremy Clark
+
+@s5LOCALIZATION SUPPORT
+@\6
+Naoki Shimokawa
+
+@s5INT'L MARKETING STRATEGY TEAM 
+@\6
+Rachel Lee
+
+@s5SPECIAL THANKS
+@\6
+Yasuhiro Fukaya
+@\6
+Andy Tsai
+@\6
+Shinsuke Mori
+@\6
+@s5TEKKEN PROJECT
+@\6
+@s5XENOSAGA PROJECT
+@\6
+@s5KATAMARI PROJECT
+@\6
+@s5ALL TEST PLAYERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@o1
+
+@s5NAMCO BANDAI GAMES AMERICA INC.   
+
+
+
+
+@s5PRODUCT GROUP DIRECTOR
+@\6
+Yoshi Niki
+
+@s5LOCALIZATION MANAGER
+@\6
+Hiroshi Tanaka
+
+@s5LOCALIZATION PRODUCER
+@\6
+Peter Garza
+
+@s5LOCALIZATION SUPPORT
+@\6
+Junko Nakamura
+
+@s5MARKETING DIRECTOR
+@\6
+Yoko Nakao
+
+@s5PRODUCT MARKETING MANAGER
+@\6
+Tara Samuels
+
+@s5MARKETING COORDINATOR
+@\6
+Kristeen Kennedy
+
+@s5PR MANAGER
+@\6
+Melody Pfeiffer
+
+@s5PUBLISHING SUPPORT DIRECTOR
+@\6
+Glen A. Cureton
+
+@s5QA MANAGER
+@\6
+Chuck McFadden
+
+@s5QA SUPERVISOR
+@\6
+Daryle Tumacder
+
+@s5QA LEAD
+@\6
+Jesse Mejia
+
+@s5NATIONAL SALES MANAGER
+@\6
+Brian Schorr
+
+
+@s5ENGLISH VOICE OVER PRODUCTION
+
+@s5RECORDING STUDIO
+@\6
+Cup of Tea Productions, Inc.
+
+@s5ENGINEER
+@\6
+Steve Cunningham
+
+@s5RECORDING ASSISTANT
+@\6
+Julie Smith
+
+@s5PROJECT MANAGERS
+@\6
+Danielle Hunt/Lainie Bushey
+
+@s5CASTING
+@\6
+Cup of Tea Productions, Inc.
+
+@s5DIRECTOR
+@\6
+Wendee Lee
+
+
+@s5ENGLISH TRANSLATION SUPPORT
+
+@s5GAME TEXT TRANSLATION
+    8-4, Inc.
+
+
+
+
+
+@s5SPECIAL THANKS
+@\6
+Genichi Ito
+@\6
+Nobuhiro Kasahara
+@\6
+Garry Cole
+@\6
+Makoto Iwai
+@\6
+Jennifer Tersigni
+@\6
+Lee Hsiao
+     
+NBGA IS Department
+
+ALL TEST PLAYERS
+
+@s5ALL THE FANS ON THE TALES FORUMS  
+http://tales.namco.com/forums/
+
+
+@s5Fonts used in-game are provided by 
+@s5Bitstream Inc. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5CHIEF DIRECTOR
+@\6
+Yoshito Higuchi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5PRODUCER
+@\6
+Makoto Yoshidumi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5EXECUTIVE PRODUCERS
+@\6
+Shin Unozawa
+@\6
+Shukuo Ishikawa
+@\6
+Masaya Nakamura
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5PRODUCED BY
+NAMCO BANDAI GAMES INC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

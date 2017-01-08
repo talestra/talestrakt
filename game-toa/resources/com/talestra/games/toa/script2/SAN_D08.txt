@@ -1,0 +1,465 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¡Tenemos problemas! \nLas ruinas Zao están...
+¡¿Qué?!... Entendido.\nSellaremos la salida.
+Ya no podemos pasar por aquí...\nVayamos a ver a Astor.
+Sí.
+¡No podemos dejaros salir, \nno importa quiénes seáis!
+<SPEECH*>¡Luke! \n¡Princesa Natalia!
+<SPEECH*>Había rumores, todo tipo de rumores,\nde que ambos habíais muerto.
+<SPEECH*>Me alegro tanto de volver a veros. \nJi ji ji ji.
+<SPEECH*>Tenemos que pedirte un favor.
+<SPEECH*>Tranquilo. El maestro fónico\nIon ya ha pedido que aceptemos\na la gente de Engeve.
+<SPEECH*>Oh, bien...
+<SPEECH*>Estamos en deuda contigo.\nGracias.
+<SPEECH*>No es nada. \nJi ji ji.
+<SPEECH*>Por cierto, ¿ha pasado algo\nen el Desierto de Zao?
+<SPEECH*>Sí que viajan rápido las noticias. \nTenemos algunos problemas.
+<SPEECH*>Los terremotos han dividido el\nDesierto de Zao y la península ispaniense,\ny esta zona ha empezado a hundirse.
+<SPEECH*>¡Parece que...!
+<SPEECH*>¡Chesedonia está cayendo!
+<SPEECH*>¡Noticias, señor! \n¡El ejército de Kimlasca llegó\na Engeve a las 11:32!
+<SPEECH*>*Suspiro* \nAsí que la gente de Engeve estaba destinada\na estar en peligro pasara lo que pasara...
+<SPEECH*>¿Y eso es lo que hay?
+<SPEECH*>Me pregunto si Noelle lo\nconsiguió a tiempo.
+<SPEECH*>Gracias. \nSigue vigilando la situación.
+<SPEECH*>¿Me pareció oíros decir\nque Chesedonia va a caer?
+<SPEECH*>¡Lo mismo que pasó en Akzeriuth \ny San Binah está ocurriendo aquí!
+<SPEECH*>Aquí viven ciudadanos de ambas\nnaciones. No tienen sitio a donde\nhuir en medio de esta guerra.
+<SPEECH*>¿Significa que hay un anillo\nde tránsito en esta área\nque Van ha cerrado?
+<SPEECH*>Eso sería en las ruinas Zao, \ndonde se llevaron a Ion...
+<SPEECH*>Maldita sea, ¿y ahora qué hacemos?\nTal vez si revivimos el árbol de\nsephiroth ahora mismo...
+<SPEECH*>No, Teodoro dijo que era imposible.\nNo obstante...
+<SPEECH*>¡Coronel! \n¡¿Tiene una idea?!
+<SPEECH*>Bueno, incluso si no podemos\nrevivir el árbol, el flujo del\nsephiroth aún debería ascender.
+<SPEECH*>Si usamos ese poder, me pregunto si\npodríamos hacer descender la tierra\nlentamente, como un ascensor.
+<SPEECH*>¿Podemos hacer que el anillo de\ntránsito haga eso?
+<SPEECH*>Eso no lo sé.
+<SPEECH*>Echemos un vistazo. ¡Mientras\nhablamos, no hacemos más que\nesperar a que esto caiga!
+<SPEECH*>Me temo que no te sigo del todo...
+<SPEECH*>Tal vez haya una forma de evitar\nla destrucción de Chesedonia.
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Bueno...
+<SPEECH*>El Qliphoth...\nEs una historia difícil de creer.
+<SPEECH*>Pero, a estas alturas, no queda más\nremedio que confiar en vosotros.
+<SPEECH*>Permitid que me encargue de\ninformar a los residentes. Por\nfavor, salvad Chesedonia.
+<SPEECH*>¡Vale, vamos a las ruinas Zao!
+<SPEECH*>Natalia...
+<SPEECH*>¿Qué? O-Oh, vale.\n¿Ya nos vamos?
+<SPEECH*>Hey... anímate, ¿vale? \nNi siquiera sabemos aún si\nlo que dijo Mohs es verdad.
+<SPEECH*>Cierto... Lo sé.\nEstoy bien...
+<SPEECH*>Astor nos ha informado de la\nsituación. Por favor, tened cuidado.
+<SPEECH*>¡Hey, réplica!... ¿Puedes oírme?
+<SPEECH*>¡Auu!...
+<SPEECH*>Ven al oasis del desierto.\nTenemos que hablar.
+<SPEECH*>¿El... oasis?
+<SPEECH*>¡Sí!\n¡Date prisa!
+<SPEECH*>¿Es otro de esos dolores de cabeza? \nPuedes oír la voz de Asch, ¿verdad?
+<SPEECH*>Sí...\nSoy su réplica.
+<SPEECH*>¡Asch!\n¿Qué ha dicho?
+<SPEECH*>¿Qué? Um... Dijo de ir\nal oasis, y que tenía algo\nde lo que hablar.
+<SPEECH*>Me pregunto si Van está detrás\nde esto.
+<SPEECH*>No lo creo. Es improbable que, a estas\nalturas, esté del lado de Van.
+<SPEECH*>Vamos al oasis. Deberíamos de seguir\nteniendo tiempo para operar el sephiroth\nincluso después de escuchar a Asch.
+<SPEECH*>Ya era hora de que llegaras.
+<SPEECH*>¿Qué quieres?
+<SPEECH*>¿Ha ocurrido algo raro? \n¿Como que tu mente se\nmezclara con la de otro?
+<SPEECH*>¿Eh?\n¿De qué estás hablando?
+<SPEECH*>No ocurre nada raro aparte\nde cuando te conectas conmigo.
+<SPEECH*>Ya veo...
+<SPEECH*>Asch, ¿ha pasado algo?\n¿Estás enfermo?
+<SPEECH*>No...
+<SPEECH*>¿Eso era todo lo\nque tenías que decir?
+<SPEECH*>Engeve ha empezado a caer...\nEl campo de batalla probablemente\ncaerá poco después.
+<SPEECH*>¡No!
+<SPEECH*>¡A este ritmo, todos los que estén\nen el campo de batalla morirán!
+<SPEECH*>¡Maldita sea! ¡Vosotros también,\nsi os quedáis aquí, idiota!
+<SPEECH*>Lo sé muy bien.
+<SPEECH*>Pero intentamos usar el flujo\ndel sephiroth para descender\nChesedonia de forma segura.
+<SPEECH*>¿Podéis hacer eso?
+<SPEECH*>¿Quién sabe?
+<SPEECH*>Nunca sé qué es lo que \npasa por esa cabeza tuya...
+<SPEECH*>Si lo que ha dicho Natalia es cierto,\n¿no podemos hacer descender también el\ncampo de batalla?
+<SPEECH*>Puede que no lleguemos a la\ncolina de Shurrey a tiempo...
+<SPEECH*>Llegaréis. Los sephiroth están\nconectados dentro del planeta.
+<SPEECH*>Naturalmente, los anillos de tránsito\ntambién están conectados.
+<SPEECH*>Cuando los anillos están activados,\npodéis controlar remotamente un anillo\ndesde otro.
+<SPEECH*>Así que si activamos el de las\nruinas Zao, ¿también podremos controlar\nel de la colina de Shurrey?
+<SPEECH*>Eso es lo que dijo Van...
+<SPEECH*>¡Asch! \n¿A dónde vas?
+<SPEECH*>A averiguar qué es lo que trama Van.\nTenemos que saber cuál será la\nsiguiente área que hará caer.
+<SPEECH*>Bueno, si falláis,\nmoriré aquí junto con\ntodos los demás...
+<SPEECH*>¡Prometo que la haremos descender\nde forma segura! ¡Lo juro!
+<SPEECH*>No me vengas con juramentos de críos.\nNo seas absurda.
+<SPEECH*>¡Asch!...
+<SPEECH*>No hay garantías en este mundo.\nPor eso, antes, yo...
+<SPEECH*>Me voy... Vosotros también\ndeberíais marcharos.
+<SPEECH*>¡¿Q-Qué demonios...?! \n¡¿Un terremoto?!
+<SPEECH*>No. Esto es...
+<SPEECH*>¡Cuidado!
+<SPEECH*>¡Aquí viene!
+<SPEECH*>¿Qué demonios es esta cosa?
+<SPEECH*>Tal vez sea un monstruo de la Era del\nAmanecer. Lo he visto anteriormente,\nen un libro de Ciudad de Yulia.
+<SPEECH*>Pero no pensé que fueran\ntan agresivos...
+<SPEECH*>Los Generales de Élite del Oráculo estuvieron\naquí antes. Tal vez lo enfurecieron.
+<SPEECH*>Quizá estaba vigilando\nlas ruinas.
+<SPEECH*>¿Y qué más da? Recemos\npara que no nos topemos con\notro bicho como éste.
+<SPEECH*>Estoy totalmente de\nacuerdo. Bueno, ¿seguimos?
+<SPEECH*>Oh, bien, éste también\nme ha respondido...
+<SPEECH*>¿El Comandante también ha sellado éste?
+<SPEECH*>Eso parece. Pero...\n¿Los sephiroth están fuera de control?
+<SPEECH*>Tengo que deshacerme de la parte roja, ¿verdad?
+<SPEECH*>¿Y ahora qué?
+<SPEECH*>Oh, vale. Inscribe inmediatamente una flecha\nmirando hacia arriba justo encima de la luz.
+<SPEECH*>¿Os sustituyo?
+<SPEECH*>No, estamos borrando el código mediante\nfuerza bruta, así que no podemos escribir\nusando los controles normales.
+<SPEECH*>Tenemos que inscribirlo por la fuerza\ncon la hiperresonancia de Luke...
+<SPEECH*>Ahora, introduciremos los comandos,\npero... tú no sabes ispaniense\nantiguo, ¿verdad?
+<SPEECH*>¡Claro que no!
+<SPEECH*>Muy bien. Hazlo utilizando el \nlenguaje fónico que usamos ahora.
+<SPEECH*>La gramática es casi igual.\nDebería funcionar.
+<SPEECH*>¿Qué escribo?
+<SPEECH*>Árbol ascender. Velocidad triple. Aguantar.
+<SPEECH*>Entendido.
+<SPEECH*>Parece que funcionó.
+<SPEECH*>Pero aún queda Engeve...
+<SPEECH*>Ahora, dibuja una línea del \ncuarto sephiroth al tercero.
+<SPEECH*>Y escribe las mismas órdenes \nen el tercer sephiroth.
+<SPEECH*>El tercer sephiroth es la colina de\nShurrey, ¿no? Lo intentaré.
+<SPEECH*>Parece que ha empezado a descender...
+<SPEECH*>Por si acaso, vamos a esperar al lado\ndel anillo de tránsito hasta que termine
+<SPEECH*>Ha terminado el descenso y el \nanillo de tránsito parece normal.
+<SPEECH*>Fiuu. Je, ha sido casi aburrido \nque todo fuera tan bien.
+<SPEECH*>Yo no chulearía tanto,\nsi fuera tú.
+<SPEECH*>Sí, seguramente tienes razón...
+<SPEECH*>Guau, ni siquiera te has hecho el ofendido.
+<SPEECH*>Tengo miedo de confiarme demasiado \ny dejar que pase algo que luego \nno pueda deshacer...
+<SPEECH*>Tear, no me mires de esa manera.\nYa no voy a tener más arrebatos.
+<SPEECH*>No, no es eso...
+<SPEECH*>Seguramente sólo esté cansada.\nHemos estado más de un día con esto.
+<SPEECH*>¡Guau, hey! \n¡¿Estás bien?!
+<SPEECH*>Lo siento. Estoy bien.
+<SPEECH*>No puedo ni cuidar de mi propia salud.\nMenuda soldado más lamentable.
+<SPEECH*>Preocúpate más por ti misma que\npor tu reputación como soldado. \n¿Estás segura de que estás bien?
+<SPEECH*>G-gracias.\nEstoy bien.
+<SPEECH*>Entonces vamos fuera. Deberíamos \ncomprobar a ver si hemos llegado  \nal Qliphoth.
+<SPEECH*>Cuando crees que estás viendo un\nproblema, lo mejor es buscar la causa.
+<SPEECH*>¿Qué? Oh... Claro.
+<SPEECH*>Estamos sin duda en el Qliphoth.
+<SPEECH*>Pero, ¿cómo volvemos \na las Tierras Exteriores?
+<SPEECH*>Es verdad. \nEl Albiore no ha vuelto todavía.
+<SPEECH*>Nuestro punto de encuentro es Chesedonia. \nCreo que Noelle es lo bastante buena como\npara aterrizar con la tierra descendiendo.
+<SPEECH*>Dirijámonos a Chesedonia.
+<SPEECH*>¡Estáis todos bien!
+<SPEECH*>¡Qué bien que estés a salvo, también!\n¿Cuándo llegaste a Chesedonia?
+<SPEECH*>Justo antes de que esta área empezara a descender.
+<SPEECH*>¿Y qué pasa con la gente de Engeve?
+<SPEECH*>Ya los he traído a todos aquí.
+<SPEECH*>¡Gracias a Dios! \nBuen trabajo, Noelle. @
+<SPEECH*>Siento pedirte esto justo cuando acabas\nde llegar, ¿pero puedes llevarnos arriba?
+<SPEECH*>Claro. Os esperaré en\nel Albiore. Subid a bordo\ncuando estéis listos.
+<SPEECH*>¿Vamos a volver a las Tierras Exteriores?
+<SPEECH*>Algo me preocupa. Me\ngustaría volar un poco\nsobre el Qliphoth.
+<SPEECH*>¿Qué pasa?
+<SPEECH*>No diré nada hasta que no esté seguro.
+<SPEECH*>Cuando dices cosas\nasí, siempre pasa\nalgo malo...
+<SPEECH*>Vale.\nVamos a volar.
+<SPEECH*>Guau, ¿qué pasa con ese\nárbol de sephiroth?
+<SPEECH*>Brilla un momento y se apaga\nluego. Parece una linterna de\nfonones a punto de fundirse.
+<SPEECH*>Así que los sephiroth están fuera\nde control... Tal y como decía la\nadvertencia del anillo de tránsito.
+<SPEECH*>¿Fuera de control?...
+<SPEECH*>Sí. Seguramente algo hizo que los \nsephiroth se descontrolaran y que los \nárboles dejaran de funcionar correctamente.
+<SPEECH*>Estos últimos terremotos tan frecuentes\nno eran sólo porque la tierra se caía.
+<SPEECH*>¡Espera! Si los árboles dejan\nde funcionar, eso significa que\nlas Tierras Exteriores...
+<SPEECH*>La advertencia decía que los anillos de\ntránsito estaban al máximo de tolerancia,\nseguramente por el descontrol de los sephiroth.
+<SPEECH*>No queda mucho tiempo hasta que los anillos\nse rompan, los árboles desaparezcan\ny las Tierras Exteriores caigan.
+<SPEECH*>¡¿Lo dices en serio?! ¿Lo saben\nlos de Ciudad de Yulia?
+<SPEECH*>El Abuelo dijo que no caerían más\npartes de las Tierras Exteriores... \nÉl no lo sabe.
+<SPEECH*>Hey, el sephiroth es lo que mantiene\na Chesedonia flotando en la\nsuperficie licuada, ¿no?
+<SPEECH*>Si los anillos de tránsito se rompen...
+<SPEECH*>El mar de lodo se la tragará. A no ser\nque la superficie licuada se solidificase.
+<SPEECH*>El motivo por el que hicieron las\nTierras Exteriores fue para escapar\ndel miasma y la licuación, ¿verdad?
+<SPEECH*>Ni ellos pudieron\nsolucionar lo de la\nsuperficie licuada...
+<SPEECH*>¿La Partitura de Yulia dice\nalgo de que los sephiroth\nse descontrolen?
+<SPEECH*>Debe de haber una razón. ¿La Partitura\nno dice nada sobre cómo solucionarlo?
+<SPEECH*>Aunque lo diga, quizá sea\ninformación privilegiada que ni\nsiquiera el Abuelo puede ver...
+<SPEECH*>Pero Ion podría...
+<SPEECH*>Creo que Ion puede acceder\na los secretos de más alto\nnivel de Ciudad de Yulia.
+<SPEECH*>¡¿De verdad?!
+<SPEECH*>Sí. Quiero decir, él\nes el Maestro Fónico...
+<SPEECH*>¡Pues vayamos a Daath!\n¡Quizá haya alguna manera de arreglar las cosas!
+<SPEECH*>¿Y lo de ir a Baticul\na detener la guerra?
+<SPEECH*>El campo de batalla ha caído al Qliphoth.\nDudo que sigan pensando en la guerra.
+<SPEECH*>Sí, espero que tengas razón...
+Vayamos al oasis y veamos\nqué tiene que decir Asch.
+Quizá esté planeando algo, pero\nvayamos al oasis a escuchar lo que\nAsch tiene que decir.
+Vayamos al oasis y veamos\nqué tiene que decir Asch.
+Me interesa lo que Asch\ntiene que decir.\nVayamos al oasis.
+No es que quiera, pero tenemos\nque ir al oasis y oír lo que\nAsch tiene que decirnos.
+Vayamos primero al oasis.\nAsch nos está esperando.
+Vayamos a ver a Astor y\npidámosle que nos deje\nsalir por el lado de Kimlasca.
+Sin el permiso de Astor,\nno podemos salir por el\nlado de Kimlasca.
+Vayamos a ver a Astor. Sin\nsu permiso para salir, no\npodemos ir a Baticul.
+Vamos a ver a Astor. Si le explicamos\nla situación, debería darnos permiso\npara salir por el lado de Kimlasca.
+Vamos a pedirle permiso a Astor para que nos\ndeje salir del pueblo por el lado de Kimlasca.
+Para llegar a Baticul,\ntenemos que ver a Astor\ny obtener permiso para salir.
+Antes de ir a las ruinas Zao,\nvayamos al oasis a ver a Asch.
+Antes de ir a las ruinas Zao, vayamos\nal oasis a reunirnos con Asch.
+Antes de ir a las ruinas Zao,\ntenemos que ir al oasis\ny ver a Asch.
+Antes de ir a las ruinas Zao...<PAGE>\npasémonos por el oasis y oigamos\nlo que tiene que decir Asch.
+Antes de ir a las ruinas Zao,\nse supone que tenemos que ver\na Asch en el oasis.
+Antes de ir a las ruinas Zao,\nvamos a ver a Asch. Nos está\nesperando en el oasis.
+Démonos prisa en ir a las ruinas Zao.
+Deberíamos darnos prisa en ir a las ruinas Zao.
+Démonos prisa en ir a las ruinas Zao.
+Vayamos a las ruinas Zao.
+¡Vayamos a las ruinas Zao!
+Vayamos a las ruinas Zao. \nNo podemos dejar que más personas\nacaben siendo víctimas.

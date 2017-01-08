@@ -1,0 +1,502 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Estoy dirigiendo el barco\ncon los pies. A que mola.
+¡Estamos siendo atacados en la cubierta!
+¡Alguien nos ataca!<PAGE>\nHe de quedarme aquí. ¡Por favor,\nve a mirar en la cubierta!
+<SPEECH*>(¡Otra vez no!...)
+<SPEECH*>Despierta... \nDeprisa... \nAtiende mi voz...
+<SPEECH*>¡Ouu!
+<SPEECH*>Señorito Luke, el general dórico \nGrants quiere verle.<PAGE>\n<SPEECH*>Le pide que le espere en la cubierta.
+<SPEECH*>¿El maestro Van? \nVale.
+<SPEECH*>¿Te acuerdas de la primera vez \nque nos encontramos, Luke?
+<SPEECH*>Ya te lo he dicho, no me acuerdo de nada de eso.\nOcurrió antes de que me secuestraran.
+<SPEECH*>Sí... Tienes razón.\nQuiero decir, eres completamente diferente.
+<SPEECH*>¿Eh?
+<SPEECH*>Ah, me alegra que tú seas tú.
+<SPEECH*>No hay oficiales mujeres en este\nbarco. No sé si debería estar \naliviado o triste...
+<SPEECH*>¿Te puedo hacer una pregunta rara?
+<SPEECH*>¿Qué?
+<SPEECH*>¿Qué piensas de Tear?
+Es una pesada\nDiría que es mi tipo
+<SPEECH*>Es una pesada.
+<SPEECH*>Eso no es muy bonito. Pero me imagino que\nquiere decir que aún tengo una oportunidad, \nasí que me alegra... @ Je je.<PAGE>\n<SPEECH*>¡Te quiero, Luke!... @
+<SPEECH*>Diría que es mi tipo.
+<SPEECH*>Ohh... Ya veo.\nEspero que se me pongan como las de Tear...<PAGE>\n<SPEECH*>Entonces quizá sea lo bastante \nbuena para ti...<PAGE>\n<SPEECH*>De momento, sólo soy una niña, pero...\n¡Te quiero, Luke! @
+<SPEECH*>¡Aaah!\n¡No digas cosas raras!
+<SPEECH*>¡Eres tan mono, Luke! @
+<SPEECH*>Arietta la Salvaje está retenida\naquí por cargos de traición\ncontra el Maestro Fónico.<PAGE>\n<SPEECH*>Evite cualquier\ncontacto innecesario.
+<SPEECH*>¿Qué harías si tú no \nfueras verdaderamente tú?
+<SPEECH*>¿Eh?\n¿De qué estás hablando?
+<SPEECH*>No importa...\nEra una pregunta estúpida.\nOlvida lo que he dicho.
+<SPEECH*>Algún día, quizá me odies lo\nsuficiente como para querer matarme.<PAGE>\n<SPEECH*>O puede que ya me odies...
+<SPEECH*>Espero que lo que ha pasado no provoque\nla desaprobación del rey Ingobert y\nhaga que las negociaciones fracasen.
+<SPEECH*>No te preocupes.\nSe lo explicaré todo a mi tío.\nTambién pediré ayuda a Padre y Madre.
+<SPEECH*>Es cierto, tu madre es la\nhermana pequeña de Su Majestad.
+<SPEECH*>Sí. Así que tranquilo.
+<SPEECH*>Me sabe mal lo que\nle hicimos a Arietta.
+<SPEECH*>Así que, al final, no eras\nun séptimo fonista.
+<SPEECH*>Recuerdo haberte escuchado hablar de\nlos "séptimos fonistas" alguna vez.\n¿Qué quiere decir?
+<SPEECH*>¿Nadie te enseñó estas cosas?
+<SPEECH*>¿Cómo voy a saberlo?\n¡No lo recuerdo!
+<SPEECH*>Pero perdiste la memoria\nhace siete años, ¿no?\n¿No has estudiado nada desde entonces?
+<SPEECH*>Había otras muchas cosas que debía aprender.\nComo la cara de mis padres...
+<SPEECH*>Toda la materia contiene fonones...\nlas partículas básicas del sonido.\nLos fonones se dividen en seis elementos.
+<SPEECH*>¿Al final me lo vas a explicar?
+<SPEECH*>Al combinar los fonones con las partículas\nde memoria provenientes del núcleo\ndel planeta, se obtienen cantidades\ningentes de energía.<PAGE>\n<SPEECH*>Se construyó un dispositivo para\nproporcionar energía al mundo haciendo\npasar esas partículas a través del\ncinturón fónico.<PAGE>\n<SPEECH*>Es lo que se conoce como la Tormenta Planetaria.
+<SPEECH*>Suena complicado.\n¿Y...?
+<SPEECH*>La Tormenta Planetaria provocó una\nmutación en los seis elementos fónicos\ny en las partículas de memoria.<PAGE>\n<SPEECH*>Y así nació el séptimo fonón.<PAGE>\n<SPEECH*>Aquéllos que lo emplean para\nefectuar artes fónicas se llaman\nséptimos fonistas.
+<SPEECH*>No sé qué conclusión sacar de esto.\nYo no soy ningún fonista.
+<SPEECH*>Pero causaste una hiperresonancia conmigo.<PAGE>\n<SPEECH*>Eres capaz de usar el séptimo fonón.\nEs algo con lo que se nace.
+<SPEECH*>Ahora que lo dices, Jade no\npuede usar ese séptimo fonón.
+<SPEECH*>Cierto.\nHay muy pocos séptimos fonistas.<PAGE>\n<SPEECH*>Los intérpretes (aquéllos que leen\nla Partitura) y los sanadores, son\nséptimos fonistas.
+<SPEECH*>Así que básicamente son fonistas \nespeciales que usan un fonón especial.
+<SPEECH*>Lo siento....
+<SPEECH*>¿Eh?\n¿Y a qué viene eso?
+<SPEECH*>Creo que no me había tomado muy \nen serio tu pérdida de memoria.<PAGE>\n<SPEECH*>He sido maleducada contigo todo este\ntiempo. Me avergüenzo de mi misma...
+<SPEECH*>No pasa nada, no es para...
+<SPEECH*>Lo siento mucho.
+<SPEECH*>¡Ou... ouu!
+<SPEECH*>(¡Mi cuerpo se mueve por sí solo!)
+<SPEECH*>¿Por qué me muevo?
+<SPEECH*>Te he alcanzado...
+<SPEECH*>¡¿Quién demonios eres tú?!
+<SPEECH*>Muéstrame tu poder...\nUn poder como el mío...
+<SPEECH*>¡¿Tú eres el que me está controlando?!\n¡¿Quién narices eres?!\nSabía que no eran imaginaciones mías.
+<SPEECH*>¡¿Q-Qué está pasando?!\n¡No! ¡Quieto!
+<SPEECH*>¡Luke! \n¡Cálmate!
+<SPEECH*>Cálmate.\nRespira hondo.
+<SPEECH*>Eso es... Ahora, concentra tu\nmente en la punta de tus dedos.
+<SPEECH*>Luke, escucha mi voz.\nAhora, relájate, así...
+<SPEECH*>¿Estás bien, Luke?
+<SPEECH*>¿Qué... qué me ha pasado?
+<SPEECH*>Diría que ha ocurrido\nuna hiperresonancia.
+<SPEECH*>¿Una hiperresonancia?\n¿Te refieres a esa cosa que\nnos lanzó al valle de Tataroo?
+<SPEECH*>Sí, aquello también fue el poder de\nla hiperresonancia, aunque de\nuna forma incompleta.
+<SPEECH*>Maestro... ¿qué me está pasando?
+<SPEECH*>¿Nunca te has preguntado acerca de\ntu secuestro, ni por qué se te ha\nprohibido salir de la mansión?
+<SPEECH*>Eso es porque, ya sabes, mis\npadres se preocupan por mí...
+<SPEECH*>No. Es para mantenerte a ti, la única\npersona en el mundo capaz de causar una\nhiperresonancia por sí sola, controlada \ndentro de Kimlasca.
+<SPEECH*>A ver, Maestro, espera.\nNo comprendo lo que estás diciendo.\n¿Qué es una hiperresonancia?
+<SPEECH*>Una hiperresonancia es un poder que\nnace cuando dos séptimos fonistas\ninteractúan. Puede destruir o\nmodificar cualquier materia.<PAGE>\n<SPEECH*>Normalmente sólo aparecen bajo\nunas condiciones especiales, con\ndos séptimos fonistas presentes.
+<SPEECH*>¿Pero la puedo causar yo solo?\n¿Tal como ha pasado ahora?
+<SPEECH*>Sí. Con entrenamiento, podrías llegar a controlarla \na voluntad. Podría ser útil en la guerra.<PAGE>\n<SPEECH*>Tanto tu padre como el Rey saben eso.\nPor eso Malkuth te quería.
+<SPEECH*>¡¿Estás diciendo que me han mantenido\nrecluso en mi propia casa como un arma?!
+<SPEECH*>Espera... ¡¿Planean tenerme \nasí el resto de mi vida?!
+<SPEECH*>Bueno, tu compromiso con la\nprincesa Natalia significa que tu\ncelda pasará a ser el castillo.
+<SPEECH*>¡Me niego a aceptarlo!<PAGE>\n<SPEECH*>Sí, el exterior puede resultar\nmuy molesto, ¿pero estar atrapado\nen mi casa, sólo para que me\nusen en alguna guerra?...
+<SPEECH*>Cálmate, Luke.\nPrimero, evitamos la guerra.\nDespués, dejamos que todo el\nmundo conozca ese éxito.<PAGE>\n<SPEECH*>Haciendo eso, ganarás prestigio \ncomo el héroe que preservó la paz.<PAGE>\n<SPEECH*>Por último, deberían liberarte\nde tu injusto cautiverio.
+<SPEECH*>¿Tú crees?\n¿En serio lo crees, Maestro?
+<SPEECH*>No te preocupes. \nTen confianza en ti mismo.\nHas sido elegido.<PAGE>\n<SPEECH*>El poder de la hiperresonancia\nte convertirá en héroe.
+<SPEECH*>Un héroe... Yo, un héroe...
+<SPEECH*>Parece que hemos llegado.\nAquí cambiaremos de barco por\notro que vaya hacia Baticul.
+<SPEECH*>Ánimo, Luke.\nUna cara tan seria no es\npropia de un futuro héroe.
+<SPEECH*>¡Tienes razón!
+<SPEECH*>Aquí se separan nuestros caminos.\nHe de llevar a Arietta ante\nel inspector en Daath.
+<SPEECH*>¿Qué?\n¡Quiero que vengas con nosotros!
+<SPEECH*>Iré a Baticul después.\nNo seas egoísta, Luke.
+<SPEECH*>Pero...
+<SPEECH*>El barco parte desde el lado de\nKimlasca. Preguntad en el consulado.\nNos veremos de nuevo en Baticul.<PAGE>\n<SPEECH*>Tear, por favor, cuida de Luke por mí.
+<SPEECH*>Oh... ¡De acuerdo!
+<SPEECH*>¡Amo, es una nueva ciudad!\n¡Está llena de arena!
+<SPEECH*>¡Cállate, cosa!
+<SPEECH*>(Pero es tan mono...)
+Tenemos órdenes del duque\nFabre de no permitir la\nentrada al desierto.<PAGE>\nPor favor, ve por mar.
+¿Quieres entrar en Malkuth?
+Sí\nNo
+Veo que llevas pasaporte.\nPuedes pasar.
+Ah, por cierto, el puente hacia\nRúgnica fue destruido por los\nAlas Oscuras, y está en reparaciones.\nNo tiene sentido ir allí.
+Ya veo. Bueno, el puente de ahí delante\nfue destruido por los Alas Oscuras y\naún no se ha reparado.<PAGE>\nNo tiene mucho sentido ir allá.
+<SPEECH*>Oh, vaya, ¿qué hace \nun caballero como usted \nen un lugar como éste? @
+<SPEECH*>¿Eh?\n¿Qué quieres?
+<SPEECH*>Venga, vamos.\nTienes una cara tan bonita...
+<SPEECH*>No la estropees con ese gesto.
+<SPEECH*>Oh, no...\n¡Una vieja va detrás de mi Luke!
+<SPEECH*>Oh, vaya, perdón, niñita.\nNo quería interferir.\nSeguiré mi camino.
+<SPEECH*>Para.
+<SPEECH*>¿Mmm?
+<SPEECH*>Devuelve lo que has robado...
+<SPEECH*>¿Eh? ¡Hey!\n¡Mi cartera ha desaparecido!
+<SPEECH*>Humf...\nAsí que no eres tan bobo, ¿eh?
+<SPEECH*>No te muevas.\nSi devuelves lo que has robado,\nte dejaré marchar.
+<SPEECH*>Tenéis agallas para enemistaros\ncon los Alas Oscuras.\n¡Esto no quedará así!
+<SPEECH*>¡¿Eran los Alas Oscuras?!\n¡Si lo hubiera sabido, los hubiera\ncortado a cachitos!
+<SPEECH*>Sí, después de todo hiciste\nun gran trabajo protegiendo tu cartera.
+<SPEECH*>Por cierto, Coronel, ¿por qué te has \nquedado mirando mientras ella hacía eso?
+<SPEECH*>Oh no, me has pillado.\nTenía pinta de que iba a ser divertido...
+<SPEECH*>¡¿Pero qué...?!\n¡Mamón!
+<SPEECH*>¡York! ¡Ocúpate de esto!\n¡Urushi, nos vamos!
+¡Vaya, hola!\nQué oportunos.\nQuería daros las gracias.
+¿Por qué?
+Con el puente cortado no podía volver,\nasí que en Gran Chokmah vendí esa joya que \nme disteis y me pagaron lo suficiente para\ncomprar el billete de vuelta en barco.
+¿La... vendiste?
+Sí. Muchas gracias.\nPodéis usar mi carro cuando queráis.\nBueno, cuando arreglen el puente, claro.
+Hey, ¿qué pasa?
+Nada, no es nada.
+¿Eh?
+(Madre... Lo siento...)
+Luke fon Fabre y los\nemisarios, supongo.
+¿En qué estado está el barco que va a Baticul?
+Los preparativos están en proceso.\n¿Por qué no hacéis turismo por\nel pueblo mientras esperáis?
+¿Por qué no aprovechamos esta oportunidad\npara investigar ese disco fónico?
+Si necesitas una máquina que analice un\ndisco fónico, creo que el señor Aston del\nGremio de Mercaderes de Chesedonia tiene una.
+Luke, pasemos por allí en un momento.\nSeguramente, Tear estará ocupada\ncuando volvamos a Baticul.
+Me pregunto qué contendrá.
+Mmm. Bueno, vale.\nDe todos modos, quiero echar un vistazo.
+<SPEECH*>Oh, vaya.\n¡Maestro fónico Ion!<PAGE>\n<SPEECH*>Si me hubieras avisado de que\nvenías, te hubiera preparado\nuna gran bienvenida...
+<SPEECH*>Ya está bien. Intentamos\npasar desapercibidos.
+<SPEECH*>Una mansión de este tamaño\nseguramente tenga un analizador\nde discos fónicos o dos.
+<SPEECH*>Veo que tienes buen ojo para el lujo.\nSí, en mi casa hay un analizador.
+<SPEECH*>Genial. Maestro Fónico, ¿serías\ntan amable de pedirles que\nanalicen ese disco fónico?
+<SPEECH*>¿Nos harías el favor?
+<SPEECH*>Además, tengo que pedirte algo.
+<SPEECH*>Di. El Gremio de Mercaderes de Chesedonia\nestá siempre a tu servicio, Maestro Fónico.
+<SPEECH*>Queremos leer los datos\nde este disco fónico.
+<SPEECH*>Déjamelo a mí.\n¡Tú!
+<SPEECH*>Analiza este disco fónico y\nentrégale los resultados a él.
+<SPEECH*>Sí, señor.
+<SPEECH*>Ion, ¿conoces a este señor?
+<SPEECH*>Es gracias al Maestro Fónico que\npudimos establecer este lugar de\nintercambio en la frontera.
+<SPEECH*>El Gremio de Mercaderes contribuye en\nDaath con una gran cantidad de dinero.<PAGE>\n<SPEECH*>A cambio, la Orden fuerza el reconocimiento\nde Chesedonia como un estado autónomo.
+<SPEECH*>¡Debes de ser muy rico, Astor! @<PAGE>\n<SPEECH*>¡No puedo creerlo! @ ¡Guau, me\nencantaría vivir en un sitio así! @
+<SPEECH*>Aquí tiene los resultados del análisis, señor.
+<SPEECH*>Muchas gracias.
+<SPEECH*>Supongo que los leeremos en el barco.
+<SPEECH*>Entonces vámonos ya.\nGracias por tu ayuda.
+<SPEECH*>Cuando necesites algo, no\ndudes en pedírmelo.\nJi ji ji.
+<SPEECH*>Gracias.
+<SPEECH*>Gracias.
+<SPEECH*>Ah, aquí estáis.\nEl barco está listo.\nVenid al puerto de la parte de Kimlasca...
+<SPEECH*>¡Cuidado!
+<SPEECH*>¡Aah!
+<SPEECH*>¡Dame eso!
+<SPEECH*>No deberíamos montar un\nnumerito aquí. ¡Al barco!
+<SPEECH*>¡Maldita sea! \n¡No se rinden!
+<SPEECH*>¡No escaparéis!
+<SPEECH*>Señorito Luke, los\npreparativos han terminado.
+<SPEECH*>¡Poned en marcha el barco!\n¡Ahora!
+<SPEECH*>¿Perdona?
+<SPEECH*>¡Nos persiguen!\n¡Rápido!
+<SPEECH*>¡Ou!...\nSe han escapado.
+<SPEECH*>¡Ahhh ja ja ja ja!
+<SPEECH*>¡Parece que has fracasado, Sync!
+<SPEECH*>Oh, eres tú.
+<SPEECH*>¡Déjamelos a mí!<PAGE>\n<SPEECH*>Con mi tecnología fónica de nivel\nultra súper hiper alto, despellejaré\na ese traidor, melenas, cuatro ojos...
+<SPEECH*>¡Espera! ¡Espera! ¡Vuelve!\n¡No he acabado de hablar!
+<SPEECH*>He marcado a ése que se llama\nGuy con una Ranura Maldita. Puedo\ncontrolarlo cuando quiera.<PAGE>\n<SPEECH*>Y tú, asegúrate bien de\nrecuperar esos documentos\ndel proyecto de fomicría.
+<SPEECH*>¿Pero quién te crees que eres? \n¡Ya verás! ¡Voy a apuntar esto\nen mi diario de la venganza!
+<SPEECH*>Si hemos llegado hasta aquí,\nya deberíamos estar a salvo.
+<SPEECH*>¡Maldita sea!\nHe perdido parte de los documentos\ncuando Sync nos ha atacado.
+<SPEECH*>Déjame verlos.
+<SPEECH*>Parece una investigación de isofones.<PAGE>\n<SPEECH*>3.14159265358979323846...\nEs la frecuencia fónica de Lorelei.
+<SPEECH*>¿Lorelei? ¿Isofones?\n¿"Frecuencias fónicas"?\n¿De qué demonios hablas?
+<SPEECH*>"Lorelei" es el nombre de la entidad\nconjunta del séptimo fonón.
+<SPEECH*>Cuando se reúnen un cierto número de\nfonones, se convierten en una entidad.
+<SPEECH*>Controlándola, puedes crear\nartes fónicas de alto nivel.
+<SPEECH*>Cada una tiene un nombre.\nLa entidad del primer fonón se llama "Shadow",\nla del sexto se llama "Rem", y así.
+<SPEECH*>Lorelei aún no ha sido analizado.\nSu existencia es hipotética.
+<SPEECH*>Ah... ¿Cómo es que todos\nsabéis estas cosas?
+<SPEECH*>Bueno...\nLa verdad es que es culturilla general.
+<SPEECH*>No te preocupes, Luke. No puedes\nhacer nada. Sigue aprendiendo de\nahora en adelante y todo irá bien.
+<SPEECH*>Es cosa mía... ¿o de repente\neres mucho más amable con Luke?
+<SPEECH*>No sé a qué te refieres.
+<SPEECH*>Intentando cambiar de tema.\nQué hábil.
+<SPEECH*>¡Cállate, Guy!
+<SPEECH*>Pero claro, si los isofones fueran\ncomunes, habría hiperresonancias\npor todas partes.
+<SPEECH*>La investigación de los isofones puede\nser clave para desarrollar armas, así\nque el ejército no la pierde de vista.
+<SPEECH*>La "fomicría", esa tecnología en\nla que trabajaban hace tiempo,\npuede crear isofones, ¿verdad?
+<SPEECH*>Sí, la fomicría es como una\nmáquina de copiar, ¿no?
+<SPEECH*>No, las réplicas creadas con la\nfomicría son meras imitaciones.<PAGE>\n<SPEECH*>Una réplica puede ser idéntica, pero\nsu frecuencia fónica es diferente. \nNo se pueden crear isofones de esa manera.
+<SPEECH*>¡Gah! \n¡¿De qué leches estáis hablando?!\nYa vale de cosas complicadas.\nJade puede leer esos documentos él soli...
+<SPEECH*>¡Emergencia!\n¡Un gran número de monstruos y una señal\nfonotecnológica no identificada\nse aproximan desde Chesedonia!
+<SPEECH*>¡Oh, no! \n¡Ya están aquí!
+<SPEECH*>¡Ah, otra cosa! Toda materia emite una\nfrecuencia fónica. Son como las\nhuellas dactilares: no hay dos iguales.
+<SPEECH*>Los isofones son dos entidades que tienen\nexactamente la misma frecuencia fónica. Pero claro,\nsólo existen si se crean de forma artificial.
+<SPEECH*>¿Podemos suponer que su objetivo es evitar\nque Ion y la carta lleguen a Kimlasca?
+<SPEECH*>No estarán intentando hundir el\nbarco entero directamente, ¿verdad?
+<SPEECH*>¡Amo, ¿qué hacemos?!\nNo sé nadar...
+<SPEECH*>Cállate y ahógate.
+<SPEECH*>Pero si intentaran hundirnos, no\nnos asaltarían a bordo.
+<SPEECH*>¡Están intentando tomar el mando!
+<SPEECH*>*Suspiro* \nSupongo que tendremos que asegurar el\npuente antes de que lo hagan ellos, ¿eh?
+<SPEECH*>Exacto.
+<SPEECH*>¿Por qué tienen tantas ganas de empezar\nuna guerra estos tíos del Oráculo?\nVaya rollo...
+<SPEECH*>No hay tiempo para quejas.\nVamos.
+<SPEECH*>¿Dónde demonios está su líder?\nDémonos prisa y acabemos con esto.
+<SPEECH*>¡Ahh ja ja ja ja!\n¡Ahh ja ja ja ja!<PAGE>\n<SPEECH*>Escuchad, salvajes ignorantes, y\noiréis mi precioso nombre.<PAGE>\n<SPEECH*>Soy el miembro más elegante de los seis Generales\nde Élite, el único, el inimitable, Dist la...
+<SPEECH*>¡No me digas que es Dist el Llorica!
+<SPEECH*>¡La Rosa! \n¡R-O-S-A, rosa!\n¡Dist la Rosa!
+<SPEECH*>Querrás decir Dist el Segador.
+<SPEECH*>¡Silencio!\n¡Me niego a aceptar ese nombre!\n¡Es Rosa! ¡ROSA!
+<SPEECH*>¿Qué? ¿Le conoces?
+<SPEECH*>Yo también estoy en los Caballeros del Oráculo,\nasí que... ¿Pero de qué le conoces tú, Coronel?
+<SPEECH*>Yo, el genio Dist, una vez tuve como\namigo a esa serpiente traidora de Jade.
+<SPEECH*>¿Qué Jade es ése? No conozco a ningún\nJade con tan mal gusto para los amigos.
+<SPEECH*>¡¿Qué has dicho?!
+<SPEECH*>Ah ah, ten cuidado, ya sabes cómo te\nsangra la nariz cuando te enfadas.
+<SPEECH*>¡Grrrrrrrr! \n¡No es verdad!
+<SPEECH*>Esto es muy tonto...
+<SPEECH*>Están metidos en su pequeño mundo...
+<SPEECH*>Ya es suficiente.\n¡Entregadme los datos del disco fónico!
+<SPEECH*>¿Te refieres a esto?
+<SPEECH*>¡Ja ja ja!\n¡Qué descuidado, Jade!
+<SPEECH*>Te los puedes quedar.\nYa he memorizado su contenido.
+<SPEECH*>¡Grrrrrrrr!\n¡Se ríen de mí unos salvajes!
+<SPEECH*>¡Cuando sufráis el dolor de mis\nsúper ultra magníficas artes, os\narrepentiréis de lo que habéis hecho!
+<SPEECH*>Hey... mira...
+<SPEECH*>Eso no es suficiente para matarle.\nMala hierba nunca muere.<PAGE>\n<SPEECH*>Voy a comprobar el puente.
+<SPEECH*>Voy contigo. Señoritas, por\nfavor, proteged a Luke y a Ion.
+<SPEECH*>¿Mmm? \nNo me digas que tienes\nmiedo de nosotras, Guy...
+<SPEECH*>¡N-No! \n¡Claro que no!
+<SPEECH*>¿Qué deberíamos hacer?
+<SPEECH*>Vamos a ver si hay algún herido.
+<SPEECH*>Sí, tienes razón.
+<SPEECH*>No es fácil ser\nmensajeros de paz...
+<SPEECH*>Ahí tienes razón.

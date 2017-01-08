@@ -1,0 +1,298 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¿Descansar?
+Descansar\nNo descansar
+¡Perdonad! ¿Habéis visto cerdinejos\ncorriendo por aquí?
+¿Cerdinejos?
+No hemos visto ninguno.
+¡Oh, no! \n¿Qué voy a hacer? \n¡Gelda! ¡Saphir!
+¡Oh, sois vosotros!\nHabéis llegado a tiempo. \nEsta vez, vuestra misión será...
+No hemos dicho nada de emprender\nninguna misión.
+¡Detalles! ¿Quién los necesita?\n¡Lo más importante es que mis preciosos\ncerdinejos se han escapado!<PAGE>\nAún deberían estar dentro del castillo,\nen alguna parte. ¿Podéis ir a buscarlos?
+Majestad, no hemos venido aquí\npara buscar cerdinejos.
+¿Qué?\nEntonces te digo: ¿qué harías si mi\npequeño y dulce Jade se cae por las\nescaleras y se rompe el cuello?<PAGE>\n¿Te responsabilizarías si\nasan a mi pequeño y dulce\nJade en la cocina?
+Eso es extremadamente molesto.\nPor favor, deje de decir esas cosas.
+No te preocupes.\nTú no eres el Jade bonito.<PAGE>\nA mi pequeño y dulce Jade no se le da bien\naprender trucos, pero su piel es tan brillante y...
+Los buscaremos. Los buscaremos, así\nque por favor, por Dios, pare ya.
+Me alegro que hayas entendido mi situación.<PAGE>\nHay cinco cerdinejos: \nNephry, Jade, Saphir, \nAslan, y Gelda.<PAGE>\nSi los encontráis, os recompensaré. ¡Gracias!
+Coronel.
+Lo siento.\nNo podía soportar más humillaciones. 
+El emperador Peony te tiene calado,\n¿eh, Jade? ¿Tiene material con el\nque chantajearte o algo?
+Si Jade tiene algún punto débil, me\ngustaría saberlo. Su Majestad se\nmerece mi admiración.
+En cualquier caso, ahora que ya hemos\ndicho que sí, tenemos que buscarlos.
+¡Sí!\n¡Consigamos la recompensa!
+Ah, éste es Jade, eh.
+Para haberle puesto el nombre de Jade,\nha sido bastante fácil de encontrar.
+No puedo creer que usara el nombre de mi hermana...
+Pero parece que éste tiene\nel collar más elaborado.
+No estoy seguro de que eso me guste.
+De cerca, éste tiene los ojos del\nmismo color que los del general Frings.
+¿Por eso le puso Aslan? \nSu Majestad no se pasa mucho tiempo\npensando nombres, ¿eh?...
+Debo cuestionar el proceso de reflexión\nque hay detrás de llamar a este\ncerdinejo como la profesora...
+¿Has dicho algo?
+No... No es nada.
+"Saphir"... ¿Ése no es...?
+El nombre real de Dist el Segador...
+La cara de estúpido que tiene\nhace que se parezcan bastante.
+Buen trabajo. Qué alivio tener a todos\nmis preciosos cerdinejos de vuelta.
+Vaya panorama, ver tantos cerdinejos\njuntos en este sitio...
+(Son tan monos...)
+Su Majestad @ \nSobre la recompensa...@
+Oh, sí. \nDejad que os dé esto.
+Es un pase para el balneario\nMegalofrederica de Keterburg.
+¡Guau!<PAGE>\n¡El balneario Megalofrederica es de \nclase alta, sólo para miembros nobles! \n¡Cuesta 100.000 gald apuntarse!
+Suena maravilloso. Ya he oído hablar\nde él. Estoy segura que los baños son\nmucho mejores que los del castillo.
+No sé cómo debe ser un balneario...
+Por algún motivo, no estoy muy \ncontento con esta recompensa.
+Sí, normalmente los balnearios\ninteresan a las chicas.
+¿De verdad? A mí me gustan. Me alegra\nque de vez en cuando hagas regalos\nsensatos, Majestad.
+Ahora mismo lo están remodelando, pero\nid a probarlo cuando lo abran.
+Jade ha recibido el título de "title 6."

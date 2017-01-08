@@ -1,0 +1,284 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Ah, es aquí. Encontraremos\nnuestra cosita divertida al fondo,\ndetrás de estas cajas.
+<SPEECH*>Así que sólo tenemos \nque moverlas, ¿no?
+<SPEECH*>Exacto. Por cierto, Luke, \nse me hace difícil pensar bien de\nti si dejas que una mujer levante\ntanto peso.
+<SPEECH*>No pasa nada, Coronel.
+<SPEECH*>¿O es que los aristócratas\nno tienen fuerza?<PAGE>\n<SPEECH*>*Suspiro* \nY yo que pensaba que incluso tu cerebro\nestaba hecho de puro músculo...
+<SPEECH*>¡¿Qué has dicho?!
+<SPEECH*>Espera. \nTú también eres un tío. \nAyúdame.
+<SPEECH*>No, mejor no. Después de todo, tú \neres más joven que yo. A mi edad, ya\nme duelen las articulaciones...
+<SPEECH*>Vale, venga. \nApártate. \nLo haré yo.
+<SPEECH*>G-Gracias...
+<SPEECH*>¡Usted puede, Amo!
+<SPEECH*>¡Creo haberte dicho que te calles!
+Para agarrar una caja,\nacércate y pulsa <06*>.
+Mueve <06*> mientras pulsas\n<06*> para desplazar la caja.
+¿Entendido? \nSí \nExplícamelo otra vez
+<SPEECH*>Aquí está.
+<SPEECH*>¿Esto es tu "cosa divertida"?
+<SPEECH*>Coronel, ¿eso es pólvora?
+<SPEECH*>¡¿Pólvora?!\n¿Qué hace ESO aquí?
+<SPEECH*>Un grupo de soldados del barco\nha estado hurtando mercancías para\nvenderlas por su cuenta.
+<SPEECH*>Descubrí que estaban \nescondiendo pólvora aquí.
+<SPEECH*>Aunque todo este alboroto ha hecho\nque mi investigación fuera innecesaria.
+<SPEECH*>Ya veo. Así que vamos a prenderle\nfuego y destruir la pared.
+<SPEECH*>¿Hablas en serio? \n¿Seguro que saldrá bien?
+<SPEECH*>Estaremos bien siempre y cuando\nla explosión no nos alcance.\nVenga, démonos prisa.
+<SPEECH*>¿La prendemos con un arte fónico?
+<SPEECH*>No, la prenderemos con Mieu. \n¡Prepárate, Mieu!
+<SPEECH*>¡Sí, señor!
+<SPEECH*>¡Guau! \nEspera un...
+<SPEECH*>¡Maldita sea! \n¡Podrías haber esperado medio segundo!
+<SPEECH*>Mieuuu... \nLo siento, Amo.
+<SPEECH*>No, lo has hecho genial, Mieu. \nVámonos ya.
+<SPEECH*>D-De acuerdo...
+<SPEECH*>(¿Cómo pueden esos dos aguantar \nuna explosión delante de sus narices?\nEn serio, no son humanos.)

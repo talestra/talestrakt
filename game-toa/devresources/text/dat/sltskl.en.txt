@@ -1,0 +1,65 @@
+-> No Effect
+No effect.
+
+-> Increase Attack
+Increase the amount of damage
+to the enemy.
+
+-> Increase Heal
+Increase the amount of HP recovered.
+
+-> Reduce Recovery Time
+Reduce the time it takes to recover
+after casting
+
+-> Reduce Casting Time
+Reduce the time it takes to cast.
+
+-> Increase Effect
+Increase effectiveness.
+
+-> Extend Range
+Extend the range of effectiveness.
+
+-> Increase Power
+Increase the ability to push, lift, or
+send the enemy flying.
+
+-> Increase Stagger
+Increase the amount of time the enemy
+is staggered after an attack.
+
+-> Reduce Recovery Time
+Reduce the time it takes to recover
+after casting.
+
+-> Increase Effect Time
+Increase the length of effectiveness.
+
+-> Stagger Invalid
+Stagger effect becomes invalid for a
+limited amount of time.
+
+-> Special
+Add an extra effect.
+
+-> Recover HP
+Add an HP recovery effect.
+
+-> Heal Poison
+Add a poison healing effect.
+
+-> Heal Abnormal Status
+Add an abnormal status healing effect.
+
+-> Steal
+Enable the ability to occasionally
+steal from an enemy when attacking.
+
+-> Reduce TP Cost
+Reduce the amount of TP used.
+
+-> Low-Level FOF Change
+Enable the ability to use FOF artes
+in a low-level FOF.
+

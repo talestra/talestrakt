@@ -1,0 +1,182 @@
+# Con el IDA se van sacando los punteros a los textos y los rangos de texto
+# que se usarán. Solo se deben especificar rangos de texto donde se recalcularán
+# los punteros de todos sus elementos.
+
+R:0057AD98-0057AE70
+
+	# Acciones
+	T:00539760:
+	T:00539764:Entrar
+	T:00539768:Hablar
+	T:0053976C:Al Mapa
+	T:00539770:Comerciar
+	T:00539774:Examinar
+	T:00539778:Abrir
+	T:0053977C:Empujar
+	T:00539780:Tirar
+	T:00539784:Operar
+	T:00539788:Pulsar Interruptor
+	T:0053978C:Subir
+	T:00539790:Bajar
+	T:00539794:Saltar
+	T:00539798:Tocar
+	T:0053979C:Leer
+	T:005397A0:Descansar
+	T:005397A4:Montar
+	T:005397A8:Salir
+	T:005397AC:Mover
+	T:005397B0:Agarrar
+	T:005397B4:???
+	T:005397B8:!!!
+	T:005397BC:Guardar
+	T:005397D0:Transportar
+
+R:0057AE70-0057AFB8
+
+	# Galds/Objetos encontrados
+	T:005D6760:Has encontrado %d Gald,\npero no puedes\nllevar más.
+	T:005D6764:Has encontrado %d Gald.
+	T:005D6768:Has encontrado %s,\npero no puedes\nllevar más.
+	T:005D676C:Has encontrado %s.
+	
+	# Información
+	T:005D6770:Información
+	T:005D6774:Seleccionar
+	T:005D6778:Seleccionar
+	
+	# Fin del juego
+	T:005D677C:Cargar
+	T:005D6780:Salir
+	T:005D6784:Ver Skit
+	T:005D6788:Y nunca se volvió a saber nada de ellos...
+	
+	# Guardar/Wing Bottle
+	T:005D678C:Guardar\nVolver a la entrada con una Wing Bottle
+	T:005D6790:Usar %s?\n     (%d restantes)\n
+	T:005D6794:Sí\nNo
+
+R:005B90F0-005B9110
+
+	# CMenuCharaStatSmall
+
+	T:00541B20:ARMA
+	T:00541B38:CUERPO
+	T:00541B50:MANO
+	T:00541B68:OTROS
+
+R:005B9168-005B91C8
+
+	# CEquipInputMenu
+
+	T:00541C00:\x0B\x11
+	T:00541C04:Información
+	
+	T:00541C10:\x0B\x09
+	T:00541C14:Quitar
+	
+	T:00541C18:\x0B\x11
+	T:00541C1C:Información
+	
+	T:00541C30:\x0B\x08
+	T:00541C34:Confirmar
+	
+	T:00541C38:\x0B\x0a
+	T:00541C3C:Volver
+	
+	T:00541C40:\x0B\x07
+	T:00541C44:Ordenar
+	
+	T:00541C48:\x0B\x11
+	T:00541C4C:Información
+	
+	T:00541C60:\x0B\x07
+	T:00541C64:Mejor Equipo
+	
+
+R:005B9C88-005B9D10
+
+	# CMenuACSkillWin
+	
+	T:00548580:\v\b
+	T:00548584:Confirmar
+	T:00548588:\v\n
+	T:0054858C:Volver
+	T:00548590:\x0B\x05
+	T:00548594:Editar Grupo
+	T:00548598:\x0B\x11
+	T:0054859C:Alternar Info. de Estado
+	
+	
+	T:005485B0:\v\b
+	T:005485B4:Confirmar
+	T:005485B8:\v\n
+	T:005485BC:Volver
+	
+	T:005485D0:\v\b
+	T:005485D4:Confirmar
+	T:005485D8:\v\n
+	T:005485DC:Volver
+	
+	T:005485F0:\v\b
+	T:005485F4:Mostrar Grupo	
+	T:005485F8:\v\a
+	T:005485FC:Intercambio
+	T:00548600:\v\n
+	T:00548604:Volver
+	T:00548608:\x0B\x11
+	T:0054860C:Información de Estado
+	
+	T:00548620:\v\b
+	T:00548624:Intercambio
+	T:00548628:\v\n
+	T:0054862C:Cancelar
+
+/*
+T:00544810:\x0b\x12
+T:00544814:Modo de Control
+
+T:00544820:\v\a
+T:00544824:Usar Arte
+T:00544828                 .word dword_5B9748
+T:0054482C:On/Off
+T:00544830                 .word dword_5B9718
+T:00544834:Modo de Control
+T:00544838                 .word dword_5B9758
+T:0054483C:Información
+T:00544840                 .word dword_5B9768
+T:00544844                 .word dword_5B9770
+
+T:00544850                                          # "\v\a"
+T:00544854:Usar Arte
+T:00544858                 .word dword_5B9748
+T:0054485C:On/Off
+T:00544860                 .word dword_5B9718
+T:00544864:Modo de Control
+T:00544868                 .word dword_5B9768
+T:0054486C:Cámara FS
+
+T:00544880 off_544880:     .word dword_5B9780       # DATA XREF: T:0054490Co
+T:00544884:Confirmar
+T:00544888                 .word asc_5B9790         # "\v\n"
+T:0054488C:Volver
+T:00544890                 .word dword_5B9748
+T:00544894                 .word dword_5B97A0
+T:00544898                 .word dword_5B9718
+T:0054489C:Modo de Control
+T:005448A0                 .word dword_5B9758
+T:005448A4:Información
+
+T:005448B0 off_5448B0:     .word dword_5B9780       # DATA XREF: T:00544910o
+T:005448B4:Confirmar
+T:005448B8                 .word asc_5B9790         # "\v\n"
+T:005448BC:Volver
+T:005448C0                 .word dword_5B9718
+T:005448C4:Modo de Control
+T:005448C8                 .word dword_5B9748
+T:005448CC                 .word dword_5B97A0
+
+T:005448E0 off_5448E0:     .word dword_5B9780       # DATA XREF: T:00544914o
+T:005448E4:Confirmar
+T:005448E8                 .word asc_5B9790         # "\v\n"
+T:005448EC:Volver
+*/

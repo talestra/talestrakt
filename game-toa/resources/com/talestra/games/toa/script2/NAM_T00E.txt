@@ -1,0 +1,325 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>¡¿Qué es este lugar?!
+<SPEECH*>¿Un circo, quizá?... \nNo, no exactamente...
+<SPEECH*>Mira ahí, parece que\nestán usando maquinaria \nbastante decente.
+<SPEECH*>Guau. \n¿Qué ES eso?\nEs espeluznante...
+<SPEECH*>¿Un traje? \nQué chulo...
+<SPEECH*>¿Quéééé? \n¡Es espeluznante! \n¡Tokunaga es mucho más chulo!
+<SPEECH*>¿T-Tokunaga, chulo?...
+<SPEECH*>Así que, ¿qué sitio es éste, por cierto?
+<SPEECH*>Bienvenidos a nuestro hogar.
+<SPEECH*>Eres de... ¡los Alas Oscuras!
+<SPEECH*>¿Vuestra casa? \n¿Queréis decir que éste es el \nescondite de los Alas Oscuras?
+<SPEECH*>Correcto.\nUnas veces somos una compañía\nde circo, el Sueño Negro...<PAGE>\n<SPEECH*>Otras, somos nobles ladrones,\nlos Alas Oscuras. Pero siempre \nsomos los guardianes de\nesta ciudad oculta.<PAGE>\n<SPEECH*>Bienvenidos, visitantes, a nuestro\nhogar, la isla de Nam Cobandai.
+<SPEECH*>¿Ciudad oculta?\n¿Quieres decir que Kimlasca\nno sabe nada de esto?
+<SPEECH*>Estamos orgullosos de nuestra vida.\nNo nos gobierna nadie.<PAGE>\n<SPEECH*>Excepto Noir, claro. Después de\ntodo, ella fundó este pueblo.<PAGE>\n<SPEECH*>Bueno, puede que no lo parezca,\npero soy un tipo ocupado.\nMe voy.<PAGE>\n<SPEECH*>Ya que habéis venido hasta aquí,\nechad un vistazo antes de marcharos.
+<SPEECH*>¿Echar un vistazo?\nNo tenemos tiempo para...
+<SPEECH*>¿Por qué no?\nPodemos permitirnos descansar un rato.
+<SPEECH*>¡Coronel!\n¿Estás seguro?
+<SPEECH*>No os obligaré a quedaros\nsi no os interesa...<PAGE>\n<SPEECH*>Pero éste es un estado autónomo,\npor decirlo así.<PAGE>\n<SPEECH*>Creo que podría servirnos\nechar un vistazo.
+<SPEECH*>Seguramente tienes razón.\nPuede que también empecemos a comprender\nun poco mejor a los Alas Oscuras.
+<SPEECH*>Los Alas Oscuras...\nSí, supongo.
+<SPEECH*>¡Bien!\n¡Excursión! ~
+Puedes salir del pueblo por aquí,\npero ten cuidado con los monstruos.
+Aunque salgas, toda esta zona está\nrodeada de acantilados, así que\nno puedes ir a ninguna parte.
+Es sistema de seguridad ya funciona, como\npuedes ver por los fuegos artificiales.
+No puedes salir del pueblo por aquí,\nhay algunas puertas en el pueblo\nque están cerradas.<PAGE>\nSi desactivas el sistema de seguridad,\nentonces sí podrás salir. Los fuegos\nartificiales también deberían parar.
+¡Espera!\nEl sistema de seguridad está activo.\nNo puedes salir ahora mismo.
+¿Eres nuevo aquí?\nPasado este punto hay\nvarias casetas.
+No sólo hacemos actuaciones\ncuando estamos de gira.\nTambién vendemos muchas cosas.
+¿Eres nuevo aquí?\nPasado este punto hay\nvarias casetas.
+No sólo hacemos actuaciones\ncuando estamos de gira.\nTambién vendemos muchas cosas.
+¡Estoy ensayando\npara una obra!
+¡Tú también puedes intentarlo!\n¡Ponte en ese foco y\nhaz alguna pose!
+¡Estoy ensayando para una obra!
+¡Tú también puedes intentarlo!\n¡Ponte en ese foco y\nhaz alguna pose!
+Hey, recién llegado.\nPuede que no sea obvio,\npero aquí hay una puerta.
+Esta puerta lleva a\nlos vestuarios.<PAGE>\nSi vas por aquí,\ntambién puedes llegar\na la sala de monitores.
+Hey, recién llegado.\nPuede que no sea obvio,\npero aquí hay una puerta.
+Esta puerta lleva a\nlos vestuarios.<PAGE>\nSi vas por aquí,\ntambién puedes llegar\na la sala de monitores.
+Noir creó la isla de Nam Cobandai,\nasí que hay muchos trucos\nescondidos en el pueblo.<PAGE>\nSi ves algo raro, examínalo.\nNunca sabes qué puede pasar.
+El pueblo se construyó con forma de círculo,\nasí que puedes visitarlo dando la vuelta.
+Noir creó la isla de Nam Cobandai,\nasí que hay muchos trucos\nescondidos en el pueblo.<PAGE>\nSi ves algo raro, examínalo.\nNunca sabes qué puede pasar.
+El pueblo se construyó con forma de círculo,\nasí que puedes visitarlo dando la vuelta.
+Si vas por aquí, hay\nmuchas vacaz y\ngatoz y cosas así.
+Todos los que viven aquí no\ntienen ni hogar ni madre ni nada.<PAGE>\nHe estado aquí desde que tengo memoria.\nCon tanta gente es muy divertido.
+Si vas por aquí, hay\nmuchas vacaz y\ngatoz y cosas así.
+Todos los que viven aquí no\ntienen ni hogar ni madre ni nada.<PAGE>\nHe estado aquí desde que tengo memoria.\nCon tanta gente es muy divertido.
+Un trozo de papel del guión\nestá colgado aquí. Pone:\n"Después de que la Reina entre, los\nzapatos translúcidos son entregados\ny puestos inmediatamente".
+motion:luk00_h_p001.anm
+motion:luk00_h_p002.anm
+motion:luk00_h_p003.anm
+motion:luk00_h_p004.anm
+motion:tea00_h_p001.anm
+motion:tea00_h_p003.anm
+motion:tea00_h_p004.anm
+motion:tea00_h_p005.anm
+motion:jad00_h_p001.anm
+motion:jad00_h_p002.anm
+motion:jad00_h_p003.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_p001.anm
+motion:ans00_h_p002.anm
+motion:ans00_h_p003.anm
+motion:ans00_h_p004.anm
+motion:guy00_h_p001.anm
+motion:guy00_h_p004.anm
+motion:guy00_h_p005.anm
+motion:guy00_h_p006.anm
+motion:nat00_h_p002.anm
+motion:nat00_h_p003.anm
+motion:nat00_h_p005.anm
+motion:nat00_h_p011.anm
+motion:ash00_h_p001.anm
+motion:ash00_h_p002.anm
+motion:ash00_h_b022.anm
+motion:ash00_h_b016.anm

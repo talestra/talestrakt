@@ -1,0 +1,414 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>¡Amo!\n¿Eso de ahí es Daath?
+<SPEECH*>No lo sé.\n¿Lo es?
+<SPEECH*>Sí. Lo más probable es que\ntengan a Ion y a Natalia en\nla catedral.
+<SPEECH*>Es normal, ya que esos dos tienen\nel poder de detener la guerra.<PAGE>\n<SPEECH*>Mohs no querrá que se marchen de Daath.
+<SPEECH*>¿No podemos decirle a mi tío\nque los tienen cautivos y ya?
+<SPEECH*>Probablemente piensen que Natalia\nmurió en Akzeriuth.\nCreo que eso sería difícil.
+<SPEECH*>Sí. Y, además, Mohs goza de la confianza del Rey. \nAyudémoslos por nuestra cuenta.
+<SPEECH*>Anise está investigando la Orden.\nCon suerte, la encontraremos\nen la ciudad.
+<SPEECH*>Veo que tendremos que buscarla...
+<SPEECH*>¡Aaaaaaah!
+<SPEECH*>¡Anise!
+<SPEECH*>¡Guau!\nAsch, ¿te has cortado el pelo?
+<SPEECH*>Y-Yo soy...
+<SPEECH*>Oh, no, eres Luke.
+<SPEECH*>Espera, ¡¿qué?! \n¡¿Que hace este niño malcriado aquí?!
+<SPEECH*>Hey, los demás también están contigo.\n¡Guau! @ Debe de ser a voluntad de Lorelei, ¡eh!
+<SPEECH*>Esa voz parece una puñalada...
+<SPEECH*>Anise, hemos reunido\nla fuerza para rescatar a Ion.\n¿Cuál es la situación?
+<SPEECH*>¡Se han llevado a Ion y a\nNatalia a la Sede del Oráculo,\nbajo la catedral!
+<SPEECH*>¿Permiten entrar a la gente así sin más?
+<SPEECH*>A la catedral sí.\nPero únicamente los miembros del Oráculo\npueden entrar en los cuarteles generales de abajo.
+<SPEECH*>¿Podemos colarnos de alguna manera?\nSi no encontramos la manera de salvarlos,\nestaremos frente a una guerra.
+<SPEECH*>Parece que ya está empezando.
+<SPEECH*>Tear, todavía no has informado\nde que la Séptima Piedra Fónica\nera falsa, ¿no?<PAGE>\n<SPEECH*>¿Podrías llevarnos a los cuarteles\ncomo testigos de su descubrimiento?
+<SPEECH*>Vale. Le intentaré preguntar \nal ministro de asuntos exteriores, \nMaestro Tritheim.
+<SPEECH*>Bueno, ese tal Tritheim está dentro, ¿verdad?\nEntremos.
+Oh, ¡hola, Anise!\n¿Qué haces aquí?
+¡¿Papá?! \n¿Qué haces TÚ aquí?
+Acabo de recibir un mensaje\ndel maestro Tritheim.
+Papá... mejor que no te engañen\ncon otro chanchullo raro.
+Ja, ja, ja. Estoy bien, Anise.\nVivo según dice la Partitura,\nasí que mi vida está bien.
+¿Estás seguro?\nSi tú lo dices...
+Claro que sí. Justo el otro día recibí\nuna carta que decía que había ganado un\nviaje de siete noches y ocho días a Keterburg.
+¿Qué? ¿Era un premio?
+No había participado en nada...<PAGE>\nAsí que les envié un mensaje en respuesta\ndonde les informaba que se habían equivocado de\npersona, pero resulta que era un regalo para\nlos seguidores devotos de la Orden de Lorelei.<PAGE>\nEra un viaje con un gran descuento, \nsólo 10.000 gald por persona, \nasí que pagué de inmediato.
+Le han vuelto a engañar.
+No me digas. ¿Qué tipo de viaje\npodrías hacer por sólo 10.000 gald?
+¡Idiota, no es ese tipo\nde chanchullo!
+La primera carta decía que "había ganado"\nun viaje, ¿entonces por qué tenía que pagarlo?\nAhí está la cosa.
+Oh... ¡ya veo!
+Seguro que el timador se largó\nhace un montón de tiempo.
+¡En serio, papá!\n¿Por qué te dejas engañar tan fácilmente?
+No es bueno desconfiar de todas las\npersonas que te encuentras. Además, aún\nno sabemos si podremos ir o no de viaje.
+¡Claro que no podrás!
+Aunque tengas razón, seguramente significa que\nesa persona necesitaba tanto el dinero que\ntuvo que engañar a alguien para conseguirlo.<PAGE>\nCreo que es mejor eso a\nque lo tengamos nosotros.
+¡¡Papá!!
+Oh-oh, no puedo quedarme aquí más rato.\nTengo que volver al trabajo. \nPor favor, chicos, cuidad de Anise.
+¡Oh, anda! ¡Anise! \n¡Ha pasado mucho tiempo!
+Mamá, ¿estás ahorrando\nel dinero tal y como debes?
+Oh, anda, no te preocupes, Anise.\nTodos los meses donamos nuestros\ningresos a Lorelei, como debe ser.
+¡¿Todavía hacéis eso?!\n¡¿Cómo vais a vivir cuando os retiréis?!
+No te preocupes. Mientras sigamos la\nPartitura, no necesitamos el dinero.
+*Suspiro*... Parece que no tenga otra\nopción que casarme con alguien con dinero...
+¡Oh! \n¡¿Eso de ahí es un cheagle?!
+Me llamo Mieu. Encantado de conocerte.
+¡Oh, anda! ¡Si habla!\n¡No hay duda de que es nuestra bestia sagrada!
+¡Estoy tan emocionada por haber tenido\nla oportunidad de ver un cheagle!
+<SPEECH*>Maldita sea, ¿aún no tenemos noticias de Van?
+<SPEECH*>Lo siento. El Comandante ha\nido a inspeccionar Belkend...
+<SPEECH*>Por fin estamos a punto de esa guerra\ntal como está escrita en la Partitura.<PAGE>\n<SPEECH*>¡¿Qué estará haciendo en un momento así?!
+<SPEECH*>Quizá debería adelantarse\nusted a Baticul.
+<SPEECH*>*Suspiro* \nSí, supongo que puedo.
+<SPEECH*>Yo le escoltaré.
+<SPEECH*>El Gran Mestro Mohs... y Legretta...\nSin duda están intentando empezar una guerra...
+<SPEECH*>¡Tenemos que encontrar a Ion y detenerla!
+<SPEECH*>Bien.
+Bienvenidos a la iglesia de Lorelei.<PAGE>\nLas lecturas personales de la Partitura\nse hacen cada día de Rem durante la misa.<PAGE>\n¿Mmm?... \nOh, cantora Tatlin y cantora Grants.
+Maestro Tritheim, he completado la misión\nque me encomendó el gran maestro Mohs.<PAGE>\n¿Podría concederme un permiso para \nllevar a estos testigos a los cuarteles,\npara ayudarme con el informe?
+Ah, un encargo del gran maestro Mohs...\nEntendido. Llévate esto contigo.
+Gracias.
+Por orden del gran maestro Mohs, no puede \nentrar nadie sin un permiso concedido\npor alguien de rango Maestro o superior.
+Veo que tienes permiso del \nmaestro Tritheim. Puedes pasar.
+<SPEECH*>¿Adónde vamos?
+<SPEECH*>No lo sé.\nTendremos que buscar por todo el lugar.
+<SPEECH*>Nos atraparán si hacemos eso.
+<SPEECH*>Tendremos que esforzarnos\npara no llamar la atención.
+<SPEECH*>Y no podemos dejar que\npidan refuerzos si nos descubren.<PAGE>\n<SPEECH*>Tendremos que asegurarnos\nde dejarlos muertos.
+<SPEECH*>Ojalá no tuviéramos que hacer esto...
+<SPEECH*>No se puede evitar. Si no nos apresuramos,\nsin duda la guerra empezará...\ny morirá mucha más gente.
+<SPEECH*>(Voy a hacer que me odie\nmucha más gente...)
+<SPEECH*>¡Ion! ¡Natalia!\n¿Estáis bien?
+<SPEECH*>Luke... eres tú, ¿verdad?
+<SPEECH*>Siento no ser Asch.
+<SPEECH*>¡Nadie ha dicho eso!
+<SPEECH*>¡Ion! ¿Estás bien?\n¿Te han herido?
+<SPEECH*>Estoy bien. Gracias a todos\npor venir a por nosotros.
+<SPEECH*>¿Ha tenido algo que ver mi hermano\ncon que te hayan aprisionado?
+<SPEECH*>No he visto a Van. Pero los \nSeis Generales de Élite intentaron\nconseguir permiso para sacarme.<PAGE>\n<SPEECH*>Mohs se negó...
+<SPEECH*>Está intentando quitar los sellos\ndaáthicos para así poder eliminar\nlos árboles de sephiroth.
+<SPEECH*>Lo que significa que el Comandante \nvolverá para llevarse a Ion...
+<SPEECH*>Exactamente.\nDémonos prisa y salgamos de aquí.<PAGE>\n<SPEECH*>En principio, si salimos de la ciudad, estaremos a salvo.\nYa decidiremos qué hacer entonces.
+<SPEECH*>¿Por qué no vamos a la cosa esa del Cuarto Monumento?\nVamos a la colina donde estaba.
+<SPEECH*>Parece que nadie nos ha seguido.
+<SPEECH*>No creo que sean capaces de\nraptar a Ion en un lugar público.
+<SPEECH*>¿Pero ahora qué hacemos? \n¡Está a punto de empezar una guerra\ny la cosa pinta muy fea!
+<SPEECH*>¿No podemos ir a Baticul\ny parar a mi tío así sin más?
+<SPEECH*>¿Acaso lo has olvidado? Mohs goza\nde la confianza de Su Majestad.\nSería como meterse en territorio enemigo.
+<SPEECH*>Me temo que Tear tiene razón.\nPadre confía en Mohs.
+<SPEECH*>También me preocupa la conversación\nsobre la caída de San Binah.
+<SPEECH*>¿Entonces por qué no pedimos\nayuda al emperador Peony?<PAGE>\n<SPEECH*>Él no quiere que haya guerra\ny sabrá si hay indicios de que\nRúgnica se está desmoronando.
+<SPEECH*>Parece que ya tenemos un plan.
+<SPEECH*>Está bien, hagámoslo.\n¿Pero dónde conseguimos un barco para Malkuth?
+<SPEECH*>Asch nos dejó el Tartarus\nen el puerto de Daath.\nVamos allá.
+<SPEECH*>¿De verdad que lo hizo?...\nVale. El puerto está al noroeste, ¿no?\nVamos.
+Mejor que nos aseguremos de\ndejarlos sólo inconscientes...
+Deberíamos dejarlos\ninconscientes...
+Deberíamos dejarlos\ninconscientes.
+Deberíamos continuar y\ndejarlos inconscientes...
+Sólo tenemos que dejarlos\ninconscientes...
+Está cerrada y no tenemos la llave.\n¿Cómo podríamos abrirla?...
+Está cerrada...\nNo tenemos llave, pero\nhay que abrirla como sea...
+Está cerrada...\nNo tenemos llave, pero,\nsea como sea, hay que abrirla...
+¡Está cerrada!\nNo tenemos llave, pero\nhay que abrirla como sea...
+Está cerrada y no tenemos llave.\nPero tenemos que abrirla como sea...
+Han salido unos soldados.\nCreo que es una señal para que se reúnan.
+Oh, es cierto... Este gong es una señal\npara que los soldados se reúnan.
+Han salido unos soldados. Debe de\nser una señal para que se\nreúnan los soldados.
+¡Oh, claro! ¡Este gong es la señal\npara que se reúnan los soldados!
+Han salido unos soldados. Parece\nque es una señal para que se reúnan.
+Este gong es la señal para que se reúnan, ¿verdad?<PAGE>\nParece que algunos no se dejan\nenganañar por la señal falsa.
+Este gong indica a los soldados\nque deben reunirse, ¿no es así?<PAGE>\nParece que algunos no se dejan\nenganañar por la señal falsa.
+Creía que este gong era\nla señal de reunión.<PAGE>\nPero parece que no todos se dejan\nengañar por las señales falsas.
+Se supone que el gong es\nla señal de reunión.<PAGE>\nAunque supongo que no se puede\nengañar a todo el mundo.
+Se supone que este gong es\nla señal para que se reúnan, ¿no?<PAGE>\nSupongo que algunos no se dejan\nengañar por las señales falsas.
+Sus compañeros están noqueados en el suelo,\npero han vuelto a entrar sin más.
+No pueden verlos desde\nesa posición...<PAGE>\nSi ponemos a la patrulla en frente de la\npuerta, los soldados que salen la verán.
+La patrulla se acerca...\nTenemos que detenerles\nen frente de la puerta.
+Si eliminamos a la patrulla en frente de la\npuerta, los soldados que salgan la verán.
+La patrulla se acerca...\nTenemos que detenerles\nen frente de la puerta.
+Teníamos una forma de\nevitar que los enemigos\nse movieran, ¿no?
+¿No había una manera de evitar\nque los enemigos se movieran?...
+Juraría que teníamos una manera de\nevitar que los enemigos se movieran...
+Mmm... ¿No había una forma\nde evitar que los enemigos\nse movieran?
+¿No teníamos una manera\nde evitar que los enemigos\nse movieran?...
+Tenemos que savar\na Ion y a Natalia.
+Tenemos que encontrar\na Ion y a Natalia.
+Tenemos que savar\na Ion y a Natalia.
+Vamos a salvar\na Ion y a Natalia.
+¡Tenemos que salvar a Ion!<PAGE>\nOh, y también a Natalia.
+Es peligroso quedarse aquí.\nVamos a fuera.
+Deberíamos salir de aquí rápido.\nEs posible que envíen tropas a por nosotros.
+Ya no tenemos por qué estar aquí.\nSalgamos de este lugar.
+Hemos cumplido nuestro objetivo.\nNo hay razón para permanecer aquí.\nVamos.
+¡Si no nos damos prisa, los soldados\nque hayan oído todo este alboroto\nvendrán a por nosotros!
+No debemos quedarnos aquí mucho más.\nSalgamos rápido.
+Esta puerta no se abre...\nParece que está cerrada.
+¿Qué vamos a hacer?\nPuede que Natalia esté ahí dentro.
+Creo que he visto esto antes...
+Puede que Ion y Natalia estén en\nel interior de esa habitación.
+Me pregunto si Ion y Natalia \nestán dentro de esa habitación.
+Puede que Ion y Natalia estén en\nel interior de esa habitación.
+¿Estarán en\nesa habitación?
+Puede que Ion y Natalia estén en\nel interior de esa habitación.
+Me pregunto si Natalia está ahí..
+Quizá Natalia esté ahí...
+Tendremos que buscar\npor todo el lugar...
+Me pregunto si ésa es la\npuerta que buscamos...
+Tendremos que buscar\npor todo el lugar...
+Es posible que Ion y \nNatalia estén en esa habitación.
+Me pregunto si Ion y Natalia \nestán dentro de esa habitación.
+Es probable que Ion y Natalia\nestén en esa habitación.
+¿Estarán en\nesa habitación?
+Es posible que Ion y \nNatalia estén en esa habitación.
+Comprobar la habitación\nSeguir echando un vistazo

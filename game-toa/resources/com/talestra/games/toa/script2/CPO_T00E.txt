@@ -1,0 +1,858 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Este almacén contiene bienes\nque deben ser enviados a Daath.
+La entrada es sólo para\npersonal autorizado.
+He oído que el puente de Rotelro\nentre Chesedonia y Engeve todavía\nno se ha reparado.
+Era la manera más rápida de\nllegar de una ciudad a otra...
+Con los transbordadores parados,\nno hay nada que hacer con todos\nlos bienes almacenados aquí.
+Parece que a los peregrinos\ntambién les causa problemas.
+Parece que algunos de los transbordadores\nvuelven a estar en funcionamiento.
+Aunque no creo que les sea de\nmucha ayuda a los peregrinos...
+Este almacén contiene bienes\nque deben ser enviados a Daath.
+La entrada es sólo para\npersonal autorizado.
+Intenté escapar del miasma\nentrando en el almacén, pero\ndio lo mismo...
+Pero no parece tener efectos\ninmediatos, así que no me\npreocupa demasiado.
+Aquí no hay nada.
+Me pregunto si la catedral\nes más divertida.
+¿Conoces el puente\nde Rotelro?<PAGE>\nEstaba cerca de un\nlugar llamado Chesedonia,\npero alguien lo destruyó.
+Me pregunto cómo es posible\nromper un puente tan largo...
+Justo cuando terminé el peregrinaje, \ndetuvieron los transbordadores. Así que\nahora no puedo volver a casa...
+Quizá vuelva a la catedral, y haga \nque me lean la Partitura de nuevo.
+Los transbordadores han vuelto,\njusto como dijo la Partitura.
+Pero sólo van\nhasta Keterburg...
+La Partitura se ha ido, ¿verdad?
+Aunque supongo que\nya me he acostumbrado.
+¡Hey, el mundo entero es morado!
+Pero dicen que no es bueno\npensar demasiado en ello.
+Por fin he llegado a Padamiya.\nEs hora de empezar mi peregrinaje.
+Comienza en el trigésimo tercer\nmonumento de ahí, y termina en el\nprimer monumento, en la catedral.
+¿Ese barco gigantesco de ahí es tuyo? \nSeguro que ya lo sabes, pero mantén el \nmapa a la vista cuando navegues<PAGE>\nSi vas a ir a Gran Chokmah,\nhay dos maneras de llegar.
+Puedes dirigirte al norte, hasta la \ncosta sur del continente de Silvana, \ne ir hacia el este desde ahí...<PAGE>\nO dirigirte al oeste hasta que llegues\na Rúgnica, y seguir la costa hacia el\nnorte hasta Gran Chokmah.
+¿En serio se están empezando a\ncaer partes de los continentes?\nDicen que por eso los transbordadores\nestán parados.
+Mejor será que me lean la Partitura\npara saber qué hacer ahora.
+Los transbordadores vuelven a funcionar,\npero ninguno va hacia Rúgnica.
+Me pregunto si realmente han\ncaído Engeve y San Binah...
+Estaba preocupado cuando Chesedonia\ncayó, pero nunca hubiera imaginado que\nel mundo entero iría detrás.
+Será mejor que me acostumbre\na vivir sin la Partitura...
+¿Qué pasa con este miasma?
+Ni siquiera tengo ganas\nde ir a Daath...
+Buenos días.\nSi tienes intención de ir a la catedral,\npor favor sigue este camino.
+Si sigues el camino hacia el sureste,\ncruzarás un puente y una colina antes\nde llegar a Daath.
+Buenos días.\n¿Éste es el fin de tu peregrinaje?\nPor favor, vuelve algún día.
+Si vas a embarcar, deberías \nhacerlo desde ese muelle..<PAGE>\nPero me pregunto a quién pertenecerá el \nbarco gigantesco que está ahí anclado...
+Ésta es la bahía de Daath.\nNo obstante, los transbordadores\nno están funcionando en este momento.
+Todavía no tenemos fecha para el\nrestablecimiento del servicio.\nQuizá debieras regresar a Daath.
+Ésta es la bahía de Daath.\nAlgunos de los transbordadores\nvuelven a funcionar.
+No obstante, sólo van\nhacia Keterburg...
+Ésta es la bahía de Daath.
+Por favor, sé consciente de\nque la Partitura no será leída\nni siquiera en Daath.
+A pesar del miasma, la\nPartitura no será leída.
+La Orden de Lorelei está \nsiendo reformada.
+¡Guarf!
+¡Guarf, guarf!
+Sería mejor ir a rescatar \na Natalia e Ion.
+Debemos rescatar a \nNatalia e Ion.
+No creo que tengamos tiempo\npara hacer viajecitos.
+¡Debemos salvar a Ion!
+Mejor será que liberemos\na Natalia e Ion.
+Debo estar soñando...\nOh, estar libre de mi confinamiento...
+¿Partir?\nSí\nNo
+¿Partir?\nSí\nNo
+No hay transbordadores que\nvayan a partir próximamente.
+Es demasiado peligroso viajar\ncon el mundo cayéndose.<PAGE>\nEspera hasta que las cosas se calmen.
+Partir
+<SPEECH*>El Emperador está en la capital, Gran Chokmah.\n¿Dónde queda eso desde aquí?
+<SPEECH*>Um, al noroeste, creo.
+<SPEECH*>¿Gran Chokmah no se convierte en\nuna fortaleza durante la guerra?...\n¿Estará abierto el puerto?
+<SPEECH*>Estás bien informado.\nEso es correcto.
+<SPEECH*>Pero la guerra no ha empezado aún.
+<SPEECH*>Aun así, supongo que han bloqueado\nlas rutas de invasión para\nprepararse para un ataque.
+<SPEECH*>¿Pero no te dejarán entrar, Jade?
+<SPEECH*>Ahora mismo, mencionar mi nombre seguramente\ntendría el efecto contrario.
+<SPEECH*>Todos mis hombres están muertos y he estado\ndesparecido desde lo de Akzeriuth. Y ahora aparezco\nen una nave que se suponía que estaba capturada.
+<SPEECH*>No me extrañaría que abrieran\nfuego contra nosotros.
+<SPEECH*>¿Por qué no atracamos en algún sitio\ny vamos por tierra? Si nos acercamos\nsin armas, entonces puede que...
+<SPEECH*>Aún están reparando el puente de Rotelro.\nDeberíamos poder bajar allí.
+<SPEECH*>Parece la mejor opción.
+<SPEECH*>Decidido, entonces.\nVamos al puente de Rotelro.
+<SPEECH*>*Suspiro* Hay que andar...
+¿Has oído lo que está pasando\nalrededor de San Binah?
+Dicen que el suelo se está hundiendo.\nTiene que dar bastante miedo, si es verdad.
+<SPEECH*>¡Aaah!
+<SPEECH*>¿Se va a hundir?
+<SPEECH*>Voy a echar un vistazo.
+<SPEECH*>Yo también voy.\nQuizá pueda ayudar si hay que\narreglar alguna máquina fónica.
+<SPEECH*>Amo, yo no sé nadar...
+<SPEECH*>Lo sé... No te preocupes.\nNo nos vamos a hundir.
+<SPEECH*>Guy ha podido arreglar\nel motor. Aún deberíamos\npoder movernos.
+<SPEECH*>Es sólo temporal. \nQuisiera que lo repararan\nen algún puerto.
+<SPEECH*>El puerto más cercano \nes el de Keterburg.
+<SPEECH*>Entonces vamos allí.\nTe parece bien, ¿verdad, Jade?
+<SPEECH*>Supongo...
+<SPEECH*>Discúlpenme. Debo ver sus pasaportes\ny el registro del barco.
+<SPEECH*>Soy el coronel Jade Curtiss,  Tercera\nDivisión de las Fuerzas Imperiales de Malkuth.
+<SPEECH*>L-Lo siento.\nPero oí que le mataron en Akzeriuth...
+<SPEECH*>Esa misión es alto secreto. Se lo explicaré\na la gobernante, la vizcondesa Osborne.\nPuedes inspeccionar el barco tanto como quieras.
+<SPEECH*>Sí, señor.\n¿Quiere que le guíe hasta la ciudad?
+<SPEECH*>No será necesario.\nYo nací aquí.\nConozco esta zona.
+<SPEECH*>Entendido.\nEntonces, con su permiso.
+<SPEECH*>Eh, ¿así que naciste aquí, Jade?
+<SPEECH*>¿Pero por qué te vas a molestar\nen ver a la gobernadora?
+<SPEECH*>Porque quizá hubieran\ninsistido en interrogarnos.
+<SPEECH*>No quería desviarme así,\npero ya que estamos aquí,\ndebo demostrar quién soy.
+<SPEECH*>Lo siento...\nTan sólo quería echar un vistazo.
+<SPEECH*>*Suspiro*
+<SPEECH*>Discúlpenme. Debo ver sus pasaportes\ny el registro del barco.
+<SPEECH*>Soy el coronel Jade Curtiss,  Tercera\nDivisión de las Fuerzas Imperiales de Malkuth.
+<SPEECH*>L-Lo siento.\nPero oí que le mataron en Akzeriuth...
+<SPEECH*>Este asunto es alto secreto. El motor\nde nuestra nave se averió durante una\nmisión, así que tuvimos que parar aquí.
+<SPEECH*>Le explicaré al situación a la gobernadora,\nla vizcondesa Osborne. Puedes inspeccionar\nel barco tanto como quieras.
+<SPEECH*>Sí, señor.\n¿Quiere que le guíe hasta la ciudad?
+<SPEECH*>No será necesario.\nYo nací aquí.\nConozco esta zona.
+<SPEECH*>Entendido.\nEntonces, con su permiso.
+<SPEECH*>Eh, ¿así que naciste aquí, Jade?
+<SPEECH*>Sí...
+<SPEECH*>¿Cómo lo vamos a reparar?
+<SPEECH*>Podemos informar a la gobernadora\ny pedirle ayuda.
+<SPEECH*>Vale, pues vayamos rápido a Keterburg.
+<SPEECH*>¡¿Jade?!...\n¡Oh, mi hermano está vivo!
+<SPEECH*>¡¿"Hermano"?! \n¡¿En serio?!
+<SPEECH*>Hola, Nephry. Cuanto tiempo, ¿no?\nDesde tu boda, creo.
+<SPEECH*>¡¿Pero qué ha pasado?!\nDijeron que habías muerto en Akzeriuth...
+<SPEECH*>Bueno, lo que pasó es...
+<SPEECH*>Es increíble...\nMe alegro de que estés a salvo.
+<SPEECH*>Nosotros examinaremos el Tartarus. \nCuando estéis listos, por favor,\nid a ver al emperador Peony.
+<SPEECH*>Estaba muy preocupado.
+<SPEECH*>¿Oh? \n¿Todos pensabais que estaba muerto?
+<SPEECH*>Su Majestad era el único\nque creía que aún\nseguías con vida.
+<SPEECH*>Los demás también, por favor,\nesperad un poco mientras\npreparamos vuestro barco.
+<SPEECH*>Ésta es una ciudad turística, así\nque creo que estaréis a salvo aquí.
+Seguro que mi hermano os causa problemas. \nNo es el ser humano más agradable.
+No pensé que mi hermano fuera\na pisar esta ciudad.
+<SPEECH*>Reservaré una habitación en el\nhotel. Descansad, por favor.
+<SPEECH*>Si no te importa, me gustaría hablar contigo.\nPor favor, vuelve más tarde, solo.
+Passage block 18-01
+Passage block 18-02
+<SPEECH*>¡Guau, que mansión! @\n¡Me quiero casar con quien viva aquí! @
+<SPEECH*>Estoy segura de que aún está soltero, \naunque ya ronda los treinta.
+<SPEECH*>¿Qué? ¡No me digas que es tu\ncasa, Coronel! Si lo es, voy a ir\ntirando para prepararla por ti. @
+<SPEECH*>Aunque lo fuera, me temo\nque declinaría la oferta.
+<SPEECH*>Pero quizá el dueño de verdad\nsí que la aceptaría. Le gustan\ntodas las mujeres que ve.
+<SPEECH*>¿Quién es?
+<SPEECH*>Su Majestad Imperial, Peony.
+<SPEECH*>¡Genial! ~ \n¡Mi marido estará forrado! @
+<SPEECH*>¿El Emperador no nació en la capital?
+<SPEECH*>Si no me equivoco, lo sacaron de la\ncapital cuando era pequeño durante\nuna lucha por la sucesión.
+<SPEECH*>Sí, exacto.\nEsta mansión es de aquella época.
+En esta ciudad nacieron dos genios.
+Un experto en fonotecnología, el doctor\nNeis, y un maestro de las artes\nfónicas, el doctor Jade Balfour.
+El doctor Neis es ahora uno de\nlos Seis Generales de Élite.
+Se dice que el doctor Balfour se\nunió a una familia militar.
+¿Sabías que Su Majestad Imperial pasó\nsu infancia en esta ciudad?
+Parece ser una persona llamada doctora\nNebilim vivió en esta ciudad hace tiempo.
+Corre el rumor de que fue asesinada por\nel doctor Balfour y el doctor Neis.
+Pero claro, dicen que la verdad\nes que murió en un incendio.
+<SPEECH*>La gobernadora ya nos ha avisado.\nPor favor, poneos cómodos.
+<SPEECH*>Oh, me he dejado algo en casa de Nephry.\nVoy un momento a buscarlo.
+<SPEECH*>¿Quieres que vaya contigo?
+<SPEECH*>Nephry es una mujer, ¿recuerdas?
+<SPEECH*>Oh, a mí me encanta MIRAR a las mujeres guapas.
+<SPEECH*>Guy es un auténtico... tío...
+<SPEECH*>Ella es mayor que tú y\nestá casada, ya lo sabes.
+<SPEECH*>E-Espera, tranquila,\nno quería decirlo así...
+<SPEECH*>Amo, yo también iré con usted.
+<SPEECH*>¡Gaaah, callaos todos ya!\n¡No necesito que nadie me acompañe!
+<SPEECH*>Lo siento. Cuando oí que eras una\nréplica, pensé que debía contarte\nalgo sobre mi hermano.
+<SPEECH*>¿De qué estás hablando?
+<SPEECH*>La razón por la cual Jade creó la fomicría...
+<SPEECH*>Incluso ahora recuerdo ese día. \nYo fui descuidada y rompí\nmi muñeca favorita.<PAGE>\n<SPEECH*>Mi hermano desarrolló la base para\nla fomicría y la usó para crear una\ncopia de mi muñeca... una réplica.
+<SPEECH*>Él tenía nueve años.
+<SPEECH*>Increíble...
+<SPEECH*>Normalmente, uno tan solo\ncompraría otra muñeca, pero\nmi hermano hizo una copia.
+<SPEECH*>Sentí que algo era anormal\nen su manera de pensar.
+<SPEECH*>"Anormal"... \nTampoco tienes por qué expresarlo\nde esa manera...
+<SPEECH*>Ahora actúa con amabilidad, pero de niño\nmi hermano era terrible. Un demonio.
+<SPEECH*>Usaba artes fónicas que los adultos\nencontraban complicadas. Incluso\ndisfrutaba matando monstruos indefensos.
+<SPEECH*>Mi hermano no entendía lo que significaba\npara los seres vivos el morir.
+<SPEECH*>No me parece que él sea de esa manera...
+<SPEECH*>Fue la profesora Nebilim quien\nle hizo cambiar. Ella era una\nsanadora, una séptima fonista.
+<SPEECH*>Jade no puede usar el séptimo\nfonón, así que la admiraba.\nPero ocurrió una tragedia.
+<SPEECH*>Intentó utilizar el séptimo fonón \ny acabó desatando un arte fónico\nque no pudo controlar.
+<SPEECH*>El arte fónico de Jade mató\na la profesora Nebilim, y\nprendió fuego al edificio.
+<SPEECH*>¡¿La mató?!
+<SPEECH*>Aún estaba con vida,\ntumbada allí. Mi hermano\nla miró y tuvo una idea.
+<SPEECH*>Aún quedaba tiempo para hacer una réplica.\nPodía salvar a la profesora Nebilim.
+¡¡!!
+<SPEECH*>Jade extrajo su información\ny creó una réplica.
+<SPEECH*>Pero la réplica que nació\nno era más que un monstruo.
+<SPEECH*>¿Qué pasó con la Nebilim real?
+<SPEECH*>Falleció.
+<SPEECH*>Después de eso, reconocieron el talento\nde mi hermano y le adoptaron en la\nfamosa familia militar Curtiss.
+<SPEECH*>Creo que él quería un entorno \nmejor para estudiar cómo traer\nde vuelta a la profesora.
+<SPEECH*>Pero ha dejado de replicar\nseres vivos. ¿Por qué?
+<SPEECH*>Eso es gracias al emperador Peony. \nEsos dos son uña y carne.
+<SPEECH*>Ya veo...
+<SPEECH*>Pero, la verdad... en el fondo creo\nque mi hermano aún quiere resucitar\na la profesora Nebilim.
+<SPEECH*>No creo que ése sea el caso.
+<SPEECH*>Sí, quizá sea sólo un miedo infundado.
+<SPEECH*>Pero aun así quería que lo\nsupieras, para que pudieras\nayudarle a controlarse.
+<SPEECH*>Siento haberte robado\ntanto tiempo.\nGracias por escuchar.
+<SPEECH*>Supongo que Nephry te lo ha contado.
+<SPEECH*>¿Contarme qué?
+<SPEECH*>Eres un niño malo,\nmintiendo así.
+<SPEECH*>¿Cómo lo has sabido?
+<SPEECH*>Eso da igual. Pero diré, para\nque conste, que ya no deseo\nresucitar a la profesora.
+<SPEECH*>¿De verdad? ¿Estás seguro?
+<SPEECH*>Tú, más que nadie,\ndeberías saber la razón.
+<SPEECH*>Deseo rogarle a la profesora Nebilim que\nme perdone... Quizá así me sintiera mejor.
+<SPEECH*>Pero las réplicas no tienen recuerdos del\npasado. Una réplica no puede perdonarme.
+<SPEECH*>Jade...
+<SPEECH*>Viviré el resto de mi vida atormentado\npor los pecados de mi pasado.
+<SPEECH*>¿"Pecados"?\n¿Te refieres a lo de matar a Nebilim?
+<SPEECH*>Mmm... Quizá mi mayor pecado\nfue no entender el significado\nde la vida, y de la muerte.
+<SPEECH*>Si yo tuviera la habilidad para hacer\nréplicas... creo que hubiera actuado\nigual que tú.
+<SPEECH*>Ja ja.\n¿Estás intentando animarme?
+<SPEECH*>Creo que te has confundido\nun poco... pero igualmente,\nte lo agradezco.
+<SPEECH*>En cualquier caso, no debes contárselo a nadie.\n¿Entendido?
+<SPEECH*>De acuerdo...
+<SPEECH*>Prometido.
+La inspección del Tartarus ha terminado.\nPuedes partir cuando desees.
+La inspección del Tartarus ha terminado.\nTen cuidado, por favor.
+<SPEECH*>¡¿Quiénes sois?!
+<SPEECH*>Soy el coronel Jade Curtiss, comandante de la\nTercera División de las Fuerzas Imperiales de Malkuth.
+<SPEECH*>¡¿El coronel Curtiss?! Oímos que\ndespareciste en la destrucción\nde Akzeriuth...
+<SPEECH*>La vizcondesa Osborne de Keterburg dará\nfe de mi identidad. Quiero una audiencia\ncon Su Majestad Imperial.
+<SPEECH*>Bueno, a TI podemos dejarte\npasar, Coronel, pero...
+<SPEECH*>¡¿Quéééé?! ¡Él es Ion, Maestro Fónico\nde la Orden de Lorelei!
+<SPEECH*>¡Venga! \n¡Puedes dejarnos pasar!
+<SPEECH*>No, aun así podría ser una trampa. \nAunque seáis de Daath, \nestamos obligados a negarnos.
+<SPEECH*>Por favor, esperad aquí. Cuando haya\nvisto a Su Majestad, os dejarán\npasar inmediatamente.
+<SPEECH*>Así que nos quedamos aquí colgados. Bueno. \nSupongo que no se puede evitar.
+<SPEECH*>Tch...
+<SPEECH*>Te escoltaremos.
+<SPEECH*>¿Cuánto más va a tardar?
+<SPEECH*>Sí, la espera es muy dura.
+<SPEECH*>¡¿Qué ha sido eso?!
+<SPEECH*>Un grito...
+<SPEECH*>¡Vamos!
+<SPEECH*>¡Aguanta!
+<SPEECH*>Ésos eran soldados del Oráculo.\nMaldita sea.
+<SPEECH*>¡¿Del Oráculo?!\n¿Podría estar Van implicado?
+<SPEECH*>¿Qué intentará hacer\nen Gran Chokmah?
+<SPEECH*>Quizá esté tratando de destruir\nun árbol de sephiroth.
+<SPEECH*>No, no debería de haber ningún\nsephiroth en esta zona.
+<SPEECH*>¡No vamos a llegar a nada\nquedándonos aquí hablado! \n¡Vamos a por ellos!
+<SPEECH*>Sí. ¡No podemos permitir este\ntipo de violencia gratuita!
+<SPEECH*>¡Esperad! \nSi entramos sin permiso y los soldados\nde Malkuth nos encuentran...
+<SPEECH*>Tendremos que escondernos.\nLo último que queremos es\nuna lucha contra Malkuth.
+<SPEECH*>Escondite, ¿eh? \nIon, por favor, no lo estropees todo.
+<SPEECH*>Oh... ¡de acuerdo!
+<SPEECH*>Todos habéis decidido ir...\n*Suspiro*
+<SPEECH*>Estamos casi en la salida. \n¿Los soldados del Oráculo han\nentrado ya en la ciudad?
+<SPEECH*>¡Hay un soldado de Malkuth en el suelo!
+<SPEECH*>¡No está mal para ser una princesa!
+<SPEECH*>Tú eres el que vimos en el desierto.\n¡Eres Largo!
+<SPEECH*>¡Así que tú eres el intruso!\n¡¿Qué estás haciendo en Gran Chokmah?!
+<SPEECH*>Deberías fijarte en algo más que\nen lo que tienes delante, chico.
+<SPEECH*>¿Qué?
+<SPEECH*>¡¿Guy?!
+<SPEECH*>¡Uah, uah, ¿qué está pasando?!
+<SPEECH*>¡Oh, no! ¡La Ranura Maldita!\n¡Sync debe estar cerca!
+<SPEECH*>¡No os olvidéis de mí!
+<SPEECH*>¡Oh, de eso nada!
+<SPEECH*>¡Ja ja ja ja ja!\n¡No está mal, Princesa!
+<SPEECH*>¡Aah! ¡Otro terremoto!
+<SPEECH*>¡Natalia, allí arriba!
+<SPEECH*>El terremoto me ha delatado...
+<SPEECH*>¡¿Vais tras Ion o a por algo más?!
+<SPEECH*>¿Quién os da órdenes? \n¿El gran maestro Mohs?\n¿El Comandante?
+<SPEECH*>No importa quien sea, es lo mismo.\nNecesitamos al maestro fónico Ion.
+<SPEECH*>Pensábamos que había muerto junto\ncon Akzeriuth, pero supongo que\nél es más duro que el pueblo.
+<SPEECH*>¡Cómo te atreves a hablar tan desvergonzadamente!\n¡Vosotros destruisteis una ciudad entera!
+<SPEECH*>No nos acuses a nosotros.\nEl que destruyó Akzeriuth \nfue esa réplica de ahí.
+<SPEECH*>¡¿Qué pasa aquí?!
+<SPEECH*>¡Largo, nos retiramos por ahora!
+<SPEECH*>Supongo que no tenemos elección...
+<SPEECH*>¡¿Quién demonios sois vosotros?!
+<SPEECH*>Vimos a unos sospechosos mientras\nesperábamos al Coronel Curtiss.\nLos perseguimos hasta aquí.
+<SPEECH*>¿Te refieres a los\nque acaban de huir?
+<SPEECH*>Son soldados de los Caballeros del Oráculo.\nHan herido a uno de nuestros compañeros.
+<SPEECH*>Pero vosotros también tenéis Caballeros\ndel Oráculo en el grupo. \nArrestadlos.
+<SPEECH*>Supongo que no nos deberíamos resistir...
+<SPEECH*>Por supuesto que no.
+Hay un soldado vigilando el camino...
+Tendremos que distraerlo\npara pasar.
+¿Distraerlo? ¿Cómo?\n¿Te refieres a hacer\nruido o algo?
+Mmm...\n¿Qué tal si sacudimos los\nárboles o algo parecido?
+Y lo más importante, Luke,\n¿sabes por donde ir?
+Um... mmm...
+Está al noroeste de aquí. Gran\nChokmah está justo al otro lado.
+Tenemos que hacer ruido\npara atraer su atención.\nIntentémoslo golpeando el árbol.
+Tenemos que hacer ruido\npara atraer su atención. \nPodríamos probar agitando un árbol.
+Tenemos que hacer ruido\npara atraer su atención. \n¿Quieres probar agitando un árbol?
+Tenemos que hacer ruido\npara atraer su atención.\nProbemos agitando un árbol.
+Tenemos que hacer que salga con algún\nsonido. ¿Qué tal si agitamos un árbol?
+Hacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego...
+Hacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego...\n¿Hay alguna manera de pasar?
+Ya veo...\nHacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego... ¿no?
+Hacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego... ¿no?
+Hacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego... ¿correcto?
+Cuando corremos por un charco,\noyen el ruido y nos pillan.
+Lo mejor es evitar pisar los charcos.
+Parece que el sonido al correr\npor un charco nos delata.
+El sonido al correr por\nun charco nos delata...
+Lo mejor es evitar pisar los charcos.
+Ahí había una bestia.\n¿Esa cosa también hace de guardia?...
+Probablemente. Pero los animales\nson débiles al fuego...<PAGE>\nPiensa, Luke.
+Cuando hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Si hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Cuando hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Cuando hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Si hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Paremos y descansemos en Engeve.
+Paremos y descansemos en Engeve.
+Tenemos que ir al Bosque de los Cheagles.
+El Bosque de los Cheagles está más al norte.
+Primero tenemos que reunirnos con Anise.
+Reunámonos primero con Anise.
+Sería mejor que encontrásemos a Anise primero.
+Primero reunámonos con Anise.
+Volvamos a Kimlasca ahora.
+No tenemos tiempo para\nvagar por ahí.
+Hey, por aquí no se va a Kimlasca.
+Nuestro objetivo es ir a Kimlasca.
+Podemos ir a Baticul en transbordador.
+No es que quiera, pero vayamos\nal Castillo de Coral.
+Corramos al Castillo de Coral.
+Dejemos de hacer el tonto aquí\ny vayamos al Castillo de Coral.
+El Castillo de Coral está al sur de aquí.\nVamos.
+Si me preguntas, deberíamos ir\nrápido al Castillo de Coral...
+Démonos prisa y vayamos a Akzeriuth.
+Corramos a Akzeriuth.
+¿No tenemos que ir\nrápidamente a Akzeriuth?
+Corramos a Akzeriuth.
+No tenemos necesidad de venir aquí.\nTenemos que ir a Akzeriuth.
+No queda tiempo. Debemos\nir rápido a Akzeriuth.
+Descansemos en el hotel hasta que\nel Tartarus esté listo para partir.
+Descansemos en el hotel hasta que el\nmantenimiento del Tartarus esté acabado.
+Deberíamos descansar en el hotel\nmientras arreglan el Tartarus.
+Hasta que acaben de reparar el Tartarus,\nvayamos a descansar un poco al hotel.
+¡Venga, vamos a descansar al hotel!
+Descansemos en el hotel hasta\nque sea hora de partir.
+Tengo que ir a ver qué quería Nephry.
+Tenemos que ir a Belkend para\nobtener información de Van.
+Esto no es Belkend.\nVolvamos.
+Vamos a Belkend.\nHay algo que quiero investigar.
+Nos dirigimos a Belkend, ¿no?
+Primero vayamos a Belkend,\ncomo sugirió Asch.
+Ahora nos vamos a la caverna de Ortion.
+La caverna de Ortion es nuestro destino,\n¿correcto? En marcha...
+Démonos prisa en ir a la caverna\nde Ortion y encarguémonos de esto.
+La caverna de Ortion está en el territorio\nde Kimlasca, en el continente radessiano.
+Bien, ¿nos vamos ya\na Gran Chokmah?
+Sí. Tenemos que informar al Emperador\ntan rápido como podamos sobre el\npeligro de que caiga San Binah.
+Sí. Primero démonos prisa y\nvayamos al puente de Rotelro.
+*Suspiro* Y luego caminar desde allí...\nCoronel ~ si me canso, llévame\nen tu espalada, ¿vale? @
+Me temo que no. Será la edad, pero\nme duelen las articulaciones, ya ves.
+Para llegar a Gran Chokmah, tenemos\nque ir al nordeste desde el puente\ny luego atravesar el Bosque de Theor.
+Es un viaje duro para un viejo como yo.\nVosotros, los jóvenes, tendréis que\nprotegerme y abrirme el camino. @
+Um... sí...
+No hay tiempo que perder.\n¡Vamos chicos!
+Gracias por tu ayuda, Nephry.
+Ten cuidado.
+Hermano, saluda a Su\nMajestad de mi parte.
+Gracias.
+¿Qué es este monumento?
+Es un monumento de peregrinaje. Las\nenseñanzas de la Orden de Lorelei\nestán inscritas en él.
+Hay 33 por toda\nPadamiya,<PAGE>\ny visitarlos todos por orden,\nempezando por el último, se llama\nel peregrinaje del monumento.
+Ahh. \n¿Vosotros lo habéis hecho?
+Yo sí, una vez, cuando vine a\nDaath por asuntos de estado.
+Yo acompañé a la señora Susanne \ncuando fue a rezar por su salud.
+¿Y tú qué, Jade?
+Yo también.
+¡¿En serio?! \n¡Nunca creí que fueras un\ncreyente devoto, Coronel!
+La familia Curtiss está formada por\ncreyentes devotos. Después de que me\nadoptaran, me enviaron de peregrinaje\nvarias veces.
+Así que soy el único\nque no lo ha hecho, eh...
+¿Y qué tal si lo haces ahora?<PAGE>\nTienes a dos miembros de la Orden\nde Lorelei contigo... cualquiera de\nlos dos podría hacerte de guía.
+Pero un peregrinaje completo\nlleva muchísimo tiempo, ya sabes.
+Pero el peregrinaje del principiante,\nel de los cinco grandes monumentos,\nllevaría poco tiempo.
+Oh, sí.
+¿Qué te parece?
+Mmm...
+Lo intentaré.
+Oh, esto es inusual.\nY bien, ¿quién irá contigo?
+Se lo pediré a Tear.
+Yo crecí en el Qliphoth, así\nque no estoy muy familiarizada\ncon esto, pero está bien.
+Grr. Es por la diferencia en\nel tamaño de los pechos, ¿no?...
+Creo que es la diferencia de amor.
+¡Que te calles!
+Se lo pediré a Anise.
+¡Yo me encargo! ¡Te haré el tour\nde monumentos más divertido\nque hayas tenido en tu vida!
+¿Eh?...\nNunca esperé que\nescogiera a Anise.
+Qué sorpresa.
+¿Por qué? \nCreo que Anise sabe más del\ntema que yo. Creo que es\nla decisión correcta.
+Ya sabes, Tear, hacerse la\ncelosa a veces es una manera\nde seguir con el juego.
+¿D-De qué estás hablando?
+Yo tampoco lo entiendo.\nVamos.
+*Suspiro* \nEstoy cuidando a un grupo de críos.
+Nah, da igual.\nParece un rollo.
+Bueno, como estamos intentando librarnos\nde la Partitura, hacer un antiguo peregrinaje\nsería algo raro.
+Sí. Estoy seguro de que la Orden de\nLorelei poco a poco se convertirá en\nuna religión diferente, con el tiempo.
+¿Con quién visitarás los monumentos?\nTear\nAnise\nNo iré
+Primero empezaremos por el monumento 33.
+Este es el monumento 33. \nSe le conoce como\n"monumento del inicio".
+Eso es ispaniense antiguo, ¿eh?
+Sí. Te lo leeré.
+Al principio estaba el vacío.\nEl vacío era el mundo y\nla vida misma.<PAGE>\nEl vacío engendró el sonido,\ny el sonido dividió.<PAGE>\nAsí, el mundo se dividió entre la\nantigua tierra prometida y \nel recuerdo del vacío.
+Me parece que eso ya lo he oído antes...
+El es prólogo de la\nPartitura. Quizá lo\nhayas oído de tu tutor.
+¿Y qué significa?
+Describe el momento en que nacieron\nel mundo y la Partitura. \nEl principio de la creación.
+¿Se lo han inventado?
+Para la Orden, esto es verdad.
+Ya veo.
+¿Es esto?
+Sí, el monumento 27.
+Al séptimo día de su nacimiento, su\nhija, Yulia, se puso en pie y\ncaminó sobre sus piernas.<PAGE>\nCuando dio el séptimo paso,\nescuchó la voz de Lorelei.<PAGE>\nEn ese momento, el recuerdo del\nvacío volvió al mundo de los hombres.
+¡¿Siete días después de nacer?! \n¡Anda ya!
+Sí, bueno, normalmente es imposible.<PAGE>\nY, según las historias que se han\ntransmitido, Yulia no leyó la\nPartitura hasta que fue más mayor.
+¿Entonces es mentira?
+Puede que sea verdad.\nNo se puede saber.
+Aquí está el monumento 18.
+Sí. Te lo leeré.
+Lorelei le dio a Yulia la llave para\nleer la memoria del vacío. La llave\nle dio a Yulia el poder de Lorelei.<PAGE>\nYulia leyó la Partitura en siete partes.
+Eso son las Siete Piedras Fónicas, ¿verdad?
+Sí... El nacimiento de la Partitura que\nha llevado al mundo a ser lo que es.
+Ya veo. Estos monumentos\nexplican el nacimiento de\nla Orden de Lorelei, ¿eh?
+Sí. Mezcla hechos históricos\ny leyenda. Pero...
+Para la gente que cree en la\nPartitura, todo es verdad
+Sí... Supongo que eso\nsignifica creer.
+Éste es el sexto monumento, ¿eh?\nLéelo para mí, Tear.
+Tu traición la predijo\nla Partitura...<PAGE>\nAsí que no te detendré. Daath\ntembló ante las palabras de Yulia.
+Oh, yo me sé este trozo. Es cuando\nDaath traiciona a Yulia.
+Sí, y Yulia es condenada\na muerte.<PAGE>\nPero al final, a Daath lo corroe\nla culpa y, después de rescatar a\nYulia, acabó con su propia vida.
+¿Y Yulia también sabía eso?...
+Quiero decir, ¿crees que debería haberlo\ndetenido si lo hubiera sabido?
+Sí...
+Según la leyenda,\nella lo sabía.<PAGE>\nPero no sabemos lo que realmente pasó.\nPuede que no lo supiera, o quizá lo\nsabía e intentó detenerle...
+...pero no pudo.\nSí, entiendo lo que dices.
+Éste es el último, ¿no?
+Sí. Lo que aquí pone es que\ndebemos vivir humildemente\ny acorde a la Partitura.<PAGE>\nSi visitas los 33 lugares,\nhay más detalles que los\nque hemos visto.
+Ya está bien. Este mundo va a\nsepararse de la Partitura.<PAGE>\nSi la Orden de Lorelei va a seguir\nexistiendo, supongo que se convertirá\nen una nueva religión...
+Sí. Espero que esta vez se convierta en una iglesia\nque no controle a la gente, sino que la ayude,\ntal y como quería el maestro fónico Ion.<PAGE>\nEso es lo que yo quiero...
+¿Qué tal tu primer peregrinaje?
+Muy educativo.
+Ja ja ja. No estoy acostumbrado\na oír eso de ti, Luke.
+¡Déjame tranquilo!
+Venga, primero, vamos al\nmonumento 33.
+Mira aquí. Este es el monumento\n33. Se le conoce como el\n"monumento del inicio".
+Oh. ¿Mmm?...\nEs ispaniense antiguo.
+Exacto. En estos monumentos\nestá inscrita la historia del\nmundo en ispaniense antiguo,<PAGE>\ndesde el amanecer de la creación hasta\nel nacimiento de la Orden de Lorelei.
+Al principio estaba el vacío.\nEl vacío era el mundo y\nla vida misma.<PAGE>\nEl vacío engendró el sonido,\ny el sonido dividió.<PAGE>\nAsí, el mundo se dividió entre la\nantigua tierra prometida y \nel recuerdo del vacío.
+Me parece que eso ya lo he oído antes...
+Es igual que el principio\nde la Partitura.<PAGE>\nBueno, como ves, este monumento\ndescribe la creación del mundo\ny representa el principio\ny el nacimiento...<PAGE>\nEs popular entre la gente joven\nque busca nuevos encuentros y\nlas parejas que quieren hijos.
+Ya veo...
+Quizá te ayude a encontrar novia, Luke.\n@ Puedes escogerme, si quieres.
+Tú sólo quieres mi dinero.
+¡Pues claro!
+Vale, vale... Venga,\nvamos al siguiente.
+¿Es esto?
+Sí. Lo que ves ante ti es el\nsegundo de los cinco granes\nmonumentos, el número 27.
+Al séptimo día de su nacimiento, su\nhija, Yulia, se puso en pie y\ncaminó sobre sus piernas.<PAGE>\nCuando dio el séptimo paso,\nescuchó la voz de Lorelei.<PAGE>\nEn ese momento, el recuerdo del\nvacío volvió al mundo de los hombres.
+¡¿Siete días después de nacer?! \n¡Anda ya!
+Luke, es una leyenda. Los famosos\nsiempre tienen leyendas.<PAGE>\nSi te conviertes en el próximo duque o\nrey, habrá gente que dirá que eres un\nhéroe con el poder de Lorelei y tal.
+Je, eres muy directa...
+Así, este monumento representa el\ncrecimiento y los logros. Éste es\npopular entre la gente joven<PAGE>\nque quiere entrar en las\nescuelas, o madres con\nniños pequeños.
+Puedes saltarte la lección.
+Luke, puede que seas estúpido e\nignorante en lo que se refiere al\nmundo, pero también puedes aprender.
+......
+Aquí está el monumento 18.
+Sí. Este monumento es popular\nentre los mercaderes, y es el\ntercero de los cinco grandes\nmonumentos del peregrinaje.
+Lorelei le dio a Yulia la llave para\nleer la memoria del vacío. La llave\nle dio a Yulia el poder de Lorelei.<PAGE>\nYulia leyó la Partitura en siete partes.
+Eso son las Siete Piedras Fónicas, ¿verdad?
+Sí... El nacimiento de la Partitura que\nha llevado al mundo a ser lo que es.<PAGE>\nA partir de ahora, empieza a hablar\nde la historia de la Orden.
+¿Pero por qué este monumento es\npopular entre los mercaderes?
+Es la parte sobre usar una herramienta\npara conseguir algo.<PAGE>\nPero claro, sólo les gusta porque\nes una bonita frase para que\nla gente compre cosas.
+Estás siendo muy tajante.
+No te preocupes.@ \nNo digo cosas así en los\nperegrinajes de verdad.
+Ésta es la sexta, ¿eh? \nLa cuarta del peregrinaje a\nlos cinco grandes monumentos...
+Exacto.\nEs el monumento del sacrificio.
+Tu traición la predijo\nla Partitura...<PAGE>\nAsí que no te detendré. Daath\ntembló ante las palabras de Yulia.
+Oh, yo me sé este trozo. \nEs cuando Daath traiciona a Yulia.
+Sí. La gente visita este monumento\nbuscando el perdón...<PAGE>\nPorque explica que Daath,\ncorroído por la culpa, se quitó\nla vida después de salvar a Yulia.<PAGE>\nYo soy igual que Daath.
+Anise...
+Pero yo no me voy a suicidar.\nSi haces algo malo, tienes que\nvivir y enmendar lo que has hecho.
+Sí, yo también lo creo... Quiero\nseguir haciendo todo lo que pueda\npara compensarlo mientras viva.
+¡Cuando la vida se ponga dura y\nte sientas mal, por favor, ven\na visitar este monumento! \nJe je.
+Ja ja...\nSí, lo haré.
+Éste es el último, ¿no?
+Sí. En éste dice que hay que\nvivir humildemente y\nacorde a la Partitura.<PAGE>\nSi hubiéramos ido a todos los otros,\nhubieras oído las enseñanzas con\nalgo más de detalle.
+Ya está bien. Este mundo va a\nsepararse de la Partitura.<PAGE>\nSi la Orden de Lorelei va a seguir\nexistiendo, supongo que se convertirá\nen una nueva religión...
+Sí. Quiero que se convierta en la religión\nque Ion quería, una que no controle a\nla gente, sino que la salve\ny la libere.<PAGE>\n¡Y yo me voy a asegurar\nde que eso pase!
+¿Qué tal tu primer peregrinaje?
+Mmm, no sé si he aprendido\nalgo o no...
+Ja ja ja. \n¿Y eso qué quiere decir?
+¡Buu! \n¡Mentira!
+Después de que te hemos escoltado desde\nel puerto, ¿nos dices que no nos puedes\npagar ni 10.000 míseros gald?
+¡No digas tonterías!\n¡Ya he pagado 5.000 gald!
+Eso era por adelantado.\n¡Ahora, danos todo lo que tengas!
+¡D-Devuélveme eso!\n¡Es todo el dinero que tengo!
+¡¿Qué creéis que estáis haciendo?!
+¿Qué? \nEstamos discutiendo algo\nimportante, señorita. \nNo te metas.
+Pero no podéis tratar a un\nhombre mayor de esa manera...
+¡Te he dicho que te calles!
+¡Cómo te atreves!
+¿Quieres pelea o qué?
+¿Qué pasa, Natalia?
+¡Hey, hay un soldado\nde Malkuth con ellos!
+¿Qué está haciendo en Kimlasca?
+Sería un estupidez enfrentarse\nal ejército. ¡Hora de irse!
+¡Para!
+¡No dejaré que escapéis! ¡Devolved lo\nque le habéis quitado a este hombre!
+Gracias. Parece que caí en la estafa\nde la escolta de esos antipáticos.<PAGE>\nEstoy en deuda con vosotros.
+En absoluto.\n¿Estás herido?
+No, gracias.<PAGE>\nPor cierto, ¿me equivoco\nsi digo que usas estilo \nLanvaldear con tu arco?
+Oh, me impresiona que lo hayas reconocido.
+Eso pensaba...\nParece que eres bastante hábil.
+Sí, he alcanzado el nivel experto.
+Eso creía...<PAGE>\nCuando era joven, fui instructor\ndel estilo Lanvaldear de tiro\ncon arco.<PAGE>\nSi te parece bien, como\nagradecimiento por ayudarme,<PAGE>\nme gustaría transmitirte mis artes.
+¡Oh! \n¿Estás seguro? \nNo quiero molestarte.
+Claro. En total, creé\ndos tipos de artes.<PAGE>\nHasta ahora, no he encontrado\na nadie capaz de usarlas y no\nhe podido transmitirlas,<PAGE>\npero quizá Lorelei nos ha\nbendecido con este encuentro.
+Ya veo. Sí, por favor. \nSerá un honor que\nme enseñes.
+Supongo que te llevará un tiempo\ntransmitirle tus artes. ¿Puedo\npreguntarte a dónde te dirigías?
+Iba a Daath.
+Entonces déjanos que te llevemos\nen el Tartarus. Puedes llevar a\ncabo el entrenamiento por el camino.
+No... Ya teníamos planes.
+¿Oh? \nEsto es por Natalia, Asch.
+Por favor, Asch...
+Grr... ¡Vale!
+Gracias, Asch.
+Soy Natalia. \n¿Cómo te llamas?
+Llámame Nick.
+Muy bien, maestro Nick. \nVayamos ya hacia Daath.
+Muchas gracias por\ntraerme hasta Daath.
+Soy yo quien debería estar\nagradecida. Muchas gracias\npor tus enseñanzas.
+Lo has hecho muy bien.\nEl arte arcano Descarga\ngalante ahora es tuyo.<PAGE>\nLo único que te queda es\ndominarlo con la experiencia.
+Natalia ha aprendido "Descarga galante".
+¡Bien! \nLo haré.
+El arte que queda,<PAGE>\nte lo enseñaré en\notra ocasión.
+Hasta entonces, mejoraré mis habilidades. \nGracias, Maestro.
+Ah, felicidades, Natalia. Mmm...\nVeo que has mejorado tus habilidades.
+¡Entonces...!
+Sí. Ha llegado la hora de\nenseñarte el siguiente arte.
+Entonces esperaremos aquí. \nBuena suerte, Natalia.
+Bien. Por nuestras futuras\nbatallas, juro aprender\neste poder.
+Me pregunto si le irá bien.
+Estoy seguro de que Natalia puede hacerlo.
+¿Qué pasa, Jade?
+Creo que he visto a ese hombre,\nNick, en algún sitio antes. \nPuede que sea...
+¿Mmm? \n¿Es peligroso?
+No... no creo que sea un\npeligro para Natalia, al menos...
+¿Qué quiere decir eso exactamente?
+Ya conoces al Coronel.\nNo contestará hasta\nque no esté seguro.<PAGE>\nBueno, vamos a encontrarnos con Natalia.
+¡Gracias!
+Lo has hecho muy bien.\nEl arte arcano Descarga\ngalante ahora es tuyo.<PAGE>\nLo único que te queda es\ndominarlo con la experiencia.
+¡Bien! \nLo haré.
+Natalia ha aprendido "Descarga galante".
+Te enseñaré el arte que\nqueda cuando hayas mejorado\ntus habilidades.
+Lo haré lo mejor que pueda.
+Bueno, debo volver a mi casa.\nA mi edad, este entrenamiento\nresulta muy cansado.
+¡Natalia! \n¡Lo has conseguido!
+Por cierto, Natalia...<PAGE>\n¿Te resulta familiar el general \nNicholas Steele, que sirvió\nen el ejército de Kimlasca?
+¿El general Steele? \n¿Te refieres al general ciego Steele?
+¿Quién es ese?
+Un héroe de Kimlasca que devastó\nel ejército de Malktuh en la\nbatalla de Rotelro.
+Sí. En esa batalla, Malkuth usó\nartes fónicas para causar un\ndestello cegador y se retiró.<PAGE>\nTengo entendido que el general Steele \nperdió la vista en ese incidente\ny se retiró del ejército.
+Ahora que lo dices, oí que el\ngeneral Steele era un maestro del\nestilo Lanvaldear de tiro con arco.<PAGE>\nCreo que Padre aprendió de él... \n¿Estás diciendo que el maestro\nNick es el general Steele?
+Si de verdad lo es, eso quiere\ndecir que es ciego. Pero la\nverdad es que no lo parecía...
+Supongo que lo único que podemos hacer\nes preguntárselo cuando lo veamos.<PAGE>\nEn caso de que te interese saber\nquién es, claro, Natalia.
+Mmm...\nTe mentiría si dijera que no siento curiosidad...<PAGE>\nPero no creo que sea necesario\nentrometernos en sus asuntos.
+Sí. Estoy seguro de que nos\nlo dirá si lo necesita.
+Sí.
+Por favor, general Steele. \nPor favor, vuelva a nuestro reino.
+¡General Goldberg! \n¡¿Qué estás haciendo aquí?!
+¡Princesa Natalia!
+Este hombre es mi maestro de tiro con\narco. No te permitiré que lo maltrates.
+¡Ni se me ocurriría! Hemos venido\na buscar al general Steele por\norden de Su Majestad.
+¡Entonces de verdad eres el\ngeneral Nicholas Steele!
+Así que conocías mi\nidentidad, Alteza...
+General Goldberg, no\nvolveré a Kimlasca.
+Pero Su Majestad está\npreocupado por tu salud.
+Después de perder la vista,\nme replanteé mi vida.<PAGE>\nDije adiós al yo que sólo\npodía vivir matando.<PAGE>\nPor favor, llévale este mensaje a\nSu Majestad. El Steele que enseñaba\nel tiro con arco está muerto.
+Entendido...\nSiento oír eso.
+General Steele... no, Maestro,<PAGE>\n¿De verdad estás ciego?\nNo lo parece en absoluto...
+Es verdad. No puedo ver nada.\nPero puedo sentir la presencia\nde Su Alteza.<PAGE>\nAsí como la del Nigromante\nque me robó la vista.
+Eso pensaba...
+Fue tu primera y\nmi última batalla.
+Sí...\nPero no me disculparé.
+Yo tampoco lo haría.\nAsí es el campo de batalla.
+Alteza, ahora te daré\nla última lección.
+Sí, Maestro.
+De las artes que usaba, esta\nes la más apropiada para ti.
+¿Apropiada para mí?...
+Has aprendido bien, Alteza.<PAGE>\nMi arte fónico, Fuerza\ncurativa, ya es tuyo.<PAGE>\nEs un arte curativo, y es realmente\ndigno de ti, Alteza.<PAGE>\nPor favor, utiliza este arte fónico\npara sanar a tus compañeros.
+Usaré este arte por el bien de\nmis amigos, y por el bien de\nla gente de mi país.
+Natalia ha aprendido "Fuerza curativa".
+Este es el arte final...
+Por favor, usa este arte\nfónico para llevar a la gente\nde Kimlasca hacia la paz.
+A la gente de Kimlasca...
+Nigromante, cuando acabe el caos\nde este conflicto, ¿crees que\nel mundo encontrará la paz?
+No... Puede que haya paz temporalmente,\npero no durará mucho.
+¡¿Qué estás diciendo?!\n¡Kimlasca y Malkuth han\nfirmado un tratado de paz!
+La Orden de Lorelei está a punto de\nderrumbarse. Puede ser la chispa\nde un nuevo conflicto.<PAGE>\nEl mundo no vive feliz para siempre,\ncomo en los cuentos de hadas.
+Pero...
+No, el Nigromante tiene razón.<PAGE>\nLa historia de la humanidad es una\nhistoria de guerra. La paz no dura.\nPor eso es tan valiosa.
+Sí. Tenemos que hacer todo lo\nque podamos para asegurar que\nla paz dura lo máximo posible.<PAGE>\nLo que realmente importa es lo que pase\nDESPUÉS de haber logrado la paz.
+Exacto. Por lo tanto, Alteza,<PAGE>\ncuando acabe este conflicto,\nespero que te dediques a la\ncausa de mantener la paz el\nmáximo de tiempo posible.<PAGE>\nPor favor, sé una líder que sane\nlas heridas de la guerra y que\ntraiga paz a la tierra.
+Mientras tenga este arte,\nno olvidaré tus palabras.\nHaré todo lo que pueda.
+Pero antes que eso, debemos\ncalmar el caos del mundo.
+Sí. \nTe deseo lo mejor, Alteza.
+Gracias, general Steele... no, Maestro.

@@ -1,0 +1,43 @@
+005BFBC8:'Página siguiente'
+005BFBE0:'Volver'
+005BFBF0:'Página anterior'
+
+005BFC70:'Tiempo total jugado'
+005BFC80:'Gald máximo'
+005BFC90:'Gald gastado en total'
+005BFCA0:'Skits vistas'
+005BFCB0:'Núm. de guardados'
+005BFCC0:'Partidas completadas'
+005BFD80:'Tiempo medio de batalla'
+005BFDA0:'Encuentros totales'
+005BFDB8:'Huidas totales'
+005BFDD0:'Núm. de golpes max.'
+005BFDE8:'Daño max.'
+005BFDF8:'Grado max.'
+
+
+005BFE70:'%dgolpes'
+005BFE98:'Uso de personajes'
+
+005BFEA8:'Luke'
+005BFEB0:'Tear'
+005BFEB8:'Jade'
+005BFEC0:'Anise'
+005BFEC8:'Guy'
+005BFED0:'Natalia'
+005BFED8:'Asch'
+
+
+005BFF60:'Victoria más rápida'
+005BFF70:'Tiempo sin daño'
+005BFF80:'Daño total infligido'
+005BFFA0:'Daño total recibido'
+
+// Gald gastado en total (ancho 0x13)
+$$:00563524:ushort:0x12
+
+// Partidas completadas' (ancho 0x13)
+$$:0056356C:ushort:0x12
+
+// Tiempo medio de batalla (ancho 0x12)
+$$:00563794:ushort:0x10

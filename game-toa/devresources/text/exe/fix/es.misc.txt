@@ -1,0 +1,28 @@
+47AEA0( 8): Entrar
+47AEA8( 8): Hablar
+47AEB0(16): Al Campo
+47AEC0( 8): Tienda
+# 47AEC8( 8): Examina
+47AED0( 8): Abrir
+47AED8( 8): Empujar
+47AEE0( 8): Tirar
+47AEE8( 8): Operar
+47AEF0(16): Pulsar Botón
+47AF00( 8): Arriba
+47AF08( 8): Abajo
+47AF10( 8): Saltar
+# 47AF18( 8): Knock
+47AF20( 8): Leer
+47AF28( 8): Dormir
+47AF30( 8): Montar
+47AF38( 8): Salir
+47AF40( 8): Mover
+47AF48( 8): Agarrar
+47AF50( 8): ???
+47AF58( 8): !!!
+47AF60( 8): Guardar
+# 47AF68( 8): Warp
+47AF70(48): Found %d Gald,\nbut you cannot\ncarry any more.
+47AFA0(16): Found %d Gald.
+47AFB0(16): Found %s,\nbut you cannot\ncarry any more.
+47AFE0(16): Found %s.

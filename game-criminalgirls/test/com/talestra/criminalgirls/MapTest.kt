@@ -4,8 +4,6 @@ import com.soywiz.korio.async.sync
 import com.soywiz.korio.async.toList
 import com.soywiz.korio.stream.openSync
 import com.soywiz.korio.vfs.ResourcesVfs
-import com.talestra.criminalgirls.BSCR
-import com.talestra.criminalgirls.openAsDsarCidx
 import org.junit.Assert
 import org.junit.Test
 

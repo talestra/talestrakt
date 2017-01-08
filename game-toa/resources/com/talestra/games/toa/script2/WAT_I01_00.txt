@@ -1,0 +1,342 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Es muy cómodo tener todas \nestas tiendas en un lugar.
+Hay una tienda de núcleos de capacidad\nen el segundo piso.\nEs como una sucursal de la de Sheridan.
+No importa lo bueno que sea tu equipo,\nporque me imagino que no ayudará si la \ntierra de hunde debajo de ti.
+Me pregunto si todos en el\ncampo de batalla están a salvo...
+¿Te has dado cuenta de que las tiendas\nestán vendiendo cosas diferentes ahora?
+No sólo eso, parece que\ncambian sus precios a los\ndiferentes clientes.
+He venido aquí haciendo un recado\ndesde Chesedonia, pero no tenían\nlo que estaba buscando.
+Me pregunto si tendré que ir hasta \nEngeve por él...\nCreo que iré a que me lean la Partitura.
+Primero cayó Akzeriuth,\nluego San Binah, Engeve...\nel colapso se está moviendo al norte.
+¡¿Eso quiere decir que Gran\nChokmah no tardará mucho en caer?!
+Bienvenido.\n¿Desearías un poco de \ncomida fresca de Malkuth?
+Gracias.
+Bienvenido.\nNuestras existencias son importadas\ndirectamente de Engeve y Keterburg.
+Por favor, vuelve.
+Bienvenido.\nTenemos muchas variedades de fruta.
+Gracias.\nAl haberse caído Engeve,\nlas cosas serán difíciles...
+Bienvenido.\nTenemos muchas variedades de fruta.
+Gracias.\nAl haberse caído Engeve,\nlas cosas serán difíciles...
+Bienvenido.\n¿Necesitas algún equipamiento?
+Gracias.
+Bienvenido.\nIncluso si puedes usar artes fónicas,\nla armadura todavía viene bien.
+Vuelva de nuevo.
+Bienvenido.\n¿Necesitas alguna medicina o herramientas?
+Gracias.
+Bienvenido.\n¿Desearía alguna medicina o herramientas?
+Ten cuidado.
+Lo siento, pero no vendemos\nnada de este lado.
+¡Hey!\n¡No puedes volver aquí!
+¿Mmm? ¿Me estás hablando a mi?
+Tienda de núcleos de capacidad
+¡Oh, hola!\n¿Quieres usar mi carro otra vez?
+La verdad es que me preguntaba...<PAGE>\nAquel colgante que te dimos como pago\npor el viaje en carro... ¿en Gran\nChokmah, dónde lo vendiste, exactamente?
+Ah, eso. Había un artesano llamado\nRaiz en una tienda de armaduras. \nFue él quien me lo compró.
+Gracias.
+¿Te refieres a mi colgante?\n¿Por qué preguntas eso?
+Ah, curiosidad. La próxima vez\nque estemos en Gran Chokmah,\nbusquemos a este tal Raiz.
+Bien...
+Sí, soy Raiz. ¿En qué puedo ayudarte?
+¿Compraste un colgante a\nun conductor de un carro?<PAGE>\nDe tres quilates más o menos, con\nun zafiro con forma de estrella...
+Ah, sí, sí que lo compré.
+¿Sería posible recomprarlo?\nOriginalmente, era suyo.
+Luke...
+Me parece bien, pero llevo un\nnegocio. Quiero sacarle\ncierto beneficio.<PAGE>\nEs tuyo por <01*> gald.
+¡Luke!\nNo te preocupes.
+No pasa nada. Estoy seguro de que\npuedo conseguir <01*> gald de Padre.
+No quiero que hagas eso. Además, el\ndinero de tu padre le pertenece\na él y a tu madre.
+Bueno, sí, no soy su auténtico hijo, pero...
+No me refiero a eso.\nNo es cuestión de que seas\ntú o Asch, las pertenencias\nde la Casa Fabre pertenecen\nal Duque, no a ninguno de\nvosotros dos.
+Pero... es importante para ti, ¿no?
+Sí, pero...
+Entonces, uh, ¿lo quieres o no?
+¡Véndemelo!\nDeja que me lo piense.
+¡Véndemelo!
+¡E-Espera!\n¡Luke!
+¡Un placer hacer negocios contigo! ~
+Aquí está.
+Este colgante significa  mucho para ti, ¿no?
+Pero...
+Vale. Gracias, Luke...
+Bueno, me voy.
+Me alegra tanto tenerlo de vuelta...
+Tear, ¿te importa que te pregunte qué es?
+Es un recuerdo... de mi madre...
+No tenía ni idea... Fui un inconsciente\ncuando dije lo que dije en su momento.\nLo siento...
+No pasa nada.\nQuiero decir... lo has recuperado.
+¡Muchas gracias, Luke!
+N-No ha sido... n-no tienes que agradecérmelo.\n¡Bueno, da igual, vámonos!
+El Amo tiene vergüenza.\n¡Sabía que era una buena persona!
+Sí, lo es... No siempre piensa\nlas cosas demasiado a fondo, \npero... es una buena persona.
+(Luke...)
+Deja que me lo piense.
+Vale. Por supuesto. No obstante, si\nno te das prisa, puede que se lo\nvenda a cualquier otra persona.<PAGE>\nSi cambias de idea, házmelo saber.
+Luke... No hace falta que \nintentes recuperarlo.<PAGE>\nFui yo quien se lo di. No pasa nada.
+Tear...
+Um, chaval, no tienes suficiente.\nDeja de hacerme perder el tiempo.
+¿Qué? ¡¿En serio?!
+Luke... Agradezco el esfuerzo, pero...
+Es vergonzoso, Amo...
+Ah, has cambiado de idea, ¿eh?
+¿Has decidido pagar los\n<01*> gald?
+¿Has oído de alguna buena\noportunidad últimamente?
+Hey, mira esto.
+Es un disco de música para la caja de música.
+Has obtenido el disco de música, "Pureza".
+¿Quieres eso?
+Oh, uh, sí...
+Lamento que lo hayamos\nabierto sin permiso.
+Uno de mi equipo lo puso allí, \npero no hace más que estorbar.<PAGE>\nAsí que si lo queréis, es vuestro.\nEstaba a punto de tirarlo.
+No podríamos aceptarlo sin \ndarte algo a cambio.
+Mmm, bueno pues, id a la parte\nde delante y comprad algo. \nEso ya sería suficiente.
+Gracias.
+Gracias.

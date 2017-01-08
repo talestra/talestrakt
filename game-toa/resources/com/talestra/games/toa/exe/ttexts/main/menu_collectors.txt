@@ -1,0 +1,38 @@
+// Leyenda Collector's Book (Libro de viajero)
+005BF2F8:'Volver'
+005BF308:'Categoría'
+005BF320:'Página arriba/abajo'
+005BF338:'Atrás'
+005BF348:'Siguiente'
+005BF4E0:'A. ATR'
+005BF4E8:'Tipo'
+005BF4F0:'D. ATR'
+
+// Información sobre la partida (stats)
+
+005BF550:'Lista de enemigos - Soltados'
+005BF570:'Lista de enemigos - Robados'
+005BF588:'Lista de tiendas'
+
+005C0130:'Herramientas'
+005C0138:'Armas'
+005C0140:'Armadura'
+005C0148:'Accesorios'
+005C0158:'Comida'
+005C0160:'Obj. de valor'
+
+005C06A0:'Herramientas'
+005C06A8:'Armas/Armaduras'
+005C06B8:'Ultramarinos'
+005C06C0:'Accesorios'
+
+// Ancho de "Lista de enemigos - Soltados" (0x12)
+$$:00562D74:ushort:0x10
+// Ancho de "Lista de enemigos - Robados" (0x12)
+$$:00562D8C:ushort:0x10
+
+// Ancho de "Obj. de valor" (0x12)
+// Ancho de "Herramientas" (0x12)
+// Común para ambos
+//$$:003B52C8:ushort:0x11
+$$:003B52C8:ushort:0x11

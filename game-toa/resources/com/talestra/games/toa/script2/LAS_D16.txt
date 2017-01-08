@@ -1,0 +1,533 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<04*>La Llave Incompleta de Lorelei<04*> y \n<04*>la Joya de Lorelei<04*> se han unido\ny se ha creado <04*>la Llave de Lorelei<04*>.
+<SPEECH*>La operación será mañana,\ndespués de encontrarnos\ncon la fuerza aliada.
+<SPEECH*>¿Así que tenemos el día para nosotros?
+<SPEECH*>Sí. Antes de un despliegue, se les\nconceden 24 horas a los soldados\npara que hagan lo que quieran.
+<SPEECH*>¡Pues hagámoslo nosotros también!
+<SPEECH*>Por mí bien pero, por favor, no os\nalejéis mucho de Chesedonia.
+<SPEECH*>¡Sí, señor, no hay problema! @\n¡Guy, Natalia, venga!
+<SPEECH*>¿No vas a ningún sitio?
+<SPEECH*>No... La verdad es\nque no. ¿Y tú?
+<SPEECH*>Nah, Chesedonia está en un desierto, así que...
+<SPEECH*>Y aún no me parece real, ¿sabes?\nQue mañana sea la batalla final.
+<SPEECH*>¿Entonces vosotros dos\nvendréis conmigo un ratito?
+<SPEECH*>¡Yo también!
+<SPEECH*>Claro. Vayamos todos juntos.
+<SPEECH*>Parece que estás esperando\na que venga alguien.
+<SPEECH*>Me temo que es poco probable...
+<SPEECH*>Asch odiaba a las réplicas. Eso le dio\nun objetivo, pero lo perdió cuando\nLuke se sostuvo por sí mismo.
+<SPEECH*>No creo que venga.\nLa próxima vez que lo veamos...
+<SPEECH*>Será cuando luchen.\n¿Pero por qué tienen que pelear?
+<SPEECH*>No es para herirse mútuamente.\nEs para probar quienes son.
+<SPEECH*>Para demostrar que ahora son\ndos personas diferentes.
+<SPEECH*>Me pregunto que debería\nhacer cuando eso ocurra.
+<SPEECH*>Si de verdad te preocupan\nambos... entonces sólo \nacepta el resultado.
+<SPEECH*>¿Tú lo harás?
+<SPEECH*>Bueno... eso hacen los amigos, ¿verdad?
+<SPEECH*>¿Asch también es tu amigo?
+<SPEECH*>He dejado atrás mi pasado tanto\ncomo he podido. Creo que eso\nestá intentando Asch ahora.
+<SPEECH*>Cuando eso ocurra, él ya no será\nel hijo de mi enemigo, y yo\nya no seré su sirviente.
+<SPEECH*>Empezaremos de nuevo\ncomo Asch y Gailardia. \nSólo dos personas.
+<SPEECH*>Seguro que es un tipo bastante\ndivertido sin todo ese peso.
+<SPEECH*>Eres tan maduro. \nNo sé... yo sólo...
+<SPEECH*>Tu ves a Luke como un amigo, ¿verdad?
+<SPEECH*>Sí.
+<SPEECH*>Pues ya está bien por ahora.
+<SPEECH*>Cuando todo acabe,\nhaz lo que sientas.
+<SPEECH*>Tienes razón...\nAlgunas respuestas no vendrán\npor mucho que las pienses.
+<SPEECH*>¿Estás bebiendo, Coronel?
+<SPEECH*>Hubiera preferido un lugar\nalgo más agradable, pero...
+<SPEECH*>¿No ibas a disfrutar de\ntu tiempo libre, Anise?
+<SPEECH*>Quise darle tiempo a Tear.
+<SPEECH*>Mmm...\nEso quizá haya sido\ncruel, a su manera...
+<SPEECH*>Coronel, tú escondes \nalgo, ¿a que sí?
+<SPEECH*>No, claro que no.
+<SPEECH*>Oh, vale... ¿Qué vas a hacer cuando\nderrotemos al comandante Grants?
+<SPEECH*>Soy un soldado. Volveré a mi\nvida en el ejército. Pero...
+<SPEECH*>¿Pero... qué?
+<SPEECH*>He pensado en empezar de nuevo el \nestudio de la fomicría cuando vuelva.
+<SPEECH*>Mejorar el estado de las\nréplicas para que sean algo\nmás que meros sustitutos.
+<SPEECH*>Sí. Por favor, hazlo.\nCreo que a Ion le gustaría.
+<SPEECH*>Tú vas a reformar la\nOrden, ¿no es así?
+<SPEECH*>Te has dado cuenta, ¿eh?\nYa paso de casarme por dinero.\n¡Voy a ser la primera mujer Maestra Fónica!
+<SPEECH*>Excelente. Pero creo que empieza a \nser hora de que vuelvas a la posada.
+<SPEECH*>Hey, tú te vas a quedar\naquí bebiendo, ¿verdad?
+<SPEECH*>Ésta es la hora de los mayores.\nLos niños deben irse a la cama.
+<SPEECH*>Buuu. Eres malo.
+<SPEECH*>Estoy preocupado por el Amo.
+<SPEECH*>No. Tú te quedas aquí conmigo.
+<SPEECH*>Mieuuuu...
+<SPEECH*>Mañana...
+<SPEECH*>Sí. Espero que mi cuerpo\naguante hasta entonces.
+<SPEECH*>Aguantará.
+<SPEECH*>Tear...
+<SPEECH*>Mañana... y pasado...\ny al otro, y al otro...
+<SPEECH*>Tear... yo...
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Ah, no importa...
+<SPEECH*>Estás raro.
+<SPEECH*>¡No lo estoy!...
+<SPEECH*>¿Qué te pasa, tan de repente?
+<SPEECH*>Me has vigilado todo este tiempo, \ntal y como prometiste.
+<SPEECH*>Idiota... También\nseguiré vigilándote.
+<SPEECH*>Tú eres la idiota. \nVoy a desaparecer...
+<SPEECH*>No pasa nada.
+<SPEECH*>Es extraño. \nAhora mismo, soy muy feliz.
+<SPEECH*>Tengo amigos... y a ti...\nPor fin puedo pensar en mí como... yo.
+<SPEECH*>Seguramente, éste es el\nmomento más feliz de mi vida.
+<SPEECH*>¿Qué?...
+<SPEECH*>Quiero decir, me gustaría poder\npensar que no lo es...
+......
+<SPEECH*>Yo sólo... Gracias.
+<SPEECH*>La operación empieza al mediodía.\nNuestros barcos estarán desplegados por\nel océano Central y la península ispaniense.
+<SPEECH*>Tardarán más en tomar\nposiciones que el Albiore.
+<SPEECH*>Estad alerta en el océano\nCentral bajo Eldrant y\nesperad a que lleguemos.
+<SPEECH*>Entendido.
+<SPEECH*>El bombardeo de artillería empezará tan\npronto como lleguen las fuerzas aliadas.
+<SPEECH*>Con ese apoyo, entraremos a \nEldrant desde abajo, donde hay\nmenos defensa antiaérea.
+<SPEECH*>Destruiremos los equipos\nantiaéreos si es posible,\ny luego a por Van.
+<SPEECH*>Nuestro objetivo final es liberar a Lorelei.\nCreo que eso lo cubre todo.
+<SPEECH*>Vale, tu turno, Luke. ¡Ésta\nes nuestra batalla final, así\nque da la orden y hazlo bien!
+<SPEECH*>¿Yo?
+<SPEECH*>Bueno, ahora eres más o menos el líder.
+<SPEECH*>Vale.\n¡Vamos a proteger nuestro mundo!
+<SPEECH*>Todavía queda algo de tiempo.
+<SPEECH*>Estoy algo nervioso.
+<SPEECH*>El Comandante no se contendrá.\nTenemos que luchar con todas nuestras fuerzas.
+<SPEECH*>Mantén la calma, o acabarás\nagotada incluso antes de\nque lleguemos allí.
+<SPEECH*>Sí, es cierto.\nTen cuidado, Luke.
+<SPEECH*>¡¿Por qué yo?!
+<SPEECH*>Je je, sí, tú eres el\nque más nos preocupa.
+<SPEECH*>¿Q-Qué es eso?
+<SPEECH*>¡Huyamos! Los fonones...\n¡Los fonones nos están atacando!
+<SPEECH*>¡Luke!\n¡Mira!
+<SPEECH*>Lo conseguimos...
+<SPEECH*>No esperaba que nos atacaran primero...<PAGE>\n<SPEECH*>Las partículas de memoria empujaron\na Eldrant a esa corriente.<PAGE>\n<SPEECH*>El Tartarus, que estaba en el núcleo,\nha debido quedar destruido.
+<SPEECH*>¡¿El Tartarus no está?! \nEso significa...
+<SPEECH*>No hay nada que neutralice la\nvibración del núcleo. Por supuesto,\neso ahora no es un problema.
+<SPEECH*>Sí. Je, supongo que es bueno que\nLorelei saliera del núcleo...
+<SPEECH*>Sí... Y mientras no revivamos la\nTormenta Planetaria, el núcleo\ndebería permanecer quieto...
+<SPEECH*>Es tal y como dijo Asch. Intentan\nque choquemos contra Eldrant...
+<SPEECH*>Ésa es la amenaza que la Llave\nde Lorelei representa para Van.
+<SPEECH*>¡Ugh!...
+<SPEECH*>La caída de Eldrant no pareció\nafectar al sistema antiaéreo.
+<SPEECH*>No, espera un momento...
+<SPEECH*>En el lado del puerto de Eldrant...\nen la parte plana de la izquierda.\n¡Los cañones antiaéreos están inactivos!
+<SPEECH*>¡Vale! ¡Aterrizaremos ahí!
+<SPEECH*>Estoy impresionado.\nEsperaba a Asch.
+<SPEECH*>Asch también está aquí...\nEstá en mi interior, dándome su fuerza.
+<SPEECH*>Hiperresonancia de segundo orden... \nHas superado a tu original.\nYa eres un auténtico ser humano.
+<SPEECH*>Has atravesado un mar de cadáveres\ny has llegado hasta aquí. \nAhora, únete a mí, Luke.
+<SPEECH*>Destruiremos la memoria planetaria y\nacabaremos con la Partitura del Juicio Final.
+<SPEECH*>No.
+<SPEECH*>Vaya, vaya. \n¿Por qué no?
+<SPEECH*>Al fin he comprendido qué es lo que quería.
+<SPEECH*>Quería que me reconocieras.\nQue me aceptaras como ser\nhumano, no como réplica.
+<SPEECH*>Sí.\nY te has convertido en un ser humano.
+<SPEECH*>Pero no es suficiente...
+<SPEECH*>Tú me dijiste,\n"¿Acaso no puedes vivir sin\nhaber nacido con un propósito?"
+<SPEECH*>No vivo para nadie más.\nNo hay un significado especial en vivir.
+<SPEECH*>Cuando sentí mi muerte,\nquise vivir. Ahora lo sé.\nEs todo lo que necesito.
+<SPEECH*>Así que...\nYa no te necesito.
+<SPEECH*>No importa si me\naceptas o no.\nAquí estoy.\n¡Vivo!
+<SPEECH*>Je je je...\nHas adquirido una sabiduría insolente.
+<SPEECH*>¡Van! \nLa gente puede cambiar,\nigual que Luke.\nPiénsalo una vez más.
+<SPEECH*>Puede que la memoria planetaria\nexista, tal y como dices.\n¿Pero es totalmente absoluta?
+<SPEECH*>Luke no está aquí porque esté escrito.\nEstá aquí porque él lo ha elegido.
+<SPEECH*>La memoria planetaria es una opción\nposible para el futuro, pero sólo\nlas personas hacen esa elección.
+<SPEECH*>Eso tampoco es absoluto.\nPuede que no estés escogiendo,\nsi no que te hagan escoger.
+<SPEECH*>Si es así, quizá te estén haciendo escoger\ndestruir la memoria planetaria.
+<SPEECH*>Si dices que has decidido borrar la memoria\nplanetaria por tu propia voluntad,
+<SPEECH*>eso mismo es una prueba de que la\nmemoria planetaria no es absoluta.
+<SPEECH*>Ése es un razonamiento vacío.\nLa Partitura de Yulia representa\nla memoria de la que hablo.
+<SPEECH*>La destrucción del hombre está escrita.\nLa destrucción de la memoria planetaria no.
+<SPEECH*>Así que llevarás a cabo esa destrucción de los\noriginales y luego crearás un mundo de réplicas.
+<SPEECH*>Eso no es distinto de aquellos que\ndejaron que Hod fuera destruida.\nPor eso Asch te rechazó.
+<SPEECH*>¿No te dolió la destrucción de Hod\ny despreciaste a quienes la causaron?
+<SPEECH*>Sí. Pero debo hacer lo que sea\npara destruir el camino absoluto\nde la memoria planetaria.
+<SPEECH*>Es extraño oír eso de un hombre tan inteligente.\nLa gente y los planetas, todos mueren al final.
+<SPEECH*>Aunque el planeta tenga o no una\nmemoria, sólo eso está asegurado.
+<SPEECH*>Aunque exista ese camino absoluto del que hablas,
+<SPEECH*>la gente tiene el derecho a elegir su\npropio camino hacia la destrucción.
+<SPEECH*>Palabras dignas de un nigromante.
+<SPEECH*>Todo muere.\nEs una mera cuestión de tiempo.\nPero la memoria planetaria\nhará que sea demasiado pronto.
+<SPEECH*>Yo no puedo aceptar morir antes de \ntiempo, como hacéis vosotros.
+<SPEECH*>Pero tú estás intentando destruir\na los originales incluso antes \nque a la memoria planetaria.
+<SPEECH*>Odias tanto la Partitura\nque estás más encadenado\na ella que cualquier otro.
+<SPEECH*>Je... quizá.
+<SPEECH*>Yo... no, todos nosotros... estamos vinculados\nal futuro que llamamos la Partitura.
+<SPEECH*>Creemos que podemos elegir nuestro porvenir.
+<SPEECH*>Yo sé que el futuro está predeterminado.
+<SPEECH*>Como pensé... Parece que no\nnos pondremos de acuerdo.
+<SPEECH*>Sacad vuestras armas.\nMe ocuparé de todos a la vez.
+<SPEECH*>¡Van... prepárate!
+<SPEECH*>Aagh...
+<SPEECH*>¡Uaaaaaah!...
+<SPEECH*>¡...!
+<SPEECH*>Los himnos fónicos...\nSu melodía sí que despertará a Lorelei.<PAGE>\n<SPEECH*>Pero no sabes los auténticos\ndeseos que contienen en esos himnos.\nNo funcionarán conmigo.
+<SPEECH*>No, hermano...\nSí que los sé.
+<SPEECH*>Puedo sentir los pensamientos y emociones\nque Yulia puso en estos himnos.
+<SPEECH*>Si eso es verdad, Mystearica, \nentonces canta...\n¡Canta, para mí!
+<SPEECH*>¡Muere!
+<SPEECH*>¡Demasiado lento!
+<SPEECH*>¿Se te ha olvidado?\nYo fui quien te enseñó a usar la espada.
+<SPEECH*>¡Suelta a Lorelei!
+<SPEECH*>Te has vuelto fuerte...
+<SPEECH*>Van...
+<SPEECH*>Y pensar que me has hecho llegar a esto...
+<SPEECH*>Parece que no tengo otra opción que\ndesatar este terrible poder de mi interior.
+¡¡Uah!!
+<SPEECH*>¡Esta fuerza!...\nAsí que éste es... el poder de Lorelei.
+<SPEECH*>Al final lo ha usado. \n¡Pero saldré victorioso!...
+<SPEECH*>Eres fuerte...\n¡Pero... no voy a perder!
+<SPEECH*>¡Aah! ¡No perderé!\n¡Estas flechas te enviarán a\nlas profundidades del abismo!
+<SPEECH*>Tienes aliados fuertes, Luke.
+<SPEECH*>Ellos me han apoyado en todo. \n¡Por su bien, no puedo perder!
+<SPEECH*>No. Por mi propia existencia,\n¡no voy a perder!
+<SPEECH*>Cuando utilizas el poder de Lorelei,\ntu control sobre él se debilita.
+<SPEECH*>Luke lo supo y te obligó a usarlo.
+<SPEECH*>El mismo Luke al que te negaste\na reconocer durante tanto tiempo.
+<SPEECH*>Luke no va a...
+<SPEECH*>No...\n¡NOSOTROS no perderemos!
+<SPEECH*>Te felicito por haberme\nhecho usar este poder... \nNo hubiera esperado\nmenos de mi alumno.
+<SPEECH*>Pero eso, también, acaba ahora.
+<SPEECH*>¡Adiós, Luuuuuke!
+<SPEECH*>¡¿Maldita sea... qué es ese poder?!
+<SPEECH*>Lorelei está fuera de control dentro de Van.\n¡Está atrayendo nuestros fonones!
+<SPEECH*>¡A este ritmo, absorberá nuestras vidas!
+<SPEECH*>Parece que mi fuerza está siendo\nabsorbida por el cuerpo de Van...
+<SPEECH*>Si esto sigue así... ¡nos matará!
+<SPEECH*>Los fonones de mi cuerpo están siendo\natraídos hacia Van... ¡hacia Lorelei!
+<SPEECH*>¡Debemos romper este hechizo!\n¡Si no hacemos algo, moriremos todos!
+<SPEECH*>¡No!
+<SPEECH*>¡Luke! \n¡La hiperresonancia de segundo orden!\n¡Puede neutralizar cualquier fonón!
+<SPEECH*>¡Voy a liberar a Lorelei!...\n¡Tear, ayúdame!
+<SPEECH*>De acuerdo...
+¡¡Rrgh!!
+¡¡Esto acaba ahora!!
+¡¡¡Uaaaaaagh!!!
+La séptima melodía... \nLa has aprendido... \nTear...
+Me he acordado... \ntú me la cantabas cuando lloraba.
+Sabías lo que el himno fónico significaba.\nEstuviste diciéndomelo todo...\ndesde el principio.
+Gracias... \nVan...
+Adiós... \nMystearica...
+¡¡Maestro Van!!...
+¡¡Detente!!
+Después de todo lo que ha pasado,\naún me llamas maestro...\nIdiota.
+Perdonadme...\nHermanos.
+Maestro Van...\n¡Gracias!
+(Adiós... Mi querido hermano...)
+Bien.\nDaos prisa y escapad todos.\nYo me quedaré y liberaré a Lorelei.
+¡Luke!
+Se lo prometí a Lorelei. \nEs lo que necesito hacer.
+¿Jade?...
+Luke...\nCómo has cambiado.
+Era un imbécil, ¿verdad?
+Pero no importa lo mucho que cambies o\nte arrepientas de tus actos, no todo\nlo que has hecho será perdonado.
+Por eso debes volver con vida...\nal menos, eso espero.
+Jade... \nCállate.
+Lo siento.
+Te estaré esperando. \nEs triste ser un sirviente sin amo.
+Hey, ya no eres mi sirviente.
+Ya no te sirvo en la mansión.\nPero te sigo sirviendo como amigo.
+No seas tonto.
+Así que vuelve pronto a\ncasa. Nunca te perdonaré\nsi desapareces.
+Lo sabías, ¿eh?
+Cuando vuelvas a casa te voy a enseñar\na no esconderles nada a tus amigos.
+¡¿Anise?!
+Yo también lo sabía.\nNo estaba tan segura como Guy, pero... 
+¿De qué estás hablando?
+Ji ji. @\nEres un libro abierto.
+Pero...\nQuiero tenerte de vuelta vivo.
+No esperarás que...\nNo nos vamos a... 
+No, no. @ \nVoy a reformar la Orden por Ion.
+Pero para hacerlo,\nnecesitaré un mecenas.\nAsí que... vuelve a casa.
+Pues vale...
+Luke... vive... por favor. \nNo quiero perder a más\npersonas queridas.
+Natalia...
+No para proteger Kimlasca.
+Para vivir tu vida, ¿entiendes?
+Yo quería vivir.
+Vivirás.\nNo puedes desaparecer.\nNo puedes.
+Gracias.
+Amo...
+Ya has acabado tu trabajo. Vuelve a casa,\ny siéntete orgulloso de lo que has hecho.
+Estaré esperando su regreso, Amo.
+Gracias.
+¡Vuelve a casa!
+Tear...
+Tienes que volver a casa. \n¡Tienes que volver!\nTe esperaré... siempre.
+Volveré. \nLo prometo... \nVolveré a casa.
+Luke... Te amo...
+¡¡No te saldrás con la tuya!!
+<SPEECH*>¡Toma esto!
+<SPEECH*>¡Demasiado lento!
+<SPEECH*>¿Se te ha olvidado?\nYo fui quien te enseñó a usar la espada.
+<SPEECH*>¡Por eso te ganaré!
+<SPEECH*>Y pensar que me has hecho llegar a esto...
+<SPEECH*>Al final, parece que no tengo otra\nopción que desatar este terrible poder.
+<SPEECH*>Aagh...\n¡¿Lorelei está... despertando?!
+<SPEECH*>¡Vandesdelca! \n¡Prepárate para morir!
+<SPEECH*>No hubiera esperado menos de mi hermana, la\nauténtica heredera de los himnos fónicos de Yulia.
+<SPEECH*>Parece que no tengo otra opción\nque desatar este terrible poder.
+<SPEECH*>No hubiera esperado menos\ndel Nigromante...
+<SPEECH*>El hecho de que no te haya matado es\nsigno de que mis habilidades han menguado.
+<SPEECH*>Gracias a ti, parece que no\ntengo otra opción que desatar el\nterrible poder de mi interior...
+<SPEECH*>Impresionante...
+<SPEECH*>No has estado mal.
+<SPEECH*>Gracias a ti, parece que\ndebo desatar el terrible\npoder de mi interior...
+<SPEECH*>¿Pretendes acabar lo que Asch\nno pudo conseguir?
+<SPEECH*>No soy tan vanidosa.\nAsch le confió ese deseo a Luke.
+<SPEECH*>Yo sólo te quitaré ese poder\nen nombre de Luke... no,\nen nombre de Luke y Asch.
+<SPEECH*>Ya veo... Entonces te voy a destruir con\ntoda mi fuerza, incluso aunque deba desatar\nel terrible poder que reside en mi interior...
+<SPEECH*>¡¿Qué tal eso?!
+<SPEECH*>Je je...\nPensaba que sólo jugabas con muñecos, pero\nparece que esta batalla va en serio...

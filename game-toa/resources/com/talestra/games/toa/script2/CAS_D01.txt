@@ -1,0 +1,619 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<04*>ROJO
+<04*>AZUL
+<04*>VERDE
+<04*>AMARILLO
+Has obtenido 1 orbe rojo.
+Has obtenido 1 orbe azul.
+Has obtenido 1 orbe verde.
+Has obtenido 1 orbe amarillo.
+Se ha vuelto lila.
+Se ha vuelto amarillo.
+Se ha vuelto naranja.
+Se ha vuelto azul claro.
+Se ha vuelto blanco.
+Se ha vuelto amarillo verdoso.
+Hay una luz lila.
+La puerta no se abrió.
+La puerta se ha abierto.
+Soy una obsesión...\nUn alma perdida, atrapada por un deseo\nincumplido... Una espada oxidada...
+¿Posees el poder que deseo?...\n¿La fuerza para liberarme?
+Si es así, vuelca esa fuerza contra mí.
+Por fin he encontrado una espada para liberarme.
+Esperaré hasta nuestro próximo encuentro...\nHasta entonces...
+Marchad...\nNo tengo interés en los débiles...
+Marchad...
+¿Luchar?\nSí\nNo
+<SPEECH*>¿Eh?...\n¿Qué está pasando?
+<SPEECH*>Parece un monstruo...
+<SPEECH*>¡Es una de las mascotas de Lugubrietta!
+<SPEECH*>¿Lugubrietta?
+<SPEECH*>¡Aaah!
+<SPEECH*>¡Arietta!\n¡La General de Élite, Arietta la Salvaje!
+<SPEECH*>¡V-Vale, vale! \n¡Lo he pillado!\n¡Deja de tocarme!
+<SPEECH*>Ha huido en dirección al puerto.\nVamos.
+<SPEECH*>Estoy seguro de que estás disfrutando, \nGuy, pero nos tenemos que ir.
+<SPEECH*>¡Quítamela de encima!
+<SPEECH*>Oh...
+<SPEECH*>¡Arietta!\n¡¿Quién te ha dado permiso para hacer esto?!
+<SPEECH*>¡Sabía que eras tú, Lugubrietta!\n¡Deja de causar problemas a la gente!
+<SPEECH*>Vosotros...
+<SPEECH*>¡Yo NO soy lúgubre!\n¡Eres mala, Anise!
+<SPEECH*>¿Qué ha pasado aquí?
+<SPEECH*>Arietta ha soltado a sus monstruos en el barco.
+<SPEECH*>Comandante... Lo siento...\nAsch me lo pidió...
+<SPEECH*>¡¿Asch?!
+<SPEECH*>Me tengo que llevar al ingeniero\nque puede reparar el barco.<PAGE>\n<SPEECH*>Si lo queréis de vuelta, \nLuke y Ion tienen que venir\nal Castillo de Coral.<PAGE>\n<SPEECH*>Si no vienen...\nEllos... lo matarán...
+<SPEECH*>Van, ¿cómo está el barco?
+<SPEECH*>Me temo que fuera de servicio...<PAGE>\n<SPEECH*>Con el ingeniero secuestrado,\ntendremos que esperar a que\nvuelva el barco escuela.
+<SPEECH*>¿Qué es ese "Castillo de Coral"\nque Arietta mencionó?
+<SPEECH*>Es la casa de descanso del duque Fabre.\nMe contaron que la abandonó cuando en la \núltima guerra el frente llegó demasiado cerca.
+<SPEECH*>Ah, ¿en serio?
+<SPEECH*>¡Luke, venga! ¡El Castillo de Coral\nes donde te encontraron cuando te\nsecuestraron hace siete años!
+<SPEECH*>¡Te lo he dicho mil veces, no recuerdo\nnada de esa época! Quizá recuerde\nalgo si voy allí.
+<SPEECH*>No hace falta que tú vayas.\nEspera a que vuelva el barco escuela\nal puerto. Yo me encargaré de Arietta.
+<SPEECH*>Pero eso significará ignorar\nlas exigencias de Arietta...
+<SPEECH*>¿No es más importante \nevitar la guerra ahora mismo?
+<SPEECH*>Luke, llévate al maestro fónico Ion\ny volved a la frontera. Aquí no hay nada\nexcepto barracones y almacenes.<PAGE>\n<SPEECH*>Yo me quedaré y detendré a Arietta.
+<SPEECH*>S-Sí, señor.
+<SPEECH*>¡Maestro fónico Ion! \n¡Por favor, espera!
+<SPEECH*>¿Qué quieres del \nMaestro Fónico?
+<SPEECH*>El hombre que Arietta la Salvaje ha secuestrado\nes nuestro jefe de mantenimiento!<PAGE>\n<SPEECH*>¡Por favor, Maestro Fónico,\ntienes que salvarle!
+<SPEECH*>El jefe sigue fielmente la Partitura.\nEs un devoto seguidor de la Orden\nde Lorelei.<PAGE>\n<SPEECH*>Su Partitura de cumpleaños le indicó \nque se libraría de una calamidad, \n¡pero parece todo lo contrario!
+<SPEECH*>¡Por favor!
+<SPEECH*>De acuerdo...
+<SPEECH*>¿Estás seguro?
+<SPEECH*>Arietta me dijo que fuera.
+<SPEECH*>Estoy de acuerdo con Ion.
+<SPEECH*>Y decías que yo era blando...
+<SPEECH*>Si abandonamos a alguien que la\nPartitura predijo que se salvaría de una\ncalamidad, estaremos ignorándola.<PAGE>\n<SPEECH*>Eso iría en contra de las\nenseñanzas de Yulia. Y...
+<SPEECH*>¿Y...?
+<SPEECH*>No importa...
+<SPEECH*>Lo cierto es que se debería\nseguir la Partitura...
+<SPEECH*>Um, yo también creo que deberíamos\nir al Castillo de Coral.
+<SPEECH*>Si vais al castillo yo iré con \nvosotros. Hay algo allí que\nme gustaría investigar.
+<SPEECH*>Pues Arietta es una chica, ya sabes.
+<SPEECH*>¡No me lo recuerdes!
+<SPEECH*>¿Usted también va, Amo?
+<SPEECH*>Claro que no.\nIncluso el maestro Van dijo\nque no teníamos que ir.
+<SPEECH*>Arietta pidió que tú también fueras.
+<SPEECH*>¡Por favor, no abandonéis al jefe!\nTiene familia en Baticul...
+<SPEECH*>Está bien, está bien... Iré.\n¿Ya estáis contentos?\n¿Por qué me tengo que molestar por esto?
+<SPEECH*>¡M-Muchas gracias!
+<SPEECH*>El Castillo de Coral está al sudeste\nde aquí, cerca de la costa.\nPor favor, tened cuidado.
+<SPEECH*>Bueno, ya le habéis oído...\n¿Nos vamos?
+<SPEECH*>Pensaba que estabas en contra de\nir al Castillo de Coral.
+<SPEECH*>No.\nMe da igual una cosa que otra.
+<SPEECH*>¿Pero qué...? \nNo hay quien te entienda.
+<SPEECH*>¿ÉSTE es el sitio donde me encontraron?\nPero si se cae a trozos. Parece embrujado.
+<SPEECH*>¿Te trae algún recuerdo?\n¿Algo de cuando te secuestraron?
+<SPEECH*>No puedes recordar nada de tu\ninfancia, ¿verdad, Luke?
+<SPEECH*>Bueno... Mis recuerdos empiezan\ndesde el momento en que volví a la\nmansión hace siete años.
+<SPEECH*>Qué triste...\n¡Te ayudaré a recuperar la memoria!
+<SPEECH*>Algo no va bien... Nadie ha vivido\naquí en años, pero hay signos de\nactividad reciente.
+<SPEECH*>Monstruos...\nPuedo sentirlos.
+<SPEECH*>Ese jefe de mantenimiento debe de estar\ndentro. Vamos a echar un vistazo.
+<SPEECH*>¡¿Pero qué demonios?! \n¿Qué hace esta máquina tan rara\nen nuestra casa de descanso?
+<SPEECH*>¿Esto es...?
+<SPEECH*>Coronel, ¿sabes lo que es?
+<SPEECH*>No... No estoy seguro.
+<SPEECH*>Y aunque lo estuviera...
+<SPEECH*>¿Q-Qué?\n¿Tiene algo que ver conmigo?
+<SPEECH*>Aún no lo sé seguro...\nDame un poco más de tiempo\npara pensar en ello.
+<SPEECH*>Creo que es la primera vez que\nte he visto nervioso por algo.
+<SPEECH*>Hay algo que a mí también me preocupa,\nSi lo que te inquieta está relacionado\ncon el secuestro de Luke...
+¡Aaaaaah!
+<SPEECH*>¡Uaaah!\n¡Quita!
+<SPEECH*>¿Q-Qué?
+<SPEECH*>Uh... yo...
+<SPEECH*>Esa reacción ha sido un\npoquito exagerada. ¿Qué pasa?
+<SPEECH*>Lo siento.\nMi cuerpo simplemente reaccionó...
+<SPEECH*>Lo siento, Anise.\n¿Estás bien?
+<SPEECH*>S-Sí...
+<SPEECH*>¿Te ha pasado algo?\nNo tenía aspecto de ser\nsimple aversión a las mujeres.
+<SPEECH*>Lo siento... No lo sé, de verdad.\nYo no era así de pequeño.<PAGE>\n<SPEECH*>Pero hay una parte de mis recuerdos\nque está totalmente borrada.\nPuede que la causa esté ahí...
+<SPEECH*>¿Tú también tienes la memoria mal?
+<SPEECH*>No creo que sea lo mismo.\nYo sólo he perdido los recuerdos\nde un momento en concreto.
+<SPEECH*>¿Cómo sabes que es sólo un momento?
+<SPEECH*>Lo sé. Lo único que falta en\nmis recuerdos es el momento\nen que mi familia murió.
+<SPEECH*>Ya vale de hablar de mí. Quiero saber\nqué te pasa por la cabeza, Coronel...
+<SPEECH*>Igual que tú prefieres no hablar sobre\ntu pasado, hay algunas cosas de las que\nyo también preferiría no hablar.
+<SPEECH*>¡Ahí hay alguien!
+<SPEECH*>¡Luke!\n¡Sigámoslo!
+<SPEECH*>¡Yo también voy!
+<SPEECH*>¡Esperad! ¡Por favor,\nno hagáis daño a Arietta!
+<SPEECH*>¡Quietos!\n¡Podría ser una trampa!
+<SPEECH*>Vaya, vaya. Ahí van.\nQué personitas más impetuosas, ¿verdad?
+<SPEECH*>Podrían pararse a usar\nla cabeza un poco.
+<SPEECH*>Ohh...\nHe cubierto a Ion.\nLo siento, Luke...
+<SPEECH*>¡Ouuu!\n¡No tiene gracia, Arietta!\n¡Esto duele!
+<SPEECH*>¡Tú me heriste primero!\n¡Te llevaste a Ion de mi lado!
+<SPEECH*>¡Arietta, eso no es verdad!
+<SPEECH*>Eso no fue así. La razón por\nla que se te alejó de los Guardianes\ndel Maestro Fónico fue...
+<SPEECH*>¡Luke!
+<SPEECH*>Por Dios, otra vez. Si fuera\nun poco más cuidadoso...
+<SPEECH*>¡Oh, no!
+<SPEECH*>¿Dist también está involucrado en esto?\nOh, por favor.
+<SPEECH*>Arg... ¡¿Y ahora qué hacemos?!
+<SPEECH*>¿Mm?...\nTear, ¿has dicho algo?
+<SPEECH*>No. No es nada.\nDémonos prisa y rescatemos a Luke y al jefe.
+<SPEECH*>Es culpa mía...\n¡Ohhh, no puedo creer que haya dejado que\npase esto! ¡Esa estúpida de Arietta!
+<SPEECH*>Bueno, bueno, calma.\nSi se toman tantas molestias, dudo que\nintenten quitarle la vida.<PAGE>\n<SPEECH*>Y al que de verdad quieren, \nIon, aún sigue con nosotros.
+<SPEECH*>Ah, ya veo...\nIncluso la frecuencia de fonones es la\nmisma. Es una creación perfecta.
+<SPEECH*>Eso no importa ahora mismo.\nTenemos que borrar los datos\nantes de que vuelvan.
+<SPEECH*>Si estos datos son tan importantes,\nno deberías haber permitido que Asch \nutilizara el Castillo de Coral, para empezar.
+<SPEECH*>Ese idiota vino por su cuenta. Tendremos que\nhacer que Van le castigue más adelante.<PAGE>\n<SPEECH*>Hablando de idiotas,\néste está volviendo en sí.
+<SPEECH*>No importa. Ya hemos abierto\nsus fonorranuras sincronizadas.
+<SPEECH*>Yo me voy ya. Tengo muchísimas\nganas de analizar estos datos.\nJe je je je.
+<SPEECH*>¿Qué demonios me habéis hecho?
+<SPEECH*>No veo ninguna razón por la que\nresponder a esa pregunta.
+<SPEECH*>¡No!
+<SPEECH*>¿Qué...?\n¿Tú...?
+<SPEECH*>¡Guy! \n¡¿Qué pasa?!
+<SPEECH*>¡Maldita sea, están aquí!
+<SPEECH*>Ésta es una misión no autorizada.
+<SPEECH*>Es una pena que no pueda mataros yo mismo, \npero lo dejo en las hábiles manos de Arietta.
+<SPEECH*>Está en el tejado con el rehén.\nEspero que os haya gustado nuestro pequeño juego.
+<SPEECH*>Fiuu... \n¿Qué demonios ha sido todo eso?
+<SPEECH*>¿Qué pasa, Guy?
+<SPEECH*>Oh... nada. He cogido un\nextraño disco fónico, así que me\nestaba preguntando qué puede ser.
+<SPEECH*>Que luego Jade le eche un vistazo.
+<SPEECH*>¿Estás bien, Luke? \n¿Por qué motivo pueden querer\nsecuestrarte a ti?
+<SPEECH*>¡¿Cómo lo voy a saber?! \n¡¿Cómo narices es posible que \nestas cosas me pasen siempre a mí?!
+<SPEECH*>¡Es culpa de Arietta!\n¡Pagará por esto!
+<SPEECH*>Está en el tejado, ¿verdad? \nOdio dar vueltas así, pero\nno tenemos elección.\nVamos.
+<SPEECH*>¡Je je! \n¡No voy a caer otra vez!
+<SPEECH*>¡Luke, eres increíble! @
+<SPEECH*>No está mal, para ser tú.
+<SPEECH*>¡Por Dios, dame un respiro!
+<SPEECH*>¡Le has prendido fuego... a mi amigo!\n¡Ahora sí que voy a hacerte pagar por eso!
+<SPEECH*>¡Cállate ya! \n¡Has causado suficientes\nproblemas, pequeña mocosa!
+<SPEECH*>¡No me importa!\n¡Os voy a matar a todos,\ny recuperar a Ion!<PAGE>\n<SPEECH*>¡Matasteis a Mamá!\n¡Ahora, moriréis!
+<SPEECH*>Sabía que dejarla vivir\nnos traería problemas.
+<SPEECH*>¡Espera! \nMe llevaré a Arietta de vuelta para una\ninvestigación ante la Orden de Lorelei.<PAGE>\n<SPEECH*>Así que, por favor, no le quites la vida...
+<SPEECH*>Sí, será lo mejor.
+<SPEECH*>Maestro...
+<SPEECH*>En Kaitzur nadie sabía de la\nllegada del Maestro Fónico,\nasí que he venido por si acaso.
+<SPEECH*>Lo siento, Van...
+<SPEECH*>No tiene sentido darle\nvueltas a lo que ya está hecho.<PAGE>\n<SPEECH*>Tomaré a Arietta bajo mi custodia.\n¿Estás de acuerdo?
+<SPEECH*>Sí, por favor, hazlo.\nY por favor, cura sus heridas.
+<SPEECH*>¿Cómo planeas explicar\nsus crímenes a Su Majestad \ny al ejército?
+<SPEECH*>Seguiremos los procedimientos de la Orden que \nsean adecuados, castigarla, y abrir un expediente.\nAsí es como funciona una sociedad basada en la ley.
+<SPEECH*>Ahí fuera tengo soldados y un carro del\nconde Almandine, el comandante de Kaitzur.\nAprovecharé para escoltar al jefe de \nmantenimiento a casa.<PAGE>\n<SPEECH*>¿Qué harás tú, Ion?\nPreferiría que vinieras conmigo, pero...
+<SPEECH*>Creo que algunos estamos\ninteresados en este castillo, pero...
+Quiero ir en carro\nQuiero volver andando
+<SPEECH*>Quiero ir en carro.
+<SPEECH*>De nuevo, algunos tenemos\notras ideas. Parece que iremos contigo...
+<SPEECH*>Entendido.
+<SPEECH*>Quiero volver andando. Una vez\nlleguemos al barco, estaremos de vuelta\nen Baticul en poco tiempo, ¿verdad?
+<SPEECH*>Bueno, la ruta nos obliga a\ndetenernos en Chesedonia.
+<SPEECH*>Parece que preferimos caminar, \nasí que te alcanzaremos más tarde...
+<SPEECH*>Entendido.\nPor favor, tened cuidado.
+<SPEECH*>El resto de los miembros del equipo de \nmantenimiento ya ha empezado las reparaciones.<PAGE>\n<SPEECH*>Todo lo que queda es que el jefe de\nmantenimiento repare los motores.
+<SPEECH*>Dejadme a mí esos motores. Los \ndejaré como nuevos y os llevarán\na salvo hasta Chesedonia.
+<SPEECH*>Gracias.
+<SPEECH*>Informaré del asunto de Arietta\nal comandante Almandine.<PAGE>\n<SPEECH*>Maestro Fónico, por favor ven\nmás tarde, cuando veas apropiado.
+<SPEECH*>¡Ah! \n¡Os estábamos esperando! \n¡Tenéis nuestra más profunda \ngratitud por rescatar al jefe!
+<SPEECH*>No ha sido cosa fácil, desde luego.
+<SPEECH*>¡Luke ha sido tan heroico! @
+<SPEECH*>Je je...\n¿Tan bueno he sido?
+<SPEECH*>Especialmente cuando te han secuestrado.
+<SPEECH*>¡Cállate!
+<SPEECH*>El comandante de los Caballeros\ndel Oráculo, el general dórico Van Grants,\nme dio un mensaje para vosotros.<PAGE>\n<SPEECH*>El general dórico Grants está ahora\nreunido con el teniente general Almandine,\ncomandante de la zona de Kaitzur.<PAGE>\n<SPEECH*>Quiere que vayáis a la sala de reuniones\nmás tarde, cuando queráis.<PAGE>\n<SPEECH*>En lo que se refiere al barco, las\nreparaciones avanzan sin problemas.
+<SPEECH*>Seguid con el buen trabajo.
+<SPEECH*>Gracias.\n¡Volveré a las reparaciones!
+<SPEECH*>¿Dónde hacen las reuniones?
+<SPEECH*>Debería de haber una sala de\ninvitados abajo, en el puerto.
+<SPEECH*>De acuerdo. Luego echaré un vistazo.
+<SPEECH*>Ah, Luke, es agradable volver a verte.
+<SPEECH*>¿No me recuerdas?<PAGE>\n<SPEECH*>Te visité en tu mansión de Baticul \nuna vez, cuando eras joven.\nSoy Almandine.
+<SPEECH*>Lo siento, no te recuerdo.
+<SPEECH*>Oh, vaya. \nTodavía eras un niño pequeño por aquel entonces.
+<SPEECH*>Maestro fónico, he informado\nal conde Almandine sobre el\nincidente con Arietta.
+<SPEECH*>Por favor, perdone los errores de mi sirviente.
+<SPEECH*>Me gustaría poder esperar que Daath\ntratará el asunto con buena fe.
+<SPEECH*>Oye, ¿podrías mandar un\nmensaje a mi padre?
+<SPEECH*>¿Un mensaje? \nSi usamos una paloma mensajera, creo\nque podríamos hacer que llegue el mensaje\nantes de que vosotros lleguéis, pero...
+<SPEECH*>Está bien. Dile que estoy llevando\nal maestro fónico Ion y al coronel \nJade Curtiss de Malkuth, y que...
+<SPEECH*>Luke. Tu falta de prudencia\nes verdaderamente sorprendente.
+<SPEECH*>Coronel Curtiss... \n¿Quieres decir que él\nes Jade el Nigromante?
+<SPEECH*>Correcto. \nMis más sinceras disculpas \npor no presentarme.
+<SPEECH*>Porto una carta de paz en nombre\nde Su Majestad, Peony IX,\nemperador de Malkuth.
+<SPEECH*>Su séquito es menor\ndel que podría esperarse...
+<SPEECH*>Sufrimos un buen número de interferencias.\nEspero que pueda perdonarnos.
+<SPEECH*>Estos tíos me salvaron.\nConfía en ellos.
+<SPEECH*>De acuerdo... Enviaré ahora \nmismo una paloma mensajera.<PAGE>\n<SPEECH*>El barco estará listo para partir mañana, así que \npor favor, descansad aquí, en el puerto, esta noche.
+<SPEECH*>Gracias.
+Es casi la hora.\n¿Estás listo para partir?
+Espera\nSí
+Espera.
+Comprendido.\nCuando estés listo, habla conmigo.
+Sí.
+Gracias por su ayuda.
+¡Tened un buen viaje!
+Por favor, espera un poco más hasta\nque el barco esté listo para partir.
+Sí.
+Sí.
+Sí.
+¡Listo!
+Sí.
+Espera.
+Por favor, espera un poquito más.
+Por favor, espera un poco más.
+Aguarda un poco más.
+Espera sólo un poco más.
+¿Qué le pasa a esta puerta?\nNo se abre.
+Parece que está sellada con \nfonones especiales. Me pregunto\nsi habrá algo importante dentro.
+Esa cosa siempre huye... Quizá pueda\nbloquearle el paso de algún modo.
+¿Va a volver a salir huyendo?\nSi hubiera algún modo de \nbloquear su camino...
+Supongo que va a huir otra vez.\n¿Deberíamos probar a bloquear su camino?
+Va a volver a huir.\nNecesitamos bloquear su camino.
+Esa cosa siempre huye...\n¿Podemos bloquearla de algún modo?
+¿Qué es esta bola?\n¿La ha dejado caer ese monstruo?<PAGE>\nVaya. \nCreo que voy a guardarla para más adelante.
+El monstruo ha dejado caer esta bola.<PAGE>\nQuizá la necesitemos para algo.\nVamos a llevárnosla.
+¿Qué es esta bola?\nParece que ese monstruo la ha dejado caer...<PAGE>\nVamos a llevárnosla por ahora.
+Ese monstruo ha dejado caer esto.<PAGE>\nQuizá sea útil para algo.\nVamos a llevárnosla.
+Parece que ese monstruo ha dejado caer esto...<PAGE>\nDebe haber algún modo de usarla.\n¡Nos la llevamos!
+¡Hey! \n¡La bola que he cogido antes ha desaparecido!\n¿Sólo podemos llevar dos?
+La bola que cogimos antes ha desaparecido...\nParece que sólo podemos llevar dos.
+¿Eh? \nLa bola que cogimos antes ha desaparecido.<PAGE>\nParece que sólo podemos llevar dos a la vez.
+La bola que cogimos\nantes se ha esfumado.<PAGE>\nParece que sólo\npodemos llevar dos...
+¡Hey! \n¡La bola que cogimos antes ha desaparecido!<PAGE>\nMmm... ¿Eso significa que sólo \npodemos llevar dos a la vez?
+¡Vaya vista más maravillosa!
+Aunque no tiene comparación con Baticul.
+¿Pero qué...?
+H-Ha estado cerca...
+Vamos deprisa al puerto de Kaitzur.
+No tenemos tiempo para visitas turísticas.
+Hey, hey.\nÉste no es el camino\nal puerto de Kaitzur.
+Vamos a Baticul desde\nel puerto de Kaitzur.
+Vamos deprisa al\npuerto de Kaitzur.
+Tenemos que ir a Belkend para\nobtener información de Van.
+Esto no es Belkend.\nVolvamos.
+Vamos a Belkend.\nHay algo que quiero investigar.
+Nos dirigimos a Belkend, ¿no?
+Primero vayamos a Belkend,\ncomo sugirió Asch.
+Ahora nos vamos a la caverna de Ortion.
+La caverna de Ortion es nuestro\ndestino, ¿verdad? Vamos...
+Démonos prisa en ir a la caverna\nde Ortion y encarguémonos de esto.
+La caverna de Ortion está en el territorio\nde Kimlasca, en el continente radessiano.
+<SPEECH*>Así que ésta era nuestra\ncasa de descanso, ¿eh?
+<SPEECH*>Luke, no te alejes\nmucho del grupo.
+<SPEECH*>Ya lo sé, ya lo sé. \nCállate ya.
+<SPEECH*>¡Luke!
+<SPEECH*>¡Luke, detrás de ti!
+<SPEECH*>¿Eh?
+<SPEECH*>Por eso te he dicho que te quedes cerca.
+<SPEECH*>Por tu imprudencia han roto nuestra \nformación y no hemos tenido tiempo\npara prepararnos para la batalla.
+<SPEECH*>Espero que hayas aprendido la lección.
+<SPEECH*>¡Cállate! \n¡¿Cómo se supone que iba a saber eso?! \n¡¿Y qué demonios era esa cosa?!
+Encuentros por sorpresa\nUn encuentro por sorpresa se da cuando\nun enemigo toca al personaje por detrás.<PAGE>\nDurante un encuentro por sorpresa, se\nselecciona una formación de grupo aleatoria\nen vez de la formación establecida.
+<SPEECH*>Es un muñeco fonotecnológico diseñado\npara eliminar intrusos. Un modelo\nrelativamente reciente, aunque parece\nque ha visto días mejores.
+<SPEECH*>¡Ohh, Luke! \n¡¡Tenía tanto miedo!!
+<SPEECH*>Con monstruos así por aquí,\ntenemos que estar atentos.
+<SPEECH*>¡Vale, vale! \n¡Tendré cuidado! \n¡Joder! ¡Ya basta!
+¡Guarf! ¡Guarf! ¡Guarf!
+¿Qué le pasa a este perro?
+*Arf* *arf* *arf*
+¿Quiere comida? \n¿Creéis que se comería un\ngel de manzana o algo?
+No creo que los perros coman\ngeles de manzana, Luke.
+Ha sido una respuesta muy educada, \nteniendo en cuenta la pregunta.
+¡Guarf! ¡Guarf! ¡Guarf! ¡Guarf!
+Es tan suave...
+Desde luego, parece que\nestá pidiendo algo.
+Anise, ¿sabes qué\nestá diciendo?
+¡Claro que no! \nNo soy Lugubrietta.
+*Auuu* *Auuu*
+¿Mmm?
+¡Hey!
+Vaya, vaya.
+¡Hay alguien ahí! \n¡Está atrapado en las raíces!
+¿Cómo se ha quedado ahí metido?...
+Ohhh...
+*Auuu* *Auuu*
+Quizá sea el dueño del perro.\nDebe estar pidiéndonos\nque le rescatemos.
+Rescatar a ciudadanos en problemas\nes uno de los deberes de la realeza.\n¡Ayúdale, Luke!
+Uh... de acuerdo...
+Hemos usado el Fuego de Mieu para\nquemar raíces como esas antes.
+¡Guarf! ¡Guarf! ¡Guarf! ¡Guarf!
+Será mejor que rescatemos a ese tío...
+¡Ou ou quema quema quema!
+*Arf* *arf* *arf* ~
+¡Me habéis salvado! \nGracias.
+¿Estás bien?
+Soy Shiba. \nÉste es mi perro, Peko.
+¡Guarf!
+Soy un artesano de Sheridan.\nViajo por todo el mundo para\nexpandir mis horizontes.
+¿Cómo te has quedado atrapado ahí?
+Ah, vaya, estaba jugando con Peko, \ny antes de que me diera cuenta...
+*Arf* *arf* *arf* ~
+(Menudo personaje...)
+(Este tío es un poco raro...)
+(Menudo friki...)
+(Su cola es tan suave...)
+¡Oh! \n¡Debería daros algo\npor rescatarme!
+No necesitamos nada.
+¡Ya sé!\n¡Os daré esto!
+¡Guarf! ¡Guarf! ¡Guarf!
+¿Qué es esto?
+¿Un cuadro?...
+Sí. Por lo visto es un\nboceto de algún noble.<PAGE>\nLo gané en una subasta por 50.000 gald.\nEs una obra de arte valiosa.
+¡¿En serio?!
+¿Esto vale 50.000 gald? \nIncluso yo podría dibujar algo así...
+Sí, no es demasiado bueno...
+Es difícil llamar arte a esto.
+Aparentemente, es un dibujo que un\nniño de la nobleza hizo de su padre.
+Se supone que hay otro de \nsu madre en alguna parte.
+¿Pero podemos aceptar\nalgo tan valioso?
+¡Si nos lo regala, nos lo llevamos! \n¡Venga!
+Sí, por favor, llevároslo.\nMe salvasteis la vida.\nPor lo menos, dejadme daros esto.
+¡Guarf! ¡Guarf! ¡Guarf!
+De acuerdo...\nGracias.
+Bueno, seguiremos nuestro camino, entonces.\nMuchas gracias de nuevo por salvarme.
+De nada.\nCuidaos.
+Has obtenido el retrato del padre.
+Vaya tío más raro...
+Tengo la extraña sensación\nde que ya he visto este\ncuadro en algún sitio...
+¿Mmm? \nEse cuadro...
+Sí, se parece al \nque nos dio Shiba.
+¡Es igual de malo!
+Shiba dijo que había uno del\npadre y otro de la madre, ¿verdad?
+El que tenemos es el padre, así que\ndebe significar que este otro es la madre.
+Supongo que esa era la intención.
+¿Qué tal si ponemos \nlos cuadros aquí?\nMe da un poco de pena\ntenerlos separados...
+Vaya, vaya.
+Q-Qué...
+Oh, nada.
+Mmm, sí... \nEstos cuadros deberían estar juntos.
+Vale, los pongo otra vez, entonces.
+¿Pero qué...?
+¡Huelo tesoro! @

@@ -1,0 +1,280 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>¡Señor McGovern!\n¿Está bien?
+<SPEECH*>¡Ah! ¡Eres tú!\n¡¿Qué es ese vehículo?!
+<SPEECH*>Mariscal de Campo, hablaremos más tarde.\nAhora vamos a hacer subir a todo el mundo.
+<SPEECH*>Dejadme expresar mi gratitud.\n¿Pero qué va a ser de San Binah?
+<SPEECH*>Supongo que no tardará\nen hundirse bajo el manto.
+<SPEECH*>¡No!\n¡¿No podemos hacer nada?!
+<SPEECH*>Esto es como cuando Hod cayó.\nDicen que tardó un mes en hundirse.
+<SPEECH*>Hod... Mmm...\nAsí que esto es una venganza por lo de Hod...
+<SPEECH*>¿De verdad no hay nada que podamos hacer?...
+<SPEECH*>Es triste perder tu hogar...
+<SPEECH*>Ya es bastante raro que el suelo\nse caiga. No se me ocurre nada que\npodamos hacer. ¡Es inútil!
+<SPEECH*>¡Lo sé! \n¿Y qué hay del sephiroth?
+<SPEECH*>Este lugar se está cayendo porque el maestro Van\nse metió en ese anillo de tránsito y le hizo algo\nal sephiroth, ¿no?
+<SPEECH*>¿No podemos arreglarlo?
+<SPEECH*>Pero nosotros no sabemos\nusar los anillos de tránsito.
+<SPEECH*>¡Tendremos que interrogar al maestro Van y...!
+<SPEECH*>Luke, eso no se puede conseguir.\nEntiendo cómo te sientes, pero...
+<SPEECH*>¡No, no lo entiendes, Guy!\n¡Ninguno de vosotros!
+<SPEECH*>Luke...
+<SPEECH*>¡Fui yo quien destruyó Akzeriuth! \n¡Por eso tengo que hacer algo ahora!
+<SPEECH*>¡Sé que esto no reparará lo que\nhe hecho, pero si por lo menos\npudiera salvar esa ciudad...!
+<SPEECH*>¡Luke!\nContrólate. Así no conseguiremos nada.
+<SPEECH*>Vayamos a Ciudad de Yulia. \nEllos saben más sobre los\nsephiroth que nosotros.
+<SPEECH*>Ahora que la Partitura se ha equivocado\ncon lo de que San Binah estaba a salvo...
+<SPEECH*>Sí, quizá el Abuelo quiera ayudar.
+<SPEECH*>Y Luke, parecías un crío\nhace un momento.
+<SPEECH*>Todos queremos salvar San Binah.
+<SPEECH*>Tienes razón. Lo siento.
+<SPEECH*>No te preocupes.\nNo estamos enfadados ni nada.
+<SPEECH*>Entonces haré despegar el Albiore.

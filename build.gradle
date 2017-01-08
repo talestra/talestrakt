@@ -2,23 +2,23 @@
 //apply plugin: 'application'
 
 repositories {
-    mavenLocal()
-    maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
-    mavenCentral()
+	mavenLocal()
+	maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+	mavenCentral()
 }
 
 buildscript {
-    repositories {
-        mavenLocal()
-        maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
-        mavenCentral()
-    }
-    dependencies {
-        //compile "jmedialayer:jmedialayer:0.1"
-        classpath "com.jtransc:jtransc-gradle-plugin:$jtranscVersion"
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
-        classpath 'com.github.rholder:gradle-one-jar:1.0.4'
-    }
+	repositories {
+		mavenLocal()
+		maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+		mavenCentral()
+	}
+	dependencies {
+		//compile "jmedialayer:jmedialayer:0.1"
+		classpath "com.jtransc:jtransc-gradle-plugin:$jtranscVersion"
+		classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+		classpath 'com.github.rholder:gradle-one-jar:1.0.4'
+	}
 }
 
 //mainClassName = 'com.talestra'

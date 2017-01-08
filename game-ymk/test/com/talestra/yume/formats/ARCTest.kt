@@ -1,6 +1,5 @@
 package com.talestra.yume.formats
 
-import com.soywiz.korio.async.map
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.async.toList
 import com.soywiz.korio.stream.openSync

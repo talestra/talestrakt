@@ -1,0 +1,28 @@
+47AEA0( 8): Enter
+47AEA8( 8): Talk
+47AEB0(16): To Field
+47AEC0( 8): Shop
+47AEC8( 8): Examine
+47AED0( 8): Open
+47AED8( 8): Push
+47AEE0( 8): Pull
+47AEE8( 8): Operate
+47AEF0(16): Press Switch
+47AF00( 8): Go Up
+47AF08( 8): Go Down
+47AF10( 8): Jump
+47AF18( 8): Knock
+47AF20( 8): Read
+47AF28( 8): Rest
+47AF30( 8): Ride
+47AF38( 8): Exit
+47AF40( 8): Move
+47AF48( 8): Grab
+47AF50( 8): ???
+47AF58( 8): !!!
+47AF60( 8): Save
+47AF68( 8): Warp
+47AF70(48): Found %d Gald,\nbut you cannot\ncarry any more.
+47AFA0(16): Found %d Gald.
+47AFB0(16): Found %s,\nbut you cannot\ncarry any more.
+47AFE0(16): Found %s.

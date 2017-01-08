@@ -1,0 +1,135 @@
+## POINTER 5410 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272595]
+Botas buenas
+
+## POINTER 5411 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960730]
+Botas de cuero mejoradas.
+Indispensables en largos viajes.
+
+## POINTER 5420 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960730]
+Botas de hierro
+
+## POINTER 5421 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960730]
+Botas hechas de hierro.
+
+## POINTER 5430 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960730]
+Botas pesadas
+
+## POINTER 5431 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960730]
+Botas de hierro mejoradas.
+Buenas pero pesadas.
+
+## POINTER 5440 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960731]
+Botas de plata
+
+## POINTER 5441 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960731]
+Botas hechas de plata. 
+Normalmente reservadas para uso ceremonial.
+
+## POINTER 5450 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182540336]
+Botas de mítril
+
+## POINTER 5451 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182540336]
+Botas hechas de mítril.
+
+## POINTER 5460 [t:1;r:1;ru:parsec;user:parsec;time:1200267170]
+Botas extraordinarias
+
+## POINTER 5461 [t:1;r:1;ru:parsec;user:parsec;time:1200301686]
+Una obra maestra perfectamente elaborada.
+
+## POINTER 5470 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960822]
+Botas persas
+
+## POINTER 5471 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179960822]
+Botas monas con la forma de la garra de un gato.
+
+## POINTER 5480 [t:1;r:1;ru:parsec;user:parsec;time:1179960822]
+Granate
+
+## POINTER 5481 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961065]
+Una gema protegida por el quinto fonón.
+Se dice que previene la enfermedad.
+
+## POINTER 5490 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961065]
+Aguamarina
+
+## POINTER 5491 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961065]
+Una gema protegida por el cuarto fonón.
+Se cree que protege ante los naufragios.
+
+## POINTER 5500 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961065]
+Ópalo
+
+## POINTER 5501 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961065]
+Una gema protegida por el tercer fonón.
+Difícil de manejar y afecta a los que la poseen.
+
+## POINTER 5510 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961065]
+Rubí
+
+## POINTER 5511 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272596]
+Una gema protegida por el segundo fonón. Usada
+para proteger el amor, la alegría y el coraje.
+
+## POINTER 5520 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961245]
+Ónice negro
+
+## POINTER 5521 [t:1;r:1;ru:parsec;user:parsec;time:1200303278]
+Ahuyenta el mal para mantenerte equilibrado.
+Aumenta el HP un 30%.
+
+## POINTER 5530 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961245]
+Piedra lunar
+
+## POINTER 5531 [t:1;r:1;ru:parsec;user:parsec;time:1200303278]
+Hace a uno muy sensible.
+Aumenta el TP un 30%.
+
+## POINTER 5540 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961245]
+Niebla mágica
+
+## POINTER 5541 [t:1;r:1;ru:parsec;user:kaene;time:1199456914]
+Un cristal con humo sellado dentro. 
+Incrementa la velocidad de huida.
+
+## POINTER 5550 [t:1;r:1;ru:parsec;user:parsec;time:1179961385]
+Alejandrita
+
+## POINTER 5551 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272596]
+Joya que fortalece tu determinación.
+Aumenta el HP y TP un 25%.
+
+## POINTER 5560 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272596]
+Séfira
+
+## POINTER 5561 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272596]
+Un escultura de una diosa sin nombre. 
+Equípala para ganar un 50% más de Gald.
+
+## POINTER 5570 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272596]
+Séfira azul
+
+## POINTER 5571 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272596]
+Un escultura de una diosa sin nombre. 
+Equípala para ganar un 100% más de Gald.
+
+## POINTER 5580 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961534]
+Dado
+
+## POINTER 5581 [t:1;r:1;ru:parsec;user:parsec;time:1200303278]
+Esculpido con el fósil de un animal.
+Aumenta el GRADO ganado en un 10%.
+
+## POINTER 5590 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179961535]
+Dado azul
+
+## POINTER 5591 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272596]
+Hecho de un zafiro de agua.
+Aumenta el GRADO ganado un 20%.
+
+## POINTER 5600 [t:1;r:1;ru:parsec;user:parsec;time:1200303278]
+Muñeca resurrección
+
+## POINTER 5601 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182272596]
+Estatua que simboliza el sacrificio.
+Revive automáticamente a un portador KO.

@@ -1,0 +1,414 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Buenos días, señorito Luke.\nUna sirvienta está limpiando\nla habitación del Duque.
+A pesar de que la señora\nFabre es la hermana pequeña\ndel Rey, habla incluso conmigo.
+Señorito Luke, hemos esperado\nansiosamente su regreso.
+La señora Fabre está\ndescansando en su habitación.<PAGE>\nPor favor, vaya a verla y\ndígale que está usted bien.
+El Duque se ha dirigido al\ncastillo esta mañana.
+¿Qué le pasará al\ngeneral Grants?
+Nos habíamos acostumbrado\na su presencia en la mansión,\nasí que se notaba vacía.<PAGE>\nPero considerando su posición,\nseguro que será por el bien de todos.
+Tiene un gran deber como Embajador\nde Buena Voluntad, pero estoy\nseguro que sabrá hacerlo bien.
+Los Caballeros Blancos estamos siempre\ncon el Duque y con el señorito Luke.
+Por favor, déjenos la protección del\nDuque y la señora Fabre a nosotros.
+Buenos días, señorito Luke.\nEsta mansión es su hogar.
+Siempre le protegeremos.
+Esta mansión está en un lugar\nbastante alto, pero aun así\nle afecta el miasma.
+Si esta situación continúa así durante\nmucho tiempo, sucumbiremos a la\ntoxicosis del miasma...
+B-Buenos días, señorito Luke...
+No-nosotros le protegeremos,\naunque sea usted una réplica...
+Están usando el salón. No\npuedo permitirle entrar.
+Adelante, le están esperando.
+Salón
+Habitación del Duque y la señora Fabre
+Baticul, la Capital de la Luz\nReino de Kimlasca-Lanvaldear\nDía de Rem, Rem-Decan 23, ND2018
+
+<SPEECH*>Otra vez oigo cosas...
+Hola, señorito Luke.\nHace un buen día hoy.
+¿Otra vez con las plantas, Pere?\n¿No te aburres de hacer esto día tras día?
+En absoluto.\nEs mi trabajo.<PAGE>\nNada me hace más feliz que ver\ncómo las flores alegran el corazón\nde los que viven en esta mansión.
+No te ofendas, pero me aburro\ncomo una ostra aquí dentro. \nQuiero mi libertad.
+Sí, puedo entender cómo se siente al\nserle prohibido salir de la mansión.<PAGE>\nPero es una orden directa de Su Majestad. \nDebe esperar un poco más... hasta que sea\nmayor de edad.
+Seguro que ya está cansado de estas\nflores, pero espero que puedan alegrarle\nel corazón.
+Me temo que la entrada no está permitida\nmientras se atiende a los invitados.
+Por favor, entre si lo desea.
+El Maestro de la Orden de Lorelei, \nel general dórico Van Grants\nllegará pronto.
+¿Qué? ¿Hoy viene el maestro Van?\nNo es día de entrenamiento.
+He oído que está aquí por un asunto urgente.<PAGE>\nMe han dicho que le llamarían, señorito,\nasí que por favor, espere en su habitación.
+Deja de llamarme "señorito".
+No, hasta que cumpla 20 años y alcance \nla madurez, seguiré refiriéndome a \nusted como señorito.
+Señorito...
+Por favor, intente no fraternizar\ncon ese jardinero, Pere.<PAGE>\nNo es digno de usted hablar\ncon alguien de su estatus.
+Lo sé, lo sé. Maldita sea.\n¡Y deja ya de darme órdenes!
+Lo siento.
+El general Van Grants está\nesperando en el salón.
+Disculpe, señorito Luke, pero le está\nprohibido abandonar la mansión.
+Por favor, dé media vuelta.
+¡Oh! \nBuenos días, señorito Luke.
+Qué fantástico tiempo hace hoy, ¿verdad?\nTal como predijo la Partitura de la\nOrden de Lorelei. Las piedras fónicas\nbrillan tan preciosas como siempre.
+Es casi la hora de que anuncien el\ntiempo para mañana según la Partitura.
+<SPEECH*>Luke... fragm...\n....lma...\n.....voz...
+<SPEECH*>¡Argh!\nLo sabía.\n¡Es esa maldita voz otra vez!
+<SPEECH*>¡Luke! \n¿Qué pasa?\n¿No será otro de esos dolores de cabeza?
+<SPEECH*>Guy... ¿eres tú?
+<SPEECH*>No pasa nada.\nYa se ha ido.
+<SPEECH*>¿Oyes cosas de nuevo?
+<SPEECH*>Ojalá supiera qué\ndemonios era eso.\nEs tan molesto...
+<SPEECH*>Se están volviendo más frecuentes. \nEmpezaron cuando fuiste secuestrado \npor el Imperio de Malkuth. \n¿Cuánto hace, siete años?
+<SPEECH*>Gracias a ellos, ahora\nme estoy volviendo loco.
+<SPEECH*>Bueno, no te preocupes mucho por eso.<PAGE>\n<SPEECH*>Así que, ¿qué quieres hacer hoy?\n¿Qué tal un poco de práctica con la espada?
+<SPEECH*>Lo siento, pero hoy no.\nEl maestro Van está aquí.
+<SPEECH*>¿Van?\nPero hoy no es día de\nentrenamiento, ¿no?
+<SPEECH*>Por lo visto ha pasado algo.
+<SPEECH*>¿Señorito Luke? \n¿Puedo entrar?
+<SPEECH*>Oh-oh.\nNo puedo dejar que me vean aquí.<PAGE>\n<SPEECH*>Me largo antes de que me pillen.\nNos vemos.
+<SPEECH*>¿Señorito Luke?
+<SPEECH*>Sí, sí, te oigo.\nPasa, está abierto.
+<SPEECH*>Su Merced reclama su\npresencia en el salón.
+<SPEECH*>Muy bien. \nPuedes irte.
+<SPEECH*>Supongo que he de ir.
+Su Merced le espera.
+Si pierde mucho tiempo hablando con\nnosotros, Su Merced se enfadará.
+¡Luke!\n¡Haz algo! \n¡Por favor!
+¡Oh, Guy, qué bromista eres!\nVas a ir conmigo luego, ¿no?
+No, mira, ya te lo he dicho, \nNo puedo... es decir...
+En serio, si sigues actuando así\nnunca superarás tu miedo a las mujeres.
+Creo que me voy a desmayar...
+Guy tiene un aire de refinamiento\nque no es normal en un sirviente.<PAGE>\n¡Pero claro, no puede compararse con\nusted, señorito Luke!
+A pesar de sus dificultades con las chicas,\nsiempre es encantador cuando habla con nosotras.\nPor eso no puedo evitar querer mimarle.
+Señorito, todos le\nesperan en el interior.
+<SPEECH*>¿Querías verme, Padre?
+<SPEECH*>Mmm. \nToma asiento, Luke.
+<SPEECH*>¡Hey! \n¡Maestro Van!\n¡¿Vamos a entrenar hoy?!
+<SPEECH*>Tendremos tiempo para eso luego.\nPrimero, debemos hablar de algo.
+<SPEECH*>El general dórico Grants\nvolverá mañana a Daath.
+<SPEECH*>¡¿Eh?! \n¡¿Por qué?!
+<SPEECH*>Ya sabes que soy miembro de los\nCaballeros del Oráculo, parte de\nla Orden de Lorelei.
+<SPEECH*>Eres su comandante, ¿no?
+<SPEECH*>Exacto. Como líder de los Caballeros,\nes mi deber dar protección al\nmaestro fónico Ion.
+<SPEECH*>¿Qué es un "maestro fónico Ion"?
+<SPEECH*>Es el líder de la Orden de Lorelei.<PAGE>\n<SPEECH*>Gracias a él la tregua entre\nel Imperio de Malkuth y nuestro Reino de\nKimlasca-Lanvaldear tiene lugar.
+<SPEECH*>El predecesor de Ion, Evenos, fue el \nhéroe que terminó con la Guerra de Hod,<PAGE>\n<SPEECH*>y en consecuencia, el actual Maestro Fónico\nes un símbolo de la paz que reina hoy.
+<SPEECH*>Desafortunadamente, Ion ha desaparecido.
+<SPEECH*>Por lo tanto, debo cumplir con mi\ndeber como Caballero del Oráculo y\nunirme a la búsqueda del maestro\nfónico Ion.
+<SPEECH*>¡Espera, no puedes hacer eso!\n¡Si te marchas, ¿quién va a entrenarme?!
+<SPEECH*>Je je. Tranquilízate. \nHaré que uno de mis hombres venga\naquí, hasta que yo regrese a Kimlasca. 
+<SPEECH*>¡Pero quiero que TÚ me enseñes!
+<SPEECH*>No seas egoísta, Luke. \nEl general Grants volverá pronto. \nYa es hora de que aprendas a tener paciencia.
+<SPEECH*>¡Por favor, querido! \nYa sabes por lo que ha pasado el chico. \nAún está traumatizado por el secuestro.<PAGE>\n<SPEECH*>Perdió los recuerdos de su infancia... \nPobrecito. ¿No lo sientes por él?
+<SPEECH*>Susanne...\nLe mimas demasiado.
+<SPEECH*>Aun así, pasar la vida encerrado \nen un lugar como éste debe de ser muy duro.
+<SPEECH*>Venga, en serio. \n¿Por qué mi tío ha de tenerme\nrecluido aquí dentro?<PAGE>\n<SPEECH*>Sólo porque es el rey\nya se cree que puede dar órdenes\na quien quiera. Me saca de quicio.
+<SPEECH*>Luke, mi hermano sólo se\npreocupa por tu seguridad.<PAGE>\n<SPEECH*>En tres años serás libre. \nAguanta un poco más, ¿de acuerdo?
+<SPEECH*>Anímate, Luke. \nEntrenaremos muy duro hoy para compensar\nel tiempo que estaré fuera.
+<SPEECH*>Duque, Milady... Con su permiso. \nTenemos que empezar el entrenamiento.
+<SPEECH*>Gracias, general dórico.
+<SPEECH*>Me voy al patio. \nVen cuando estés listo.
+<SPEECH*>Luke, querido, ten cuidado ahí fuera.
+<SPEECH*>Ya lo sé, ya lo sé. \nPesada...
+¿Ya han pasado siete años desde que te\nsecuestraron? A pesar de que es la\nvoluntad de Su Majestad, siento tener\nque obligarte a permanecer aquí dentro.
+Ya lo sabes, me gustaría que\ndejases de estudiar el arte\nde la espada. Ten cuidado.
+<SPEECH*>Ya veo.\nParece que los Caballeros del\nOráculo lo tienen bastante mal.
+<SPEECH*>Dejaré que te encargues tú de\ntodo, por el momento.<PAGE>\n<SPEECH*>Del Duque, del Rey y de Luke...
+<SPEECH*>¡Ah, señorito Luke!
+<SPEECH*>¿Guy? \n¿Qué pasa?
+<SPEECH*>Como Van es un maestro con la espada, \nle estaba pidiendo que me diera unas clases.
+<SPEECH*>¿En serio? \nEso no es lo que\nme ha parecido.
+<SPEECH*>(¿Pero qué...? ¿Viene alguien?)
+<SPEECH*>¡Luke!\n¡¿No me has oído?!
+<SPEECH*>¿Eh? ¡Oh, de acuerdo!
+<SPEECH*>¿Estás listo?
+<SPEECH*>¡Sí, señor!
+<SPEECH*>Supongo que miraré desde aquí. \nVeamos cómo te las apañas, Luke.
+<SPEECH*>Sí, sí.
+<SPEECH*>¿Qué es eso?
+<SPEECH*>¡Esa voz!
+<SPEECH*>¡No... no puedo moverme!
+<SPEECH*>¡Es un himno fónico!\n¡¿Un séptimo fonista ha invadido la mansión?!
+<SPEECH*>Maldita sea... \nMe están entrando ganas de dormir.\n¡¿Qué narices están haciendo los guardias?!
+<SPEECH*>Por fin te he encontrado, Vandesdelca.\n¡Prepárate para morir, traidor!
+<SPEECH*>¡Tear! \n¡Lo sabía!
+<SPEECH*>¡¿Quién demonios eres?!
+<SPEECH*>¡No! \n¡Detente!
+<SPEECH*>¡Resuena!\n¡La voluntad de Lorelei te \nalcanzará... y abrirá el camino!
+<SPEECH*>No, esa voz rara otra vez...
+<SPEECH*>¡¿El séptimo fonón?!
+<SPEECH*>¡Uaaaaaaaaaaaah!
+<SPEECH*>¡Aaaaaaaaaaaaah!
+<SPEECH*>Demasiado tarde... \n¡Los séptimos fonones han\nreaccionado entre ellos!
+<SPEECH*>Hey, ¿qué te ha pasado en la cabeza?
+<SPEECH*>¡Oh, te has dado cuenta!
+<SPEECH*>¿Y quién no lo haría? \n¿Te has cortado el pelo?
+<SPEECH*>Ah... es una alfombra.
+<SPEECH*>¡Es una peluca cara, maldita sea!
+<SPEECH*>¿Por qué puñetas llevas eso?
+<SPEECH*>Cambio de ritmo. \nNuevo estilo.\nYa sabes.
+<SPEECH*>Hey, ¿qué es ese traje?
+<SPEECH*>Sí, he pensado que era un poco raro, pero...
+<SPEECH*>¿Y por qué narices lo estás llevando?<PAGE>\n<SPEECH*>¿Y qué ha pasado con tu pelo?\n¿Te lo has cortado?
+<SPEECH*>Es una peluca.
+<SPEECH*>¿Llevas puesta una alfombra?
+<SPEECH*>¡Una peluca, maldita sea! ¡Una peluca!
+<SPEECH*>Pero por qué demonios...
+<SPEECH*>Ya sabes, estaba tan sorprendido \ncuando te quitaste de repente la \npeluca y te cortaste el pelo...
+<SPEECH*>¿De qué otra forma se supone que \nlo debería haber cortado?
+<SPEECH*>Bueno, ¿qué será lo próximo?\n¿Vas a fabricar una peluca de pelo largo?
+<SPEECH*>No es una mala idea...
+<SPEECH*>Lo siento...\nEstaba bromeando.
+He querido hacer esto desde\nhace un tiempo ya...\nDespués de todo, podrías hacerte\nuna peluca, ¿no?
+S-Sí...\nNo es que haya cambiado de opinión, es\nsólo que tengo el cuello tan descubierto...
+*Suspiro*...
+Todavía con ese pelo, ¿eh? \n¿No te da calor?
+(¡Es justo lo que vi cuando\nestaba conectado con Asch! \nGuy me ha esperado...)
+¡Guy!...
+Espera, ¿eso es una peluca?
+S-Sí...\nMe corté el pelo...
+¿Qué ocurre?...\nPareces nervioso.
+Yo...\nNo soy Luke, así que...

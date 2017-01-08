@@ -1,0 +1,123 @@
+*profiles
+
+¡Atacad!
+¡Contenedlos!
+¡En guardia!
+
+*targets
+
+Cercanos
+Atacar al enemigo más cercano.
+
+Alejados
+Atacar al enemigo más alejado.
+
+Diferentes
+Atacar a enemigos diferentes.
+
+Mismo enemigo
+Atacar al mismo enemigo que el jugador.
+
+Débiles
+Atacar a enemigos con poco HP.
+
+Fuertes
+Atacar a enemigos con mucho HP.
+
+Ayudar aliados
+Defender a aliados con poco HP.
+
+Voladores
+Atacar a enemigos voladores.
+
+Usuarios de artes
+Atacar a enemigos que usen Artes.
+
+*tpuse
+
+Usar el 100%
+Usar Artes hasta quedarse sin TP.
+
+Usar el 75%
+No dejar que el TP baje del 25%.
+
+Usar el 75%
+No dejar que el TP baje del 25%,
+excepto para curar.
+
+Usar el 50%
+No dejar que el TP baje del 50%.
+
+Usar el 50%
+No dejar que el TP baje del 50%,
+excepto para curar.
+
+Usar el 25%
+No dejar que el TP baje del 75%.
+
+Usar el 25%
+No dejar que el TP baje del 75%,
+excepto para curar.
+
+No usar
+No usar ningún Arte.
+
+*behaviour
+
+Normal
+Mantener la distancia y atacar.
+
+Cubrirse
+Mantener la posición.
+
+Sólo Artes
+Usar únicamente Artes de ataque y Artes fónicos
+
+Artes de ataque
+Usar mayoritariamente Artes de ataque.
+
+Artes fónicos
+Usar mayoritariamente Artes fónicos.
+
+Curar
+Prestar atención al HP.
+
+Asistir
+Ayudar al grupo con Artes fónicas.
+
+*items
+
+No usar
+No usar ningún objeto.
+
+Cuidar HP
+Usar objetos cuando el HP está bajo.
+
+Cuidar TP
+Usar objetos cuando el TP está bajo.
+
+Condición
+Usar objetos al haber un cambio
+de condición.
+
+Libre
+Uso libre de objetos.
+
+*overlimit
+
+Usar
+Usar límite siempre que puedas.
+
+Cerca
+Usar límite cerca de un enemigo.
+
+Lejos
+Usar límite a cierta distancia.
+
+Conservar
+Conservar límite para cuando
+estés en peligro.
+
+No usar
+No usar límites.
+

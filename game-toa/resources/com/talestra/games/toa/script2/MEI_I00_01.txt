@@ -1,0 +1,351 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+El fuego es un ente vivo.\n¿Lo entiendes, joven?<PAGE>\nCualquier pequeño cambio en la forma de\nmanejar el fuego afecta a la calidad del arma.
+El fuego es una parte intrínseca\nde la forja de armas. Controlar\nsu intensidad es realmente importante.
+Lo has entendido bien.\n¿Tienes algún material?
+¿Materiales?\n¿Te refieres a algo como un mineral?
+Sí. Si tienes algún material para construir\nequipamiento, haré algo para ti.<PAGE>\nPor supuesto, tú tendrás que ayudarme.
+Ya lo has oído, Guy.
+Tío, ¿por qué siempre tengo que \nhacer todo el trabajo físico?
+Agh, venga. Eres bueno con\nlas manos y esas cosas.
+Mmm, sí, y al contrario que tú y tus músculos\nde mentira, yo tengo algo de fuerza.
+¡Hey!\n¡¿Qué se supone que significa eso?!
+Vamos a ver,\n¿Tienes arena férrea,\npolvo de oro y roca?
+¿Estos?
+Has entregado arena férrea,\npolvo de oro y roca.
+Bien, bien.\nEmpezaremos con algo simple.
+¿Qué deberíamos construir?
+Armadura, ¿eh? \n¿Estás seguro?
+Un casco, ¿eh?\n¿Estás seguro?
+¿Un brazalete, eh? \n¿Estás seguro?
+Entonces vamos a empezar.\nTú, ponte allí.
+¡Enséñanos lo que tienes, semental!
+¿Dónde aprendió a hablar así?...
+Parece que te faltan ingredientes. \nVuelve cuando los tengas.
+¿Qué?\n¿Has cambiado de opinión?\nEstoy decepcionado.
+¿Has traído viruta de hierro,\npolvo de oro y una roca?
+Escucha.\nManipula los fuelles justo en\nel momento en que te lo diga.<PAGE>\nSi no lo haces bien,\nesto será un fracaso.
+Pulsa alternativamente \n<06*> y <06*> y ajústate\nal ritmo del herrero.\nSi tienes éxito, obtendrás un objeto.\nSi quieres cancelar antes de terminar,\npulsa <06*>, pero si lo haces\nno obtendrás nada.
+¿Estás listo?\nAllá vamos.
+Has hecho un buen trabajo.\nMira, échale un vistazo.\nEs un éxito.
+La próxima vez haremos uno\nun poco más difícil.<PAGE>\nVuelve dentro de un rato.
+Estoy ocupado con mi trabajo de verdad.\nTe haré algo la próxima vez.
+Es un fracaso...
+Necesitas más entrenamiento.\nNo te des por vencido.\nVuelve e inténtalo de nuevo de vez en cuando.
+¿Has traído viruta de hierro,\npolvo de oro y una roca?
+Ah, has regresado.\nEl fuego es un ente vivo.\n¿Lo entiendes?
+Lo sabemos.\n¿Verdad, señor No-tan-fuerte-como-parece?
+Cállate...
+Éste va a ser un poco más difícil.\n¿Tienes el mineral de cobre, el mineral\nde plata y el mineral de oro?
+Aquí está.
+Has entregado mineral de cobre,\nmineral de plata y mineral de oro.
+Vale.\n¿Qué haremos esta vez?
+Un bastón, ¿eh?\n¿Estás seguro?
+Una lanza, ¿eh?\n¿Estás seguro?
+Una armadura ligera, ¿eh?\n¿Estás seguro?
+Entonces empecemos. \nTú, ponte ahí.
+Vale.\nVamos allá.
+Parece que te faltan ingredientes. \nVuelve cuando los tengas.
+¿Qué, has cambiado de opinión?\nMe decepcionas.
+¿Has conseguido el mineral de cobre,\nel de plata y el de oro?
+Escucha. Manipula los fuelles cuando\nyo diga, justo como la última vez.<PAGE>\nPero esta vez requeriré más precisión.
+Pulsa <06*> y <06*> alternadamente.\nPara parar en medio, pulsa <06*>.
+¿Estás listo?\nEsta vez va a ser más largo que\nla anterior, así que aguanta ahí.
+Estuvo bien.\nÉchale un vistazo.\nEs un éxito.
+La próxima vez, ¡intentaremos\nalgo aún más difícil!<PAGE>\nVuelve a verme más tarde.
+Déjame preocuparme de mi \ntrabajo principal por un tiempo
+......Es un fracaso
+Necesitas más entrenamiento. \nUna vez hayas recogido los\nmateriales, vuelve otra vez.
+¿Has conseguido el mineral de cobre,\nel de plata y el de oro?
+Te he estado esperando, joven. \n¿Has entendido que el\nfuego es un ser vivo?
+¡Sí! \n¡Déjamelo a mí! @
+Luke... no estás engañando a nadie...
+No importa.\nHoy es nuestro último reto.\nHará falta mucha perseverancia.<PAGE>\nLos materiales finales son el mineral de\nLibavius, madera sagrada y metal de Naevi.
+Aquí está.
+Has entregado mineral de Libavius,\nmadera sagrada y metal de Naevi .
+Muy bien. \n¿Qué haremos esta vez?
+¿Una espada, eh? \n¿Estás seguro?
+¿Un arco, eh? \n¿Estás seguro?
+Armadura, ¿eh? \n¿Estás seguro?
+Entonces empecemos. \nTú, ponte ahí.
+Correcto. \n¡Vamos pues!
+Parece que no tienes los materiales neces arios.\nRecoger materiales es una parte de tu \nentrenamiento. ¡Vete fuera a buscarlos!
+¿Has cambiado de opinión?\nEstoy decepcionado.
+Los materiales finales son mineral\nlibavius, madera sagrada y metal de Naevi.
+Creo que a estas alturas ya lo\nsabes, pero debes controlar\nlos fuelles justo como yo diga.
+Pulsa <06*> y <06*> alternadamente.\nPara parar en medio, pulsa <06*>.
+Éste es el último. Es un camino largo,\ndificultoso, pero sé que tú\npuedes hacerlo hasta el final.
+¡Bien hecho!\nTener éxito en este desafío\nes algo digno de elogio.
+Tu duro y largo entrenamiento ha llegado a su fin.<PAGE>\nTienes el potencial para llegar a ser un\ngran herrero. Vuelve cuando quieras.
+Je je, ya has escogido tu\npróximo trabajo, ¿eh Guy? @
+Puede que no sea tan malo.
+¿Lo dices en serio?\nPere va a ponerse furioso.
+Dejaré que tú te encargues de Pere.
+Si decides que quieres continuar\nmi negocio, vuelve cuando puedas.\nEstaré esperándote.
+...... \nEs un fracaso.
+No me sorprende que encuentres esto difícil.\nSi puedes superarlo, habrás alcanzado\nla cima. Vuelve e inténtalo de nuevo\ncuando desees.
+Los materiales finales son mineral\nlibavius, madera sagrada y metal de Naevi.
+¿Entregar <05*>,\n<05*>, y <05*>?\nSí\nNo
+¿Qué quieres hacer?\nArmadura\nCasco\nAnillo\nCancelar
+Vale\nOlvídalo
+¿Entregar <05*>,\n<05*>, y <05*>?\nSí\nNo
+¿Qué quieres hacer?\nBastón\nLanza\nArmadura ligera\nCancelar
+Vale\nOlvídalo
+¿Entregar <05*>,\n<05*>, y <05*>?\nSí\nNo
+¿Qué quieres hacer?\nEspada \nArco\nArmadura\nCancelar
+Vale\nOlvídalo
+Has obtenido <05*>
+Gíralo.
+Sigue así.
+¡Más rápido!
+¡¡Más rápido!!
+¡Más lento!
+¡¡Más lento!!

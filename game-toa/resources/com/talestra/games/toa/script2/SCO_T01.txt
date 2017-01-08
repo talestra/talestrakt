@@ -1,0 +1,300 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>¿Estarán las fuerzas del Coronel bien?
+<SPEECH*>No puedo imaginar que se vengan\nabajo, aunque pueden aterrarse\ny huir cuando lo vean.
+<SPEECH*>¡Eso no es bueno, Coronel!
+<SPEECH*>Ja ja. Estaba bromeando.
+<SPEECH*>Da la sensación de que este\nagujero me va a absorber.\nProsigamos, Luke.
+<SPEECH*>Sí. Gracias, Guy.
+<SPEECH*>Te dije, Padre, que con la invasión de\nKaitzur, no podemos permitir que\nlas tropas salgan de la ciudad.
+<SPEECH*>Pero si no evacuamos a los civiles,\n¡San Binah se convertirá en\nla próxima Akzeriuth!
+<SPEECH*>No podemos hacer ningún movimiento sin\nuna orden de Su Majestad Imperial.
+<SPEECH*>¡Si lo que esperabais era una orden del\nemperador Peony, aquí la traemos!
+<SPEECH*>¡¿Coronel Curtiss?!\n¡Estás vivo!
+<SPEECH*>¿Qué dijo Su Majestad?
+<SPEECH*>Tenemos que evacuar a los\nciviles al área de Engeve.
+<SPEECH*>Pero eso supondrá dejar\nla ciudad desprotegida...
+<SPEECH*>¡¿A quién le importa?!\n¡Toda el área ha empezado a caer!
+<SPEECH*>Mis tropas asumirán la escolta de los\nciviles durante parte del camino.<PAGE>\n<SPEECH*>Una vez que éstos hayan salido, haga que sus fuerzas\nvayan al oeste para unirse con las las del general\nNordheim en el este de las llanuras de Rúgnica.
+<SPEECH*>Entendido.\nPues vamos a abandonar San Binah.
+<SPEECH*>De acuerdo. Informaré a los residentes.
+<SPEECH*>Nosotros también ayudaremos.
+<SPEECH*>Bien.
+<SPEECH*>¡Corred!
+<SPEECH*>¡¿Qué demonios?!
+<SPEECH*>¡Aah ja ja ja ja!\n¡Por fin te he encontrado, Jade!
+<SPEECH*>Ahora no es el momento, Dist.\nNunca fuiste capaz de saber\ncuándo no se te quiere.
+<SPEECH*>¡Di lo que quieras!\n¡Me llevo al maestro fónico Ion!
+<SPEECH*>Me temo que no.\nAhora, lárgate.
+<SPEECH*>¿Pretendes salvar a esos gusanos?\n¡Y después de desistir con la profesora Nebilim!
+<SPEECH*>¿Aún sigues con esa estupidez?
+<SPEECH*>¡No tienes derecho a criticarme!\n¡Lo dejaste incluso antes de empezar!\n¡Ahora, entrégame al Maestro Fónico!
+<SPEECH*>¡Nooooo!\n¡Mi precioso Káiser Dist!
+<SPEECH*>¡Esto no va a quedar así!\n¡La próxima vez, os haré trizas!
+<SPEECH*>No creo que lo alcancéis,\npero seguidle por si acaso.
+<SPEECH*>¡Sí, señor!
+<SPEECH*>¡Maldita sea!\n¡McGovern y los demás están...!
+<SPEECH*>¡Luke, espera!\n¡Saltaré abajo y cantaré un himno fónico!
+<SPEECH*>Espera. Aún queda un número\nconsiderable de residentes.<PAGE>\n<SPEECH*>No puedes protegerlos a todos con tu\nhimno. Pensemos en un plan más acertado.
+<SPEECH*>¡No os preocupéis por nosotros!\n¡Encargaos de los demás!
+<SPEECH*>¡Maldita sea!\n¡¿No hay nada que podamos hacer?!
+<SPEECH*>Ojalá pudiéramos volar.
+<SPEECH*>Volar... Hey, he oído que hacían\nexperimentos de vuelo en Sheridan.
+<SPEECH*>¿Experimentos de vuelo?\n¿Qué es eso?
+<SPEECH*>Si mal no recuerdo, tienen un antiguo\naeromotor que la Orden encontró.<PAGE>\n<SPEECH*>Supuestamente, en la época de Yulia\nacoplaban estos dispositivos a vehículos\ny volaban con ellos.<PAGE>\n<SPEECH*>Todos los aficionados a las\nmáquinas fónicas han estado\nhablando de esto.
+<SPEECH*>Sí, yo aprobé el proyecto de\ncompartir tecnología con Kimlasca.\nLos experimentos de vuelo deberían\nestar llevándose a cabo.
+<SPEECH*>¡Es perfecto! ¡Pidámosles lo que\nsea que usen para los experimentos!<PAGE>\n<SPEECH*>¡Si nos damos prisa, tal\nvez les podremos salvar!
+<SPEECH*>¿Llegaremos a tiempo? Esta situación\nparece distinta que la de Akzeriuth,\npero aun así...
+<SPEECH*>Por lo que oí de Van, Hod\ntardó bastantes días en caer.<PAGE>\n<SPEECH*>Hay un campo de fuerza llamado\n"Línea Divisoria" entre el Qliphoth\ny las Tierras Exteriores.<PAGE>\n<SPEECH*>Dijo que cayeron más rápido\nal traspasar esa línea.
+<SPEECH*>¡Intentémoslo!\n¡Es mejor que no hacer nada!
+<SPEECH*>Sí. Al menos hagamos lo que podemos.
+<SPEECH*>Sheridan está en Radessia,\nen el mismo lado que Baticul.<PAGE>\n<SPEECH*>Tenemos que tener cuidado de no ser\ncapturados por las tropas de Kimlasca.
+<SPEECH*>¡Vale, volvamos al Tartarus!

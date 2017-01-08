@@ -1,0 +1,109 @@
+// Titles
+0057AEF0:'Información'
+0057AEF8:'Seleccionar'
+
+// Comunes
+005BA480:'Atajo'
+
+// Usar pomo alado
+0057AF60:'Guardar\nVolver a la entrada con un pomo alado'
+0057AF90:'¿Usar %s?\n   (quedan %d)\nSí\nNo'
+005831A0:'Quedan %d'
+
+005B8F90:'Asegúrate de que al menos un\nmiembro del grupo puede luchar.'
+005B8FE0:'¿Por quién vas a cambiar?'
+
+
+
+005B9250:'Categoría'
+005B9260:'Parámetros'
+005B9270:'Alfabéticamente'
+005B92A0:'Herramientas'
+005B92A8:'Armas'
+005B92B0:'Armadura'
+005B92B8:'Accesorios'
+005B92C8:'Comida'
+005B92D0:'Obj. de valor'
+
+005B9330:'ATQ F.'
+005B9338:'DEF F.'
+005B9340:'ATQ M.'
+005B9348:'DEF M.'
+005B9358:'SUERTE'
+005B9360:'A. ATR'
+005B9368:'D. ATR'
+
+
+005B99C8:'ATQ F.'
+005B99D0:'DEF F.'
+005B99D8:'ATQ M.'
+005B99E0:'DEF M.'
+
+005B9B58:'On/Off'
+005B9B68:'Volver'
+
+
+
+005B9D08:'Cancelar'
+005B9F38:'Quitar'
+005B9F48:'Confirmar'
+005B9F58:'Volver'
+
+005B9FA8:'ATQ F.'
+005B9FB0:'DEF F.'
+005B9FB8:'ATQ M.'
+005B9FC0:'DEF M.'
+
+005BA0C0:'Cambiar formación'
+005BA0E0:'Cambiar estrategia'
+005BA0F8:'Confirmar'
+005BA108:'Volver'
+
+005BA150:'Renombrar estrategia'
+
+005BA190:'Por defecto'
+005BA1A0:'Objetivo'
+005BA1B0:'Acción'
+005BA1B8:'Objetos'
+005BA218:'Comando'
+005BA348:'Confirmar'
+005BA358:'Volver'
+005BA368:'Artes'
+
+005BA418:'¿Quitar?\nSí\nNo'
+005BA428:'¿Equipar?\nSí\nNo'
+
+005BA578:'Página siguiente'
+005BA590:'Volver'
+005BA5A0:'Página anterior'
+
+005BA5B8:'Confirmar'
+
+005BA668:'Quitar'
+
+
+005BB2E8:'HP Max'
+005BB2F0:'TP Max'
+005BB2F8:'ATQ F.'
+005BB300:'DEF F.'
+005BB308:'ATQ M.'
+005BB310:'DEF M.'
+
+005BCAF8:'Nada'
+
+//005C0728:'SoldOut'
+005C0728:'Agotado'
+
+
+005C0820:'Tabla de contenidos'
+005C0840:'Volver'
+005C0850:'Confirmar'
+
+005C08A8:'Menú'
+
+
+// Ancho de Objetivo (0x0D)
+$$:0054C804:ushort:0x0A
+
+// Ancho de Objetos (0x0E)
+$$:0054C84C:ushort:0x0B

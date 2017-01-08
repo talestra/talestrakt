@@ -1,0 +1,1528 @@
+
+
+
+
+
+
+
+
+
+
+
+
+@o0
+
+
+
+
+
+
+
+@p4
+
+
+
+
+@s5DISEÑO DE PERSONAJES
+@\6
+KOSUKE FUJISHIMA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5TEMA DE APERTURA "KARMA"
+
+@s5ARTISTA
+@\6
+@hBUMP OF CHICKEN
+
+@s5PRODUCIDO POR
+@\6
+@hBUMP OF CHICKEN & MOR
+
+@s5LETRA Y MÚSICA
+@\6
+Motoo Fujiwara
+
+@s5GRABACIÓN Y MEZCLADO
+@\6
+Makino "Q" Eiji
+
+
+
+
+
+
+@s5MÚSICA INSTRUMENTAL
+@s5DISTRIBUCIÓN
+
+@s5DIRECTOR DE SONIDO
+@\6
+Hideki Sakamoto
+
+@s5DISEÑADOR DE SONIDO
+@\6
+Yasushi Asada
+
+@s5DIRIGIDO
+@\6
+noisycroak Co.,Ltd.
+
+
+@p3
+
+
+
+
+
+
+@s5Himno Fónico "FUKA"
+
+@s5ARTISTA
+@\6
+Motoo Fujiwara
+
+@s5VOCAL
+@\6
+Tear
+
+@s5LETRA Y MÚSICA
+@\6
+Motoo Fujiwara
+
+@s5PRODUCTOR
+@\6
+@hMotoo Fujiwara & MOR
+
+@s5PROGRAMADOR
+@\6
+Yasunori Ohwada
+
+@s5GRABADO Y MEZCLADO
+@\6
+Makino "Q" Eiji
+
+
+
+@s5TEMA DE FONDO
+
+@s5ARTISTA
+@\6
+Motoo Fujiwara
+
+@s5COMPUESTO Y ORGANIZADO
+@\6
+Motoo Fujiwara
+
+@s5PRODUCTOR
+@\6
+@hMotoo Fujiwara & MOR
+
+@s5PROGRAMADOR
+@\6
+Yasunori Ohwada
+
+@s5MEZCLADO
+@\6
+Makino "Q" Eiji
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5NAMCO TALES STUDIO LTD.
+
+
+
+@s5DIRECTORES GENERALES
+@\6
+Akiyoshi Sarukawa
+@\6
+Kiyoshi Nagai
+@\6
+Eiji Kikuchi
+
+
+@s5JEFE DE PLANIFICACIÓN
+@\6
+Takashi Hasegawa
+
+
+@s5DISEÑADOR DE MAZMORRAS
+@\6
+Kenji Anabuki
+
+@s5DISEÑADOR DE CIUDADES
+@\6
+Hidenori Yamauchi
+
+@s5DISEÑO DE BATALLAS/ENEMIGOS
+@\6
+Go Murai
+
+@s5PROGRAMACIÓN DE BATALLAS
+@\6
+Osamu Hisano
+
+
+@s5PROGRAMACIÓN PRINCIPAL
+@\6
+Yu Otsuka
+
+
+@s5PROGRAMADORES DE SISTEMA
+@s5PRINCIPAL
+@s5PROGRAMADOR DE LOCALIZACIÓN
+@\6
+Takahiro Akiyama
+
+@s5PROGRAMADORES DE EXTERIORES
+@\6
+Noriyuki Yasuda
+
+@s5SOPORTE DE PROGRAMACIÓN PRINCIPAL
+@\6
+Isamu Matsushita
+@\6
+Takashi Mizushima
+
+@s5SOPORTE DE PROGRAMACIÓN DE BATALLAS
+@\6
+Shin Kawano
+
+@s5SOPORTE DE PROGRAMACIÓN DE SISTEMA
+@\6
+Yoshimasa Enji
+
+
+@s5DIRECTOR DE GUIÓN
+@\6
+Naoto Miyadera
+
+@s5EDITORES DE EVENTOS DE GUIÓN
+@\6
+Soichiro Miyano
+@\6
+Ken Ito
+
+@s5SOPORTE DE EVENTOS DE GUIÓN
+@\6
+Takahiro Kawase
+@\6
+Masaki Kubota
+
+@s5EDITOR DE GUIÓNES DE SKITS
+@\6
+Ichio Takami
+
+
+@s5JEFE DE DISEÑO DE
+@s5GRÁFICOS DE MAZMORRAS
+@\6
+Kouichi Wakatsuki
+
+@s5DISEÑO DE GRÁFICOS DE MAZMORRAS
+@\6
+Satoshi Katsube
+@\6
+Yuko Kajihara
+@\6
+Sou Segoe
+@\6
+Masahiro Takahama
+
+
+@s5JEFE DE DISEÑO DE
+@s5GRÁFICOS DE CIUDADES
+@\6
+Shinya Hirota
+
+@s5DISEÑO DE GRÁFICOS DE CIUDADES
+@\6
+Tomohiro Hayashi
+@\6
+Natsuko Terasawa
+@\6
+Erina Shibata
+
+
+@s5JEFE DE DISEÑO DE GRÁFICOS
+@s5DE EVENTO & DIRECTOR DE SKITS
+@\6
+Kazuhiro Koizumi
+
+@s5DISEÑO DE GRÁFICOS DE EVENTOS
+@\6
+Chiharu Ishii
+@\6
+Yutaka Nihei
+
+
+@s5DIRECCIÓN DE PERSONAJES 3D
+@s5DISEÑO DE GRÁFICOS
+@\6
+Seika Arai
+
+@s5MODELADOR DE PERSONAJES
+@\6
+Masahiko Musha
+
+@s5PERSONAJES DE EVENTO
+@s5DISEÑADOR/MODELADOR
+@\6
+Keiichi Asai
+
+@s5PERSONAJES 3D
+@s5DISEÑADORES GRÁFICOS
+@\6
+Masaaki Kanbayashi
+@\6
+Takuya Kishimoto
+@\6
+Yoshinobu Maezawa
+
+
+@s5JEFE DE DISEÑO DE
+@s5GRÁFICOS/MONSTRUOS
+@\6
+Satoshi Nakamura
+
+@s5ANIMADORES DE MONSTRUOS
+@\6
+Takashi Shimano
+@\6
+Keisuke Nitta
+
+@s5DISEÑO DE GRÁFICOS DE MONSTRUOS
+@\6
+Shinichi Yamaguchi
+@\6
+Yoshihito Kawanishi
+@\6
+Takayuki Tsumura
+
+
+@s5JEFE DE ANIMACIÓN DE PERSONAJES
+@s5& DIRECTOR DE EVENTOS
+@\6
+Masashi Ito
+
+@s5ANIMADORES DE EVENTO
+@\6
+Hisato Ito
+@\6
+Yuji Onishi
+@\6
+Keigo Nakamura
+
+@s5ANIMADORES DE BATALLA
+@\6
+Go Motoyama
+@\6
+Mayumi Negishi
+@\6
+Jinya Kitsui
+
+
+@s5DISEÑO DE FONDOS DE BATALLA
+@\6
+Akiyoshi Hoshi
+
+@s5DISEÑO DE GRÁFICOS DE CAMPO
+@\6
+Taku Matsuda
+
+@s5DISEÑO DE GRÁFICOS DE SISTEMA
+@\6
+Nao Yanase
+
+@s5DISEÑO DE EFECTOS GRÁFICOS
+@\6
+Natsuko Taki
+
+
+@s5GUIÓN
+@\6
+Takumi Miyajima
+
+
+@s5DIRECCIÓN DE PROCESO
+@\6
+Yuzo Amano
+
+@s5SOPORTE DE DIRECCIÓN DE PROCESO
+@\6
+Takeshi Yokoyama
+
+
+@s5PROGRAMADOR DE SONIDO
+@\6
+Shuji Ikegami
+
+@s5COMPOSITORES DE MÚSICA
+@\6
+Motoi Sakuraba
+@\6
+Shinji Tamura
+
+@s5EFECTOS DE SONIDO
+@\6
+Atsushi Horiguchi
+@\6
+Hiroshi Tamura
+
+
+@s5AGRADECIMIENTOS ESPECIALES
+@\6
+Yoshifumi Osaki
+@\6
+Junichi Uchida
+@\6
+Yuri Handa
+@\6
+Maki Kojima
+@\6
+Masahiro Abe
+@\6
+Norio Takahashi
+@\6
+Chiaki Sasakura
+@\6
+Isao Kadowaki
+@\6
+Keita Matsui
+@\6
+Kazushige Tomita
+@\6
+Hiroyuki Suzuki
+@\6
+Nobuyuki Sawada
+@\6
+Miho Terada
+@\6
+Asao Furukawa
+@\6
+Susumu Oomameuda
+@\6
+Masafumi Takagi
+@\6
+Shizuka Makino
+@\6
+Makiko Tono
+@\6
+Yuri Suzuki
+@\6
+Kaho Yamauchi
+@\6
+Ryuji Ooki
+@\6
+Ryuichiro Okamoto
+
+@s5ADMINISTRADORES DE DEPURACIÓN
+@\6
+DIGITAL Hearts Co., Ltd
+@\6
+Yoshinori Monma
+@\6
+Tatsuya Nakao
+
+
+
+
+
+
+
+
+@s5CREEK & RIVER Co., Ltd.
+
+@s5DIRECTOR DE CG
+@\6
+Yoshiyuki Aiuchi
+
+@s5JEFE DE DISEÑO
+@\6
+Toshiyuki Hashimoto
+
+@s5DISEÑO DE CGs
+@\6
+Yoshiyuki Aiuchi
+@\6
+Toshiyuki Hashimoto
+@\6
+Takashi Saito
+@\6
+Masahiro Hattori
+@\6
+Ai Yoshida
+@\6
+Mika Endo
+@\6
+Kaori Sakai
+
+
+
+
+
+
+@s5PROKION Inc.
+
+@s5MAPAS DE INTERIOR
+@s5DISEÑO DE GRÁFICOS
+@\6
+Chisako Kinumura
+@\6
+Yuko Kobayashi
+@\6
+Takahiro Fukuda
+@\6
+Hideyuki Minemori
+@\6
+Kazuhiro Miyawaki
+@\6
+Mayumi Yabe
+@\6
+Midori Yamanouchi
+
+@s5MAPAS DE MAZMORRAS
+@s5DISEÑO DE GRÁFICOS
+@\6
+Chisako Kinumura
+@\6
+Yuichiro Takao
+@\6
+Midori Yamanouchi
+
+
+
+
+
+
+
+
+@s5Crest works
+
+@s5PERSONAJES 3D
+@s5DISEÑADORES GRÁFICOS
+@\6
+Kouhei Miyazaki
+@\6
+Yoshio Nozawa
+
+
+
+
+
+
+
+
+@s5MINE LOADER SOFTWARE CO., LTD.
+
+@s5ENCARGADO DEL PRODUCTO
+@\6
+@hXu zhen
+
+@s5DIRECTOR DE ARTE
+@\6
+@hGong lizhao
+
+@s5DISEÑADORES
+@\6
+@hYan shuang
+@\3
+@hShi quangu
+@\3
+@hQiu peng
+@\3
+@hSong changhu
+@\3
+@hSun jian
+
+@s5AGRADECIMIENTOS ESPECIALES
+@\6
+@hSu Fang
+@\3
+@hTang yudong
+@\3
+@hHonjoh haori
+@\3
+@hHuang yanzhong
+
+@\3
+@h@s4MINE LOADER SOFTWARE CO., LTD.
+
+
+
+
+
+
+
+
+@s5CORTOMETRAJES 3D CG
+
+@s5Digital Zero., Inc.
+
+@s5DIRECCIÓN
+@\6
+Hirotaka Koizumi
+@\6
+Yasutaka Kaneshige
+@\6
+Yuji Takada
+
+@s5DISEÑADORES
+@\6
+Hiroki Maekawa
+@\6
+Sadanobu Inada
+@\6
+Koji Saito
+@\6
+Kenichi Orito
+@\6
+Toshiya Arai
+@\6
+Shinsuke Nakagawa
+@\6
+Yuji Sato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5SONIDO
+
+
+@s5PRODUCCIÓN DE SONIDO
+
+
+
+
+@p1
+
+
+
+
+
+@s5DIRECTOR DE SONIDO
+@\6
+Motoi Izawa
+
+@s5PRODUCCIÓN DE SONIDO
+@\6
+Tomoko Nakamura
+
+@s5ESTUDIO DE GRABACIÓN
+
+
+
+
+@p2
+
+
+
+
+
+@s5MEZCLA
+@\6
+Hiroaki Uchiyama
+
+@s5ASISTENTE DE MEZCLA
+@\6
+Hisashi Yamamoto
+
+@s5EFECTOS DE ANIMACIÓN DE SONIDO
+@\6
+Masami Kitakata
+@s5(FIZZ SOUND CREATION co.,ltd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5CORTOMETRAJES ANIMADOS
+
+
+@s5PRODUCTOR
+@\6
+Hidekazu Terakawa
+
+@s5DIRECTOR/HISTORIA
+@\6
+Kazuhiro Furuhashi
+
+@s5DISEÑO DE ANIMACIONES
+@s5DE PERSONAJES
+@\3
+ILUSTRACIONES DEL ESTADO
+DE LOS PERSONAJES
+@\3
+SUPERVISOR DE ANIMACIÓN
+DE FOTOGRAMAS CLAVE DE SKITS
+@\6
+Tokuyuki Matsutake
+
+
+@s5SUPERVISOR DE ANIMADORES
+@s5DE FOTOGRAMAS CLAVE
+@\6
+Tokuyuki Matsutake
+@\6
+Kanta Kamei
+
+@s5ANIMADORES DE FOTOGRAMAS
+@s5CLAVE DEL OPENING
+@\6
+Atsushi Takeuchi
+@\6
+Syoko Nakamura
+@\6
+Kazutika Kise
+@\6
+Atsushi Nishigori
+@\6
+Hidenori Matsubara
+@\6
+Takashi Hashimoto
+@\6
+Kiyoshi Tateishi
+@\6
+Haruo Sotozaki
+@\6
+Yasunori Miyazawa
+@\6
+Koichi Hashimoto
+@\6
+Kazuhiro Furuhashi
+@\6
+Atsuko Nakajima
+@\6
+Toshihiro Kawamoto
+@\6
+Norio Matsumoto
+
+@s5EVENTOS
+@\6
+Kanta Kamei
+@\6
+Syoko Nakamura
+@\6
+Yasunori Miyazawa
+@\6
+Atsuko Inoue
+@\6
+Shinya Ohira
+@\6
+Hideki Takahashi
+@\6
+Ryota Niino
+@\6
+Fumi Morita
+@\6
+Makoto Yamada
+@\6
+Shoichi Masuo
+@\6
+Toshiyuki Yahagi
+@\6
+Kazunori Akiyama
+
+@s5EPÍLOGO
+@\6
+Takayuki Goto
+@\6
+Mitsunobu Nakamura
+@\6
+Keita Matsumoto
+
+@s5SKITS
+@\6
+Syoko Nakamura
+
+
+@s5IILUSTRACIÓN DE CREDITOS FINALES
+@\6
+Kazuyoshi Yaginuma
+
+
+@s5ART/BACKGROUNDS
+@\6
+@s5APERTURA
+@\6
+@s5Bamboo
+@\6
+Yusuke Takeda
+@\6
+Tomonori Kato
+@\6
+Michiko Shinohara
+@\6
+Kayo Kozio
+@\6
+Naoko Yamada
+
+@s5EVENTOS
+@\6
+@s5Studio Bihou
+@\6
+Masaru Sato
+@\6
+Tatsuya Kushida
+@\6
+Takamasa Masuki
+@\6
+Shuichi Tsuji
+@\6
+Michie Suzuki
+@\6
+Atsushi Satomi
+@\6
+Yoshiou Tanioka
+@\6
+Megumi Kato
+@\6
+Chong Surok
+@\6
+Michiko Shinohara
+@\6
+Ryusei Nishino
+
+@s5EPÍLOGO
+@\6
+Hajime Matsuoka
+
+
+@s5REVISOR DE INTERMEDIARIOS
+@\6
+Maiko Nogami
+
+@s5INTERMEDIARIOS
+@\6
+@h@s5Production I.G
+@\6
+Yukiko Mita
+@\6
+Tomoko Sugeta
+@\6
+Kazuyo Hasegawa
+@\6
+Kotoe Saito
+@\6
+Mika Kinoshita
+@\6
+Yuki Masuda
+@\6
+Shintaro Douge
+@\6
+Masahiro Matsushita
+@\6
+Mariko Ishikawa
+@\6
+Kim Yoonji
+@\6
+Yuki Sato
+@\6
+Tomohiro Shinoda
+@\6
+Lee Juyoung
+@\6
+Ikuyo Kondo
+@\6
+Miyuki Nakayama
+@\6
+Aki Minamii
+@\6
+Taiki Kondo
+@\6
+Haruyo Nebu
+@\6
+Hisako Shimotsuma
+@\6
+Rie Mizorogi
+@\6
+Hong Chang Hee
+@\6
+Kei Tsushima
+@\6
+Hiroki Nishikawa
+@\6
+Hiromi Maeno
+@\6
+Ayako Onuma
+@\6
+Yukari Hirano
+@\6
+Yoshiaki Kyogoku
+@\6
+Takashi Mamezuka
+@\6
+Yuko Tateiwa
+@\6
+Tomoaki Mimiura
+@\6
+Naoko Kouda
+
+Eriko Sakai
+@\6
+Chieko Ichimanda
+@\6
+Midori Yamamoto
+@\6
+Masatsugu Nishida
+@\6
+Kanako Oikawa
+@\6
+Eriko Shibata
+
+@s5Studio MAT
+@\6
+Nobu Okuda
+@\6
+Haruka Kuchii
+@\6
+Shie Morita
+
+@s5P.A.WORKS
+@\6
+Takeshi Honda
+@\6
+Mayumi Miyaoka
+@\6
+Rika Sato
+@\6
+Kenichi Okuno
+@\6
+Hiromi Makino
+@\6
+Yuka Fujisawa
+@\6
+Asuka Kojima
+@\6
+Aiko Natsuzumi
+@\6
+Aya Takata
+@\6
+Misaki Suzuki
+
+@s5Anime Torotoro
+@\6
+Kumiko Tanihira
+
+@s5Studio Wombat
+@\6
+@s5BeeTrain
+@\6
+@s5FlontLine
+@\6
+@s5Dogakobo
+@\6
+@s5A.P.P.P
+@h@\6
+@s5ufotable
+@\6
+@s5Imove
+@\6
+@s5Sakura Create
+@\6
+@s5Studio Gimlet
+
+
+@s5COORDINADOR DE COLOR
+@\6
+Kazue Inoue
+
+@s5PINTADO DIGITAL
+@\6
+@h@s5Producción I.G
+@\6
+Mariko Shimokawa
+@\6
+Rie Asano
+@\6
+Kazu Doi
+@\6
+Emiko Ueno
+@\6
+Yuri Okada
+@\6
+Kumiko Sato
+@\6
+Yuka Takeda
+@\6
+Sachiyo Muto
+@\6
+Sayoko Noda
+
+@s5DIRECTOR DE FOTOGRAFÍA
+@\6
+Makoto Kogawa
+
+@s5GRABACIÓN VISUAL
+@\6
+Eiji Arai
+@\6
+Jun Yanai
+
+@s5PRODUCTOR DE 3DCGI
+@\6
+Eiji Mizutani
+
+@s53DCGI
+@\6
+Atsushi Tamori
+@\6
+Daiji Yamaguchi
+@\6
+Daiki Ono
+
+@s5REVISOR DIGITAL
+@\6
+Akiko Nakayama
+@\6
+Chieko Ono
+
+@s5EFECTOS ESPECIALES
+@\6
+Masahiro Murakami
+@\6
+Sumie Murakami
+
+@s5EFECTOS VISUALES
+@\6
+Kanta Kamei
+@\6
+Masaya Suzuki
+
+@s5EDICIÓN
+@\6
+Taeko Hamauzu
+
+@s5MANTENIMIENTO DE SISTEMA
+@\6
+Junichiro Aki
+@\6
+Kazuhiro Yamaguchi
+@\6
+Hidetoshi Okuno
+@\6
+Katsushi Eda
+
+@s5GRUPO DE 3DCGI
+@\6
+Utako Tsukiashi
+
+@s5GRUPO DE PINTADO DIGITAL
+@\6
+Eiji Umehara
+
+
+@s5PRODUCTOR AUXILIAR
+@\6
+Noriyasu Furuyama
+
+
+
+@s5PRODUCCIÓN DE ANIMACIÓN
+
+
+@p0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@s5NAMCO BANDAI GAMES INC.
+
+
+@s5DIRECTORES
+@\6
+Naomiki Yanagisawa
+@\6
+Masashi Shibano
+
+@s5DIRECTOR DE ARTE
+@s5DISEÑADOR EN JEFE
+@\6
+Daigo Okumura
+
+
+@s5SOPORTE DE PROGRAMACIÓN
+@\6
+Takahiro Yamase
+
+@s5SOPORTE DE DIRECCIÓN
+@\6
+Tomomi Masubuchi
+
+@s5DISEÑO DE MOVIMIENTO
+@\6
+Kumi Sasaki
+@\6
+Eriko Yamada
+
+@s5DIRECTOR DE ANIMACIONES CG
+@\6
+Yasushi Shibue
+
+@s5DISEÑO DE MECÁNICAS
+@\6
+Yuushou Okada
+
+@s5SUPERVISOR DE PRODUCTO
+@\6
+Shinichiro Okamoto
+
+
+@s5LOCALIZACIÓN
+
+@s5PRODUCTOR DE LOCALIZACIÓN
+@\6
+Shuichiro Miyoshi
+
+@s5ESPECIALISTAS DE LOCALIZACIÓN
+@\6
+Ko Kimura
+@\6
+Jeremy Clark
+
+@s5SOPORTE DE LOCALIZACIÓN
+@\6
+Naoki Shimokawa
+
+@s5GRUPO DE ESTRATEGIA DE MARKETING
+@\6
+Rachel Lee
+
+@s5AGRADECIMIENTOS ESPECIALES
+@\6
+Yasuhiro Fukaya
+@\6
+Andy Tsai
+@\6
+Shinsuke Mori
+@\6
+@s5TEKKEN PROJECT
+@\6
+@s5XENOSAGA PROJECT
+@\6
+@s5KATAMARI PROJECT
+@\6
+@s5A TODOS LOS BETATESTERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@o1
+
+@s5NAMCO BANDAI GAMES AMERICA INC.
+
+
+
+
+
+@s5DIRECTOR DE GRUPO DE PROYECTO
+@\6
+Yoshi Niki
+
+@s5GERENTE DE LOCALIACIÓN
+@\6
+Hiroshi Tanaka
+
+@s5PRODUCTOR DE LOCALIZACIÓN
+@\6
+Peter Garza
+
+@s5SOPORTE DE LOCALIACIÓN
+@\6
+Junko Nakamura
+
+@s5DIRECTOR DE MARKETING
+@\6
+Yoko Nakao
+
+@s5GERENTE DE MARKETING
+@\6
+Tara Samuels
+
+@s5COORDINADOR DE MARKETING
+@\6
+Kristeen Kennedy
+
+@s5GERENTE DE PR
+@\6
+Melody Pfeiffer
+
+@s5DIRECTOR DE SOPORTE DE PUBLIGACIÓN
+@\6
+Glen A. Cureton
+
+@s5GERENTE DE QA
+@\6
+Chuck McFadden
+
+@s5SUPERVISOR DE QA
+@\6
+Daryle Tumacder
+
+@s5LÍDER DE QA
+@\6
+Jesse Mejia
+
+@s5GESTOR DE VENTAS NACIONAL
+@\6
+Brian Schorr
+
+
+@s5PRODUCCIÓN DE
+@s5LA NARRACIÓN EN INGLÉS
+
+@s5ESTUDIO DE GRABACIÓN
+@\6
+Cup of Tea Productions, Inc.
+
+@s5INGENIERO
+@\6
+Steve Cunningham
+
+@s5ASISTENTE DE GRABACIÓN
+@\6
+Julie Smith
+
+@s5JEFES DE PROYECTO
+@\6
+Danielle Hunt/Lainie Bushey
+
+
+@s5CASTING
+@\6
+Cup of Tea Productions, Inc.
+
+@s5DIRECTOR
+@\6
+Wendee Lee
+
+
+@s5SOPORTE DE TRADUCCIÓN AL INGLÉS
+
+@s5TRADUCCIÓN DE LOS TEXTOS DEL JUEGO
+    8-4, Inc.
+
+
+
+
+
+@s5AGRADECIMIENTOS ESPECIALES
+@\6
+Genichi Ito
+@\6
+Nobuhiro Kasahara
+@\6
+Garry Cole
+@\6
+Makoto Iwai
+@\6
+Jennifer Tersigni
+@\6
+Lee Hsiao
+
+Departamento de NBGA IS
+
+A TODOS LOS BETATESTERS
+
+@s5A TODOS LOS FANES DE LOS FOROS DE TALES
+http://tales.namco.com/forums/
+
+
+@s5Fuentes usadas en el juego proporcionadas por
+@s5Bitstream Inc. Todos los derechos reservados.
+
+
+
+
+
+
+@s5TRADUCCIÓN AL CASTELLANO
+    Tales Translations
+
+@s5PROGRAMACIÓN PRINCIAPL &
+@s5INGIENIERÍA INVERSA
+@\6
+soywiz
+
+
+@s5PROGRAMACIÓN DE UTILIDADES
+@\6
+soywiz
+@\6
+PacoChan
+
+
+@s5SUBTITULADO DE VIDEOS
+@\6
+PacoChan
+
+@s5EDICIÓN GRÁFICA
+@\6
+PacoChan
+@\6
+LinkinDark
+
+@s5SOPORTE LOGÍSTICO, DISEÑO WEB,
+@s5ADMINISTRACIÓN WEB, FORO
+@\6
+MrHeston
+
+
+@s5GRUPO DE TRADUCCIÓN
+@s5AL CASTELLANO
+@\6
+Kaene
+@\6
+Parsec
+@\6
+Rinoninha
+@\6
+MrHeston
+@\6
+PacoChan
+@\6
+Turyx
+@\6
+Death's Sapphire
+
+@s5COLABORADORES
+@\6
+Cloud
+
+
+@s5REVISIÓN DE LA
+@s5TRADUCCIÓN AL CASTELLANO
+@\6
+Parsec
+
+
+@s5AGRADECIMIENTOS ESPECIALES
+@\6
+A nuestras Familias
+
+
+@s5TODA LA GENTE DEL FORO DE TALES-TRA
+http://foro.tales-tra.com/
+
+
+
+
+
+
+
+
+@s5DIRECTOR EN JEFE
+@\6
+Yoshito Higuchi
+
+
+
+
+
+
+@s5PRODUCTOR
+@\6
+Makoto Yoshidumi
+
+
+
+
+
+
+@s5PRODUCTORES EJECUTIVOS
+@\6
+Shin Unozawa
+@\6
+Shukuo Ishikawa
+@\6
+Masaya Nakamura
+
+
+
+@s5PRODUCIDO POR
+NAMCO BANDAI GAMES INC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,702 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Hey, ¿estás bien?
+<SPEECH*>Ion... has usado artes fónicas daáthicas\nen el Tartarus, ¿no es cierto?
+<SPEECH*>¿Esa cosa que hiciste en\nel sitio de los cheagles?
+<SPEECH*>Lo siento. Mi cuerpo no está hecho\npara usar artes fónicas daáthicas.<PAGE>\n<SPEECH*>Ha pasado algo de tiempo, así que\npensé que ya me había recuperado, pero...
+<SPEECH*>Descansemos un poco. A este ritmo, nos\narriesgamos a acortar la vida de Ion.
+<SPEECH*>Así que eres un emisario enviado\npara evitar la guerra...<PAGE>\n<SPEECH*>¿Pero por qué querría\nMohs empezar una guerra?
+<SPEECH*>Me temo que eso es algo confidencial de\nla Orden. No puedo hablar de ello.
+<SPEECH*>Oh, venga.
+<SPEECH*>Sean cuales sean sus razones,\nhay que evitar esta guerra.\nNo dejaremos que Mohs interfiera.
+<SPEECH*>Al final te has metido\nen un buen follón, Luke...
+<SPEECH*>Por cierto, ¿quién eres?
+<SPEECH*>Oh, cierto, no me he presentado, ¿verdad?\nSoy Guy. Sirvo en la mansión del duque Fabre.
+<SPEECH*>¿Qué?...
+<SPEECH*>¡Aaaah!
+<SPEECH*>A Guy no le gustan las mujeres.
+<SPEECH*>Más bien tiene aspecto \nde ser una fobia.
+<SPEECH*>P-Perdón...\nNo es nada personal...\nEs sólo que...
+<SPEECH*>Por si sirve de ayuda, no tienes\nque pensar en mí como una mujer.
+<SPEECH*>Bien... Me aseguraré de mantener\nlas distancias. ¿Será suficiente?
+<SPEECH*>Perdón...
+<SPEECH*>Si sirves para los Fabre, \ndebes de ser de Kimlasca.\n¿Has venido a por Luke?
+<SPEECH*>Sí, bajo las órdenes del duque Fabre.<PAGE>\n<SPEECH*>Sabíamos que había desaparecido y había\nacabado en territorio de Malkuth.<PAGE>\n<SPEECH*>He venido a pie desde Chesedonia, mientras\nque el general dórico Grants fue por mar\ny empezó buscando en Kaitzur.
+<SPEECH*>¡¿El maestro Van también me está buscando?!
+<SPEECH*>¿Mi hermano está aquí?
+<SPEECH*>¿Tu hermano? \nQuieres decir...
+<SPEECH*>Oh, vaya. Parece que se nos\nha acabado el tiempo de charlar.
+<SPEECH*>E-Eso son personas...
+<SPEECH*>¡Luke, apártate!\n¡Sabes que no serás capaz de matarles!
+<SPEECH*>¡No os escaparéis!
+<SPEECH*>¡Luke, acaba con él!
+<SPEECH*>Ugh...
+<SPEECH*>¡Luke, espabila!
+<SPEECH*>Tear... Y-Yo...
+<SPEECH*>Idiota.
+<SPEECH*>¿Por qué estás tan serio?
+<SPEECH*>¿Por qué te hiciste soldado, Jade?
+<SPEECH*>¿Te asusta matar gente?
+<SPEECH*>...
+<SPEECH*>Creo que tu reacción es\nbastante natural.<PAGE>\n<SPEECH*>De todas formas, el mundo\nse beneficiaría si\ntuviera menos soldados.
+<SPEECH*>No sé qué debería hacer...
+<SPEECH*>Tranquilo. Estarás protegido hasta\nque lleguemos a Baticul. Estaríamos en\nun buen apuro si murieras con nosotros.
+<SPEECH*>¡Deja de cachondearte de mí!
+<SPEECH*>No lo hago. No hay que avergonzarse\nde huir para proteger tu vida.<PAGE>\n<SPEECH*>Vivir una vida segura dentro de una\nciudad segura, y contratar a guardias\ncuando te ves forzado a salir.<PAGE>\n<SPEECH*>Así es como vive la gente normal.
+<SPEECH*>Debe de haber sido duro para\nti ser arrojado de repente\na un mundo como éste.
+<SPEECH*>Yo... no tenía ni idea que las cosas\nestuvieran tan mal fuera de la ciudad.
+<SPEECH*>A veces puedes ganar recompensas\npor matar monstruos y bandidos.<PAGE>\n<SPEECH*>Fuera de las ciudades, matar gente no\nes considerado un crimen, siempre que no\nse demuestre que era por pura maldad.
+<SPEECH*>¿Cuánta gente has matado?
+<SPEECH*>¿Quién sabe? Menos que\nese soldado de ahí, imagino.
+<SPEECH*>¿No tienes miedo?
+<SPEECH*>Claro que lo tengo. Por eso lucho.\nPorque no quiero morir.\nAún me quedan cosas por hacer.
+<SPEECH*>¿Como qué?
+<SPEECH*>Venganza...
+<SPEECH*>¿Eh?
+<SPEECH*>Era broma.
+<SPEECH*>El trabajo de Jade y Tear es\nluchar, así que las cosas que\ndicen pueden sonar algo extremas.<PAGE>\n<SPEECH*>Eres un civil, así que creo\nque tu indecisión y preocupación\nson de esperar.
+<SPEECH*>¿No te... preocupa que tus\nsubordinados maten gente?<PAGE>\n<SPEECH*>¿No es tu trabajo salvarles?
+<SPEECH*>No puede evitarse.<PAGE>\n<SPEECH*>Lamentablemente, la Orden\nde Lorelei ya no es una\nreligión vital.
+<SPEECH*>Pronto lo verás.
+<SPEECH*>¿Estás seguro de que estás bien?
+<SPEECH*>¿Eh?...
+<SPEECH*>La lucha te ha resultado dura, ¿verdad?<PAGE>\n<SPEECH*>Sabía que eras un civil, pero\nparece que no entendí realmente\nlo que eso significaba.<PAGE>\n<SPEECH*>Lo siento.
+<SPEECH*>¿P-Por qué te disculpas?\nEres tú la que ha resultado herida.
+<SPEECH*>Mientras sea soldado, es mi\ndeber proteger a los civiles.<PAGE>\n<SPEECH*>Si acabé herida fue por no ser lo \nbastante fuerte. Eso es todo.
+<SPEECH*>Eres rara... Me parece\nque intentas hacerte la dura.
+<SPEECH*>¡Eso no es cierto!
+<SPEECH*>Ajá...
+<SPEECH*>Amo, ¿Tear está bien?
+<SPEECH*>...
+<SPEECH*>Tear...
+<SPEECH*>Vale, iré a comprobarlo, ¿vale?\nTú cállate.
+<SPEECH*>¿Va a irse a dormir, Amo?
+Sí...\nAún no...
+<SPEECH*>Buenas noches.
+<SPEECH*>Pero parece cansado.
+<SPEECH*>Cállate...
+<SPEECH*>Lo siento, Amo. Pero...
+<SPEECH*>¡He dicho que te calles!\n¡Déjame en paz!
+<SPEECH*>Mieuu...
+<SPEECH*>Sí...
+<SPEECH*>Aún no...
+<SPEECH*>Luke, despierta.
+<SPEECH*>Va siendo hora de irse.
+<SPEECH*>¿Estás bien para caminar?
+<SPEECH*>Sí... Gracias por tu preocupación.
+<SPEECH*>Tear, Guy y yo iremos\nen formación triangular.<PAGE>\n<SPEECH*>Tú permanecerás en el\ncentro con Ion y te defenderás\nsi es necesario.
+<SPEECH*>¿Qué?
+<SPEECH*>En otras palabras, no tienes que luchar, Luke.\nVenga. Vamos.
+<SPEECH*>¡E-Esperad un momento!
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Yo también lucharé.
+<SPEECH*>¿No te da miedo matar?
+<SPEECH*>¡Por supuesto que no!...
+<SPEECH*>No deberías obligarte, Luke.
+<SPEECH*>¡Hablo en serio! Quiero decir,\nvale, sí, estoy un poco asustado, pero...<PAGE>\n<SPEECH*>Si he de luchar para sobrevivir,\neso haré. ¡No me voy a esconder \nen un rincón!
+<SPEECH*>¡Estoy muy orgulloso de usted, Amo!
+<SPEECH*>¡¿Pero te quieres callar?!\nEn cualquier caso, ya lo he decidido.\nDesde ahora, lucharé. Sin dudarlo.
+<SPEECH*>Matar a alguien significa robarle su futuro...\nIncluso aunque sea para protegerte.
+<SPEECH*>Y puede hacerte ganar el odio de otros.
+<SPEECH*>¿Estás preparado para enfrentarte con eso?<PAGE>\n<SPEECH*>¿Puedes soportar esa responsabilidad? \n¿Sin salir corriendo?\n¿Sin excusas?
+<SPEECH*>Tú lo has dicho, no matáis\ngente porque queráis.
+<SPEECH*>Ya me he decidido...\nNo estoy aquí para ser una carga.\nYo también voy a responsabilizarme.
+<SPEECH*>Pero...
+<SPEECH*>No veo ningún problema con eso.\nLe daremos una oportunidad a Luke\npara que nos muestre su determinación.
+<SPEECH*>Pero no te esfuerces demasiado, Luke.
+<SPEECH*>¿Por qué están aquí los Caballeros del Oráculo?
+<SPEECH*>San Binah es la ciudad que está\nmás cerca del Tartarus. Seguramente\nesperaban que paráramos aquí.
+<SPEECH*>Para ser de Kimlasca, estás muy\nfamiliarizado con la geografía de Malkuth, Guy.
+<SPEECH*>Me gusta leer sobre lugares turísticos.
+<SPEECH*>Oh, ya veo. \nQué bien.
+<SPEECH*>Coronel, mira.
+<SPEECH*>Somos de Engeve. Traemos\nun cargamento de comida que\nnos encargaron.
+<SPEECH*>Podéis pasar.
+<SPEECH*>Viene otro carro detrás de éste.
+<SPEECH*>Qué oportuno.
+<SPEECH*>Vamos a parar al segundo y\nhacer autostop, ¿eh?
+<SPEECH*>Bajemos un poco por el\ncamino que lleva a Engeve.
+<SPEECH*>Sí, venga.
+<SPEECH*>¡Hey, dejad de hacer planes sin\nhablar primero conmigo!
+<SPEECH*>Crece.
+<SPEECH*>¡Detén el carro!
+<SPEECH*>¡Coronel Curtiss!\nY tú eres... ¿Luke, era?
+<SPEECH*>Perdona, ¿pero crees que nos\npodrías esconder en tu carro?
+<SPEECH*>Quisiéramos entrar en San Binah, pero\nun grupo de impresentables que persiguen al\nmaestro fónico Ion están vigilando la entrada.<PAGE>\n<SPEECH*>¿Podemos pedirte ayuda?
+<SPEECH*>Dios mío. Mi Partitura\nno decía nada de que iba\na pasar algo así.
+<SPEECH*>Por favor.
+<SPEECH*>De acuerdo. Os lo debemos por los problemas que\nos causamos con la tontería del ladrón. Subid.
+<SPEECH*>Gracias.
+<SPEECH*>Somos de Engeve.\nYa debería haber llegado un carro.
+<SPEECH*>Sí. Entrad.
+<SPEECH*>Gracias.
+<SPEECH*>Bueno, aquí es donde nos separamos.
+<SPEECH*>Gracias por tu ayuda.
+<SPEECH*>Sí, gracias.
+<SPEECH*>De nada.\nCuidaos.
+<SPEECH*>Así que Anise está aquí, ¿verdad?
+<SPEECH*>Nos encontraremos en la base militar de Malkuth.\nSi todavía está viva, claro.
+<SPEECH*>¿Realmente tienes que\ndecir cosas así?\nVenga, vamos.
+<SPEECH*>Intenta no hacer nada que llame la\natención de los Caballeros del Oráculo.
+<SPEECH*>Lo sé, lo sé.\nNo tienes que ir\ndiciéndomelo todo.
+<SPEECH*>¿Mmm?\nYa te está fustigando, ¿eh, Luke?\nLa princesa Natalia se pondrá celosa.
+<SPEECH*>¡Uaaah!...
+<SPEECH*>No digas estupideces.
+<SPEECH*>¡Lo siento! ¡Lo siento! \n¡Deja de tocarme! ¡Por favor!
+<SPEECH*>Quizá este viaje le sirva a\nGuy para superar su fobia.
+<SPEECH*>¡Rápido, escondeos!...\n¡Los Caballeros del Oráculo!
+<SPEECH*>¿Habéis encontrado al Maestro Fónico?
+<SPEECH*>No parece que haya\nentrado en San Binah.
+<SPEECH*>Los que iban con Ion son\nlos que mataron a mamá...\nMe lo dijeron mis amigos ligres.<PAGE>\n<SPEECH*>Nunca les perdonaré....
+<SPEECH*>¿Y qué hay de esa Guardiana\ndel Maestro Fónico que decían\nque estaba merodeando?
+<SPEECH*>Parece que se ha puesto en\ncontacto con el ejército de Malkuth.<PAGE>\n<SPEECH*>Pero Malkuth dice que es\n"confidencial" y se niegan a\ndar información útil.
+<SPEECH*>Si no hubiera tenido que emplearme\ntan a fondo con ese Nigromante,\nAnise no se hubiera escapado.<PAGE>\n<SPEECH*>Lo siento.
+<SPEECH*>¡Ahh ja ja ja ja!\n¡Por eso te lo dije!
+<SPEECH*>¡El único que puede derrotar al\nasqueroso de Jade es el elegante\nsirviente de los dioses,<PAGE>\n<SPEECH*>el preciado miembro de los Seis Generales de\nÉlite dentro de los Caballeros del Oráculo, Dist la Rosa!
+<SPEECH*>Querrás decir "Dist el Segador".
+<SPEECH*>¡¿Cómo alguien tan hermoso como yo\npodría llamarse "segador" y no "rosa"?!
+<SPEECH*>No tiene sentido vivir en el pasado.\n¿Qué hacemos ahora, Sync?
+<SPEECH*>Hey.
+<SPEECH*>Retirar las tropas de\nEngeve y San Binah.
+<SPEECH*>¡Pero...!
+<SPEECH*>Tu herida aún no se ha curado.\nEl Nigromante casi te mató. \n¿Por qué no te tomas un descanso? <PAGE>\n<SPEECH*>Además, la única forma que tienen de\ncruzar la frontera es por Kaitzur.<PAGE>\n<SPEECH*>Si nos quedamos y nos enemistamos\ncon el ejército de Malkuth, podría\nhaber un incidente diplomático.
+<SPEECH*>¡Hey! \n¡Dejad de ignorarme!
+<SPEECH*>Así que lo próximo es decidir\ncómo tratar con ellos en Kaitzur.<PAGE>\n<SPEECH*>Volvamos al Tartarus por ahora\ny consideremos la situación allí.
+<SPEECH*>¡Informa a las tropas! \n¡Primera División, retirada!
+<SPEECH*>¡Sí, señor!
+<SPEECH*>¡Grrrrrrrr!\n¡Estáis todos celosos de mi\ninteligencia y de mi belleza!
+<SPEECH*>Maldita sea...\nLargo sobrevivió.
+<SPEECH*>Ésta es la primera vez que\nveo a los Generales de Élite.
+<SPEECH*>¿Quiénes son los Generales de Élite?
+<SPEECH*>Los seis oficiales ejecutivos\nde los Caballeros del Oráculo.
+<SPEECH*>Pero sólo había cinco.
+<SPEECH*>Son Largo el León Negro, Dist el Segador, \nSync la Tempestad, Arietta la Salvaje, \nLegretta la Rápida y...<PAGE>\n<SPEECH*>Parece que el único que faltaba era Asch el Sanguinario.
+<SPEECH*>Son los subordinados directos de Van.
+<SPEECH*>¡¿Del maestro Van?!
+<SPEECH*>Si los Seis Generales de Élite están\nactuando, entonces el que intenta\nprovocar la guerra es Van...
+<SPEECH*>Los Generales de Élite están con el Gran Maestro.\nSeguramente Mohs le estará dando órdenes a Van.
+<SPEECH*>El gran maestro Mohs\nnunca haría algo así.<PAGE>\n<SPEECH*>Mi misión para el Gran \nMaestro es alto secreto, así\nque no puedo dar ningún detalle.<PAGE>\n<SPEECH*>Pero os aseguro que es una misión de paz.
+<SPEECH*>¡Espera un minuto! \n¡El maestro Van tampoco intentaría\nprovocar una guerra!
+<SPEECH*>Es justo el tipo de cosa\nque mi hermano haría.
+<SPEECH*>¡¿Pero qué dices?! ¿Y tú qué, eh?\n¡¿Cómo sabemos que no eres una\nespía que trabaja para el tal Mohs?!
+<SPEECH*>Por favor, cálmate.
+<SPEECH*>Tiene razón. No es el momento de\npreocuparse por Van ni por Mohs.<PAGE>\n<SPEECH*>Ahora mismo tenemos que esquivar a los\nGenerales de Élite y evitar esta guerra.
+<SPEECH*>Tienes razón. Lo siento.
+<SPEECH*>Humf... No acepto las disculpas de  \nalguien que habla mal del maestro Van.
+<SPEECH*>Bueno, ahora que hemos terminado con \nlas estupideces, vamos a la base, ¿de acuerdo?
+<SPEECH*>Bueno, ahora que hemos terminado con \nlas estupideces, vamos a Kaitzur, ¿de acuerdo?
+<SPEECH*>Eres increíble.
+La base está dentro de la ciudad.
+¡Sólo quiero mirar por aquí cerca un rato!
+*Suspiro*
+Eh, señor, ¿conoce a un soldado \nllamado Nigromante?
+Vaya, sí.\nSí que le conozco.
+Mi bisabuelo me contó que el Nigromante \nestá haciendo experimentos para  \ndevolver la vida a la gente muerta.
+¿Qué?
+La próxima vez que le vea, ¿podría \npedirle un favor de mi parte?<PAGE>\nLos de Kimlasca mataron a mi padre...\nasí que me preguntaba si el\nNigromante podría resucitarle.
+Ya veo. \nSe lo diré.
+¿De verdad? \n¡Prometido, ¿eh?! \n¡Gracias!
+¡Eres increíble, Coronel!
+No seas tonto.\nNo es más que un rumor, ¿verdad?
+Sí. Si fuese verdad, yo mismo\ntendría favores que pedirle.
+¿Has perdido a alguien cercano?
+A mi familia y a todos mis amigos...\nBueno, ya sabes cómo son las cosas hoy en día.\nLe pasa a mucha gente.<PAGE>\nTus padres tampoco están ya aquí,\n¿verdad, Tear? Van me lo dijo.
+Sí...
+Bueno, ya sabéis lo que dicen.\nCuando el río suena...
+¿Qué?
+Nada.
+<SPEECH*>Por cierto, Ion, ¿adónde\nte llevaron cuando te\nsacaron del Tartarus?
+<SPEECH*>Al sephiroth.
+<SPEECH*>¿Al "sephiroth"?
+<SPEECH*>Los sephiroth son las diez ranuras\nfónicas más poderosas del mundo.
+<SPEECH*>Son los puntos vitales del planeta.\nEs donde las partículas de memoria, una\nespecie de energía planetaria, se concentran\ny los fonones se acumulan con facilidad.
+<SPEECH*>Ya lo sabía... No tenéis\nque soltar siempre una explicación\ncomo si fuera un ignorante.
+<SPEECH*>¿Qué hicieron en el sephiroth?
+<SPEECH*>No lo puedo decir...\nEs algo confidencial de la Orden.
+<SPEECH*>Siempre dices eso.\nMe estás empezando a poner de los nervios.
+<SPEECH*>Lo siento.
+<SPEECH*>Oh, hey, Jade, ¿cómo te encuentras? \n¿Está bien tu cuerpo? Quiero decir, \ncon ese sello de fonorranura y tal.
+<SPEECH*>Mi fuerza ha disminuido.\nDespués de todo, han sellado las\nfonorranuras de mi cuerpo.
+<SPEECH*>¡Es usted tan considerado, Amo!
+<SPEECH*>¡No lo soy! Es sólo que\nsería una ruina que este viejo se\nnos desmayara, nada más.
+<SPEECH*>¡Ohh, te estás poniendo colorado, Luke!
+<SPEECH*>¡¡No es verdad!!
+<SPEECH*>¿Será difícil deshacerlo completamente?
+<SPEECH*>Un sello de fonorranura es como un candado\ncon un código que cambia periódicamente.<PAGE>\n<SPEECH*>Lo estoy abriendo poco a poco, pero parece\nque me llevará un poco más de tiempo.<PAGE>\n<SPEECH*>Claro que, para empezar, mis habilidades están\nen un nivel completamente diferente al vuestro.\nIncluso después de un descenso parcial,\nno creo que tenga problemas para\nseguir vuestro ritmo.
+<SPEECH*>Dios, eres odioso.
+<SPEECH*>Lo siento. \nEs mi naturaleza ser honesto.
+<SPEECH*>Humf. Bueno, entonces dejemos a Ion\nen manos del gran y poderoso Coronel\nmientras los demás dormimos.
+<SPEECH*>Ese agotamiento tiene que deberse a \nalgo más que una constitución débil.<PAGE>\n<SPEECH*>¿Es posible que Ion sea como Luke?
+<SPEECH*>Soy el coronel Jade Curtiss, \nTercera División de las Fuerzas Imperiales de Malkuth.<PAGE>\n<SPEECH*>¿Podría hablar con el general Glenn McGovern?
+<SPEECH*>Sí, señor. El general McGovern \nestá atendiendo a un invitado, así\nque, por favor, espere dentro.
+<SPEECH*>Padre, ya hemos hablado de esto.\nOficialmente, los Caballeros del Oráculo\nestán considerados intérpretes.
+<SPEECH*>No podemos limitar sus acciones sin una\norden directa de Su Majestad Imperial...
+<SPEECH*>¡Ya es suficiente!<PAGE>\n<SPEECH*>¡Ya sabes lo terrible que\nse volvió la Guerra de Hod\ncon su implicación!
+<SPEECH*>Lamento interrumpir.
+<SPEECH*>Jade el Nigromante...
+<SPEECH*>¡Oh! \n¡Pero si es Jade!
+<SPEECH*>Cuánto tiempo, \nmariscal de campo McGovern.
+<SPEECH*>Ya estoy retirado. \nYa no hay necesidad de\nesas formalidades.<PAGE>\n<SPEECH*>¿Y tú qué tal? ¿No\ncrees que ya va siendo hora de\nque aceptes un ascenso?<PAGE>\n<SPEECH*>Incluso a tu edad,\npodrías haber llegado a\nTeniente General.
+<SPEECH*>Oh, no lo sé. Creo que ya\ntengo suficiente con ser coronel.
+<SPEECH*>¿Jade es alguien importante?
+<SPEECH*>Eso parece.
+<SPEECH*>Su Majestad y tú os\nconocéis de hace tiempo, ¿verdad?
+<SPEECH*>¿Podrías pedirle que hiciera algo\ncon los Caballeros del Oráculo?
+<SPEECH*>Me temo que van detrás de nosotros. \nCuando salgamos de la ciudad, seguramente\nellos también se vayan.
+<SPEECH*>¿Qué ha pasado?
+<SPEECH*>Me temo que no puedo explicarte\nlos detalles. Estoy bajo órdenes\ndirectas de Su Majestad. Lo siento. 
+<SPEECH*>Coronel Curtiss. \n¿Qué motivos te traen aquí?
+<SPEECH*>Ah, sí, lo siento. ¿Has recibido alguna\ncarta de una Guardiana del Maestro Fónico?
+<SPEECH*>Ah, esa carta... Lo siento, pero me temo\nque la abrimos para confirmar su\ncontenido por razones de seguridad.
+<SPEECH*>No pasa nada. No debería\nhaber nada que os supusiera\nun problema leer.
+<SPEECH*>Parece que media carta va dirigida a ti.\nToma.
+<SPEECH*>Es de Anise, ¿verdad?\nEntiendo que escriba a Ion, ¿pero a mí?
+<SPEECH*>Queridísimo coronel Jade, @\npasé unos momentos terroríficos,\npero conseguí llegar hasta aquí. ~<PAGE>\n<SPEECH*>¡No te preocupes, estoy cuidando\nbien de lo que tú-ya-sabes!\n¿No estás orgulloso de mí? ~<PAGE>\n<SPEECH*>Parece que los Caballeros del Oráculo\npronto sitiarán San Binah, así\nque iré al siguiente lugar. @<PAGE>\n<SPEECH*>¿Mi amado Luke está a salvo?\n(¡Oh, qué vergüenza! @\n¡Acabo de confesar mis sentimientos! @)<PAGE>\n<SPEECH*>Estoy muy preocupada.\nLuke, te echo tanto de menos. @\n¡No puedo esperar para verte otra vez! ~<PAGE>\n<SPEECH*>Oh, y también dale recuerdos a Ion.\n¡Adiós por ahora! ~\nCon cariño, Anise.
+<SPEECH*>Creo que voy a vomitar...
+<SPEECH*>Vaya, Luke, eres bastante popular con las chicas.<PAGE>\n<SPEECH*>Pero no te dejes llevar demasiado.\nEstás prometido con la princesa Natalia, ya sabes.
+<SPEECH*>Tienes que estar de broma. Yo no\nquiero nada con esa tía pesada.
+<SPEECH*>¿Cuál es el "siguiente lugar"?
+<SPEECH*>Kaitzur.<PAGE>\n<SPEECH*>Es una ciudad al sudoeste de\naquí, al otro lado del río Fubras.
+<SPEECH*>Si conseguimos llegar a Kaitzur, \npodremos reunirnos con Van.
+<SPEECH*>Van está allí...
+<SPEECH*>Hey. No sé que ha pasado entre\nvosotros dos, pero eres su hermana, ¿no?
+<SPEECH*>No intentes cortarle en trocitos\ncomo hiciste en Baticul, ¿vale?
+<SPEECH*>Lo sé.\nNo lo haré.
+<SPEECH*>Bueno, será mejor que marchemos.
+<SPEECH*>Si los Caballeros del Oráculo os están\npersiguiendo, felizmente os echaría una mano.<PAGE>\n<SPEECH*>Me eligieron los representantes de la ciudad,\nasí que venid cuando necesitéis ayuda.
+<SPEECH*>Gracias, Mariscal de Campo.
+Siento causaros problemas, ¿pero pasaría algo\nsi parásemos aquí y descansáramos?
+¿Eh?...\nSí, tienes la cara pálida otra vez.
+Lo siento.
+Eres un plasta, ¿sabes?\nBueno tíos, vayamos a la posada.
+Vaya, después de todo tiene un lado amable.
+Eso es lo bueno de Luke.<PAGE>\nEs igual de maleducado y exigente con los sirvientes \ncomo con los que están por encima suyo.
+¡Que te calles!
+Tenemos que dejar descansar a Ion.\nVamos a la posada.
+Estoy preocupado por Ion.\nDescansemos en la posada.
+Nos dirigíamos a la posada, ¿verdad?
+Tenemos que ir a la posada por el bien de Ion.
+Descansemos en la posada por ahora.
+<SPEECH*>El territorio de Kimlasca está ahí delante, \nuna vez que crucemos por aquí, ¿verdad?
+<SPEECH*>Sí. Hay una ciudad llamada \nKaitzur después de cruzar\nel río Fubras.<PAGE>\n<SPEECH*>Toda esa área es una zona desmilitarizada.
+<SPEECH*>Dios, qué ganas de volver tengo.\nEstoy harto de todo este rollo.
+<SPEECH*>¡Tenga paciencia, Amo!\n¡Anímese!
+<SPEECH*>¡¿Pero es que no te vas a callar nunca?!\n¡Creía haberte dicho que cerraras la bocaza!
+<SPEECH*>Mieu...
+<SPEECH*>¡Luke!\n¡No la tomes con Mieu!
+<SPEECH*>Lamento haberte arrastrado\na esto, Luke.
+<SPEECH*>Tss...
+<SPEECH*>Bueno, parece que Luke ha terminado de \nlloriquear. ¿Nos vamos?
+<SPEECH*>¡¿Qué quieres decir con "lloriquear"?!
+<SPEECH*>¡Hey! \n¡Dejad de ignorarme!
+<SPEECH*>¡Un ligre!
+<SPEECH*>También hay alguien detrás.
+<SPEECH*>Es Arietta la Salvaje.\nNos han encontrado...
+<SPEECH*>No os dejaré marchar.
+<SPEECH*>¡Arietta! \nPor favor, déjanos ir. Lo entiendes, ¿verdad?\nNo podemos dejar que empiece esta guerra.
+<SPEECH*>Yo... yo quiero ayudarte, Ion...<PAGE>\n<SPEECH*>¡Pero esa gente son mis enemigos!
+<SPEECH*>Arietta, no son malas personas.
+<SPEECH*>Sí... sí lo son...\n¡Ellos mataron a Mamá!
+<SPEECH*>¿De qué estás hablando?\n¿Por qué haríamos nosotros algo así?
+<SPEECH*>El hogar de Mamá se quemó,\nasí que se fue al Bosque\nde los Cheagles.<PAGE>\n<SPEECH*>Ella sólo quería proteger a sus hijos...\nMis hermanos y hermanas...
+<SPEECH*>¿Se referirá a la reina ligre?\nPero ella es humana...
+<SPEECH*>La criaron los monstruos tras perder a \nsus padres en la Guerra de Hod.<PAGE>\n<SPEECH*>La reclutaron en los Caballeros\ndel Oráculo por su habilidad de\ncomunicarse con los monstruos.
+<SPEECH*>Entonces el ligre que matamos...
+<SPEECH*>¡Era Mamá!\n¡Nunca os perdonaré!
+<SPEECH*>Os perseguiré hasta el fin\ndel mundo... ¡y os mataré!
+¡Uaaah!
+¡Aah!
+¡¿Aah?!
+¡Uah!
+<SPEECH*>¡Es un terremoto!
+<SPEECH*>¡¿Qué es esa niebla?!
+<SPEECH*>¡Es el miasma!...
+<SPEECH*>¡Oh, no! \n¡El miasma es un veneno mortal!
+<SPEECH*>¡Aah!
+<SPEECH*>¡¿Esta cosa te mata si la respiras?!
+<SPEECH*>Si no inhalas una gran cantidad\ndurante un largo periodo de tiempo,\nno te pasará nada. Salgamos de una...
+<SPEECH*>¡¿Y ahora qué hacemos?! \n¡No podemos huir!
+<SPEECH*>...
+<SPEECH*>¿Himnos fónicos en un momento como éste?
+<SPEECH*>Espera, Jade.\nEsa canción... ¡es uno de los himnos fónicos de Yulia!
+<SPEECH*>¡El miasma ha desaparecido!
+<SPEECH*>He aplicado una vibración idéntica a\nla vibración inherente en el miasma.<PAGE>\n<SPEECH*>Es un escudo temporal.\nNo aguantará mucho.
+<SPEECH*>Los siete himnos fónicos que Yulia dejó...\nHe oído rumores sobre ellos, pero...<PAGE>\n<SPEECH*>Oí que eran demasiado difíciles\nde descifrar para cualquier persona...
+<SPEECH*>Preocúpate luego de eso.\nTenemos que salir de aquí.
+<SPEECH*>Sí...
+<SPEECH*>¡H-Hey, para!\n¡¿Por qué tienes que matarla?!
+<SPEECH*>Si la dejamos vivir, volverá \na por nosotros otra vez.
+<SPEECH*>Pero... ¿cómo puedes matar a alguien \ninconsciente e indefenso?
+<SPEECH*>Mira que eres blando.
+<SPEECH*>Cállate, insensi...
+<SPEECH*>Jade.\nPor favor, déjala ir.<PAGE>\n<SPEECH*>Arietta era originalmente uno \nde mis Guardianes del Maestro Fónico.
+<SPEECH*>Muy bien.
+<SPEECH*>No te importa que al menos la movamos\npara que el miasma no la cubra en\ncaso de que vuelva, ¿verdad?
+<SPEECH*>No creo que pueda quejarme de eso,\nviendo que ya la estoy dejando vivir.
+<SPEECH*>No aguantará mucho más.
+<SPEECH*>Vámonos.
+Hay menos miasma.
+No debería de ser un problema por ahora,\na menos que nos quedemos aquí\ndurante demasiado tiempo.
+La chica se ha ido.
+Volverá para atacarnos...
+<SPEECH*>Hey, ¿ésa no es Anise?
+<SPEECH*>He perdido mi identificación, \ny mi pasaporte.\n¡Por favor déjame pasar! ¡Por favor!
+<SPEECH*>Lo siento, pero no te puedo dejar pasar.
+<SPEECH*>Ohh...
+<SPEECH*>De ahora en adelante, vigila tu espalda.
+<SPEECH*>Anise, no amenaces con Luke delante.
+<SPEECH*>¡Oh! ¡Es mi amado! @\n¡Mi príncipe! @
+<SPEECH*>*Estremecimiento* \n¡Las mujeres dan miedo!
+<SPEECH*>¡Luke! @\n¡Estoy tan contento de que estés a salvo!\n¡Estaba tan preocupada por ti!
+<SPEECH*>Nosotros también estábamos preocupados.\nDijeron que estabas luchando contra monstruos\ny que te caíste del Tartarus.
+<SPEECH*>Sí... Pasé un poco de miedo, je je...
+<SPEECH*>La pobrecita debía estar aterrorizada.\nGritaba "¡Os mataré, cabronazos!",\nmientras caía.
+<SPEECH*>¡Por favor, Maestro Fónico! \n¡Shh!
+<SPEECH*>Guardé a salvo la carta imperial.\n¿No estás orgulloso de mí, Luke? @
+<SPEECH*>Oh, uh, sí. \nBuen trabajo.
+<SPEECH*>¡Sí! @
+<SPEECH*>Me alegra que estés a salvo, Anise.
+<SPEECH*>Oh, vaya. @ \n¿Tú también estabas\npreocupado por mí, Coronel?
+<SPEECH*>Sí, no podemos hacer\nnada sin la carta.
+<SPEECH*>Eres malo.
+<SPEECH*>Por cierto, ¿cómo vamos a\ncruzar el puesto de control? \nNi Luke ni yo tenemos pasaportes.
+<SPEECH*>¡No los necesitaréis cuando estéis muertos!
+<SPEECH*>¡Retírate, Asch!
+<SPEECH*>¡Fuera de mi camino, Van!
+<SPEECH*>¿Qué crees que estás haciendo?\nNo recuerdo haberte dado una orden así.\n¡Retírate! ¡Ahora!
+<SPEECH*>¡Maestro!
+<SPEECH*>Luke.\nEsa finta ha sido patética.
+<SPEECH*>Nos vemos después de todo lo que ha\npasado, ¿y eso es lo primero que dices?
+<SPEECH*>¡Van!...
+<SPEECH*>Tear, retira tu arma.\nNo lo entiendes.
+<SPEECH*>¿Qué quieres decir?
+<SPEECH*>Cálmate. Cuando estés preparada para\nescucharme, ven a la posada.
+<SPEECH*>¡Maestro! \nGracias por salvarme.
+<SPEECH*>Ha debido ser duro para ti, Luke.\nHas hecho un trabajo admirable.\nNo esperaría menos de mi alumno.
+<SPEECH*>¡¡Gracias!! \n¡Je je!
+<SPEECH*>Tear, oigamos lo que Van tiene que decir.<PAGE>\n<SPEECH*>Creo que sería una estupidez\ninsistir en pelear e ignorar la\noportunidad de comunicarse.
+<SPEECH*>Sí. De verdad, estás sedienta de sangre.
+<SPEECH*>Como desees, Maestro Fónico.
+<SPEECH*>Bueno, está bien. \nVamos a ver a Van.
+<SPEECH*>¿Te has calmado un poco?
+<SPEECH*>¿Por qué intentas interferir\nen los esfuerzos del Maestro\nFónico para evitar la guerra?...
+<SPEECH*>*Suspiro*\n¿Aún sigues con eso?
+<SPEECH*>Está equivocada, ¿verdad, Maestro?
+<SPEECH*>¡Pero los Seis Generales de Élite\nestán intentando secuestrar a Ion!
+<SPEECH*>Cálmate, Tear. No tengo ni idea\nde por qué el Maestro Fónico está\naquí, eso para empezar.<PAGE>\n<SPEECH*>Todo lo que he oído de\nla Orden es que Ion desapareció\nde la catedral de Daath.
+<SPEECH*>Lo siento, Van.\nLo hice por mi propia voluntad.
+<SPEECH*>Me gustaría que me informaras de\nlo que ha pasado hasta ahora.
+<SPEECH*>Soy yo quien se llevó a Ion.\nPermíteme que lo explique.
+<SPEECH*>Ya veo... Yo soy el comandante de\nlos seis Generales de Élite, pero ellos\nestán en la facción del Gran Maestro.<PAGE>\n<SPEECH*>Es probable que estén bajo las\nórdenes de Mohs.
+<SPEECH*>Ahora comprendo.<PAGE>\n<SPEECH*>Te han debido ordenar que recuperes\na Ion de manos del ejército de Malkuth.
+<SPEECH*>Sí, quizá.<PAGE>\n<SPEECH*>El que os atacó antes, Asch, también\nes uno de los Seis Generales de Élite.<PAGE>\n<SPEECH*>Pero ni siquiera sabía que él\nestaba involucrado en este asunto.
+<SPEECH*>¿Entonces estás diciendo que tú\nno tienes nada que ver con todo esto?
+<SPEECH*>No, pero considerando que no sabía\nlo que mis tropas estaban haciendo,\ndebo admitir mi responsabilidad.<PAGE>\n<SPEECH*>Pero no formo parte de\nla facción del Gran Maestro.
+<SPEECH*>Eso es nuevo para mí, Comandante.
+<SPEECH*>Soy el líder de los Seis Generales de\nÉlite, así que la gente suele creer que\nestoy de parte del Gran Maestro.<PAGE>\n<SPEECH*>Por cierto, Tear, tú formas parte\nde la División de Inteligencia bajo la\ndirección del Gran Maestro.<PAGE>\n<SPEECH*>¿Por qué estás aquí?
+<SPEECH*>Estoy buscando algo\nbajo órdenes de Mohs.\nNo puedo decir nada más.
+<SPEECH*>¿La Séptima Piedra Fónica?
+<SPEECH*>No tengo libertad para decirlo.
+<SPEECH*>¿La "Séptima Piedra Fónica"? \n¿Qué es eso?
+<SPEECH*>¿Qué?\nDejad de mirarme como si fuera idiota...
+<SPEECH*>He aquí las consecuencias de la sobreprotección...
+<SPEECH*>Es una parte de la Partitura que\nYulia leyó hace 2.000 años.\nEl futuro del mundo está escrito allí.
+<SPEECH*>La Partitura era tan larga que\nocupó siete piedras fónicas, cada una\ndel tamaño de una montaña.<PAGE>\n<SPEECH*>Al final, las piedras se separaron.\nAlgunas se convirtieron en el cinturón fónico\nque ves en el cielo. Otras cayeron a la tierra.
+<SPEECH*>Tanto Malkuth como Kimlasca intentaron reclamar \nlas piedras que cayeron en sus respectivos \nterritorios, y eso les condujo a la guerra.<PAGE>\n<SPEECH*>Porque si tienes las piedras\nfónicas, puedes conocer el futuro.
+<SPEECH*>Mmm. Así que, la cosa que lleva la\nséptima "Partitura" escrita se llama\n"Séptima Piedra Fónica", ¿no?
+<SPEECH*>Se dice que la misma Yulia escondió\nla Séptima después de leer la Partitura.<PAGE>\n<SPEECH*>Por lo tanto, muchos poderes han estado\nbuscando la Séptima Piedra Fónica.
+<SPEECH*>¿Y eso es lo que Tear está buscando ahora?
+<SPEECH*>Puede. Puede que no.
+<SPEECH*>En cualquier caso, yo no tengo\nnada que ver con Mohs.<PAGE>\n<SPEECH*>Ordenaré a los Seis Generales de Élite\nque no interfieran con vosotros, aunque no\nsé si eso servirá de mucho.
+<SPEECH*>Van, ¿y qué pasa con los pasaportes?
+<SPEECH*>Oh, sí. El duque Fabre me ha concedido\npasaportes temporales.<PAGE>\n<SPEECH*>Los traje de repuesto, por si acaso,\ny hay suficientes para todos vosotros.
+<SPEECH*>Ya podemos atravesar la frontera.
+<SPEECH*>Deberíais descansar antes de partir.\nYo cruzaré la frontera e iré\npreparando el barco.
+<SPEECH*>Entonces, ¿nos veremos en el puerto de Kaitzur?
+<SPEECH*>Exacto. Cuando paséis la frontera,\nseguid la línea del mar y llegaréis\nenseguida. No os perdáis ahora.
+<SPEECH*>¿Lo ves? Ya te dije que el maestro\nVan no estaba haciendo nada malo.
+<SPEECH*>No confío en él.
+<SPEECH*>¿Ah sí? \nBueno, pues yo no confío en ti.
+<SPEECH*>Me parece bien.
+<SPEECH*>Qué bonita y amistosa relación\ntenéis vosotros dos...
+<SPEECH*>El pasaporte, por favor.\nQue tengas un buen viaje.
+<SPEECH*>¡Estos pasaportes...!
+<SPEECH*>¡Hemos recibido órdenes directas\nde Su Majestad el Rey de dejaros\npasar inmediatamente!
+<SPEECH*>Por fin hemos vuelto a Kimlasca...
+<SPEECH*>No te relajes todavía. Las vacaciones no\nterminan hasta que no se llega a casa.
+<SPEECH*>Sí, pero creo que pasaré de otras\n"vacaciones" como éstas.
+<SPEECH*>Hace tiempo que visité\nKimlasca por última vez.
+<SPEECH*>El puerto de Kaitzur está al sur de aquí, ¿no?\n¡Venga, Luke! ¡Vamos! @
+Descansemos un poco en Engeve por ahora.
+Descansemos un poco en Engeve por ahora.
+Tenemos que ir al Bosque de los Cheagles.
+El Bosque de los Cheagles está más al norte.
+Primero tenemos que reunirnos con Anise.
+Reunámonos primero con Anise.
+Sería mejor que encontrásemos a Anise primero.
+Primero reunámonos con Anise.
+Me da igual quien seas,\nno se puede cruzar por aquí\nsin un pasaporte.
+Parece que no podemos entrar aquí.\nVayamos a otro sitio.
+Parece que no podemos entrar.\nBusquemos otra ciudad.
+Tenemos que ir al Bosque de los Cheagles.
+Esto no es el Bosque de los Cheagles.
+Tenemos que detener la guerra.\nDémonos prisa en ir a Chesedonia.
+Tenemos que ir a Chesedonia.\nQuizá aún estemos a tiempo.
+No hay tiempo para tonterías.\nTenemos que llegar a Chesedonia.
+¡Tenemos que llegar a Chesedonia \ny detener la guerra!
+Si no hacemos nada, la guerra\natrapará a mucha gente.<PAGE>\nTenemos que dirigirnos a\nChesedonia inmediatamente.
+Es peligroso cruzar la frontera ahora.\nSerá mejor que volvamos.
+Es peligroso cruzar la frontera ahora.\nVolvamos
+No creo que sea buena idea\ncruzar la frontera ahora.\nVolvamos.
+Será peligroso cruzar la frontera en\neste momento. Vamos a volver.
+Hay muchos soldados de\nKimlasca en la frontera.\nVolvamos, ¿vale?
+Lo mejor por ahora sería evitar\ncruzar la frontera.
+Colega, ¿qué voy a hacer?\nMe dirigía a Akzeriuth, pero el\npuente del camino se ha ido abajo.<PAGE>\n¿Tú también vas al sur?\nNo se puede usar el puente, ten cuidado.<PAGE>\nBueno, pues nada. Creo que iré a Engeve.\nNos vemos.

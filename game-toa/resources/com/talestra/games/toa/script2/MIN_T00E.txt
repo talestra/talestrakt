@@ -1,0 +1,376 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Ésta es Akzeriuth,\nla ciudad minera...<PAGE>\nAunque con todo este miasma, se ha\nconvertido en una ciudad de enfermos...
+Pensándolo bien...\n¿El paso de Deo no estaba\nbloqueado por una avalancha?<PAGE>\n¿Habéis venido por ahí para\nrescatarnos?...
+......\nDéjame en paz.
+Ya nadie puede hacer\nnada por mí...
+Cuando el miasma te alcanza\ny contraes toxicosis, la\nprobabilidad de morir\nes muy alta.
+Aunque preocuparme por\neso no cambiará nada...
+El túnel 14 está ahí abajo.\nEl equipo de rescate ya ha entrado.<PAGE>\nBajad por este ascensor y\nos dejará justo al lado.
+Si vais al túnel 14,\nbajad por este ascensor.
+*Tos*...\nMe siento tan pesado...\n¿Habré trabajado en exceso?
+Tal vez deba\ndescansar un poco...\n*Tos*...
+El túnel de ahí es el Túnel 7, el\núnico túnel utilizable que queda. <PAGE>\nPero incluso ese no está\ncompletamente libre de miasma.
+Parece que algunas personas\nno contraen toxicosis, así\nque seguiremos trabajando.<PAGE>\nSi no trabajamos mientras podamos,\ntal vez nos arrepintamos después.
+Estoy bien...\nSólo un poco cansado...
+Sólo déjame descansar un poco...
+¡Sólo quería jugar con mi papi!\n¿Por qué está pasando todo esto?
+Quiero volver a Engeve...<PAGE>\nMami...
+Para andarnos sin rodeos, estamos\nen la peor situación posible.<PAGE>\nNo tengo ni idea de qué\ndeberíamos hacer...
+El miasma empezó a aparecer\ndespués de aquel terremoto\nque ocurrió recientemente.<PAGE>\nY no es sólo el miasma...\nlos caminos se desmoronan y\naparecen grietas en el suelo.<PAGE>\nY ahora hay gente atrapada\nen el Túnel 14...
+¡Guarf!
+Aullido...
+Posada/Tienda de objetos y equipamiento
+<SPEECH*>Q-Qué ES todo esto...
+<SPEECH*>Esto es peor de lo que imaginaba.
+<SPEECH*>H-Hey, Natalia, están sucios. \nAléjate de ellos. \nPuede que cojas algo.
+<SPEECH*>¿Quién está sucio?...\n¡¿Qué voy a coger?!\n¡No digas estupideces!
+<SPEECH*>¿Estás bien?
+<SPEECH*>¿Habéis venido todos del\nlado de Kimlasca?
+<SPEECH*>Eh... um...
+<SPEECH*>Soy Natalia, la Princesa de Kimlasca.
+<SPEECH*>Hemos venido a ofrecerles ayuda\na instancia de Su Majestad,\nel emperador Peony.
+<SPEECH*>¡Ah! ¡Un hombre llamado Grants\nnos dijo que ibais a venir!
+<SPEECH*>Me llamo Pyrope.\nSoy el supervisor local\nde esta mina.
+<SPEECH*>El alcalde cayó enfermo, así que\nyo me encargo de todo en su lugar.
+<SPEECH*>¿Dónde está el general dórico\nGrants y el equipo de rescate?
+<SPEECH*>Grants está en la mina.\nIntenta rescatar a los compañeros\nque se desmayaron allí.
+<SPEECH*>Parece que aquí el miasma no\nes tan espeso como en el río Fubras.
+<SPEECH*>Parece que dentro de la\nmina está bastante mal.
+<SPEECH*>Echemos un vistazo por aquí\ny después dirijámonos a la mina.
+<SPEECH*>¡Luke!
+<SPEECH*>¿Eh?\nOh... Sí.
+Dejé a mi familia en Engeve para venir\na trabajar aquí, pero el miasma apareció\njusto el día en que mi hijo vino a visitarme.
+Ahora sólo puedo pensar en\nhacer que vuelva sano y salvo.
+Nos vas a salvar, ¿verdad?
+Mi casa está en Engeve.\n¡Date prisa y llévame allí!
+<SPEECH*>¡Sargento locrio Grants!
+<SPEECH*>Me llamo Hyman. Soy el que\ninformó al gran maestro Mohs acerca\nde la Séptima Piedra Fónica.
+<SPEECH*>Buen trabajo.
+<SPEECH*>¿La Séptima Piedra Fónica?\n¡No me digas que ya la han encontrado!
+<SPEECH*>Eso creemos, pero no podemos\nestar seguros hasta que la excavemos.
+<SPEECH*>Tear, ve a confirmar la autenticidad\nde la Séptima Piedra Fónica, por favor.
+<SPEECH*>Iré con los demás y\nalcanzaré a la vanguardia.
+<SPEECH*>Muy bien.\nCuida de los aldeanos.
+<SPEECH*>Aguanta.\nHemos venido a salvarte.
+<SPEECH*>Hay algo que falla...\nNo veo a la vanguardia por ninguna parte.
+<SPEECH*>¡Ou! ¡Otra vez no!
+<SPEECH*>¡No des un paso más!
+¡Hey! ¡Aguanta!
+Augh... d-duele...\nAyuda... No quiero morir...
+¡No te rindas!\n¡Te salvaremos! ¡Te lo prometo!
+¡No podemos ocuparnos\nde esto solos!
+Debo ir con el maestro Van.
+Volvamos con el equipo de rescate.
+Tengo que ir con el maestro Van.
+<SPEECH*>Algo va mal ahí arriba...\nIré a echar un vistazo.
+<SPEECH*>¡No sigas!\n¡Para antes de que sea demasiado tarde!\n¡Escúchame!
+<SPEECH*>¡No permito que TÚ me des órdenes!
+<SPEECH*>Al fin has llegado.
+<SPEECH*>¡Maestro!\nAquí estás.\n¿Dónde está el resto de la vanguardia?
+<SPEECH*>Les he mandado que vayan a otra parte.\nMaestro Fónico, ¿podría hacerme el favor\nde abrir esta puerta?
+<SPEECH*>Un sello daáthico... Así que \nesto es otro sephiroth. No creo\nque abrirlo sirva para nada.
+<SPEECH*>Sí servirá. Es necesario para\nla recuperación de Akzeriuth.
+<SPEECH>¡Ion, por favor! \nTodo irá bien si haces lo \nque diga el maestro Van.
+<SPEECH*>De acuerdo...
+<SPEECH*>¡Para, maldita sea! ¡No vayas!\n¡¿Intentas destruir Akzeriuth?!
+<SPEECH*>¿De qué hablas?\nSólo voy a neutralizar el miasma.
+<SPEECH*>Es igual que en las ruinas Zao \ny la colina de Shurrey...
+<SPEECH*>Luke. Por aquí.
+<SPEECH*>Ahora, Luke, baja a esa\nmáquina fónica (el anillo de\ntránsito), y neutraliza el miasma.
+<SPEECH*>¿De qué hablas?\n¿Es posible?
+<SPEECH*>Sí. Lo es para mí.\nSoy un héroe escogido.
+<SPEECH*>¡Tear!\n¿Qué está pasando?
+<SPEECH*>¡Coronel! \n¡La vanguardia ha sido eliminada!
+<SPEECH*>¡Los Caballeros del Oráculo que\ncapturaron el Tartarus les han emboscado!
+<SPEECH*>Eso explica su ausencia. \nDeben estar intentando evitar\nque salvemos Akzeriuth...
+<SPEECH*>No, están esperando aquí, bajo\nórdenes de Van, para llevárseme.
+<SPEECH*>¿Qué quieres decir?
+<SPEECH*>Fui a verificar la Séptima Piedra \nFónica. Resulta que no era real.
+<SPEECH*>Pero casi me secuestraron los\nsoldados del Oráculo cuando fui allí.
+<SPEECH*>¿Por qué tú?
+<SPEECH*>¡Es mi hermano! ¡Quiere protegerme \nde lo que va a hacer!
+<SPEECH*>¡¿Dónde está?!\n¡Intenta hacer algo horrible!
+<SPEECH*>¡Hey! ¡Haz algo con ese idiota\nal que llamáis Luke, o vamos a morir todos!
+<SPEECH*>¡Fue él!\n¡Asch me lo dijo!\nNo hay ningún error.
+<SPEECH*>¡Van está...
+<SPEECH*>Bien, concéntrate así.
+<SPEECH*>...
+<SPEECH*>Ahora...\n"Estúpida réplica Luke"\n¡desata tu poder!
+<SPEECH*>¡¿Q-Qué puñetas?!\nAlgo está saliendo de mí...
+<SPEECH*>Luke, escucha mi voz.\nAhora, relájate, así...
+<SPEECH*>Cuando te ordene liberar tu poder, \nabrirás cada fonorranura de tu cuerpo \ny desatarás una hiperresonancia.<PAGE>\n<SPEECH*>Ese mismo poder que estás usando ahora.\nLa frase clave será...<PAGE>\n<SPEECH*>"Estúpida réplica Luke"
+<SPEECH*>Ese mismo poder que estás usando ahora.\nLa frase clave será...
+<SPEECH*>"Estúpida réplica Luke"
+<SPEECH*>...planeando destruir Akzeriuth!
+<SPEECH*>Por fin has demostrado ser útil, réplica.
+<SPEECH*>¿Van?
+<SPEECH*>¡Maldita sea! \n¡No lo hemos logrado!
+<SPEECH*>¡Asch! \n¡¿Por qué estás aquí?!\n¡Te dije que no vinieras!
+<SPEECH*>Pues aquí estoy.
+<SPEECH*>¡También traigo a la\nhermana que intentabas salvar!
+<SPEECH*>¡Déjame marchar!\n¡Yo también voy a morir aquí!
+<SPEECH*>Pretendía salvar a Ion con\neso, pero ahora no tengo elección.\nNo puedo permitirme perderte.
+<SPEECH*>¡Van! ¡Lo sabía!\n¡Me has engañado! \n¡Dijiste que ibas a proteger\nlas Tierras Exteriores!
+<SPEECH*>¿Qué pasa con la gente de Akzeriuth? \n¿Los soldados del Oráculo en el Tartarus? \n¡Todos van a morir!
+<SPEECH*>Mystearica, algún día lograrás \ncomprender la insensatez y repugnancia\nde este mundo...
+<SPEECH*>Quiero que vivas... \nAl menos lo suficiente para que \nte vea volver a tus cabales.
+<SPEECH*>Tienes los himnos fónicos.\nÚsalos.
+<SPEECH*>¡Maldita sea! \n¡Los túneles se están hundiendo!
+<SPEECH*>¡Que todo el mundo se acerque! \n¡Deprisa!
+Tengo que neutralizar el miasma. \nNo puedo perder el tiempo.
+Vamos rápido a los túneles.
+Dijo que era incluso peor dentro de \nlos túneles. Vamos a echar un vistazo.
+Unámonos con la vanguardia y ayudemos\nen las tareas de rescate.
+¡Démonos prisa y salvemos a esta gente!
+Démonos prisa y vayamos a los túneles,\nantes de que sea demasiado tarde.
+Debo alcanzar al maestro Van.
+Voy a neutralizar el miasma\ny convertirme en un héroe.

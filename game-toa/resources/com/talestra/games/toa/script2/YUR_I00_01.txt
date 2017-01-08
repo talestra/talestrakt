@@ -1,0 +1,468 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>¿Me permitís un momento?
+<SPEECH*>Oh, venga... Casi hemos llegado\na Kaitzur. ¿Y aquí qué quieres?
+<SPEECH*>Es sobre los himnos fónicos de Tear, ¿verdad?
+<SPEECH*>Sí. He estado dándole vueltas al\nasunto. Tus himnos fónicos son\ndiferentes a los que conozco.<PAGE>\n<SPEECH*>Y bueno, Ion... \nDices que son himnos fónicos de Yulia.
+<SPEECH*>¿Y qué?
+<SPEECH*>Los himnos fónicos de Yulia son especiales.<PAGE>\n<SPEECH*>Normalmente, los himnos fónicos sólo son\nel hechizo que se usa en un arte fónico\ncombinado con una melodía.<PAGE>\n<SPEECH*>No son tan fuertes como las artes fónicas.
+<SPEECH*>Pero los himnos de Yulia son diferentes.\nSe dice que tienen el mismo poder\nque las artes fónicas.
+<SPEECH*>Pues sí, los himnos fónicos\nque yo uso son los de Yulia...
+<SPEECH*>Pensaba que los himnos de\nYulia no eran nada sólo con\nlos versos y la melodía...
+<SPEECH*>¿De verdad? \n¿No pueden cantarse y ya está?
+<SPEECH*>Cuando alguien que de verdad aprecia\nel simbolismo y el significado canta un verso,\nse dibuja un mapa de sabiduría oculta.
+<SPEECH*>¿Y eso qué se supone que significa?
+<SPEECH*>Eso dicen... Se supone que\nse transmiten en secreto de\nuna generación a otra.
+<SPEECH*>Sí. Eso es así.\nSabes mucho sobre ellos.
+<SPEECH*>Alguien me habló de ellos, hace tiempo.
+<SPEECH*>¿Y cómo puedes cantar los\nhimnos de Yulia? ¿Quién te\nlos enseñó?
+<SPEECH*>Me los enseñaron porque mi familia\nes descendiente de Yulia...<PAGE>\n<SPEECH*>Aunque no sé si eso es verdad o no.
+<SPEECH*>Una descendiente de Yulia... \nYa veo...
+<SPEECH*>¡¿Eso significa que el maestro Van\ntambién es descendiente de Yulia?!
+<SPEECH*>Bueno, sí, supongo...
+<SPEECH*>¡Guau! \n¡El maestro Van mola tanto!
+<SPEECH*>Gracias, Tear. Me encantaría tener\nla oportunidad de aprender más cosas\nsobre los himnos fónicos<PAGE>\n<SPEECH*>Especialmente del Gran Himno Fónico.
+<SPEECH*>¿"Gran Himno Fónico"? \n¿Eso qué es?
+<SPEECH*>El himno fónico que Yulia cantó para\nutilizar el poder de Lorelei. Es la\nprueba de su acuerdo.
+<SPEECH*>¿Podemos seguir?...\nCreo que he contestado\na tu pregunta.
+<SPEECH*>Tear, te estaba buscando. \nSobre el Tercer Himno Fónico... \nOh, ¿se ha recuperado?
+<SPEECH*>¡Layla! \n¿Se ha descubierto el símbolo\ndel Tercer Himno?
+<SPEECH*>¿Qué es el "Tercer Himno"? \n¿Uno de esos himnos fónicos que usas?
+<SPEECH*>Así que él no los conoce.
+<SPEECH*>Los himnos fónicos que yo uso son\nlos de Yulia. Hay un total de siete.
+<SPEECH*>Oh, ¿así que el tercero de esos siete? <PAGE>\n<SPEECH*>Espera...\nTu sólo utilizas dos de ellos.
+<SPEECH*>No entiendo el simbolismo\nde los otros.
+<SPEECH*>Los himnos de Yulia no son útiles\nsólo con la melodía.<PAGE>\n<SPEECH*>Si no entiendes el significado\ny la sabiduría que hay en los\nhimnos, no son mas que canciones.<PAGE>\n<SPEECH*>Oh, sí...<PAGE>\n<SPEECH*>El símbolo del Tercer Himno... \nHabía una página escondida en un\nlibro que Van dejó.<PAGE>\n<SPEECH*>Puede que estuviera escrito ahí. \nCuando puedas, pásate por donde \nestoy yo y échale un vistazo.
+<SPEECH*>Los himnos fónicos parecen muy complicados...
+<SPEECH*>Sí. Los símbolos son muy difíciles.\nLos conozco todos excepto el Tercero y el Quinto.<PAGE>\n<SPEECH*>Pero por ahora, sólo entiendo el\nPrimero y el Segundo...
+<SPEECH*>Así que si no conoces y entiendes\nlos símbolos, realmente no son más\nque canciones normales...
+<SPEECH*>De hecho, los siete himnos de Yulia\ncantados de forma consecutiva forman\notro himno fónico...<PAGE>\n<SPEECH*>Se llama Gran Himno Fónico,\ny funciona aunque no entiendas\nsu simbolismo.<PAGE>\n<SPEECH*>El mismo himno es un\nsímbolo del pacto.
+<SPEECH*>¿Todo el "pacto con Lorelei" \ny el Gran Himno Fónico? \n¿Qué poder tiene?
+<SPEECH*>Se dice que el Gran Himno Fónico y\nla Llave de Lorelei juntos pueden\ninvocar a Lorelei.
+<SPEECH*>¡Eso suena espectacular!
+<SPEECH*>Sí. Pero la Llave de Lorelei\nse perdió, y yo no conozco el\nSéptimo Himno.<PAGE>\n<SPEECH*>Así que al final puede que no importe mucho...
+<SPEECH*>A-Anímate...<PAGE>\n<SPEECH*>Yo no sé nada sobre el Gran Himno\nFónico, pero el Primer Himno y el Segundo\nnos han ayudado mucho...<PAGE>\n<SPEECH*>¡Eso ya está muy bien!
+<SPEECH*>Luke... \nG-Gracias...
+<SPEECH*>Te he estado esperando.
+<SPEECH*>¿Qué libro dejó Van?
+<SPEECH*>Es un libro normal sobre\nartes fónicas, pero había una\npágina escondida al final.<PAGE>\n<SPEECH*>Aquí tienes una copia.
+<SPEECH*>Yo no sé qué significa, pero\npensé que a lo mejor tú...
+<SPEECH*>¡Ésta es...!
+<SPEECH*>Va, le, zwe, tue... Madre... \nEntendimiento... Propagándose a\ntravés de la tierra de Rúgnica...
+<SPEECH*>Magnífica... voz de ángel...
+<SPEECH*>¿Q-Qué está pasando?
+<SPEECH*>Silencio. Tear está meditando.\nParece que sí que era el\nsímbolo del himno.
+<SPEECH*>Ahora lo entiendo...\nEs el Tercer Himno...
+<SPEECH*>¿Has podido entender la\ncosa esa oculta?
+<SPEECH*>Sí...
+<SPEECH*>¡Felicidades, Tear!
+<SPEECH*>Gracias. \n¿Te importa si me quedo la copia?...<PAGE>\n<SPEECH*>Aquí también hay información\nsobre el simbolismo de los\notros himnos.
+<SPEECH*>Aunque aún no los\ncomprendo lo suficiente...
+<SPEECH*>Adelante. Estoy segura de\nque al final te será útil,\ncuando seas más fuerte.
+<SPEECH*>Sí. \nGracias.
+Permíteme que te\ndé un regalo.<PAGE>\nNo es nada extraordinario pero,\npor favor, utilízalo.
+Has obtenido "selector".
+<SPEECH*>Maestro fónico Ion... \nLo siento mucho... \n¿Por qué lo has hecho?...
+<SPEECH*>Tear...
+<SPEECH*>Ion... ¿por qué...?
+<SPEECH*>Así que aquí estabais... \nTengo un mensaje del\nmaestro Tritheim.<PAGE>\n<SPEECH*>Se celebrará un servicio conmemorativo\npor el maestro fónico Ion mañana.<PAGE>\n<SPEECH*>Los servicios de este tipo normalmente\nse reservan a miembros de la Orden, pero\nsi fuerais tan amables de venir...
+<SPEECH*>Iremos, ¿verdad?
+<SPEECH*>Sí. Por favor, permíteme expresar\ntambién el pésame del Emperador.
+<SPEECH*>Sí. Yo también quiero representar a\nKimlasca... No, quiero ofrecer también mis\npropios sentimientos y plegarias.
+<SPEECH*>Después de todo, Ion era amigo nuestro.
+<SPEECH*>Tear... quisiera pedirte un favor.
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Canta tus himnos fónicos.
+<SPEECH*>¿Los himnos fónicos?
+<SPEECH*>Ion dijo que le gustaban tus himnos.\nQue parecían nostálgicos.<PAGE>\n<SPEECH*>Todos los himnos de Yulia juntos hacen\notro himno, ¿verdad? \nPor favor... canta el Gran Himno Fónico...
+<SPEECH*>Pero... yo no sé\nel Séptimo Himno.
+<SPEECH*>¡Entonces sólo el trozo que sepas!\n¡Por favor!
+<SPEECH*>Canta. \nAunque no esté completo, estoy\nseguro de que Ion lo agradecerá.
+<SPEECH*>Tear, creo que esa canción\npuede ser una forma de plegaria.
+<SPEECH*>Vale...
+<SPEECH*>¡¿P-Pero qué...?!
+<SPEECH*>Gracias...
+<SPEECH*>Gracias a todos por venir a este servicio.<PAGE>\n<SPEECH*>Estoy seguro de que Ion estaría\ncontento de veros otra vez.
+<SPEECH*>¿Qué ha sido eso en\nmitad del servicio?
+<SPEECH*>No lo sé...\nPero en el momento que\ncanté el Quinto Himno,<PAGE>\n<SPEECH*>sentí un poder que nunca antes había\nnotado. Creí que había entendido el\nsimbolismo, pero...
+<SPEECH*>¿Puede que haberte quitado el\nmiasma del cuerpo te haya permitido\nusar himnos de un nivel mayor?
+<SPEECH*>En ese momento, oí la voz\ndel Maestro Fónico...<PAGE>\n<SPEECH*>Creo que Ion ha debido de\ndejarte su poder.
+<SPEECH*>Sí, yo también lo oí.
+<SPEECH*>Yo también... \nCreo que el maestro Tritheim tiene razón.
+<SPEECH*>Puede que esas cosas sean posibles.
+<SPEECH*>Pero... ¿por qué?...
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Aunque no me lo sé...\nSentí como si hubiera podido\ncantar el Séptimo Himno...
+<SPEECH*>¿Ese que aún no\nte han enseñado?
+<SPEECH*>Sí... Debió ser mi imaginación.\nQuizá el poder de Ion me\notorgó esa ilusión.
+*Suspiro* ¿Qué voy a hacer?...
+Vaya, es un vaquero, de los\n"Cuentos de hadas de Auldrant".
+El disfraz está muy bien hecho, \nigual que los otros...
+No sale ni tirando...
+¡G-G-Guau! ¡¿Qué estás haciendo?!
+Oh, lo siento. No podía evitar\npreguntarme si era real o no...
+¡Todo es real en la\nisla de Nam Cobandai!
+En otras palabras, aunque sea falso,\ntrátalo como si fuera real.
+Por cierto, ¿qué\nte preocupa?
+Me hermano pequeño se escapó,\ndecía que quería ver mundo, pero\nya hace mucho que se fue.<PAGE>\nMi hermano mayor también se fue, decía\nque quería ir a buscarlo, y él tampoco\nha vuelto...<PAGE>\nCuando pienso en ellos, perdidos por\nahí fuera, me preocupo mucho.
+¿Y por qué no vas a buscarlos?
+Si me fuera y acabáramos\nperdiéndonos la pista,<PAGE>\n¡quizá ellos se\nfueran otra vez\npara buscarme!
+¿Tus hermanos llevan la\nmisma ropa que tú?
+Sí. Los dos son vaqueros, como yo.
+(Vacas... @)
+Bueno, no pasarán muy desapercibidos...
+¡Vamos a buscarlos!
+Estás dejando que sus pintas\nte conmuevan otra vez, ¿no?
+N-No, por supuesto que no...
+Si tú lo dices. Bueno, si están\nvestidos así, deberíamos poder\nencontrarlos fácilmente.
+¡¿Vais a buscar a\nmis hermanos?! \n¡Gracias!<PAGE>\nMi hermano mayor se llama Misika y\nmi hermano pequeño se llama Yutan.
+*Suspiro*
+¡Guau! ¡¡Cómo mola!! \n¡Esto sí que es guay!
+Me recuerda a cierta persona.
+¡Y-Yo no soy así! \nNo creo...
+Hey, tú. \nEres Yutan, ¿verdad?
+¿Eh? ¿Qué pasa contigo? \n¿Qué quieres?
+Es muy parecido...
+¡Hey!
+Elion está preocupado por ti. \nVenga, vamos a casa.
+¿Elion? Oh sí, creo que hace\ntiempo que no he vuelto.\nLa verdad es que me olvidé.
+(¿De verdad parezco tan tonto?...\nSerá mejor que tenga cuidado...)
+¡Aún no voy a volver!<PAGE>\n¡Aún hay muchas cosas\nen el mundo que\ntengo que ver!
+¡Oh, vaya! \nHa huido.
+Oh, no te preocupes. No parecía mucho más listo\nque alguien a quien se parece. Estoy seguro\nque lo encontraremos fácilmente otra vez.
+No pienses que soy tan tonto\ncomo para no darme cuenta de\ncuando se están riendo de mí.
+¿Qué quieres decir? \nNadie ha dicho nada\nsobre ti.<PAGE>\nA no ser que te des por aludido, claro.
+Déjalo ya, Luke. \nNo puedes ganarle en una discusión.
+Después de todo, tiene la\nsabiduría de un hombre mayor.
+¿Eh? Qué raro. Estoy seguro de haber\nsubido al barco que iba hacia Daath...
+Esto es Baticul.
+Oh...<PAGE>\n¿Cómo he acabado aquí?\n¿Habré comprado el billete equivocado?
+Querrás decir que has subido\nal barco equivocado.
+Oh, sí. Podría ser eso.\nPor cierto, ¿quiénes sois?
+Eres Misika, ¿verdad? Elion \nnos pidió que te buscáramos.\nVolvamos juntos a casa.
+No puedo. Tengo el deber de\nencontrar a mi hermano, Yutan.
+¿Qué deberíamos hacer?
+Creo que primero tendremos que encontrar a Yutan...
+¿Qué pasa?
+¡Oh, eres tú!\nParece que han secuestrado\na la hija de Kelly...
+Mi pequeña Erin...
+Enviaron una nota sobre el rescate. \n"Tenemos a Erin y al vaquero. Los mataremos\nsi nos denuncias a la policía militar".<PAGE>\n"Trae 5.000.000 gald al\nBosque de los Cheagles".
+Vaquero... ¡¿Yutan?!
+Vaya, vaya. Se ha metido\nen un lío, ¿verdad?
+¿Cómo puedes sonar tan indiferente? \n¡Tenemos que darnos prisa y rescatarlos!
+Pero el Coronel, Anise y yo somos soldados.\nSi nos entrometemos, los niños secuestros\npodrían estar en peligro.
+Entonces, esta vez dejaremos fuera\na Anise, a Jade y a Tear.<PAGE>\nLos demás iremos al bosque y rescataremos a\nlos niños. Entonces, os haremos una señal y\npodréis venir a detener a los criminales.<PAGE>\n¿Qué os parece?
+Me pregunto si será tan fácil.
+Mmm, sí.<PAGE>\nPero, aunque nos vieran,<PAGE>\nno deberían pensar que somos soldados.
+Decidido, entonces. \n¡Vayamos al Bosque de los Cheagles ahora mismo!
+¡Hey! \n¡Soltadme, cabrones!
+¿Por qué has traído \ntambién a este friki?...
+Él me siguió....
+¡Hasta aquí habéis llegado!
+¡¿Q-Quién anda ahí?!
+E-Espera...
+¡Rendíos pacíficamente \ny no se os hará daño!
+¿Q-Quién leches sois vosotros?
+Soy...
+¡Hey! \n¡No olvides quién eres\ny que estás en Malkuth!
+O-Oh, es verdad.
+Soy... ¡Soy la Estrella de Malkuth! \n¡La misteriosa ladrona, la\nEstrella de Malkuth!
+¡Muchas gracias!
+Gracias a vosotros, tengo a mi hija otra vez. \n¡No sé cómo expresar mi gratitud!
+No hay necesidad dar\nlas gracias. De nada.
+Gracias, señorita Estrella de Malkuth.
+¡¿Uah?!
+Mieuuuuuuuu...
+Captura completada.
+(Qué cruel...)
+¡Ah! ¡Yutan!
+Yo...
+¿Dónde has estado?\n¡Estábamos preocupados!\n¡Por tu culpa, he acabado\nviniendo a Daath!
+Ya te lo hemos dicho, esto es Baticul.
+Oh, sí.
+Bueno, Elion os está esperando a los dos. \nVolvamos con él.
+¡Estoy tan contento de que estéis bien!
+Eh... Lo siento. \nMe quedé un poco atrapado.
+Pero conseguimos volver sanos y salvos.
+Gracias por encontrarlos.
+Me gustaría ofrecerte algo \ncomo muestra de gratitud...
+Conozco algo bueno.
+¿Qué están haciendo?
+Me da igual lo que hagan...
+Ya veo. Tengo algo que  \nserá perfecto.
+¡Vaya! \n¿Qué es esto?
+¡Tiene una pinta maravillosa!
+Entiendo tu trabajo como ladrona,\nEstrella de Malkuth.<PAGE>\nYutan me informó.
+Um...
+Je, no hay por qué avergonzarse.
+¡Sí! \nTe sienta bien.
+Éste es el traje de la ladrona\nmisteriosa, un personaje de\nuna novela famosa.
+Vaya...
+Natalia, si te avergüenza,\nno tienes por qué llevarlo...
+¡Es maravilloso!
+Ahora yo también soy una ladrona misteriosa.<PAGE>\nSí que me siento más tímida,\npero ha sido mi sueño desde\nque era niña.<PAGE>\nLo aceptaré encantada.
+Natalia ha recibido el título de "****."
+......
+......\nEstamos aquí sólo para\ncumplir con nuestro deber.
+......
+......\nNo se puede mirar gratis.
+......
+......\nNo olvides tu deber.
+......
+......\nNo olvides tu deber.
+Es la primera vez que veo\nuna piedra fónica como ésta.\nQué grande es, ¿verdad?
+Hace que me pregunte\nsi podría ser falsa.
+Es la primera vez que veo\nuna piedra fónica como ésta.\nQué grande es, ¿verdad?
+Hace que me pregunte\nsi podría ser falsa.
+Esta piedra fónica es impresionante.\n
+Me pregunto si también\ncontiene nuestros futuros...
+Incluso a las réplicas les afecta el miasma.
+Al fin y al cabo, nuestros fonones sanguíneos\nson iguales que los de nuestros originales.

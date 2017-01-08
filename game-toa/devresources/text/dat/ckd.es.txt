@@ -1,0 +1,242 @@
+
+*TYPE1
+-> Bola de arroz
+Arroz con forma de bola. Estupendo para aventureros
+con prisas. Restaura una pequeña cantidad de HP.
+- Bola de arroz con gambas
+-
+- Bola de arroz con salmón
+- Bola de arroz con carne
+- Bola de arroz con marisco
+- Bola de arroz con pollo
+-
+
+-> Espaguetis
+Un plato de pasta básico. Simple y delicioso.
+Restaura una pequeña cantidad de TP.
+-
+- Carbonara
+- Pasta de Engeve
+-
+- Pasta de marisco
+- Pasta de queso
+-
+
+-> Sandwich
+Un almuerzo no es almuerzo sin comerse uno.
+Restaura una pequeña cantidad de HP y TP.
+- Sandwich de pollo
+- Sandwich de huevo
+-
+- Sandwich de fruta
+- Sandwich de pescado
+- Sandwich de queso
+- Sandwich de pollo
+
+-> Pollo frito
+Tiernos trozos de pollo fritos a la perfección.
+Cura el veneno.
+-
+- Patatas fritas
+- Tofu frito
+-
+-
+- Queso frito
+-
+
+-> Arroz frito
+Sofrito de huevo y arroz. Para tomar con empanadillas
+de cerdo. Restaura una pequeña cantidad de HP.
+- Arroz frito con gambas
+-
+-
+- Pilaf de arroz
+-
+-
+-
+
+-> Ramen
+Preparado por todo el mundo de muchas formas distintas.
+Restaura una pequeña cantidad de TP.
+- Ramen de pollo
+- Ramen de cerdo
+-
+- Ramen de cerdo
+- Ramen de miso
+-
+- Ramen de pollo
+
+-> Pizza
+Queso, carne y verduras horneados en una masa crujiente.
+Restaura una pequeña cantidad de HP y TP.
+-
+-
+- Pizza de patata
+-
+- Pizza de marisco
+- Pizza de queso
+-
+
+-> Ensalada
+Una forma genial de tomar las verduras que tu cuerpo
+necesita. Cura las artes selladas.
+-
+- Ensalada de huevo
+- Ensalada de patata
+- Ensalada de fruta
+- Ensalada de atún
+- Ensalada saludable
+-
+
+-> Curry
+Con las especias adecuadas, este plato es irresistible.
+Restaura una pequeña cantidad de HP.
+- Curry de pollo
+- Curry suave
+- Curry de tofu picante
+- Curry de carne
+- Curry de marisco
+- Curry de queso
+- Curry de pollo
+
+-> Fideos de soba
+Fideos de trigo sarraceno servidos en un caldo ligero.
+Restaura una pequeña cantidad de TP.
+- Sopa de fideos de pollo
+-
+- Fideos de huevo y soba
+-
+- Soba de tempura
+-
+- Sopa de fideos de pollo
+
+-> Tarta
+Una delicia, sobre todo si se acompaña con helado.
+Restaura una pequeña cantidad de HP y TP.
+-
+- Tarta de manzana
+-
+- Torta de fresas
+-
+- Quesadilla
+-
+
+-> Cuenco de arroz
+Cuenco de arroz coronado con huevos y cebolla.
+Cura la parálisis.
+- Cuenco de pollo
+-
+-
+- Cuenco de carne
+- Cuenco de gambas fritas
+-
+- Cuenco de pollo
+
+-> Sushi
+Hecho con arroz avinagrado. ¡Bueno y sabroso!
+Restaura una cantidad moderada de HP.
+-
+-
+- Rollito de salmón
+-
+- Rollito de atún
+-
+-
+
+-> Fideos de udon
+Parecidos a los fideos de soba, pero hechos de trigo.
+Restauran una cantidad moderada de TP.
+-
+- Fideos de miso
+- Fideos de huevo y udon
+- Fideos de carne
+-
+-
+-
+
+-> Tostada
+¡Ideal para desayunar! Muy fácil de preparar.
+Restaura una pequeña cantidad de HP y TP.
+-
+- Tostada de huevo
+-
+- Tostada con mermelada
+-
+- Tostada de queso
+-
+
+-> Sopa de cebolla
+Cocinada durante horas para extraer el sabor de la
+cebolla. Cura veneno, parálisis y artes selladas.
+-
+- Minestrone
+-
+- Sopa de crema
+-
+- Potaje
+-
+
+-> Gratinado
+Un cremoso y delicioso guiso horneado.
+Restaura una gran cantidad de HP.
+- 0
+- 0
+- 0
+- 0
+- Gratinado de arroz
+- Risotto
+-
+
+-> Macedonia
+Frutas deliciosas servidas en sus propios jugos.
+Restaura una gran cantidad de TP.
+- 0
+- 0
+- Licor de frutas
+- Combinado de fresa
+- 0
+- 0
+-
+
+-> Estofado
+Un denso y rico caldo con sabor a verdura.
+Restaura una cantidad moderada de HP y TP.
+- 0
+- Estofado de crema
+- 0
+- Estofado de carne
+- 0
+- 0
+-
+
+-> Guiso de miso
+Carne y verduras en un caldo de miso.
+Incrementa temporalmente la habilidad en batalla.
+- 0
+- 0
+- 0
+- 0
+- Estofado de miso sabroso
+- 0
+-
+
+*TYPE2
+Carne/pes.
+Carne
+Marisco
+Verduras
+Frutas
+Arroz
+Pasta
+Pan
+??K?
+
+*TYPE3
+Pegajoso
+Pastoso
+Quemado
+Repugnante
+Duro
+Empapado
+Amargo
+

@@ -2,7 +2,6 @@ package com.talestra.criminalgirls
 
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.vfs.ResourcesVfs
-import com.talestra.criminalgirls.FONT_WIDTHS
 import org.junit.Assert
 import org.junit.Test
 

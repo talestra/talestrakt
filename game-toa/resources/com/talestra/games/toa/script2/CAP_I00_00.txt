@@ -1,0 +1,311 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Bienvenido.\n¿No te gustaría tener unas\nexcelentes armas de Sheridan?
+Gracias.\nVuelve de nuevo.
+Bienvenido.\n¿Deseas armas nuevas?
+Gracias.\nVuelve de nuevo.
+Bienvenido.\nPor muy mal que esté el mundo,\nsi tienes armas, estarás bien.
+Gracias.\nVuelve de nuevo.
+Bienvenido.\nTengo armaduras importadas directamente\ndesde Sheridan. ¿Te interesa?
+Gracias.\nVuelve pronto.
+Bienvenido.\n¿Buscas armaduras resistentes?
+Gracias.\nVuelve pronto.
+Bienvenido.\nEn tiempos como estos,\nportar armadura es importante.
+Gracias.\nVuelve pronto.
+Bienvenido.\n¿Buscas accesorios?
+Gracias.\nVuelve de nuevo.
+Bienvenido.\nLos accesorios no sólo están para\npresumir, también son prácticos.
+Gracias.\nVuelve de nuevo.
+Bienvenido.\n¿Quieres unos cuantos\naccesorios nuevos?
+Gracias.\nVuelve de nuevo.
+¡Entra!\nTenemos todo tipo de\nmedicinas y herramientas.
+Gracias.\nVuelve pronto.
+¡Entra!\nSi vas a hacer un viaje largo,\nnecesitarás medicinas y herramientas.
+Gracias.\nVuelve pronto.
+¡Entra!\nIncluso aquí en el Qliphoth,\nnecesitarás medicinas y herramientas.
+Gracias.\nVuelve pronto.
+Bienvenido.\nSin duda necesitarás una armadura\npara protegerte la cabeza.
+Gracias.
+Bienvenido.\nEs importante elegir una\nbuena armadura para la cabeza.
+Gracias.
+Bienvenido.\nTenemos armaduras para\nproteger la cabeza.
+Gracias.
+¡Buenas!\nTenemos productos de Engeve.
+Gracias.
+¡Buenas!\n¿Quieres comida sana\nde Engeve?
+Gracias.
+¡Buenas!\nCompra ingredientes para cocinar.
+Gracias.
+¿Qué te parece el centro comercial\nmás grande de Baticul?<PAGE>\nLas tiendas del lado este venden\narmas, armaduras y accesorios.
+Las tiendas del lado este\nvenden armas, armaduras y\naccesorios.
+¿Qué te parece el centro comercial\nmás grande de Baticul?<PAGE>\nLas tiendas del lado este venden\narmas, armaduras y accesorios.
+Las tiendas del lado este venden\narmas, armaduras y accesorios.
+Los productos y los precios\nde las tiendas han cambiado.
+La princesa Natalia ha vuelto y\nel Coliseo ha abierto de nuevo.
+¿Vas de compras,\nde vez en cuando?
+Los productos agotados quizá\nestén ahora a la venta.
+Las tres tiendas del lado oeste venden\nherramientas, armaduras y comida.
+La puerta que está al fondo del\ncentro comercial lleva al Coliseo.<PAGE>\nAunque por ahora está cerrado...
+Las tres tiendas del lado oeste venden\nherramientas, armaduras y comida.
+La puerta que está al fondo del\ncentro comercial lleva al Coliseo.<PAGE>\nAunque por ahora está cerrado...
+¡Por fin han abierto el Coliseo!\nNo sé si tiene algo que ver, pero los\nproductos de las tiendas han cambiado.
+La princesa Natalia ha vuelto,\nel Coliseo está abierto de nuevo...\n¡Las cosas van genial!
+Si vas al Coliseo, pásate\npor las tiendas, de paso.
+Visita de vez en cuando\nla tienda de armaduras\ndel lado oeste, también.
+Actualmente, el Coliseo está cerrado.
+Actualmente, el Coliseo está cerrado.
+¿Vas al Coliseo?\nPor favor, entra por esa puerta.
+¿Vas al Coliseo?\nPor favor, entra por esa puerta.
+El Coliseo volverá a\nabrir dentro de poco.\nPaciencia, por favor.
+El Coliseo volverá a\nabrir dentro de poco.\nPaciencia, por favor.
+La recepción del Coliseo está\njusto en frente de esta puerta.\nPásenlo bien.
+La recepción del Coliseo está\njusto en frente de esta puerta.\nPásenlo bien.
+Coliseo

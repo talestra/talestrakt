@@ -1,0 +1,295 @@
+-> Retroceder
+Pulsa "<BUTTON:SQUARE>+<BUTTON:BACKWARD> (atrás)" para retroceder
+de un salto.
+
+-> Recuperarse
+Evita caer al suelo pulsando <BUTTON:SQUARE> cuando un enemigo te
+lance por los aires.
+
+-> Guardia crítica
+"<BUTTON:SQUARE>+<BUTTON:FORWARD> (adelante)" reduce el daño de los
+ataques físicos enemigos.
+
+-> Guardia mágica
+"<BUTTON:SQUARE>+<BUTTON:DOWN> (abajo)" reduce el daño de los ataques
+mágicos enemigos.
+
+-> Movimiento libre
+Mantén pulsado el botón <BUTTON:L2> para moverte libremente con <BUTTON:LEFTSTICK>.
+
+-> Límite
+Entra en Límite pulsando <BUTTON:R2> cuando la barra esté llena.
+
+-> Burla
+Cuando la barra no esté llena, pulsa <BUTTON:R2> para que crezca
+durante un tiempo determinado.
+
+-> Especial
+Durante el Límite, mantén pulsado <BUTTON:CROSS> después de usar un
+arte arcano o un arte fónico alto para lanzar un arte místico.
+
+-> Resistir combo
+Reduce el daño recibido de un combo básico.
+
+-> Carga de poder
+Mantén pulsado <BUTTON:DOWN> (abajo) mientras estás quieto
+para aumentar temporalmente el poder de ataque.
+
+-> Aumentar crítico
+Aumenta la probabilidad de causar daño crítico.
+
+-> Golpe fuerte
+Aumenta la probabilidad de aturdir a un enemigo
+con un ataque físico.
+
+-> Añadir golpe
+<BUTTON:CROSS> permite golpear 4 veces.
+
+-> Añadir golpe 2
+<BUTTON:CROSS> permite golpear 5 veces.
+
+-> Añadir golpe 3
+<BUTTON:CROSS> permite golpear 6 veces.
+
+-> Añadir golpe 4
+<BUTTON:CROSS> permite golpear 7 veces.
+
+-> Rodar
+Reduce el daño extra que recibes cuando te tiran
+al suelo.
+
+-> Guardia+
+Reduce el daño recibido mientras te cubres.
+
+-> Guardia trasera 1
+Reduce la probabilidad de que un enemigo rompa tu guardia.
+
+-> Anular ataque
+Algunas veces no te tambalearás al recibir un
+ataque físico.
+
+-> Inmunidad
+Reduce la probabilidad de sufrir estados alterados.
+
+-> Aguantar
+Reduce el tiempo necesario para recuperarte después
+de recibir un golpe.
+
+-> Magia crítica
+Causa daño crítico cuando lanzas un conjuro.
+
+-> Final con suerte
+Reduce el tiempo que estás inmovilizado después
+de lanzar un conjuro.
+
+-> Magia pesada
+Aumenta la probabilidad de aturdir a un enemigo
+con un conjuro.
+
+-> Magia con suerte
+Reduce ocasionalmente la cantidad de TP necesario
+cuando lanzas un conjuro.
+
+-> Conjuro veloz
+Reduce el tiempo necesario para lanzar un conjuro.
+
+-> Carga de magia
+Mantén pulsando <BUTTON:DOWN> (abajo) mientras estás
+quieto para aumentar el poder mágico.
+
+-> Anular magia
+Algunas veces no te tambalearás al recibir
+un ataque mágico.
+
+-> Resistir
+Evita sufrir estados alterados ocasionalmente.
+
+-> Antielemento
+Ocasionalmente reduce a la mitad el daño de
+un ataque elemental.
+
+-> Guardia mágica+
+Reduce el daño recibido usando Guardia mágica.
+
+-> Estímulo
+Aumenta el efecto de las magias que aumentan atributos.
+
+-> Aumentar vida
+Aumenta el HP máximo de vez en cuando tras un combate.
+
+-> Sanador de espíritu
+Aumenta el TP que se recupera después de un combate.
+
+-> Felicidad
+Ocasionalmente aumenta la EXP adquirida
+después de un combate.
+
+-> Sanador de cuerpo
+Recupera HP después de un combate.
+
+-> Aumentar mente
+Aumenta el TP máximo de vez en cuando tras un combate.
+
+-> Recuperación de HP
+Aumenta la efectividad de la recuperación de HP.
+
+-> Recuperación de TP
+Aumenta la efectividad de la recuperación de TP.
+
+-> EXP+
+Aumenta la cantidad de EXP ganada tras un combate.
+
+-> Sprint
+Aumenta la movilidad durante un combate.
+
+-> ¡Huye!
+Reduce el tiempo necesario para escapar. Usándolo con
+varios personajes aumentas el efecto.
+
+-> Recobrarse
+Pulsa repetidamente <BUTTON:SQUARE> para reducir el
+tiempo en el que te tambaleas tras un golpe.
+
+-> Experto en objetos
+Reduce el tiempo en el que estas inmovilizado después de usar un objeto.
+
+-> Aumento de límite
+Aumenta la duración del Límite.
+
+-> Aterrizar
+Reduce el tiempo en el que estas inmovilizado después de un salto.
+
+-> Giro rápido
+Permite darse la vuelta instantáneamente.
+
+-> Doble salto
+Salta de nuevo en el aire.
+
+-> Rebote
+Permite atacar durante el uso de Recuperarse.
+
+-> Combo aéreo
+Pulsa <BUTTON:CROSS> para empalmar ataques después
+de caer de un ataque en salto.
+
+-> Contra combo
+Permite golpear varias veces después de un Contra.
+
+-> Contra cruzado
+El daño aumenta al atacar a un enemigo que estaba atacando.
+
+-> Contra
+Pulsa <BUTTON:CROSS> justo después de cubrirte de un golpe
+para poder atacar sin esperar.
+
+-> Elemento+
+Aumenta ocasionalmente el daño de los ataques elementales.
+
+-> Flash
+No te afectan los golpes si estás en medio
+de un combo especial.
+
+-> Apartarse
+No te tambaleas si recibes un golpe durante Retroceder.
+
+-> Neutralizar
+Ocasionalmente evita el daño de un ataque físico.
+
+-> Resurrección
+En ocasiones revive automáticamente.
+
+-> Reflejo
+En ocasiones devuelve el daño recibido mientras te
+cubres.
+
+-> Anular
+Ocasionalmente evita el daño de un conjuro.
+
+-> Alma con suerte
+A veces recuperas TP cuando te tiran al suelo.
+
+-> Espíritu de sangre
+Recupera TP por número de golpes recibidos cuando
+te atacan con varios golpes seguidos.
+
+-> Guardián
+Pulsa <BUTTON:SQUARE>+<BUTTON:DOWN> (abajo) para usar Guardián.
+
+-> Renacer
+Gradualmente recupera el HP equivalente a la mitad del último
+daño recibido.
+
+-> Lágrimas de ángel
+Revive automáticamente una vez por combate.
+
+-> Gloria
+Evita tambalearse por cualquier tipo de ataque.
+
+-> Repetición
+Reduce el tiempo necesario para lanzar un conjuro si lo
+usas dos veces seguidas.
+
+-> Guardar conjuro
+Reduce el tiempo necesario para lanzar un conjuro
+si un enemigo lo ha interrumpido antes.
+
+-> Reductor
+Reduce el TP que gasta un conjuro si lo usas
+dos veces seguidas.
+
+-> Ritmo
+Pulsa repetidamente <BUTTON:CROSS> mientras preparas un conjuro
+para reducir el tiempo necesario.
+
+-> Guardia en sprint
+Evita el aturdimiento cuando te atacan con magia si estás en
+un sprint.
+
+-> Maestro de objetos
+Aumenta el efecto de los objetos usados en combate.
+
+-> Martillo
+Algunas veces contraataca con Martillo cuando te atacan.
+
+-> Auto auxilio
+En ocasiones usa Primeros auxilios automáticamente después de
+recibir daño.
+
+-> Habilidad+
+Permite combinar un arte base con otro arte base una vez
+por combo.
+
+-> Recolector
+Aumenta la posibilidad de conseguir objetos. Usándolo 
+a la vez con varios personajes aumenta el efecto.
+
+-> Ladrón de objetos
+Aumenta la posibilidad de robar un objeto.
+
+-> Protección de estado
+Reduce el efecto de estados mágicos.
+
+-> Resistencia
+Evita que te aturdan mientras preparas un conjuro.
+
+-> Encadenamiento
+Permite enlazar artes base y arcanas.
+
+-> Guardia trasera 2
+Evita totalmente que un enemigo rompa tu guardia.
+
+-> Protección de condición
+Reduce el efecto de estados físicos.
+(veneno, debilidad).
+
+-> Acción en retroceso
+Permite hacer cualquier acción justo después de Retroceder.
+
+-> Lanzador de objetos
+Permite usar objetos en los aliados.
+
+-> Zancada
+Aumenta la distancia que recorres al Retroceder.
+
+-> Final mágico
+Puedes moverte justo después de haber lanzado un conjuro.

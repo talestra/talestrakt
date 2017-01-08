@@ -1,0 +1,136 @@
+## POINTER 3010 [t:1;r:1;ru:parsec;user:kaene;time:1198458776]
+Arco compuesto
+
+## POINTER 3011 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1178980868]
+Arco con mayor flexibilidad.
+
+## POINTER 3020 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443805]
+Arco veloz
+
+## POINTER 3021 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443805]
+Arco hecho para fuego rápido.
+
+## POINTER 3030 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183405995]
+Shincarrow
+
+## POINTER 3031 [t:1;r:1;ru:parsec;user:kaene;time:1189790624]
+El grosor del soporte central y de la pala de
+arco consiguen disparos más potentes.
+
+## POINTER 3040 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443805]
+Arco asesino
+
+## POINTER 3041 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443805]
+Dicen que golpea en los órganos vitales del
+enemigo.
+
+## POINTER 3050 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1178751869]
+Hamayumi
+
+## POINTER 3051 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182263292]
+Dicen que se solía usar en la isla
+de Hod. Símbolo de buena salud.
+
+## POINTER 3060 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443805]
+Arco de caza
+
+## POINTER 3061 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443805]
+Arco usado para cazar.
+Requiere un arquero experimentado.
+
+## POINTER 3070 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443806]
+Arco de batalla
+
+## POINTER 3071 [t:1;r:1;ru:parsec;user:parsec;time:1200266371]
+Arco para el campo de batalla.
+Diseñado para ser fácil de usar.
+
+## POINTER 3080 [t:1;r:2;ru:pacochan,parsec;user:Turyx;time:1179150400]
+Arco despiadado
+
+## POINTER 3081 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182263292]
+Arco con un cruel poder destructivo.
+Dicen que penetra cualquier armadura.
+
+## POINTER 3090 [t:1;r:2;ru:kaene,parsec;user:kaene;time:1198841132]
+Flecha de arcilla
+
+## POINTER 3091 [t:1;r:1;ru:parsec;user:parsec;time:1195309589]
+Arco endurecido y más pesado
+para mayor potencia de disparo.
+
+## POINTER 3100 [t:1;r:2;ru:kaene,parsec;user:kaene;time:1198458776]
+Arco de cators
+
+## POINTER 3101 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182263293]
+Arco fuerte hecho de madera flexible
+y reforzado con metal.
+
+## POINTER 3110 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443806]
+Arco de acero
+
+## POINTER 3111 [t:1;r:1;ru:parsec;user:parsec;time:1195309590]
+Arco que fuerza los límites de un material
+ligero y un poderoso diseño.
+
+## POINTER 3120 [t:1;r:2;ru:pacochan,parsec;user:Turyx;time:1179150791]
+Colmillo metálico
+
+## POINTER 3121 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182263293]
+Un arco forjado templando acero
+una y otra vez.
+
+## POINTER 3130 [t:1;r:1;ru:parsec;user:kaene;time:1198458776]
+Arco de anclent
+
+## POINTER 3131 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182263293]
+Arco hecho de un metal especial.
+Más ligero y fácil de usar que un arco normal.
+
+## POINTER 3140 [t:1;r:1;ru:parsec;user:pacochan;time:1182263293]
+Éter cortante
+
+## POINTER 3141 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1178751870]
+Arco hecho de acero procesado.
+Muy duradero.
+
+## POINTER 3150 [t:1;r:1;ru:parsec;user:parsec;time:1195309591]
+Águila arremetedora
+
+## POINTER 3151 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179120941]
+Arco que recuerda a un águila volando.
+Arma extremadamente poderosa.
+
+## POINTER 3160 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443806]
+Gran arco
+
+## POINTER 3161 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182263293]
+Arco más largo de lo normal.
+
+## POINTER 3170 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1178751870]
+Yutis
+
+## POINTER 3171 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182263293]
+Dicen que es un arco que fue manejado
+por un legendario espíritu del viento.
+
+## POINTER 3180 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1177443806]
+Roba-almas
+
+## POINTER 3181 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182263293]
+Dicen que este arco se abre paso
+lentamente hasta su blanco.
+
+## POINTER 3190 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443806]
+Estrella celestial
+
+## POINTER 3191 [t:1;r:1;ru:parsec;user:kaene;time:1198460722]
+La vida es como el brillo de una estrella.
+Premio del torneo individual avanzado del Coliseo.
+
+## POINTER 3200 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1177443806]
+Arco élfico.
+
+## POINTER 3201 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179263035]
+Arco sagrado perteneciente a una raza legendaria.
+Siempre acierta al blanco.

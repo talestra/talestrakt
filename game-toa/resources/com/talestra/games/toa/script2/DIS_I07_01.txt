@@ -1,0 +1,474 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¿Tienes objetos para intercambiar?
+¿Quieres pedir\n<01*> con estos objetos?\n
+Creo que podríamos hacer esto:\n<01*>
+Podríamos hacer estos <01*>\ntipos de objetos.
+¿Quieres pedir\n<01*> sin pagar\ngald extra?
+¿Quieres enviar\n<01*> gald con tu \npedido para <01*>?
+¡El objeto que pediste ha llegado!
+¡Hey, no tienes ningún objeto\npara intercambiar!
+¿Qué quieres pedir?
+<01*>\n
+<01*>
+No tienes suficiente gald.
+¡Tengo un mensaje de los artesanos!
+Dicen que necesitan\n<05*> para hacer \n<05*>.
+¿Quieres darme\n<05*> y pedir\n<05*>?
+Podrías hacer un pedido\nsi tuvieras <05*>.
+¿Qué puedo hacer por ti hoy?
+¿Quieres intercambiar los objetos\nseleccionados?
+¡Gracias!\nLos guardaré de tu parte.
+¡Vale!\nTu pedido debería estar listo\nla próxima vez que vengas.<PAGE>\n¡Vuelve más tarde!
+Pienso que podemos esperar\nun objeto normal.
+Pienso que podemos esperar unos \npocos objetos normales.
+Pienso que podemos esperar\nalgo bastante chulo.
+¡Error! \n¡Hay un bug!
+Pienso que puedes esperar unos \npocos objetos normales.
+Pienso que puedes esperar buen objeto.
+Pienso que puedes esperar unos \npocos buenos objetos.
+¡Pienso que puedes conseguir\nun objeto muy chulo!
+Pienso que puedes esperar unos \ncuantos objetos normales.
+Pienso que puedes esperar unos \npocos buenos objetos.
+¡Pienso que puedes esperar\nun objeto muy chulo!
+¡Pienso que puedes esperar unos\npocos objetos muy chulos!
+Pienso que puedes esperar un \nmontón de objetos normales.
+Pienso que puedes esperar unos \npocos objetos buenos.
+¡Pienso que puedes esperar unos\npocos objetos muy chulos!
+¡Pienso que puedes esperar un\nobjeto verdaderamente bueno!
+<01*>/<01*>
+<01*>\n
+<05*>\n
+<05*><13*><13*><13*><13*><13*><13*>\n
+<13*><01*>/<13*><01*>\n
+<13*><01*>/<01*>\n
+<01*>/<01*>\n
+Pedir sin pagar\n
+Pedir con un pequeño pago (<01*> gald)\n
+Pedir con un pago medio (<01*> gald)\n
+Pedir con un gran pago (<01*> gald)\n
+Cancelar
+Sí\nNo
+Intercambiar objetos\nHacer un pedido\n¿Qué es este lugar?\nCancelar
+Intercambiar objetos\nHacer un pedido\nHacer un pedido especial\n¿Qué es este lugar?\nCancelar
+Sí\nNo\n¿Qué es este lugar?
+D
+C
+B
+A
+S
+Objetos baratos\n
+Objetos comunes\n
+Objetos raros\n
+Objetos extremadamente valiosos\n
+Gel
+Botella
+Objeto de batalla
+Núcleo de C.
+Hierba
+Espada
+Bastón
+Lanza
+Arco
+Armadura (Cuerpo)
+Ropa
+Armadura (Brazo)
+Armadura (Cabeza)
+Amuleto
+Anillo
+Emblema
+Accesorio (Otros)
+Joya
+Muñeca
+Anise
+Gel\n
+Botella\n
+Objeto de batalla\n
+Núcleo de C.\n
+Hierba\n
+Espada\n
+Bastón\n
+Lanza\n
+Arco\n
+Armadura (Cuerpo)\n
+Ropa\n
+Armadura (Brazo)\n
+Armadura (Cabeza)\n
+Amuleto\n
+Anillo\n
+Emblema\n
+Accesorio (Otros)\n
+Joya\n
+Muñeca\n
+Anise\n
+Herramientas
+Armas
+Armadura
+Accesorios
+Ver puntuación actual\nCambiar a modo de prueba\nCambiar a modo normal\nVolver a cargar datos\nLista completa de objetos\nObtener objetos de intercambio\nAcceso a todos los objetos\nSalir\n
+Puntos actuales: <01*>\nObjetos posibles:\n 
+<01*>:<05*>(<01*>)\n
+Has obtenido <01*> gald
+<01*>:<01*> (+<01*>)\n
+<01*> rango incrementado\nRango <01*>\n
+Hecho <05*>
+Puntos usados: <01*>
+<01*>,
+Objetos posibles:\n 
+Comprobar:\n
+<01*>:<01*>>=<01*>\n
+Rango <01*>\n
+Nivel de pedido: <01*>\nTipo de objeto:\n 
+Tipo de objeto: <01*>\nRango <01*>\nNúmero de comprobaciones <01*>
+Tipo de objeto: <01*>\n<01*> puntos usados\nRestantes: <01*>\nCambiar a rango D
+<01*>: <01*> (Rango <01*>)<PAGE>\n
+<01*>: <01*> (Rango <01*>)\n
+Pagos totales en gald: <01*>\nNivel de almacenamiento: <01*>\nGald actual: <01*>\n\n\n\n\n\n\n\n
+Máximo rango: Rango <01*>\nMismo rango:\n
+No se pudo almacenar <05*>\nen el inventario.
+\n
+<PAGE>\n
+\n 
+<06*>Número actual <06*><06*>Cambiar página <06*>Confirmar <06*>Cancelar
+<06*>Anterior/siguiente pág <06*>Confirmar <06*>Cancelar
+Has obtenido <01*> gald
+¿Estás interesado \nen hacer negocios?
+Bueno, o sea... Si no obtengo algún\nbeneficio, no hay, o sea, nada que\nhacer, ¿sabes?
+Mmm. \n¿De qué me estás hablando?
+¡De los "objetos de intercambio"!<PAGE>\n¡Se los mandaré, o sea, a artesanos y\nellos fabricarán cosas y tal!
+¿No tenía yo algo de eso?
+¡Guau! \n¡¿En serio?!
+¿Tengo objetos de intercambio?\n¡Eh, que sí! \n¡Era broma!
+Oh. Déjalo.\nNah, no tengo.
+¡Me has engañado!
+¡No, de eso nada! \n¡No le des a la gente una\nimpresión equivocada de mí!
+En cualquier caso, ¿cómo te llamas?
+¿Yo? \nLuke...
+Vale, entonces te llamaré "Lu". \n¡Enmienda tu engaño y tráeme\nobjetos de intercambio!
+¡Oye! \n¡Pero qué...! \n¡Si no he hecho nada!
+¡Eh, los de fuera! ¡Escuchad!\nEste chaval, Luke, me ha engañado\ny, o sea, ha jugado con mi corazón...
+¡¡Agh!! \n¡¡Para!! \n¡Lo van a malinterpretar!<PAGE>\nDios, qué pesadito eres.\n¡Bueno! Quieres que te traiga \nobjetos de intercambio, ¿no?
+Claro. ¡Gracias! \n¡Pues venga, empieza a buscarlos!
+......
+Sí, aquí tengo algunos.
+¡Ajá! \nEntonces... um... esto, ¿cómo te llamas?
+¿Yo? \nLuke...
+Te he traído algunos objetos.
+¡¿Qué?! \n¡¿En serio?!
+¡Bien hecho, Lu! \n¡Te nombro mi proveedor\noficial!
+¿¿Qué??
+Hay muy poca gente que coleccione\nestos objetos, ¿sabes?\n¡Yo, o sea, te lo agradezco mucho!
+¡Pero tío! ¡Si yo no he firmado nada!
+¿Qué?\n¿Sólo has venido para burlarte?\n¿Para jugar conmigo?
+No, no es eso...
+¡Genial! ¡Éste es mi Lu!\nDe acuerdo, entonces.\nTe explicaré, o sea, cómo funciona la cosa.
+¿Escuchar la explicación?\nSí\nNo
+¡Cuando consigas objetos de intercambio\nde los monstruos o durante tu búsqueda,\ntráemelos!<PAGE>\nCuando hayas traído suficientes\nobjetos y parezca que se pueda\nhacer algo con ellos,<PAGE>\n¡los enviaré a los artesanos\ny encargaré un objeto!<PAGE>\nSi no tienes sitio para llevar el objeto \nnuevo, me lo quedaré en tu lugar.<PAGE>\nPor mí genial, pero claro, o sea,\nten cuidado con eso.<PAGE>\nTe propondré crear un objeto antes de\nhacerlo, así que, o sea, no te preocupes.\n¡Tú sólo tráeme objetos de intercambio!<PAGE>\nEso sí, si sólo traes basura no podremos \nhacerte nada medianamente bueno.<PAGE>\nNo se puede convertir el plomo\nen oro, ¿sabes? <PAGE>\nPuedes encargar lo siguiente:\nobjetos, armas, armaduras y accesorios.<PAGE>\nEl artesano que reciba los materiales\nhará lo que le dé la gana, así que no\ndigas "¡Quiero esto y eso!". ¡Lo siento!<PAGE>\nEn cualquier caso usaré mis contactos para \nque te lo hagan bien barato, o sea que\ntampoco te quejes mucho, ¿vale?<PAGE>\nPero si apareces con muchos materiales\ny les ofreces muchos recursos,<PAGE>\no si pagas dinero extra cuando haces\nel pedido, entonces puede que se sientan\nmotivados y te hagan algo bueno.<PAGE>\nAsí que, o sea, resumiendo,<PAGE>\nsi vienes con un montón de objetos\nde intercambio valiosos y sueltas bastante\npasta cuando haces el pedido,<PAGE>\n¡tendrás más posibilidades de\nconseguir algo bueno!<PAGE>\n¡Y sé que los objetos de intercambio\nserían más felices si me los dieras a\nmí que si los vendieras por cuatro duros!<PAGE>\n¡Estoy bastante seguro!<PAGE>\nO sea que...
+¡¡Date prisa y tráeme\nobjetos de intercambio!!
+Hey, Din no está.
+Mmm... \nParece que está fuera ahora mismo.\nEs una buena oportunidad.
+¡Guau, Jade! \n¡¿Qué haces?!
+Algunos de los bienes con los que Din trabaja\npodrían contener objetos de contrabando.<PAGE>\nQuería investigarlo.
+¿Y por qué simplemente no le preguntas?
+Paso. \nNo creo que Din y yo podamos\ncomunicarnos.<PAGE>\nCreo que somos de especies diferentes. \nDudo que entendamos las palabras que\nsalgan de la boca del otro.
+Ja ja...
+Mmm.\nSorprendentemente, no veo señales\nde que esté incumpliendo la ley.
+¡¡Hey, hey, hey!! \n¡¿Pero qué...?! \n¡O sea, ¿qué creéis que estáis haciendo?!
+Ugh...
+Oh, es Din.
+¿Qué pasa, eh?\n¿Qué estáis husmeando?
+Luke, explícate, \nsi haces el favor...
+¿Yo? \n*Suspiro*
+¡Bueno, lo haré!\nJade es abogado, ¿no?
+Bueno, no exactamente,\npero algo así.
+Título "Abogado"
+Pero, yo, o sea, ¡no estoy\nquebrantando la ley!\n¡Lo juro por mí!
+Qué se supone que quiere decir\n"jurarlo por ti"...
+Bueno, es cierto, por lo que veo.
+¡No os preocupéis!\nDirijo mi negocio por el bien de la gente,\npor el bien del mundo, ¡en total \ncomplicidad con la ley! \n¡Y, o sea, siempre lo haré!
+B-Bien.\nBueno, te veré después.
+¡Vale!
+Ha estado cerca. \nMe alegra haber prestado atención\na mis presentimientos...
+Yo, o sea, no hago nada bien...
+No te quejes.\nTe estamos trayendo objetos de\nintercambio, tal y como pediste.
+En efecto.\nLos hemos buscado\npor todas partes.
+Pero, aun así, Nat, apenas hago \nalgo de dinero con ellos...
+"Nat"...
+Eres una gatita curiosa, Nat. O sea, ¿no\nte gustaría ver muchos más tipos de\nobjetos de intercambio?
+¿Soy una gatita curiosa?
+Sí. \nEres como un torbellino de curiosidad.
+Por alguna razón, eso no suena \ncomo un cumplido...
+Natalia ha recibido el título de "Princesa curiosa".
+¡¡Adelante, o sea, con la gran aventura!!
+Nos utiliza como chicos de los recados...
+¿Has dicho algo? \n¿Eh? ¿¿Eh??
+Vale, seguiremos buscando.\nQué cansino.
+¡Din, mira!
+¿Qué pasa?
+¡Hemos buscado por el mundo entero! \n¡Hemos puesto todo en el mapa!
+¡Guau!\n¡Eres la mejor, Nat!\n¡Tú sí que eres mi gatita curiosa!<PAGE>\n¡Y ahora, Nat, necesitas una nueva\nforma, explorar nuevos horizontes! \n¡Abracadabra, metamorfosis!
+¿Q-Qué?...
+¡Toma eso!
+¡Aaah!
+¡Yuju! \n¡Nat! \n¡Estás fabulosa!
+*Suspiro* \nNo me asustes de esa manera.<PAGE>\nSi me vas a dar ropa,\nprimero dilo.
+¡Los regalos tienen que ser sorpresa!<PAGE>\n¡Y en el próximo episodio, comenzarán los \nestragos de Natalia, la chica aventurera!
+Me inquieta un poco el uso que\nhaces de la palabra "estragos"...
+Bueno, si seguís, o sea, trayéndome\nobjetos de intercambio...<PAGE>\n¡¡Yo seré feliz, vosotros seréis felices,\nel ratón Mappy y los gatos serán felices!!
+Hay algo más que\nes inquietante...
+¿O sea, el qué?
+¡¡La manera en la que hablas!! \n¡Me ha estado molestando todo este tiempo! \n¡¿Por qué hablas así?!
+Nat...<PAGE>\nLa razón es simple...<PAGE>\n¡Es porque lo que primero presenta un\ncomerciante a sus clientes son sus palabras!
+¿Es por eso?
+¡Sí!\n¡Hablando de manera rara a propósito,\nimpacto mucho más a los demás!
+Y-ya veo...
+¡Ahora que ya hemos aclarado eso,\nsal ahí fuera y empieza tu fantástica\ny gran aventura de buscar objetos!
+¡V-vale!

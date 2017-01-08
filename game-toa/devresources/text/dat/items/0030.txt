@@ -1,0 +1,128 @@
+## POINTER 6010 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393550]
+Anillo de hechicero - Al
+
+## POINTER 6011 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077913]
+Desbloquea las Alas de Mieu.
+
+## POINTER 6020 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393550]
+Anillo de hechicero - F2
+
+## POINTER 6021 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Aumenta la distancia a la
+que llega el fuego de Mieu.
+
+## POINTER 6030 [t:1;r:1;ru:parsec;user:kaene;time:1198460297]
+Llave de la oscuridad
+
+## POINTER 6031 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Llave de Noir que abre
+una habitación secreta...
+
+## POINTER 6040 [t:1;r:1;ru:parsec;user:parsec;time:1180215340]
+Generador del robot
+
+## POINTER 6041 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393550]
+Núcleo usado para activar el lejano elevador
+de las Montañas de Meggiora.
+
+## POINTER 6050 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Condensador de Rem
+
+## POINTER 6051 [t:1;r:1;ru:parsec;user:kaene;time:1198460297]
+Contenedor para hacer funcionar el brazo mecánico
+de la Torre de Rem. Hay que recargarlo.
+
+## POINTER 6060 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393550]
+Piedra fónica de luz
+
+## POINTER 6061 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393550]
+La voz de la luz que sacude el mundo.
+
+## POINTER 6070 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Retrato del Rey
+
+## POINTER 6071 [t:1;r:1;ru:parsec;user:kaene;time:1198460297]
+Un joven rey con una pacífica sonrisa.
+
+## POINTER 6080 [t:1;r:1;ru:parsec;user:parsec;time:1195311526]
+Tarjeta de socio del balneario
+
+## POINTER 6081 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393550]
+Disfruta de las instalaciones del hotel
+de Keterburg exclusivas para socios.
+
+## POINTER 6090 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393550]
+Piedra fónica de sombra
+
+## POINTER 6091 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393550]
+La voz de la sombra que sacude el mundo.
+
+## POINTER 6100 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Preludio
+
+## POINTER 6101 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Disco fónico cuyo placentero tono trae
+recuerdos del principio de un cuento.
+
+## POINTER 6110 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Pureza
+
+## POINTER 6111 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Disco fónico cuyo bonito tono
+limpia el corazón de uno mismo.
+
+## POINTER 6120 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Réquiem
+
+## POINTER 6121 [t:1;r:1;ru:parsec;user:pacochan;time:1179077915]
+Disco fónico cuyo tono hace descansar
+a las almas que han fallecido.
+
+## POINTER 6130 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Ladrón noble
+
+## POINTER 6131 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077915]
+Disco fónico que inspira a aquellos
+que se han sacrificado a si mismos.
+
+## POINTER 6140 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077916]
+Plata y blanco
+
+## POINTER 6141 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077916]
+Disco fónico cuyo tono se asemeja
+a una tierra cubierta de nieve.
+
+## POINTER 6150 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077916]
+Comedia
+
+## POINTER 6151 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077916]
+Disco fónico que pone una sonrisa
+en boca de todo el mundo.
+
+## POINTER 6160 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077916]
+Final
+
+## POINTER 6161 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077917]
+Disco fónico que cuenta
+el final de un cuento.
+
+## POINTER 6180 [t:1;r:1;ru:parsec;user:kaene;time:1198460297]
+Caja secreta
+
+## POINTER 6181 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077917]
+Caja secreta del frutero de Engeve.
+Nadie tiene permiso de mirar dentro.
+
+## POINTER 6190 [t:1;r:1;ru:parsec;user:parsec;time:1180215371]
+Fanzine
+
+## POINTER 6191 [t:1;r:1;ru:parsec;user:Death's sapphire;time:1183393551]
+Boletín del club de fans de "Sueño Negro".
+De sus 16 artículos, 14 son sobre Noir.
+
+## POINTER 6200 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179077917]
+Espada de Cecille
+
+## POINTER 6201 [t:1;r:1;ru:parsec;user:parsec;time:1200182057]
+En Auldrant, recibir la espada de
+una mujer significa una ruptura.

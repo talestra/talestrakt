@@ -1,0 +1,323 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Es un tipo de máquina fónica.\nMe sorprende que simples ladrones\npuedan tener algo así en sus manos.
+<SPEECH*>Es un sistema de vigilancia...\nParece que controla los\nalrededores del pueblo.
+<SPEECH*>Entonces el ataque al Albiore \nfue porque vigilan desde aquí.
+<SPEECH*>Eso es muy malo...
+<SPEECH*>Dudo que originalmente estuviera\npensado para un contraataque.<PAGE>\n<SPEECH*>Además, los ataques contra el Albiore \nno eran más que fuegos artificiales.
+<SPEECH*>Es verdad.<PAGE>\n<SPEECH*>Antes no nos teníamos que preocupar\nde que nadie nos sobrevolara, así que\nusábamos fuegos artificiales corrientes.
+<SPEECH*>¿Así que se ha acercado gente\npor tierra y por mar?...
+<SPEECH*>Sí, pero nuestros sistemas de\ndefensa los mantuvieron a raya.
+<SPEECH*>Ya veo... Así que esos\nremolinos artificiales\nson obra vuestra.
+<SPEECH*>¡¿De verdad podéis hacer remolinos?!
+<SPEECH*>Bueno, sólo hay que tener\nen cuenta el nivel del agua.
+<SPEECH*>Y hay paredes de rocas alrededor.\nAl bloquear la entrada por mar, sí que\nse convierte en una isla solitaria.
+<SPEECH*>¿Pero no es difícil volver\na traer suministros?
+<SPEECH*>Son ladrones.\nSeguramente lo roban todo.<PAGE>\n<SPEECH*>Aunque supongo que sería\ndifícil devolverlo...
+<SPEECH*>Unos ladrones normales no construirían\nuna base aquí. Es que no es eficaz.<PAGE>\n<SPEECH*>¿No es eso lo que\nintentabas decir, Tear?
+<SPEECH*>Sí...
+<SPEECH*>Sí.\n¿Pero por qué construisteis un\npueblo en un sitio como este?
+<SPEECH*>Mmm, no estoy muy seguro...<PAGE>\n<SPEECH*>Si de verdad lo queréis saber,\ndeberíais preguntarle a Noir.<PAGE>\n<SPEECH*>No sé si os lo dirá o no, pero\nlo podéis intentar...
+Parece que han desarmado\nel sistema de seguridad.
+Miau. \n¿Qué quieres?
+¿Qué escondes ahí?
+¡No escondo nada!\nSólo estoy descansando.\nMiau.<PAGE>\nAcabo de terminar la limpieza.
+¿Has limpiado este sitio tú sola? \nGenial. Estoy orgullosa de ti.
+¡Miau! ¡Gracias! \nPero encontré algo que no necesitamos, \ny no sé que hacer con ello.
+No entiendo por qué los gatos\nnecesitarían estas cosas.
+¡Miau! \n¡No somos gatos! \n¡Somos gatoz!
+Vale, vale. \nBueno, ¿qué es esa cosa que no necesitáis?
+Esta cosa redonda.
+¡Es un disco de música!
+Has dicho que no lo necesitáis, ¿verdad?
+Miau. Sí. \nNo lo necesitamos.
+¡Entonces dánoslo!
+Miau... \nDas miedo.
+Si vas a tirar eso, \n¿nos lo podríamos quedar?\nHaremos un buen uso de él.
+Miau. Vale. \nOs lo daré.
+Has obtenido el disco de música, "Comedia".
+Gracias.\nLo cuidaré bien.
+Miau. \nMe alegro de que te guste.
+Pareces muy cansado, señor. \n¿Ha pasado algo?
+Sí... muchas cosas...
+¿Quizá ahora no te apetezca, pero  \nhas querido alguna vez recordar  \nel pasado y volver a verlo?<PAGE>\nRastrearé tus recuerdos y te\nlas enseñaré.
+Luke no...
+Ja ja, no seas ridículo. \nNo puedes ver los recuerdos de la gente.
+¡No miento! \nLo probaré. \nVen aquí.
+¿Listo? \nCierra tus ojos y \nrespira hondo...
+¿Ves? \nTe estaba diciendo la verdad.
+Increíble...
+¿Es una máquina fónica?
+Mmm, no entiendo muy\nbien cómo funciona. \nElion la hizo.
+Mmm... reproducir recuerdos...<PAGE>\nSé que se había planteado una teoría,\npero me sorprende de verdad encontrar\nesto aquí.
+Las cosas que viste, las imágenes de\ntu mente y cosas así salen del mismo\nmodo en el que uno recuerda.<PAGE>\nTambién puedes elegir qué quieres\nver, así que puedes verlo una\ny otra vez.
+Siento haber dudado de ti.
+No pasa nada. Yo también\nme sorprendí al principio.<PAGE>\nSi quieres, puedes venir\ncuando te apetezca.
+¿Querías ver algo?
+¿Qué tal eran tus recuerdos? \n¡Vuelve pronto!
+Hemos perdido nuestras familias\ny hogares por culpa de la Partitura.<PAGE>\nNoir fue lo suficientemente amable\npara acogernos.
+Oh, hey, los nuevos, no le digáis\na nadie que estoy jugando juegos\nen el monitor de ahí.
+Hemos perdido nuestras familias\ny hogares por culpa de la Partitura.<PAGE>\nNoir fue lo suficientemente amable\npara acogernos.
+Oh, hey, los nuevos, no le digáis\na nadie que estoy jugando juegos\nen el monitor de ahí.
+Esta puerta lleva a la\nhabitación privada de Noir.
+No puedes entrar si no\ntienes una llave especial.
+Noir acoge incluso a personas como nosotros.
+Creo que por fin he encontrado un lugar donde\nvivir. Además, es divertido ir\npor ahí haciendo actuaciones.
+¿Quieres ver una película?
+¿Quieres ver una película?
+¿Miau?
+¿Miau miau?
+<01*>/<01*>
+\n
+Secuencias animadas\n
+Películas CG\n
+Películas CG\n
+<06*> Cambiar de página  <06*> Seleccionar  <06*> Cancelar

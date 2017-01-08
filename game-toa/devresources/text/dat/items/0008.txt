@@ -1,0 +1,136 @@
+## POINTER 1610 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Mineral de oro
+
+## POINTER 1611 [t:1;r:2;ru:evilluendas,parsec;user:parsec;time:1175437707]
+Un mineral con mucha cantidad de oro.
+
+## POINTER 1620 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175788939]
+Pez de Meggiora
+
+## POINTER 1621 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175788940]
+Pez de las montañas de Meggiora.
+Tiene un sabor peculiar.
+
+## POINTER 1630 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Aguijón de escorpión
+
+## POINTER 1631 [t:1;r:1;ru:parsec;user:kaene;time:1189462382]
+La cola venenosa de un escorpión.
+Se usa para hacer pomos antiveneno.
+
+## POINTER 1640 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Ala de insecto
+
+## POINTER 1641 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175788940]
+Un ala con un diseño inusual.
+Se usa para hacer medicinas.
+
+## POINTER 1650 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Bicho de leña
+
+## POINTER 1651 [t:1;r:1;ru:parsec;user:parsec;time:1200263475]
+Un insecto que se esconde en lugares huecos.
+Suelen reunirse en la leña caliente.
+
+## POINTER 1660 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Pluma de pingüino
+
+## POINTER 1661 [t:1;r:2;ru:evilluendas,parsec;user:parsec;time:1175437707]
+Una pluma de un pingüino.
+
+## POINTER 1670 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Escama de basilisco
+
+## POINTER 1671 [t:1;r:1;ru:parsec;user:kaene;time:1189462464]
+Una escama de un raro animal, el basilisco.
+Se usa para hacer pomos antipetrificación.
+
+## POINTER 1680 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Colmillo de dragón
+
+## POINTER 1681 [t:1;r:1;ru:parsec;user:parsec;time:1200263475]
+Se usa en armas, medicina, artes 
+fónicas y demás. Muy escaso. Muy caro.
+
+## POINTER 1690 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175788940]
+Perla
+
+## POINTER 1691 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151841]
+También conocida como "lágrima de pez" o "gota de 
+luna". Muy popular entre las damas de la nobleza.
+
+## POINTER 1700 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Perla negra
+
+## POINTER 1701 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151841]
+Más raras que las perlas normales, pero no 
+son tan caras porque no son tan populares.
+
+## POINTER 1710 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Cristal de los prados
+
+## POINTER 1711 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151841]
+Un cristal que se puede encontrar en las 
+praderas. Más puro que los otros cristales.
+
+## POINTER 1720 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Rubí de las montañas
+
+## POINTER 1721 [t:1;r:1;ru:parsec;user:kaene;time:1198508646]
+Un rubí con las propiedades
+del quinto fonón.
+
+## POINTER 1730 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Diamante de hielo
+
+## POINTER 1731 [t:1;r:1;ru:parsec;user:kaene;time:1198508646]
+Un diamante con las propiedades
+del tercer fonón.
+
+## POINTER 1740 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Zafiro de agua
+
+## POINTER 1741 [t:1;r:1;ru:parsec;user:kaene;time:1198508646]
+Un zafiro con las propiedades
+del cuarto fonón.
+
+## POINTER 1750 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Esmeralda del bosque
+
+## POINTER 1751 [t:1;r:1;ru:parsec;user:kaene;time:1198508646]
+Una esmeralda con las propiedades
+del segundo fonón.
+
+## POINTER 1760 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Fósil de lagarto
+
+## POINTER 1761 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175788940]
+Un material educativo muy valioso.
+
+## POINTER 1770 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Fragmento de piedra fónica
+
+## POINTER 1771 [t:1;r:1;ru:parsec;user:parsec;time:1195310898]
+Un fragmento que cayó del cinturón fónico.
+Útil para hacer dijes protectores. 
+
+## POINTER 1780 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Fragmento de meteorito
+
+## POINTER 1781 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151842]
+El mineral más duro del planeta. 
+Muy difícil de procesar.
+
+## POINTER 1790 [t:1;r:1;ru:parsec;user:parsec;time:1196524791]
+Metal de Naevi
+
+## POINTER 1791 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151842]
+Un metal muy poco común que crece.
+Si se le deja crecer, consumirá otros seres vivos.
+
+## POINTER 1800 [t:1;r:1;ru:parsec;user:kaene;time:1198456305]
+Fragmento de maná
+
+## POINTER 1801 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151842]
+Un cristal muy denso que 
+altera el flujo de energía.

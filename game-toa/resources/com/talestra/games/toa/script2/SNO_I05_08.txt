@@ -1,0 +1,435 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Esta vez tenemos que asegurarnos \nde que Mohs no nos coge.
+<SPEECH*>Mohs debería seguir en Baticul.
+<SPEECH*>Sí. Pero los Seis Generales de\nÉlite podrían seguir aquí.
+<SPEECH*>Deberíamos tener cuidado.
+<SPEECH*>Papá, mamá, lo siento...
+<SPEECH*>¿Qué?\n¿Has dicho papá?
+<SPEECH*>Oh, eh... acabo de pensar que\nsi preguntamos a mis padres, \nquizá descubramos algo de\nlos Generales de Élite.
+<SPEECH*>Oh, es cierto,\ntus padres viven ahí.
+<SPEECH*>Pues vamos a visitarles.
+<SPEECH*>¡Anise! Oímos que te has estado\nesforzando mucho en el trabajo que \nIon te dio. Estamos muy orgullosos.
+<SPEECH*>Papá, mamá, ¿sabéis qué\npretenden esos estúpidos\nGenerales de Élite?
+<SPEECH*>Vaya, vaya, Anise, \neso no es muy educado.
+<SPEECH*>Buuu.
+<SPEECH*>Ja ja ja. Hacer pucheros no\nte lleva a ninguna parte, Anise.
+<SPEECH*>Bueno, lo que sea, ¿qué están\nhaciendo los seis Generales de \nÉlite y el gran maestro Mohs?
+<SPEECH*>Mohs, Largo, y Dist han ido a Baticul.
+<SPEECH*>Legretta está inspeccionando Belkend.
+<SPEECH*>Sync va hacia el Portal de la Radiación.
+<SPEECH*>Hemos escuchado que \nArietta volverá del Portal \nde la Absorción.
+<SPEECH*>Oh, hey, entonces esto\nestá vacío ahora mismo.
+<SPEECH*>Ahora que podemos,\nvamos a buscar a Ion.
+<SPEECH*>Sí.
+<SPEECH*>¿Dónde está el maestro fónico Ion?
+<SPEECH*>Estaba en la biblioteca, pero\ndebería estar de vuelta en su \nhabitación en este momento.
+<SPEECH*>De acuerdo. Vamos a ver a Ion.
+<SPEECH*>¡Oh! ¡Estáis a salvo!
+<SPEECH*>Gracias a que mandaste a Asch para ayudar.
+<SPEECH*>No, Asch merece todos los\nhonores por actuar tan rápido.<PAGE>\n<SPEECH*>Por cierto, ¿qué os \ntrae de vuelta aquí?
+<SPEECH*>¡Necesitamos tu ayuda, Ion!
+<SPEECH*>Guy lo explicará.
+<SPEECH*>¿Otra vez yo?
+<SPEECH*>Así que tenéis que medir la frecuencia\nde la vibración del núcleo.<PAGE>\n<SPEECH*>Los sephiroth que conozco\nson el Portal de la Absorción y\nel Portal de la Radiación.<PAGE>\n<SPEECH*>Ya me hicieron quitar los sellos\ndaáthicos de los dos.
+<SPEECH*>Son los puntos donde empieza y acaba\nla Tormenta Planetaria. Dudo que se \npueda medir bien allí.
+<SPEECH*>¿Entonces qué hacemos?<PAGE>\n<SPEECH*>Si vamos a preguntar a Ciudad de Yulia,\ntendremos que usar el Sendero de Yulia\no recuperar la piedra de vuelo.
+<SPEECH*>Por desgracia, Dist se llevó la piedra de vuelo.
+<SPEECH*>Eso es un problema.\n¿Y no sabes dónde hay ningún\notro sephiroth?
+<SPEECH*>No puedo estar seguro,\npero Legretta dijo algo\na bordo del Tartarus.<PAGE>\n<SPEECH*>"Sin el puente, tendremos que\ndejar el sephiroth del valle\nde Tataroo para más tarde".
+<SPEECH*>Ah, sí. Recuerdo que me\nenteré que en la península\nispaniense hay un sephiroth.
+<SPEECH*>El valle de Tataroo también tiene\nselenias en flor. Tienden a germinar\ncerca de fonorranuras.
+<SPEECH*>Vale la pena echar un vistazo,\npero no han quitado el sello\ndaáthico.<PAGE>\n<SPEECH*>Yo ya he acabado lo que tenía que\nhacer aquí, así que os ayudaré.
+<SPEECH*>Gracias. Pues vayamos todos.
+<SPEECH*>Ouu... Otra vez no...
+<SPEECH*>¡Luke, ¿estás bien?!
+<SPEECH*>¡Ya era hora de que me escucharas, desecho!
+<SPEECH*>\n\n\n\n\nAsch...
+<SPEECH*>Tengo malas noticias. \nSpinoza avisó a Van del plan para\ndetener el núcleo.<PAGE>\n<SPEECH*>Los Generales de Élite se metieron en\nmi camino y se llevaron a Spinoza.
+<SPEECH*>\n\n\n\n\n¡¿Qué?!
+<SPEECH*>Spinoza apenas sabía nada\ny aun así se lo llevaron.<PAGE>\n<SPEECH*>Detener el núcleo puede\nque interfiera con sus planes.
+<SPEECH*>¡¿Y qué pasa con Hencken y Cathy?!\n¡Si Van se entera...!
+<SPEECH*>Tranquilo.\nEstán en un carguero rumbo a Sheridan. \nVe a recoger allí el medidor de frecuencia.
+<SPEECH*>¿Y qué le vas a hacer?
+<SPEECH*>Yo voy a seguir buscando a Spinoza\ne investigando lo que significa\nla vibración del núcleo.<PAGE>\n<SPEECH*>Ésta es la última vez\nque me comunico contigo.
+<SPEECH*>¡Luke! \n¡¿Qué ha dicho Asch?!
+<SPEECH*>Spinoza ha informado a Van de nuestro plan...<PAGE>\n<SPEECH*>Hencken y Cathy han huido a Sheridan.
+<SPEECH*>Maldita sea.\nSoy el responsable de esto...
+<SPEECH*>No es culpa tuya.
+<SPEECH*>No tuve cuidado y permití\nque nos escuchara a escondidas.
+<SPEECH*>¿Y qué pasa con Asch?
+<SPEECH*>No volverá a contactar con nosotros. \nSupongo que pretende trabajar solo otra vez.
+<SPEECH*>Oh... ya veo...
+<SPEECH*>Si los Generales de Élite conocen nuestro \nplan, no deberíamos quedarnos aquí más tiempo.
+<SPEECH*>¿Vale, Natalia?...
+<SPEECH*>Oh... De acuerdo. Estoy bien.
+<SPEECH*>Vayamos a Sheridan.
+<SPEECH*>¡Oh! Hola, Anise.\nArietta ha vuelto.
+<SPEECH*>Oh, genial... 
+<SPEECH*>Estabas buscándola, \n¿verdad?<PAGE>\n<SPEECH*>Me adelanté y le dije \nque estabas aquí.
+<SPEECH*>¡Argh! ¡Mamá!\n¡¿Estás pirada?!
+<SPEECH*>¡Os he encontrado, asesinos!
+<SPEECH*>Espera, Lugubrietta, éste no es\nel lugar para empezar a...
+<SPEECH*>¡Os odio!\n¡Voy a vengar a mamá!<PAGE>\n<SPEECH*>¡Vamos!
+<SPEECH*>¡Anise! \n¡Coge a Ion!
+<SPEECH*>¡Vale!
+<SPEECH*>¡No te voy a dar a Ion!
+<SPEECH*>¡Maestro Fónico, cuidado!
+<SPEECH*>¡Aaah!
+<SPEECH*>¡Pamela!
+<SPEECH*>¡¿Mamá?!
+<SPEECH*>Ahora, llama a tus amigos.
+<SPEECH*>¡Ah! Pero...
+<SPEECH*>¡Arietta! \n¡Sabes que no deberías involucrar a Pamela!
+<SPEECH*>Ion...\n¡Parad! Volved.
+<SPEECH*>¡Natalia, cuida de Pamela!
+<SPEECH*>¡Vale!
+<SPEECH*>Ion... ¿estás herido?
+<SPEECH*>Estoy bien.\nGracias, Pamela.
+<SPEECH*>Si fui capaz de protegerte, \nentonces no me arrepiento...
+<SPEECH*>¡Guy, cuidado!
+<SPEECH*>Si fui capaz de proteger al heredero de\nla Casa Gardios, entonces no me arrepiento...
+<SPEECH*>¡Yo... me acuerdo!
+<SPEECH*>Gracias a ti, las quemaduras \nde Pamela casi se han curado.
+<SPEECH*>Me alegro de haber llegado a tiempo.
+<SPEECH*>Pamela, gracias. \nLo lamento tanto.
+<SPEECH*>Eres demasiado amable, Maestro Fónico.<PAGE>\n<SPEECH*>No os preocupéis por mí. \n¿Qué tal está Guy?\nParecía que no estaba muy bien.
+<SPEECH*>¡De verdad, mamá! \n¡Tú eres la que casi muere!
+<SPEECH*>Mamá estará bien. \nDeberías ir a comprobar qué tal está Guy.<PAGE>\n<SPEECH*>Es tu amigo, ¿verdad?
+<SPEECH*>Vale... pero asegúrate de quedarte\nen la cama hasta que estés mejor.
+<SPEECH*>Guy está en la capilla.\nVamos.
+<SPEECH*>Sí...\nCuídate, Pamela.
+<SPEECH*>Gracias.
+<SPEECH*>¿Cómo está Pamela?
+<SPEECH*>Ahora está bien.
+<SPEECH*>¿Qué pasó con Arietta?
+<SPEECH*>La he entregado al\nmaestro Tritheim, tal y\ncomo Ion aconsejó.<PAGE>\n<SPEECH*>Pero imagino que saldrá\nen libertad en cuando vuelvan\nlos Generales de Élite.
+<SPEECH*>Esa mocosa enana, quejica y lúgubre...
+<SPEECH*>Guy... ¿estás bien?\nParecía que recordabas\nalgo...
+<SPEECH*>Sí...\nPerdón por alarmarte.
+<SPEECH*>¿Te podemos preguntar \nqué es lo que recordaste?
+<SPEECH*>El recuerdo de cuando\nasesinaron a mi familia
+<SPEECH*>Escucha, Gailardia. \nDebes sobrevivir para\ncontinuar la Casa Gardios.<PAGE>\n<SPEECH*>Escóndete aquí. \nNo hagas ruido.
+<SPEECH*>¡Mary!
+<SPEECH*>¡Shh! \nEl ejército de Kimlasca está aquí.\nQuédate calladito.
+<SPEECH*>¡Aaah!
+<SPEECH*>¡Por favor, no!
+<SPEECH*>¡Cualquier fonista es una amenaza! \n¡Mujeres, niños, cualquiera! \n¡No tengáis piedad!
+<SPEECH*>¡Apartaos!
+<SPEECH*>¡No! \n¡Salid de aquí inmediatamente, sirvientas!
+<SPEECH*>¡Entonces os quitaré yo!
+<SPEECH*>¡Aaaaaaah!
+<SPEECH*>¡Mary!
+<SPEECH*>Guy! \n¡Cuidado!
+<SPEECH*>¡Uaah!
+<SPEECH*>Mi hermana me defendió cuando\nestuvieron a punto de matarme.<PAGE>\n<SPEECH*>Y no solo ella. Todas las sirvientas\ntambién me protegieron...<PAGE>\n<SPEECH*>Quedé enterrado bajo sus cuerpos,\ninconsciente y lleno de sangre.
+<SPEECH*>Cuando Pere me rescató,\nya había perdido la memoria.
+<SPEECH*>Así que tu fobia a las mujeres es a causa\nde la herida emocional que te dejó ese incidente.
+<SPEECH*>Qué patético. Dieron sus vidas\npara protegerme, y yo sólo las\nrecuerdo "terroríficas"...
+<SPEECH*>No te machaques así. Eras\nsólo un niño, Guy.<PAGE>\n<SPEECH*>Un ejército invadió tu casa y\nmató gente delante de ti.\nCualquiera estaría asustado.
+<SPEECH*>Luke tiene razón.\nY yo me reí de ese miedo...
+<SPEECH*>Lo siento.
+<SPEECH*>Lo siento....
+<SPEECH*>Yo también debo disculparme.\nLo siento mucho.
+<SPEECH*>Venga ya... me había olvidado de\ntodo eso. No tenéis nada de\nque disculparos.<PAGE>\n<SPEECH*>No os preocupéis por ello.
+<SPEECH*>Guy, ¿cómo te sientes?\n¿Estás bien para seguir?
+<SPEECH*>Claro.
+<SPEECH*>Entonces alejémonos de Daath. \nNo estamos en situación de enfrentarnos\na los Generales de Élite otra vez.
+<SPEECH*>Sí. Nos dirigíamos a  \nSheridan, ¿verdad?
+<SPEECH*>Sí. Estoy bien, pero estoy preocupado\npor Hencken y Cathy.
+<SPEECH*>No te exijas demasiado, Guy.
+<SPEECH*>No lo hago. \nVamos.
+Ahora en dirección hacia Sheridan.
+<SPEECH*>Oh, vaya, qué bien veros aquí, niños.
+<SPEECH*>¡T-Tú! \n¡Los Alas Oscuras!
+<SPEECH*>Bueno, supongo que mientras\nayudemos a Asch, estamos destinados\na encontrarnos con todos vosotros.
+<SPEECH*>¿Qué relación tenéis con Asch?
+<SPEECH*>Nos ha contratado.
+<SPEECH*>No se ponga celosa, señorita. @
+<SPEECH*>Acabamos de traer a un par de\ninvestigadores de Belkend.
+<SPEECH*>Intenta no irritar a Asch, ¿vale? @\nSiempre la toma con nosotros. @
+<SPEECH*>Um... ¿no deberíamos\narrestar a esta gente?
+<SPEECH*>Pero están trabajando para Asch.<PAGE>\n<SPEECH*>Seguramente son los artistas de circo\nque alzaron a los ciudadanos de Baticul\npara que dejaran escapar a Natalia.
+<SPEECH*>La vieja nos ha estado ayudando.
+<SPEECH*>Supongo que los tendremos que\ndejar ir otra vez, de momento.
+¡Oh, sois vosotros!
+¿Lo habéis oído?\nPor culpa de Spinoza...
+Sí, lo hemos oído.
+Me alegra ver que no\nte hirieron, Cathy.
+¡Oh, vaya! Un hombre\ntan guapo como éste\npreocupado por mí...
+Hay que ver, Cathy, te quito los\nojos de encima un momento y ya\nestás ligando con los chicos...
+Um, espera...\nYo no quería...
+Por cierto, ¿qué hacéis\nvosotras dos aquí?
+Ah... nos estamos cansando un poco de\nla rivalidad entre clase I y clase M.
+Lo veréis si entráis.
+<SPEECH*>¡Tus notas acabaron bajando porque\nno tienes sentimientos!
+<SPEECH*>¡Cállate! Es a ti a quien le\nha traicionado un amigo. ¡Si\nvas a quejarte, sal de aquí!
+<SPEECH*>¡Eso! ¡Eso!
+<SPEECH*>¡Hey, eres tú!
+<SPEECH*>¡Hey! \nHemos acabado el medidor de\nfrecuencias de la vibración.
+<SPEECH*>Con mi ayuda, debería añadir.
+<SPEECH*>Todo lo que has hecho ha sido \nprestarme algunas herramientas.
+<SPEECH*>Vaya vitalidad para la edad que tienen...
+<SPEECH*>Por favor.\nDejad de pelearos.
+<SPEECH*>Yo llevaré el medidor de frecuencia.
+<SPEECH*>He oído lo que intentas hacer.<PAGE>\n<SPEECH*>Vas a aplicar la misma\nfrecuencia para neutralizar \nlos temblores, ¿verdad?
+Sí. Vamos a devolver al núcleo\na un estado de inactividad.
+<SPEECH*>Será difícil construir una máquina\nque soporte la presión del núcleo y\nque haga suficiente vibración.
+<SPEECH*>Je je je.<PAGE>\n<SPEECH*>Dejádselo a la clase M de Sheridan.\nNosotros construiremos algo fuerte.
+<SPEECH*>Sólo la clase I de Belkend podría\nhacer una máquina de cálculo capaz de\nemitir vibraciones en todas direcciones.
+<SPEECH*>¿Planeas conseguir la victoria\nnúmero 100 el primero?
+<SPEECH*>¡¿Pero es momento de\npreocuparse por eso?!<PAGE>\n<SPEECH*>¡Auldrant está en peligro! \n¡La "clase I" y la "clase M" no\ntienen importancia!
+<SPEECH*>Tiene razón. Este proyecto sería\nmás fácil si trabajáis juntos.
+<SPEECH*>Ya sois mayorcitos para saberlo.\nMostrad algo de madurez, ¿vale?
+<SPEECH*>Nosotros construiremos el\nescudo exterior para hacer que\nel núcleo deje de vibrar...
+<SPEECH*>¡Dejadnos la máquina de cálculo a nosotros!
+<SPEECH*>Clase I, Clase M. \nContamos con vosotros.
+<SPEECH*>Deberíamos ir al\nvalle de Tataroo.

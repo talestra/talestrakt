@@ -1,0 +1,295 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+El puerto está cerrado.
+La lava está demasiado caliente\ncomo para acercarse más.
+El puerto está cerrado.
+El puerto está cerrado.
+El puerto está cerrado.
+No se puede aterrizar debido a la Tormenta Planetaria.
+No se puede acercarse debido a la Tormenta Planetaria.
+No se puede acercarse debido a la barrera.
+No se puede aterrizar debido a la barrera.
+El pueblo está medio derrumbado...\nno hay manera de entrar.
+No se puede entrar en el puerto debido a las patrullas.
+El puerto está cerrado.
+No se puede avanzar a causa de una ventisca.\nRetirémonos por ahora.
+No se puede avanzar a causa de una ventisca.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede avanzar a causa de los truenos.\nRetirémonos por ahora.
+No se puede avanzar a causa de los truenos.\nRetirémonos por ahora<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede avanzar a causa de la niebla.\nRetirémonos por ahora.
+No se puede avanzar a causa de la niebla.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede avanzar a causa de una tormenta de arena.\nRetirémonos por ahora.
+No se puede avanzar a causa de una tormenta de arena.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede pasar a causa de una barrera.\nRetirémonos por ahora.
+No se puede pasar a causa del remolino.\nRetirémonos por ahora.
+No se puede pasar a causa del remolino.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede pasar a causa del remolino.\nRetirémonos por ahora.
+No se puede pasar a causa del remolino.\nRetirémonos por ahora.<PAGE>\nAhora el Albiore debería\npoder pasar a máxima velocidad.
+No se puede despegar a causa de la barrera.
+No se puede aterrizar a causa del remolino.
+No se puede aterrizar a causa del remolino.
+No se puede aterrizar a causa de las turbulencias.
+No se puede aterrizar a causa de las turbulencias.
+Es imposible volver\npor el campo de batalla.
+El Albiore se puede controlar libremente.<PAGE>\n           Utiliza <06*> izquierda/derecha o           \n           <06*>/<06*> para dar la vuelta,           <PAGE>\n         <06*> arriba/abajo         \n         para levantar o bajar el morro,         <PAGE>\n     Pulsa <06*> para avanzar y     \n     <06*> para retroceder.     <PAGE>\n      Pulsa <06*> para aterrizar,      \n      y <06*> para despegar.      <PAGE>\n     El Albiore básico sólo puede     \n     aterrizar en llanuras.     <PAGE>\n          Además, ten en cuenta que          \n          no podrás guardar          \n          mientras estés en el Albiore.         
+    Han eliminado la capacidad de    \n    volar del Albiore.    <PAGE>\n No podrás volar por el cielo, \n pero puedes viajar por \n tierra y por mar. <PAGE>\n        Utiliza <06*> izquierda/derecha o        \n        <06*>/<06*> para dar la vuelta,        <PAGE>\n     <06*> para avanzar y     \n     <06*> para retroceder.     <PAGE>\n  Pulsa <06*> para bajar del Albiore,  \n  y <06*> para subir. 
+       Se ha devuelto la capacidad       \n       de volar al Albiore.       <PAGE>\nAl restablecer su poder volador,\nel Albiore ahora puede viajar por\ntierra, mar y aire.<PAGE>\n Mantén pulsado <06*> hacia arriba mientras vuelas \n para cambiar el modo de viaje entre tierra y mar. <PAGE>\n    Mientras vayas por tierra o mar,    \n    mantel pulsado <06*> hacia abajo para cambiar    \n    al modo de vuelo.   
+ Se ha instalado en el Albiore un \n sistema de piloto automático, \n lo que te permite ir instantáneamente \n a lugares que ya has visitado. <PAGE>\n      En el Albiore, pulsa      \n      <06*> para abrir el mapa del mundo,      \n\n<PAGE>\nelige el lugar al que quieres ir,\ny pulsa <06*> para activar\nel piloto automático.
+          Utiliza <06*> izquierda/derecha para dar la vuelta,         \n          <06*> para avanzar y          \n          <06*> para retroceder.          <PAGE>\n          También puedes dar la vuelta con <06*> y <06*>          \n          también.        <PAGE>\nPuedes entrar en los puertos o en lugares parecidos\npulsando <06*> mientras tocas\nel puerto.<PAGE>\n       No puedes salir del Tartarus       \n       si no estás en un puerto.       <PAGE>\n            Ten en cuenta que             \n            no podrás guardar mientras            \n            estés en el Tartarus.           
+El terreno es demasiado inestable como para seguir.
+{  <04*>Engeve<04*>\n    <04*>San Binah<04*>  }
+{  <04*>Castillo de Coral<04*>\n    <04*>Puerto de Kaitzur<04*>  }
+Has capturado al <04*>cerdinejo<04*>.
+No puedes desembarcar aquí.
+El terreno es demasiado inestable como para aterrizar.
+Se puede utilizar el poder del Sephiroth\npara llevar al Albiore a las Tierras Exteriores.<PAGE>\nEl Albiore puede volver al Qliphoth\ndesde las Tierras Exteriores de la misma manera.
+El Albiore no puede ir a las\nTierras Exteriores sin su\npoder para volar.
+El Albiore no puede ir al Qliphoth\nsin su poder para volar.

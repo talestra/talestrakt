@@ -1,0 +1,4 @@
+0057AE70:'Has encontrado %d\ngald, pero no puedes llevar más.'
+0057AEA0:'Has encontrado %d gald.'
+0057AEB0:'Has encontrado %s,\npero no puedes llevar más.'
+0057AEE0:'Has encontrado %s.'

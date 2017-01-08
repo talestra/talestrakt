@@ -1,0 +1,559 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¡Quién eres!
+¡Grrrrr!
+¿Investigar la zona?\nMirar los alrededores\nMirar el mapa\nCancelar
+¿Salir del escondite\ny derrotar al enemigo?\nDerrotar al enemigo y seguir\nEsconderse y seguir
+Es un ataque enemigo.
+<06*>Mover la cámara <06*>Volver
+¡Salve al Coronel Curtiss!
+...... 
+<SPEECH*>El Emperador está en la capital, Gran Chokmah.\n¿Dónde queda eso desde aquí?
+<SPEECH*>Um, al noroeste, creo.
+<SPEECH*>¿Gran Chokmah no se convierte en\nuna fortaleza durante la guerra?...\n¿Estará abierto el puerto?
+<SPEECH*>Estás bien informado.\nEso es correcto.
+<SPEECH*>Pero la guerra no ha empezado aún.
+<SPEECH*>Aun así, supongo que han bloqueado\nlas rutas de invasión para\nprepararse para un ataque.
+<SPEECH*>¿Pero no te dejarán entrar, Jade?
+<SPEECH*>Ahora mismo, mencionar mi nombre seguramente\ntendría el efecto contrario.
+<SPEECH*>Todos mis hombres están muertos y he estado\ndesparecido desde lo de Akzeriuth. Y ahora aparezco\nen una nave que se suponía que estaba capturada.
+<SPEECH*>No me extrañaría que abrieran\nfuego contra nosotros.
+<SPEECH*>¿Por qué no atracamos en algún sitio\ny vamos por tierra? Si nos acercamos\nsin armas, entonces puede que...
+<SPEECH*>Aún están reparando el puente de Rotelro.\nDeberíamos poder bajar allí.
+<SPEECH*>Parece la mejor opción.
+<SPEECH*>Decidido, entonces.\nVamos al puente de Rotelro.
+<SPEECH*>*Suspiro* Hay que andar...
+¿Has oído lo que está pasando\nalrededor de San Binah?
+Dicen que el suelo se está hundiendo.\nTiene que dar bastante miedo, si es verdad.
+<SPEECH*>¡Aaah!
+<SPEECH*>¿Se va a hundir?
+<SPEECH*>Voy a echar un vistazo.
+<SPEECH*>Yo también voy.\nQuizá pueda ayudar si hay que\narreglar alguna máquina fónica.
+<SPEECH*>Amo, yo no sé nadar...
+<SPEECH*>Lo sé... No te preocupes.\nNo nos vamos a hundir.
+<SPEECH*>Guy ha podido arreglar\nel motor. Aún deberíamos\npoder movernos.
+<SPEECH*>Es sólo temporal. \nQuisiera que lo repararan\nen algún puerto.
+<SPEECH*>El puerto más cercano \nes el de Keterburg.
+<SPEECH*>Entonces vamos allí.\nTe parece bien, ¿verdad, Jade?
+<SPEECH*>Supongo...
+<SPEECH*>Discúlpenme. Debo ver sus pasaportes\ny el registro del barco.
+<SPEECH*>Soy el coronel Jade Curtiss,  Tercera\nDivisión de las Fuerzas Imperiales de Malkuth.
+<SPEECH*>L-Lo siento.\nPero oí que le mataron en Akzeriuth...
+<SPEECH*>Esa misión es alto secreto. Se lo explicaré\na la gobernante, la vizcondesa Osborne.\nPuedes inspeccionar el barco tanto como quieras.
+<SPEECH*>Sí, señor.\n¿Quiere que le guíe hasta la ciudad?
+<SPEECH*>No será necesario.\nYo nací aquí.\nConozco esta zona.
+<SPEECH*>Entendido.\nEntonces, con su permiso.
+<SPEECH*>Eh, ¿así que naciste aquí, Jade?
+<SPEECH*>¿Pero por qué te vas a molestar\nen ver a la gobernadora?
+<SPEECH*>Porque quizá hubieran\ninsistido en interrogarnos.
+<SPEECH*>No quería desviarme así,\npero ya que estamos aquí,\ndebo demostrar quién soy.
+<SPEECH*>Lo siento...\nTan sólo quería echar un vistazo.
+<SPEECH*>*Suspiro*
+<SPEECH*>Discúlpenme. Debo ver sus pasaportes\ny el registro del barco.
+<SPEECH*>Soy el coronel Jade Curtiss,  Tercera\nDivisión de las Fuerzas Imperiales de Malkuth.
+<SPEECH*>L-Lo siento.\nPero oí que le mataron en Akzeriuth...
+<SPEECH*>Este asunto es alto secreto. El motor\nde nuestra nave se averió durante una\nmisión, así que tuvimos que parar aquí.
+<SPEECH*>Le explicaré al situación a la gobernadora,\nla vizcondesa Osborne. Puedes inspeccionar\nel barco tanto como quieras.
+<SPEECH*>Sí, señor.\n¿Quiere que le guíe hasta la ciudad?
+<SPEECH*>No será necesario.\nYo nací aquí.\nConozco esta zona.
+<SPEECH*>Entendido.\nEntonces, con su permiso.
+<SPEECH*>Eh, ¿así que naciste aquí, Jade?
+<SPEECH*>Sí...
+<SPEECH*>¿Cómo lo vamos a reparar?
+<SPEECH*>Podemos informar a la gobernadora\ny pedirle ayuda.
+<SPEECH*>Vale, pues vayamos rápido a Keterburg.
+<SPEECH*>¡¿Jade?!...\n¡Oh, mi hermano está vivo!
+<SPEECH*>¡¿"Hermano"?! \n¡¿En serio?!
+<SPEECH*>Hola, Nephry. Cuanto tiempo, ¿no?\nDesde tu boda, creo.
+<SPEECH*>¡¿Pero qué ha pasado?!\nDijeron que habías muerto en Akzeriuth...
+<SPEECH*>Bueno, lo que pasó es...
+<SPEECH*>Es increíble...\nMe alegro de que estés a salvo.
+<SPEECH*>Nosotros examinaremos el Tartarus. \nCuando estéis listos, por favor,\nid a ver al emperador Peony.
+<SPEECH*>Estaba muy preocupado.
+<SPEECH*>¿Oh? \n¿Todos pensabais que estaba muerto?
+<SPEECH*>Su Majestad era el único\nque creía que aún\nseguías con vida.
+<SPEECH*>Los demás también, por favor,\nesperad un poco mientras\npreparamos vuestro barco.
+<SPEECH*>Ésta es una ciudad turística, así\nque creo que estaréis a salvo aquí.
+Seguro que mi hermano os causa problemas. \nNo es el ser humano más agradable.
+No pensé que mi hermano fuera\na pisar esta ciudad.
+<SPEECH*>Reservaré una habitación en el\nhotel. Descansad, por favor.
+<SPEECH*>Si no te importa, me gustaría hablar contigo.\nPor favor, vuelve más tarde, solo.
+Passage block 18-01
+Passage block 18-02
+<SPEECH*>¡Guau, que mansión! @\n¡Me quiero casar con quien viva aquí! @
+<SPEECH*>Estoy segura de que aún está soltero, \naunque ya ronda los treinta.
+<SPEECH*>¿Qué? ¡No me digas que es tu\ncasa, Coronel! Si lo es, voy a ir\ntirando para prepararla por ti. @
+<SPEECH*>Aunque lo fuera, me temo\nque declinaría la oferta.
+<SPEECH*>Pero quizá el dueño de verdad\nsí que la aceptaría. Le gustan\ntodas las mujeres que ve.
+<SPEECH*>¿Quién es?
+<SPEECH*>Su Majestad Imperial, Peony.
+<SPEECH*>¡Genial! ~ \n¡Mi marido estará forrado! @
+<SPEECH*>¿El Emperador no nació en la capital?
+<SPEECH*>Si no me equivoco, lo sacaron de la\ncapital cuando era pequeño durante\nuna lucha por la sucesión.
+<SPEECH*>Sí, exacto.\nEsta mansión es de aquella época.
+En esta ciudad nacieron dos genios.
+Un experto en fonotecnología, el doctor\nNeis, y un maestro de las artes\nfónicas, el doctor Jade Balfour.
+El doctor Neis es ahora uno de\nlos Seis Generales de Élite.
+Se dice que el doctor Balfour se\nunió a una familia militar.
+¿Sabías que Su Majestad Imperial pasó\nsu infancia en esta ciudad?
+Parece ser una persona llamada doctora\nNebilim vivió en esta ciudad hace tiempo.
+Corre el rumor de que fue asesinada por\nel doctor Balfour y el doctor Neis.
+Pero claro, dicen que la verdad\nes que murió en un incendio.
+<SPEECH*>La gobernadora ya nos ha avisado.\nPor favor, poneos cómodos.
+<SPEECH*>Oh, me he dejado algo en casa de Nephry.\nVoy un momento a buscarlo.
+<SPEECH*>¿Quieres que vaya contigo?
+<SPEECH*>Nephry es una mujer, ¿recuerdas?
+<SPEECH*>Oh, a mí me encanta MIRAR a las mujeres guapas.
+<SPEECH*>Guy es un auténtico... tío...
+<SPEECH*>Ella es mayor que tú y\nestá casada, ya lo sabes.
+<SPEECH*>E-Espera, tranquila,\nno quería decirlo así...
+<SPEECH*>Amo, yo también iré con usted.
+<SPEECH*>¡Gaaah, callaos todos ya!\n¡No necesito que nadie me acompañe!
+<SPEECH*>Lo siento. Cuando oí que eras una\nréplica, pensé que debía contarte\nalgo sobre mi hermano.
+<SPEECH*>¿De qué estás hablando?
+<SPEECH*>La razón por la cual Jade creó la fomicría...
+<SPEECH*>Incluso ahora recuerdo ese día. \nYo fui descuidada y rompí\nmi muñeca favorita.<PAGE>\n<SPEECH*>Mi hermano desarrolló la base para\nla fomicría y la usó para crear una\ncopia de mi muñeca... una réplica.
+<SPEECH*>Él tenía nueve años.
+<SPEECH*>Increíble...
+<SPEECH*>Normalmente, uno tan solo\ncompraría otra muñeca, pero\nmi hermano hizo una copia.
+<SPEECH*>Sentí que algo era anormal\nen su manera de pensar.
+<SPEECH*>"Anormal"... \nTampoco tienes por qué expresarlo\nde esa manera...
+<SPEECH*>Ahora actúa con amabilidad, pero de niño\nmi hermano era terrible. Un demonio.
+<SPEECH*>Usaba artes fónicas que los adultos\nencontraban complicadas. Incluso\ndisfrutaba matando monstruos indefensos.
+<SPEECH*>Mi hermano no entendía lo que significaba\npara los seres vivos el morir.
+<SPEECH*>No me parece que él sea de esa manera...
+<SPEECH*>Fue la profesora Nebilim quien\nle hizo cambiar. Ella era una\nsanadora, una séptima fonista.
+<SPEECH*>Jade no puede usar el séptimo\nfonón, así que la admiraba.\nPero ocurrió una tragedia.
+<SPEECH*>Intentó utilizar el séptimo fonón \ny acabó desatando un arte fónico\nque no pudo controlar.
+<SPEECH*>El arte fónico de Jade mató\na la profesora Nebilim, y\nprendió fuego al edificio.
+<SPEECH*>¡¿La mató?!
+<SPEECH*>Aún estaba con vida,\ntumbada allí. Mi hermano\nla miró y tuvo una idea.
+<SPEECH*>Aún quedaba tiempo para hacer una réplica.\nPodía salvar a la profesora Nebilim.
+¡¡!!
+<SPEECH*>Jade extrajo su información\ny creó una réplica.
+<SPEECH*>Pero la réplica que nació\nno era más que un monstruo.
+<SPEECH*>¿Qué pasó con la Nebilim real?
+<SPEECH*>Falleció.
+<SPEECH*>Después de eso, reconocieron el talento\nde mi hermano y le adoptaron en la\nfamosa familia militar Curtiss.
+<SPEECH*>Creo que él quería un entorno \nmejor para estudiar cómo traer\nde vuelta a la profesora.
+<SPEECH*>Pero ha dejado de replicar\nseres vivos. ¿Por qué?
+<SPEECH*>Eso es gracias al emperador Peony. \nEsos dos son uña y carne.
+<SPEECH*>Ya veo...
+<SPEECH*>Pero, la verdad... en el fondo creo\nque mi hermano aún quiere resucitar\na la profesora Nebilim.
+<SPEECH*>No creo que ése sea el caso.
+<SPEECH*>Sí, quizá sea sólo un miedo infundado.
+<SPEECH*>Pero aun así quería que lo\nsupieras, para que pudieras\nayudarle a controlarse.
+<SPEECH*>Siento haberte robado\ntanto tiempo.\nGracias por escuchar.
+<SPEECH*>Supongo que Nephry te lo ha contado.
+<SPEECH*>¿Contarme qué?
+<SPEECH*>Eres un niño malo,\nmintiendo así.
+<SPEECH*>¿Cómo lo has sabido?
+<SPEECH*>Eso da igual. Pero diré, para\nque conste, que ya no deseo\nresucitar a la profesora.
+<SPEECH*>¿De verdad? ¿Estás seguro?
+<SPEECH*>Tú, más que nadie,\ndeberías saber la razón.
+<SPEECH*>Deseo rogarle a la profesora Nebilim que\nme perdone... Quizá así me sintiera mejor.
+<SPEECH*>Pero las réplicas no tienen recuerdos del\npasado. Una réplica no puede perdonarme.
+<SPEECH*>Jade...
+<SPEECH*>Viviré el resto de mi vida atormentado\npor los pecados de mi pasado.
+<SPEECH*>¿"Pecados"?\n¿Te refieres a lo de matar a Nebilim?
+<SPEECH*>Mmm... Quizá mi mayor pecado\nfue no entender el significado\nde la vida, y de la muerte.
+<SPEECH*>Si yo tuviera la habilidad para hacer\nréplicas... creo que hubiera actuado\nigual que tú.
+<SPEECH*>Ja ja.\n¿Estás intentando animarme?
+<SPEECH*>Creo que te has confundido\nun poco... pero igualmente,\nte lo agradezco.
+<SPEECH*>En cualquier caso, no debes contárselo a nadie.\n¿Entendido?
+<SPEECH*>De acuerdo...
+<SPEECH*>Prometido.
+La inspección del Tartarus ha terminado.\nPuedes partir cuando desees.
+La inspección del Tartarus ha terminado.\nTen cuidado, por favor.
+<SPEECH*>¡¿Quiénes sois?!
+<SPEECH*>Soy el coronel Jade Curtiss, comandante de la\nTercera División de las Fuerzas Imperiales de Malkuth.
+<SPEECH*>¡¿El coronel Curtiss?! Oímos que\ndespareciste en la destrucción\nde Akzeriuth...
+<SPEECH*>La vizcondesa Osborne de Keterburg dará\nfe de mi identidad. Quiero una audiencia\ncon Su Majestad Imperial.
+<SPEECH*>Bueno, a TI podemos dejarte\npasar, Coronel, pero...
+<SPEECH*>¡¿Quéééé?! ¡Él es Ion, Maestro Fónico\nde la Orden de Lorelei!
+<SPEECH*>¡Venga! \n¡Puedes dejarnos pasar!
+<SPEECH*>No, aun así podría ser una trampa. \nAunque seáis de Daath, \nestamos obligados a negarnos.
+<SPEECH*>Por favor, esperad aquí. Cuando haya\nvisto a Su Majestad, os dejarán\npasar inmediatamente.
+<SPEECH*>Así que nos quedamos aquí colgados. Bueno. \nSupongo que no se puede evitar.
+<SPEECH*>Tch...
+<SPEECH*>Te escoltaremos.
+<SPEECH*>¿Cuánto más va a tardar?
+<SPEECH*>Sí, la espera es muy dura.
+<SPEECH*>¡¿Qué ha sido eso?!
+<SPEECH*>Un grito...
+<SPEECH*>¡Vamos!
+<SPEECH*>¡Aguanta!
+<SPEECH*>Ésos eran soldados del Oráculo.\nMaldita sea.
+<SPEECH*>¡¿Del Oráculo?!\n¿Podría estar Van implicado?
+<SPEECH*>¿Qué intentará hacer\nen Gran Chokmah?
+<SPEECH*>Quizá esté tratando de destruir\nun árbol de sephiroth.
+<SPEECH*>No, no debería de haber ningún\nsephiroth en esta zona.
+<SPEECH*>¡No vamos a llegar a nada\nquedándonos aquí hablado! \n¡Vamos a por ellos!
+<SPEECH*>Sí. ¡No podemos permitir este\ntipo de violencia gratuita!
+<SPEECH*>¡Esperad! \nSi entramos sin permiso y los soldados\nde Malkuth nos encuentran...
+<SPEECH*>Tendremos que escondernos.\nLo último que queremos es\nuna lucha contra Malkuth.
+<SPEECH*>Escondite, ¿eh? \nIon, por favor, no lo estropees todo.
+<SPEECH*>Oh... ¡de acuerdo!
+<SPEECH*>Todos habéis decidido ir...\n*Suspiro*
+<SPEECH*>Estamos casi en la salida. \n¿Los soldados del Oráculo han\nentrado ya en la ciudad?
+<SPEECH*>¡Hay un soldado de Malkuth en el suelo!
+<SPEECH*>¡No está mal para ser una princesa!
+<SPEECH*>Tú eres el que vimos en el desierto.\n¡Eres Largo!
+<SPEECH*>¡Así que tú eres el intruso!\n¡¿Qué estás haciendo en Gran Chokmah?!
+<SPEECH*>Deberías fijarte en algo más que\nen lo que tienes delante, chico.
+<SPEECH*>¿Qué?
+<SPEECH*>¡¿Guy?!
+<SPEECH*>¡Uah, uah, ¿qué está pasando?!
+<SPEECH*>¡Oh, no! ¡La Ranura Maldita!\n¡Sync debe estar cerca!
+<SPEECH*>¡No os olvidéis de mí!
+<SPEECH*>¡Oh, de eso nada!
+<SPEECH*>¡Ja ja ja ja ja!\n¡No está mal, Princesa!
+<SPEECH*>¡Aah! ¡Otro terremoto!
+<SPEECH*>¡Natalia, allí arriba!
+<SPEECH*>El terremoto me ha delatado...
+<SPEECH*>¡¿Vais tras Ion o a por algo más?!
+<SPEECH*>¿Quién os da órdenes? \n¿El gran maestro Mohs?\n¿El Comandante?
+<SPEECH*>No importa quien sea, es lo mismo.\nNecesitamos al maestro fónico Ion.
+<SPEECH*>Pensábamos que había muerto junto\ncon Akzeriuth, pero supongo que\nél es más duro que el pueblo.
+<SPEECH*>¡Cómo te atreves a hablar tan desvergonzadamente!\n¡Vosotros destruisteis una ciudad entera!
+<SPEECH*>No nos acuses a nosotros.\nEl que destruyó Akzeriuth \nfue esa réplica de ahí.
+<SPEECH*>¡¿Qué pasa aquí?!
+<SPEECH*>¡Largo, nos retiramos por ahora!
+<SPEECH*>Supongo que no tenemos elección...
+<SPEECH*>¡¿Quién demonios sois vosotros?!
+<SPEECH*>Vimos a unos sospechosos mientras\nesperábamos al Coronel Curtiss.\nLos perseguimos hasta aquí.
+<SPEECH*>¿Te refieres a los\nque acaban de huir?
+<SPEECH*>Son soldados de los Caballeros del Oráculo.\nHan herido a uno de nuestros compañeros.
+<SPEECH*>Pero vosotros también tenéis Caballeros\ndel Oráculo en el grupo. \nArrestadlos.
+<SPEECH*>Supongo que no nos deberíamos resistir...
+<SPEECH*>Por supuesto que no.
+Hay un soldado vigilando el camino...
+Tendremos que distraerlo\npara pasar.
+¿Distraerlo? ¿Cómo?\n¿Te refieres a hacer\nruido o algo?
+Mmm...\n¿Qué tal si sacudimos los\nárboles o algo parecido?
+Y lo más importante, Luke,\n¿sabes por donde ir?
+Um... mmm...
+Está al noroeste de aquí. Gran\nChokmah está justo al otro lado.
+Tenemos que hacer ruido\npara atraer su atención.\nIntentémoslo golpeando el árbol.
+Tenemos que hacer ruido\npara atraer su atención. \nPodríamos probar agitando un árbol.
+Tenemos que hacer ruido\npara atraer su atención. \n¿Quieres probar agitando un árbol?
+Tenemos que hacer ruido\npara atraer su atención.\nProbemos agitando un árbol.
+Tenemos que hacer que salga con algún\nsonido. ¿Qué tal si agitamos un árbol?
+Hacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego...
+Hacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego...\n¿Hay alguna manera de pasar?
+Ya veo...\nHacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego... ¿no?
+Hacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego... ¿no?
+Hacemos salir a los soldados con algún sonido...\nY los animales son débiles al fuego... ¿correcto?
+Cuando corremos por un charco,\noyen el ruido y nos pillan.
+Lo mejor es evitar pisar los charcos.
+Parece que el sonido al correr\npor un charco nos delata.
+El sonido al correr por\nun charco nos delata...
+Lo mejor es evitar pisar los charcos.
+Ahí había una bestia.\n¿Esa cosa también hace de guardia?...
+Probablemente. Pero los animales\nson débiles al fuego...<PAGE>\nPiensa, Luke.
+Cuando hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Si hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Cuando hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Cuando hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Si hay más de un guardia, piden\nrefuerzos cuando los derrotamos...
+Paremos y descansemos en Engeve.
+Paremos y descansemos en Engeve.
+Tenemos que ir al Bosque de los Cheagles.
+El Bosque de los Cheagles está más al norte.
+Primero tenemos que reunirnos con Anise.
+Reunámonos primero con Anise.
+Sería mejor que encontrásemos a Anise primero.
+Primero reunámonos con Anise.
+Volvamos a Kimlasca ahora.
+No tenemos tiempo para\nvagar por ahí.
+Hey, por aquí no se va a Kimlasca.
+Nuestro objetivo es ir a Kimlasca.
+Podemos ir a Baticul en transbordador.
+No es que quiera, pero vayamos\nal Castillo de Coral.
+Corramos al Castillo de Coral.
+Dejemos de hacer el tonto aquí\ny vayamos al Castillo de Coral.
+El Castillo de Coral está al sur de aquí.\nVamos.
+Si me preguntas, deberíamos ir\nrápido al Castillo de Coral...
+Démonos prisa y vayamos a Akzeriuth.
+Corramos a Akzeriuth.
+¿No tenemos que ir\nrápidamente a Akzeriuth?
+Corramos a Akzeriuth.
+No tenemos necesidad de venir aquí.\nTenemos que ir a Akzeriuth.
+No queda tiempo. Debemos\nir rápido a Akzeriuth.
+Descansemos en el hotel hasta que\nel Tartarus esté listo para partir.
+Descansemos en el hotel hasta que el\nmantenimiento del Tartarus esté acabado.
+Deberíamos descansar en el hotel\nmientras arreglan el Tartarus.
+Hasta que acaben de reparar el Tartarus,\nvayamos a descansar un poco al hotel.
+¡Venga, vamos a descansar al hotel!
+Descansemos en el hotel hasta\nque sea hora de partir.
+Tengo que ir a ver qué quería Nephry.
+Tenemos que ir a Belkend para\nobtener información de Van.
+Esto no es Belkend.\nVolvamos.
+Vamos a Belkend.\nHay algo que quiero investigar.
+Nos dirigimos a Belkend, ¿no?
+Primero vayamos a Belkend,\ncomo sugirió Asch.
+Ahora nos vamos a la caverna de Ortion.
+La caverna de Ortion es nuestro destino,\n¿correcto? En marcha...
+Démonos prisa en ir a la caverna\nde Ortion y encarguémonos de esto.
+La caverna de Ortion está en el territorio\nde Kimlasca, en el continente radessiano.
+Bien, ¿nos vamos ya\na Gran Chokmah?
+Sí. Tenemos que informar al Emperador\ntan rápido como podamos sobre el\npeligro de que caiga San Binah.
+Sí. Primero démonos prisa y\nvayamos al puente de Rotelro.
+*Suspiro* Y luego caminar desde allí...\nCoronel ~ si me canso, llévame\nen tu espalada, ¿vale? @
+Me temo que no. Será la edad, pero\nme duelen las articulaciones, ya ves.
+Para llegar a Gran Chokmah, tenemos\nque ir al nordeste desde el puente\ny luego atravesar el Bosque de Theor.
+Es un viaje duro para un viejo como yo.\nVosotros, los jóvenes, tendréis que\nprotegerme y abrirme el camino. @
+Um... sí...
+No hay tiempo que perder.\n¡Vamos chicos!
+Gracias por tu ayuda, Nephry.
+Ten cuidado.
+Hermano, saluda a Su\nMajestad de mi parte.
+Gracias.

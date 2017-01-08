@@ -1,0 +1,306 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Límite de tiempo: 5:00
+Límite de tiempo: 7:30
+Límite de tiempo: 10:00
+Límite de tiempo: 12:30
+Límite de tiempo: 15:00
+3
+2
+1
+¡Ya!
+Sin vida
+Puerta trampa
+Salir
+Se acabó el tiempo
+¿Dejar de jugar?\nSí\nNo
+¿Continuar al siguiente piso?\nSí\nNo
+Puntuación +200
+Venciste a <01*> enemigos con el Fuego de Mieu = <01*>\n
+Venciste a <01*> enemigos con el Ataque de Mieu = <01*>\n
+Te encontraste con enemigos <01*> veces = <01*>\n
+Venciste a todos los enemigos normales = <01*>\n
+Venciste a todos los enemigos HP = <01*>\n
+Plus de recuperación de HP = <01*>\n
+Abriste <01*> cofres con tesoro = <01*>\n
+Abriste todos los cofres con tesoro = <01*>\n
+Llenaste <01*> agujeros con cajas = <01*>\n
+Destruiste <01*> cajas = <01*>\n
+Usaste <01*> trampolines = <01*>\n
+Apretaste <01*> interruptores en el suelo = <01*>\n
+----------------------------\nTotal   <01*>
+¡Saludos cordiales y bienvenido!\n¡Al fin está completa! ¡La increíble,\ne incomparable, Mansión Laberinto!<PAGE>\nComo es tu primera vez, te haré una\nbreve introducción de cómo funciona.<PAGE>\nEl interior es una laberinto dividido\nen cinco plantas.<PAGE>\nSi llegas a la escalera antes de que pase un\ntiempo límite, habrás completado ese piso.<PAGE>\nPuedes continuar a la siguiente planta\no parar llegado ese punto.<PAGE>\n¡Además de lo que es el laberinto, te\nencontrarás con muchos trucos y trampas\nen el camino para que suponga un reto mayor!<PAGE>\nEl juego termina si te quedas sin tiempo,\nsin fuerzas, o caes en una trampa.<PAGE>\nLa mejor puntuación de cada planta se\nqueda registrada, ¡así que hazlo lo mejor\nque puedas!<PAGE>\n¡Y eso es todo! @\n¿Te gustaría jugar ahora?
+¡Vale! \n¿Quién va a atreverse con el laberinto?
+¿En qué piso vas a empezar?
+Si quieres parar a mitad, \nsimplemente pulsa <06*>. \n¡Buena suerte! @
+¡Vuelve cuando quieras! @
+Te daré una pequeña explicación, así\nque escucha atentamente. por favor.<PAGE>\n- Hay cinco plantas en total.\n- Llega a la escalera para ir a la siguiente.\n- Hay un tiempo límite.<PAGE>\n- Cuando el tiempo termina, el juego se acaba.\n- Si te quedas sin fuerzas, también termina.\n- Algunas trampas harán que el juego termine también.<PAGE>\nTen cuidado con los agujeros en el suelo.\nUsa correctamente a tu pequeño amiguito\npara ayudarte a avanzar.<PAGE>\nPero te aviso que si tu amiguito no\ntiene cierto poder especial, no serás\ncapaz de llegar hasta el final.<PAGE>\nEso es todo.\n¿Quieres intentarlo?
+¡Aquí están las mejores puntuaciones \n¿De qué planta quieres verlas?
+¡Saludos cordiales y bienvenido!\n¿Deseas jugar?
+¡Esperamos gustosos\nque vuelvas de nuevo!
+Tal y como estás ahora, no puedes\noptar a la última planta.<PAGE>\nTu pequeño amigo tendrá que\nesforzarse un poco más. ¡Vuelve\notra vez cuando os hayáis hecho\nmas fuertes!
+¡Vaya!\n¡Lo has completado todo!<PAGE>\nAhora el reto está en hacerlo lo mas\nrápido posible. ¡Espero que vuelvas\na jugar en otra ocasión!<PAGE>\n¡Toma este premio como reconocimiento\nde tu logro!
+Has aprendido a cocinar <04*>recipe 15<04*>.
+¡Increíble!\n¡No puedo creer que alguien\nhaya llegado tan lejos!<PAGE>\nEn cierto modo, he perdido contra ti,\n¡pero me alegro igualmente!\n¡Toma! ¡Esto es para ti, como premio\npor tus esfuerzos!
+Has obtenido una <04*>rebirth doll<04*>.
+¡Albergo grandes esperanzas en ti!\n¡Por favor, vuelve en otra ocasión\na intentarlo de nuevo! ¿Vale?
+Oh, ¡has vuelto! \nSigues entrenado, ¿eh? \n¡Genial! \n¡Aquí tienes tu premio!
+Has obtenido <04*>10.000 gald<04*>.
+¡Espero que nos volvamos a ver!
+¿Ha llegado hasta el final, señorita?
+Sí. \n¿Algún problema?
+¡En absoluto! \n¡Simplemente estaba impresionado!
+Je je je, ¡por supuesto!\nNo supuso ningún reto para mí.<PAGE>\nMe he aburrido y todo de lo fácil que era.
+¡Eres increíble, Natalia!
+¡Te puedo decir que estoy\nrealmente impresionado!
+Natalia ha obtenido el título, <819B><819B><819B>.
+Deberías intentar esforzarte un poco más.
+Sí. La próxima vez\nconstruiré algo incluso mejor.

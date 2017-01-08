@@ -1,0 +1,403 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¡Ah! \n¡Ha reaccionado!
+Eso significa que la señal que\nencontramos debe ser correcta.
+¿Q-qué hacen, apuntando a la gente\ncon máquinas fónicas raras...?
+Lo siento. Es un detector de réplicas\nque hemos construido bajo las órdenes\nde Su Majestad.
+¿Un detector de réplicas?
+Sí. Nos dijeron que necesitábamos\nuna máquina para distinguir a las\nréplicas para protegerlas, pero...
+¿Pero...?
+Esta máquina reacciona a las réplicas\ny a la fomicría activa ahora mismo. \nCuando la hemos probado,<PAGE>\ndetectamos señales muy fuertes de\nréplicas y fomicría que venían\nde la caverna de Ortion.
+Se cree que la caverna de Ortion era\ndonde Dist hacía sus experimentos.
+Sí. Pensamos que a lo mejor era\nun fallo, pero parece que esto\nestá funcionando bien.
+Me pregunto qué estará pasando.\nEspero que nadie esté continuando\nla investigación de Dist...
+Sí, hay un ingeniero excéntrico\nque teme eso mismo.<PAGE>\nDice que deberíamos excavar la parte\nmás profunda de la caverna de Ortion,\nde donde salen las señales.<PAGE>\nPero es peligroso, y no tenemos\nfondos, así que el proyecto\nse ha suspendido.
+¿Quién es el ingeniero excéntrico?
+Está en la sala de reuniones. \nSe llama Shiba.
+Vayamos a verle.
+¿Te refieres al Shiba que\ntiene un perro llamado Peko?
+Sí, exacto.\n¿Lo conoces?
+S-Sí...
+(Quiero ver a Peko otra vez...)
+Listo\nEspera
+¡Tú!
+¿En qué puedo ayudaros?
+Ya veo. Habéis oído lo de\nla caverna de Ortion.<PAGE>\nEstoy de acuerdo en que debería ser\nexcavada, pero ya sabéis que ese\nlugar esta cubierto de piedra espejo,<PAGE>\ny que costaría mucho dinero\nexcavar allí.
+¿Cuando costaría exactamente?
+Una excavación costaría entre \n<01*> y 30.000 gald.
+Mmm, creo que podría conseguir esa cantidad\nsi le pregunto a Tío o a Padre...
+Pero Su Majestad y los nobles están\nen contra de la excavación.<PAGE>\nDicen que, con Eldrant de por medio,\nno hay necesidad de traer deliberadamente \nmás peligro al mundo .
+Bueno, lo cierto es que tienen\nalgo de razón.
+Pero tampoco podemos asegurar que\nno sea peligroso ignorarlo.
+Dime...
+Oh-oh, tengo un mal presentimiento...
+¿Qué tal si reunimos fondos\nnosotros mismos y...?
+¡Ves! \n¡Lo sabía!
+Pero si hay fomicría activa\noperando, no podemos ignorarlo.
+Sí. Sería especialmente malo si\nVan estuviera involucrado.
+*Suspiro* \nSupongo que no podemos\ndejarlo así, ¿verdad?
+Sí, tal y como están las cosas,\ndeberíamos eliminar todos los\npotenciales problemas.
+Bueno, ya los has oído.\n¿Qué deberíamos hacer?
+Bueno, cuando hayáis reunido\nlos fondos de los que habláis,\ndecídmelo.<PAGE>\nTraeré un equipo de excavación y\nel detector e iré con vosotros\na la caverna de Ortion.
+Oh, um, ¿y Peko qué?...
+Esta vez, tendré que \ndejarlo aquí. Será\npeligroso.
+Oh, bien...
+De todo lo que debería preocuparle...
+Es un área muy amplia.
+El área con la dureza de la\npiedra espejo es muy amplia.
+¿Estáis listos para ir?
+¡Pues vamos a la caverna de Ortion!
+Uh... siento tener que deciros\nesto, pero costará al menos <01*> \ngald cada excavación...<PAGE>\nLo siento, pero, por favor, volved\ncuando tengáis el dinero.
+Bueno, no hay prisa.\nPreparaos con tranquilidad.
+¡Aquí! \nDe esta zona viene una\nseñal muy fuerte.
+Hay algo detrás de\nesta pared, ¿eh?
+Sí.\nDeja que haga una grieta.
+¿No tenemos que pagar?
+¡La primera es gratis!
+Vale, entremos.
+Mieuu... \nTengo la sensación de que por\naquí hay monstruos que dan miedo...
+Sí...\nNo es una sensación agradable.
+¿Mmm?...\nEsta máquina fónica...\nEs fomicría...
+Ya veo.\nTiene mala pinta...
+¿Qué pasa?
+Esta fomicría está creando\nuna réplica de la pared que\nacabamos de excavar.<PAGE>\nEn otras palabras, pasado \ncierto tiempo la pared se \ncerrará y quedaremos atrapados.
+¡Oh! \n¿Por qué construirían algo así?...
+Para no permitir que se abran \nagujeros en las paredes, supongo.
+¿Para impedir entrar a la gente?
+Creo que es lo contrario.\nSeguramente crearon\nalgo... malo.<PAGE>\nSi no, no hubieran hecho\nestá máquina tan tonta.
+¿Quieres decir que aquí hay algo\ntan malo que tuvieron que encerrarlo?
+Sí.
+¿Qué queréis hacer, chicos?...
+No podemos echarnos atrás ahora.<PAGE>\nSi lo ignoramos y esa cosa\n"mala" de la que hablas al\nfinal consigue salir,\nsería terrible.
+¿Qué hacemos con la máquina?<PAGE>\nSi seguimos hacia dentro y la pared se\nrehace detrás de nosotros, estaremos atrapados.
+Podemos excavar otra vez.
+Te costará dinero excavar\na través de piedra espejo.
+Mmm, sí.\nCreo que la mejor opción\nsería romperla.
+¡Déjamelo a mí!
+Dime, ¿crees que habrá más\nmáquinas como éstas por aquí?
+Si están intentando mantener algo\naquí dentro, dudo que confíen en\nuna sola. Lo mejor sería asumir\nque hay más.
+Vale, entonces, si encontramos más, \nserá mejor que las destruyamos todas.
+Ou ou ou...
+Estás herido.
+Shiba se ha visto envuelto en\nlas batallas que hemos luchado.
+Sí, si las batallas se\nalargan más, Shiba\ntambién acabará herido.
+Después de todo, es un civil.<PAGE>\nSi es herido,\nquizá tengamos que volver.
+Tengamos cuidado.\nNecesitamos el detector.
+Pero no a Shiba, ¿eh?...
+¡¿Q-Qué?!
+¡¿C-Capitán?!
+¡Sync! \nY... Arietta...
+Pa... dre...\nNo... ¡Largo!
+Sólo Dist podría estar detrás de \nestas réplicas de tan mal gusto...
+Ha debido de quitarles sus\ndatos disimuladamente.\nQue cabrón.
+No tenemos que luchar\ncontra ellas, ¿verdad?
+Si no tienen malas intenciones, supongo\nque las podríamos dejar aquí...
+...pero parece que esto no\nva a acabar pacíficamente.
+Tenemos que luchar contra ellos... otra vez...
+Por qué... ¡por qué tengo que\nluchar contra los mismos\nuna y otra vez!
+¡Capitán!...
+Por desgracia, parece que no hay\ntiempo para lamentarse.
+¡Maldita sea! \n¡Lo siento!...
+......
+......
+Vaya sorpresa... No eran menos\npoderosas que sus originales.<PAGE>\nConsiderando la perfección de estas\nréplicas, es casi seguro que\nha sido obra de Dist.
+Eran réplicas, pero tenían\nsus propias habilidades...<PAGE>\nDist ha debido de enseñarles\ndurante algún tiempo.
+¿Y los dejó encerrados aquí? \nEn qué estaría pensando...
+A mí me parecen más fuertes \nque los originales...\n¿Cómo es posible?...
+El método original que yo desarrollé\ncrea réplicas como éstas... más fuertes\nque sus originales.<PAGE>\nPero... a cambio tienen\nvarios problemas.
+Creo que lo he explicado antes, pero\nseguramente usó el método que yo\nempleé con la profesora Nebilim.<PAGE>\nCreo que es por eso que estos son\nmás fuertes que los originales.
+¿Y qué hacen para comer?...
+Aquí no hay nada\nexcepto monstruos...
+Cuando salgamos de aquí,\nhagámosles unas lápidas.<PAGE>\nSus cuerpos desaparecieron a causa\nde la separación de fonones... pero\nyo no puedo soportar no hacer nada.
+Mieuuuuuuuu...
+Chicos....<PAGE>\nEl detector aún muestra señales de\nréplica. Sé que es duro, pero no\npodemos quedarnos aquí para siempre...
+Sí...\nSigamos.
+L-Lo siento... \n¿No podemos descansar un poco? \nEsto es un poco duro, incluso para mí.
+Sí, llevamos un buen rato\nandando sin parar.\nHagamos un descanso.
+Sí... Por suerte, no siento ningún\npeligro inminente aquí.<PAGE>\nDescansemos.
+¿Crees que lo que Dist encerró\naquí fueron esta cuatro réplicas?
+Supongo. Pero si el detector\naún reacciona, entonces es\nque hay algo más.
+Mmm... \nTío, me pregunto si será mucho\nmás profundo este sitio.
+Sí, pensaba que habíamos\nllegado lejos, pero cuanto\nmás cavamos, más encontramos.
+¿Están ustedes bien, señoritas?<PAGE>\nAunque, conociéndolas, contestaríais\n"sí" aunque os estuvierais\nesforzando demasiado.
+Oh, si ya sabes la respuesta, pues\nes una pregunta tonta, ¿no?
+Yo aún puedo luchar.
+Sí... No hay tiempo\npara deprimirse.
+Con las chicas trabajando tanto,<PAGE>\nsupongo que no puedo decir\nque estoy cansado.<PAGE>\nYa estoy bien.\n¡Vamos!
+Quizá esto sea a lo que el\ndetector está respondiendo.
+Espera...\nHay algo que se mueve.
+¡Me tiembla la cola!
+¡Detrás de nosotros!
+Mierda... ¡no podemos evitarlo! \n¡Aquí viene!
+Vaya monstruo...
+Eso debía ser lo que\nDist quiso encerrar\naquí dentro...
+Está loco para\nhacer algo así...
+¿Qué indica el detector?
+La señal de réplica ha desaparecido.\nLo único que queda es señal de fomicría.
+Entonces si destruimos\neste aparato, ya está.
+Vale. \n¡Venga, Mieu!
+¡Déjamelo a mí!
+Todas las señales han desaparecido.
+Fiuu...\nPor fin hemos acabado.
+Me alegro de que no tuviera efecto\nen el mundo exterior.
+Sí. Bueno, hemos alcanzado nuestro\nobjetivo. Vamos fuera.
+¡He vuelto, Peko!
+Gracias por todo.
+¡Gracias también por tu ayuda!
+Ahora descansa mucho y bien.
+No, ahora que ya no me tengo que\npreocupar de esto, voy a viajar\npor el mundo con Peko\notra vez.<PAGE>\nOh, bueno, puede que aún queráis\ninvestigar un poco la cueva, ¿no? \nMe quedaré por aquí un poco más.
+Vale. Entendido.
+Hasta pronto... Peko...
+Peko vuelve a ser lo único\nque tiene en la cabeza...
+¡Enemigos!
+¡Joder!
+¿Quéé? \nCon lo que me costó\nabrirla. ¡Vamos a\nechar un vistazo!
+Ah, vale...

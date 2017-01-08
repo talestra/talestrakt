@@ -1,0 +1,278 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Bienvenido.\nPasar la noche en una habitación cuesta 600 gald.
+Quedarse\nNo quedarse
+Gracias.
+Lo siento, pero no tienes suficiente gald...
+Vaya, qué chiquilla tan dulce.\n¿Estás de viaje con unos adultos?<PAGE>\nDicen que los niños deberían\nver el mundo, pero eres la\nprimera que veo que lo hace.<PAGE>\n¿Por qué no descansas aquí?\nNo te preocupes, no te cobraré.
+Qué chiquilla tan dulce\nviaja con vosotros.<PAGE>\nNo puedo evitar hacer\nalgo por una niña tan dulce.\nPor favor, descansad aquí esta noche.
+Señor, le agradeceríamos\nque se abstuviera de\nentrar ahí.
+Después de todo, escondemos todos\nnuestros secretos ahí... @
+Me temo que no te puedo enseñar\nnada de allí ahora mismo.
+Sin embargo, si regresas\ncuando no haya nadie por aquí... @
+Bienvenido.
+Las habitaciones de invitados están en el\nsegundo piso, subiendo esas escaleras.
+Bienvenido.\nTu habitación estará\narriba, en el segundo piso.
+Por favor, sentiros como en casa.
+Bienvenido.\nPor favor, usa estas escaleras\npara llegar a las habitaciones\nde invitados.
+Todas las luces de nuestro\nhotel usan artes fónicas.
+No importa cuántas veces venga,\nGran Chokmah siempre está preciosa.
+Quizá sea por todas las artes\nfónicas, pero las cosas de aquí\ntambién son muy cómodas.
+Casi toda Rúgnica se ha derrumbado...
+Por muy buena que sea Malkuth con las\nartes fónicas, supongo que no pueden\nevitar que caigan ciudades enteras.
+Gran Chokmah es bastante grande y\nbonita, ¿verdad? Parece que han\ninvertido mucho en la capital.
+Y se rumorea que el emperador Peony\nes muy astuto a pesar de su juventud.\nEnvidio la gente de Gran Chokmah.
+El derrumbamiento casi ha\nllegado a Gran Chokmah...
+Será mejor que consiga que se \nme lea la Partitura para \naveriguar adónde he de huir.
+Parece que la gente de Gran\nChokmah confía mucho en\nel emperador Peony.
+No puedo creer que simplemente\nhayan aceptado la decisión de \nno leer más la Partitura.
+Mi cuchillo... ¡¡Mi cuchillo!!...\nMi cuchillo multiusos...\n¡Ha desaparecido!...
+Se me habrá caído cuando\nme atacó un monstruo en\nel Bosque de Theor...<PAGE>\nMi cuchillo multiusos...\nLa quiero recuperar...\nPero no quiero volver al bosque...

@@ -1,0 +1,84 @@
+// Leyenda
+005BA760:'Confirmar'
+005BA770:'Volver'
+005BA780:'Por defecto'
+
+// Mensaje al darle al botón "Por defecto" (Reestablecer ajustes personalizados)
+005BA800:'¿Restablecer valores\npor defecto?\nSí\nNo'
+
+// Categoriías de configuración
+005BA860:'Velocidad de mensajes'
+005BA870:'Dificultad de batalla'
+005BA888:'Sonido'
+005BA890:'Configuración de botones'
+005BA8A8:'Voces en batallas'
+005BA8B8:'Voces en eventos'
+005BA8C8:'Títulos de las skits'
+005BA8D8:'Subtítulos de las skits'
+005BAA38:'Vibración'
+005BAA48:'Comprobación de enemigos'
+005BAA58:'Cámara dinámica'
+005BAA68:'Nombres de lugares'
+005BAA78:'Ajustar pantalla'
+
+// Niveles de dificultad
+005BA938:'Normal'
+005BA940:'Difícil'
+005BA948:'Muy difícil'
+005BA958:'Desconocida'
+
+// Opciones binarias
+005BA960:'Sí'
+005BA968:'No'
+
+// Descripciones
+005BAB00:'Cambia la velocidad en la que aparecen los mensajes.\nCuanto mayor es el número, más lentos aparecerán.\n0 muestra el mensaje entero de golpe.'
+005BAB80:'Cambia la dificultad de batalla.'
+005BABA0:'Activa o apaga la vibración del mando.'
+005BABD0:'Cambia la configuración del mando para las batallas.'
+005BAC00:'Cambia el volumen para la música, ES, y las voces.\nCambia entre sonido estéreo y mono.'
+005BAC60:'Actívalo para ver brevemente a los enemigos al\nempezar una batalla.'
+005BACA0:'Actívalo para ver las batallas desde ángulos de\ncámara dinámicos.'
+005BACE0:'Activa o desactiva las voces en las batallas.'
+005BAD10:'Activa o desactiva los nombres de las tiendas,\nposadas, etc. Los nombres aparecerán cuando te\nacerques al lugar.'
+005BAD80:'Activa o desactiva las voces en eventos.'
+005BADA0:'Activa o desactiva los títulos de las skits.'
+005BADC0:'Activa o desactiva los subtítulos de las skits.'
+005BADE0:'Ajusta la posición de la pantalla.'
+
+// Configuración de botones
+005BAF08:'Ataque normal'
+005BAF18:'Ataque especial'
+005BAF28:'Defensa'
+005BAF30:'Menú'
+005BAF38:'Seleccionar objetivo'
+005BAF48:'Movimiento libre'
+005BAF58:'Cancelar objeto'
+005BAF68:'Límite'
+
+// Sound
+005BAFD8:'Salida'
+005BAFF0:'Voces'
+
+// Sound::Output
+005BAFF8:'Estéreo'
+005BB000:'Mono'
+
+
+
+// Parches de ancho 
+
+// Niveles de dificultad (ancho)
+$$:005512B4:ushort:0x10
+$$:005512CC:ushort:0x11
+$$:005512E4:ushort:0x0B
+$$:005512FC:ushort:0x0A
+
+// Comprobación de enemigos (ancho)
+$$:0037D648:ushort:0x0E
+
+// Configuración de botones (ancho 0x10)
+$$:0037D5B8:ushort:0x0E
+
+// Seleccionar objetivo (ancho)
+$$:00551D04:ushort:0x10

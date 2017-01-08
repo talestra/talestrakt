@@ -1,0 +1,383 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Jade, ¿puedo pedirte un favor?
+<SPEECH*>¿Qué quieres, tan de repente?
+<SPEECH*>He pensado utilizar este libro de fonología\npara aprender a controlar la hiperresonancia... \n¿Me puedes enseñar?
+<SPEECH*>Me temo que no. Después de todo,\nyo no puedo usar el séptimo fonón.
+<SPEECH*>*Suspiro* \nSupongo que se lo tendré que pedir a Tear.
+<SPEECH*>Si no quieres que yo\nte enseñe, entonces...
+<SPEECH*>¡Yo... yo no he dicho eso!\n¿M-Me enseñarás?
+<SPEECH*>Vale...
+<SPEECH*>¡Venga ya! \n¡¿Cuánto rato más tendré que\nestar haciendo esto?!
+<SPEECH*>¡Calla! \nNo es sólo cerrar los ojos.\nEscucha los fonones que\nfluyen por el mundo.
+<SPEECH*>Ya me gustaría poder escuchar eso...
+<SPEECH*>No escuches con los oídos.\nSiéntelos con cada fonorranura\nde tu cuerpo.
+<SPEECH*>Uhhh...
+<SPEECH*> No escuches con las orejas.\nSiéntelos con cada fonorranura\nde tu cuerpo.
+<SPEECH*>(Capitán Legretta...)
+<SPEECH*>¿Sentirlo con cada fonorranura\nde mi cuerpo?...
+<SPEECH*>Sí. Los fonones son una combinación\nde sonido y propiedades elementales. \nEs difícil verlos.<PAGE>\n<SPEECH*>Pero tus fonorranuras pueden \npercibirlos. Sienten la vibración.<PAGE>\n<SPEECH*>Reunir esos fonones en tu cuerpo\nes la base de toda arte fónica.
+<SPEECH*>Sí, señora.\nLo entiendo.
+<SPEECH*>Bien.\nDejémoslo aquí por hoy.<PAGE>\n<SPEECH*>Tear, tienes talento. Supongo que\nno debería esperar menos de alguien \nque comparte la sangre de Van.
+<SPEECH*>¡Gra-gracias!
+<SPEECH*>No dejes que se te suba a la cabeza.\nLa gente puede que te trate más duramente\nsimplemente porque eres la hermana de Van.<PAGE>\n<SPEECH*>Por muy tonto que parezca.
+<SPEECH*>Lo entiendo.\nEstoy preparada para eso.
+<SPEECH*>Pues ya basta de cosas serias.
+<SPEECH*>Tear, tengo una carta\npara ti de Van.
+<SPEECH*>¿De Van?
+<SPEECH*>Está deseando ver\ncuánto has crecido.<PAGE>\n<SPEECH*>Con el tiempo planea pedirte que\nseas su mano derecha. Entrena duro,\npara que puedas cumplir esas expectativas.
+<SPEECH*>¡Pero Capitán, no puedo imaginar\na nadie al lado de mi hermano\nque no seas tú!
+<SPEECH*>Vaya, gracias. <PAGE>\n<SPEECH*>Pero todo lo que puedo ofrecer es mi\npobre astucia y mi memoria.<PAGE>\n<SPEECH*>Así que por su bien -no, por el tuyo\nmás que nada- debes fortalecerte lo\nsuficiente para sobrevivir.<PAGE>\n<SPEECH*>El mundo que nos espera\nestará lleno de caos.
+<SPEECH*>¡Sí, Capitán!
+<SPEECH*>Lo he oído...
+<SPEECH*>¡Es suficiente!
+<SPEECH*>Recuerda esa sensación de poder\ndesbordando desde tu interior, recuerda\ntu cuerpo temblando... Eso son fonones.
+<SPEECH*>Sí...\nCreo que lo entiendo.
+<SPEECH*>No te metas prisa.\nEsto es sólo el principio de tu entrenamiento.
+<SPEECH*>¡Lo sé!\nPero, sí... \nG-Gracias.
+<SPEECH*>Luke, continuemos tu\nestudio de la fonología.
+<SPEECH*>S-Sí, vale...
+<SPEECH*>¿O no quieres?
+<SPEECH*>¡No, no es eso!
+<SPEECH*>¡Arrgh! \n¡Ya he metido la pata otra vez!
+<SPEECH*>Cualquier lapsus en tu concentración\npuede enviar los fonones fuera de control. \nY el séptimo fonón es especialmente sensible. <PAGE>\n<SPEECH*>¡Inténtalo de nuevo!
+<SPEECH*>Uhhh...
+<SPEECH*>¿Qué te pasa, Tear?\nEstás perdiendo la concentración.\nLos fonones no se están reuniendo adecuadamente.
+<SPEECH*>L-Lo siento...
+<SPEECH*>Es suficiente.\nLo dejaremos aquí por hoy.
+<SPEECH*>¡Capitán!\nAún puedo...
+<SPEECH*>Los fonones pueden perder el control\nsi no se tratan convenientemente.<PAGE>\n<SPEECH*>Mejor que arriesgarnos con ese peligro,\n¿por qué no hablamos mientras\nme hago cargo de tu herida?
+<SPEECH*>Te has herido en el brazo.\n¿Qué ha ocurrido?
+<SPEECH*>No puedo decírtelo...
+<SPEECH*>Si te preocupa señalar a alguien,\nno tienes por qué revelar\nsu nombre o su división. <PAGE>\n<SPEECH*>El Comandante te ha dejado\na mi cuidado. Tengo el deber de\nsaber qué es lo que ha ocurrido.
+<SPEECH*>A alguien le molesta que una candidata\na oficial como yo no vaya a la escuela de \noficiales en las Tierras Exteriores,<PAGE>\n<SPEECH*>y que en cambio me entrenes tú.
+<SPEECH*>¿Así que uno de los otros \nestudiantes te hizo esto?
+<SPEECH*>......
+<SPEECH*>No eres muy buena en llevarte\nbien con los demás, ¿no?
+<SPEECH*>Creo que soy un poco torpe...
+<SPEECH*>Sí... Eres honesta y directa.\nVirtudes que yo perdí hace mucho...
+<SPEECH*>Capitán...
+<SPEECH*>Pero esas cualidades son un\nestorbo para un soldado.<PAGE>\n<SPEECH*>Quizá por eso Van te dejó aquí\nabajo, en vez de mandarte a la\nescuela de oficiales.
+<SPEECH*>Si es necesario puedo cambiar.\nPara ser como tú, Capitán...
+<SPEECH*>Para ser como yo, primero deja de\ndepender de la gente. Válete por ti misma.\nPiensa por ti misma.<PAGE>\n<SPEECH*>Toma tus propias decisiones sobre lo \nque es necesario y lo que no.
+<SPEECH*>Gracias por lo de hoy, Tear.<PAGE>\n<SPEECH*>Creo que ahora puedo sentir cómo se \nreúne el séptimo fonón dentro de mí.
+<SPEECH*>Creas una hiperresonancia causando que los\nséptimos fonones interfieran con tu cuerpo.<PAGE>\n<SPEECH*>El primer paso es reunir \nséptimos fonones dentro de ti.\nSigue con ello.
+<SPEECH*>Sí. Aún me queda un largo camino...
+<SPEECH*>¿Qué quieres hacer con tu entrenamiento?\nParece que has aprendido los controles básicos\nde la hiperresonancia, pero...
+<SPEECH*>Pero sólo los controles básicos.\nQuiero seguir trabajando en ello.
+<SPEECH*>Está bien.\nVamos.
+<SPEECH*>¡Lo conseguí!
+<SPEECH*>¡C-Cuidado!
+<SPEECH*>¡Cuidado!
+<SPEECH*>C-Capitán...
+<SPEECH*>¡No muestres debilidad!\nLo único que hace la debilidad\nes atraer al enemigo.
+<SPEECH*>¡Capitán!\n¡Estás herida!
+<SPEECH*>No es nada...\n¿Te has hecho daño?
+<SPEECH*>N-No. ¿Pero por qué un Caballero\ndel Oráculo intentaría...?
+<SPEECH*>Seguramente es de la facción reformista\nque se opone a Van. Idiota...\nÉl no habría podido cambiar nada.
+<SPEECH*>C-Capitán...\nNo tenías por qué matarle...
+<SPEECH*>Eres muy blanda, Tear...<PAGE>\n<SPEECH*>Una vez seas un miembro de los\nCaballeros del Oráculo, puede que te\nmanden a un campo de batalla.<PAGE>\n<SPEECH*>Si dejas al enemigo sobrevivir, \npagarás el precio con tu propia vida.
+<SPEECH*>Supongo que es el deber de un soldado...
+<SPEECH*>Como Van sugirió, si no puedes\naceptar eso, no deberías pensar\nen convertirte en soldado.<PAGE>\n<SPEECH*>Puedes ayudarle de otra forma\nque no sea luchando.
+<SPEECH*>Sí, Capitán...
+<SPEECH*>Quizá sería mejor darles una marioneta\na los reformistas para que se entretengan...
+<SPEECH*>¿Capitán?\n¿Ha dicho algo?
+<SPEECH*>No, no te preocupes por ello.
+<SPEECH*>¡Tear, mira esto!
+<SPEECH*>Así que criaban aquí...
+<SPEECH*>Aún está viva, ¿no?
+<SPEECH*>Sí, sólo está inconsciente.
+<SPEECH*>¿Puedes curarla?\nNo nos entrometeremos más tras eso.
+<SPEECH*>Luke...
+<SPEECH*>Sí, hagámoslo.
+<SPEECH*>Tear, ¿cuándo podremos empezar el\nentrenamiento de la hiperresonancia?
+<SPEECH*>¿Eh?... Oh, sí.\nEmpecemos.
+<SPEECH*>Parece que ahora la tienes\nun poco más bajo control.
+<SPEECH*>Pero aún no puedo manejarla del todo\nbien como para usarla en la batalla.
+<SPEECH*>Antes no podías hacer absolutamente\nnada. Es impresionante.
+<SPEECH*>Tear... \nGracias por todo.
+<SPEECH*>Luke...
+<SPEECH*>¡Ya vale!...
+<SPEECH*>¡Gracias!
+<SPEECH*>Éste es mi último entrenamiento. Desde\nahora, tu entrenamiento vendrá del campo\nde batalla. Estate alerta.
+<SPEECH*>¡Sí!
+<SPEECH*>Has llegado lejos, Tear...
+<SPEECH*>Es gracias a sus enseñanzas, Capitán.
+<SPEECH*>Ven, toma esto...
+<SPEECH*>Capitán, ¿qué es este colgante?...
+<SPEECH*>Van me lo dio para que te lo diera una\nvez hubieses completado el entrenamiento.
+<SPEECH*>¿Van?
+<SPEECH*>Es un recuerdo de tu madre.
+<SPEECH*>¡¿Mi madre?!...
+<SPEECH*>Tear... si... si por alguna razón yo\nmuriese en la batalla, abre ese\ncolgante y mira dentro.
+<SPEECH*>¡Capitán!...\n¡¿Qué está diciendo?!
+<SPEECH*>Dije "si".\nNo moriré. \nNo hasta que el sueño de Van se cumpla.
+<SPEECH*>Capitán...\nLo guardaré bien.\nGracias.
+<SPEECH*>Tear, no debes morir.\nHaz lo que haga falta para mantenerte\ncon vida, no importa el qué.
+<SPEECH*>¡Sí, señora!
+<SPEECH*>¿Tear?
+<SPEECH*>Creí que no te gustaba que yo te enseñara\ncómo controlar tu hiperresonancia.
+<SPEECH*>¡¿Q-Qué?! \n¡No! \nYo sólo... sólo estaba avergonzado.
+<SPEECH*>¿Avergonzado?
+<SPEECH*>Sólo pensé... bueno... que no era muy\nguay aprender de una chi... de ti...
+<SPEECH*>¿Qué quieres decir con que\nno era guay aprender de mí?
+<SPEECH*>Bueno, yo...
+<SPEECH*>¡No importa, no es nada!...
+<SPEECH*>En fin.\nMe alegra mucho que me enseñaras.\nMe alegra haber aprendido esto de ti.\nGracias.
+<SPEECH*>Gracias a ti también...
+<SPEECH*>...
+<SPEECH*>...
+<SPEECH*>¿Deberíamos volver?...
+<SPEECH*>Um... vale.
+¿En qué estará\npensando Kimlasca?
+¡No tienen que meternos a\nnosotros, la gente de la calle,\nen lo que sea que estén haciendo!
+Supongo que Engeve está muy\nlejos para verla desde aquí...
+Aún estamos seguros por ahora,\n¿pero podremos algún día volver a casa?

@@ -1,0 +1,42 @@
+// Leyenda
+005BCB40:'Zoom'
+005BCB50:'Tiendas'
+005BCB60:'Categoría'
+005BCB78:'Volver'
+005BCB80:'Vista normal'
+005BCB98:'Piloto automático'
+005BCBB0:'Información'
+
+005BCC40:'¿Ir a ese lugar?\nSí\nNo'
+
+// Pestañas
+005BE820:'Ciudad'
+005BE890:'Mazmorra'
+005BE900:'Otros'
+
+// Parches de ancho 
+
+// Ciudad (ancho)
+//$$:0055E6FC:ushort:0x12
+// Mazmorra (ancho)
+//$$:0055EA2C:ushort:0x0C
+
+$$:0055E6FC:ushort:0x10
+$$:0055EA2C:ushort:0x0A
+
+// Ancho lista de ciudades (original 0x10)
+$$:003A04E4:ushort:0x0F
+// Ancho lista de dungeons (original 0x0B)
+$$:003A0CD0:ushort:0x0D
+// Ancho lista de otros (original 0x12)
+$$:003A13BC:ushort:0x0F
+
+// ?????? en dungeons
+//$$:003A0D98:ushort:0x18
+
+// Pruebas
+//$$:0055EC44:ushort:0x05
+// Tamaño título de descripción de ciudades
+//$$:00353448:ushort:0x05
+// Tamaño descripción de descripción de ciudades
+//$$:00353494:ushort:0x05

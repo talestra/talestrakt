@@ -1,0 +1,832 @@
+-> 
+
+-> Aullido radiante
+
+-> Aullido radiante
+
+-> Impulso fónico perdido
+
+-> Colmillo cortante
+Base: Corta al enemigo hacia abajo y luego hacia arriba.
+
+-> Tigre relámpago
+Arte: Provoca un rayo para atacar a los enemigos
+más próximos.
+
+-> Golpe caótico
+Base: Una feroz patada desde arriba.
+
+-> Caos ardiente
+Arte: Una feroz patada seguida de un explosión
+en el momento del impacto.
+
+-> Golpe desgarrador
+Base: Una estocada seguida de un corte hacia arriba.
+
+-> Seísmo desgarrador
+Arte: Una estocada seguida de un puñetazo que rompe
+el suelo en pedazos.
+
+-> Furia explosiva
+Base: Desata un estallido de poder de tu interior
+que derriba al enemigo.
+
+-> Glaciar explosivo
+Arte: Desata un frío estallido de poder de tu
+interior que congela y derriba a los enemigos.
+
+-> Acero
+Base: Concéntrate y aumenta temporalmente tus
+posibilidades de hacer golpes críticos.
+
+-> Espiral
+Arte: Concéntrate y aumenta temporalmente
+tus ataques físicos.
+
+-> Furia divina
+Arcano: Una serie de estocadas y patadas.
+
+-> Furia oscura
+Arte: Una cegadora serie de cortes y patadas que
+atraviesan la oscuridad.
+
+-> Campo guardián
+Arcano: Una luz que emana de tu espada daña a los enemigos
+y cura a los aliados más próximos.
+
+-> Hielo guardián
+Arte: Una energía helada que emana de tu espada y daña
+al enemigo.
+
+-> Cañón de luz
+Arcano: Ataque giratorio con la espada que lanza
+al enemigo por los aires.
+
+-> Ráfaga de luz
+Arte: Una poderosa ráfaga que mantiene al enemigo en
+el aire y que provoca una serie de estocadas.
+
+-> Infierno del diablo
+Arcano: Un feroz estallido de tu espada que
+hace salir disparados a los enemigos frontales.
+
+-> Fauces del diablo
+Arte: Rocas salen despedidas del suelo y dañan
+a los enemigos frontales.
+
+-> Guardián
+Arcano: Aumenta la defensa contra ciertos ataques.
+
+-> Colmillo caótico
+Arcano: Combinación de Colmillo cortante y Golpe
+caótico.
+
+-> Colmillo desgarrador
+Arcano: Combinación de Colmillo cortante y Golpe
+desgarrador.
+
+-> Colmillo explosivo
+Arcano: Combinación de Colmillo cortante y Furia explosiva.
+
+-> Caos desgarrador
+Arcano: Combinación de Golpe caótico y Golpe desgarrador.
+
+-> Caos explosivo
+Arcano: Combinación de Golpe caótico y Furia explosiva.
+
+-> Furia desgarradora
+Arcano: Combinación de Golpe desgarrador y Furia explosiva.
+
+-> Puño demoníaco
+Base: Desata una poderosa onda a través del suelo.
+
+-> Espada relámpago
+Arcano: Una estocada electrizante.
+
+-> Asalto
+Arcano: Golpea el suelo y haz que salten fragmentos
+de roca hacia el enemigo.
+
+-> Estallido sónico
+Arcano: Estocadas rápidas que crean unos poderosos
+estallidos de viento que hacen volar al enemigo.
+
+-> Golpe sónico
+Base: Poderosa estocada que derriba al enemigo.
+
+-> Resplandor inocente
+
+-> Arco de la fortuna
+
+-> Martillo
+Base: Un martillo que deja al enemigo aturdido.
+A veces lo deja inconsciente.
+
+-> Martillo glacial
+Arte: Una ráfaga de martillos congelados que dejan al
+enemigo aturdido.
+
+-> Luz nocturna
+Base: Lanza filos cortantes hacia el enemigo.
+
+-> Incrustación nocturna
+Arte: Haz pedazos un cristal y manda los fragmentos
+volando hacia el enemigo.
+
+-> Destino truncado
+Arcano: Salta y lanza filos cortantes que crean un
+campo de fuerza y que dañan al perforar el suelo.
+
+-> Círculo fatal
+Arte: Salta y lanza filos cortantes que crean un círculo
+fónico que daña al enemigo.
+
+-> Pena proscrita
+Arcano: Ataca al enemigo con un estallido de poder
+fónico.
+
+-> Pena ardiente
+Arte: Lanza una bola gigante de llamas hacia el
+enemigo.
+
+-> Invocar tierra
+Novato: Invoca un CDF de tierra.
+
+-> Invocar agua
+Novato: Invoca un CDF de agua.
+
+-> Invocar llama
+Novato: Invoca un CDF de fuego.
+
+-> Invocar vendaval
+Novato: Invoca un CDF de viento.
+
+-> Pesadilla
+Himno: Usa el primer fonón para adormecer a los
+enemigos seleccionados.
+
+-> Campo de fuerza
+Himno: Usa el segundo fonón para proteger temporalmente
+a los aliados que están dentro de cierto perímetro.
+
+-> Resurrección
+Alto: Revive a un aliado caído.
+
+-> Regenerar
+Fónico: Revive a los aliados caídos dentro de cierto perímetro.
+
+-> Mejorar conjuro
+Medio: Reduce el tiempo que tarda un aliado en lanzar
+un conjuro.
+
+-> Brujería
+Fónico: Reduce el tiempo que tardan los aliados dentro de cierto
+perímetro en lanzar un conjuro y aumenta el de los enemigos.
+
+-> Cargar
+Novato: Da algo de tu TP a un aliado.
+
+-> Tributo
+Fónico: Da algo de tu TP a todos los aliados.
+
+-> Éclair de larmes
+Medio: Graba un glifo en el suelo que daña a todos los
+enemigos que están dentro.
+
+-> Flamme rouge
+Fónico: Un pilar de fuego engulle al enemigo seleccionado.
+
+-> Lanzas sacras
+Alto: Lanzas sacras de luz caen sobre el enemigo
+seleccionado.
+
+-> Grupo de asalto
+Fónico: Trozos de cristal caen y dañan al enemigo.
+
+-> Primeros auxilios
+Novato: Devuelve una pequeña cantidad de HP a un aliado.
+
+-> Meditación
+Fónico: Devuelve una cantidad moderada de HP a un aliado.
+También cura los estados alterados mágicos y físicos.
+
+-> Círculo curativo
+Medio: Devuelve una cantidad moderada de HP a los aliados
+dentro de cierto perímetro. Cura a todos fuera de batalla.
+
+-> Círculo de hadas
+Himno: Devuelve bastante HP y cura los estados alterados de los
+aliados dentro de cierto perímetro. También daña a los enemigos.
+
+-> Revitalizar
+Himno: Usa el cuarto fonón para devolver bastante HP a los
+aliados dentro de cierto perímetro. Cura a todos fuera de batalla.
+
+-> Canción sacra
+Himno: Usa el tercer fonón para aumentar el ataque
+y la defensa de los aliados y devolver algo de HP.
+
+-> Juicio
+Himno: Usa el quinto fonón para convocar al juicio de
+los cielos y así derribar a todos los enemigos.
+
+-> Cruz ingente
+Himno: Usa el sexto fonón para llamar a la luz sagrada
+que daña a todos los enemigos dentro de cierto perímetro.
+
+-> Jaula mística
+
+-> Indignación
+
+-> Lanza del trueno
+Base: Lanzas con el poder el trueno caen sobre
+el enemigo.
+
+-> Tormenta eléctrica
+Arte: Daña al enemigo con una ráfaga rayos.
+
+-> Lanza sónica
+Base: Una estocada increíblemente rápida.
+
+-> Lanza aplastante
+Arte: Rompe una roca y dispara los trozos
+hacia el enemigo.
+
+-> Empalamiento celestial
+Arcano: Lanza por los aires al enemigo y acaba
+con una estocada.
+
+-> Cuerno infernal
+Arte: Lanza por los aires al enemigo, sigue
+con una estocada y termina con una explosión.
+
+-> Vendaval imperial
+Arcano: Invoca al viento con tu lanza para dañar al
+enemigo.
+
+-> Diluvio universal
+Arte: Hunde tu arma en el suelo para provocar un
+violento despliegue de agua.
+
+-> Explosión de energía
+Novato: Crea una pequeña explosión que daña al
+enemigo seleccionado.
+
+-> Fotón
+Fónico: Partículas de luz se reúnen y explotan
+varias veces para dañar al enemigo.
+
+-> Drenar magia
+Novato: Absorbe TP del enemigo seleccionado.
+
+-> Absorción
+Fónico: Absorbe TP del enemigo y lo reparte entre
+el grupo.
+
+-> Estalagmita
+Medio: Rocas afiladas salen del suelo y atacan
+al enemigo seleccionado.
+
+-> Erupción
+Fónico: Aparece lava que rodea al enemigo seleccionado.
+
+-> Terremoto
+Alto: Libera el gran poder de la tierra.
+
+-> Ataúd glacial
+Fónico: Invoca una niebla helada que cristaliza
+al enemigo.
+
+-> Salpicadura
+Medio: Provoca unas poderosas explosiones de agua.
+
+-> Carámbanos
+Fónico: Invoca una lluvia de hojas de hielo que
+caen en una amplia zona.
+
+-> Gotas benditas
+Alto: Burbujas de agua explotan bajo los pies del
+enemigo seleccionado.
+
+-> Sable divino
+Fónico: Un rayo sagrado perfora al enemigo.
+
+-> Llama explosiva
+Medio: Crea una pequeña explosión de fuego que daña
+al enemigo seleccionado.
+
+-> Explosión
+Fónico: Crea una gran explosión que engulle la zona
+que rodea al enemigo seleccionado.
+
+-> Prisión infernal
+Alto: Rodea al enemigo seleccionado con pilares de fuego.
+
+-> Niebla ardiente
+Fónico: Invoca una niebla candente que viene de
+la tierra carbonizada.
+
+-> Turbulencia
+Medio: Haz volar al enemigo con violentas ráfagas
+de viento.
+
+-> Tornado ardiente
+Fónico: Rodea al enemigo seleccionado con un tornado de fuego.
+
+-> Espada del trueno
+Alto: Haz salir rayos de tu espada para atacar al
+enemigo.
+
+-> Pozo gravitatorio
+Fónico: Crea un campo gravitatorio deformado
+alrededor del enemigo.
+
+-> Prisma de espadas
+Alto: Una espada bañada en luz cae en picado desde
+los cielos.
+
+-> Absoluto
+Alto: Congela al enemigo con un aire muy frío.
+
+-> Meteoritos
+Alto: Invoca estrellas fugaces de los lugares más
+recónditos del universo.
+
+-> Furia final
+
+-> Luna moribunda
+
+-> Noche de fiesta
+
+-> Ola de dragón
+Base: Lanza al enemigo hacia el cielo con un poderoso
+puñetazo.
+
+-> Ascensión de dragón
+Arte: Corte devastador que hace volar la tierra junto
+al enemigo.
+
+-> Castigo doble
+Base: Un puñetazo giratorio.
+
+-> Castigo eléctrico
+Arte: Un poderoso ataque giratorio que invoca una
+tormenta eléctrica.
+
+-> Asalto oscuro
+Base: Una serie de feroces puñetazos.
+
+-> Fuego del dragón
+Arte: Una serie de llameantes puñetazos con el poder
+de un dragón de fuego.
+
+-> Picado de águila
+Base: Salta al aire y cae en picado para dar
+un golpe aplastante al enemigo.
+
+-> Ave glacial
+Arte: Conviértete en un bloque de hielo y lánzate
+sobre el enemigo.
+
+-> Ascenso explosivo
+Arcano: Salta y lanza un estallido de energía
+hacia el suelo.
+
+-> Torrente brutal
+Arte: Invoca un chorro de agua de la tierra.
+
+-> Disparo de ciclón
+Arcano: Un fuerte ataque giratorio que hace volar
+al enemigo.
+
+-> Ciclón ardiente
+Arte: Lánzate hacia el enemigo como un feroz misil.
+
+-> Rompeolas
+Arcano: Una serie de golpes y artes fónicas.
+
+-> Gungnir
+Arte: Una combinación de ataques que culminan en un
+brutal puñetazo.
+
+-> Guardián
+Arcano: Aumenta la defensa contra ciertos ataques.
+
+-> Castigo de dragón
+Arcano: Combinación de Castigo doble y Ola de dragón.
+
+-> Castigo oscuro
+Arcano: Combinación de Castigo doble y Asalto oscuro.
+
+-> Tempestad oscura
+Arcano: Combinación de Asalto oscuro y Ola de dragón.
+
+-> Portal negativo
+Medio: Crea un vacío oscuro que sella el movimiento
+del enemigo.
+
+-> Disturbio carmesí
+Fónico: Convierte al enemigo en cenizas con una
+bola de fuego gigante.
+
+-> Aullido maldito
+Alto: Grita una maldición para destrozar al enemigo.
+
+-> Vorágine
+Fónico: Invoca una violenta cascada que envuelve al
+enemigo seleccionado.
+
+-> Limitado
+Medio: Deja caer un brillante pilar de luz encima del
+enemigo seleccionado.
+
+-> Onda chispeante
+Fónico: Carga la atmósfera y electrifica al enemigo.
+
+-> Martillo milagroso
+Alto: Haz que el enemigo pierda el sentido con la
+caída de un martillo mortal.
+
+-> Roca montañosa
+Fónico: Pulveriza al enemigo con la caída de una roca.
+
+-> Suerte
+Base: Tira los dados y ataca al enemigo.
+Anima a Anise y aumenta tu suerte.
+
+-> Luz feliz
+Arte: Dispersa felicidad por los alrededores. Aumenta
+la suerte y habilidades de los aliados que te rodean.
+
+-> Carga poderosa
+Base: Aumenta temporalmente la cantidad de daño que
+el enemigo recibe de tus combos.
+
+-> Circuito poderoso
+Arte: Aumenta temporalmente el daño que el enemigo
+recibe de tus combos y de los de tus aliados cercanos.
+
+-> Fénix devastador
+
+-> Noble ilustre
+
+-> Colmillo demoníaco
+Base: Desata una poderosa onda por el suelo.
+
+-> Torrente infernal
+Arte: Despide una onda feroz hacia el enemigo.
+
+-> Tajo creciente
+Base: Dibuja una luna con un corte, y luego pártela por
+la mitad.
+
+-> Luna glacial
+Arte: Crea una luna congelada y hazla añicos con
+un corte con tu espada.
+
+-> Vacío tempestuoso
+Base: Ataque giratorio con la espada que crea un
+poderoso vacío.
+
+-> Tormenta de dragón
+Arte: Ataque giratorio que crea múltiples
+vacíos.
+
+-> Tajo del tigre
+Base: Un corte doble.
+
+-> Furia de Wyrm
+Arte: Golpea el suelo y desata el poder de un
+antiguo dragón.
+
+-> Centrar
+Base: Absorbe partículas de energía de la atmósfera
+para recuperar una pequeña cantidad de HP.
+
+-> Concentración
+Arte: Concéntrate y aumenta temporalmente tu defensa física.
+
+-> Bestia
+Arcano: Controla el poder de una bestia para
+desgarrar al enemigo.
+
+-> Bestia del trueno
+Arte: Paraliza al enemigo con el grito de un león
+y ataca con electricidad.
+
+-> Viento cortante
+Arcano: Un tornado creado con un ataque giratorio
+daña al enemigo.
+
+-> Vendaval candente
+Arte: Ataque giratorio feroz que genera un tornado
+mortal de llamas.
+
+-> Lluvia alfa
+Arcano: Corta al enemigo con una serie rápida de
+estocadas.
+
+-> Seísmo eterno
+Arte: Rompe una roca a estocadas y lanza
+los fragmentos hacia el enemigo.
+
+-> Cruz final
+Arcano: Esculpe una cruz en el suelo con ondas.
+
+-> Glaciar final
+Arte: Haz pedazos los cristales de hielo y 
+lánzalos hacia el enemigo.
+
+-> Guardián
+Arcano: Aumenta la defensa contra ciertos ataques.
+
+-> Demonio lunar
+Arcano: Combinación de Colmillo demoníaco y Tajo
+creciente.
+
+-> Vacío demoníaco
+Arcano: Combinación de Colmillo demoníaco y Vacío
+tempestuoso.
+
+-> Tigre demoníaco
+Arcano: Combinación de Colmillo demoníaco y Tajo
+del tigre.
+
+-> Tempestad lunar
+Arcano: Combinación de Tajo creciente y Vacío
+tempestuoso.
+
+-> Tajo del tigre blanco
+Arcano: Combinación de Tajo creciente y Tajo del Tigre.
+
+-> Tempestad nihilista
+Arcano: Combinación de Tajo felino y Vacío tempestuoso.
+
+-> Tempestad
+Base: Ataque giratorio que atraviesa el
+campo de batalla.
+
+-> Lanza voladora
+Arcano: Un cruel ataque giratorio que lanza al
+enemigo por los aires y luego lo corta.
+
+-> 
+
+-> Rugido noble
+ 
+-> Lluvia astral
+
+-> Línea perforadora
+Base: Dispara una flecha que perfora al objetivo.
+
+-> Línea voltaica
+Arte: Perfora al enemigo con una flecha cargada
+de electricidad.
+
+-> Filo tempestuoso
+Base: Dispara múltiples flechas a la vez.
+
+-> Filo explosivo
+Arte: Dispara al enemigo una ráfaga de
+flechas en llamas.
+
+-> Láser aéreo
+Base: Lanza al enemigo por los aires con tu arco
+y sigue con un ataque con flechas.
+
+-> Láser astral
+Arte: Lanza al enemigo por los aires con tu arco
+y carga un ataque mortal de flechas.
+
+-> Temblor estelar
+Arcano: Salta y dispara múltiples flechas al enemigo.
+
+-> Golpe sísmico
+Arte: Salta y dispara flechas hacia la tierra para
+provocar un poderoso seísmo.
+
+-> Abrazo estelar
+Arcano: Bombardea al enemigo con una lluvia de
+flechas.
+
+-> Abrazo azul
+Arte: Dispara una flecha a los cielos para invocar
+una embestida de cuchillas de hielo.
+
+-> Asalto Cronos
+
+-> Asalto imperial
+
+-> Curar
+Medio: Devuelve una cantidad moderada de HP a un aliado.
+
+-> Viento curativo
+Fónico: Usa el poder del viento para devolver una cantidad
+moderada de HP a los aliados dentro de cierto perímetro.
+
+-> Sanar
+Alto: Devuelve gran parte del HP de un aliado.
+
+-> Restaurar
+Fónico: Devuelve todo el HP de un aliado. También
+cura los estados alterados físicos y mágicos.
+
+-> Revivir
+Alto: Revive automáticamente a un aliado cuando
+cae en batalla.
+
+-> Aliento de ángel
+Fónico: Automáticamente revive, devuelve todo el HP y cura 
+los estados alterados de los aliados en cierto perímetro.
+
+-> Barrera
+Medio: Aumenta temporalmente la defensa física de
+un aliado.
+
+-> Protección acuática
+Fónico: Aumenta la defensa física de un aliado.
+Tiene efecto hasta que el aliado queda fuera de combate.
+
+-> Audacia
+Medio: Aumenta temporalmente el ataque físico de
+un aliado.
+
+-> Lanzallamas
+Fónico: Aumenta el ataque físico de un aliado.
+Tiene efecto hasta que el aliado queda fuera de combate.
+
+-> Resistir
+Medio: Aumenta temporalmente la defensa fónica de
+un aliado.
+
+-> Antimagia
+Fónico: Aumenta la defensa fónica de un aliado.
+Tiene efecto hasta que el aliado queda fuera de combate.
+
+-> Recuperar
+Medio: Cura los estados alterados mágicos y físicos
+de un aliado.
+
+-> Purificar
+Fónico: Cura los estados alterados tanto mágicos como
+físicos de todos los aliados dentro de cierto perímetro.
+
+-> Disparo aterrador
+Medio: Disminuye la defensa física del enemigo seleccionado.
+
+-> Maldición calamitosa
+Fónico: Disminuye el ataque físico y la defensa de todos
+los enemigos dentro de cierto perímetro.
+
+-> Calvario
+Base: Evita temporalmente que contraataquen a Natalia.
+
+-> Falange
+Arte: Evita temporalmente que contraataquen a Natalia.
+Dura más que Calvario.
+
+-> 
+
+-> Descarga galante
+Arcano: Una descarga de ataques con flechas, la primera
+desplegada y la segunda concentrada.
+
+-> Fuerza curativa
+Alto: Recupera gradualmente el HP de todos los aliados
+dentro de cierto perímetro durante un tiempo limitado.
+
+-> Detener el tiempo
+
+-> X-BUSTER
+Base: Dispara un poderoso láser del estómago de
+Tokunaga. Sólo puede usarse una vez por batalla.
+
+-> Martillo
+Base: Lanza múltiples martillos al enemigo.
+A veces, deja al enemigo inconsciente.
+
+-> Lluvia ácida
+
+-> Aliento demoníaco
+Arcana: Canaliza energía en ambas manos y ataca para
+hacer volar al enemigo por los aires.
+
+-> Cabezazo
+Base: Golpea al enemigo con un fuerte ataque de cabeza.
+
+-> Luz malvada
+ 
+-> Ojo inspector
+Base: Comprueba los parámetros de un enemigo.
+Tiene el mismo efecto que una Lupa mágica.
+
+-> Tormenta de azufre
+
+-> 
+ 
+-> Ballet prismático
+ 
+-> Resurrección
+Alto: Revive a un aliado caído.
+
+-> Sable divino
+Alto: Un rayo sagrado que perfora al enemigo.
+
+-> Luz malvada
+ 
+-> Tormenta de azufre
+
+-> Ballet prismático
+
+-> Vendaval angustioso
+
+-> Tormento akáshico
+
+-> Tormento akáshico
+
+-> 
+
+-> Big bang
+
+-> Big bang
+
+-> Tormento akáshico
+
+-> Gansos salvajes
+
+-> Vendaval angustioso
+
+-> 
+
+-> Estalagmita
+Medio: Rocas afiladas salen del suelo y atacan
+al enemigo seleccionado.
+
+-> Carámbanos
+Fónico: Invoca una ráfaga de hojas de hielo que
+caen por una amplia zona.
+
+-> Explosión
+Fónico: Crea una gran explosión que engulle la zona
+que rodea al enemigo seleccionado.
+
+-> Espada voltaica
+Alto: Despide rayos de tu espada para atacar
+al enemigo.
+
+-> Big bang
+
+-> Final fragmentado
+
+-> 
+
+-> Muro de aurora
+
+-> 
+
+-> Sable desgarrador
+
+-> Matanza imperial
+
+-> Elegía celestial
+
+-> Réquiem arcaico
+
+-> Gran himno fónico
+
+-> Bestia
+Arcano: Controla el poder de una bestia para
+desgarrar al enemigo.
+
+-> Trueno desolador
+
+-> Estallido infernal
+
+-> Big bang
+
+-> Gungnir
+
+-> Rompeolas
+Arcano: Una serie de golpes y artes fónicas.
+
+-> Penitencia sagrada
+
+-> Fénix ardiente
+
+-> Ion
+
+-> 
+
+-> Aullido radiante
+
+-> Resplandor inocente
+
+-> Jaula mística
+
+-> Sable desgarrador
+
+-> Arco de la fortuna
+
+-> Indignación
+ 
+

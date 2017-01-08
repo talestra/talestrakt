@@ -1,0 +1,396 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<04*>ROJO
+<04*>AZUL
+<04*>VERDE
+<04*>AMARILLO
+Has obtenido fonones rojos.
+Has obtenido fonones azules.
+Has obtenido fonones verdes.
+Has obtenido fonones amarillos.
+¿Volver a la Partitura?\nSí\nNo
+Hay una fila de luces.
+Selecciona un color para ponerlo\nempezando por la izquierda.
+Selecciona un color.
+<04*>Cancelar
+El sello fue destruido y\nse formó un ascensor de luz.
+No puedes colocar ese color.
+Coloca los fonones en las zonas\napagadas y completa la Partitura.
+No puedes volver mientras\nel grupo está dividido.
+El grupo se dividió.
+El grupo se reunió.
+Abramos la otra puerta también.
+Esperemos a los otros.
+Los grupos de Guy y Jade\nse unieron al grupo.
+Esperemos al grupo de Luke.
+Debería esperar hasta que nos reunamos.
+Debería esperar hasta que nos reunamos.
+También debería abrir la otra puerta.
+También debería abrir la otra puerta.
+También debería abrir la otra puerta.
+También debería abrir la otra puerta.
+Parece que hemos llegado los primeros.\nEsperemos a los demás.
+Parece que hemos llegado los primeros.\nEsperemos a los demás.
+Parece que hemos llegado los primeros.\nEsperemos a los demás.
+Parece que hemos llegado los primeros.\nEsperemos a los demás.
+Esperemos al grupo de Luke.
+Esperemos al grupo de Luke.
+Esperemos al grupo de Luke.
+Esperemos al grupo de Luke.
+¿Cambiar de grupo?\nCambiar al de Guy\nCambiar al de Jade\nCancelar
+¿Cambiar de grupo?\nCambiar al de Luke\nCambiar al de Jade\nCancelar
+¿Cambiar de grupo?\nCambiar al de Luke\nCambiar al de Guy\nCancelar
+¿Cambiar de grupo?\nCambiar al de Luke\nCancelar
+¿Cambiar de grupo?\nCambiar al de Guy\nCancelar
+¿Cambiar de grupo?\nCambiar al de Jade\nCancelar
+El grupo se dividió.
+El grupo se reunió.
+Los grupos de Guy y Jade\nse unieron al grupo.
+<SPEECH*>¡Siento una gran cantidad de fonones!
+<SPEECH*>El Portal de la Absorción es uno\nde los sephiroth más grandes. Es parte\nde lo que crea la Tormenta Planetaria.
+<SPEECH*>¿Te vas a quedar aquí sola, Noelle?\n¿No te da miedo estar sola siempre?
+<SPEECH*>Gracias por preocuparte,\npero estoy bien.<PAGE>\n<SPEECH*>Yo me quedaré aquí y rezaré para que\nestéis a salvo. ¡Por favor, tened cuidado!
+<SPEECH*>Gracias.\n¡Te veremos cuando volvamos!
+<SPEECH*>Oh, ¿esto es el Portal de la Absorción?
+<SPEECH*>La Tormenta Planetaria es absorbida...\n¿Qué son estas cosas que brillan?
+<SPEECH*>Partículas de memoria.\nQué bonito, es como nieve que cae...
+<SPEECH*>¡¿Pero qué...?!
+<SPEECH*>Guau... ha faltado un pelo...
+<SPEECH*>Las Tierras Exteriores\ndeben de estar al límite.
+<SPEECH*>Deprisa...\nNo podemos dejar que el mundo acabe.
+<SPEECH*>¡Éste sí que es grande!
+<SPEECH*>¡Cuidado, el suelo...!
+<SPEECH*>¡Aah!
+<SPEECH*>¡Uaah!
+<SPEECH*>Tear, ¿estás bien?
+<SPEECH*>Sí, eso creo...\n¿Y los demás?
+<SPEECH*>Nos hemos separado.\nEspero que estén bien...
+<SPEECH*>De quién más me podría preocupar\nestá a salvo. Estoy segura de que\nlos demás están bien.
+<SPEECH*>Hey...
+<SPEECH*>Je je... Perdón.<PAGE>\n<SPEECH*>Oh...
+<SPEECH*>Estás sangrando.
+<SPEECH*>¡Tear tiene razón!\n¡Debemos hacer algo!
+<SPEECH*>Espera.\nYo te sanaré...
+<SPEECH*>¡No hace falta!\n¡Se curará por sí solo!
+<SPEECH*>¿Por qué estás tan enfadado?
+<SPEECH*>¡No estoy cabreado!\nE-En cualquier caso, vamos a seguir.\nQuizá podamos juntarnos con los otros.
+<SPEECH*>V-Vale. De acuerdo.
+<SPEECH*>¡Estás bien!
+<SPEECH*>¡Claro que sí! ¿Y vosotros qué? \nHabéis tardado tanto, que estábamos\nempezando a preocuparnos.
+<SPEECH*>Lo siento.
+<SPEECH*>Hemos estado esperándoos.\nTenemos algo importante\nde lo que hablar.
+<SPEECH*>¿Qué ocurre?\nEstás muy serio.
+<SPEECH*>El anillo de tránsito está ahí delante.
+<SPEECH*>Eso significa que el maestro\nVan también está ahí.
+<SPEECH*>El Coronel dice que debemos hacer \ndescender las Tierras Exteriores tan \npronto como derrotemos al Comandante.
+<SPEECH*>No hay tiempo, ¿eh?
+<SPEECH*>Incluso con el Albiore, tardaríamos\nmucho en llegar al Portal de la\nRadiación desde aquí.<PAGE>\n<SPEECH*>Las Tierras Exteriores caerían\nmientras vamos hacia allí.
+<SPEECH*>¿Pero cómo las hacemos descender\nsin activar el Portal de la Radiación?
+<SPEECH*>Escribimos "Redireccionar las\nórdenes del Portal de la Radiación\nal Portal de la Absorción".<PAGE>\n<SPEECH*>En teoría, eso es posible\nya que los anillos de\ntránsito están conectados.<PAGE>\n<SPEECH*>Aunque es un método algo chapucero.
+<SPEECH*>¿Y después qué?\n¿Ya está?
+<SPEECH*>Enviaremos los séptimos fonones al\nsephiroth del Portal de la Absorción. \nÉsa será la señal para comenzar el descenso.<PAGE>\n<SPEECH*>Pero el séptimo fonón deberá\nprovenir del que dio la orden... \nDe ti, Luke.
+<SPEECH*>Muy bien. Lo haré.\nNo puedo fallar después de llegar tan lejos.
+<SPEECH*>Muy bien pues, ¿continuamos?\n¿Está todo el mundo listo?
+<SPEECH*>Yo sí. \n¿Y vosotros qué?
+<SPEECH*>Por supuesto. \nVoy a detener a mi h... Van.
+<SPEECH*>Después de todo, yo era el amo de Van.<PAGE>\n<SPEECH*>Un amo tiene que enmendar los\nerrores de su sirviente.
+<SPEECH*>Detendré el plan de Van. \nSalvaré el mundo pase lo que pase.
+<SPEECH*>He de poner al Comandante\nbajo control, o nunca podré\ncasarme con alguien rico.
+<SPEECH*>¡Vaya, vaya, cuánta pasión! \n¡Cuánto fervor!
+<SPEECH*>Pero tú eres igual que siempre.
+<SPEECH*>En efecto. Me temo que ese\ntipo de frases no me van.
+<SPEECH*>Cierto.
+<SPEECH*>De acuerdo. ¡Vamos allá!
+<SPEECH*>Sí, no hemos activado el Portal.
+<SPEECH*>¿Por qué estás aquí?...
+<SPEECH*>Era Asch, el original, quien\ntenía que venir para crear\nun nuevo orden junto a mí.
+<SPEECH*>¡No te interpongas\nen mi camino, réplica!
+<SPEECH*>Entonces...
+<SPEECH*>¡¿Por qué me creaste?!\n¡¿Quién soy?! ¡¿Por qué nací?!
+<SPEECH*>¿Acaso no puedes vivir sin\nhaber nacido con un propósito?
+<SPEECH*>Es por eso por lo que no\neres más que una réplica.<PAGE>\n<SPEECH*>Pobre y lamentable réplica. Naciste\ncomo un peón desechable, un sustituto\npara volcar la Partitura de Yulia.<PAGE>\n<SPEECH*>Eso es todo.
+<SPEECH*>Maestro...\n¿Realmente es eso todo lo que soy?<PAGE>\n<SPEECH*>Mi existencia hizo que la Partitura\nse fuera al traste, ¿verdad?
+<SPEECH*>Un insignificante desvío como tú no\nes nada ante la Partitura de Yulia.<PAGE>\n<SPEECH*>Aunque cambien sus hojas, la verdadera\nesencia del árbol se mantiene.
+<SPEECH*>La Partitura es una droga.<PAGE>\n<SPEECH*>"Si caminas hacia el este,\ndescubrirás grandes riquezas".<PAGE>\n<SPEECH*>Si esa lectura se hiciera realidad,\ntambién querrías creer la siguiente.<PAGE>\n<SPEECH*>En el transcurso de 2000 años,\nYulia ha hecho que la humanidad\nse vuelva adicta a la Partitura.
+<SPEECH*>Se necesita una poderosa medicina para\nremediar 2000 años de distorsión.
+<SPEECH*>¿Y tu mundo de réplicas es esa medicina?\nTienes bastante imaginación.
+<SPEECH*>Je... Imaginación.\nSí, quizá podríamos llamarlo así.
+<SPEECH*>Es cierto que este mundo es retorcido\ny que está dirigido por la Partitura.
+<SPEECH*>Pero un mundo de réplicas no\nes una idea menos retorcida.
+<SPEECH*>Exactamente. Si no cesas\nesta terrible empresa,\nharás sufrir a Tear...
+<SPEECH*>¡Es tu hermana!\n¡¿De verdad vas a luchar contra ella?!
+<SPEECH*>Mystearica.\nEs desafortunado, desde luego.<PAGE>\n<SPEECH*>Si hubieras permanecido en Ciudad de Yulia...<PAGE>\n<SPEECH*>Al menos podría haberte evitado esto.
+<SPEECH*>Estás intentando crear un \nmundo de réplicas, ¿verdad?<PAGE>\n<SPEECH*>En ese caso, mátame y crea una.
+<SPEECH*>¿Insistes en enfrentarte a mí?
+<SPEECH*>Sí... Ésa es la razón por la que\nvine a las Tierras Exteriores.
+<SPEECH*>Maestro...
+<SPEECH*>¡No... Van!
+<SPEECH*>Incluso aunque te niegues a reconocerme...\nYo...
+<SPEECH*>Yo soy yo...
+<SPEECH*>Balbuceos sin sentido...
+<SPEECH*>¡Muere!
+<SPEECH*>¿Luke? \n¿Qué pasa?
+<SPEECH*>Lorelei...
+<SPEECH*>No, no es nada importante ahora...\nTenemos que decirle a todo el mundo\nque ha funcionado.
+<SPEECH*>Sí. Ion, Noelle y Padre... \nSeguro que todos están preocupados\npor nosotros.
+<SPEECH*>Van...
+<SPEECH*>Tear...
+<SPEECH*>Lo siento. Luke...
+<SPEECH*>Me alegra que hiciéramos lo que hicimos.
+<SPEECH*>De acuerdo.\n¡Volvamos a casa, chicos!\n¡A nuestro mundo!
+<SPEECH*>(Asch... Gracias...)
+¿Este balancín se va\na quedar inclinado así?
+Mientras ese peso esté ahí,\nsupongo que sí...<PAGE>\nMmm...\n¿Y si rompemos ese peso?
+<SPEECH*>La Tormenta Planetaria... \nVamos a detenerla.
+<SPEECH*>Coronel, ¿cómo lo hacemos?
+<SPEECH*>Vamos al punto de absorción\nque está abajo del todo.<PAGE>\n<SPEECH*>Allí debería haber un glifo fónico\ncontrolando la Tormenta Planetaria.
+<SPEECH*>Debajo del anillo de tránsito.
+<SPEECH*>Está bien.

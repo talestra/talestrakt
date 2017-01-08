@@ -1,0 +1,50 @@
+005BB380:'Confirmar'
+005BB390:'Volver'
+
+005BB430:'¡DATOS\nCORRUPTOS!'
+
+// Carga
+005BB590:'Comprobando memory card (PS2) en\nla ranura 1. No quites la memory\ncard (PS2), el mando, ni reinicies\no apagues la consola.'
+005BB610:'¿Cargar el archivo seleccionado?\nSí\nNo'
+005BB630:'Los datos están corruptos y no se pueden usar.'
+
+// Guardado
+005BB660:'¿Crear un archivo nuevo?\nSí\nNo'
+005BB680:'No hay suficiente espacio libre en la\nmemory card (PS2) de la ranura 1.\nSe necesitan al menos %s de espacio\nlibre para guardar los datos.\n'
+005BB700:'¿Sobrescribir archivo?\nSí\nNo'
+005BB720:'Sólo se guardaron los datos del juego.\n'
+
+// General
+005BB740:'¿Cancelar guardado?\nSí\nNo'
+005BB760:'¿Cancelar carga?\nSí\nNo'
+005BB780:'Guardando datos del sistema. No quites\nla memory card (PS2), el mando, ni\nreinicies o apagues la consola.'
+005BB7E8:'¡Guardado completado!'
+005BB7F8:'¡Carga completada!'
+005BB810:'¡Error al guardar los datos del juego!'
+005BB830:'¡Error al guardar los datos del sistema!'
+005BB850:'No hay suficiente espacio libre en la\nmemory card (PS2) de la ranura 1.\nSe necesitan al menos %s de espacio\nlibre para guardar los datos del sistema.\n'
+005BB8D0:'¡Error al cargar!'
+005BB910:'Guardando datos del juego. No quites\nla memory card (PS2), el mando, ni\nreinicies o apagues la consola.'
+005BB970:'Cargando datos. No quites la\nmemory card (PS2), el mando, ni\nreinicies o apagues la consola.'
+005BB9D0:'¡Error al formatear!'
+005BB9E0:'¡Formateo completado!'
+005BBA00:'Formateando memory card (PS2)\nde la ranura 1. No quites la\nmemory card (PS2), el mando,\nni apagues o reinicies la consola.'
+005BBA90:'Memory card (PS2) sin formatear\nen la ranura 1.\n\n¿Quieres formatearla?\nSí\nNo'
+005BBAF0:'No se encontraron datos de Tales of the Abyss.'
+005BBB20:'No hay memory card (PS2)\nen la ranura 1. '
+005BBB50:'¡Error al comprobar\nla memory card (PS2)!'
+005BBB80:'No hay suficiente espacio libre en la memory\ncard (PS2) de la ranura 1. Se necesita\nuna memory card (PS2) con la siguiente\ncantidad de espacio libre para guardar\nlos datos de Tales of the Abyss:\n\nDatos del sistema: %s o más\nDatos del juego: %s o más por cada archivo\n\n'
+005BBCC0:'Tiempo total jugado\nGald max.\nMax. Núm. de golpes\n\nGuardando datos del juego. No quites la memory\ncard (8M) (para Playstation2), el mando, ni\nreinicies o apagues la consola.\n\nCambia la velocidad en la que aparecen los mensajes.\nCuanto mayor es el número, más lentos aparecerán.\n0 muestra el mensaje entero de golpe.'
+
+// Nuevo juego/Inicio
+005BF690:'Comprobando memory card (PS2) en\nla ranura 1. No quites la memory\ncard (PS2), el mando, ni reinicies\no apagues la consola.'
+005BF710:'Cargando datos del sistema. No quites\nla memory card (PS2), el mando, ni\nreinicies o apagues la consola.'
+005BF780:'¿Empezar de todas formas?\nSí\nNo'
+005BF7A0:'Los datos del sistema están corruptos y no se pueden cargar.\n¡Error al cargar!'
+005BF7E0:'¡Error al cargar los datos del sistema!'
+005BF800:'¡Carga de los datos del sistema completada!'
+005BF820:'No hay memory card (PS2) en la ranura 1.\nSe necesita una memory card (PS2) con la\nsiguiente cantidad de espacio libre para\nguardar los datos del Tales of the Abyss:\n\nDatos del sistema: %s o más\nDatos del juego: %s o más por cada archivo\n\n¿Empezar de todas formas?\nSí\nNo'
+005BF910:'¡Error al comprobar la\nMemory card (PS2)!'
+005BF940:'Espacio libre insuficiente en la\nmemory card (PS2) de la ranura 1.\nSe necesitan al menos %s de espacio\nlibre para guardar los datos.\n\n¿Empezar de todas formas?\nSí\nNo'
+005BF9E0:'Espacio libre insuficiente en la\nmemory card (PS2) de la ranura 1.\nSe necesitan al menos %s de espacio\nlibre para guardar los datos del sistema.\n\n¿Empezar de todas formas?\nSí\nNo'
+005BFA80:'Espacio libre insuficiente en la memory\ncard (PS2) de la ranura 1. Se necesita\nuna memory card (PS2) con la siguiente\ncantidad de espacio libre para guardar\nlos datos del Tales of the Abyss:\n\nDatos del sistema: %s o más\nDatos del juego: %s o más por cada archivo\n\n¿Empezar de todas formas?\nSí\nNo'

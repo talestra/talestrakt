@@ -1,0 +1,42 @@
+// Mensaje de error cuando no se puede quitar equipo
+005B9070:'Este equipo no se puede quitar.'
+
+// Categorías para colocar equipo
+005B90F0:'ARMA'
+005B90F8:'CUERPO'
+005B9100:'MANO'
+005B9108:'OTROS'
+
+// Leyenda
+005B9170:'Info'
+005B9180:'Quitar'
+005B9190:'Confirmar'
+005B91A0:'Volver'
+005B91B0:'Ordenar'
+005B91B8:'Equipo óptimo'
+
+// Ancho de CUERPO (0x0E)
+$$:00541B3C:ushort:0x0D
+
+// Ancho de nombre de objeto [I] [II] (0x10)
+$$:003514BC:ushort:0x0E
+$$:003510B4:ushort:0x0E
+
+// Ancho de nombre de objeto derecha (0x12)
+$$:00351DC0:ushort:0x11
+
+// TEST (0x10)
+//$$:00352F74:ushort:0x01
+//$$:00353238:ushort:0x01
+
+//$$:00353284:ushort:0x01
+//$$:00353448:ushort:0x01
+//$$:00353494:ushort:0x01
+
+//$$:0055F76C:ushort:0x11
+
+//$$:00343E54:ushort:0x01
+//$$:00343F1C:ushort:0x01
+//$$:003506B4:ushort:0x01
+//$$:0035072C:ushort:0x01
+//$$:003507DC:ushort:0x01

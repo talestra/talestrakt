@@ -1,0 +1,204 @@
+# B:BASE              - Base
+# R:FROM-TO           - Rango
+# T:POINTER:TEXTO     - Texto (puntero 32 bits)
+# F:POINTER:MAX:TEXTO - Texto (fijo)
+# C:LUI:ADD:TEXTO     - Texto (código)
+
+B:64B880
+
+F:006C5580:10:Derrota total
+F:006C5590:08:Escapar
+R:006C5598-006C55A8
+C:0064DDFC:0064DE0C:Selecciona Objetivo
+F:006C55C8:10:-Aprendido-
+F:006C55D8:10:-Arte místico-
+F:006C55E8:10:-Límite-
+F:006C55E8:10:-Límite-
+F:006C55F8:10:Arte divino
+F:006C5608:10:-Arte místico-
+F:006C5618:10:-Aprendido-
+F:006C5628:10:-Cambio de CDF-
+F:006C5638:10:-Arte fónico-
+
+R:006C56D0-006C57B0
+
+##
+
+T:006C57B0:Golpe
+T:006C57B4:Critico
+
+T:006C57BC:Efecto de
+T:006C57C0:Estado
+
+T:006C57C8:Obtenido
+T:006C57CC:Objeto
+
+##
+
+T:006C57D0:Subido
+T:006C57D4:Nivel
+
+T:006C57DC:Efecto
+T:006C57E0:AD
+
+T:006C57E8:Estado
+T:006C57EC:Subido
+
+##
+
+T:006C57E0:Estado
+T:006C57E4:Bajado
+
+T:006C57EC:Nueva
+T:006C57F0:Habilidad AD
+
+T:006C57F8:Efecto
+T:006C57FC:Magico
+
+##
+
+T:006C5800:Estado
+T:006C5804:Fallado
+
+T:006C580C:Subido
+T:006C5810:Ataque F.
+
+T:006C5818:Bajado
+T:006C581C:Ataque F.
+
+##
+
+T:006C5810:Subida
+T:006C5814:Defensa F.
+
+T:006C581C:Bajada
+T:006C5820:Defensa F.
+
+T:006C5828:Subido
+T:006C582C:Ataque M.
+
+##
+
+T:006C5830:Bajado
+T:006C5834:Ataque M.
+
+T:006C583C:Subida
+T:006C5840:Defensa M.
+
+T:006C5848:Bajada
+T:006C584C:Defensa M.
+
+##
+
+T:006C5850:Estado
+T:006C5854:Recuperado
+
+T:006C585C:Efecto de
+T:006C5860:Objeto
+
+T:006C5868:Limitador
+T:006C586C:de Guardia
+
+##
+
+T:006C5860:Bajado
+T:006C5864:Especial
+
+T:006C586C:Efecto
+T:006C5870:de CDF
+
+T:006C5878:Golpe
+T:006C587C:Invalido
+
+##
+
+
+R:006C5660-006C5680
+
+F:006C5900:10:ENCUENTRO
+F:006C5910:10:SORPRESA
+F:006C5950:08:PAUSA
+F:006C5958:08:%s J%d
+C:00670640:0067064C:OBJETIVO
+C:0067066C:0067067C:OBJETIVO
+F:006C5970:08:OBJETO.
+R:006C5978-006C597F
+C:006709B4:006709C4:HABILIDAD.
+
+F:006C5AA8:08:J%d
+
+C:00681944:00681950:Selecciona Objetivo
+C:00681D30:00681D3C:Selecciona Objetivo
+C:00682730:00682740:Opciones de Zoom
+
+R:006C5B00-006C5B40
+
+R:006C5D80-006C5E58
+
+R:006C6140-006C6170
+T:006C2410:EXPERIENCIA
+T:006C2414:BONUS
+T:006C2418:GOLPES MAX.
+T:006C241C:GALD
+T:006C2420:TIEMPO
+T:006C2424:GRADO
+
+F:006C61F0:08:Otros
+F:006C6220:10: fue cocinado
+
+F:006C6260:10:____ Grado ____
+F:006C6270:20:Terminado en 20s o menos
+F:006C6290:20:Bonus de dificultad x 1.25
+F:006C62B0:20:Bonus de dificultad x 1.5
+F:006C62D0:20:Bonus de dificultad x 2.0
+F:006C62F8:10:Jefe derrotado
+F:006C6310:20:Terminado en 10s o menos
+F:006C6330:18:# golpes finales
+F:006C6348:18:Daño recibido
+F:006C6360:10:Impunidad
+
+
+
+F:006C6430:20:Arte místico usado
+F:006C6450:20:Objeto de recuperación usado
+F:006C6470:20:HP máx. a final de batalla
+
+
+R:006C64F0-006C6500
+C:006962F8:00696300:%s aprendió "%s"
+F:006C6500:10:Aprendiste %s.
+F:006C6510:20:%s aprendió la Hab. AD "%s"
+F:006C6530:20:Aprendiste la Hab. AD %s.
+F:006C6550:18:Nivel aumentado a %d.
+F:006C6568:10:Ganaste %d EXP.
+R:006C6578-006C6580
+C:00696BD0:00696BDC:Detalles
+F:006C6580:08:Cocina
+F:006C6588:18:Robaste %s
+
+F:006C6640:10:-Cambio de CDF-
+R:006C6650-006C665D
+C:0069B8EC:0069B8F8:Habilidad sagrada
+F:006C6660:10:-Arte arcano-
+F:006C6670:10:-Arma-
+R:006C6680-006C668D
+C:0069B950:0069B95C:Habilidad divina
+F:006C6690:10:-Arte místico-
+
+F:006C66C8:08:Atq Fis
+F:006C66D0:08:Def Fis
+F:006C66D8:08:Atq Mgc
+F:006C66E0:08:Def Mgc
+F:006C66E8:10:Debilidad
+F:006C66F8:10:Resistencia
+
+F:006C68E0:10:-Arte místico-
+F:006C68F0:18:-Gastaste 20000 gald-
+F:006C6908:18:-Arte místico-
+
+F:006C6B38:18:-Arte místico-
+
+F:006C6B70:20:-Energía absorbida-
+F:006C6B90:30:-Derrotado por un arte fónico de sombra-
+F:006C6BC0:30:-Derrotado por un arte fónico de luz-
+F:006C6BE8:18:Habilidad divina

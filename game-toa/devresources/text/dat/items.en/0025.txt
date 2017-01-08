@@ -1,0 +1,138 @@
+## POINTER 5010
+Spirit Bangle
+
+## POINTER 5011
+Restores 5% of Max TP for every 
+enemy defeated.
+
+## POINTER 5020
+Stun Bracelet
+
+## POINTER 5021
+A bracelet that reduces the duration 
+of Stun by 50%.
+
+## POINTER 5030
+Stun Talisman
+
+## POINTER 5031
+Prevents Stun.
+
+## POINTER 5040
+Tear's Pendant
+
+## POINTER 5041
+A memento of Tear's mother.
+A valuable accessory in its own right.
+
+## POINTER 5050
+World Charm
+
+## POINTER 5051
+Sometimes prevents Status Effects. 
+Also raises P.DEF & F.DEF.
+
+## POINTER 5060
+Sapphire Ring
+
+## POINTER 5061
+A ring with a star sapphire.
+Reduces TP consumption by 25%.
+
+## POINTER 5070
+Emerald Ring
+
+## POINTER 5071
+A ring with an emerald.
+Reduces TP consumption by 33%.
+
+## POINTER 5080
+Faerie Ring
+
+## POINTER 5081
+A ring engraved with a fairy. 
+Reduces TP consumption by 50%.
+
+## POINTER 5090
+Attack Ring
+
+## POINTER 5091
+A ring engraved with a sword.
+Raises both P.ATK & F.ATK during battle.
+
+## POINTER 5100
+Defense Ring
+
+## POINTER 5101
+A ring engraved with a shield.
+Raises both P.DEF & F.DEF during battle.
+
+## POINTER 5110
+Holy Ring
+
+## POINTER 5111
+Periodically restores 1% of wearer's 
+Max HP during battle.
+
+## POINTER 5120
+Spirit Ring
+
+## POINTER 5121
+Periodically restores 1% of wearer's 
+Max TP during battle.
+
+## POINTER 5130
+Protect Ring
+
+## POINTER 5131
+A ring engraved with a war god. 
+Reduces physical damage 10%.
+
+## POINTER 5140
+Force Ring
+
+## POINTER 5141
+A ring engraved with a war god. 
+Reduces physical damage 20%.
+
+## POINTER 5150
+Resist Ring
+
+## POINTER 5151
+A ring engraved with a goddess. 
+Reduces elemental damage 10%.
+
+## POINTER 5160
+Reflect Ring
+
+## POINTER 5161
+A ring engraved with a goddess. 
+Reduces elemental damage 20%.
+
+## POINTER 5170
+Effecti Ring
+
+## POINTER 5171
+A ring engraved with a devil.
+Reduces all damage 15%.
+
+## POINTER 5180
+Fonic Mark
+
+## POINTER 5181
+A crest engraved with fonic writing.
+Raises F.ATK by 10%.
+
+## POINTER 5190
+Fonic Symbol
+
+## POINTER 5191
+A crest engraved with fonic writing.
+Raises F.DEF by 10%.
+
+## POINTER 5200
+Holy Symbol
+
+## POINTER 5201
+A holy relic. 
+Periodically restores 3% of Max HP.

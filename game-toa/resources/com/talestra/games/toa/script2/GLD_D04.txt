@@ -1,0 +1,563 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>No vi nada que se pareciera\na un sephiroth la última\nvez que estuvimos aquí.
+<SPEECH*>Era de noche.\nQuizá no nos fijamos.
+<SPEECH*>¿Ohh? ¿De noche?\n¿En un sitio como éste?\n¿Los dos solos?
+<SPEECH*>¡Luke! \n¡Nunca me dijiste que tú y Tear \nteníais ese tipo de relación!
+<SPEECH*>¡E-Espera un minuto!\n¡¿Pero qué estáis diciendo?!<PAGE>\n<SPEECH*>No es lo que pensáis. Salimos disparados\nde la mansión de Baticul y...
+<SPEECH*>La idea misma es absurda.
+<SPEECH*>¿Qué estáis haciendo? \nVamos.
+<SPEECH*>Ahora me he enfadado...
+<SPEECH*>Dios, qué fría...
+<SPEECH*>Pues sí.
+<SPEECH*>Parece que te estás\ndivirtiendo, Coronel.
+<SPEECH*>Más de lo que te imaginas.
+<SPEECH*>Eres horrible...
+<SPEECH*>¡Guau, guau, guau!
+<SPEECH*>¿Qué pasa, Anise?
+<SPEECH*>¡Es una gorgona papilino\nazul legendaria!
+<SPEECH*>¡Cada una vale cuatro\nmillones de gald!
+<SPEECH*>Hey, Anise, te vas a caer.
+<SPEECH*>¡Por favor! \n¡Deja de tratarme como una cría!
+<SPEECH*>¡Aaagh!
+<SPEECH*>¡Anise!
+<SPEECH*>¡¿Guy?!
+<SPEECH*>¡Rrr!
+<SPEECH*>Tear, Guy... gracias.
+<SPEECH*>Si yo no he...\nPero, Guy, tú...
+<SPEECH*>No estaba asustado...
+<SPEECH*>¡Felicidades, Guy!
+<SPEECH*>¡Eso es genial!
+<SPEECH*>Estoy orgullosa de ti.<PAGE>\n<SPEECH*>A pesar de tu pasado, si no\nhubieras salvado a Anise, habría\nperdido todo mi respeto hacia ti.
+<SPEECH*>Sí... Me alegro mucho\nde que no te hayas hecho\ndaño por mi culpa, Anise.
+<SPEECH*>Ji ji, estoy conmovida. @
+<SPEECH*>Guy era un aristócrata de Malkuth.\nSeguramente tiene una fortuna\nahorrada en la tesorería imperial.
+<SPEECH*>¡Guy! @ \nPuedes pedir mi mano cuando quieras. @
+<SPEECH*>Creo que paso...
+No florecen durante el día, eh.
+Correcto.\nLos flores de selenia florecen por la noche.
+Este paisaje me recuerda\nun poco a mí mismo.
+Estoy en el mismo sitio que antes,\npero ya no soy el mismo que\nera entonces.
+¿Has crecido?...
+¿Eso crees?
+Sí.
+¡¿En serio?!
+Claro. En el cuerpo humano crecen\ncélulas nuevas todos los días.
+Era broma.\nVenga, vamos.
+¿Sabes? Empiezas a \nhablar como Jade.
+<SPEECH*>Hey, hay algo aquí. \n¿Es un monstruo?
+<SPEECH*>¡Mieuu! ¡Mieu mieu!
+<SPEECH*>Ese relincho...
+<SPEECH*>¡Es un unicero!
+<SPEECH*>¿El animal sagrado que aparecía en\nla antigua mitología ispaniense?
+<SPEECH*>¡Sí!\n¡Un unicero legendario!<PAGE>\n<SPEECH*>¡Si lo capturamos, podemos sacar por\nlo menos 50 millones de gald fácilmente!
+<SPEECH*>A los uniceros les gusta el aire limpio.\nSi llevas uno a una ciudad, posiblemente muera.
+<SPEECH*>Ohh...
+<SPEECH*>Parece que está sufriendo.
+<SPEECH*>¿Sufriendo? \n¿Por qué?
+<SPEECH*>¡Algo se acerca!
+<SPEECH*>¡Está detrás de nosotros!
+<SPEECH*>¡Uah! \n¡¿Son violentos los uniceros?!
+<SPEECH*>Qué va. Se supone \nque son muy amables. \n¡Nunca atacan a la gente!
+<SPEECH*>¡Aquí vuelve otra vez!
+<SPEECH*>Dejémosle inconsciente  \ny echemos un vistazo.
+<SPEECH*>Curaré sus heridas.
+<SPEECH*>¿Pero ahora qué hacemos?\nPuede que nos vuelva a atacar\nuna vez se despierte.
+<SPEECH*>Dejemos que Mieu hable con él.
+<SPEECH*>¡Sí, Amo!\n¡Lo intentaré!
+<SPEECH*>¡Mieu, mieu mieu mieuu!\n¡Mieu mieu!
+<SPEECH*>No le gusta el miasma.<PAGE>\n<SPEECH*>Un poco se le acercó, \nse enfadó y atacó\nsin pensar.
+<SPEECH*>Pero no hay miasma por aquí cerca.
+<SPEECH*>Dice que Tear tiene miasma\ndentro de su cuerpo.
+<SPEECH*>¿Sabes a qué se refiere?
+<SPEECH*>No...
+<SPEECH*>No lo pillo. ¿Quizá tiene que ver\ncon que Tear naciera en el Qliphoth?
+<SPEECH*>Oh, allá va.
+<SPEECH*>Justo ahora estaba agradeciendo \na Tear el que le curara.
+<SPEECH*>Oh...
+<SPEECH*>El unicero ha debido equivocarse.<PAGE>\n<SPEECH*>Una vez que se ha dado cuenta, \nle ha dado las gracias y se ha ido.
+<SPEECH*>Estarás contenta de que\nno te haya coceado, ¿eh, Tear?
+<SPEECH*>N-No me mires así.\nEra una broma.
+<SPEECH*>Voy a abrirlo.
+<SPEECH*>¿Estás bien, Ion?
+<SPEECH*>Sí... sólo estoy un poco cansado.
+<SPEECH*>Tear se pone igual cuando\nactiva los anillos de tránsito.<PAGE>\n<SPEECH*>Quizá sea un efecto secundario \nde la maquinaria y las artes fónicas \nde la Era del Amanecer.
+<SPEECH*>No lo creo...
+<SPEECH*>Ion, ¿quieres que descansemos aquí?
+<SPEECH*>No, vamos.
+<SPEECH*>No te fuerces, Ion.\nSi no te encuentras bien, dilo.
+<SPEECH*>Gracias, Luke.
+<SPEECH*>¡¿Ha caído otro sitio?!\nO es...
+<SPEECH*>Sí, puede que sea la inestabilidad del árbol\ndebido al descontrol de los sephiroth.
+<SPEECH*>Estos terremotos se\nhan vuelto más frecuentes.
+<SPEECH*>Me mareo cada vez que hay\nun terremoto. Me da la sensación de\nque estamos flotando en el aire.
+<SPEECH*>Espero que pronto podamos\nponer la tierra a salvo.
+<SPEECH*>No está reaccionando a la proximidad de Tear.\nEso debe significar...
+<SPEECH*>Es igual que en la colina de Shurrey.\nNo han quitado el sello yuliano.
+<SPEECH*>Supongo que tendremos que buscar.\nEs un rollo...
+<SPEECH*>El sello yuliano se ha abierto.\nAhora debería responder a Tear.
+<SPEECH*>Si esto pasa otra vez,\ndeberíamos comprobar los\nmecanismos de la zona.
+<SPEECH*>Mi hermano aún no ha estado aquí...
+<SPEECH*>¿Significa eso que cualquiera\nque pueda usar el séptimo\nfonón puede controlarlo?
+<SPEECH*>No, el panel de control está inactivo.<PAGE>\n<SPEECH*>Seguramente porque ignoramos el código\nde Van cuando usamos los anillos de tránsito\nde la colina de Shurrey y de las ruinas Zao.<PAGE>\n<SPEECH*>Los anillos de tránsito de otros\nlugares, conectados en paralelo,\nconsideraron a Luke un intruso.<PAGE>\n<SPEECH*>Así que ejecutaron un\ncierre de emergencia.
+<SPEECH*>¿Entonces no podemos controlarlo?
+<SPEECH*>Creo que funcionará si Luke\ninscribe las órdenes en él\ncon su hiperresonancia.
+<SPEECH*>Fuerza bruta, ¿eh?\nBueno, ¿qué tengo que hacer?
+<SPEECH*>Para medir la frecuencia\nde vibración, nada.<PAGE>\n<SPEECH*>Pero pensando en el futuro,\ndeberíamos preparar las cosas\npara hacer descender la tierra.
+<SPEECH*>¿Debería escribir algo?
+<SPEECH*>Dibuja una línea entre el cuarto sephiroth \ny mmm... el sexto sephiroth.<PAGE>\n<SPEECH*>Evita el quinto sephiroth. \nEs Akzeriuth. \nNo tiene sentido conectarlo.
+<SPEECH*>Conecta también el primer y el tercer sephiroth.
+<SPEECH*>Al lado del sexto sephiroth, escribe:\n"Descenso del árbol. Velocidad normal".
+<SPEECH*>Y luego: "Activar simultáneamente\ncon el descenso del primer sephiroth".
+<SPEECH*>¿Qué significa esto?
+<SPEECH*>Cuando hagamos descender el primer\nsephiroth, el Portal de la Radiación,<PAGE>\n<SPEECH*>este anillo de tránsito se activará\ny hará descender la tierra.
+<SPEECH*>Inscribiremos esa misma orden\nen todos los anillos de tránsito\nde las Tierras Exteriores.<PAGE>\n<SPEECH*>Entonces, daremos la\norden de descenso al\nPortal de la Radiación.
+<SPEECH*>Ya veo. Entonces, las Tierras Exteriores\nenteras descenderán a la vez.
+<SPEECH*>Muy bien.\nAhora, lo único que queda es la\nfrecuencia de vibración del núcleo.
+<SPEECH*>¿Cómo la vamos a medir, Coronel?
+<SPEECH*>Es fácil. Hay que poner el contador\nen la piedra fónica central.
+<SPEECH*>Yo lo haré.
+<SPEECH*>¿Esto es todo?
+<SPEECH*>Sí.
+<SPEECH*>Me abuuuuurro.\nMe he puesto nerviosa para nada.
+<SPEECH*>Me temo que no está diseñado\npara entretener.
+<SPEECH*>Volvamos a Sheridan.
+<SPEECH*>Me alegra veros de vuelta.
+<SPEECH*>Aquí tienes las mediciones.
+<SPEECH*>Ya estamos modificando el Tartarus.
+<SPEECH*>¿El Tartarus?
+<SPEECH*>Ni siquiera la caída al Qliphoth \nlo dañó. Es perfecto para\nviajar al núcleo.
+<SPEECH*>El Tartarus sí que\nestá siendo útil.
+<SPEECH*>Pero aún nos llevará tiempo.\nDeberíais relajaros en el pueblo.
+<SPEECH*>¿Podría hablar con vosotros un minuto?
+<SPEECH*>¿Qué pasa?
+<SPEECH*>¿De verdad está bien que\nhagamos descender toda la\ntierra por nuestra cuenta?
+<SPEECH*>¿Qué quieres decir?
+<SPEECH*>Es un tema importante. Cambiará\nel modo en el que el mundo funciona.<PAGE>\n<SPEECH*>Estaba pensando en que deberíamos\nexplicar las cosas a Tío y al Emperador\nPeony, y trabajar juntos.
+<SPEECH*>Pero para hacer eso, \ntendríamos que ir a Baticul..
+<SPEECH*>Creo que deberíamos hacerlo.
+<SPEECH*>Luke...
+<SPEECH*>Arriesgaron sus vidas por \nnosotros... por ti, Natalia. Ahora \nes nuestro turno de protegerles.<PAGE>\n<SPEECH*>Vamos a convencer a Tío \npara que rescate el tratado de\npaz que se echó a perder.<PAGE>\n<SPEECH*>¿No deberían Kimlasca, Malkuth \ny Daath trabajar juntos para hacer\ndescender las Tierras Exteriores?
+<SPEECH*>¡Luke!\nTienes toda la razón.
+<SPEECH*>Por favor, dejadme pensar un momento...<PAGE>\n<SPEECH*>Sé que eso es lo mejor. \nPero... persiste el hecho de que \nPadre me rechazó...<PAGE>\n<SPEECH*>Tengo miedo. \nLo siento.
+<SPEECH*>Tendremos que esperar hasta\nque Natalia esté lista.
+Van sabe que estamos intentando hacer\ndescender las Tierras Exteriores.<PAGE>\nEstoy preocupada. Espero que no se invente \nalgo para cruzarse en nuestro camino...
+Van...
+Una vez termináramos con los preparativos\npara detener el núcleo, planeaba\ndiscutirlo con ambos países...<PAGE>\nPero me sorprende oírte decir eso.\nHas madurado.\nAl menos un poquito.
+Estoy de coña.
+Parece que Natalia es más\ndelicada de lo que muestra.
+Me gustaría animarla, pero no\nhay nada que podamos decir\npara ayudarla.<PAGE>\nSimplemente vigilémosla.
+Me hubiera herido que papá me \nhubiera dicho que no era su hija.\nPuedo comprender cómo se siente.
+Humf. Esos perdedores de\nBelkend son patéticos.
+A pesar de lo que diga, Iemon\nreconoce las habilidades de Hencken.
+Cathy siempre fue una chica amable.\nEnvidiaba lo popular que era\ncuando estaba en el instituto.
+No le digas a nadie que te lo he\ncontado, pero Hencken e Iemon se\npelearon una vez por Cathy.<PAGE>\nSin embargo, ella rechazó a ambos.
+Tamara siempre ha sido una chica alegre,\ncapaz de entablar una conversación con \ncualquiera con una facilidad asombrosa.\nLa envidiaba.
+Por favor, déjame pensarlo esta noche.\nSoy tan cobarde, ¿verdad?
+(Creo que iré a la posada.)
+<SPEECH*>(¿Adónde va?)
+<SPEECH*>¡¿Quién está ahí?!
+<SPEECH*>¡Asch!\n¿Qué estás haciendo aquí?...
+<SPEECH*>Estoy buscando a Spinoza.\n¿Qué estás haciendo tú?
+<SPEECH*>Yo estoy...
+<SPEECH*>¿No ibas a ir a Baticul?
+<SPEECH*>¡¿Lo sabías?!
+<SPEECH*>No es normal en ti tener miedo...
+<SPEECH*>Bueno, hay algunas cosas que \nme asustan incluso a mí.
+<SPEECH*>¿En serio? ¿Incluso teniendo\ncomo aliados a decenas de miles de \nciudadanos de Baticul?
+<SPEECH*>Lo sé...
+<SPEECH*>Un día, cuando hayamos crecido,\ncambiemos este país...
+<SPEECH*>Cambiémoslo para que nadie\nsea pobre. Cambiémoslo para\nque nunca haya guerras.
+<SPEECH*>Colaboremos para cambiar este país...\nPor el resto de nuestros días. Juntos.
+<SPEECH*>No lo dije porque fueras\nuna princesa.<PAGE>\n<SPEECH*>Tu origen no importa.\nSólo haz lo que puedas.
+<SPEECH*>(Supongo que yo también volveré...)
+<SPEECH*>Eh...
+<SPEECH*>No es educado escuchar a escondidas...
+<SPEECH*>No lo he hecho a propósito... \nY no parecía el mejor\nmomento para interrumpirles.
+<SPEECH*>Ya veo.
+<SPEECH*>Si yo no hubiera nacido, Natalia \ny Asch habrían...
+<SPEECH*>Si no hubieras nacido,\nAsch habría muerto en \nAkzeriuth como Luke.
+<SPEECH*>Tear...
+<SPEECH*>Divagar sobre no haber \nnacido no tiene sentido.<PAGE>\n<SPEECH*>Estás viviendo tu propia vida.<PAGE>\n<SPEECH*>Experiencias que sólo tú conoces.\nSentimientos que sólo tú sientes.\nNo los niegues.<PAGE>\n<SPEECH*>Estás aquí.
+<SPEECH*>Sí... \nGracias.
+<SPEECH*>Lo siento... No es propio de\nmí asustarme de esa manera.
+<SPEECH*>Entonces vamos a Baticul, ¿no?
+<SPEECH*>Sí. Haré lo que pueda como \nprincesa de... no, como ciudadana \nde Kimlasca.
+<SPEECH*>Ya estamos.
+<SPEECH*>Esperaba que dijeras eso. He escrito \nuna carta al rey Ingobert contándole \ntodo lo que ha pasado.<PAGE>\n<SPEECH*>Y también los problemas de hacer\ndescender las Tierras Exteriores.
+<SPEECH*>¿Problema? \n¿Hubo un problema?
+<SPEECH*>El miasma...
+<SPEECH*>Ah, sí. La razón por la cual se\ncrearon las Tierras Exteriores\nfue para alejarse de eso.
+<SPEECH*>Necesitaremos más algo más \nque la cooperación de Sheridan \npara solucionar este problema.<PAGE>\n<SPEECH*>Necesitaremos a los investigadores\nfónicos de Gran Chokmah y Ciudad de Yulia. \nPero para conseguirlos...
+<SPEECH*>Tenemos que conseguir que Kimlasca \ny Malkuth firmen la paz.
+<SPEECH*>Vamos a Baticul.\nConvenceré a Padre, \ncueste lo que cueste.
+Volvamos a Kimlasca ahora.
+No tenemos tiempo para\nvagar por ahí.
+Hey, éste no es el\ncamino a Kimlasca.
+Nuestro objetivo es \ndirigirnos a Kimlasca.
+Podemos ir a Baticul en transbordador.
+Démonos prisa y vayamos a Akzeriuth.
+Corramos a Akzeriuth.
+¿No tenemos que ir\nrápidamente a Akzeriuth?
+Corramos a Akzeriuth.
+No tenemos necesidad de venir aquí.\nTenemos que ir a Akzeriuth.
+No queda tiempo. \nDebemos ir rápidamente Akzeriuth.
+Vayamos rápidamente a Gran Chokmah.
+Deberíamos ir rápidamente a Gran Chokmah.
+Deberíamos darnos prisa\ny llegar a Gran Chokmah.
+Vayamos rápidamente a Gran Chokmah.
+¡Tenemos que ir rápidamente a Gran Chokmah!
+Deberíamos ir rápidamente a Gran Chokmah.
+Vayamos rápidamente a San Binah.
+Deberíamos ir rápidamente a San Binah.
+Deberíamos darnos prisa\ny llegar a San Binah.
+Vayamos rápidamente a San Binah.
+¡Debemos ir rápidamente a San Binah!
+Deberíamos ir rápidamente a San Binah.
+Vayamos rápidamente a Sheridan.
+Deberíamos ir rápidamente a Sheridan.
+Deberíamos darnos prisa\ny llegar a Sheridan.
+Vayamos rápidamente a Sheridan.
+¡Debemos ir rápidamente a Sheridan!
+Deberíamos ir rápidamente a Sheridan.
+Dijo que las montañas de Meggiora\nestán al suroeste de Sheridan.
+Démonos prisa y rescatemos\nal piloto del Albiore.
+Debemos darnos prisa y\nrescatar al piloto
+Vamos a rescatar a ese piloto.\nLas montañas de Meggiora están \nal suroeste de Sheridan.
+Si no nos damos prisa, ¡ese piloto\nva a tener problemas!
+Las montañas de Meggiora están \nal suroeste de Sheridan.\nDémonos prisa.
+Regresemos a Sheridan de momento.
+Primero, regresemos a Sheridan.
+Lo primero es lo primero. Llevemos\nel aeromotor a Sheridan.
+Vamos a devolver el aeromotor \nal laboratorio de Iemon.
+Regresemos a Sheridan.
+Regresemos a Sheridan.\nNos están esperando.
+Vamos a Ciudad de Yulia.\nTenemos que dejar descansar a \nMcGovern y al resto de la gente.
+Vamos a Ciudad de Yulia.\nEstoy seguro de que el Abuelo nos ayudará.
+Estoy seguro de que llevarán a los \nresidentes de San Binah a Ciudad de Yulia.
+Vamos a Ciudad de Yulia.\nDeberían dar la bienvenida a McGovern \ny a los residentes de San Binah.
+Creo que McGovern y los residentes de San Binah \npodrían descansar un poco en Ciudad de Yulia.
+Vamos a escoltar a la gente\nque rescatamos a Ciudad de Yulia.
+Ahora mismo, vamos a pensar \nsólo en llegar a Chesedonia.
+No tenemos tiempo para despistarnos.\nDirijámonos a Chesedonia.
+Primero tenemos que reunirnos \ncon los otros en Chesedonia.
+No tenemos tiempo que perder.\nDirijámonos a Chesedonia.
+¡Démonos prisa y vayamos a Chesedonia!
+Este no es el camino a Chesedonia.\nVolvamos a la dirección correcta.
+Cuando golpeamos el diapasón, la cosa \nredonda a su lado se encendió.
+Sí. Y la puerta respondió\na eso y se abrió.
+Parece que esta esfera responde al\nsonido del diapasón, y cuando la\nesfera se enciende, la puerta se abre.
+Debe haber alguna manera de \nconseguir ese cofre del tesoro.
+¿Cómo llegamos allí?
+Mmm... ¿Volando a través \ndel aire o algo?
+Vamos a darle a Natalia \nun poco más de tiempo.
+Vamos a esperar a que\nNatalia esté lista.
+No es fácil reunir el\ncoraje necesario. Esperemos \na que Natalia esté lista.
+Tendremos que esperar hasta\nque Natalia esté lista.
+Esperemos hasta que\nNatalia esté lista, ¿vale
+Pasemos la noche en la posada.
+Vamos a la posada.
+Vamos a la posada.
+Muy bien pues, ¿nos dirigiremos\na la posada ahora?
+¡Vamos a la posada!
+<SPEECH*>Hey, ¿eso no es...?
+<SPEECH*>Como en las ruinas Zao. \n¿Qué era, una fonorranura? \nDonde se acumulan los fonones...
+<SPEECH*>¡Aquí hay otra también!
+<SPEECH*>Sí, una densidad muy alta de fonones.
+<SPEECH*>Por el sitio, supongo que\nserá el tercer fonón.
+<SPEECH*>Sí, probablemente.
+<SPEECH*>Mieu, ¿hay suerte?
+<SPEECH*>Los fonones han grabado un nuevo verso\nfónico en el anillo, ¿verdad?
+<SPEECH*>Mieuuu...
+<SPEECH*>¡Aquííííííííí vieeeeeeene!
+<SPEECH*>E-Está volando...
+<SPEECH*>¡Guau!
+<SPEECH*>Qué chulada...
+<SPEECH*>¡Amo! \n¡Estoy volando! \n¡Lo he conseguido!
+<SPEECH*>Hey, deja que me agarre a...
+<SPEECH*>¿Eh?
+<SPEECH*>Oh, vaya...
+<SPEECH*>Ja ja, vaya cuadro.
+<SPEECH*>¡Tear! \n¡No es justo!
+<SPEECH*>L-Lo siento... \nPero es tan divertido...
+<SPEECH*>¡Ohh, yo también! \n¡Yo también!
+<SPEECH*>¡Yo también quisiera volar!
+<SPEECH*>Mieuuuu...
+<SPEECH*>Hey, no seas malo con el pequeño.
+<SPEECH*>Ohh, no está tan mal. \nCon suerte, harán que crezca\ncinco o seis centímetros más.
+<SPEECH*>Oh, tío...
+Mieu ha aprendido <04*>Vuelo de Mieu<04*>.
+Has obtenido [algo de valor. Sin determinar].
+Ahora Mieu puede realizar \ntres acciones diferentes.
+Puedes elegirlas manteniendo pulsado el botón\n<06*> y pulsando <06*> o <06*>.
+Vuelo de Mieu te permite flotar.\nPruébalo en diferentes sitios.
+Combinándolo con otras habilidades de \nMieu, puedes explorar muchos más lugares.
+<SPEECH*>Hey, Mieu, eso que acabas de hacer...
+<SPEECH*>Vuelo de M...
+<SPEECH*>¡Vuelo de Mieu!
+<SPEECH*>Mieuuuu...
+<SPEECH*>¿Dónde podemos usarlo?
+<SPEECH*>Buena pregunta, viendo que no\npuede volar a demasiada altura.
+<SPEECH*>Mieuu...
+<SPEECH*>N-No te preocupes, Mieu.\nEs muy mono y divertido...
+<SPEECH*>¡Hey, Mieu! \n¡Intenta volar aquí!
+<SPEECH*>¡S-Sí, Amo!
+<SPEECH*>Interesante.
+<SPEECH*>¡La puerta se ha abierto!
+<SPEECH*>¡Lo conseguí! \n¡Estoy siendo útil!
+<SPEECH*>Entonces también puede usarse así.
+<SPEECH*>Sabes, Luke es bastante\nbueno usando a Mieu.
+Creo que debería probar el Vuelo de Mieu.
+Quiero probar el Vuelo de Mieu...
+Creo que íbamos a probar\nel Vuelo de Mieu.
+Vamos a usar el Vuelo\nde Mieu, ¿verdad?
+Vuelo de Mieu, eh... \nSuena divertido.
+Íbamos a probar el Vuelo de Mieu.

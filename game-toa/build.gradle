@@ -1,5 +1,5 @@
 apply from: '../include.gradle'
 
 dependencies {
-    compile project(':engine-talesof')
+	compile project(':engine-talesof')
 }

@@ -1,0 +1,136 @@
+## POINTER 10
+Apple Gel
+
+## POINTER 11
+Made from apple juice from Engeve and medicinal herbs from
+Saint Binah. The most popular medicine in Auldrant.
+The apple flavor makes the medicine go down easily.
+
+## POINTER 20
+Lemon Gel
+
+## POINTER 21
+Made from lemon juice from Engeve and medicinal herbs from
+Saint Binah. More potent than Apple Gel. Children test their
+courage by eating them.
+
+## POINTER 30
+Orange Gel
+
+## POINTER 31
+Made from orange juice from Engeve and medicinal herbs from
+Saint Binah. Relieves mental fatigue and helps you concentrate.
+The orange flavor makes the medicine go down easily.
+
+## POINTER 40
+Pineapple Gel
+
+## POINTER 41
+Made from pineapple juice from Engeve and medicinal herbs 
+from Saint Binah. Made for adults, like the Lemon Gel. 
+Consumed in large quantities by Fonists in the Malkuth forces.
+
+## POINTER 50
+Melange Gel
+
+## POINTER 51
+Made with various fruit juices, this gummi has multiple
+effects. It replenishes energy and also relieves mental
+fatigue.
+
+## POINTER 60
+Miracle Gel
+
+## POINTER 61
+A miraculous gummi, just as its name implies. One bite will
+give energy to even the most haggard hero. Its potency
+has given it a reputation as an "adult" gummi.
+
+## POINTER 70
+Specific
+
+## POINTER 71
+A soda-flavored gummi medicine.
+Entire party recovers 30% Max HP.
+
+## POINTER 80
+Treat
+
+## POINTER 81
+A grape-flavored gummi medicine.
+Entire party recovers 30% Max TP.
+
+## POINTER 90
+Special Gel
+
+## POINTER 91
+A gummi treat made from a miraculous elixir.
+Recovers all HP & TP.
+
+## POINTER 100
+Lottery Gel
+
+## POINTER 101
+Maybe something good. Maybe not.
+You won't know until you try it.
+
+## POINTER 110
+Poison Bottle
+
+## POINTER 111
+Cures Poison.
+
+## POINTER 120
+Paralysis Bottle
+
+## POINTER 121
+Cures Paralysis.
+
+## POINTER 130
+Stone Bottle
+
+## POINTER 131
+Cures Petrification.
+
+## POINTER 140
+Seal Bottle
+
+## POINTER 141
+Cures Sealed Artes.
+
+## POINTER 150
+Weak Bottle
+
+## POINTER 151
+Cures Weak.
+
+## POINTER 160
+Virus Bottle
+
+## POINTER 161
+Cures Illness.
+
+## POINTER 170
+Life Bottle
+
+## POINTER 171
+Revives KO'd ally with 30% HP & 15% TP.
+
+## POINTER 180
+Cure Bottle
+
+## POINTER 181
+Cures Physical Ailments: Poison, Paralysis, 
+Petrification, Sealed Artes, Weak and Illness.
+
+## POINTER 190
+Dinei Bottle
+
+## POINTER 191
+Cures Magical Ailments.
+
+## POINTER 200
+Panacea Bottle
+
+## POINTER 201
+Cures both Physical and Magical Ailments.

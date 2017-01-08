@@ -1,0 +1,326 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¡Coronel!\n¡Coronel Curtiss!\n¡Eres tú, ¿no?!
+¿Os conocéis?
+Mmm, sí...
+¡Soy el aprendiz del Coronel, Casim!
+No recuerdo haberte hecho mi aprendiz.
+¡No digas eso! ¡Por favor,\nenséñame el secreto de\ntu vista fónica!<PAGE>\nLo han declarado texto prohibido, así que\nni siquiera puedo leerlo en la biblioteca.
+¿Vista fónica?...\n¿Qué es eso?
+Es el arte fónico que el Coronel\nse ha aplicado en los ojos. <PAGE>\nLos ojos son las fonorranuras\nmás grandes del cuerpo humano, <PAGE>\nasí que infundir un arte fónico ahí\npermite a la persona reunir tres\nveces más fonones de lo normal.
+Ya veo. Entonces la fuerza de las\nartes fónicas de la persona se\nincrementaría enormemente también.
+¿Pero acaso no funciona sólo porque el \nCoronel es capaz de soportarlo?<PAGE>\nNo hay mucha gente que pueda controlar\nlos seis fonones sólo con su poder.
+Sí. La gente tiene puntos\nfuertes distintos.<PAGE>\nSi alguien que apenas puede usar\nartes fónicas se aplicara la vista\nfónica, sin duda alguna moriría.<PAGE>\nEn especial tú, Casim.\nNi se te ocurra pensar en ello.
+¡Pues muy bien!...\n¡Si vas a seguir siendo tan tozudo,\nme aplicaré la vista fónica yo solo!
+¿Hemos hecho bien dejando que se marche?\nMe preocupa que haga algo imprudente.
+Aunque lo haga, será\nculpa suya. No es\nasunto mío.
+Supongo que ya debería estar\nacostumbrado, pero parece que\nnada es asunto tuyo...
+Oh, perdone.\nEl del uniforme de Malkuth...
+¿En qué puedo ayudarte?
+Mi dispositivo de escaneo de\nfonones reacciona a tus gafas.<PAGE>\n¿Te importaría dejármelas un\nmomento para verlas?
+En absoluto.\nAquí tienes.
+¿Qué pasa?
+Siempre había pensado que el Coronel parecía\njoven para la edad que tiene, pero cuando se\nquita las gafas, parece incluso más joven...\nde hecho, se le ve muy...
+Sí... tiene una cara muy bonita.
+¿De verdad? Siempre había\npensado que tenía la cara\nbonita incluso con gafas.
+Oh, por Dios...\nDe verdad que eres odioso.
+¿Has acabado ya con mis gafas?
+¡Oh, s-sí!\nLo siento.
+Ya veo que esas gafas tienen\nun efecto fonorregulador.
+Quieres decir... ¡¿qué esas gafas son fonotecnológicas?!\nGuau... ojalá yo tuviera unas...
+Me temo que no puedes quedarte con las mías.\nTengo aplicado en los ojos un arte\nun tanto especial.<PAGE>\nSin las gafas, el arte fónico\npuede potencialmente\nperder el control.
+¿Qué?\n¿Así que no tienes mal la vista?
+No puedes hacerte soldado\nsi tienes mal la vista.\nMis ojos son 20/10.
+¡Guau!\n¡Los dos juntos hacen 40/20!
+¡Vosotros!\n¡Mejor que corráis!\n¡La explosión os alcanzará!
+¡La gente está en peligro!\n¡Vamos a ayudarlos!
+¡Espera!\nNatalia...
+Allá va.\nÉsa es nuestra heroica princesa...
+No es momento de bromear. Si\ndejamos que se las arregle\nsola, no sabemos que hará.
+Estoy de acuerdo.\nSigámosla.
+¡Casim!
+¡Coronel! Está sufriendo\nuna separación de fonones.\nNo me digas que es...
+Sí, la vista fónica, estoy seguro.\nY está a punto de perder el control.<PAGE>\nIgual que Mohs. Al menos podría\nhaberlo hecho en algún lugar donde\nno molestara a los demás.
+¡¿Crees que es momento de hacer ese tipo\nde comentarios?! ¡Tenemos que ayudarle!
+No me importa lo que se haga Casim,\npero estoy de acuerdo en lo de\nevitar bajas civiles.
+¿Qué deberíamos hacer?
+Podríamos eliminarlo.\nSería la forma más sencilla.
+¡¿Cómo puedes decir algo así?! ¡Vamos\na salvarlo a él y a los habitantes!
+¡Natalia tiene razón, Jade! ¡No quiero\nmatar a nadie si no es necesario!
+Tear, por favor, detén la inestabilidad de \nlos fonones de Casim con himnos fónicos...<PAGE>\nEn ese momento, yo desharé el\ntratamiento de vista fónica.
+Entendido.
+Coronel...\nMis ojos...
+Intentaste ejecutar el arte fónico\nprohibido de la vista fónica usando unos\nconocimientos rudimentarios. Requiere una\ncuidadosa preparación y pericia.<PAGE>\nEs culpa tuya haber perdido la vista.
+¡No!...<PAGE>\nSi iba a pasar esto, ¡¿por qué \nno hiciste nada por detenerme?!
+Te detuve. Ha sido casualidad\nque no hayas muerto.
+¡Cállate! Si te hubieras\nesforzado más en detenerme...
+¡¿Estás vivo, no?! ¡Deberías estar\nagradecido de no haber muerto!
+Este hombre ha robado un texto\nprohibido de la biblioteca imperial.\n¿Le arrestamos?
+Por favor.<PAGE>\nYo me haré cargo de él, así que después\nde que hayáis acabado de interrogarle, \nllevadlo a la mansión de los Curtiss.
+Coronel...
+Si el Coronel va a darle alojamiento\npersonalmente, no podemos interrogarle\ncon mucha dureza...
+Shh. El Coronel te va a oír.\nEntendido, señor...
+Me sorprende ver\nque muestras tal\namabilidad, Jade.
+Es sólo que me avergüenzo de mis acciones.<PAGE>\nEsta vez, al igual que en Akzeriuth, si\nno me hubiera querido evitar la molestia\nde dar una larga explicación,<PAGE>\nlos resultados podrían haber sido distintos.
+Pero lo que pasó en Akzeriuth\nfue culpa mía...
+No he dicho que no lo fuera.
+S-Sí. Ya lo sé.\nTodos arremetisteis contra \nmí después de eso.
+Yo no te regañé por haber\ndestruido Akzeriuth.<PAGE>\nTe regañé por no hacer nada más que\ninventar excusas, sin mostrar signo\nalguno de querer mejorar o pensar.
+Así que, como Luke comprendió cual era\nsu responsabilidad después de aquello,<PAGE>\nhas aprendido a ayudar a la gente\ncomo has hecho ahora, ¿no es así?
+Bueno, creo que hemos perdido demasiado\ntiempo charlando. Pongámonos en marcha.
+¡Guau!\n¡Al Coronel le da corte!\n¡Qué cosa más rara!
+Esta sala de reuniones está reservada\npara ser usada por los Clase M de Iemon.
+Cuando eres tan bueno como un Clase M,\nnecesitas tu propio espacio de trabajo,\ndespués de todo.
+Hacemos lo \nque podemos.
+Tenemos que hacer algo\npara ayudar al mundo.
+Me pregunto qué pensarían Iemon y \ndemás gente de un mundo sin la Partitura...
+Para ser honesto,\ncreo que la Partitura es necesaria.
+Menudo tipo...

@@ -1,0 +1,138 @@
+## POINTER 5010 [t:1;r:1;ru:parsec;user:pacochan;time:1182270354]
+Brazalete espiritual
+
+## POINTER 5011 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270355]
+Recupera el 5% del TP máximo por
+cada enemigo derrotado.
+
+## POINTER 5020 [t:1;r:1;ru:parsec;user:pacochan;time:1194095987]
+Brazalete antiaturdidor
+
+## POINTER 5021 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270355]
+Brazalete que reduce la duración
+del aturdimiento en un 50%.
+
+## POINTER 5030 [t:1;r:1;ru:parsec;user:pacochan;time:1194095987]
+Talismán antiaturdidor
+
+## POINTER 5031 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270355]
+Previene el aturdimiento.
+
+## POINTER 5040 [t:1;r:1;ru:parsec;user:parsec;time:1180214112]
+Colgante de Tear
+
+## POINTER 5041 [t:1;r:1;ru:parsec;user:kaene;time:1198459849]
+Un recuerdo de la madre de Tear.
+Accesorio valioso en sí mismo.
+
+## POINTER 5050 [t:1;r:1;ru:parsec;user:kaene;time:1198656741]
+Dije mundial
+
+## POINTER 5051 [t:1;r:1;ru:parsec;user:kaene;time:1198459849]
+A veces previene efectos alterados.
+También aumenta la DEF.F y la DEF.M
+
+## POINTER 5060 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214278]
+Anillo zafiro
+
+## POINTER 5061 [t:1;r:1;ru:parsec;user:parsec;time:1200302668]
+Anillo con un zafiro estrella.
+Reduce el consumo de TP en un 25%.
+
+## POINTER 5070 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214278]
+Anillo esmeralda
+
+## POINTER 5071 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo con una esmeralda.
+Reduce el consumo de TP en un 33%.
+
+## POINTER 5080 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo de hada
+
+## POINTER 5081 [t:1;r:1;ru:parsec;user:parsec;time:1200302668]
+Anillo grabado con un hada. 
+Reduce el consumo de TP en un 50%.
+
+## POINTER 5090 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214694]
+Anillo de ataque
+
+## POINTER 5091 [t:1;r:1;ru:parsec;user:pacochan;time:1182270356]
+Anillo grabado con una espada.
+Aumenta el ATQ.F y el ATQ.M en batalla.
+
+## POINTER 5100 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214694]
+Anillo de defensa
+
+## POINTER 5101 [t:1;r:1;ru:parsec;user:pacochan;time:1182270356]
+Anillo grabado con un escudo.
+Aumenta la DEF.F y la DEF.M en batalla.
+
+## POINTER 5110 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214694]
+Anillo sagrado
+
+## POINTER 5111 [t:1;r:1;ru:parsec;user:kaene;time:1198459849]
+Recupera periódicamente un
+1% de HP en batalla.
+
+## POINTER 5120 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo espiritual
+
+## POINTER 5121 [t:1;r:1;ru:parsec;user:kaene;time:1198459849]
+Recupera periódicamente un
+1% de TP en batalla.
+
+## POINTER 5130 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214694]
+Anillo protector
+
+## POINTER 5131 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo grabado con un dios de la guerra. 
+Reduce el daño físico en un 10%.
+
+## POINTER 5140 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214694]
+Anillo de fuerza
+
+## POINTER 5141 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo grabado con un dios de la guerra. 
+Reduce el daño físico en un 20%.
+
+## POINTER 5150 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo resistente
+
+## POINTER 5151 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo grabado con una diosa. 
+Reduce el daño elemental en un 10%.
+
+## POINTER 5160 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo reflectante
+
+## POINTER 5161 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo grabado con una diosa. 
+Reduce el daño elemental en un 20%.
+
+## POINTER 5170 [t:1;r:1;ru:parsec;user:pacochan;time:1182270356]
+Anillo efecti
+
+## POINTER 5171 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Anillo grabado con un diablo.
+Reduce todo el daño en un 15%.
+
+## POINTER 5180 [t:1;r:1;ru:parsec;user:pacochan;time:1182270356]
+Marca fónica
+
+## POINTER 5181 [t:1;r:1;ru:parsec;user:kaene;time:1188920836]
+Emblema grabado con una escritura fónica.
+Aumenta el ATQ.M en un 10%.
+
+## POINTER 5190 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214744]
+Símbolo fónico
+
+## POINTER 5191 [t:1;r:1;ru:parsec;user:kaene;time:1188920836]
+Emblema grabado con una escritura fónica.
+Aumenta la DEF.M en un 10%.
+
+## POINTER 5200 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1180214744]
+Símbolo sagrado
+
+## POINTER 5201 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182270356]
+Una reliquia sagrada. 
+Recupera periódicamente un 3% del HP máximo.

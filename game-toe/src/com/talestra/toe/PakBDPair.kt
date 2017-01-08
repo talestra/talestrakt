@@ -1,7 +1,10 @@
 package com.talestra.toe
 
 import com.soywiz.korio.async.asyncFun
-import com.soywiz.korio.stream.*
+import com.soywiz.korio.stream.AsyncStream
+import com.soywiz.korio.stream.readS32_le
+import com.soywiz.korio.stream.readU32_le
+import com.soywiz.korio.stream.slice
 import com.soywiz.korio.vfs.MemoryVfs
 import com.soywiz.korio.vfs.VfsFile
 import com.talestra.rhcommon.lang.mapWhile

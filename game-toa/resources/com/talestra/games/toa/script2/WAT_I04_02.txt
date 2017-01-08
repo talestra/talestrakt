@@ -1,0 +1,668 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Oh, qué bien veros a to...
+<SPEECH*>¿Qué ocurre, maestro Tritheim?
+<SPEECH*>Siento fonones extraños...
+<SPEECH*>¿De qué estás hablando?
+<SPEECH*>De eso, supongo.
+<SPEECH*>¿De esta espada?
+<SPEECH*>Sentí el primer fonón en ella desde el\nmomento en que la obtuvimos, pero cada\ndía se ha ido haciendo más y más fuerte.
+<SPEECH*>¡Es... esto es...! \n¡¿Dónde encontraste esta espada?!
+<SPEECH*>En las montañas de Meggiora. \nEstaba clavada en la espalda de un monstruo.
+<SPEECH*>Maestro, ¿pasa algo\ncon esta espada?...
+<SPEECH*>Bueno, supongo que a estas alturas\nya puedo hablar de ello... <PAGE>\n<SPEECH*>Se dice que esta espada es uno de los\ncatalizadores para el arte fónico planetario.
+<SPEECH*>¿Arte fónico planetario?...\n¿Qué es eso?
+<SPEECH*>Es un arte fónico inmenso que\nse propuso en la Era del Amanecer. <PAGE>\n<SPEECH*>Pero, de hecho, nunca se puso en\npráctica. La Guerra Fónica acabó antes\nde que pudieran hacerlo. O eso he oído...
+<SPEECH*>Sí. Se encontraron informes\nde ese arte en Ciudad de Yulia. <PAGE>\n<SPEECH*>El Maestro Fónico anterior, \nEvenos, urdió un plan en secreto\npara revivirlo.
+<SPEECH*>¿Y para eso necesitaba\nla espada?
+<SPEECH*>Sí. Tres armas con el\npoder de Rem, y tres con\nel poder de Shadow...<PAGE>\n<SPEECH*>Son necesarias para el arte fónico\nplanetario... al menos, en teoría.
+<SPEECH*>Qué poco preciso...
+<SPEECH*>La verdad es que desconocemos\nlos detalles. <PAGE>\n<SPEECH*>La Caballero del Oráculo encargada\nde revisar el plan destruyó los\ndocumentos y abandonó la Orden. <PAGE>\n<SPEECH*>Y Evenos ha muerto...
+<SPEECH*>Qué pena. Parece un arte\nfónico muy poderoso.<PAGE>\n<SPEECH*>Las batallas serían muy\nfáciles si el Coronel\npudiera usarlo.
+<SPEECH*>Mmm... \nQuizá os sería útil. \nEn ese caso, id a Keterburg. <PAGE>\n<SPEECH*>Han informado que la ex-Caballero\ndel Oráculo ha muerto, pero quizá\npodáis enteraros de algo.
+<SPEECH*>¿Cómo se llamaba esa\nCaballero del Oráculo?
+<SPEECH*>Coronel locrio Gelda Nebilim.
+<SPEECH*>¿Nebilim?... \nJuraría que he oído ese\nnombre en algún sitio...
+<SPEECH*>¡No necesitamos ningún\narte fónico planetario!<PAGE>\n<SPEECH*>¡Incluso sin él, Jade es\nridículamente fuerte!
+<SPEECH*>¿Luke? \n¿Qué estás ocultando?
+<SPEECH*>Ugh...\nJade...
+<SPEECH*>Bueno, si lo creéis necesario,\nno tengo objeción en ir a\nKeterburg...
+<SPEECH*>Los dos estáis actuando\nde forma bien rara.
+<SPEECH*>¿Una Caballero del Oráculo que\nvivía en Keterburg? <PAGE>\n<SPEECH*>Puedo mirar en los registros... \n¿Cómo se llamaba esta persona?
+<SPEECH*>Um...
+<SPEECH*>Gelda Nebilim.
+<SPEECH*>¡¿La profesora Nebilim?!
+<SPEECH*>Vaya, ¿la conocías?
+<SPEECH*>La profesora Nebilim abrió\nuna escuela privada aquí después\nde dejar la Orden. <PAGE>\n<SPEECH*>Yo fui su alumna...\nigual que mi hermano.
+<SPEECH*>¡Coronel! \n¡Tú la conocías, ¿verdad?!
+<SPEECH*>Y tú también la conocías, Luke. \nPor eso estabais actuando de\nforma extraña.
+<SPEECH*>¡Y-Yo no la conocía!
+<SPEECH*>No culpéis a Luke. Le dije\nque lo mantuviera secreto. <PAGE>\n<SPEECH*>A parte del emperador Peony, compartir\nuna clase con Dist es uno de los momentos\nmenos loables de mi vida.
+<SPEECH*>¡Aparte de Dist, ¿el emperador Peony\ntambién fue alumno suyo?!
+<SPEECH*>El Emperador estaba confinado en\nsu mansión, pero se escapaba y \nse sentaba en la clase.
+<SPEECH*>Vaya Emperador está hecho...
+<SPEECH*>Bueno, y esta profesora \nNebilim... ¿dejó algo?
+<SPEECH*>Oí que la División de Inteligencia\ndel ejército de Malkuth recogió todos\nsus documentos hace algún tiempo.
+<SPEECH*>¿El ejército de Malkuth? \n¿Por qué?
+<SPEECH*>¿Qué problema hay? \nJade tan solo tiene que\nir y preguntar.
+<SPEECH*>Dudo que sea tan fácil. Normalmente,\nlas divisiones de inteligencia funcionan\nindependientemente del resto del ejército.
+<SPEECH*>*Suspiro*... Bueno, supongo que le\ntendremos que pedir ayuda al Emperador.
+<SPEECH*>Vaya, qué sorpresa. ¿Venís a\nvisitar a mis cerdinejos? \n¿No son adorables?
+<SPEECH*>Dejaremos a los cerdinejos de\nSu Majestad para otro momento.\nGuy, ¿y si se lo explicas?
+<SPEECH*>¡¿Yo?! \n¡¿Por qué siempre tengo\nque explicarlo yo todo?!
+<SPEECH*>La profesora Nebilim, eh... Mi\npadre aún estaba en el trono, así\nque no sé mucho sobre eso. <PAGE>\n<SPEECH*>Bueno, haré que la División de\nInteligencia te lleve la información. \nLa enviaré a tu despacho, Jade.
+<SPEECH*>Um... ¿oís algo?
+<SPEECH*>Sí... suena como una\ninterferencia de fonones.
+<SPEECH*>Ahora que lo dices...
+<SPEECH*>¡Es el primer y el sexto fonón!
+<SPEECH*>Qué raro. Viene\nde algún sitio de\nesta habitación...
+<SPEECH*>¡Quizá es una bomba de fonones!
+<SPEECH*>Hey, no tiene gracia.
+<SPEECH*>¡Venga! \nVamos a buscarla.
+<SPEECH*>¡Es esto! \n¡El sonido viene\nde esta espada!
+<SPEECH*>Parece que está reaccionando con\nla Espada de Shadow que tenemos.\nTear, ¿podrías usar un sello fónico?
+<SPEECH*>¿Qué es esta espada, Majestad?
+<SPEECH*>El viejo McGovern la dejó\ncuando se retiró del ejército. <PAGE>\n<SPEECH*>Yo colecciono armas, así\nque la dejó aquí para mí.
+<SPEECH*>Jade, ¿crees que es uno\nde los catalizadores del\narte fónico planetario?
+<SPEECH*>Supongo. Pero llamar a este\ndesastre una colección...
+<SPEECH*>¿Has dicho algo?
+<SPEECH*>Nada de nada. Por cierto,\n¿sería posible tomar\nprestada esta espada?
+<SPEECH*>Mmm... Supongo que si esas tres chicas\ntan guapas me rogaran un poco...
+<SPEECH*>¡Esto es un caso claro\nde acoso sexual!
+<SPEECH*>Vale, entonces los hombres\ntambién. Empieza, Luke.
+<SPEECH*>¿Y-Yo? \nPor favor, déjanos la espada...
+<SPEECH*>Siguiente.
+<SPEECH*>Con todos mis respetos, nos gustaría\nque nos prestara la espada...
+<SPEECH*>Siguiente.
+<SPEECH*>¡Emperador Peony, eres tan guapo! \n~ ¿Podemos tomar prestada la espada? ~ \n¡Super hiper mega porfa plis! ~
+<SPEECH*>¡Ja, genial, genial! \n¡Espera a que tengas seis años más y te\npediré una cita en cualquier momento!
+<SPEECH*>No veas... qué rápido ha cambiado.
+<SPEECH*>Déjanos la espada, por favor.
+<SPEECH*>Oh, esa sonrisa de hielo... \nSí... ~
+<SPEECH*>¿Y-Yo también?
+<SPEECH*>Um... Majestad, por favor,\n¿nos permitiría tomar\nprestada la espada?
+<SPEECH*>¡Oh, ese toque de inocencia! \n¡Sí! ~
+<SPEECH*>Majestad...
+<SPEECH*>Calla. \nNo supliques. \nVomitaré.
+<SPEECH*>Venga, venga, Majestad.
+<SPEECH*>Por favor, permítame ofrecerle\nmi más sincera petición.
+<SPEECH*>¡No! \n¡Vete!
+<SPEECH*>Qué lástima. Entonces,\nnos llevamos la espada.
+<SPEECH*>Coronel, la División de\nInteligencia ha entregado\nunos documentos.
+<SPEECH*>Gracias. \nVamos a ver...
+<SPEECH*>¿Qué pone?
+<SPEECH*>Hay información sobre la vida de la\nprofesora, sobre el conjuro para el arte\nfónico planetario y... un mapa.
+<SPEECH*>¿Un mapa?
+<SPEECH*>Sí. \nParece el monte Roneal. <PAGE>\n<SPEECH*>Se ve que hay un glifo fónico\nmás allá de la montaña que reacciona\ncon los catalizadores.
+<SPEECH*>Ahora que lo dices, la profesora\nNebilim iba mucho al monte Roneal, \n¿no?
+<SPEECH*>¡Guau! \n¡¿Qué hace el Emperador aquí?!
+<SPEECH*>Su Majestad a menudo visita sin\navisar la oficina del Coronel.
+<SPEECH*>Bueno, eso lo explica...
+<SPEECH*>Bien entonces, ¿deberíamos\nir al monte Roneal?
+<SPEECH*>Aún no. Probablemente sería mejor que nos\nesperáramos hasta tener todos los catalizadores.<PAGE>\n<SPEECH*>Por cierto, Majestad, parece que\nfaltan unas cuantas secciones\nde estos documentos...
+<SPEECH*>Parece que alguien se las llevó\nsin que nadie se diera cuenta.
+<SPEECH*>¿Dist?...
+<SPEECH*>Probablemente.
+<SPEECH*>¿Pone algo sobre dónde están\nel resto de los catalizadores?
+<SPEECH*>Desgraciadamente, no. Sólo que\nvenían en parejas, y que la\nfamilia McGovern tenía una.
+<SPEECH*>Supongo que tendremos que buscarlos\nde la forma difícil...
+<SPEECH*>¿Mmm? Esa espada... \n¿No es la espada que le\nofrecí al Emperador?
+<SPEECH*>Sí. Ahora la hemos tomado prestada\nporque la necesitamos para algo. <PAGE>\n<SPEECH*>Por cierto, parece ser que esta\nespada es una parte de una pareja...
+<SPEECH*>Esa sería Dolor sangriento. <PAGE>\n<SPEECH*>Se la dejé a mi hijo.\n¿Para qué la queréis?
+<SPEECH*>Resulta que es necesaria para\nun gran arte fónico planetario...
+<SPEECH*>Ya veo. \nBueno, a mí no me importa, pero...
+<SPEECH*>¿Hay algo que\nte preocupe?
+<SPEECH*>Bueno... esa arma se usó una vez\npara sellar a una fonista que estaba\nhaciendo estragos en Malkuth.
+<SPEECH*>¿"Sellar"? \n¿No querrás decir "derrotar"?
+<SPEECH*>La asesina en serie de fonistas, ¿verdad? \nSegún recuerdo, ésa fue tu última batalla.
+<SPEECH*>Sí. Fue horrible...\nDestruyó una compañía\nentera ella sola. <PAGE>\n<SPEECH*>Era una compañía pequeña,\nclaro, pero aun así...
+<SPEECH*>¿Una compañía entera destruida?...\nParece obra de un demonio...
+<SPEECH*>¿Y sólo la pudisteis\nsellar?
+<SPEECH*>¿Y dónde la sellasteis?
+<SPEECH*>Eso es confidencial, bobo.\n¿Qué crees que podría pasar\nsi alguien la liberara? <PAGE>\n<SPEECH*>En cualquier caso, es un arma peligrosa. \nTened cuidado con ella.
+<SPEECH*>¡¿Dolor sangriento?!...
+<SPEECH*>Sí, nos gustaría tomarla prestada,\nsi no es problema...
+<SPEECH*>Ya veo... Qué oportunos. <PAGE>\n<SPEECH*>Da la casualidad de que os tengo\nque pedir un favor. Si lo hacéis,\nos dejaré a Dolor sangriento.
+<SPEECH*>¿Qué favor es?
+<SPEECH*>Bueno, el otro día, el cerdinejo\nde mi padre se me escapó mientras\nlo llevaba a pasear.
+<SPEECH*>¿Quieres que lo encontremos?...
+<SPEECH*>Sí. Ese cerdinejo fue un\nregalo del Emperador a\ncambio de Celesti perdido. <PAGE>\n<SPEECH*>Por suerte, mi padre aún\nno se ha enterado, pero...
+<SPEECH*>Cerdinejos otra vez...
+<SPEECH*>¿Así que está en algún lugar del pueblo?
+<SPEECH*>La verdad es que se escapó\nfuera del pueblo...<PAGE>\n<SPEECH*>Y lo peor es que su sangre\nsalvaje se ha despertado. Ya no\nse volverá a acercar al pueblo.
+<SPEECH*>¡¿Insinúas que tenemos\nque buscarlo fuera?!
+<SPEECH*>Sí. \nEl cerdinejo se llama August. <PAGE>\n<SPEECH*>Lleva una cinta roja, así\nque lo podréis reconocer\nde inmediato. <PAGE>\n<SPEECH*>Es bastante movido, así que\ntendréis que buscar bastante\nlejos. Cuento con vosotros.
+<SPEECH*>Es una locura...
+<SPEECH*>¡August! ¡Gracias a Dios!
+<SPEECH*>Nos dejarás a Dolor sangriento, ¿verdad?
+<SPEECH*>Por supuesto. Y, por favor,\nno le comentéis a mi padre lo\ndel incidente con August.
+<SPEECH*>Esto es...
+<SPEECH*>Hay una interferencia de fonones.
+<SPEECH*>¿Así que éste también es uno de los\ncatalizadores planetarios?
+<SPEECH*>Está en la tumba de Yulia. ¿Tendrá\nalguna relación con ella?
+<SPEECH*>Yulia era una Intérprete, después de todo... <PAGE>\n<SPEECH*>Quizá fuera algo que ella usaba.
+<SPEECH*>Odio perturbar su descanso,\npero vamos a llevárnoslo.
+<SPEECH*>Tear es su descendiente, ¿no? \nSeguro que lo comprenderá.
+<SPEECH*>Yulia... por favor, perdónanos.
+<SPEECH*>¿Qué hace un arco en \nuna fábrica abandonada?
+<SPEECH*>Puedo oír una interferencia fónica...
+<SPEECH*>¡Guau! \n¿Así que es uno de los catalizadores? \n¿Qué estará haciendo aquí?
+<SPEECH*>Esto antes era una fábrica de armas.\nQuizá lo usaron para\ndesarrollar armas nuevas.
+<SPEECH*>Pero como lo dejaron aquí, no pasa\nnada si nos lo llevamos, ¿verdad?
+<SPEECH*>Por mí bien. \nDe todas maneras, este lugar seguramente\nperteneció a la familia real.
+<SPEECH*>Entonces nos lo llevamos.
+<SPEECH*>¡Ja ja ja! \n¡Oliver! \n¡Ven aquí!
+<SPEECH*>¡Espera, Florian! \nEso era de Ion...
+<SPEECH*>¡Papá! \n¿Qué estás haciendo?
+<SPEECH*>Oh... Sólo estábamos ordenando las\npertenencias del maestro fónico Ion. <PAGE>\n<SPEECH*>Y entonces Florian agarró una\nde ellas y salió corriendo...
+<SPEECH*>¿Y le estás persiguiendo?
+<SPEECH*>¡Anise! \n¡Juguemos al pilla pilla! \n¡Tú la llevas!
+<SPEECH*>¡Florian! ¡Ahora no tenemos\ntiempo para esto!
+<SPEECH*>Bueno, no hay nada de malo en\ntomarse un descanso de vez en cuando.
+<SPEECH*>Debes tener un motivo\npara decir eso...
+<SPEECH*>¡Venga, vamos a jugar al pilla pilla! \n¿O al escondite?
+<SPEECH*>¡Vale! \n¡No me he pasado la vida encerrado\nen una mansión para nada! \n¡Ya eres mío!
+Aún no hemos encontrado a Florian.
+<SPEECH*>¡Te encontré!
+<SPEECH*>¡Je je je, qué divertido!
+<SPEECH*>¿Podría ser eso un catalizador del arte planetario?
+<SPEECH*>¡Aquí estás! \n¡Te estaba buscando, Florian!
+<SPEECH*>Mamá, ¿esto era de Ion?
+<SPEECH*>¿Qué? Sí, lo era... \nBueno, de hecho, era de su\npredecesor, Evenos.
+<SPEECH*>Oh, sí... Evenos intentó\nresucitar el arte fónico\nplanetario, ¿verdad?
+<SPEECH*>Entonces tiene sentido que él\ntuviera uno de los catalizadores.
+<SPEECH*>Mamá, ¿nos lo podemos llevar?
+<SPEECH*>Eso no es algo que yo\npueda decidir, Anise.
+<SPEECH*>Preguntémosle a Tritheim.
+<SPEECH*>Florian, volvamos a\nnuestro cuarto, ¿vale?
+<SPEECH*>Vale. ¡Anise, juguemos otra\nvez algún día!
+<SPEECH*>¿Un catalizador para el arte fónico\nplanetario entre las pertenencias\ndel Maestro Fónico Evenos?
+<SPEECH*>¿Podríamos tomarlo prestado?
+<SPEECH*>Muy bien. <PAGE>\n<SPEECH*>Lo permito. Pero, por favor,\naseguraos de que lo devolvéis\ncuando todo haya acabado.
+<SPEECH*>Y ya tenemos todos los catalizadores.
+<SPEECH*>Ese mapa... era del\nmonte Roneal, ¿verdad?
+<SPEECH*>Me preocupa que no sepamos\nnada sobre el arte planetario, \npero quizá debamos ir...
+<SPEECH*>¡Estoy tan emocionada!
+<SPEECH*>Me pregunto qué clase de arte es...
+<SPEECH*>¿Qué te pasa?
+<SPEECH*>No lo sé. De repente, me\nhe empezado a preocupar...
+<SPEECH*>No te preocupes. Si\nlas cosas van mal,\nyo te protegeré.
+<SPEECH*>¿Qué?...
+<SPEECH*>Eh...
+<SPEECH*>N-No quería decirlo así...
+<SPEECH*>Bueno, vale. No me lo\nhe tomado mal.
+<SPEECH*>¿Crees que éste es el lugar?
+<SPEECH*>Sí... Creo que este es el glifo fónico\npara el arte planetario.
+<SPEECH*>Según el glifo fónico, los catalizadores\nde Rem y Shadow deben colocarse en\nla posición correcta.<PAGE>\n<SPEECH*>Sino, el glifo fónico\nno se activará.
+<SPEECH*>Mmm. \n¡Pues hagámoslo!
+<SPEECH*>Espera... hay algo extraño en este\nglifo fónico. Lo han puesto encima\nde uno más antiguo.<PAGE>\n<SPEECH*>Y el glifo fónico nuevo parece\nuna especie de sello.
+<SPEECH*>¡Ja ja ja ja ja! \n¡Bien hecho, mi viejo amigo!
+<SPEECH*>¡¿Dist el Segador?! \n¡¿Estás vivo?!
+<SPEECH*>¡Es "Rosa", maldita sea! Pero\nya no necesito ese viejo apodo\nde General de Élite...
+<SPEECH*>Sobrevivió a todo aquello... \nEs cierto que mala hierba nunca muere...
+<SPEECH*>¡Tú, calla! \nY pensar que me ahorraríais\nel esfuerzo de buscar esos\ncatalizadores...<PAGE>\n<SPEECH*>Je je je...\nPor favor, seguid y colocadlos\nen el glifo fónico.
+<SPEECH*>No...
+<SPEECH*>Pues la vida de esta chica acabará.
+<SPEECH*>¡Jade! \nHagamos lo que dice.
+<SPEECH*>¿Aunque no tengamos ni\nidea de lo que puede pasar?
+<SPEECH*>¡Es mejor que\nperder a Anise!
+<SPEECH*>¡Sí! ¡Lo conseguí! ¡Por fin he traído\nde vuelta a la profesora Nebilim!
+<SPEECH*>¡¿La profesora Nebilim?! \nDist, ¿qué se supone que...?
+<SPEECH*>No...
+<SPEECH*>¡Sí, exacto! \n¡La primera réplica que\nhiciste está aquí! <PAGE>\n<SPEECH*>¡Nuestra querida profesora \nGelda Nebilim!
+<SPEECH*>Gracias, Saphir...
+<SPEECH*>¡Profesora Nebilim! \nProfesora, hay tantas cosas\nque quiero decir...
+<SPEECH*>¡Agachaos! \n¡Ahora!
+<SPEECH*>Profesora...
+<SPEECH*>¡¿Dist?!
+<SPEECH*>Algo va mal. Hay un monstruo\nespeluznante ahí dentro...
+<SPEECH*>Ja ja ja. Oh, qué\ngrosero, llamarme\nmonstruo...
+<SPEECH*>Es... fuerte...
+<SPEECH*>Gracias a esos catalizadores\nque habéis traído,<PAGE>\n<SPEECH*>por fin he recuperado los fonones\nde Rem y Shadow que me faltaban. \nGracias.
+<SPEECH*>¿Qué haces aquí?...
+<SPEECH*>Yo también me alegro de verte, Jade.
+<SPEECH*>Eras un niño tan encantador... \nAhora das miedo.
+<SPEECH*>¡Te he preguntado que qué haces aquí!\n¡Contéstame!
+<SPEECH*>Oh, qué miedo. Sólo estaba tomando\nfonones de Rem y Shadow de unos\ncuantos fonistas<PAGE>\n<SPEECH*>y acabé sellada aquí dentro.
+<SPEECH*>¡¿Quieres decir... que tú\nfuiste la que destruyó una\ncompañía entera de fonistas?!
+<SPEECH*>Con estos catalizadores,\npor fin estaré completa.<PAGE>\n<SPEECH*>Jade... te deshiciste de mí e\nintentaste matarme, ¿verdad?
+<SPEECH*>Después de todo, yo era un fracaso\ndefectuoso. Pero ahora soy perfecta,\n¿no es así? Je je je je.
+<SPEECH*>Profesora...
+<SPEECH*>¡C-Cállate! \n¡¿Cómo puedes decir que eres perfecta?! \n¡Dist era alumno de tu original!<PAGE>\n<SPEECH*>¿Y lo matas sin ni siquiera\npestañear? ¡Está claro que\nno eres perfecta!
+<SPEECH*>¡Eso! Puede que Dist sea estúpido, malo, que no\ntenga amigos, que sea feo, presumido y poco \nmás que un proyecto cutre de ser humano.<PAGE>\n<SPEECH*>Pero me hizo a Tokunaga\ny me ayudó. ¡Lo vengaré!
+<SPEECH*>No debería haberme permitido\nperder tanto el control...<PAGE>\n<SPEECH*>A estas alturas, que seas\nperfecta o no es irrelevante.<PAGE>\n<SPEECH*>Por la presente te arresto como \nprincipal sospechosa de los asesinatos\nen serie de los fonistas.
+<SPEECH*>¡Qué propuesta tan interesante! \nBueno, ¿por qué no lo intentas? \nAunque... ¡me temo que venceré!
+<SPEECH*>Ugh... ¡Mis fonones se están separando\notra vez! Tengo que recuperarme en\nel glifo planetario...
+<SPEECH*>Jade, el glifo fónico original que\nestaba inscrito aquí... ¿Crees que\nera para el arte planetario?
+<SPEECH*>¡Vamos a ver!
+<SPEECH*>¡Madre Auldrant, \npréstame tu poder!
+<SPEECH*>¡Aaaaaaaaah!
+<SPEECH*>Qué poder tan asombroso...
+<SPEECH*>Sí... Es un arte fónico que utiliza\nel sephiroth para liberar el\npoder del planeta.
+<SPEECH*>¿Entonces lo has aprendido?
+<SPEECH*>Por desgracia no. El glifo estaba\nmodificado, así que no he podido usar\nni la mitad de la fuerza de ese arte. <PAGE>\n<SPEECH*>Quizá Dist tenía información sobre el\nglifo del arte planetario original, pero...
+<SPEECH*>Dist está...
+<SPEECH*>Nnrgh... auh... \nNo me pegues, Jade...
+<SPEECH*>Jade, estaba pensando... ¿qué\nera eso de que la profesora\nNebilim es una réplica?
+<SPEECH*>Creo que no puedo ocultarlo\nmás tiempo. Lo explicaré cuando\ninformemos al Emperador.
+<SPEECH*>¿Dejamos a Dist aquí?
+<SPEECH*>Oh, ya nos seguirá. \nYo no me preocuparía.
+<SPEECH*>Oh ira de los cielos y alaridos de\nla tierra... Dejad caer la espada del\njuicio para eliminar todo lo maligno.
+<SPEECH*>¡Muere!
+<SPEECH*>Así que por fin te has ocupado\nde la profesora Nebilim...
+<SPEECH*>Coronel, prometiste que\nnos lo explicarías...
+<SPEECH*>Todo comenzó por mi curiosidad...<PAGE>\n<SPEECH*>Experimenté en mí mismo qué pasaría\nsi alguien que no podía usar el\nséptimo fonón lo intentaba.<PAGE>\n<SPEECH*>El arte fónico se me fue de las\nmanos y se incendió la residencia\nde la profesora Nebilim.
+<SPEECH*>La profesora Nebilim estaba casi\nmuerta. Con la ayuda de Dist, la\nllevé a las afueras del pueblo.
+<SPEECH*>¡Jade! \n¡La profesora va a morir!
+<SPEECH*>Sí. Es culpa mía. \nYa no podemos salvarla. \nPero con la fomicría...
+<SPEECH*>¡Oh! ¿Vas a hacer una réplica de\nla profesora? Pero no tenemos\nninguna máquina de fomicría.
+<SPEECH*>Usaré artes fónicas para hacerlo. \nYa lo hice con la muñeca de Nephry, \nasí que debería de funcionar.
+<SPEECH*>Ugh...
+<SPEECH*>¡Guau! \n¡Ha salido bien! \n¡Jade, eres increíble!
+<SPEECH*>¡¿Qué pasa?!
+<SPEECH*>Ugh..... ugh..... ugh...
+<SPEECH*>¡A... aaaaah!
+<SPEECH*>La réplica de la profesora Nebilim \nsólo sabía destruir.<PAGE>\n<SPEECH*>Intenté elimi... matarla, pero se\nfue antes de que pudiera hacerlo.
+<SPEECH*>Así que eso fue lo que causó este incidente.
+<SPEECH*>Pero Jade está muy arrepentido de\nlo que hizo... Por eso prohibió\nla replicación de seres vivos.
+<SPEECH*>¡Por favor, no lo odiéis por eso!
+<SPEECH*>Luke...
+<SPEECH*>Hey, idiota, nadie ha \ndicho nada de odiarlo.<PAGE>\n<SPEECH*>Todos hemos visto cómo intentó\ndetener el uso de la fomicría.
+<SPEECH*>Desde luego. Coronel, gracias\npor contarnos lo que debió ser\nuna experiencia difícil.
+<SPEECH*>De nada... Es un poco incómodo\nque me lo agradezcas. Si merezco\nalgo, es que me castiguen por ello. 
+<SPEECH*>Coronel, hay algo\nque no encaja.<PAGE>\n<SPEECH*>Si mal no recuerdo, la fomicría sólo\nutiliza el séptimo fonón para crear las\nréplicas, y no del primero al sexto...
+<SPEECH*>Sí. Por eso las réplicas se desvanecen\ncuando el séptimo fonón se separa.
+<SPEECH*>¿Qué? Pero Nebilim dijo algo\nsobre necesitar el primer\ny el sexto fonón...
+<SPEECH*>Nebilim fue la primera réplica viva. \nLa tecnología era diferente por aquel entonces. \n¿Verdad, Jade?
+<SPEECH*>Sí. La teoría original estaba basada\nen artes fónicas, y de esa manera\ncreé la réplica de la profesora. <PAGE>\n<SPEECH*>Pero con ese método, a la réplica\nle faltan algunos fonones.
+<SPEECH*>Eso causa inestabilidad mental, lo que lleva\na un comportamiento destructivo o a que las\nhabilidades se desarrollen de manera anormal.
+<SPEECH*>Así que eso le pasó a\nla réplica de Nebilim.
+<SPEECH*>Sí. Para superar ese problema, Dist\ny yo modificamos el proceso para\nusar sólo el séptimo fonón.
+<SPEECH*>Y Saphir está vivo, ¿eh?\nSiempre ha sido duro, ¿no?
+<SPEECH*>Ya sabes que es un criminal. \n¿No vas a capturarlo?
+<SPEECH*>Está claro que le vigilaremos. \nSi le veis, hacedle pasar. <PAGE>\n<SPEECH*>Oh, y tú guarda esa espada un\ntiempo. Quizá te sea útil en\nfuturas batallas.
+<SPEECH*>¡Espera!
+<SPEECH*>De verdad nos ha seguido...
+<SPEECH*>¡¿Cómo habéis sido tan crueles\nde dejarme en monte Roneal?!
+<SPEECH*>Dist, ¿Mohs no te iba a dar\nlos datos de réplica de la\nprofesora Nebilim?
+<SPEECH*>¿Q-Qué te pasa, tan de repente? \nEsa era mi intención. <PAGE>\n<SPEECH*>Pero cuando me recuperé de lo de\nla Torre de Rem, Mohs ya estaba\nmuerto y Van estaba vivo...<PAGE>\n<SPEECH*>Y Van no es muy amable con los traidores,\nasí que ya no puedo volver.
+<SPEECH*>Ya veo... Por eso te pusiste en\ncontacto con la réplica original. <PAGE>\n<SPEECH*>Tú robaste los documentos sobre\nel arte fónico planetario de la\nDivisión de Inteligencia, ¿no?
+<SPEECH*>No había muchos. Toda la \ninformación importante se\ndestruyó en aquel incendio.
+<SPEECH*>Entiendo. Quedas arrestado por\nviolar el Artículo 1 del Decreto\nNacional de Inteligencia.\n¡Cogedle!
+<SPEECH*>¡¿Pe-pero qué haces?! \n¡Soy tu amigo!
+<SPEECH*>¿Quién es amigo de quién?
+<SPEECH*>¡Yo, Dist... no, Saphir... soy amigo de Jade!
+<SPEECH*>Me alegra no conocer a ningún\nJade con tan mal gusto para\nlos amigos. Venga.
+<SPEECH*>Gracias, Coronel. \nHaremos el interrogatorio.
+<SPEECH*>Por favor.
+<SPEECH*>Traidor... ¡Te odiaré para siempre!
+<SPEECH*>Dime cómo te pusiste\nen contacto con la\nréplica de Nebilim.
+<SPEECH*>Como ya he dicho, encontré ese lugar hace\nvarios años en una misión de los Caballeros\ndel Oráculo al monte Roneal. <PAGE>\n<SPEECH*>Entonces escuché la voz de la profesora\nNebilim... aún se acordaba de mí. <PAGE>\n<SPEECH*>Debajo del sello había un glifo fónico\npara hacer el arte planetario. Ella me dijo\nque encontrara los catalizadores...
+<SPEECH*>¿Por qué robaste los documentos de \nla División de Inteligencia?
+<SPEECH*>La réplica de la profesora Nebilim \nme habló sobre el glifo fónico para\nhacer el arte planetario. <PAGE>\n<SPEECH*>Al parecer, ella había estado\nleyendo sobre ello cuando se\nincendió su casa, así que...
+<SPEECH*>Ya veo... Así que los archivos\nsobre el arte planetario\nse han perdido del todo.<PAGE>\n<SPEECH*>Es mala suerte, pero\nquizá sea para bien.
+<SPEECH*>Maestro Tritheim, sobre\nel Corazón del Caos...
+<SPEECH*>Puede que te sea útil.<PAGE>\n<SPEECH*>Quédatelo por ahora.
+<SPEECH*>¡¿De verdad?! \n¡Gracias!
+¡Perdonad! ¿Habéis visto cerdinejos\ncorriendo por aquí?
+¿Cerdinejos?
+No hemos visto ninguno.
+¡Oh, no! \n¿Qué voy a hacer? \n¡Gelda! ¡Saphir!
+¡Oh, sois vosotros!\nHabéis llegado a tiempo. \nEsta vez, vuestra misión será...
+No hemos dicho nada de emprender\nninguna misión.
+¡Detalles! ¿Quién los necesita?\n¡Lo más importante es que mis preciosos\ncerdinejos se han escapado!<PAGE>\nAún deberían estar dentro del castillo,\nen alguna parte. ¿Podéis ir a buscarlos?
+Majestad, no hemos venido aquí\npara buscar cerdinejos.
+¿Qué?\nEntonces te digo: ¿qué harías si mi\npequeño y dulce Jade se cae por las\nescaleras y se rompe el cuello?<PAGE>\n¿Te responsabilizarías si\nasan a mi pequeño y dulce\nJade en la cocina?
+Eso es extremadamente molesto.\nPor favor, deje de decir esas cosas.
+No te preocupes.\nTú no eres el Jade bonito.<PAGE>\nA mi pequeño y dulce Jade no se le da bien\naprender trucos, pero su piel es tan brillante y...
+Los buscaremos. Los buscaremos, así\nque por favor, por Dios, pare ya.
+Me alegro que hayas entendido mi situación.<PAGE>\nHay cinco cerdinejos: \nNephry, Jade, Saphir, \nAslan, y Gelda.<PAGE>\nSi los encontráis, os recompensaré. ¡Gracias!
+Coronel.
+Lo siento.\nNo podía soportar más humillaciones. 
+El emperador Peony te tiene calado,\n¿eh, Jade? ¿Tiene material con el\nque chantajearte o algo?
+Si Jade tiene algún punto débil, me\ngustaría saberlo. Su Majestad se\nmerece mi admiración.
+En cualquier caso, ahora que ya hemos\ndicho que sí, tenemos que buscarlos.
+¡Sí!\n¡Consigamos la recompensa!
+Ah, éste es Jade, eh.
+Para haberle puesto el nombre de Jade,\nha sido bastante fácil de encontrar.
+No puedo creer que usara el nombre de mi hermana...
+Pero parece que éste tiene\nel collar más elaborado.
+No estoy seguro de que eso me guste.
+De cerca, éste tiene los ojos del\nmismo color que los del general Frings.
+¿Por eso le puso Aslan? \nSu Majestad no se pasa mucho tiempo\npensando nombres, ¿eh?...
+Debo cuestionar el proceso de reflexión\nque hay detrás de llamar a este\ncerdinejo como la profesora...
+¿Has dicho algo?
+No... No es nada.
+"Saphir"... ¿Ése no es...?
+El nombre real de Dist el Segador...
+La cara de estúpido que tiene\nhace que se parezcan bastante.
+Buen trabajo. Qué alivio tener a todos\nmis preciosos cerdinejos de vuelta.
+Vaya panorama, ver tantos cerdinejos\njuntos en este sitio...
+(Son tan monos...)
+Su Majestad @ \nSobre la recompensa...@
+Oh, sí. \nDejad que os dé esto.
+Es un pase para el balneario\nMegalofrederica de Keterburg.
+¡Guau!<PAGE>\n¡El balneario Megalofrederica es de \nclase alta, sólo para miembros nobles! \n¡Cuesta 100.000 gald apuntarse!
+Suena maravilloso. Ya he oído hablar\nde él. Estoy segura que los baños son\nmucho mejores que los del castillo.
+No sé cómo debe ser un balneario...
+Por algún motivo, no estoy muy \ncontento con esta recompensa.
+Sí, normalmente los balnearios\ninteresan a las chicas.
+¿De verdad? A mí me gustan. Me alegra\nque de vez en cuando hagas regalos\nsensatos, Majestad.
+Ahora mismo lo están remodelando, pero\nid a probarlo cuando lo abran.
+Jade ha recibido el título de "title 6."
+¡Hola!\n¡Habéis llegado en buen momento!\n¡Mirad esto!
+Oh, qué niños más monos.
+Sí que lo son.\nParecen tener 10 años, más o menos.
+Su Majestad, no me digas que son...
+¿Son sus hijos ilegítimos,\nSu Majestad?
+No seas tonto. Es una foto de Jade,\nSaphir y mía cuando éramos pequeños.
+Oh, es verdad. Jade ha sido amigo de\nSu Majestad desde que eran niños.
+Así que incluso este tipo fue niño, ¿eh?
+Sería algo inquietante que yo hubiera\nnacido tal cual estoy ahora.
+Lo que daría miedo sería que yo me\nlo creyera en tu caso, Jade.
+Pues no te equivocas demasiado. Él\nparecía un niñito inocente, pero\ntenía un monstruo en su interior.
+¡Su Majestad!
+Oh, me encantaría oír algo\nsobre tu infancia, Coronel.
+Éste iba acompañado de todos los\nniños del barrio, pavoneándose\ncomo si fuera su emperador.
+Oh, que te juegas a que lo sé: siempre\ntenía a Dist correteando cerca, ¿a que sí?
+Sí. Y siempre atraía a los monstruos a\nla ciudad a propósito y los provocaba.<PAGE>\nLuego aparecía como si pasara por allí\nde casualidad y salvaba a los adultos\ndesesperados, y se ganaba caramelos y\ndinero como recompensa.
+Es horrible...
+Para que quede claro, Su Majestad\ntambién participaba en eso.
+Sólo fui contigo para\nintentar detenerte.
+Y luego pegabas a Saphir\npara que te diera el dinero.
+Hey, lo mal adquirido se va como ha venido, ¿no?
+En otras palabras, los tres\nerais horribles...\nEs lamentable...
+Hey. ¿Habéis venido a oír más\nhistorias de mi pasado?
+¡Sí!
+Dime, ¿tú no estabas encerrado\nen tu casa como yo?<PAGE>\n¿Cómo conociste a Jade?
+Cuando se enteró de que el hijo del \nEmperador había ido a su ciudad, usó la\nmansión donde yo vivía como patio de recreo.<PAGE>\nCompitieron a ver cuál de los niños\nde allí era el primero en conocer\nal hijo del Emperador.
+Tío, Jade era un gamberro.
+He aprendido la lección\ndesde entonces, ya sabes...
+Utilizó a Saphir como señuelo\npara distraer a los guardias y\nvenir a jugar conmigo.<PAGE>\nDespués, trabajamos juntos para\nconstruir una ruta de escape secreta,\ny ya podía salir dela mansión.<PAGE>\nEn pocas palabras, sentía pena de mi\nsituación y vino a rescatarme.
+Vaya, esta historia tiene su lado tierno.
+Así que el Coronel es\na Su Majestad lo que\nGuy es a Luke.
+Sí, algo parecido.
+Bueno, ¿y qué le pasó\nal señuelo, a Dist?
+Oh, los guardias lo pillaron y\nlo regañaron severamente.
+¿"Oh"? Si lo pillaron, ¿no descubrieron\nque tú también estabas metido?
+Yo era un alumno íntegro, la estrella,\nasí que nadie sospechó de mí.
+Bueno, eso es lo que\nfingía con los adultos.
+¡Es una emergencia!\n¡Mis cerdinejos han huido otra vez!\n¡Por favor, encontradlos, rápido!
+Otra vez no...
+¡Deprisa!\n¡Vamos!
+*Suspiro*
+Shh. Silencio.\nQuiero preguntarte una cosa.
+¿Cómo ha estado Jade últimamente?...
+Er, bueno, ha estado\ncomo siempre...
+Ya veo... Ah, es sobre la profesora Nebilim.<PAGE>\nMe preocupaba no saber qué hacer\nsi él volvía a ser su antiguo yo.
+¿Su antiguo yo? \n¿Qué quieres decir?
+¿Te acuerdas cuando os hablé\nantes de la infancia de Jade?
+Sí.
+No lo dije en su momento, pero había una\nparte de él que era preocupante.<PAGE>\nComo la razón por la cual atraía a los\nmonstruos para que atacaran a los adultos.\nEso era porque quería una excusa para matarlos.
+Sí, Nephry dijo algo sobre eso...
+Él no sentía nada cuando una criatura\nviva moría. No sentía ni pena ni\ncreía que era algo triste.<PAGE>\nCuando le dije que parara, me\ndijo que las cosas rotas\npodían arreglarse.<PAGE>\nY eso lo condujo a la fomicría.
+Oí que fue Su Majestad y\nNebilim quienes ayudaron\na Jade a cambiar.
+Cuando mató a la Profesora y fue\nincapaz de revivirla, por primera vez\nentendió el miedo a la muerte.<PAGE>\nÉl era un genio, así que nunca había\ncometido ningún error grande hasta entonces.
+Sí... Y por no querer afrontar\nsu error, se volcó en la investigación\npara revivir a los muertos.
+Primero Nephry y ahora Su Majestad.<PAGE>\nParece que todos piensan que\nsoy un idiota que intentaría\nalzar a los muertos de nuevo.<PAGE>\nComo si no hubiera visto a Luke, la víctima\nde mi investigación con mis propios ojos.
+No, no creo que seas tan estúpido\npero, después de todo, has matado\na la profesora Nebilim dos veces.
+¡Hey! ¡No tienes por qué decirlo así! \nUh... Quiero decir... Su Majestad, no\nveo la necesidad de plantear las cosas\nde esa manera...
+Ja ja. No estamos en público.\nPrefiero que me hables así y\nno tan formal.<PAGE>\nMe alegro por ti, Jade. Has hecho\namigos que tienen el corazón puro,\nque confían en ti y te respetan.
+Tienes razón, considerando que mis viejos\namigos se niegan a confiar en mí.
+¡Su Majestad, nos has engañado! \n¡Los cerdinejos han salido a pasear! \n¡¿Qué significa esto?!
+¿Eh? \nCoronel, Luke, ¿estáis los dos aquí?
+Oh... uh... sí...
+Lo siento, lo siento. Nunca creí\nque cayerais en eso tan fácilmente.
+¡No tengo palabras!\n¡Venga, dejemos a este embustero\ny sigamos nuestro camino!
+Peony...\nSiento preocuparte.
+No, yo me he preocupado demasiado.\nLo siento.
+Como ves, la pulcritud\nno es mi especialidad.
+Ése se llama Luke.\nBonito nombre, ¿no crees?

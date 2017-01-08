@@ -1,0 +1,492 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Buenos días, señor.\nEsta entrada lleva\na los archivos.
+Se pueden encontrar los\narchivos al final del\nvestíbulo cruzando esta puerta.
+Buenos días, señor.\nEsta entrada lleva\na los archivos.
+Se pueden encontrar los\narchivos al final del\nvestíbulo cruzando esta puerta.
+Buenos días, señor.\nEsta entrada lleva\na los archivos.
+Espero que el general Frings\ny el resto de las fuerzas estén a salvo.
+Buenos días, señor.\nEsta entrada lleva\na los archivos.
+Se pueden encontrar los\narchivos al final del\nvestíbulo cruzando esta puerta.
+Buenos días, señor.\nEsta entrada lleva\na los archivos.
+El emperador Peony parece estar\nbastante preocupado por el miasma.
+Buenos días, señor.\nEsta entrada lleva a la\nhabitación de los visitantes.
+Atraviese el vestíbulo y \nentre por la puerta del final.
+Buenos días, señor.\nEsta entrada lleva a la\nhabitación de los visitantes.
+Atraviese el vestíbulo y \nentre por la puerta del final.
+Buenos días, señor.\nEsta entrada lleva a la\nhabitación de los visitantes.
+No me puedo creer que todo el \ncampo de batalla se hundiera...\n¿Tiene Kimlasca tanto poder?
+Buenos días, señor.\nEsta entrada lleva a la\nhabitación de los visitantes.
+Atraviese el vestíbulo y \nentre por la puerta del final.
+Buenos días, señor.\nEsta entrada lleva a la\nhabitación de los visitantes.
+El mundo se ha cubierto\nentero de miasma...
+Buenos días, señor.\nEl Emperador le espera\nen la sala de audiencias.
+Esta área del palacio está\nrestringida a la familia real\ny a sus parientes.
+Buenos días, señor.
+Esta área está restringida.
+Buenos días, señor.
+Lo siento pero esta\nárea está restringida.
+Buenos días, señor.
+Lo siento pero esta\nárea está restringida.
+Buenos días, señor.
+Lo siento pero esta\nárea está restringida.
+Buenos días, señor.\nEl emperador Peony le espera\nen la sala de audiencias.
+Este recibidor lleva hasta\nlos aposentos de la familia real.
+Buenos días, señor.\nEsta área está restringida.
+Contamos con tu trabajo\nen San Binah.
+Buenos días, señor.\nEsta área está restringida.
+No sólo Engeve y San Binah,\nsino que el campo de batalla también...\nEspero que todo el mundo esté bien.
+Buenos días, señor.\nEsta área está restringida.
+Todavía no me puedo acostumbrar\na una vida sin la Partitura.
+Buenos días, señor.\nEsta área está restringida.
+Todo el mundo parece estar\nbastante preocupado por el miasma.
+Buenos días, señor.\nEl Emperador le espera dentro.
+La sala de audiencias\nestá pasada esta puerta.
+Buenos días, señor.
+Por favor, ten cuidado.
+Buenos días, señor.
+¿Qué le pasará al\ncontinente de Rúgnica?
+Buenos días, señor.
+Esta puerta lleva a\nla sala de audiencias
+Buenos días, señor.
+¿De dónde viene el miasma?
+Buenos días, señor\nEsta puerta lleva a la sala de audiencias
+Por favor, pase.
+Buenos días, señor.\nPor favor tenga cuidado.
+Espero que el mariscal de campo McGovern esté a salvo.
+Buenos días, señor.
+Es difícil mantener la calma\ncuando pienso en todo el mundo\nallá en el campo de batalla...
+Buenos días, señor.\nPor favor, pase.
+Con todo lo que ha pasado,\nno puedo evitar querer\nque se lea la Partitura...
+Buenos días, señor.
+Ojalá hubiera una forma\nde eliminar el miasma...
+Buenos días, señor.\nEl Emperador le espera\nen la sala de audiencias.
+Esta puerta lleva a la\nhabitación del Emperador.
+El Emperador está en estos momentos\nasistiendo a la sesión del consejo.
+No espero que vaya\na volver pronto.
+Buenos días, señor.
+Esperaremos a las órdenes del Emperador.
+Buenos días, señor.
+Esta puerta lleva a la\nhabitación del Emperador.
+Buenos días, señor.
+¿No estás afectado por el miasma?\nEl Emperador estaba preocupado por ti.
+Habitación de Peony
+Sala de audiencias
+¡Perdonad! ¿Habéis visto cerdinejos\ncorriendo por aquí?
+¿Cerdinejos?
+No hemos visto ninguno.
+¡Oh, no! \n¿Qué voy a hacer? \n¡Gelda! ¡Saphir!
+¡Oh, sois vosotros!\nHabéis llegado a tiempo. \nEsta vez, vuestra misión será...
+No hemos dicho nada de emprender\nninguna misión.
+¡Detalles! ¿Quién los necesita?\n¡Lo más importante es que mis preciosos\ncerdinejos se han escapado!<PAGE>\nAún deberían estar dentro del castillo,\nen alguna parte. ¿Podéis ir a buscarlos?
+Majestad, no hemos venido aquí\npara buscar cerdinejos.
+¿Qué?\nEntonces te digo: ¿qué harías si mi\npequeño y dulce Jade se cae por las\nescaleras y se rompe el cuello?<PAGE>\n¿Te responsabilizarías si\nasan a mi pequeño y dulce\nJade en la cocina?
+Eso es extremadamente molesto.\nPor favor, deje de decir esas cosas.
+No te preocupes.\nTú no eres el Jade bonito.<PAGE>\nA mi pequeño y dulce Jade no se le da bien\naprender trucos, pero su piel es tan brillante y...
+Los buscaremos. Los buscaremos, así\nque por favor, por Dios, pare ya.
+Me alegro que hayas entendido mi situación.<PAGE>\nHay cinco cerdinejos: \nNephry, Jade, Saphir, \nAslan, y Gelda.<PAGE>\nSi los encontráis, os recompensaré. ¡Gracias!
+Coronel.
+Lo siento.\nNo podía soportar más humillaciones. 
+El emperador Peony te tiene calado,\n¿eh, Jade? ¿Tiene material con el\nque chantajearte o algo?
+Si Jade tiene algún punto débil, me\ngustaría saberlo. Su Majestad se\nmerece mi admiración.
+En cualquier caso, ahora que ya hemos\ndicho que sí, tenemos que buscarlos.
+¡Sí!\n¡Consigamos la recompensa!
+Ah, éste es Jade, eh.
+Para haberle puesto el nombre de Jade,\nha sido bastante fácil de encontrar.
+No puedo creer que usara el nombre de mi hermana...
+Pero parece que éste tiene\nel collar más elaborado.
+No estoy seguro de que eso me guste.
+De cerca, éste tiene los ojos del\nmismo color que los del general Frings.
+¿Por eso le puso Aslan? \nSu Majestad no se pasa mucho tiempo\npensando nombres, ¿eh?...
+Debo cuestionar el proceso de reflexión\nque hay detrás de llamar a este\ncerdinejo como la profesora...
+¿Has dicho algo?
+No... No es nada.
+"Saphir"... ¿Ése no es...?
+El nombre real de Dist el Segador...
+La cara de estúpido que tiene\nhace que se parezcan bastante.
+Buen trabajo. Qué alivio tener a todos\nmis preciosos cerdinejos de vuelta.
+Vaya panorama, ver tantos cerdinejos\njuntos en este sitio...
+(Son tan monos...)
+Su Majestad @ \nSobre la recompensa...@
+Oh, sí. \nDejad que os dé esto.
+Es un pase para el balneario\nMegalofrederica de Keterburg.
+¡Guau!<PAGE>\n¡El balneario Megalofrederica es de \nclase alta, sólo para miembros nobles! \n¡Cuesta 100.000 gald apuntarse!
+Suena maravilloso. Ya he oído hablar\nde él. Estoy segura que los baños son\nmucho mejores que los del castillo.
+No sé cómo debe ser un balneario...
+Por algún motivo, no estoy muy \ncontento con esta recompensa.
+Sí, normalmente los balnearios\ninteresan a las chicas.
+¿De verdad? A mí me gustan. Me alegra\nque de vez en cuando hagas regalos\nsensatos, Majestad.
+Ahora mismo lo están remodelando, pero\nid a probarlo cuando lo abran.
+Jade ha recibido el título de "title 6."
+¡Le has arrancado las alas!
+Han salido con demasiada facilidad.
+Ugh, eso es cruel...
+¡Es horrible! ¡Te odio, Rody!
+¿Qué pasa contigo? ¡Si vas a llorar\nno vengas más conmigo!
+¡Sal de en medio, vieja!
+Vi-vi-vi-vieja...
+*Snif* ¡Rody, espérame!
+¡¿Qué les pasa a los niños de hoy en día?!
+Tu también eres una niña, Anise...
+Pero arrancar las alas a una mariposa...\nMe pregunto si tiene algun motivo...
+Lo dudo. Cuando yo era un crío,\ntambién destruía hormigueros\ny me entretenía con ellos.
+Ahora que lo dices... Asch también\nhacía cosas como ésa.
+Por supuesto, aunque si no empiezas a \nentender que ese tipo de cosas son \ncrueles tras haber crecido,<PAGE>\nes una mala señal.
+Oh, sí, a veces te encuentras gente\ncomo ésa que se une al ejército.\nSon terribles.
+Pero normalmente, una vez te haces mayor\nempiezas a sentir pena por ellos.<PAGE>\nY si no, al menos empiezas a pensar \nque las cosas muertas son desagradables.
+Sí... espero que ese chico\ncrezca tal como dices.
+Mientras siga viviendo con otros seres\nhumanos, estará atado a las leyes y la \nmoral, le guste o no.<PAGE>\nImagino que parará antes de \ncometer un crimen de verdad.
+Jade...
+Siempre encuentras una forma \ncínica de ver todo.
+Cuando lo dice Jade, parece que es verdad...
+Mis más sinceras disculpas.
+Dejad de decir tonterías.
+Pero la historia del Coronel\nCurtiss reuniendo cadáveres en\nel campo de batalla es...
+Parece que es verdad que hubo un\ntiempo en que hacía esas cosas...
+Yo oí que inventó la fomicría para\ncriaturas vivas para resucitar a los\nmuertos y crear un ejército inmortal.<PAGE>\n¡Y usan a todo aquél que sea\nenviado a la Tercera División\npara sus experimentos humanos!
+¡Oh! ¡Eso es difamación!\n¡Deja de extender\nrumores falsos!
+¡Coronel Jade!\nLo siento...<PAGE>\nÉl es un nuevo oficial asignado a\nla Tercera División. Unos cuantos\nestán esperando dentro.
+Encantado de conocerte.\nSoy el coronel Jade Curtiss.
+Uh... uh... Yo...
+¿Qué estás balbuceando?\n¡Pídele disculpas al Coronel!
+Natalia. Esto es un tema\nmilitar. No somos quién\npara intervenir.
+¡Pero!
+Natalia, no pasa nada. Algunas\nde las cosas que dice son verdad.
+Para perfeccionar la técnica de la fomicría,\nreuní cadáveres de los campos de batalla y\nlos usé en experimentos.<PAGE>\nNaturalmente, tenía permiso del\ncomando militar, pero aquello\nfue éticamente imperdonable.
+Jade...
+Voy a saludar a un nuevo oficial \ntransferido. Esperadme en la oficina.
+Oh, eres tú.
+Su Majestad...\n¿Has venido a jugar de nuevo?
+Bueno, sí.\nLas criadas me han echado de mi cuarto,\ndiciendo que iban a limpiarlo.<PAGE>\n¿Mmm? ¿Qué te pasa?\nPareces decaído.
+Ya veo... Ya conoces el origen del\napodo "Nigromante".
+¿Jade reunía cadáveres bajo las\nórdenes de los militares?
+Eso parece.<PAGE>\nO, siendo precisos, los militares\nquerían la fomicría de Jade y le\ninvitaron a Gran Chokmah.<PAGE>\nLo adoptaron en la familia Curtiss.
+¿Qué querían hacer  \ncon la fomicría?<PAGE>\nNo me digas que era porque querían usarla\npara crear un regimiento sin fin de soldados.
+Exacto. Con el propósito de la investigación,\nel ejército y la academia le dieron\na Jade mucha autoridad.<PAGE>\nY así, él... bueno, él y Saphir... recogían\ncadáveres que estaban en buenas condiciones\ncada vez que iban al campo de batalla.
+Y los rumores volaron por sí solos, eh...
+(¿Hizo todo eso por el bien\nde la profesora Nebilim?)
+¿Puedo pediros que os\nabstengáis de hablar de\nlos demás a sus espaldas?
+Venga, venga, no te enfades, Jade.<PAGE>\nLo mejor es negar todos esos molestos\nrumores sobre intentar resucitar\na los muertos, ¿no crees?
+No veo la necesidad de negarlo...
+¡Niégalo!\nEs una orden.
+Entendido.\nEntonces, ¿deberíamos irnos?
+Jade, uh...
+Luke... \nA veces es mejor no decir nada.\n¿Entiendes?
+Perdone, ¿es usted el coronel Curtiss?
+Lo soy.\n¿Puedo preguntar quién eres tú?
+Mi nombre es Aqua.<PAGE>\nHe estado buscándote\npara pedirte\nayuda.
+No estoy especialmente interesado\nen ayudar a la gente...
+¡Por favor, tienes que hacerlo!\n¡Eres el único que puede salvarlo!
+Coronel, los soldados existen\npara proteger a los civiles.
+No creo que yo esté relacionado con eso.
+¡Vamos a ayudarla!
+*Suspiro*
+¡Gracias!\n¡Por favor, venid por aquí!
+Quiero que ayudes a la persona\nque va en ese carro. Sólo tu\npuedes ayudarle, Coronel.<PAGE>\nPor favor.
+¡Alejaos, todos vosotros!...
+Jade, ¿qué pasa?
+¿Puede traer a Tony de nuevo a la vida, Coronel?
+Tony...\n¡¿Te refieres a Tony del Tartarus?!
+De vuelta a la vida...\n¡¿Hay un cadáver ahí?!
+Sí, el de Tony. Él era mi amado.<PAGE>\nCuando su misión actual acabara,\nse supone que íbamos a casarnos,\npero estuvo fuera tanto tiempo...<PAGE>\nFui a buscarle.<PAGE>\nEncontré un río lleno de cadáveres,\ny Tony también estaba allí.
+¿Qu... qué está diciendo?
+Estaba en shock, pero\nentonces me acordé.<PAGE>\nLa Tercera División, donde estaba Tony,\nestaba dirigida por el coronel Curtiss.<PAGE>\nTú le devolverás la vida,\n¿verdad, Coronel?
+C-Coronel... ella...
+......
+¡Aqua, lo que estás diciendo\nes todo un malentendido!\nJade no...
+Luke, está bien.\nYo hice experimentos \npara revivir muertos.
+¿De qué hablas? ¿No estabas\ndirigiendo una investigación\npara crear soldados réplica?...
+No, intentaba usar la fomicría\npara revivir a los muertos.<PAGE>\nPero los muertos no vuelven. Es\nla conclusión a la que llegué.
+¿Qué estás diciendo?...\n¡Date prisa y revive a Tony!
+No puedo.\nJade el Nigromante falló\nen revivir a los muertos.
+¡Estás mintiendo!...
+No es una mentira.
+Je je... ¡Ja ja ja ja!\nEstás mintiendo...\nAh ja ja ja....\nJa ja ja ja... mien... tes...
+Jade... \n¿Qué deberíamos hacer?
+Vamos a llevarla al médico.\nEn cuanto a Tony... tenemos que enterrarle.
+Un suceso desafortunado...
+Coronel... sobre lo que dijiste antes...
+Lamento tener un\npasado tan dudoso.
+¡¿Qué?!\n¡No tienes que decir esas cosas!\n¡Yo no he dicho nada sobre eso!
+Jade, eso no venía a cuento.
+Lo sé...<PAGE>\nPero si queréis saber por qué me \nensucié las manos investigando cómo\nresucitar a los muertos,<PAGE>\nos digo que no es algo de lo que esté\ndispuesto a hablar, así que no preguntéis.
+Lo siento... Este asunto es... como\nuna profunda herida para él.<PAGE>\nTodo el mundo aprecia el recuerdo\nde su primer amor, ¿verdad?<PAGE>\nEsto es un poco más complicado, pero... \nBueno, es algo parecido.
+Lo siento...\nFue muy inmaduro por mi parte.
+No pasa nada. Eso sólo muestra que\nincluso tú tienes cosas de las que\nno quieres hablar, Jade. ¿No, Natalia?
+Sí... Tienes razón. \nNo volveré a preguntar sobre eso.
+Lo siento... Puede que llegue el día\nen que os lo tenga que contar.
+¡Rody! \n¿Estás arrancando alas otra vez?
+¡Calla! \n¡A quién le importa!
+¡¿P-Por qué lo haces?! \n¡Duele! \nY ahora la mariposa...
+Oh, duele, ¿no?
+¡Eso es lo que he dicho!
+Entonces le tiene que haber dolido más a la\nmariposa a la que le he arrancado las alas.<PAGE>\nEso como si te hubiera arrancado los brazos.\nMurió luchando. 
+*Snif*...
+*Snif*...\n¡Buaaaa!
+¡Buaaaa!\n*snif* ¡Buaaaa!
+No vayas por ahí matando a\nseres vivos sin motivo.<PAGE>\nDe lo contrario, te haré lo mismo\nque tú le has hecho a la mariposa.
+¡Buaaaa!
+Coronel... Creo que podrías\nhaber sido más delicado.
+Para Jade, creo que eso ya\nha sido bastante delicado.
+Aunque me sorprende verte\nregañando a alguien sin\nque te lo pidan.
+Sí. Quiero decir que si hubiera sido la\nInstructora Natalia, lo entendería, pero...
+¡¿Qué quieres decir con eso?!
+No fue más que un impulso.<PAGE>\nParece que la gente necesita esa\nespecie de moral generalizada\ny regañinas superficiales.
+¡Guau! \nNunca pensé que te oiría\ndecir eso, Coronel.
+Yo fui un niño como él, hace mucho. Tengo\nque corregir esa actitud cuando la veo.<PAGE>\nSino, habrá más gente como yo en el\nmundo, y si eso ocurre, veremos más\ngente desgraciada como Aqua.
+Ya veo... Lo has hecho como si fuera\nuna pequeña expiación hacia Aqua.
+No, fue sólo por autocomplacerme.\nA la gente mayor nos gusta hacer esas cosas.
+Jade, para ser un viejo, creo\nque eres un buen tío...
+Ja ja, yo también.
+¡Y yo!
+Igual que yo.
+Sí...
+*Suspiro*...

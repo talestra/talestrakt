@@ -1,0 +1,139 @@
+## POINTER 210 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Pomo sagrado
+
+## POINTER 211 [t:1;r:1;ru:parsec;user:parsec;time:1200260281]
+Un recipiente que contiene pureza sacra.
+Los monstruos notan menos la presencia del grupo.
+
+## POINTER 220 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Pomo oscuro
+
+## POINTER 221 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:rinoninha;time:1175537572]
+Un recipiente que contiene oscuridad pura.
+Los monstruos notan más la presencia del grupo.
+
+## POINTER 230 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:rinoninha;time:1175537572]
+Jarabe
+
+## POINTER 231 [t:1;r:1;ru:parsec;user:parsec;time:1200260758]
+Previene los estados alterados físicos 
+durante 1 minuto en la batalla.
+
+## POINTER 240 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176290588]
+Néctar
+
+## POINTER 241 [t:1;r:1;ru:parsec;user:parsec;time:1200260758]
+Previene los estados alterados mágicos
+durante 1 minuto en la batalla.
+
+## POINTER 250 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Pomo alado
+
+## POINTER 251 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176290588]
+Una botella decorada con un par de alas.
+Transporta al grupo a la entrada de la mazmorra.
+
+## POINTER 260 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:parsec;time:1175428974]
+Salvia
+
+## POINTER 261 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176290588]
+Una hierba medicinal.
+Aumenta el HP máximo en 10 puntos.
+
+## POINTER 270 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Salvia roja
+
+## POINTER 271 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176290588]
+Una hierba medicinal.
+Aumenta el HP máximo en 30 puntos.
+
+## POINTER 280 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:parsec;time:1175428974]
+Ajedrea
+
+## POINTER 281 [t:1;r:1;ru:parsec;user:parsec;time:1200260758]
+Una hierba medicinal.
+Aumenta el TP máximo en 10 puntos.
+
+## POINTER 290 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Ajedrea roja
+
+## POINTER 291 [t:1;r:1;ru:parsec;user:parsec;time:1200260758]
+Una hierba medicinal.
+Aumenta el TP máximo en 30 puntos.
+
+## POINTER 300 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:parsec;time:1175428824]
+Lavanda
+
+## POINTER 301 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Una hierba medicinal.
+Aumenta el ATQ F. en 1 punto.
+
+## POINTER 310 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Lavanda roja
+
+## POINTER 311 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Una hierba medicinal.
+Aumenta el ATQ F. en 3 puntos.
+
+## POINTER 320 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:parsec;time:1175429056]
+Verbena
+
+## POINTER 321 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Una hierba medicinal.
+Aumenta la DEF F. en 1 punto.
+
+## POINTER 330 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Verbena roja
+
+## POINTER 331 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Una hierba medicinal.
+Aumenta la DEF F. en 3 puntos.
+
+## POINTER 340 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:parsec;time:1175428825]
+Manzanilla
+
+## POINTER 341 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Una hierba medicinal.
+Aumenta el ATQ M. en 1 punto.
+
+## POINTER 350 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Manzanilla roja
+
+## POINTER 351 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Una hierba medicinal.
+Aumenta el ATQ M. en 3 puntos.
+
+## POINTER 360 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:parsec;time:1175428825]
+Albahaca
+
+## POINTER 361 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Una hierba medicinal.
+Aumenta la DEF M. en 1 punto.
+
+## POINTER 370 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Albahaca roja
+
+## POINTER 371 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1179076585]
+Una hierba medicinal.
+Aumenta el DEF M. en 3 puntos.
+
+## POINTER 380 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:parsec;time:1175428825]
+Azafrán
+
+## POINTER 381 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:rinoninha;time:1175537573]
+Una hierba medicinal.
+Aumenta la AGL en 1 punto.
+
+## POINTER 390 [t:1;r:1;ru:parsec;user:kaene;time:1198457243]
+Azafrán rojo
+
+## POINTER 391 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:rinoninha;time:1175537574]
+Una hierba medicinal.
+Aumenta la AGL. en 3 puntos.
+
+## POINTER 400 [t:1;r:1;ru:parsec;user:kaene;time:1198457244]
+Lente mágica
+
+## POINTER 401 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179150338]
+Una misteriosa lente que revela 
+detalles de los enemigos.

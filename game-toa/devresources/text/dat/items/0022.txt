@@ -1,0 +1,130 @@
+## POINTER 4410 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079303]
+Manoplas de cocina
+
+## POINTER 4411 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Manoplas usadas para cocinar.
+Buenas para coger cacerolas calientes.
+
+## POINTER 4420 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco de cuero
+
+## POINTER 4421 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco hecho de cuero.
+Sólo protege la cabeza.
+
+## POINTER 4430 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco de hierro
+
+## POINTER 4431 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco hecho de hierro. 
+Expone la mitad inferior de la cara.
+
+## POINTER 4440 [t:1;r:1;ru:parsec;user:kaene;time:1198459317]
+Casco armet
+
+## POINTER 4441 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco de hierro que cubre
+la cara y la cabeza.
+
+## POINTER 4450 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco de acero
+
+## POINTER 4451 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco hecho de acero.
+Protege la cara y la cabeza.
+
+## POINTER 4460 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco de plata
+
+## POINTER 4461 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco hecho de plata. Generalmente
+reservado para usos ceremoniales.
+
+## POINTER 4470 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco cruzado
+
+## POINTER 4471 [t:1;r:1;ru:parsec;user:kaene;time:1198459317]
+Un tipo de casco armet. 
+Más refinado que el original.
+
+## POINTER 4480 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco de caballero
+
+## POINTER 4481 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco estándar de la Orden de Lorelei.
+
+## POINTER 4490 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Casco de duelo
+
+## POINTER 4491 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079308]
+Regalo dado a un héroe de una antigua tierra.
+
+## POINTER 4500 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182540317]
+Casco de mítril
+
+## POINTER 4501 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182540318]
+Casco hecho de mítril.
+
+## POINTER 4510 [t:1;r:1;ru:parsec;user:parsec;time:1200267138]
+Casco extraordinario
+
+## POINTER 4511 [t:1;r:1;ru:parsec;user:parsec;time:1200301586]
+Una obra maestra perfectamente elaborada.
+
+## POINTER 4520 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079309]
+Casco fónico
+
+## POINTER 4521 [t:1;r:1;ru:parsec;user:parsec;time:1200302187]
+Una de las reliquias de los Seis Reinos
+durante la era de la Guerra Fónica.
+
+## POINTER 4530 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079309]
+Casco de oro
+
+## POINTER 4531 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079309]
+Casco que perteneció a un antiguo héroe legendario.
+
+## POINTER 4540 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079309]
+Banda de Alice
+
+## POINTER 4541 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1179079309]
+Objeto común para sujetar el pelo hacia atrás.
+
+## POINTER 4550 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266508]
+Tiara de bronce
+
+## POINTER 4551 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266509]
+Tiara hecha de bronce.
+
+## POINTER 4560 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266509]
+Tiara de hierro
+
+## POINTER 4561 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266509]
+Tiara hecha de hierro.
+
+## POINTER 4570 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266509]
+Tiara de acero
+
+## POINTER 4571 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266509]
+Tiara hecha de acero.
+
+## POINTER 4580 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266509]
+Tiara de plata
+
+## POINTER 4581 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266509]
+Tiara hecha de plata. 
+Normalmente reservada para uso ceremonial.
+
+## POINTER 4590 [t:1;r:1;ru:parsec;user:parsec;time:1200301586]
+Tiara de oro
+
+## POINTER 4591 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266510]
+Tiara hecha de oro. 
+Se dice que aumenta la concentración.
+
+## POINTER 4600 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266510]
+Tiara de platino
+
+## POINTER 4601 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182266510]
+Tiara hecha de platino.
+Accesorio muy caro.

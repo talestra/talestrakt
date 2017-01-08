@@ -1,0 +1,490 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Supongo que el canal está cerrado...
+<SPEECH*>¡Maestro!
+<SPEECH*>Mieu...
+<SPEECH*>¡Oh, sí!\n¡San Binah está en peligro!
+¿Tú eres el que destruyó el anillo \nde tránsito del quinto sephiroth?<PAGE>\nHace dieciséis años, el del octavo \nsephiroth también desapareció, lo que\nsignifica que la segunda capa del sistema\nde defensa sephiroth ha sido desactivada...
+Yulia colocó un sistema de \ndefensa en los sephiroth. <PAGE>\nLa primera capa son los sellos\ndaáthicos que mantienen a la gente\nalejada de los anillos de tránsito.<PAGE>\nLa segunda capa es el sello albertesco, \nmantenido por el quinto y el octavo\nsephiroth, que evita que los sephiroth\nsean manipulados.<PAGE>\nLa tercera capa son los sellos\nyulianos, que la misma Yulia \nsituó en los anillos de tránsito.<PAGE>\nSin desactivar estas capas, nadie \npuede controlar un sephiroth.
+Hay diez sephiroth en total, pero\nel primero y el segundo, que\ngeneran la Tormenta Planetaria,<PAGE>\ny el quinto y el octavo, que\nmantienen el sello albertesco,\nson especialmente importantes.
+<SPEECH*>Luke...\nEstás despierto.
+<SPEECH*>¿Esto es un jardín de flores?
+<SPEECH*>Son selenias.\nLas únicas flores que crecen en el Qliphoth. \nFlorecen por la noche...
+<SPEECH*>Las Tierras Exteriores cubren el cielo, \nasí que apenas entra luz del sol...
+<SPEECH*>En fin, parece que\nte preocupa algo...
+<SPEECH*>¡Oh! ¡Sí!\n¡Quiero volver a las Tierras Exteriores!
+<SPEECH*>Podrás volver en algún momento.\nPero por ahora...
+<SPEECH*>¡No, he de volver ahora!\n¡Asch ha dicho que San Binah va a caer!
+<SPEECH*>Pero... has estado dormido todo este tiempo...
+<SPEECH*>¡Podía oír!\n¡Él y yo estamos conectados!
+<SPEECH*>Incluso aunque eso sea cierto,\n¿cómo planeas evitar que\nSan Binah caiga?
+<SPEECH*>P-Pues...
+<SPEECH*>No entiendes nada.
+<SPEECH*>Basas todas tus acciones en lo\nque otros dicen, y nunca intentas\nentender las cosas por ti mismo.
+<SPEECH*>No es diferente a como\nactuaste en Akzeriuth.
+<SPEECH*>Je je... Tienes razón.<PAGE>\n<SPEECH*>"El maestro Van dijo tal..."\n"Asch dijo tal..."\nEso es todo lo que digo...
+<SPEECH*>No es de extrañar que todo el mundo \nse canse de mí y me deje atrás.
+<SPEECH*>¿Lo sabías? ¿Que volvieron\na las Tierras Exteriores?
+<SPEECH*>Te lo he dicho, Asch y yo estamos \nconectados. Lo vi a través de él.
+<SPEECH*>Realmente soy su réplica...
+<SPEECH*>Luke...
+<SPEECH*>Hasta ahora, todo a lo que prestaba\natención era yo mismo...<PAGE>\n<SPEECH*>Y ni siquiera estoy seguro de que\nme viera con claridad...
+<SPEECH*>Sí...
+<SPEECH*>Quiero cambiar.\nDEBO cambiar.
+<SPEECH*>Si de verdad lo quieres,\nquizá puedas.
+<SPEECH*>Pero aunque cambies, eso no\ntraerá de vuelta Akzeriuth.<PAGE>\n<SPEECH*>Y no borrará el hecho de que\nmiles de personas murieron...
+<SPEECH*>Con todo ese peso sobre tus hombros,\n¿cómo pretendes cambiar?
+<SPEECH*>No lo sé... Je, eso es \ntodo lo que sé decir.\nSoy patético.
+<SPEECH*>Si pudiera hacer volver Akzeriuth\ndisculpándome, pediría perdón\ntodo lo que hiciera falta.<PAGE>\n<SPEECH*>Si mi muerte pudiera traer\nde vuelta Akzeriuth, entonces...\nEstaría aterrorizado, pero... moriría.
+<SPEECH*>Pero las cosas no funcionan así. \nAunque lo intentara todo para traerla \nde vuelta, nunca lo conseguiría.<PAGE>\n<SPEECH*>Así que voy a empezar con algo que sí puedo hacer.
+<SPEECH*>No sé qué es todavía, pero\nhablo en serio. Quiero cambiar.
+<SPEECH*>Todavía no creo que lo hayas \nentendido. No mientras puedas\nhablar de morir tan fácilmente.
+<SPEECH*>No voy a pedirte que confíes en mí.
+<SPEECH*>Tear, llevas cuchillos, ¿verdad?
+<SPEECH*>Sí, ¿por qué?
+<SPEECH*>Préstame uno un momento.
+<SPEECH*>Tear, quiero que me observes\ndesde ahora en adelante...\ny que luego decidas.<PAGE>\n<SPEECH*>Puede que no haga un buen trabajo.\nPuede que cometa errores.\nPero voy a cambiar.
+<SPEECH*>Está bien.
+<SPEECH*>Estaré observándote.
+<SPEECH*>Por favor.
+<SPEECH*>Lo haré. Pero no lo tomes como algo seguro.\nMe puedo cansar de ti en cualquier momento.<PAGE>\n<SPEECH*>Bueno, ahora, si es cierto que San\nBinah va a caer, tenemos que\nencontrar un modo de evitarlo.
+<SPEECH*>Cierto.\n¿Pero qué deberíamos hacer?
+<SPEECH*>Vamos a preguntarle al alcalde, mi abuelo.\nDebería estar en la sala de juntas.
+<SPEECH*>Vale. Vamos.
+<SPEECH*>Oh, Tear, eres tú.
+<SPEECH*>Y él debe ser...
+<SPEECH*>Ah... e-encantado de conocerte.\nSoy Luke.
+<SPEECH*>¡Soy Mieu!
+<SPEECH*>Tú, calla.<PAGE>\n<SPEECH*>Yo... eh... quisiera disculparme \npor... por lo que pasó en \nAkzeriuth...
+<SPEECH*>Ah, tú eres la réplica de Luke.\nYa veo. Desde luego sois iguales.
+<SPEECH*>¡Abuelo!
+<SPEECH*>Oh, lo siento. De todos modos\nno hay necesidad de que te disculpes \npor lo de Akzeriuth ante nosotros.
+<SPEECH*>¿Qué quieres decir?
+<SPEECH*>La caída de Akzeriuth está escrita \nen la Partitura de Yulia. Pasó porque\ntenía que pasar.
+<SPEECH*>¡¿Qué estás diciendo?!\n¡Nunca he escuchado eso!\n¡Es igual que Hod!
+<SPEECH*>Es parte de la Partitura Restringida. \nSólo aquellos con rango de Maestro \no superior saben de ella.
+<SPEECH*>¡Si lo sabíais por la Partitura,\n¿por qué no lo intentasteis parar?!
+<SPEECH*>Luke... me sorprende escuchar a alguien\nde las Tierras Exteriores decir eso.<PAGE>\n<SPEECH*>Una vida tranquila, ordenada y de\nacuerdo con la Partitura es el modo\nde vida que dicta la Orden de Lorelei.
+<SPEECH*>B-Bueno, sí, pero...
+<SPEECH*>¿Por qué se le lee a la gente la\nPartitura en su cumpleaños cada año?\nPara conocer el siguiente año y aceptar \nlas posibilidades que ofrece.
+<SPEECH*>¿Entonces por qué no informasteis al\nmundo sobre la destrucción de Akzeriuth?
+<SPEECH*>¡Sí! Si hubierais dejado que todo el \nmundo lo supiera, nadie habría muerto...
+<SPEECH*>Ese es el problema. Cuando se enfrenta\ncon una Partitura de muerte, la gente\nes incapaz de vivir pacíficamente.
+<SPEECH*>Por supuesto... señor.\n¡Nadie quiere morir!
+<SPEECH*>Eso no es aceptable. \nYulia describió prosperidad para\nAuldrant en la Partitura.<PAGE>\n<SPEECH*>Si no seguimos la historia por ese camino, \nperderemos la prosperidad que se nos prometió.<PAGE>\n<SPEECH*>Somos los custodios que guían a las Tierras\nExteriores hacia la prosperidad basándose\nen la Partitura de Yulia<PAGE>\n<SPEECH*>La Orden de Lorelei es una\nherramienta para tal propósito.
+<SPEECH*>¿Y por qué el gran maestro\nMohs retuvo al maestro fónico Ion y\ntrató de causar una guerra?
+<SPEECH*>¿El maestro Van conocía la Partitura\ncuando me llevó a Akzeriuth?
+<SPEECH*>Correcto.
+<SPEECH*>¡Me contaste que ni Maluth ni Kimlasca\nescucharon cuando les advertisteis sobre Hod!<PAGE>\n<SPEECH*>¡¿Era mentira?!
+<SPEECH*>Lo siento... Eras joven.\nNo quería contarte la verdad.\nPero Van sí la sabe.
+<SPEECH*>Entonces mi hermano ESTÁ\nplaneando vengarse del mundo.<PAGE>\n<SPEECH*>¡Dijo que un mundo limitado a la\nPartitura está mejor destruido!
+<SPEECH*>Tear, te equivocas al creer que\nVan está intentando destruir el mundo.<PAGE>\n<SPEECH*>Es cierto que hubo un tiempo en el que Van\nodió la Partitura, tras lo que sucedió en Hod.<PAGE>\n<SPEECH*>Pero ahora, está haciendo un\ntrabajo admirable como custodio.
+<SPEECH*>¿Admirable?... ¡¿Dejar que todo el\nmundo muriera en Akzeriuth fue admirable?!<PAGE>\n<SPEECH*>¡Estáis locos!\n¡Se os ha ido la cabeza a todos!
+<SPEECH*>En absoluto. \nAl final de la Sexta Piedra Fónica, \nla Partitura de Yulia dice:<PAGE>\n<SPEECH*>"La tierra de Rúgnica se verá envuelta\nen guerra, y Malkuth perderá territorio".<PAGE>\n<SPEECH*>"Kimlasca-Lanvaldear crecerá,\ny esto la conducirá hacia una\nprosperidad sin precedentes".<PAGE>\n<SPEECH*>Hemos estado custodiando todo este \ntiempo, para traer esa prosperidad sin\nprecedentes a las Tierras Exteriores.
+<SPEECH*>Pero Abuelo...\n¡Van está intentando que \nSan Binah caiga!
+<SPEECH*>La batalla será cerca.\nSan Binah no va a caer.<PAGE>\n<SPEECH*>No está escrito en la Partitura.
+<SPEECH*>Alcalde Teodoro, es hora\nde la reunión del consejo.
+<SPEECH*>Ahora mismo voy. Si vosotros dos\nestáis preocupados, tomad el Sendero\nde Yulia hasta las Tierras Exteriores.<PAGE>\n<SPEECH*>Ved con vuestros propios ojos que\nvuestra preocupación es infundada.
+<SPEECH*>¡Tear, volvamos a las Tierras Exteriores!\nNo vamos a conseguir nada desde aquí.
+<SPEECH*>De acuerdo. Pero antes de que\nmarchemos, hay algo que quiero\ncoger de mi habitación. ¿Vale?
+<SPEECH*>V-Vale...
+<SPEECH*>Van odiaba la Partitura.\nSiempre estaba hablando sobre \neso, aquí, en esta habitación.<PAGE>\n<SPEECH*>Se quedaba ahí donde tú estás, \ny decía que nunca perdonaría al\nmundo haber dejado morir a Hod.
+<SPEECH*>¿Por qué se preocupa tanto por Hod?
+<SPEECH*>La isla de Hod era un territorio de\nMalkuth, destruido en la Guerra de Hod\nhace 16 años. Era nuestro hogar.<PAGE>\n<SPEECH*>Hod cayó en el Qliphoth,\nigual que Akzeriuth.<PAGE>\n<SPEECH*>Van y mi madre, que estaba embarazada\nde mí, también cayeron al Qliphoth.\nProbablemente Van usó un himno fónico.
+<SPEECH*>Algo pasó antes de que yo fuera a las \nTierras Exteriores. Van regresó a esta\nciudad, algo que no hacía muy a menudo.
+<SPEECH*>Parece que Asch sospecha algo...
+<SPEECH*>Asch todavía es un poco... sensible. Causará\nproblemas si descubre que la gente de las\nTierras Exteriores será aniquilada.
+<SPEECH*>¿Deberíamos hacer que Sync le vigile?
+<SPEECH*>Sí.
+<SPEECH*>Pensé que mi hermano estaba planeando\nalgo terrible. Al menos, que mucha \ngente iba a morir...<PAGE>\n<SPEECH*>No podía permitir que eso pasara,\naunque se hubiera dejado morir a Hod\npor culpa de la Partitura.<PAGE>\n<SPEECH*>Juro que lo detendré, aunque\nsignifique matarnos los dos.
+<SPEECH*>¡Tear!
+<SPEECH*>Pero parece que he fracasado.\nNo pude salvar Akzeriuth.
+<SPEECH*>Es porque yo...
+<SPEECH*>No puedo culparte completamente a ti. \nPedí una misión en las Tierras\nExteriores para detener a Van.
+<SPEECH*>Eres fuerte.
+<SPEECH*>¿Tú crees?\nNo sé...
+<SPEECH*>Demasiado fuerte.\nPero... gracias por contarme todo esto.<PAGE>\n<SPEECH*>Creo que quizá te entienda\nun poco mejor ahora.
+<SPEECH*>Es la primera vez que me \nhas agradecido algo.
+<SPEECH*>¿E-en serio?...
+<SPEECH*>¡Me alegra mucho que\nos hagáis tan amigos!
+<SPEECH*>N-No es así.\nPor cierto, ¿qué has venido a coger aquí?
+<SPEECH*>Un libro de fonología.\nHe pensado que podrías necesitarlo.
+<SPEECH*>¿Por qué?
+<SPEECH*>Una hiperresonancia es causada por los\nséptimos fonones. Creo que esto te \nayudará a aprender a controlarlos.
+<SPEECH*>Oh. Gracias.
+<SPEECH*>El Sendero de Yulia está a la \nderecha de la sala de reuniones.\nVamos.
+<SPEECH*>Este sendero conecta con\nel Manantial de Aramís, en\nel continente padamiyano.<PAGE>\n<SPEECH*>Ese sitio está repleto de monstruos.\n¿Estás listo?
+Espera\nSí, estoy listo
+<SPEECH*>Espera.
+<SPEECH*>Vale.\nVamos a asegurarnos de que estamos listos.
+<SPEECH*>Sí, estoy listo.
+<SPEECH*>Estoy asustado.
+<SPEECH*>Todo va a ir bien, Mieu.<PAGE>\n<SPEECH*>Allá vamos.
+<SPEECH*>¡¿Mieuuuuu?!
+<SPEECH*>¡Guau! \n¡Nos ha tirado al agua!
+<SPEECH*>No pasa nada.\nNo te vas a mojar.
+<SPEECH*>¿Cómo puede ser?
+<SPEECH*>Por lo visto, la fuerza del chorro\ndel sephiroth empuja el agua a un lado.
+<SPEECH*>Esos sephiroth sí que son fuertes,\nsi son capaces de levantar toda\nla tierra en el cielo.<PAGE>\n<SPEECH*>Y yo destruí uno...
+<SPEECH*>Quedarse quieto lamentándose\nno va ayudar en nada.
+<SPEECH*>Tienes razón. He vuelto\naquí para hacer lo que pueda.\nMaldita sea, no tengo remedio.
+<SPEECH*>Ya iba siendo hora de que aparecieras, Luke.
+<SPEECH*>Hey, te has cortado el pelo.\nElegante, pulcro... Me gusta.
+<SPEECH*>(¡Es tal y como vi cuando\nestaba conectado con Asch! \nGuy me ha esperado...)
+<SPEECH*>¡Guy!
+<SPEECH*>¿Eh? \n¿Qué pasa?
+<SPEECH*>No... no soy Luke...
+<SPEECH*>Tío, tampoco tienes que\nhablar como Asch.
+<SPEECH*>Pero... soy una réplica...
+<SPEECH*>¿Y? A ese tío no le gusta \nque le llamen Luke.<PAGE>\n<SPEECH*>Quédate con el nombre.
+<SPEECH*>¿Que me lo "quede"? \nJe je, no has cambiado nada.
+<SPEECH*>Pues parece que tú sí.\nNo tienes que menospreciarte\ntanto a ti mismo.
+<SPEECH*>¡No lo hago! \nEs sólo que...
+<SPEECH*>Sí que lo haces. ¿A estas alturas,\na quién le importan los nombres?<PAGE>\n<SPEECH*>Al menos podrías aparentar alegrarte\nde verme, después de la molestia de \nesperar aquí por ti.
+<SPEECH*>Tienes razón.,, Gracias.
+<SPEECH*>¡¿Luke ha dado las gracias?!
+<SPEECH*>Dice que va a cambiar.
+<SPEECH*>Parece que tú no...
+<SPEECH*>¿Por qué me esperaste?
+<SPEECH*>Somos amigos, ¿verdad?\nOh, espera, soy tu sirviente.\nPerdón.
+<SPEECH*>Soy una réplica...\nNo soy tu amo.
+<SPEECH*>No me he portado\namistosamente contigo \nsólo porque fueras mi amo.
+<SPEECH*>¿Qué?...
+<SPEECH*>Tú eres tú, y Asch es Asch.<PAGE>\n<SPEECH*>Réplica o lo que sea,\neres real para mí.
+<SPEECH*>¿Lo recuerdas?<PAGE>\n<SPEECH*>Fue después del secuestro, \nasí que supongo que ocurrió\njusto después de que nacieras.
+<SPEECH*>¿Qué?\n¿Pasó algo?
+<SPEECH*>Te pregunté si no era duro haber perdido\nlos recuerdos. Dijiste, "Uno no puede seguir\nadelante si sigue mirando al pasado".<PAGE>\n<SPEECH*>Así que no necesitabas un pasado.\nEso es lo que me dijiste.
+<SPEECH*>Ja ja... Tío, era estúpido.\nNo es que "no necesitara" un\npasado... es que no lo tenía.
+<SPEECH*>La verdad es que pensé que era\nalgo bastante agudo.
+<SPEECH*>Todo esto ha debido ser duro para ti.
+<SPEECH*>No estoy en posición como para quejarme.\nTodo el mundo murió por mi culpa.
+<SPEECH*>Aunque parte de la culpa es mía.
+<SPEECH*>Tú no tuviste nada que ver.
+<SPEECH*>En parte, soy responsable de que te hayas\nconvertido en un chico egoísta y maleducado.
+<SPEECH*>¿Eh?...
+<SPEECH*>Desde el principio, cuando no recordabas\ncómo andar -o no sabías, quizá- era \nyo el que se ocupaba de ti.<PAGE>\n<SPEECH*>He aprendido la lección.
+<SPEECH*>¿Cómo podría intentar\ncompensar lo de Akzeriuth?...
+<SPEECH*>Es una pregunta complicada. No es algo\npor lo que puedas pedir perdón.
+<SPEECH*>Sí. Disculparse es importante,\npero puede ser duro para la persona\na quien le estés pidiendo perdón.
+<SPEECH*>¿Por qué?
+<SPEECH*>Cuanto mayor es la pérdida,\nmás necesita la gente odiar a \nalguien por ello, ¿sabes?
+<SPEECH*>Tal vez puedas sentirte mejor, pero\naquellos a los que te disculpas no pueden\nsimplemente decir, "Vale, ¡arreglado!"
+<SPEECH*>Quizá debas pasar el resto de tu vida\ncargando con esa responsabilidad, sin \nolvidarla... No, eso no es muy preciso.
+<SPEECH*>¿Tal vez nunca debería ser feliz?
+<SPEECH*>Bueno, sé que eso no está bien.
+<SPEECH*>¿Estás seguro? Quiero decir, \nyo no debería ni haber nacido.\nY además, destruí Akzeriuth....
+<SPEECH*>Vale, para, para, ya es suficiente,\nEs irritante oírte hablar así.
+<SPEECH*>¡Guy!\nLuke está pensando seriamente en el asunto...
+<SPEECH*>Ayuda a la gente. Usa el resto\nde tu vida para hacer feliz\na todo el mundo.
+<SPEECH*>¡Ni de coña podría hacer eso!
+<SPEECH*>¡Ya lo sé, idiota!\nQuiero decir que tienes\nesforzarte mucho.
+<SPEECH*>Oh... vale. Ya lo cojo... Creo...
+<SPEECH*>¡Guau!
+<SPEECH*>¡¿Jade?!
+<SPEECH*>Oh, bien.\nTemía que os hubiera perdido.
+<SPEECH*>¿Coronel, qué haces aquí?...
+<SPEECH*>Tengo que pedirle un favor a Guy.\nDijo que esperaría a Luke aquí,\nasí que he venido a buscarlo.
+<SPEECH*>¿Yo?
+<SPEECH*>Mohs ha capturado a Ion y a Natalia.
+<SPEECH*>¡¿Qué?!
+<SPEECH*>Oh, Luke, ¿también estás aquí?
+<SPEECH*>¿Tienes algún problema con eso?
+<SPEECH*>Ninguno en especial. Bueno, \nsi no los rescatamos, \nhabrá problemas.<PAGE>\n<SPEECH*>No hay fuerzas de Malkuth por aquí,\nasí que pensé en pedirle ayuda a Guy...
+<SPEECH*>¿Qué quieres decir con "problemas"?
+<SPEECH*>Con la desaparición de\nAkzeriuth, Kimlasca se está\npreparando para la guerra.<PAGE>\n<SPEECH*>Seguramente intentarán usar\nla muerte de Natalia como excusa.
+<SPEECH*>Cierto... Las gentes de\nlas Tierras Exteriores no saben\npor qué desapareció Akzeriuth...
+<SPEECH*>Ion estaba receloso y volvió\na la Orden para hacer un decreto.\nPero lo capturaron cuando llegó.
+<SPEECH*>Vale, Luke. Vamos a rescatarlos.\nNo vamos a permitir que haya\nuna guerra. ¿Verdad?
+<SPEECH*>Sí...\n¿Deberíamos ir a Daath?
+<SPEECH*>Sí, esa es la idea. \nPor si no lo sabes, Daath\nestá al sureste de aquí.<PAGE>\n<SPEECH*>Espero que no te pierdas\nni nos retrases demasiado.
+<SPEECH*>Luke, no es fácil recuperar\nla confianza una vez la has perdido.
+<SPEECH*>Lo sé...
+¿Dónde está tu habitación, Tear?
+Es la habitación en la que estuviste\ndurmiendo. El segundo piso de la casa\nde al lado es mi cuarto.\n
+Oh.
+(Entonces... todo este tiempo, ¿he estado\ndurmiendo en la cama de Tear?)
+¿Amo?\n¿Le pasa algo?
+¡N-No!\n¡Va-Vámonos!
+Cojamos el equipo de Tear\nde su cuarto.
+Recojamos nuestras pertenencias\nantes de irnos.
+Vayamos a ver a Teodoro.\nDebería ser capaz de ayudarnos.
+Vamos a ver al Abuelo.\nDebería estar en la sala de reuniones.
+El Sendero de Yulia está en la parte \nderecha de la sala de reuniones.
+El Sendero de Yulia está a la derecha \nde la sala de reuniones.
+<SPEECH*>Hey, ¿qué te ha pasado en la cabeza?
+<SPEECH*>¡Oh, te has dado cuenta!
+<SPEECH*>¿Y quién no lo haría? \n¿Te has cortado el pelo?
+<SPEECH*>Ah... es una alfombra.
+<SPEECH*>¡Es una peluca cara, maldita sea!
+<SPEECH*>¿Por qué puñetas llevas eso?
+<SPEECH*>Cambio de ritmo. Nuevo estilo.\nYa sabes.
+<SPEECH*>Hey, ¿qué es ese traje?
+<SPEECH*>Sí, he pensado que era un poco raro, pero...
+<SPEECH*>¿Y por qué narices lo estás llevando?<PAGE>\n<SPEECH*>¿Y qué ha pasado con tu pelo?\n¿Te lo has cortado?
+<SPEECH*>Es una peluca.
+<SPEECH*>¿Llevas puesta una alfombra?
+<SPEECH*>¡Una peluca, maldita sea! ¡Una peluca!
+<SPEECH*>Pero por qué demonios...
+<SPEECH*>Ya sabes, estaba tan sorprendido \ncuando te quitaste de repente la \npeluca y te cortaste el pelo...
+<SPEECH*>¿De qué otra forma se supone que \nlo debería haber cortado?
+<SPEECH*>Bueno, ¿qué será lo próximo?\n¿Vas a fabricar una peluca de pelo largo?
+<SPEECH*>No es una mala idea...
+<SPEECH*>Lo siento.  Estaba bromeando.
+He querido hacer esto desde hace\nun tiempo ya. Después de todo, podrías\nhacerte una peluca, ¿no?
+S-Sí. No es que haya cambiado\nde opinión, es solo que tengo el\ncuello tan descubierto...
+*Suspiro*...
+Todavía con ese pelo, ¿eh? \n¿No te da calor?
+(¡Es justo lo que vi cuando\nestaba conectado con Asch! \nGuy me esperó...)
+¡Guy!...
+Espera, ¿eso es una peluca?
+S-Sí...\nMe corté el pelo...
+¿Qué ocurre?...\nPareces nervioso.
+Yo...\nNo soy Luke, así que...

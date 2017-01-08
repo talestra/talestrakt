@@ -6,7 +6,7 @@ apply plugin: "application"
 mainClassName = 'com.talestra.tod.TodPatcher'
 
 dependencies {
-    compile project(':engine-talesof')
+	compile project(':engine-talesof')
 }
 
 jtransc {

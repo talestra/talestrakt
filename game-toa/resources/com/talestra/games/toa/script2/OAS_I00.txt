@@ -1,0 +1,433 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Bienvenido.\nDeberás abastecerte de comida\nsi vas a cruzar el desierto.
+Gracias.\nTen cuidado.
+¿Quieres algo de comida\nfresca de Chesedonia?
+Gracias.\nVuelve de nuevo.
+Bienvenido.\nDeberás abastecerte de comida\nsi vas a cruzar el desierto.
+Gracias.\nTen cuidado.
+Todavía queda comida fresca\nde Chesedonia...
+Gracias...\nEspero que todo el mundo en Chesedonia esté bien...
+Bienvenido.\nDeberás abastecerte de comida\nsi vas a cruzar el desierto.
+Gracias.\nTen cuidado.
+¿Quieres algo de comida\nfresca de Chesedonia?
+Gracias.\nVuelve de nuevo.
+¿Estáis planeando\ncruzar el desierto hasta\nChesedonia también?<PAGE>\nCoged algo de comida extra y \nherramientas mientras estáis aquí.\nOs harán la vida más fácil.
+Si estáis cansados, bebed algo de \nde agua de la fuente de enfrente.<PAGE>\nEs un poco cara, pero os \nrefrescará en un plis-plas.
+Parece que alguien consiguió\nintroducirse en la ruinas Zao.
+No creía que hubiera un\ncamino al interior...
+Toda Chesedonia cayó...
+¿Qué va a pasar ahora?
+Ciertamente, requiere mucha \nvalentía cruzar el desierto\nsin la Partitura.
+Quizá voy a quedarme en casa\nde ahora en adelante...
+¿Ahora también tendremos \nque lidiar con el miasma?
+¿Qué se supone que debemos hacer ahora?
+Es duro cruzar el desierto,\npero las bebidas que sirven aquí\nson inolvidables.<PAGE>\nOlvídate del agua de la fuente.\nEl alcohol es mucho mejor para\nrecuperarse. Al menos para mí.
+¿Lleváis suficientes herramientas?<PAGE>\nHay muchos monstruos en el desierto, así que\naseguraros de llevar todo lo que necesitéis \ndel mercader de la tienda de enfrente.
+Desde que Akzeriuth cayó, el mundo\nse ha vuelto más y más tenso.
+A este ritmo, algo está \ndestinado a pasar...
+......
+Yo...\nYo...
+Estoy pensando en \nir a Daath para\nque me lean la Partitura.
+No puedo imaginar una\nvida sin la Partitura.
+Ves, ¡mira lo que pasa cuando\nignoras la Partitura!
+Mejor nos damos prisa y empezamos\na leer la Partitura otra vez.
+Ciertamente es inusual ver\na alguien al lado de una parada\nde mercaderes en este oasis.<PAGE>\nNo te podrías estar dirigiendo\na la ruinas Zao hacia el este,\n¿verdad?
+Las ruinas Zao están cubiertas\nde arena, incluso si van no hay\nmucho que ver.<PAGE>\nId a Chesedonia en vez de eso.\nHay muchas más cosas\nque hacer y ver allí.
+Al final, parece que había un camino\npara entrar en las ruinas Zao.
+Me pregunto si hay algún\ntesoro o algo ahí dentro.
+Nunca pensé que el oasis\nse caería igual que Chesedonia...
+Ojalá nos hubieran leído la Partitura\npara saber cómo nos podemos salvar...
+Un nuevo mundo sin la Partitura, eh...
+El miembro a la cabeza de la\nOrden también lo tiene difícil.
+¿Cómo es que tenemos que\nlidiar con este miasma?
+¿No hay un lugar en el mundo en el\nque nos podamos alejar de este miasma?
+Miau...
+Miau...
+Sigue entrenándote.
+Por cierto, Guy, no estarás\nsiendo una carga para los\ndemás en la batalla, ¿verdad?
+No sé. Todos los del grupo\nson buenos luchadores.
+Mmm...<PAGE>\nSi tienes la oportunidad, ve a visitar\na un viejo llamado Gee que vive en\nel Desierto de Zao, al este.<PAGE>\nSi le dices que te envía Pere, \ndebería de poder enseñarte algo\nútil sobre la espada.
+Vale.
+Soy Gee. \n¿Puedo ayudarte en algo?...
+Pere me envió. \nMe llamo Guy Cecil.
+¡¿T-Tú eres Guy?! \n¡Ah, ya veo!<PAGE>\nPere me ha contado los detalles...\nEntiendo tu situación.
+No veas si se ha emocionado el viejo.
+Ja ja, sí.<PAGE>\nBueno, Gee,<PAGE>\nPere me dijo que me enseñarías algo\nque me sería útil para mi técnica\nde lucha con la espada...
+Ah, ya veo. Entonces tendré que\npasarte mis artes arcanas, Guy.
+Lo siento, pero lo de pasar\nartes se hace de tú a tú. \n¿Puedo pediros a los demás que salgáis?
+¿Por qué?
+Luke, no seas tozudo.
+Natalia tiene razón.\nVamos.
+Me alegra tanto ver\nque estás bien...
+Has obtenido "censo de ciudadanos de Hod".
+Bueno, ¿has aprendido ese arte arcano?
+No, las artes arcanas de mi estilo de\nlucha se transmiten oralmente.<PAGE>\nNo lo habré completado hasta que encuentre\na los miembros del concilio de artes arcanas\ny lo reciba de ellos. Parece que el\npróximo está en Kaitzur.
+Correcto. Los miembros del concilio de\nartes arcanas están ahora dispersados\npor todo el mundo.<PAGE>\nSi puedes buscarlos y\ncompletar el censo\nque te  he dado,<PAGE>\ncreo que al final serás capaz de aprender\nel arte arcano. Trabaja duro, joven.
+Eh, tu estilo de lucha conlleva\nmucho trabajo. Ahora que lo dices,\n¿qué estilo es?...
+Nuestra estilo es secreto.\nNo puedo dar detalles a los\nde fuera. Por favor, perdoname.
+Lo siento, Luke.\nEs lo que hay.
+V-Vale...
+¡Ese censo! \n¡¿Es de Gee?!
+¿Lo conoces? \nMe llamo Guy. \nHe recibido esto de Gee.
+¡Te he estado esperando! \nTe enseñaré lo que sé de\nla espada ahora mismo.<PAGE>\nLo siento, ¿podrías acercarte\naquí tú solo?
+Está bien.\nEsperad un poco, chicos.
+Guy aprende un ataque especial.
+Lo has hecho espléndidamente. El\npróximo que te enseñará te está\nesperando en un monumento histórico.
+¿Eh? ¿No nos vas a decir\nen qué ciudad está?
+Aunque quisiera, ninguno de nosotros\ntiene información detallada sobre dónde\nviven los demás.<PAGE>\nSi Guy es capaz de llenar el censo,\nnuestras posiciones se verían\nclaras, pero...
+Oh, ¿por qué es así?
+Hay varios motivos... En fin, busquemos\nun monumento histórico de piedra.
+Cuidaos...
+Te he estado esperando.... Tengo un mensaje\ndel tercer maestro de artes.
+¿Ha pasado algo?
+El tercer maestro es muy mayor,<PAGE>\ny nos dijo que se instalaría con sus\nfamiliares en una ciudad costera.
+Una ciudad costera...
+¿Baticul?
+Gran Chokmah es una ciudad en el mar.
+Sí.<PAGE>\nHay otras ciudades cerca del mar,\npero la ciudad costera debe de\nser una de esas dos.
+¡Ohh! Has hecho bien en encontrarme.<PAGE>\nDisculpame por haber dejado mi puesto.\nDeja que te pase el arte arcano\nahora mismo.
+¿Por qué pasas tus artes\narcanas de una forma tan\nlarga y engorrosa?
+Sí. Tu usas técnicas del estilo\nalbertesco, ¿verdad?<PAGE>\nPodrías aprender el arte arcano de\nlos textos que dejó el maestro Van...
+Nuestro estilo no es de la rama\nprincipal del estilo albertesco.
+La técnica de espada que yo uso\nes del estilo sigmundesco, que\nsalió el estilo albertesco.
+Sigmund aprendió a usar la\nespada con Fleil Albert.<PAGE>\nPara proteger a Yulia y a Albert y ser\nsu guardia avanzada, mejoró lo que\naprendió y creó el estilo sigmundesco.<PAGE>\nTemiendo que, si se conocía bien, se\nharía pública la debilidad del\nestilo albertesco,<PAGE>\ndecretó que las técnicas deberían\ntransmitirse de forma oral.
+Además, los únicos que usan el estilo\nsigmundesco son los miembros de la Casa\nGardios y los que están unidos a ella.<PAGE>\nNo sabíamos qué haría la realeza de\nKimlasca o el duque Fabre si nuestra\nexistencia se descubriera.
+No le diré nada a Padre....
+¡Yo tampoco!
+Gracias...
+Bueno, ¿has aprendido el arte?
+Yo soy el tercer maestro.\nTendrá que ver a dos más.
+No veas si lleva tiempo esto...
+¿Dónde puedo encontrar al cuarto?
+Debería estar frente a una\nmáquina que gira.
+Una máquina que gira, ¿eh? \nVale. A ver si lo encuentro.
+¿Eres tú el cuarto maestro del\nestilo sigmundesco?
+Te he estado esperando. \nTe enseñaré nuestro arte\narcano ahora mismo.
+Quizá por tu amplia\nexperiencia en combate\nreal, aprendes deprisa.
+¿De verdad? \nEspero que tengas razón.
+El quinto maestro está en una\nhabitación pequeña y fría.
+Una habitación pequeña y fría, eh...
+Rezaré para que puedas\naprender la siguiente técnica.
+Perdona, ¿eres el quinto maestro?
+Lo soy. \n¿Puedo ver el censo?...
+Magnífico. Ahora, deja que\nte enseñe lo que sé.
+Guy aprende un arte arcano.
+¡Lo has conseguido, Guy!
+¡Te a costado lo tuyo, pero has\naprendido tu arte arcano!
+Sí. Parece que he podido aprender\ntodas mis artes arcanos.<PAGE>\nGracias por ayudarme, chicos.<PAGE>\nTrabajaré duro para seros\nútil con mis artes nuevas.
+Pero aún hay espacios\nen blanco en el censo.
+Oh. ¿Significa eso que\naún quedan maestros?
+Exacto.\nEl sexto lo podéis encontrar a\nla sombra de un antiguo árbol. \nDomina el arte arcano final, Guy.
+Lo haré.
+Sí. Espero ayudar con\nestos movimientos nuevos.
+¡Señor Gailardia!
+¿Quién eres tú?...
+Me llamo Jin. \nSirvo a Peregynt.<PAGE>\nCuidé de ti cuando\neras joven.
+¡Oh! ¡Jin! \n¡Eres tú!
+Sí. La caída de las Tierras fue\nuna experiencia terrible,<PAGE>\npero tú y tus compañeros nos salvasteis.
+¿Quién es éste, Guy?...
+Él y Pere me cuidaron después\nde que huyera de Hod.
+Por cierto, señor Gailardia, oí que\nestás visitando a los maestros\nde las artes arcanas...
+Sí. Han pasado muchas cosas y tuve\nque dejar eso de lado, pero ya he\nhablado con los cinco primeros.
+Entonces ha llegado el momento\nde que te pase la sexta enseñanza.
+¡¿Tú eres el sexto, Jin?!
+Te la enseñaré ahora mismo.
+Veo que has entrenado bien.
+Gracias, Jin.
+Por favor, sigue mejorando\ntus habilidades.<PAGE>\nPuedes encontrar al séptimo\nmaestro en el muelle de\nla ciudad de agua.
+Entendido.
+El señor Gailardia, imagino.\nTe he estado esperando.
+¿Q-Quién eres tú?...
+Soy la séptima maestra.
+¡¿Eres una mujer?! \nYo... eh...
+Guy, venga, ya lo has\nsuperado un poco, ¿no?
+Bueno, sí, pero...
+Te enseraré el arte arcano\ninmediatamente...
+V-Vale...\nVolveré cuando haya entrenado más.
+¿Qué haremos contigo?...
+Lo siento.
+¿...? \nEstá bien.
+V-vale.... \nPuedo hacerlo.
+¡Ánimo, Guy! ¡Imagina que sólo\nes un rescate marítimo!
+Pero en tierra.
+Parecías extremamente tenso, pero tu\ndestreza con la espada es espléndida.
+Ja... ja ja...
+El octavo maestro está\nen el lugar más cercano.
+¿El lugar más cercano?
+Cuídate.\nAdiós
+He estado esperándote.\n¿Estás listo?
+Saludos, maestro Gailardia...\n¿Has completado el censo?
+Sí, todo excepto el último.
+Ya veo...\nEntonces es hora de que yo,\nPeregynt, acabe el trabajo.
+¿Pere? \n¡¿No me digas que tú eres\nel octavo maestro?!
+En efecto, lo soy.
+Entonces...
+Sí. Te enseñaré el\narte arcano final. \n¡Empecemos!
+Guy aprende un arte arcano.
+Gracias, Pere...
+No hay de qué... No sé cómo\nexpresar lo orgulloso que estoy.<PAGE>\nY pensar que te vería\nalcanzar tal maestría...
+Guau, Guy...
+Contaremos contigo aún más.
+Gracias.
+Si pules tu técnica y te sientes\nseguro, ve a ver a Gee.<PAGE>\nSi Gee reconoce tu\ndestreza con la espada,<PAGE>\nse te reconocerá oficialmente como\nmaestro del estilo sigmundesco.
+Está bien. Puliré mis habilidades\ne iré a visitarlo algún día.
+¡¿Monstruos?!
+¡Un viajero está en peligro!
+¡Tch!
+¡Gra-gracias! Cuando me\natacaron ahí fuera, pensé\nque era el fin...
+¡Es peligroso para los principiantes\nsalir de los pueblos sin un guarda!
+Sí. Confiaba en mis habilidades,\npero parece que he subestimado\nel desierto...
+Señor Gailardia, has conseguido\nuna habilidad extraordinaria.
+Gee...
+Permíteme que escolte a este\nhombre hasta Chesedonia.<PAGE>\nY, señor Gailardia, tu destreza\nes digna de ser reconocida.<PAGE>\nDe ahora en adelante, puedes llamarte\nmaestro de la rama sigmundesca del\nestilo albertesco de Hod.
+Gracias, Gee...
+Por favor, continúa con tu\nentrenamiento. Y ahora,\nviajero, permíteme escoltarte.

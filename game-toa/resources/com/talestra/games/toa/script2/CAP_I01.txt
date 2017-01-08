@@ -1,0 +1,325 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Uy, se me olvidaba. Hey, chicos,\n¿os importa si vamos a un sitio?
+<SPEECH*>¿Qué pasa?
+<SPEECH*>Hay un lugar que quería\nenseñar a Luke. Ahora que tenemos \nocasión, me gustaría llevarle...
+<SPEECH*>¿A mí?\n¿Es un sitio divertido?
+<SPEECH*>¡Pero Ion está en peligro!
+<SPEECH*>Lo sé.<PAGE>\n<SPEECH*>Pero recuerda que Luke ha estado\nenclaustrado en su casa durante años.<PAGE>\n<SPEECH*>Además, nos vendrá bien \npara nuestro viaje. ¿De acuerdo?
+<SPEECH*>Bueno, pero rapidito, ¿vale?
+<SPEECH*>Gracias Anise, y los demás.
+¿Escuchar una explicación sobre las Cámaras FR?\nSí\nNo
+<SPEECH*>Bienvenidos.
+<SPEECH*>Éste es el sitio.
+<SPEECH*>¿Qué lugar es éste?
+<SPEECH*>Esto es un dojo civil. Te gustan las\nespadas, ¿verdad? Puedes practicar\nmucho por aquí.
+<SPEECH*>¿De verdad?
+<SPEECH*>Éste es un lugar para practicar \nartes marciales... Mmm, ¿qué veo?\nTú ya eres bastante habilidoso
+<SPEECH*>¿Cómo lo sabes?
+<SPEECH*>Bueno, es evidente. Por\nla actitud y todo eso.
+<SPEECH*>Pero aún tiene un largo camino que recorrer.
+<SPEECH*>¿Qué has dicho?...
+<SPEECH*>Tranquilo, tranquilo. La impaciencia \nsólo te perjudicará. No eres débil.\nSimplemente te falta creatividad.
+<SPEECH*>¿Creatividad?
+<SPEECH*>Sí. Los ataques pueden tener muchos\nefectos según cómo los uses.<PAGE>\n<SPEECH*>Dependiendo de cómo pulas tus habilidades,\npodrás hacer muchísimas artes diferentes.
+<SPEECH*>¿Y qué tengo que hacer exactamente?
+<SPEECH*>Eso es lo que te voy a explicar.
+<SPEECH*>Y eso es todo.
+<SPEECH*>Ya veo. He oído muchos rumores\nsobre las artes marciales de Kimlasca\npero... esto es impresionante.
+<SPEECH*>Baticul tiene mucha tradición en artes\nmarciales. Algunas sólo podrás encontrarlas aquí.
+<SPEECH*>Pero nosotros no somos de este país.
+<SPEECH*>Bah, no te preocupes por eso. Las artes\nque no se transmiten no se perfeccionan.<PAGE>\n<SPEECH*>Deberían ser enseñadas a\ntodos los que las necesiten.<PAGE>\n<SPEECH*>Sacar el mayor partido de ellas\ndepende de quien las aprende.
+<SPEECH*>Ya veo...
+<SPEECH*>Deberíamos irnos ya.
+<SPEECH*>Si quisieras saber cualquier\ncosa sobre la lucha, no dudes\nen venir a preguntarme.<PAGE>\n<SPEECH*>La puerta está abierta para todos. Estoy\naquí para enseñar a quien quiera aprender.
+Has obtenido "anillo técnico".
+Ya puedes usar la opción <04*>Cámara FR<04*> del menú.
+Y bien, ¿qué quieres preguntar?
+1. Controles básicos (visión general del sistema)\n2. Transformación de CDF\n3. Encuentros por sorpresa\n4. Cámaras de FR\n5. Puntos de experiencia y estados alterados\n6. Entrenamiento secreto del señor Miyagi
+Así que quieres conocer los controles básicos.\n¿Qué es lo que quieres saber?
+1. Movimientos \n2. Ataques básicos \n3. Ataques especiales \n4. Defensa
+Utiliza <06*> del \nmando para moverte.<PAGE>\nInclina <06*> sólo un poco para caminar, \ne inclínalo más para correr. <PAGE>\nSi aprendes la Habilidad AD "Movimiento\nlibre," podrás usar <06*> <PAGE>\ny <06*> para acercarte y\nalejarte de la pantalla.<PAGE>\nEl movimiento es importante. \nDomínalo y utilízalo a tu favor.
+<06*> ejecuta movimientos básicos. \nCombínalo con la dirección de <06*> \npara hacer diversos movimientos.
+<06*> ejecuta ataques especiales. \nCombinado con <06*>, puedes usar\ncuatro ataques especiales diferentes.<PAGE>\nHay dos tipos de ataque especiales:\n"artes base" y "artes arcanas".<PAGE>\nLas artes base pueden cancelarse \nhacia artes arcanas.<PAGE>\nSi quieres hacer combos, piensa cómo\nusar cancelar de manera eficaz.
+Puedes defenderte usando <06*>.<PAGE>\nPuedes librarte de ataques físicos, pero\nla defensa normal no detiene la magia.<PAGE>\nPara hacerlo, usa la Habilidad AD \n"Guardia mágica".<PAGE>\nLa Guardia mágica puede protegerte de la magia.\nPulsa <06*> mientras presionas <06*> \npara activarla.
+¿Quieres aprender sobre los campos de fonones?\nLos CDF son una manera de usar los fonones que \nnos permiten incrementar la potencia de las artes.<PAGE>\nUn círculo rojo implica fuego,\nuno azul implica agua,\nuno verde implica viento y\nuno amarillo implica tierra,<PAGE>\nuno dorado implica luz, y\nuno púrpura implica oscuridad.<PAGE>\nSi utilizas artes fónicas mientras te\nsitúas en uno de estos círculos especiales,\néstas se transformarán en algo diferente.<PAGE>\nPero ten en cuenta de que no\nfuncionará si el elemento de tu arte\nno coincide con el del CDF.<PAGE>\nAh, y otra cosa.<PAGE>\nLos CDF de luz tienen elementos de\nfuego y viento, y los de oscuridad\nde agua y tierra.<PAGE>\nEs sencillo provocar estas transformaciones\nen las artes, así que aprovéchalas bien.<PAGE>\nIntenta hacer varias cosas, a ver qué sale.
+Cuando algo te toque por la espalda,\nel equipo acabará en una formación\ndiferente a la normal,<PAGE>\no con miembros distintos a los\nescogidos. Esto se llama\n"encuentro por sorpresa".<PAGE>\nSi no tienes cuidado, puedes\nmeterte en problemas.<PAGE>\nY oh, además, si disparas a algo\ncon el Anillo del Hechicero,<PAGE>\nel enemigo se congelará y no podrá\nmoverse durante unos instantes.\nEso puede ser útil.<PAGE>\nAunque a veces se enfadan\ny cargan contra ti.
+Sirve para personalizar tus artes.<PAGE>\nHay cuatro tipos de cámaras de fonorranura:\nrojas, azules, verdes y doradas.<PAGE>\nAsignar estas gemas a tu artes conllevará\ndiferentes efectos, como aumentar el área \nafectada, o cambiar la potencia del arte.<PAGE>\n¡Si las sigues usando de ese modo, el arte\nserá cada vez más fuerte!<PAGE>\nEl efecto sólo dura el tiempo\nque tengas la gema asignada.
+¿Oh?\nMe impresiona que te hayas dado cuenta.<PAGE>\nLo he puesto para entrenar.\n¿Quieres probarlo?
+Sí\nNo
+¡Pues allá vamos!
+¡¡Empiezan los globos de Baticul del señor Miyagi!!
+Auu, no tiene gracia.
+1. Controles básicos (visión general del sistema)\n2. Transformación de CDF\n3. Encuentros por sorpresa\n4. Cámaras de FR\n5. Puntos de experiencia y estados alterados
+¿Quién participará? \nLuke\nTear\nGuy\nJade\nAnise\nNatalia
+Quieres saber más sobre el sistema, ¿verdad?<PAGE>\nPrimero, los puntos de experiencia.<PAGE>\nCuando sales victorioso de una batalla,\nganas experiencia y puedes subir de nivel.<PAGE>\nIncluso los miembros del grupo que no\nparticipan en la batalla ganan puntos\nde experiencia básicos.<PAGE>\nPero los miembros derrotados,\nestén o no en la batalla,<PAGE>\nno ganarán nada de experiencia,\nasí que ten cuidado en ese aspecto.<PAGE>\nAhora, los estados alterados.<PAGE>\nExisten varios estados alterados posibles,\ncomo veneno, parálisis, enfermedad\no artes selladas.<PAGE>\nEl efecto de éstos dura\nhasta que se cura.<PAGE>\nNo se irán a no ser que duermas\nen una posada o uses un objeto.<PAGE>\nSobre estos objetos, puedes curar el\nveneno con un pomo antiveneno,<PAGE>\nla parálisis con un pomo antiparálisis...\nUtiliza el objeto que se ajuste al síntoma.<PAGE>\nTambién hay una medicina llamada\n"panacea", que lo cura todo.\nAunque claro, también es más cara.<PAGE>\nNo se gana nada ignorando estos\nefectos, así que mantente atento.
+Oh, hola de nuevo. ¿Cómo va tu\nentrenamiento con la espada?
+No estoy entrenando exactamente, pero\ncreo que he mejorado bastante.
+Ya veo.\nCuando hayas aprendido a responder bien a\nlos movimientos de tus adversarios, podrás\nbatirte con enemigos más fuertes.<PAGE>\nEsfuérzate en mejorar tus habilidades.
+Lo haré.\nEl arte de la espada es muy profundo, ¿verdad?
+Por supuesto. En nuestro caso, casi\nnunca luchamos uno contra uno.<PAGE>\nCreo que las estrategias para luchar\nbatallas sucesivas son más importantes\nque las técnicas con la espada
+Ya veo.\nPero parece que ya sabes\nbastante de estos temas.
+Un poquito, nada más.
+Supongo que las técnicas que uno usa para\nderrotar al enemigo son diferentes de las\nque usa para salir de la batalla vivo.<PAGE>\nQuizá sería mejor llamarte\nestratega y no espadachín.
+Ja. \nNah, no es para tanto.<PAGE>\nEs parte de la filosofía de la técnica de\nla espada de Hod, el estilo sigmundesco.
+Has recibido el título de "Estratega sigmundesco".
+¿Eh?\nPensaba que seguías el estilo albertesco, Guy.
+El estilo sigmundesco es una ramificación\ndel estilo albertesco.<PAGE>\nSe parecen mucho, pero el estilo sigmundesco\nda más importancia a la agilidad de movimientos.<PAGE>\nAdemás, el estilo sigmundesco es característico\nde la Casa Gardios.<PAGE>\nA simple vista, se parecen tanto que decía\na todos que era estilo albertesco,\npara ocultar mi identidad.
+Oh. Ahora que lo dices, sí que es ligeramente\ndiferente del que el maestro Van y yo usamos.
+Entiendo.\nCreo que me gustaría hablar\ncontigo de los puntos más finos\nde la destreza con la espada.
+Ja ja. \nNah, no me interesa mucho. \nLo siento.
+Sí. Nos gusta más ponerlo en\npráctica que hablar de ello.
+Exacto.
+Qué pena.
+Bueno, nos vamos ya.
+Adiós. \nVenid cuando queráis.
+El manejo de la espada está\ninfluenciado por tu estado mental.\nDebes estar siempre relajado.
+¿Miya-ji?\nNo, no, me llamo Miya-GI.

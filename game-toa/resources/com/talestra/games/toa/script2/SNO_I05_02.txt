@@ -1,0 +1,336 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Ah, ¡Luke fon Fabre!
+Hola, Bernal.
+Bien, bien. \nParece que has llegado a dominar \ntu propio estilo de cocinar.
+Sí, lo he conseguido de alguna forma...
+Eres digno del título, \n<10*>.
+Luke ha recibido el título de "Luke title."
+Todavía no soy muy bueno, \nasí que estoy un poco avergonzado.
+No hay nada por lo que avergonzarse. <PAGE>\nHas llegado a dominar tu propio camino\ny te has esforzado hasta el límite. \nEso es algo por lo que estar orgulloso.
+¿Piensas eso?
+Jo jo jo.\nAsí es como funciona la vida.
+Oh, creo que nos conocimos en la mansión\ndel duque Fabre, ¿no es cierto?
+Soy Tear.
+Tear, puedo comprobar que tú, también, has llegado\na dominar tu propio camino en las artes culinarias.<PAGE>\nEres una <10*> con todas las de la ley.
+Tear ha recibido el título de "Tear title."
+Pero sigo siendo horrible sirviendo platos\nque sean visualmente elegantes...<PAGE>\nLo calificaste de "rústico"...
+Ah, ¿fuiste tú la que \npreparó esa comida?
+S-Sí...
+Jo, jo, jo.\nEso es, simplemente. parte de tu estilo.<PAGE>\nEs particularmente intrigante el contraste entre\ntu cocina personal y tu comportamiento habitual.
+Por favor, continúa\nestudiando el arte de cocinar.
+Hola.\n¿Nos hemos visto antes, por casualidad?
+Mmm. \nTal vez sí, tal vez no.
+Veo que eres un gran cocinero.<PAGE>\n¿Te han llamado alguna vez\n<10*>?
+Me temo que no.
+A mí me pareces un <10*> \ncon todas las de la ley.
+Jade ha recibido el título de "Jade title."
+No estoy realmente muy interesado.
+Ya veo. \nEs una lástima.
+Bernal.
+¿Mmm? \nAh, creo que nos conocimos en la mansión\ndel duque Fabre, ¿no es así?
+¡Soy Anise!\n¿Y sabes qué?<PAGE>\n¡Cocino con maestría!
+¡Oh! \n¡A una edad tan joven!\n¡Ciertamente tu futuro es prometedor!<PAGE>\nEres verdaderamente digna del nombre, \n<10*>.
+Anise ha recibido el título de "Anise title."
+Me encantaría probar tu cocina algún día.
+Aquella comida en la mansión del duque\nFabre, ¡esa la hice yo!
+¡Increíble!\nSin duda fue magnífica.<PAGE>\nEntonces eso quiere decir \nque dominas el Oden además. \n¡Magnífico!
+¡Je je!
+Si alguna vez tenemos oportunidad,\n¡hagamos juntos una comida deliciosa!
+Es una idea espléndida.
+Ahora mismo estoy bastante ocupada, pero..
+Je, je.\nEl arte de la cocina estará siempre con nosotros.\nNo hay por qué apresurarse.
+Si, quizá.
+Estaré esperando ese momento.
+Oh, creo que nos conocimos en la mansión\ndel duque Fabre...
+Ah, tú eres el invitado aquella vez.
+Mmm, parece que tú también has \ndominado el arte de cocinar.
+Ja ja. \nEspero que ahora sea mejor que entonces.
+¿"Entonces"? \n¿Te refieres a la mansión del duque Fabre?
+Sí. \nYo soy el que hizo eso.
+¡Oh! \nEsto es una sorpresa.\nTienes bastante talento.<PAGE>\nY como has dominado el Oden también,\nademás debes poseer pasión.
+¿P-Piensas eso?
+Ya eres un espléndido\n<10*>, \npero si estudias conmigo, puede \nque mejores mucho más.
+Guy ha recibido el título de "Guy title."
+¿Qué te parecería la idea de\nconvertirte en mi aprendiz?
+Ahh, me temo que tendré que pasar.<PAGE>\nNo creo que sea mi estilo el cocinar\ncon el objetivo de convertirme en  \nun "Máximo Maestro".
+Ya veo. \nQué pena, pero supongo \nque no puedo evitarlo.
+Lo siento.
+Bernal.
+¡Oh, vaya! \n¡Princesa Natalia! \n¿Qué te trae aquí?
+Bernal, he pulido mis habilidades\ncocineras lo mejor que he podido.<PAGE>\n¿Qué piensas? \n¿Todavía me falta?
+Uhh... ejem, bueno... Me temo que\ntodo lo que puedo llamarte es\n<10*>...
+¡Bien!
+Natalia ha recibido el título de "Natalia title."
+Pero estoy seguro de que he mejorado\nconsiderablemente desde la última vez...
+¡¿Qué?! \n¡¿Fue Su Alteza una de las que\nprepararon la comida en la mansión\ndel duque Fabre?!
+Uh...
+D-Disculpe mi grosería, Su Alteza, \npero si pudiera preguntar, ¿qué es lo que\nhace exactamente para crear algo así?
+S-Simplemente lo hice normal...
+B-Bueno, no parece que lo hizo\nintencionadamente, pues. Supongo que no \nhay necesidad de darle vueltas ahora...
+Pero, desgraciadamente, no todo el \nmundo posee los mismos talentos...
+Lo sé... \nNo tengo talento para cocinar.
+O-Oh, p-p-p-pero, aunque puede que \nle falte el talento,<PAGE>\nes muy admirable que se  \nentrene usted hasta sus límites, \nSu Alteza.
+¿De verdad piensa eso?
+Sí, claro que sí.\nSi de verdad ama cocinar, sus platos \nserán imbuidos con su alma, <PAGE>\ny eso es algo que no se puede \nmedir con el sabor de la\ncomida resultante.
+Gracias, Bernal.
+La clave para hacer comidas\ndeliciosas está en cocinar con amor.
+Bienvenido al Hotel de Keterburg.\n¿Estás interesado en marisco\nfresco de las costas de Keterburg?
+Gracias.\nVuelve de nuevo.
+Bienvenido al Hotel de Keterburg.\nMuchos de los productos que vendemos no\npodrás encontrarlos en ningún otro sitio.
+Gracias.\nVuelve de nuevo.
+Bienvenido al Hotel de Keterburg.\nSomos la única tienda especializada en\ningredientes culinarios de alta calidad.
+Gracias.
+Bienvenido al Hotel de Keterburg.\nSomos el distribuidor exclusivo de\nla producción cultivada en Engeve.
+Gracias.
+La comida que venden aquí\nestá realmente buena.
+Puede parecer un poco cara,\npero no dudes que lo vale.
+P4\nP3\nP1\nCancelar

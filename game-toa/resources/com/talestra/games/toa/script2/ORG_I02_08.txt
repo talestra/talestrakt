@@ -1,0 +1,617 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>¿...ndo? ¡Asch!
+<SPEECH*>¿Por qué llevo la ropa de Asch?...
+<SPEECH*>¡Asch!
+<SPEECH*>Te estoy escuchando.\nNo grites.
+<SPEECH*>Habla con el alcalde... con\nmi abuelo... sobre lo de\nlanzar el Tartarus.
+<SPEECH*>¡¿Qué está pasando?!...\n¿Por qué Tear me mira a mí pero me llama "Asch"?
+<SPEECH*>¿Puedes oírme, Luke?\nTú estás aquí.
+<SPEECH*>Tú y yo somos isofones perfectos.\nTú eres una réplica perfecta, hasta\nen la frecuencia de fonones.
+<SPEECH*>Y-Yo no soy ninguna réplica...
+<SPEECH*>Una réplica perfecta y su original\npueden conectarse mutuamente\npor sus fonorranuras.<PAGE>\n<SPEECH*>Ajustamos tus fonorranuras en el Castillo\nde Coral para que estuvieran abiertas a mí.<PAGE>\n<SPEECH*>Has oído mi voz varias veces\ndesde entonces, ¿verdad?
+<SPEECH*>Entonces, ¿mi voz está ahora en tu cabeza?...\nEso significa que yo...
+<SPEECH*>No sólo tu voz. Yo controlaba\ntodo tu cuerpo. Pero claro, dudo que\nun capullo como tú pudiera hacerlo.
+<SPEECH*>¡Deja de burlarte de mí!\n¡Lo haré! ¡Fíjate!
+¿Quieres que te mate ahora mismo o qué?
+¡Y una mierda me vas a matar!
+Tranquilo. No he caído tan bajo como para\nmatar una réplica inútil cuando duerme.
+Humf... Nunca recurriría a tácticas\ntan sucias con una basura como tú.
+Usted es mi único amo, Luke.\nYo me quedo aquí con usted.
+Mieu...
+Vas a volver a las Tierras Exteriores, ¿verdad?\nYa te lo dije, no iré contigo.
+¡¿Vas a volver a subir?!
+No tiene sentido quedarse aquí.
+Si usamos el sephiroth de\nAkzeriuth como está planeado,\npodremos volver.
+¿"Como está planeado"?
+(Llevar el Tartarus de vuelta\na las Tierras Exteriores.)
+¡¿Puedes hacerlo?!
+(¡Cállate! ¡Cierra la boca, réplica!)
+¿Qué pasa?\nTienes cara de haberte tragado un gusano.\nOh, espera... si siempre tienes esa cara.
+¡Luke!\nUh... digo, Asch.\n¿Cómo has estado?...
+Bien...
+¡Um! ¿Te... te\nacuerdas de mí?
+Lo... lo siento...\nHa sido una pregunta rara, ¿verdad?...
+¿Qué hace Luke?
+Está durmiendo...\nEstoy seguro de que al final se despertará.
+Ya veo... Si pensara un poco por sí\nmismo, estoy seguro de que se daría\ncuenta de lo que tiene que hacer.
+Humf. No sé yo.
+Guy...
+(Es tan inocente como\nsiempre ha sido...)
+No confío en ti, ya lo sabes.
+Voy contigo para asegurarme de\nque no haces nada sospechoso.
+Haz lo que quieras...
+Y pensar que el misterioso\n"Asch el Sanguinario" es\nun aristócrata de Baticul.
+¿Dijiste que tú también venías?
+Yo sólo voy con Ion.<PAGE>\nNo sabía que Luke era tan tonto.\nNo estoy tan segura de casarme con\nalguien tonto... aunque sea rico.
+(¿Lo has oído, réplica?)
+......
+El color del cielo del Qliphoth es\nhorrible, y afuera está el miasma... \n¡Quiero volver a las Tierras Exteriores!
+Es la primera vez que vienes, ¿verdad?
+Sí...
+No me gusta esta ciudad.<PAGE>\nLa gente de esta ciudad y yo\ntenemos puntos de vista muy\ndistintos sobre la Partitura.
+<SPEECH*>¿Qué piensas del Qliphoth?
+<SPEECH*>Es justo como había oído...\nNo es muy agradable.
+<SPEECH*>El miasma y las Tierras Exteriores\ncubren el cielo. La tierra es una corteza\nlicuada que flota sobre el manto.<PAGE>\n<SPEECH*>Los seres humanos no pueden vivir aquí.
+<SPEECH*>¿Entonces qué hace esta gente viviendo aquí?
+<SPEECH*>¿Por qué no se van a\nlas Tierras Exteriores?
+<SPEECH*>Ya conoces nuestra misión.\nSomos los custodios.\nNo podemos dejar esta tierra.
+<SPEECH*>¿"Custodios"?\n¿Y qué custodian?...
+<SPEECH*>¿Así que he oído que puede haber una forma de\nllevar el Tartarus de vuelta a las Tierras Exteriores?
+<SPEECH*>Hemos unido al Tartarus un activador\nde fonones similar a los que\nusan los anillos de tránsito.<PAGE>\n<SPEECH*>Debería poder estimular el\nsephiroth de Akzeriuth y elevar el\nárbol una última vez.
+<SPEECH*>Entonces nos subimos al árbol de sephiroth\ny nos llevará a la superficie, ¿eh?
+<SPEECH*>Exacto. ¿Pero de verdad\nnecesitáis tanto ese vehículo?
+<SPEECH*>¡Si no fuera así no hubiera preguntado!
+<SPEECH*>Está bien. Entonces, ¿queréis ir\nal Tartarus ahora mismo?
+Aún no\nSí
+<SPEECH*>Aún no.
+<SPEECH*>Muy bien. \nHabla conmigo cuando estés listo.
+<SPEECH*>Sí.
+<SPEECH*>Entonces vamos.
+<SPEECH*>¿Podremos manejar una nave de este\ntamaño con sólo cuatro personas?
+<SPEECH*>Sólo con el mínimo de\nmaniobrabilidad.
+<SPEECH*>Los sephiroth son los pilares que\naguantan las Tierras Exteriores, ¿no?<PAGE>\n<SPEECH*>¿Cómo vamos a usarlos\npara volver a subir?
+<SPEECH*>Los sephiroth son sitios donde están\nconcentrados los fonones del planeta y\ndonde brotan las partículas de memoria.<PAGE>\n<SPEECH*>Los pilares, los árboles de sephiroth, son\nel resultado de fortalecer artificialmente\nesos brotes de partículas de memoria.
+<SPEECH*>En otras palabras, que nos van a\nempujar las partículas de memoria.
+<SPEECH*>Nosotros estimularemos temporalmente el\nsephiroth y recogeremos el flujo de partículas\nde memoria con las velas del Tartarus.
+<SPEECH*>Espero que funcione...
+<SPEECH*>No te preocupes.\n¡Empecemos!
+<SPEECH*>Parece que hemos podido subir.
+<SPEECH*>No puedo creer que esto esté flotando en el aire...
+<SPEECH*>Bueno, ¿a dónde vamos ahora?
+<SPEECH*>Podemos recoger información en el\nLaboratorio de máquinas fónicas I\nde Belkend. Van suele ir por allí.
+<SPEECH*>¿En serio?
+<SPEECH*>Entendí mal el objetivo de Van.\nTenemos que descubrir sus actividades\ny saber qué planea de verdad.
+<SPEECH*>Quiero que nos lleves a Ion y\na mí de vuelta a Daath...
+<SPEECH*>Os llevaremos cuando hayamos acabado.\nNecesito gente para llevar el Tartarus.
+<SPEECH*>¿Por qué no usas a tus propios hombres?
+<SPEECH*>No puedo. Todo lo que haga\npodría llegar a oídos de Van.
+<SPEECH*>No veo ningún problema en ayudar a Asch.\nTenemos que saber el verdadero objetivo de Van.
+<SPEECH*>Natalia tiene razón.
+<SPEECH*>Si tú lo dices, Ion, \nentonces seguiré.
+<SPEECH*>Hay algo que también\nquiero confirmar.<PAGE>\n<SPEECH*>Cooperaré con Asch por un tiempo.
+<SPEECH*>Belkend está al este.\nVamos, manos a la obra.
+<SPEECH*>Belkend es territorio de tu\npadre, ¿verdad? Cuando éramos\njóvenes, fuimos juntos al...
+<SPEECH*>La ciudad está al sur. \nEn marcha.
+<SPEECH*>Asch...
+(Si quieres abandonar la \nciudad, ven aquí).
+No puedo irme. \nAsch me está vigilando.
+Asch tiene cosas que hacer en Belkend.\nSigámosle de cerca.
+Asch dijo que quería\nir a Belkend.
+Asch dijo que tenía cosas\nque hacer en Belkend.
+Spinoza es nuestro héroe, aunque se\ninvolucrara en investigaciones prohibidas.
+Spinoza estaba nervioso.<PAGE>\nEs porque perdió la oportunidad de\ninvestigar la aeronave que se extrajo\nen Daath y que acabó en Sheridan.
+<SPEECH*>¡Luke! \nNo... Asch.
+<SPEECH*>Ja, así que el traidor de Kimlasca\ntodavía vive en esta ciudad. \nVaya una broma.
+<SPEECH*>¿Qué quieres decir con "traidor"?
+<SPEECH*>Este tío estaba involucrado\nen mi secuestro.
+<SPEECH*>¡No me digas que tú fuiste el que\nrompió la prohibición de la fomicría!
+<SPEECH*>Tal y como imaginas, Jade.
+<SPEECH*>¡Jade!\n¡El Nigromante!
+<SPEECH*>Aplicar la fomicría a seres\nvivos está prohibido.
+<SPEECH*>¡Cualquier investigador de fomicría\nquerría probarlo al menos una vez!<PAGE>\n<SPEECH*>¡Tú no eres diferente, Jade Curtiss!\n¿O debería decir, doctor Jade Balfour?<PAGE>\n<SPEECH*>¡Tú eres el padre de la fomicría!<PAGE>\n<SPEECH*>¡Hiciste docenas de réplicas!
+<SPEECH*>No lo negaré. Yo soy el que\npropuso los principios de la fomicría.
+<SPEECH*>¡Entonces no tienes\nderecho a criticarme!
+<SPEECH*>Lo siento, pero me temo que no estoy \ninteresado en reproches mutuos.<PAGE>\n<SPEECH*>No tengo intención de excusar a \nnadie, sólo porque haya cometido \nel mismo pecado que yo cometí.
+<SPEECH*>Soy bien consciente de lo que hice.\nPor eso la prohibí.<PAGE>\n<SPEECH*>La réplica de seres vivos presentaba\nproblemas técnicos y éticos.<PAGE>\n<SPEECH*>Tú, un investigador de la fomicría, \ndeberías conocer bien el destino de las\nprimeras réplicas de criaturas vivas.
+<SPEECH*>Y-Yo sólo... ¡Todo lo que hice fue\nayudar con el proyecto de conservación!<PAGE>\n<SPEECH*>Me di cuenta de que si todo lo que\nhacíamos era registrar información de\nlas réplicas...
+<SPEECH*>¿Proyecto de conservación? \n¿De qué estás hablando?
+<SPEECH*>¡¿No lo sabíais?!
+<SPEECH*>¡Dínoslo!
+<SPEECH*>No puedo...\nNo tendría que haber mencionado nada.
+Esto no es bueno. Se nos ha\nacabado el fonimín. No podemos\nhacer réplicas sin él.
+¿Tan pronto?\nAún falta bastante para el próximo viaje\na la caverna de Ortion para recoger más.
+La cueva en cuestión es fácil, pero \ntener que hacer todo el trayecto hasta\nRadessia para llegar hasta ahí no lo es...
+Hace poco, cuando fui con el doctor Spinoza\na recoger fonimín, nos encontramos con\nDist el Segador, de los Seis Generales de Élite.<PAGE>\nEse hombre también tiene una pasión\nincreíble por la fomicría.
+<SPEECH*>¿Por qué Van está recogiendo datos de \nréplica? ¿Qué pretende hacer con ellos?
+<SPEECH*>Bueno, yo supondría que va\na hacer réplicas...
+<SPEECH*>Vamos a la caverna de Ortion...
+<SPEECH*>¿La cueva al oeste del continente\nde Radessia? ¿Pero por qué?
+<SPEECH*>Supongo que pretende investigar\nel asunto de las réplicas. \nEl fonimín se puede extraer ahí.<PAGE>\n<SPEECH*>Y...
+<SPEECH*>¿Y?
+<SPEECH*>Bueno, ya sabes... \nRadessia es territorio de Kimlasca. \nMalkuth no puede interferir.<PAGE>\n<SPEECH*>Dist era al principio un investigador de \nMalkuth. Es un sitio lógico al que ir \ntras robar la tecnología de fomicría.
+<SPEECH*>Ya vale de hablar. \nEn marcha.
+<SPEECH*>Buuuu.\n¿De verdad crees que deberíamos ir, Ion?
+<SPEECH*>Sí, por ahora, hagamos lo que dice.
+<SPEECH*>Me voy de aquí.
+<SPEECH*>¿Por qué?
+<SPEECH*>Estoy preocupado por Luke.\nTengo que volver a por él.
+<SPEECH*>¡No me lo puedo creer!\n¡A quién le importa ese idiota!
+<SPEECH*>A mí, precisamente porque es un idiota.\nNo sé qué habrá hecho estando solo.<PAGE>\n<SPEECH*>Y... Tengo esperanza en que\npueda superar esto.
+<SPEECH*>¡Guy!\n¡Eres el asistente de \nLuke, y su amigo!<PAGE>\n<SPEECH*>¡El verdadero Luke está aquí!
+<SPEECH*>Puede que sea el verdadero Luke.\nPero mi amigo es aquel idiota.
+<SPEECH*>Gracias, Guy...
+<SPEECH*>Es cosa tuya si quieres volver\na por él, ¿pero cómo pretendes \nvolver a Ciudad de Yulia?
+<SPEECH*>El Manantial de Aramís...\nEs una cueva al noroeste de Daath.<PAGE>\n<SPEECH*>Si la réplica vuelve a las\nTierras Exteriores, pasará por ahí.
+<SPEECH*>Gracias, Asch.
+<SPEECH*>Humf...\nSabía que lo escogerías a él.
+<SPEECH*>¿Te lo dijo Van?\nBueno... no es la única razón..
+<SPEECH*>¿De qué estás hablando?
+<SPEECH*>Nada... Hasta la vista.
+<SPEECH*>¡Luke!\n¡¿No le vas a detener?!
+<SPEECH*>No me llames por ese nombre.\nYa no es mío.
+De ningún modo voy a salir\ncon ese ese miasma.
+Sería una locura salir.
+Con todo ese miasma, no tengo\nningún interés en salir.
+Nadie con sentido común\nsaldría ahí fuera.
+¡De ningún modo!\n¡No voy a salir ahí fuera!
+No podemos salir fuera\ncon todo ese miasma.
+Tengo que conseguir volver \na las Tierras Exteriores.
+Vamos a preguntar a Teodoro cómo\nfue el tratado de paz.
+Vamos a hablar con el Abuelo a ver\nqué tal salieron las cosas.
+Deberíamos preguntar a Teodoro\nqué tal fueron las cosas...
+Puede que haya habido progresos.\nVamos a preguntar a Teodoro.
+Me pregunto si arreglaron las cosas.\nVamos a preguntar al alcalde.
+Vamos a preguntar al alcalde sobre\nlos resultados del tratado de paz.
+Hrmmmm...
+¿Le preocupa algo, señor?
+¡Tú! Siempre apareces en el momento\npreciso, como si lo calcularas.
+No lo entiendo bien, pero me \nlo tomaré como un cumplido.
+Ja. En cualquier caso, quiero\ntomar prestado tu cerebro\nun ratito, si no te importa.
+Desde luego.
+Este tipo de cosas son la especialidad de\nMcGovern, pero estoy seguro de que puedes\napañártelas. Echa un vistazo a esto...
+Has obtenido "pergamino antiguo".
+¿Y esto es...?
+El impacto de las Tierras Exteriores al\ndescender al Qliphoth expuso estratos de\ntierra al norte de Gran Chokmah. <PAGE>\nEsto lo encontraron allí.
+Esto es ispaniense antiguo. Parece un\nsoneto, pero... pero no tiene sentido\ny está mal escrito.
+¿Qué dice?
+Lo leeré en voz alta.
+"El paraíso está perturbado y la desesperación\nenvuelve el mundo. ¿Por qué las personas se\nconvierten en bestias y se bañan en sangre?\nEste poder no es más que un arma".<PAGE>\n"A uno con sabiduría confío mis tres\npoderes y los declaro versos prohibidos".<PAGE>\n"El racimo de hielo que brilla como la plata\nduerme en la base de la Tierra. Es el principio\nuniversal que brilla en el desierto. El gran\npoder que duerme al pie la montaña helada"<PAGE>\n"es el abrazo de plata cruel que esculpe\nen la naturaleza salvaje inhóspita".<PAGE>\n"La espada del juicio es la presión de las\nmareas del mar sureño. El arco iris de la\ninundación iluminará a aquel que busca\nconocimiento y brilla con la luz del\nséptimo color sobre el camino de la montaña".<PAGE>\n"La cólera de los cielos caerá sobre la tierra\nde los hijos de la divinidad. Innumerables\nson las estrellas que tiemblan en la superficie\ndel río poco profundo. Sobre la isla del\nmisterio espiritual, inclinaos ante el\npoder de los cielos".
+No he entendido ni una palabra...
+Pero hay fonones irradiando\nde este pergamino.<PAGE>\nSi pudiéramos descifrar el código o lo\nque sea, sospecho que descubriríamos\nalgún tipo de poder sellado.
+Ya veo. Sí, desde luego, este\nes el punto fuerte del Mariscal\nde Campo McGovern.
+¿Crees que podrías descifrar\nesto por mí?
+Entendido.
+Por si acaso, dejaré una\ncopia en mi habitación.
+¿Qué? ¿Quieres que descifre este pergamino?\nVamos a ver...<PAGE>\nIndica la ubicación de un verso \nprohibido... No, quizá el\nmismo pergamino lo contenga.
+Seguramente.<PAGE>\nLas primeras cuatro líneas\nindican que hay un verso\nprohibido, pero el resto... mmm...
+Espera un minuto...\nYo he visto este poema antes.
+¿Dónde lo has visto?
+¡Glenn! ¿Que pasó con esa cosa que\nyo usaba de pisapapeles?\n¡Tráela aquí!
+¿Pisapapeles?...
+¿Es esto lo que quieres, Padre?
+Sí, sí. Esto formaba parte de las\nmurallas de la ciudad, pero se\ncayó en un desprendimiento.<PAGE>\nLo he estado usando de pisapapeles. Mira\nlas palabras inscritas en la superficie.
+Desde luego, hay algo escrito ahí. \n"El racimo de hielo que brilla como la\nplata duerme en la base de la Tierra"...
+¡Ha... ha desaparecido!
+¿Podría ser esto el efecto contaminador?
+Si lo es, ¿eso significa\nque los fonones de la piedra\ny los tuyos se han mezclado?
+Eso parece.<PAGE>\nLa línea también desapareció del poema\ndel pergamino. Debe de ser una señal\nde que el sello se está rompiendo.
+¿Entonces todo lo que tenemos que\nhacer es buscar rocas como ésa y\npodremos descifrar el pergamino?
+Sí. Podremos adquirir\nel verso prohibido.<PAGE>\nParece que hay tres artes\nfónicas selladas.
+Vamos en busca de un tesoro, ¿eh? \nSi el poema tiene 14 líneas y las cuatro\nprimeras son una explicación, significa\nque hay 10 piedras.
+Y quedan nueve. Va a ser difícil\nencontrar nueve piedras repartidas\npor todo el mundo.
+Oh, ¿pero ese poema no dice la\nubicación de las rocas?
+Sí, supongo. Bueno, vamos a tenerlo\nen mente mientras viajemos.<PAGE>\nSi investigamos los sitios que coinciden y le\npreguntamos a la gente que nos encontremos,\ncreo que al final las encontremos.
+Parece que nos llevará su tiempo...
+Mariscal de Campo, general McGovern, \nagradezco su ayuda.
+Jo jo jo.<PAGE>\nTráeme un pisapapeles la próxima\nves que vengas. Acabo de perder\nel que tenía a mano.
+Oh, mirad, aquí hay una de las\npiedras con los versos prohibidos.<PAGE>\n"Es el principio universal que\nbrilla en el desierto".
+La línea también ha desaparecido del pergamino.
+¿Pero esa piedra no era de alguien de\naquí? Como se ha desvanecido, ya no\nhay manera de devolverla...
+Tear tiene razón. \nDebemos disculparnos.
+Pero me pregunto si nos creerán.
+Mmm, sí. Esto es territorio\nde Malkuth, ¿no es así? \nEn ese caso...
+¿Qué? \n¿Esa piedra?
+Sí. Ha sido reclamada para el uso de las\nFuerzas de Malkuth. Si estás descontento,\npor favor, presenta una queja por escrito\nal cuartel general.
+Oh, no, no me importa, sólo era una\nroca que cogí en el desierto.
+Está bien.
+¿No ha sido demasiado convincente?...
+Pero ya no tenemos forma\nde devolverla.
+No creo que eso estuviera bien...
+¿Qué pasa, Jade?
+Ahora que lo pienso, cuando era\npequeño, vi algo que se parecía a\nuna piedra con el verso prohibido.
+¡¿En serio?!
+Creo que Saphir fue y...
+¿Saphir?...
+Ah, creo que un sirviente de mi infancia\nenterró algo que se parecía a la piedra\ncon el verso prohibido<PAGE>\ndetrás de la estatua de Karl III en la plaza.
+¡Vamos a buscarla!
+Aquí hay algo. ¿Es esto? \nTiene letras escritas.
+Sí. "El gran poder\nque duerme al pie\nla montaña helada..."
+Parece que sí que era una de las\npiedras con el verso prohibido.
+Sí. La línea también ha\ndesaparecido del pergamino.
+¡Alto ahí, Malvado!
+¡Ah ja ja ja! ¡Toma eso, Abyss \nRojo! Mi ataque especial,<PAGE>\n"¡el abrazo de plata cruel que esculpe\nen la naturaleza salvaje inhóspita!"
+¿Qué? ¿Eso no era lo igual que una de\nlas líneas del pergamino antiguo?...
+Hey, chaval. ¿Te has inventado \ntú ese ataque especial?
+No. Había un cofre extraño en el \ncamino hacia Puerto Sheridan, y\nestaban inscritas esas palabras.
+Su padre lo encontró, pero\nno se abría, así que se lo\ntrajo a casa.
+Es esto.\nVes, está cerrado y no se abre.
+¿Tú qué piensas, Coronel?
+Déjame ver.
+Esto es, definitivamente, un verso prohibido.
+"El abrazo de plata cruel que esculpe\nen la naturaleza salvaje inhóspita".
+¿Quién hubiera pensado que estaría\nen un sitio como éste?
+Sí...
+¿Mmm?... Han aparecido\npalabras nuevas en el\npergamino antiguo.<PAGE>\nEsto es... la manera para conjurar\nel arte fónico del verso prohibido.
+En otras palabras,\n¿hemos roto el sello?
+Sí, eso parece. \nEste arte fónico se\nllama "Absoluto".
+¿Qué tipo de arte fónico es?
+Lo sabremos cuando lo usemos.
+Jade ha aprendido "Absoluto".
+Hey... Coronel, ¿esto es una\npiedra con un verso prohibido?
+Pues eso parece.<PAGE>\n"La espada del juicio es la presión\nde las mareas del mar sureño".
+Así que este lugar es la "presión\nde las mareas del mar sureño", eh...
+En cualquier caso, al menos\nhemos encontrado otra piedra.
+Esto es una piedra con un verso prohibido.
+Coronel, si deshaces el sello del pergamino,\nla piedra desaparecerá. Deberíamos\nobtener permiso de alguien...
+Este lugar pertenece a Padre. \nCreo que no pasará nada.<PAGE>\nY Natalia también está aquí.
+Pero no podemos...
+¿Oh? Bueno, en ese caso,<PAGE>\n"el arco iris de la inundación iluminará\na aquél que busca conocimiento".
+¡Coronel!
+Oh, lo siento. \nHe deshecho el sello sin querer.
+Si buscas al palabra "villano" en el diccionario,\nseguro que sale la cara de Jade al lado.
+¿Qué pasa?
+¡Señorito Luke! \nBueno, hemos encontrado esta roca...
+¡Guau! \nEs una piedra con un verso prohibido.
+¿Dónde la habéis encontrado?
+Fuimos a investigar los restos de\nla caída de Akzeriuth, había\ncaído por allí cerca.
+Ya veo...\nEl "camino de la montaña"\ndebe de ser el paso de Deo.
+¿Podemos quedarnos esta piedra?
+Por supuesto. Tiene algo inscrito en\nispaniense antiguo, así que imaginábamos\nque tenía que ser algo valioso,<PAGE>\ny estábamos tratando de averiguar\nqué hacer con ella.
+Toma, Jade...
+Bien.
+"Y brilla con la luz del séptimo color\nsobre el camino de la montaña".
+Me alegra que la piedra con el verso prohibido\nno desapareciera en el mar del Qliphoth.
+Sí...
+¡Oh!...\nUm, no quería decir...
+Lo sé. \nLo siento, no quería ponerme así.
+Ha aparecido un verso fónico\nnuevo en el pergamino.<PAGE>\nEs... Prisma de espadas...
+¡Ah! \nEl sello se ha roto, ¿eh?
+Es un arte fónico sonoro interesante.\nLo probaré en cuanto tenga la oportunidad.
+Estaremos ansiosos de verlo.
+Jade ha aprendido "Prisma de espadas".
+Hey, Florian, ¿qué\ntienes ahí?
+Es una piedra con un verso prohibido...
+¡Mohs me la dio!
+¿Mohs?
+La encontré en la habitación\ndonde nos tuvieron encerrados\ndurante mucho tiempo.<PAGE>\nCuando salí, le pregunté a\nMohs si me la podía quedar,\ny me dijo que sí.
+Oh...
+(No puedo pedirle que nos la\ndé después de escuchar eso...)
+Dejemos esta. No podemos\nobligar a Florian a que\nabandone sus recuerdos.
+Coronel... \nGracias.
+¿Queréis esta piedra?
+No, no pasa nada, Florian.
+Pero... si de verdad la queréis...\na mí me parece bien.
+Florian, no te\nsientas obligado.
+No, vosotros vinisteis a jugar\nconmigo, así que os la quiero dar.
+Está bien...\nMuchísimas gracias.
+¡De nada! \nBueno, es hora de mi clase.\n¡Hasta luego!
+Bueno.<PAGE>\n"La cólera de los cielos caerá sobre la\ntierra de los hijos de la divinidad".
+Entonces sí que era un verso prohibido.
+Sí. Debo decir que ha estado muy bien\ncomo has tratado a Florian, Coronel.
+Supongo que ni el Nigromante\npuede aprovecharse de un\nniño inocente.
+¿Oh? Fue precisamente por su\ninocencia por lo que esperaba \nque, si le hablaba de esa manera,\nme diera la piedra sin dudar.
+¡Eres horrible!...
+Ese monstruo...
+¿Qué pasa?
+Parece que tenía una piedra con\nun verso prohibido en la boca.
+¡Oh! \n¡Persigámosle inmediatamente!
+Aquí está. \n"Innumerables son las estrellas que tiemblan\nen la superficie del río poco profundo".
+Me sorprende que pudieras ver una\npiedra pequeña de esa manera.
+Los cielos me sonríen\npor mis buenos actos.
+(Eso no puede ser verdad...)
+(Eso no puede ser verdad...)
+(Eso no puede ser verdad...)
+(Eso no puede ser verdad...)
+(Eso no puede ser verdad...)
+¿Te interesa esta piedra?
+Sí, es...
+Después de que las Tierras Exteriores\ndescendieran, la tierra que rodeaba\nCiudad de Yulia se solidificó.<PAGE>\nEsto estaba allí incrustado.
+Ya veo. La verdad es que\nnecesitamos esta piedra para\ndescifrar un antiguo pergamino.
+¿Podemos pedirte que nos la des?
+Por favor.
+Vosotros sois nuestros salvadores\npor haber transformado el Qliphoth. \nTomadla, por favor.
+Gracias.
+"Sobre la isla del misterio espiritual,\ninclinaos ante el poder de los cielos".
+No podríamos haber obtenido esta piedra\nsin haber hecho descender la tierra.
+¡Me alegra que la hayamos encontrado!
+Las letras del pergamino se han desvanecido\ny ha aparecido un verso prohibido.<PAGE>\nEse es... Meteoritos.
+¿Qué tipo de arte fónico es?
+Lo veremos cuando lo usemos.\nEs un arte muy poderoso.
+Ah... ¡No puedo esperar para verlo!
+Jade ha aprendido "Meteoritos".
+Por fin hemos obtenido todos\nlos versos prohibidos.
+Lo que significa que podemos esperar aún\nmás de las artes fónicas del Coronel.
+Pero me pregunto si seremos capaces\nde mantenerlo bajo control si sigue\nfortaleciéndose...
+Pues sí...
+Sí, para empezar, el Coronel\nes una amenaza...
+Vaya, vaya. Ahora no escondáis\nvuestros sentimientos.
+Bueno, esperaremos cosas buenas de ti,\nasí que muéstranos lo que puedes hacer.
+¡Sí!
+¿Leer el pergamino antiguo?\nSí\nNo
+¡No me hables ahora mismo!
+Ya que se te permite estar aquí,\n¿quiere eso decir que eres un original?
+¡No me hables ahora mismo!
+Ya que se te permite estar aquí,\n¿quiere eso decir que eres un original?
+¡No me hables ahora mismo!
+Ya que se te permite estar aquí,\n¿quiere eso decir que eres un original?
+¡No me hables ahora mismo!
+Ya que se te permite estar aquí,\n¿quiere eso decir que eres un original?
+Esta zona está dedicada a la\ninvestigación de réplicas.
+¿Así que tienes permiso\npara entrar aquí también?
+Esta área se usa solamente\npara investigación sobre réplicas.
+¿Así que tienes permiso\npara entrar aquí también?
+Esta área se usa solamente\npara investigación sobre réplicas.
+¿Así que tienes permiso\npara entrar aquí también?
+Esta área se usa solamente\npara investigación sobre réplicas.
+¿Así que tienes permiso\npara entrar aquí también?
+Necesitas permiso especial para\nentrar al laboratorio de las réplicas.
+Los únicos a los que se les permite estar \naquí son a unos pocos investigadores, además \nde a las réplicas y a los originales.
+Necesitas permiso especial para\nentrar al laboratorio de las réplicas.
+Los únicos a los que se les permite estar \naquí son a unos pocos investigadores, además \nde a las réplicas y a los originales.
+Necesitas permiso especial para\nentrar al laboratorio de las réplicas.
+Los únicos a los que se les permite estar \naquí son a unos pocos investigadores, además \nde a las réplicas y a los originales.
+Necesitas permiso especial para\nentrar al laboratorio de las réplicas.
+Los únicos a los que se les permite estar \naquí son a unos pocos investigadores, además \nde a las réplicas y a los originales.
+Vaya mierda...
+Ya que se te permite estar aquí,\nasumo que lo sabes, pero el\nfonimín es una necesidad absoluta.
+Laboratorio de Fomicría
+......\nEso es todo lo que tengo que decir.\n¡Marchaos!

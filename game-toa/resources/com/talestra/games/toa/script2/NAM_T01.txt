@@ -1,0 +1,660 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+*Suspiro* ¿Qué voy a hacer?...
+Vaya, es un vaquero, de los\n"Cuentos de hadas de Auldrant".
+El disfraz está muy bien hecho, \nigual que los otros...
+No sale ni tirando...
+¡G-G-Guau! ¡¿Qué estás haciendo?!
+Oh, lo siento. No podía evitar\npreguntarme si era real o no...
+¡Todo es real en la\nisla de Nam Cobandai!
+En otras palabras, aunque sea falso,\ntrátalo como si fuera real.
+Por cierto, ¿qué\nte preocupa?
+Me hermano pequeño se escapó,\ndecía que quería ver mundo, pero\nya hace mucho que se fue.<PAGE>\nMi hermano mayor también se fue, decía\nque quería ir a buscarlo, y él tampoco\nha vuelto...<PAGE>\nCuando pienso en ellos, perdidos por\nahí fuera, me preocupo mucho.
+¿Y por qué no vas a buscarlos?
+Si me fuera y acabáramos\nperdiéndonos la pista,<PAGE>\n¡quizá ellos se\nfueran otra vez\npara buscarme!
+¿Tus hermanos llevan la\nmisma ropa que tú?
+Sí. Los dos son vaqueros, como yo.
+(Vacas... @)
+Bueno, no pasarán muy desapercibidos...
+¡Vamos a buscarlos!
+Estás dejando que sus pintas\nte conmuevan otra vez, ¿no?
+N-No, por supuesto que no...
+Si tú lo dices. Bueno, si están\nvestidos así, deberíamos poder\nencontrarlos fácilmente.
+¡¿Vais a buscar a\nmis hermanos?! \n¡Gracias!<PAGE>\nMi hermano mayor se llama Misika y\nmi hermano pequeño se llama Yutan.
+*Suspiro*
+¡Guau! ¡¡Cómo mola!! \n¡Esto sí que es guay!
+Me recuerda a cierta persona.
+¡Y-Yo no soy así! \nNo creo...
+Hey, tú. \nEres Yutan, ¿verdad?
+¿Eh? ¿Qué pasa contigo? \n¿Qué quieres?
+Es muy parecido...
+¡Hey!
+Elion está preocupado por ti. \nVenga, vamos a casa.
+¿Elion? Oh sí, creo que hace\ntiempo que no he vuelto.\nLa verdad es que me olvidé.
+(¿De verdad parezco tan tonto?...\nSerá mejor que tenga cuidado...)
+¡Aún no voy a volver!<PAGE>\n¡Aún hay muchas cosas\nen el mundo que\ntengo que ver!
+¡Oh, vaya! \nHa huido.
+Oh, no te preocupes. No parecía mucho más listo\nque alguien a quien se parece. Estoy seguro\nque lo encontraremos fácilmente otra vez.
+No pienses que soy tan tonto\ncomo para no darme cuenta de\ncuando se están riendo de mí.
+¿Qué quieres decir? \nNadie ha dicho nada\nsobre ti.<PAGE>\nA no ser que te des por aludido, claro.
+Déjalo ya, Luke. \nNo puedes ganarle en una discusión.
+Después de todo, tiene la\nsabiduría de un hombre mayor.
+¿Eh? Qué raro. Estoy seguro de haber\nsubido al barco que iba hacia Daath...
+Esto es Baticul.
+Oh...<PAGE>\n¿Cómo he acabado aquí?\n¿Habré comprado el billete equivocado?
+Querrás decir que has subido\nal barco equivocado.
+Oh, sí. Podría ser eso.\nPor cierto, ¿quiénes sois?
+Eres Misika, ¿verdad? Elion \nnos pidió que te buscáramos.\nVolvamos juntos a casa.
+No puedo. Tengo el deber de\nencontrar a mi hermano, Yutan.
+¿Qué deberíamos hacer?
+Creo que primero tendremos que encontrar a Yutan...
+¿Qué pasa?
+¡Oh, eres tú!\nParece que han secuestrado\na la hija de Kelly...
+Mi pequeña Erin...
+Enviaron una nota sobre el rescate. \n"Tenemos a Erin y al vaquero. Los mataremos\nsi nos denuncias a la policía militar".<PAGE>\n"Trae 5.000.000 gald al\nBosque de los Cheagles".
+Vaquero... ¡¿Yutan?!
+Vaya, vaya. Se ha metido\nen un lío, ¿verdad?
+¿Cómo puedes sonar tan indiferente? \n¡Tenemos que darnos prisa y rescatarlos!
+Pero el Coronel, Anise y yo somos soldados.\nSi nos entrometemos, los niños secuestros\npodrían estar en peligro.
+Entonces, esta vez dejaremos fuera\na Anise, a Jade y a Tear.<PAGE>\nLos demás iremos al bosque y rescataremos a\nlos niños. Entonces, os haremos una señal y\npodréis venir a detener a los criminales.<PAGE>\n¿Qué os parece?
+Me pregunto si será tan fácil.
+Mmm, sí.<PAGE>\nPero, aunque nos vieran,<PAGE>\nno deberían pensar que somos soldados.
+Decidido, entonces. \n¡Vayamos al Bosque de los Cheagles ahora mismo!
+¡Hey! \n¡Soltadme, cabrones!
+¿Por qué has traído \ntambién a este friki?...
+Él me siguió....
+¡Hasta aquí habéis llegado!
+¡¿Q-Quién anda ahí?!
+E-Espera...
+¡Rendíos pacíficamente \ny no se os hará daño!
+¿Q-Quién leches sois vosotros?
+Soy...
+¡Hey! \n¡No olvides quién eres\ny que estás en Malkuth!
+O-Oh, es verdad.
+Soy... ¡Soy la Estrella de Malkuth! \n¡La misteriosa ladrona, la\nEstrella de Malkuth!
+¡Muchas gracias!
+Gracias a vosotros, tengo a mi hija otra vez. \n¡No sé cómo expresar mi gratitud!
+No hay necesidad dar\nlas gracias. De nada.
+Gracias, señorita Estrella de Malkuth.
+¡¿Uah?!
+Mieuuuuuuuu...
+Captura completada.
+(Qué cruel...)
+¡Ah! ¡Yutan!
+Yo...
+¿Dónde has estado?\n¡Estábamos preocupados!\n¡Por tu culpa, he acabado\nviniendo a Daath!
+Ya te lo hemos dicho, esto es Baticul.
+Oh, sí.
+Bueno, Elion os está esperando a los dos. \nVolvamos con él.
+¡Estoy tan contento de que estéis bien!
+Eh... Lo siento. \nMe quedé un poco atrapado.
+Pero conseguimos volver sanos y salvos.
+Gracias por encontrarlos.
+Me gustaría ofrecerte algo \ncomo muestra de gratitud...
+Conozco algo bueno.
+¿Qué están haciendo?
+Me da igual lo que hagan...
+Ya veo. Tengo algo que  \nserá perfecto.
+¡Vaya! \n¿Qué es esto?
+¡Tiene una pinta maravillosa!
+Entiendo tu trabajo como ladrona,\nEstrella de Malkuth.<PAGE>\nYutan me informó.
+Um...
+Je, no hay por qué avergonzarse.
+¡Sí! \nTe sienta bien.
+Éste es el traje de la ladrona\nmisteriosa, un personaje de\nuna novela famosa.
+Vaya...
+Natalia, si te avergüenza,\nno tienes por qué llevarlo...
+¡Es maravilloso!
+Ahora yo también soy una ladrona misteriosa.<PAGE>\nSí que me siento más tímida,\npero ha sido mi sueño desde\nque era niña.<PAGE>\nLo aceptaré encantada.
+Natalia ha recibido el título de "****."
+¡Hola a todos!\n¡Muchas gracias por\nlo que hicisteis!
+No hay nada que agradecer.\nLa realeza tiene el deber de\nayudar a los ciudadanos.
+¡Oh! ¿A que no sabes qué? \nTenemos un juguete nuevo.\n¿Qué tal si lo pruebas?
+¿Un juguete?\n¿Qué es?
+Estoy muy orgulloso de este.\nPor desgracia, aún no está acabado.
+¡No invites a la gente a jugar\ncon algo que aún no está acabado!
+Desde luego...
+A ver, a ver.<PAGE>\n¿Qué quieres decir con "inacabado"?\n¿Le falta algo?
+Sí. No es nada complicado. \nSólo necesito una "espina gigante".
+¿Por qué necesitas algo así?
+El proceso es secreto.\nPero la necesito de verdad.\n¿Por casualidad no tendréis alguna?
+¿Entregar una "espina gigante"?\n   Sí\n   No
+¿Es esto lo que necesitas?
+¡Guau!\nMe has salvado de nuevo.
+¿Qué vas a hacer con esto?
+Je je je.\nVas a ver lo que mi habilidad puede hacer.<PAGE>\nPor favor, venid más tarde a la\ncaseta que hay más allá de ésta.
+No tienes ninguna.\nQue pena. \nQuizá la próxima vez.
+Ya veo... \nSi cambias de idea, por\nfavor, dámela.
+¿Has traído la espina gigante?
+¿Entregar una "espina gigante"?\n   Sí\n   No
+Te he estado esperando.\nAquí tienes.
+Luke ha obtenido "Mors Draconis".
+¿Qué puñetas es esto?
+Es lo que se necesita para jugar al \n"Tales of Dragon Buster".
+¿Te refieres a esta cajita?
+Sí.\nMientras lo tengas, podrás\njugar cuando quieras.
+Como ya estamos aquí,\n¿por qué no lo probamos?
+Vale.\nVamos a jugar.
+Usa la caja para empezar a jugar.\n¡Diviértete!
+¿Te ha gustado el \n"Tales of Dragon Buster"?
+¡Es genial! \nNunca había visto algo\ntan divertido.
+Me alegra oír eso. \nPor favor, sigue jugando.
+¿Qué piensas del juguete que he hecho?<PAGE>\nSi sigues jugando y consigues un\nbuen récord, te daré un premio.
+¡Guau!\n¡Increíble! \n¡Derrotaste al dragón y\nsalvaste a la princesa!
+¿La "princesa"? \nSólo era Tear.
+......Vaya, lo siento mucho. \nSupongo que tu hubieras\npreferido a Natalia.
+¿Cu-cuál es tu problema?
+Venga, venga, por favor, no peleéis.<PAGE>\nLa princesa que aparece en el juego es la\npersona que el jugador tiene en el corazón.
+¿Qué?...
+¡Qué, eso, a-anda ya! \n¡¡Es ridículo!!
+Esa reacción hace que parezca\ntodo más realista, Luke.
+De verdad. \nLuke es un niño pequeño.
+¡No tengo por qué oír a una niña\npequeña llamarme niño pequeño!
+Bueno, bueno, calmaos. \nLuke, por favor, no empieces a gritar\nsólo porque alguien ha dicho la verdad.
+A pesar de todo, debo decir que estoy impresionado.\nFuiste capaz de rescatar a la princesa.\nEstaba seguro de que nadie podría acabar el juego.<PAGE>\nHe perdido, así que te daré esto como premio.\nTe hará sentir más auténtico.
+Luke ha recibido el título de "title 16."
+¿Qué puñetas es esto?
+Es el traje del héroe\nlegendario, Clovis.<PAGE>\nTambién puedes jugar con esa ropa,\nasí que diviértete.
+Es un traje muy simple para\nun héroe legendario.
+Sí. \nParece estúpido.
+¡Guau! \n¡Increíble! \n¡Eres como el mismísimo y legendario Clovis!
+¿De verdad?
+¡Lo sé!\n¡Haré que te veas aún más auténtico!<PAGE>\nHe hecho uno nuevo.\n¡Pruébatelo, anda!
+¡Ah ja ja ja ja! \n¡Puaaag!
+¡Ahora sí que te pareces a Clovis!
+Luke ha recibido el título de "title 21."
+¡Tú \nayudaste\nhermano!
+¿Por qué hablan así?
+Así es como hablan en los cuentos de hadas.
+¡Yo tener\nobjeto especial\npara ti <PAGE>\nquien\nayudar\nhermano!
+Un "objeto especial", ¿eh?...
+¡Bolsa de sorpresas\ndefinitiva\ncosas buenas!<PAGE>\n¡Actúa ahora, \ny por sólo \n1.000.000 gald!
+¡¿1.000.000?! \n¡Ni hablar!
+Tu ayudar\nhermano. ¡Yo\nhacer gran descuento!<PAGE>\n¡150.000 gald!\n¡Buen trato!
+Um... No sé, no sé...
+Pagar 150.000 gald?\n  Sí \n  No
+Bueno, hemos llegado hasta\naquí. Creo que lo compraré.
+Has entregado \n150.000 gald.
+¡Gracias!<PAGE>\n¡Toma!
+Has obtenido "Bolsa de sorpresas de Antoleón".
+¿Qué hay dentro? \n¡¿Qué hay dentro?!
+Espera. \nLa abriré. \nPesa un poco...
+Has obtenido "gel de manzana".
+Hay arena por todas partes.
+¿Qué más? \n¿Qué más?
+Has obtenido "lentes mágicas".
+Esto también tiene arena...
+Empiezo a tener un mal\npresentimiento con esto.
+Has obtenido "manzana".<PAGE>\nHas obtenido "carne de vaca".<PAGE>\nHas obtenido "pollo".
+Puaaaag, tienen arena... \n¿Qué más hay dentro?
+El resto es... arena.\nLa parte pesada es todo arena.
+¡¿Quéééé?! \n¡¿Eso es todo lo que recibimos por 150.000 gald?!
+Me lo imaginaba.\nSon los objetos que le...
+¡Sí! \n¡Son las cosas que le dimos!<PAGE>\n¡Hey! ¡Tú!\n¡Será mejor que vigiles tu espalda, tío!\n¡¡Nadie estafa a Anise y\nse sale con la suya!!
+Guau...
+Cuando hay dinero de por\nmedio, parece otra...
+Esperad, por favor. \nDadme un\nbonus.
+¿Un bonus?
+Toma. \nCógelo, \npor favor.
+Has obtenido "Muñeco Antoleón".
+No está mal, ¿eh, Anise? \nEs bastante útil...
+¡¿Quééé?! \n¿Se supone que tengo que usarlo?
+¡Nosotros, fuertes! \n¡Te\nsorprenderás!
+Cuídalo bien. Nos ha\ncostado 150.000 gald.
+¡¿Qué?!
+¿Muñeco\nluchar\nbien?
+Aquí hay otro de esos tipos.\n¿Es igual que los otros?
+Eso parece.
+¿Está de moda actuar como\nAntoleón o algo así?
+No lo sé, pero espero que no.
+Si le damos algo a este\nAntoleón, ¿también nos\ndará algo a cambio?
+¡Tú!
+¿Y-Yo?
+¡Sí! \n¡Tú! \n¿Quién es más importante?
+¿Quién es más importante para ti? \nTear \nJade \nAnise \nGuy \nNatalia
+Tear, supongo...
+¡Lo ha dicho! \n¡Lo ha dicho tal cual!
+Es lo que he pensado siempre.
+Ja ja, lo sabía.
+Mi más sincero pésame, Tear.
+¡Luke! \nQ-Qué estás...
+¡Vale!
+¡Aaaaaaah!
+¡H-Hey! \n¡¿Qué has hecho con Tear?!
+Tú, dar gald. \n¡Yo, devolver!
+¡Hey!
+Tú no dar gald, \n¡yo no devolver persona importante!
+¡¿Cuanto quieres?!
+¡76.500 gald!
+¡Maldita sea! \n¡Bueno, toma!
+Has pagado 76.500 gald.
+¡¿Eh, dónde está Tear?!
+Está fuera...
+V-Vaya susto...\n¿Qué está pasando?
+¡Tear! \n¿Estás bien?
+Sí... supongo.
+Fiu... \nEstaba muy preocupado...
+¿Qué?
+Uh, quiero decir, eh... y-ya sabes, \nsi perdiéramos todo el equipo,\npues qué asco...
+Oh... Bueno, puedes relajarte\nEl equipo está a salvo.
+V-Vale...
+(Soy idiota...)
+¡Tear! \n¿Estás bien?
+Sí, gracias. Y cuando estaba\nluchando, parece que\nme agarré a esto.
+¿Por qué no te lo pruebas, Anise?
+¿Qué... es... esto?
+¡Lo sabía! \n¡Es un disfraz de gatoz!
+¡Buu! ¡Buu! \n¿Por qué tengo que llevar esta\nespecie de vestido para críos?
+Mmm. \nPorque eres una cría.
+¡Buu! ¡Buu! ¡Buu! ¡Buu! \n¡No soy una cría!
+Ah, bueno, sé agradecida, Anise. \nCostó 76.500 gald.
+*Suspiro* \nPreferiría tener 76.500 gald \nantes que este traje...
+Anise ha recibido el título de "title 11."
+Jade, supongo...
+¿Es eso un intento de abrumarme?
+¡Hey! ¡Debería estarte\nagradecido, ya sabes!
+Ni hablar...
+Está mintiendo...
+Mentiroso...
+Tiene que ser mentira...
+......
+Vale.
+......
+......¿P-Pero qué? \n¿Dónde está Jade?
+¡Si tú dar gald, \nyo devolver!
+¡¿Qué?! \n¡¿Te has llevado a Jade?! \n¿Estás loco?
+¡Amigos, tenemos delante\nun modelo de coraje!
+Ja ja. \n¿Quieres huir?
+No es una mala idea.
+¡¿Cómo podéis decir algo así?! \n¡Tenemos que rescatar al Coronel!
+Natalia tiene razón.
+Bueno, vale. \n¿Cuánto quieres?
+¡76.500 gald!
+Vale, toma...
+Has pagado 76.500 gald.
+Bueno, ¿dónde esta Jade?
+Él fuera...
+¡Jade! \n¿Estás bien?
+Sí, siento informaros de que estoy bien.
+¿"Siento informaros"? \n¿De qué estás...?
+Parecíais muy contentos\nde marcharos si mí.
+L-Lo has oído...
+Oh, no pasa nada, Luke. No\ntienes por qué hacerlo.\nAgradezco tu oferta,<PAGE>\npero no puedo aceptar que seas\nel sujeto de un test experimental.
+Nadie ha dicho nada\nde hacer algo así...
+¡Coronel! \n¿Estás bien?
+Anise... a ti también\nte gustó ver cómo me\nabsorbían, ¿verdad?<PAGE>\nDeja que te dé esto como agradecimiento.
+¿Qué... es... esto?
+Lo cogí del cubil\nde Antoleón.<PAGE>\nLlévalo siempre puesto\nmientras viajemos.<PAGE>\nPero claro, yo mantendré\nlas distancias contigo.
+¡Buu, buu!\n¿Por qué tengo que llevar esto?
+Si lo prefieres, podrías ayudarme\ncon algún experimento.
+¡Estaré encantada de llevarlo, señor!
+Anise ha recibido el título de "title 11."
+Anise, supongo...
+*Embelesada* @ \n¿Este es mi billete para la buena vida?
+Es porque Anise es mona...
+Nunca pensé que escogería a\nAnise, entre todos nosotros...
+Seguramente está preocupado por\nella porque aún es una niña.
+Sí, es bastante probable.
+¡Hey! \n¡Callaos los dos!
+¡Vale!
+¡¿Uahwahwahaah?!
+¡H-Hey! \n¡¿Qué has hecho con Anise?!
+Tú, dar gald. \n¡Yo, devolver!
+¡Hey!
+Tú no dar gald, \n¡yo no devolver persona importante!
+¡¿Cuanto quieres?!
+¡76.500 gald!
+¡Maldita sea! \n¡Bueno, toma!
+Has pagado 76.500 gald.
+¡¿Dónde está Anise?!
+Se ha ido...
+¡Anise! \n¿Estás bi...?
+¿Pero qué narices?
+¡No me preguntes!
+¿Es un traje de gatoz?
+¡Anise! \n¡Es genial! @
+Sí, te queda muy bien.
+Ja ja.\nAlgunos niños saben de\nqué van estas cosas.
+Cuando estés vestida así,\npor favor, mantente al menos\na unos 30 pasos de mí.
+¡Puaaag! \n¡¡Yo no quiero llevar algo así!!
+Anise ha recibido el título de "title 11."
+Guy, supongo...
+Ja ja. No me había dado cuenta de\nque estuvieras tan unido a mí.
+Tch.\nPrefiere la amistad al sex appeal, eh...
+Bueno, creo que es normal\ntener cariño a los amigos.
+Después de todo, Guy es el mejor amigo de Luke.
+Aún es un crío, por lo que veo.
+Vale.
+¡¿P-Pero qué...?!
+¡H-Hey! \n¡Qué has hecho con Guy?!
+Tú, dar gald. \n¡Yo, devolver!
+¡Hey!
+Tú no dar gald, \n¡yo no devolver persona importante!
+¡¿Cuanto quieres?!
+¡76.500 gald!
+¡Maldita sea! \n¡Bueno, toma!
+Has pagado 76.500 gald.
+¡¿Bueno, y dónde está Guy?!
+......Él fuera.
+¡Guy! \n¿Estás bien?
+Sí, pero no entiendo bien\nqué ha pasado.
+¿Mmm? \n¿Qué es lo que estás sujetando?
+¿Eh? Hey, cierto...<PAGE>\nCuando caí en la trampa\nde Antoleón, recuerdo\nhaber agarrado algo...
+¡Guy! \n¿Estás bien?
+Anise es la única que parece\nque podría llevar esto...
+¿Qué... es... esto?
+Parece que lo he cogido del cubil\nde Antoleón. Te lo voy a dar.
+¡Buu! ¡Buu! \n¿Por qué tengo que llevar esta\nespecie de vestido para críos?
+Mmm. \nPorque eres una cría.
+¡Buu! ¡Buu! ¡Buu! ¡Buu! \n¡No soy una cría!
+Ah, bueno, sé agradecida, \nAnise. Costó 76.500 gald.
+*Suspiro* \nPreferiría tener 76.500 gald en vez de este traje...
+Anise ha recibido el título de "title 11."
+Natalia, supongo...
+¡¿Qué?! \n¿En serio?
+Es porque Natalia es guapa...
+Je je. Después de tanto quejarte, es\nasí cómo te sientes de verdad, ¿eh?
+Oh, qué sorpresa.
+Hemos sido amigos desde la infancia.\nClaro que me ha escogido.
+Vale.
+¡¿Q-Qué estás haciendo?!
+¡H-Hey! \n¡¿Qué le has hecho a Natalia?!
+Tú, dar gald. \n¡Yo, devolver!
+¡Hey!
+Tú no dar gald, \n¡yo no devolver persona importante!
+¡¿Cuanto quieres?!
+¡76.500 gald!
+¡Maldita sea! \n¡Bueno, toma!
+¡¿Y dónde está Natalia?!
+Se ha ido...
+¡Natalia! \n¿Estás bien?
+Sí, pero estoy llena de arena.
+¿Mmm? \n¿Qué es lo que estás sujetando?
+¡Oh! Cuando me absorbió, estaba\nmoviendo las manos desesperadamente...
+¡Natalia! \n¿Estás bien?
+¡Ah, perfecto!\nTe lo doy para ti, Anise.
+¿Qué... es... esto?
+Parece que lo cogí del cubil de\nAntoleón. A ti te sienta bien.
+¡Buu! ¡Buu! \n¿Por qué tengo que llevar esta\nespecie de vestido para críos?
+Mmm. \nPorque eres una cría.
+¡Buu! ¡Buu! ¡Buu! ¡Buu! \n¡No soy una cría!
+Ah, bueno, sé agradecida, \nAnise. Costó 76.500 gald.
+*Suspiro* \nPreferiría tener 76.500 gald en vez de este traje...
+Anise ha recibido el título de "title 11."
+¡Hola!\n¡Soy la mayor, Misika!<PAGE>\nUh, gracias por ayudarnos.\nAlgún día os devolveremos el favor.
+Esas cosas que hay en la estantería\ndetrás de mí se llaman "videojuegos".\nElion los hizo.<PAGE>\nSe llaman... ¿cómo era?\nCreo que se refería a ellos\ncomo la saga "Tales of".<PAGE>\nAh, y decía que algunos de \nellos los han traducido unos\nchavales que se hacen llamar...\n"Tales Translations".
+¡Oh, es la Estrella de Malkuth!\nEsas ropas te sientan bien.
+Nos alegra que te\nhayan gustado tanto.
+Mis hermanos siempre\ncausando problemas.<PAGE>\n¿En qué se habrán metido \nesta vez?
+Si les veis,\ndecidles que estoy \npreocupado por ellos<PAGE>\nOjalá pudiera ir a \nbuscarlos yo mismo...
+¿Te gustaría tener el set\nde siete vacaz que hice?<PAGE>\nLa vacaz más popular es la rosa.\nQuizá yo también me ponga rosa...
+Yo salgo en ese\nposte de ahí atrás.<PAGE>\nYutan me lo hizo, y se\nvende bastante bien. Pero\nda un poco de vergüenza...
+¿Qué opinas de los trajes?\nPor favor, ¡vuelve a ayudarnos alguna vez!
+Quizá la próxima vez haga algo\nbasado en la estrella de Malkuth...
+Soy Yutan, el más joven.\nEstoy ocupado fabricando más cosas.
+Una colección de fotos de\nvacaz, una toalla de vacaz,\nunos pañuelos de vacaz...<PAGE>\nPero yo recomiendo la\nleche de vacaz enlatada.\n¡Beberla de un trago es lo mejor!
+¡Oye!\nMirad qué le habéis hecho\na mi preciosa figura.<PAGE>\n¡Os haré pagar\npor esto!
+Gald recibido.
+¡No lo volváis a hacer!
+¡Sí!<PAGE>\n¡Estas prendas son las mejores!
+No importa cuántas veces las mire;\nestas prendas son las mejores
+¿No me digas que \nprefieres a los gatoz?
+¡Son aburridos y maleducados!\n¡Y no son nada bonitos!
+¡Dispárales!\n¡Pégales!\n¡Anota los puntos!
+¡Algún día quizá destruyas\nhasta lo indestructible!
+Si quieres jugar a\n"Tales of Dragon Buster",\nestá justo allí a la izquierda.
+¿No es divertido?
+¿Jugar a "Tales of Dragon Buster"?
+Sí\nNo
+!Yo \nquerer\ngald!
+!Dame\ngald!
+¡Felicidades!\nTu premio es <05*>.
+Hay una nota en letra pequeña:\n"¡La Bragza que sale después de que\ndestruyas el núcleo no se puede matar!"

@@ -1,0 +1,415 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Baticul, la capital de la Luz,\nreino de Kimlasca-Lanvaldear\nDía de Gnome, Gnome-Decan 2
+<SPEECH*>Buenos días, señorito Luke.\nOtro precioso día, ¿verdad?
+<SPEECH*>Pero según la Partitura\nde Orden de Lorelei, quizá\nllueva un poco más tarde.
+<SPEECH*>Ha llegado un mensajero de\nla princesa Natalia pidiendo su\npresencia en el castillo.
+<SPEECH*>¿Ahora ya puedo salir de la mansión?
+<SPEECH*>Sí, eso parece.
+ 
+El trabajo se ha ido amontonando\nmientras te buscaba.\nEsto va a ser un horror...
+<SPEECH*>¿Así que la Séptima Piedra Fónica está en Akzeriuth?
+<SPEECH*>Sí. Seguramente Luke acabará\napareciendo por allí y...
+<SPEECH*>¿Qué pasa conmigo?
+<SPEECH*>Oh, saludos, Luke.\nTe estábamos esperando.
+<SPEECH*>El coronel Curtiss ya está esperando dentro.
+<SPEECH*>¿Jade está aquí?...
+<SPEECH*>Vámonos.
+<SPEECH*>Ah, te estábamos esperando, Luke.
+<SPEECH*>Anoche se convocó una asamblea\nde emergencia. Acordamos formalizar\nun tratado con Malkuth.
+<SPEECH*>La carta de Malkuth contenía la\npropuesta de un tratado de paz,\npero también pedía ayuda.
+<SPEECH*>En Malkuth hay una ciudad minera\nllamada Akzeriuth.
+<SPEECH*>Está en crisis a causa del\nmiasma, el veneno que se filtra\ndesde los dominios de Gnome.
+<SPEECH*>Malkuth no puede rescatar a\nsus propios habitantes porque el\nmiasma bloquea el camino a Akzeriuth.
+<SPEECH*>Pero Akzeriuth antes era territorio nuestro.
+<SPEECH*>Así que, naturalmente, también hay un\ncamino que conecta con Kaitzur.
+<SPEECH*>Con eso en mente, nos han pedido\nayuda para proteger a sus ciudadanos.
+<SPEECH*>Sí, ayudar a su gente sería un\ngesto bonito, ¿pero qué tiene\nque ver eso conmigo?
+<SPEECH*>Su Majestad te ha concedido el honor\nde ser el Embajador de Buena Voluntad\nde Kimlasca-Lanvaldear.
+<SPEECH*>¡¿Yo?! ¡No!\nYa he luchado suficiente.
+<SPEECH*>Natalia me habló de Van.
+<SPEECH*>Nosotros tampoco estamos seguros de su culpabilidad.\nAsí que tenemos una propuesta.
+<SPEECH*>Si vas a Akzeriuth como Embajador\nde Buena Voluntad, liberaremos a\nVan e irá contigo para ayudarte.
+<SPEECH*>¡¿Han arrestado al maestro Van?!
+<SPEECH*>Está retenido en el castillo.
+<SPEECH*>Está bien...\nSi soltáis al maestro Van...
+<SPEECH*>Cooperas mucho más cuando\nVan está por medio.
+<SPEECH*>Cállate...
+<SPEECH*>Me alegra que hayas decidido ayudar.
+<SPEECH*>De hecho, hay una razón\npor la que debes completar\nesta misión.
+<SPEECH*>¿Qué?...
+<SPEECH*>Mira esta piedra fónica. Esto es\nparte de la Sexta Piedra Fónica de Yulia Jue\nque cayó dentro de nuestro territorio.
+<SPEECH*>Tear, lee la Partitura que hay en\nla parte inferior de esta piedra fónica.
+<SPEECH*>Sí, Su Majestad...
+<SPEECH*>"ND2000. En Kimlasca nacerá alguien\nque heredará el poder de Lorelei. Será un\nchico de sangre noble y de rojo cabello".<PAGE>\n<SPEECH*>"Se le conocerá como la Luz de la\nLlama Sagrada, y llevará a Kimlasca-Lanvaldear\nhacia una nueva era de prosperidad".<PAGE>\n<SPEECH*>"ND2018. El joven heredero del\npoder de Lorelei llevará a su gente a\nla ciudad minera".<PAGE>\n<SPEECH*>"Allí..."\nFalta el resto...
+"Llevará a Kimlasca-Lanvaldear hacia una\nnueva era de prosperidad".
+"Eso es San Binah..."\nFalta el resto...
+<SPEECH*>Es suficiente. En otras palabras,\nLuke, tú eres el joven elegido.
+<SPEECH*>Nos dolió confinarte, pero la gente\nte buscaba por tu poder. Pero ya es hora\nde que te conviertas en un héroe.
+<SPEECH*>(Ah... tal y como dijo el maestro Van)
+<SPEECH*>Un héroe...
+<SPEECH*>¿Qué ocurre, Coronel?
+<SPEECH*>Nada... Bueno, ¿quién más lo \nacompañará, a parte de mí?
+<SPEECH*>La Orden de Lorelei desea\nenviar a Tear y a Van.
+<SPEECH*>Luke, ¿quién quieres \nque te acompañe?
+<SPEECH*>Debería acompañarte Guy como \ntu asistente personal.
+<SPEECH*>Me da igual, mientras\nvaya el maestro Van.
+<SPEECH*>Padre, pienso que yo debería \nacudir también como embajadora.
+<SPEECH*>¡Ya te lo dije anoche, no irás!
+<SPEECH*>Tío, ¿puedo ver al maestro Van?
+<SPEECH*>Como desees. Haré que los\nque te acompañan esperen\nfrente al castillo.
+<SPEECH*>No te preocupes. \nTen confianza en ti mismo.\nHas sido elegido.<PAGE>\n<SPEECH*>El poder de la hiperresonancia\nte convertirá en héroe.
+<SPEECH*>Un héroe... Yo, un héroe...
+El maestro Van debería estar abajo.
+<SPEECH*>¡Maestro!
+<SPEECH*>Le he entregado un informe\nde lo ocurrido.
+<SPEECH*>No hay nadie más aquí, aparte de\nnosotros dos, así que quiero que estés\ntranquilo y que escuches lo que voy a decir.
+<SPEECH*>¿Eh?...
+<SPEECH*>Luke, ¿te unirás a mí como miembro\nde los Caballeros del Oráculo?
+<SPEECH*>¿De qué estás hablando?
+<SPEECH*>Probablemente creas que este viaje\na Akzeriuth es un asunto insignificante.
+<SPEECH*>Pero si haces lo que te han dicho,\nserás el perrito faldero de Kimlasca,
+<SPEECH*>encadenado a Baticul para el\nresto de tu vida.
+<SPEECH*>¿Por qué? Tú me dijiste que \nsería libre si me convertía\nen un héroe.
+<SPEECH*>Pero si vas a Akzeriuth no será así.\nOíste la Partitura de Yulia Jue, ¿no?
+<SPEECH*>Sí. Decía que yo traería prosperidad\na Kimlasca y tal.
+<SPEECH*>La Partitura continúa. "El joven\nconvertirá el poder en calamidad y\nserá el arma de Kimlasca".
+<SPEECH*>Los líderes de la Orden creen\nque llevarás la guerra a las\nllanuras de Rúgnica.
+<SPEECH*>¿Yo, llevar la guerra?\n¡Eso es ridículo!
+<SPEECH*>La Partitura de Yulia nunca se\nha equivocado. Ni una sola vez.
+<SPEECH*>¡Quiero salvarte antes de que \nte utilicen para la guerra!
+<SPEECH*>¿Pero qué hago entonces? \nSi no voy a Akzeriuth, esa gente\ntendrá problemas.
+<SPEECH*>Es lo que la Partitura dice.
+<SPEECH*>Sacarás de allí a la gente\nde Akzeriuth. Pero eso hará\nque estalle la guerra.
+<SPEECH*>Así que lo que debes hacer es eliminar el\nmiasma sin mover a los ciudadanos de Akzeriuth.
+<SPEECH*>El miasma es esa cosa venenosa, ¿no?\n¿Cómo puedo hacer eso?...
+<SPEECH*>Provoca una hiperresonancia y\nneutraliza el miasma. Después,\npuedes huir conmigo a Daath.
+<SPEECH*>Así, se evitará la guerra\ny tú obtendrás tu libertad.
+<SPEECH*>No sé si podré... No sé si podré\nprovocar una hiperresonancia yo solo.
+<SPEECH*>Yo te ayudaré, tal y como hice a bordo\ndel barco cuando calmé tu hiperresonancia.
+<SPEECH*>Está bien... Lo intentaré.
+<SPEECH*>No debes explicarle a nadie este plan\nhasta que lo vayamos a poner en marcha.
+<SPEECH*>Sobre todo a nadie de Kimlasca. \nSi lo supieran, perderías la\noportunidad de escapar a Daath.
+<SPEECH*>Maestro, ¿por qué eres tan amable conmigo?
+<SPEECH*>Ah, claro... Eso se perdió junto\ncon el resto de tu memoria.
+<SPEECH*>¿Dije algo así antes?...
+<SPEECH*>Cuando eras pequeño, me dijiste\nque querías ir conmigo a Daath.
+<SPEECH*>Sufriste crueles experimentos con el\nobjetivo de investigar la hiperresonancia,\ny querías huir de este país.
+<SPEECH*>Por eso, ese día, hace siete años...\nTe secuestré.
+<SPEECH*>¡¿TÚ me secuestraste?!\n¡¿No fue Malkuth?!
+<SPEECH*>Esta vez no fallaré.\nTe necesito.
+<SPEECH*>Ésta es la primera vez que\nalguien me dice que me necesita...
+<SPEECH*>Eres el único que me ha\nelogiado, que me ha regañado y\nque me ha tomado en serio.
+<SPEECH*>¡Maestro... me uniré a ti!
+<SPEECH*>Bien. Pues vamos ya.\nA por tu futuro.
+<SPEECH*>¡Sí!
+<SPEECH*>Van...
+<SPEECH*>Me han informado de la situación.\n¿Cuándo nos vamos?
+<SPEECH*>Jade dice que tiene una\npropuesta al respecto.
+<SPEECH*>Me incomoda un poco\ndecírselo al general dórico\nGrants, pero... oh, bueno.
+<SPEECH*>Hay barcos del Oráculo vigilando el océano Central.\nSeguramente sea un intento de entrometerse\npor parte de la facción del Gran Maestro.
+<SPEECH*>Coronel...
+<SPEECH*>Es un hecho. Bueno, realmente no sabemos \nsi es la facción del Gran Maestro. En \ncualquier caso, ir por mar sería peligroso.
+<SPEECH*>¿Entonces qué hacemos?
+<SPEECH*>Enviemos un barco como\nseñuelo mientras nosotros vamos\na Chesedonia por tierra.
+<SPEECH*>Pasado Chesedonia, el\nmar de Rotelro está bajo\ncontrol de Malkuth.\n
+<SPEECH*>No será difícil dirigirse a\nKaitzur en barco.
+<SPEECH*>Ya veo. Hagámoslo.\nYo iré en el barco señuelo.
+<SPEECH*>¡¿Qué?!
+<SPEECH*>Ya se ha anunciado que\nyo formaré parte del equipo\nde rescate, ¿verdad?
+<SPEECH*>Seguramente, los Caballeros del Oráculo\ncreerán que el auténtico grupo va en\nel barco si yo estoy a bordo.
+<SPEECH*>Estoy de acuerdo. No tenemos más\nremedio que confiar en ti,\nhagamos lo que hagamos.
+<SPEECH*>¡Pero...!
+<SPEECH*>Luke.\n¿No confías en mí?
+<SPEECH*>De acuerdo...
+<SPEECH*>Entonces, marcho hacia el puerto.\nTear, cuida de Luke.
+<SPEECH*>Un grupo más pequeño llamará\nmenos la atención.
+<SPEECH*>Sería bueno no incluir a\nmás gente de la que ya hay.
+<SPEECH*>Voy a hacer los preparativos necesarios.\nPor favor, esperadme en la entrada de la ciudad.
+<SPEECH*>Así que quedan la mujer de\nhielo y el misógino...
+<SPEECH*>¡Hey, no des a la gente una idea equivocada!\n¡Yo adoro a las mujeres!
+<SPEECH*>No creo que declarar a\ngritos que eres un mujeriego\nsea mucho mejor.
+<SPEECH*>¡No quería decir eso!\n¡Lo que digo es...!
+<SPEECH*>Sigamos.
+<SPEECH*>¡Hey! ¡Escuchadme!
+<SPEECH*>¡Luke! @
+<SPEECH*>¡Ay!
+<SPEECH*>¡Te he echado de menos! @\nPero siempre vas con Tear, ¿no?
+<SPEECH*>No es justo...
+<SPEECH*>Oh. L-Lo siento.\nPero no te preocupes, Anise.\nNo voy con él porque yo quiera.
+<SPEECH*>(Ouch...)
+<SPEECH*>Anise, ¿no tendrías que estar con Ion?
+<SPEECH*>¡Coronel!\nCuando me he despertado esta mañana\nsu cama estaba vacía.
+<SPEECH*>La gente dice que han visto a alguien\nque se parecía a Ion salir de la ciudad \ncon unos artistas de circo...
+<SPEECH*>¿Artistas de circo? \nNo me lo puedo creer.
+<SPEECH*>Vaya, esto sí que es un lío.\nDeben de ser los Alas Oscuras.
+<SPEECH*>¡¿Qué?! Hey, pues ahora que lo dices,\nsí que ESTABAN hablando con soldados\ndel Oráculo. ¡Deben estar cooperando!
+<SPEECH*>¡Vamos a por ellos!
+<SPEECH*>¡No podéis! \nEl General de Élite Sync está\njusto a la salida de la ciudad.
+<SPEECH*>Esto pinta mal. \nSi los seis Generales de Élite están fuera, \nse enterarán de que vamos por tierra.
+<SPEECH*>¿Eh? \n¿No vais a Akzeriuth en barco?
+<SPEECH*>No, eso es un señuelo. Maldita sea,\ntenemos que encontrar una manera de salir.
+<SPEECH*>¡Entonces dejad que vaya con vosotros! \n¡Si consigo salir de la ciudad, podré\nbuscar a Ion!
+<SPEECH*>¿Qué te parece, Jade?
+<SPEECH*>Supongo que no podemos negarnos. \nParece que esta vez Mohs no está\nmetido en el secuestro de Ion.
+<SPEECH*>Exacto.\nMohs estaba muy enfadado.
+<SPEECH*>¿Entonces el gran maestro Mohs y los seis\nGenerales de Élite no están relacionados?
+<SPEECH*>Que Mohs esté intentando o no provocar \nuna guerra es otra cuestión.
+<SPEECH*>¿Qué querrán los seis Generales de\nÉlite de Ion? Dijo que se lo llevaban a\nun lugar llamado sephiroth, ¿verdad?
+<SPEECH*>No tenemos suficiente información como\npara hacer suposiciones. Ahora mismo, deberíamos\nconcentrarnos en salir de la ciudad.
+<SPEECH*>Espera. Yo sé de un camino... Vayamos a\nla fábrica abandonada en el casco antiguo de\nla ciudad. Podemos llegar allí en aerocoche.
+<SPEECH*>¿La fábrica abandonada? \nEstá bien.
+Se supone que tenemos que coger el aerocoche\npara ir a la fábrica abandonada.
+Si salimos ahora, Sync nos verá. Vayamos\na la fábrica abandonada en la parte antigua\nde la ciudad que Guy mencionó.
+Para llegar a la fábrica abandonada\ntienes que coger un aerocoche.
+Para llegar a la fábrica abandonada, primero\nvayamos a la plataforma del aerocoche.
+No podemos salir. Sync está ahí.\nVayamos a esa fábrica.
+Pensaba que saldríamos de Baticul \npor la fábrica abandonada.

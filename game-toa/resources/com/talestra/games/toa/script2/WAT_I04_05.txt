@@ -1,0 +1,394 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+Hay un libro titulado\n"¿Qué son los fonones?".\n¿Leerlo?
+Sí\nNo
+Las señales sonoras emitidas por todas las cosas.\nLos seres vivos, los objetos materiales, e incluso\nel propio planeta, tienen vibraciones \ncaracterísticas, que son acompañadas por sonidos.\nÉstas pueden ser divididas en seis grupos\nfundamentales. Las diferencias entre\nelementos, vibraciones y sus conexiones\ncrean la materia en toda su variedad.\nPrimer fonón: Oscuridad\nSegundo fonón: Tierra\nTercer fonón: Viento\nCuarto fonón: Agua\nQuinto fonón: Fuego\nSexto fonón: Luz\n
+Hay un libro titulado\n"El séptimo fonón explicado".\n¿Leerlo?
+Sí\nNo
+Un tipo de fonón distinto al resto. A\ndiferencia de ellos, no está asociado\na un elemento en particular.\nProceden de las partículas de memoria, que se \narremolinan en el flujo que sale del núcleo \ndel planeta a través del Portal de la Radiación \nhacia el cinturón fónico. La Tormenta Planetaria\nlas impulsa en su recorrido alrededor de \nAuldrant, y después regresan al cinturón\nfónico para ser finalmente atrapadas por\nel Portal de la Absorción.\nEstas partículas de memoria se fusionan\ncon los fonones primero a sexto, y se\ntransforman en séptimos fonones.
+Hay un libro titulado\n"El secreto de Gran Chokmah".\n¿Leerlo?
+Sí\nNo
+Gran Chokmah, residencia del gran\nEmperador de Malkuth, está construida sobre\nel mar y habitualmente es conocida como\n"Capital del Agua" por la belleza de\nlos acueductos que la recorren.\nSin embargo, en tiempos de crisis, esta\n"Capital del Agua" se convierte en una\nfortaleza impenetrable. Los acueductos\nforman una barrera alrededor del palacio,\nimpidiendo la invasión por mar.\nTambién es posible enviar secretamente\nbuques de guerra a través de los túneles\nsubterráneos.
+Hay un libro titulado\n"Todo sobre las artes fónicas".\n¿Leerlo?
+Sí\nNo
+Las técnicas para controlar los fonones\nque componen todas las cosas se denominan\n"artes fónicas". Aquéllos que estudian y\nusan esas artes son llamados "fonistas".\nLa palabra "fonista" generalmente se refiere\na aquellos que utilizan los fonones del\nprimero al sexto.
+Hay un libro titulado\n"Acerca del marcado".\n¿Leerlo?
+Sí\nNo
+"Marcar" es el acto de situar "marcas" \nfónicas en las fonorranuras de otros \nindividuos, para evitar ser afectados \npor artes fónicas de larga distancia.\nEstas "marcas" no son objetos físicos, \nsino versos fónicos inscritos en el \nobjetivo. Esto asegura que los ataques \nzonales sólo afecten al enemigo y no a \nlos aliados. No obstante, es importante \nrecordar que el marcado sólo funciona \ncuando el objetivo es visible para el \nfonista, limitando la viabilidad de usar \nartes fónicas en el campo de batalla.
+Hay un libro titulado\n"El sello de fonorranura".\n¿Leerlo?
+Sí\nNo
+El sello de fonorranura es una manera de\nimpedir a los fonistas utilizar artes fónicas,\nsituando un tipo de sello fónico en las\nfonorranuras del objetivo, anulando su poder.\nA diferencia de los sellos fónicos ordinarios,\nel sello de fonorranura actúa directamente\nsobre el fonista, impidiendo todo uso de\nhabilidades fónicas.\nPara eliminar el sello de fonorranura se\nha de encontrar la clave adecuada; en sellos\nmás complejos, esta clave puede cambiar\nperiódicamente, haciendo extremadamente\ndifícil liberarse de él.
+Hay un libro titulado\n"Séptimos fonistas".\n¿Leerlo?
+Sí\nNo
+Los fonistas capaces de usar el séptimo\nfonón, que requiere un trato especial,\nson conocidos como séptimos fonistas.\nEstos fonistas también son llamados\nintérpretes o sanadores, dependiendo de\nsus habilidades.\nEl séptimo fonón es difícil de controlar\nincluso para fonistas de alto nivel e \ninvestigadores fónicos, y todavía no\nse conoce su naturaleza por completo.
+Hay un libro titulado\n"Censo del Imperio de Malkuth".\n¿Leerlo?
+Sí\nNo
+La Capital Flotante, Gran Chokmah: 600.000\nLa Ciudadela, San Binah: 250.000\nEl Mundo Plateado, Keterburg: 100.000\nLa Aldea de los Tenderos, Engeve: 20.000\nLa Ciudad Minera, Akzeriuth: 10.000(*)\n\nPoblación total del Imperio de Malkuth:\naproximadamente 1.450.000\n\n(*) Akzeriuth pertenece a Malkuth.
+¡Perdonad! ¿Habéis visto cerdinejos\ncorriendo por aquí?
+¿Cerdinejos?
+No hemos visto ninguno.
+¡Oh, no! \n¿Qué voy a hacer? \n¡Gelda! ¡Saphir!
+¡Oh, sois vosotros!\nHabéis llegado a tiempo. \nEsta vez, vuestra misión será...
+No hemos dicho nada de emprender\nninguna misión.
+¡Detalles! ¿Quién los necesita?\n¡Lo más importante es que mis preciosos\ncerdinejos se han escapado!<PAGE>\nAún deberían estar dentro del castillo,\nen alguna parte. ¿Podéis ir a buscarlos?
+Majestad, no hemos venido aquí\npara buscar cerdinejos.
+¿Qué?\nEntonces te digo: ¿qué harías si mi\npequeño y dulce Jade se cae por las\nescaleras y se rompe el cuello?<PAGE>\n¿Te responsabilizarías si\nasan a mi pequeño y dulce\nJade en la cocina?
+Eso es extremadamente molesto.\nPor favor, deje de decir esas cosas.
+No te preocupes.\nTú no eres el Jade bonito.<PAGE>\nA mi pequeño y dulce Jade no se le da bien\naprender trucos, pero su piel es tan brillante y...
+Los buscaremos. Los buscaremos, así\nque por favor, por Dios, pare ya.
+Me alegro que hayas entendido mi situación.<PAGE>\nHay cinco cerdinejos: \nNephry, Jade, Saphir, \nAslan, y Gelda.<PAGE>\nSi los encontráis, os recompensaré. ¡Gracias!
+Coronel.
+Lo siento.\nNo podía soportar más humillaciones. 
+El emperador Peony te tiene calado,\n¿eh, Jade? ¿Tiene material con el\nque chantajearte o algo?
+Si Jade tiene algún punto débil, me\ngustaría saberlo. Su Majestad se\nmerece mi admiración.
+En cualquier caso, ahora que ya hemos\ndicho que sí, tenemos que buscarlos.
+¡Sí!\n¡Consigamos la recompensa!
+Ah, éste es Jade, eh.
+Para haberle puesto el nombre de Jade,\nha sido bastante fácil de encontrar.
+No puedo creer que usara el nombre de mi hermana...
+Pero parece que éste tiene\nel collar más elaborado.
+No estoy seguro de que eso me guste.
+De cerca, éste tiene los ojos del\nmismo color que los del general Frings.
+¿Por eso le puso Aslan? \nSu Majestad no se pasa mucho tiempo\npensando nombres, ¿eh?...
+Debo cuestionar el proceso de reflexión\nque hay detrás de llamar a este\ncerdinejo como la profesora...
+¿Has dicho algo?
+No... No es nada.
+"Saphir"... ¿Ése no es...?
+El nombre real de Dist el Segador...
+La cara de estúpido que tiene\nhace que se parezcan bastante.
+Buen trabajo. Qué alivio tener a todos\nmis preciosos cerdinejos de vuelta.
+Vaya panorama, ver tantos cerdinejos\njuntos en este sitio...
+(Son tan monos...)
+Su Majestad @ \nSobre la recompensa...@
+Oh, sí. \nDejad que os dé esto.
+Es un pase para el balneario\nMegalofrederica de Keterburg.
+¡Guau!<PAGE>\n¡El balneario Megalofrederica es de \nclase alta, sólo para miembros nobles! \n¡Cuesta 100.000 gald apuntarse!
+Suena maravilloso. Ya he oído hablar\nde él. Estoy segura que los baños son\nmucho mejores que los del castillo.
+No sé cómo debe ser un balneario...
+Por algún motivo, no estoy muy \ncontento con esta recompensa.
+Sí, normalmente los balnearios\ninteresan a las chicas.
+¿De verdad? A mí me gustan. Me alegra\nque de vez en cuando hagas regalos\nsensatos, Majestad.
+Ahora mismo lo están remodelando, pero\nid a probarlo cuando lo abran.
+Jade ha recibido el título de "title 6."
+Coronel Curtiss, justo a tiempo. Me\nacabo de enterar de algo extraño.
+¿Debería pedir a los demás que se marchen?...
+No, no pasa nada. Estoy seguro\nde que son dignos de confianza.<PAGE>\nParece que un hombre que dice ser hijo\ndel Emperador anterior está viajando\npor Malkuth, estafando a la gente.
+Vaya momento, tal y como está el mundo ahora...\nNo, quizá es precisamente por eso\nque lo está haciendo ahora.
+Recuerdo los problemas que hubieron cuando\nel emperador Peony subió el trono.\nNo me gustaría que pasara otra vez.
+¿Problemas? ¿Qué pasó? ¿Tiene algo que\nver con que tuvieran a Su Majestad\nencerrado en su propia casa?
+El Emperador anterior tuvo un\nhijo con su esposa y cuatro\nmás con sus amantes reales,<PAGE>\npero el primero en la línea de\nsucesión, Alfred, murió muy\njoven y hubo un conflicto. 
+El Emperador actual es el hijo más\njoven del Emperador anterior, y\nsu madre era una plebeya.
+¿Y por eso no lo tuvieron en\nconsideración y lo pusieron\nbajo arresto domiciliario?
+Sí. Pero gracias a eso evitó\nverse envuelto en las oscuras\nconspiraciones que hubieron y,\nal final, subió al trono.
+El hombre que dice ser hijo del\nEmperador responde al nombre de \nAs Celestial.<PAGE>\nSe ha unido a la Nueva Orden de\nLorelei y está asegurando que\nrestaurará la Partitura.<PAGE>\nSi os enteráis de algo, decídmelo.
+Entendido.
+Este hombre es el gran As Celestial, \nhijo del Emperador anterior.
+El Emperador actual, mi hermano\nmayor, Peony, quiere abandonar\nla Partitura tontamente.<PAGE>\nEstá llevando a esta nación a\nla destrucción. Os suplico\nque me deis vuestro apoyo.
+Quienes tengan coraje para hacer\nel cambio, que donen sus bienes\na Su Alteza.
+¡Vale! \n¡Necesitamos que Su Alteza ayude \na restaurar la Partitura!
+Está aprovechándose de la dependencia\nque tiene la gente de la Partitura...
+¡Es despreciable! \nDebemos arrestarle inmediatamente...
+Espera un momento. Es posible que sea realmente \nuno de los hijos del Emperador anterior.
+Vamos a confirmar la verdad. \nLuke, te voy a tomar prestado a Mieu.
+¿Eh? \nVale, ¿pero para qué?
+Mieu se va a convertir a en nuestro espía.
+¡Guay! \n¡Lo haré lo mejor que pueda!
+¿Cómo estamos hoy?
+Bastante bien. Creo que va siendo\nhora de que Su Alteza se mude a\nGran Chokmah...
+Mmm, sí. Prepara el viaje\na Gran Chokmah.<PAGE>\nYo descansaré en la posada.
+Menudo idiota. Se cree de verdad uno de \nlos hijos del Emperador anterior.
+Je je je.<PAGE>\nSi supiera que está preparando el\nasesinado de Peony, me pregunto\nqué diría...
+(¡Oh, no! ¡Tengo que decírselo al amo!)
+¿Qué es eso? \n¿Un monstruo? \nPero qué está haciendo dentro de la ciudad...
+Parece un cheagle.
+Mieu mieu mieu mieu... \nMieuuuuuuuu...
+Me pregunto si está bien...
+Sí, estoy preocupado.
+A pesar de la impresión que da, es un\nchico listo. Creo que estará bien.
+¡¿Mieu?! \n¡¿Qué ha pasado?!
+Amo... Es una... emergencia... \nAce es un impostor...<PAGE>\nSoldados malos están... \nintentando matar a Peony...
+¿Qué te ha pasado a ti?
+Me encontraron. \nMe pegaron un montón...<PAGE>\nPero fingí... no entenderles... \nasí que estoy bien...<PAGE>\nTenemos que correr a... Gran... Chokmah...
+¡Pagarán por esto!
+¡Maldita sea! ¡Yo soy el único\nque puede pegar a Mieu! ¡Los\nvoy a destrozar!
+¡Ha llegado la hora de que caiga el\nférreo martillo de la justicia!
+¡Calmaos, chicos! \nJade, ¿qué hacemos?
+Podemos llegar antes que ellos en el Albiore.\nDémonos prisa en ir a Gran Chokmah.
+Soy As, hijo del Emperador anterior\ny de la dama de la corte, Helena.
+Este documento, escrito por el mismo Emperador\nanterior, y esa joya con el emblema de\nla familia son pruebas irrefutables.<PAGE>\n¡Ahora, le concederás a Su Alteza una\naudiencia con Su Majestad Imperial!
+P-Pero...
+Si estás buscando a Peony, aquí estoy.
+Bien. ¡Ahora, Alteza! \n¡Muestre esa joya y el documento \nal emperador Peony!
+Sí.
+¿P-Pero qué?
+¡No! \n¡Esa joya es una bomba!
+¡Tíos, os vais a arrepentir mucho de\nhaber mirado siquiera a mi mascota!
+¡Y-Yo no sé nada de esto! \nSoy el verdadero sucesor al trono...
+Desgraciadamente, no, no lo eres.
+E-Eso no puede ser...
+Es verdad. El hijo de Helena\nmurió poco después de nacer.
+Yo mismo asistí al entierro.
+Parece que esos dos \nestaban intentando \nutilizarte.
+Yo... Esto es...
+¡No es culpa mía! \n¡No es culpa mía!
+¡Maldita sea!\n¡Tras él!
+Estoy en deuda contigo otra vez.<PAGE>\nSi no me lo hubieras dicho\nantes, quizá hubiéramos\ntenido problemas.
+Pero dejamos escapar a As.
+Ya lo estamos buscando. Estoy\nseguro de que lo atraparemos pronto.
+Hemos concluido que este incidente ha sido\nun plan para incentivar una rebelión,\nformulado por soldados que apoyan a\nla Nueva Orden de Lorelei.<PAGE>\nQuienes hayan estado envueltos serán\nidentificados y eliminados.
+Eliminados...
+Es para mantener la ley, pero\nes doloroso pensar en ello.
+Oh, hey, he visto que Mieu\nha sido un auténtico héroe.
+¡E-En absoluto, Su Majestad!
+No tienes por qué ser humilde.\nTe lo agradezco.
+¡Gracias! ¡Estoy tan feliz!\n¡Su Majestad me ha elogiado!
+¿Esta vez no te vas a quejar\nde lo molesto que es?
+Hoy es una excepción.

@@ -1,0 +1,365 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>...uke... despier...
+<SPEECH*>¡Despierta, Luke!
+<SPEECH*>¿Quién eres tú?...
+<SPEECH*>Oh, bien, no te ha pasado nada.
+<SPEECH*>¿Dónde estamos?...
+<SPEECH*>No lo sé. \nPoco ha faltado.
+<SPEECH*>A punto estuve de pensar que nos \nquedaríamos atrapados en la Tormenta Planetaria...
+<SPEECH*>¡Espera, eso es! \n¡Tú intentabas...!
+<SPEECH*>¡¡Au!!
+<SPEECH*>Quieto, no te muevas tan bruscamente. \n¿Estás herido?\n¿Dónde te duele?
+<SPEECH*>E-Estoy bien. \nLo que quiero es saber\nqué leches ha pasado.\n¿Y quién eres tú?
+<SPEECH*>Soy Tear. \nParece que ha ocurrido una\nhiperresonancia entre nosotros.
+<SPEECH*>¿Una hiperresonancia?\n¿Qué es eso?
+<SPEECH*>Una resonancia inducida por isofones. \nNo esperé que tú también fueras\nun séptimo fonista. \nFue una imprudencia por mi parte.
+<SPEECH*>Eso explicaría por qué la\nfamilia real te está protegiendo.
+<SPEECH*>¡Gah, cállate un segundo!
+<SPEECH*>¡No entiendo nada de lo que me estás contando!
+......
+<SPEECH*>¡Bueno, di algo!
+<SPEECH*>Primero me dices que me calle, \ny ahora me exiges que hable.
+<SPEECH*>Dejemos la discusión para luego.
+<SPEECH*>No parece que sepas nada de nada. \nHablar aquí sería una pérdida de tiempo.
+<SPEECH*>¿Y qué vamos a hacer?
+<SPEECH*>Te llevaré de vuelta\na tu casa en Baticul.
+<SPEECH*>¡¿Cómo?!\n¡No sabemos ni dónde estamos!
+<SPEECH*>Ves el mar justo ahí, ¿verdad?
+<SPEECH*>Así que eso es el mar...
+<SPEECH*>En fin, salgamos de este\ndesfiladero y bajemos hacia la costa.
+<SPEECH*>Si encontramos una carretera, con un poco \nde suerte daremos con algún carruaje. \nDeberíamos poder encontrar algún \nmodo de regresar.
+<SPEECH*>¿Y cómo se supone que llegaremos\nhasta el mar desde aquí?
+<SPEECH*>Calla y escucha.\n¿Oyes el agua? \nHay un río.
+<SPEECH*>Si seguimos el río,\nllegaremos al mar.
+<SPEECH*>Ah...\n¿Así es como funciona?
+<SPEECH*>Vámonos.
+<SPEECH*>Monstruos...
+<SPEECH*>¡¿Monstruos?!
+<SPEECH*>¡Ahí vienen!
+<SPEECH*>¡Tienes que estar de broma!
+<SPEECH*>¡Aaah!
+<SPEECH*>Fiu...\nN-No ha sido tan difícil.
+<SPEECH*>No te relajes aún.\nMira. Hay más.
+<SPEECH*>Si entras en contacto con monstruos\ncomo ésos, tendrás que luchar contra\nellos. Ten cuidado.
+<SPEECH*>Humf...\nTe crees que lo sabes todo, ¿eh?
+<SPEECH*>Ten cuidado.\nEsta vez hay más de uno.
+<SPEECH*>¡No es posible!
+<SPEECH*>¡Ahí está la salida!
+<SPEECH*>Ya era hora.\nEstoy harto de este lugar.
+<SPEECH*>Viene alguien.
+<SPEECH*>¡Uah!\n¿No seréis los\nAlas Oscuras?
+<SPEECH*>¿Los Alas Oscuras?
+<SPEECH*>Son bandidos. \nDos hombres y una mujer... \nEsperad, vosotros sólo sois dos.
+<SPEECH*>Humf. \nNo me compares con unos \npatéticos bandidos.
+<SPEECH*>Cierto, podrías molestar a los bandidos...
+<SPEECH*>¡Hey!
+<SPEECH*>Nos hemos perdido y hemos acabado aquí.\n¿Quién eres?
+<SPEECH*>Soy un cochero. \nUna de las ruedas de mi\ncarro comenzó a rodar mal.
+<SPEECH*>Se nos cayeron las barricas\ny perdimos toda el agua potable, así\nque he venido a por más.
+<SPEECH*>¡Un carro! \n¡Perfecto!
+<SPEECH*>¿Vas a la capital?
+<SPEECH*>Sí, ésa es mi última parada.
+<SPEECH*>¡Vamos en carro! \nEstoy harto de andar.
+<SPEECH*>Sí, no conocemos esta área muy bien. \n¿Estás de acuerdo?
+<SPEECH*>A la capital, serán\n12.000 gald por cabeza.\n¿Tenéis suficiente?
+<SPEECH*>Es bastante caro...
+<SPEECH*>¿En serio? \nA mí me parece barato. \nMi padre se encargará de ello\ncuando lleguemos a la capital.
+<SPEECH*>No me parece bien.\nNecesito un pago por adelantado.
+<SPEECH*>Toma esto...
+<SPEECH*>Vaya, menuda gema.\nDe acuerdo, subid a bordo.
+<SPEECH*>Ja... Eso ha estado bien. \nAhora ya no me tengo que ensuciar los zapatos.
+¿Estás listo? \nAvísame cuando lo estés.
+¿Estás listo para subir al carro?
+Sí\nEspera
+Bien, vámonos.
+Hey, date prisa.\nEstamos haciendo esperar a los otros pasajeros.
+<SPEECH*>¿Qué ha sido eso?
+<SPEECH*>Por fin te has despertado.
+<SPEECH*>¡H-Hey!\n¡Están atacando a ese carro!
+<SPEECH*>¡El ejército está persiguiendo a esos bandidos!\n¡Son esos Alas Oscuras con los que os confundí!
+<SPEECH*>¡Eh, vosotros! \n¡Apartad ese carro antes de que\nos atrape el fuego cruzado!
+<SPEECH*>¡Comandante! \n¡El enemigo ha cruzado el puente de Rotelro! \n¡Están situando pólvora en el puente!
+<SPEECH*>Vaya, vaya.\nPretenden volar el puente, ¿no es así?
+<SPEECH*>¡Activación de fonorranura detectada!
+<SPEECH*>¡El enemigo ha usado artes\nfónicas del quinto fonón!\n¡El puente va a explotar!
+<SPEECH*>Tartarus, freno total.\nActivad la barrera fónica.
+<SPEECH*>¡Sí, señor! \n¡Tartarus, freno total!
+<SPEECH*>¡Barrera fónica activada!
+<SPEECH*>¡Uah! \n¡Ha sido genial!
+<SPEECH*>¡Guau! ¡Ése es el último acorazado\nterrestre de Malkuth, el Tartarus!
+<SPEECH*>¡¿M-Malkuth?! \n¿Qué hace el ejército\nde Malkuth por aquí?
+<SPEECH*>¿Qué quieres decir? \nPor supuesto que están aquí.
+<SPEECH*>No deja de haber rumores de que\nKimlasca va a empezar una guerra\nun día de éstos.<PAGE>\n<SPEECH*>Ha aumentado la seguridad en esta área.
+[Filler dummy line]
+<SPEECH*>Espera un momento...\n¿Esto no es Kimlasca?
+<SPEECH*>¿Pero qué dices?\nEsto es el Imperio de Malkuth.\nLas llanuras de Rúgnica oeste.
+<SPEECH*>¡Espera! \n¡Creía que este carro se dirigía\na la capital, Baticul!
+<SPEECH*>No, a Gran Chokmah, capital de\nMalkuth y hogar de Su Majestad\nImperial, Peony IX.
+<SPEECH*>Mmm, estaba equivocada...
+<SPEECH*>¡¿Cómo puedes estar tan tranquila?!\n¡¿Cómo puedes haber cometido un error como éste?!
+<SPEECH*>No reconocí el área.\n¿Cuál es tu excusa?
+<SPEECH*>Me han tenido confinado en mi casa.\nNunca he estado fuera.\n¿Cómo demonios querías que lo supiera?
+<SPEECH*>Actuáis de una forma bastante extraña...\n¿Sois los dos de Kimlasca?
+<SPEECH*>N-No. Somos de Malkuth. \nTenemos asuntos en Baticul. \nÍbamos de camino hacia allí.
+<SPEECH*>Sí, sí, ahora disimula...
+<SPEECH*>Entonces es en la otra dirección.
+<SPEECH*>Si vais a Kimlasca, deberíais\nhaber ido por el camino sur, en\nvez de cruzar el puente.
+<SPEECH*>Tened en cuenta que, sin ese puente,\nahora ya no podéis regresar...
+<SPEECH*>¿Lo dices en serio?\n¿Y AHORA qué hacemos?
+<SPEECH*>Pasaremos por Engeve, al\neste, de camino a Gran Chokmah. \n¿Qué queréis hacer?
+<SPEECH*>Si seguimos todo el camino hasta Gran\nChokmah acabaremos aún más lejos.
+<SPEECH*>Paremos en Engeve y pensemos en\ncómo vamos a regresar a Kimlasca.
+Llévanos a Engeve\nIremos andando a Engeve
+<SPEECH*>Llévanos a Engeve.\nNo me gusta caminar.
+<SPEECH*>De acuerdo. Entonces, allá vamos.
+<SPEECH*>Iremos andando a Engeve y miraremos\nel paisaje por el camino.
+<SPEECH*>Engeve está al este de aquí. \nTened cuidado.

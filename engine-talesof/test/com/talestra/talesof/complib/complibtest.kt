@@ -1,6 +1,5 @@
 package com.talestra.talesof.complib
 
-import com.soywiz.korio.util.toByteArraySlice
 import org.junit.Test
 
 class complibtest {

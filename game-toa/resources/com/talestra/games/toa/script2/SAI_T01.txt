@@ -1,0 +1,415 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>¿Qué es esta guarrada?
+<SPEECH*>¡No trates algo así cuando ni \nsiquiera sabes a quién pertenece!
+<SPEECH*>Tiene pinta de ser del \nmariscal de campo McGovern.
+<SPEECH*>Oh, ¿el viejo ese?
+<SPEECH*>Parece que está intentando resolver\nlos misterios del Árbol de la Tierra.
+<SPEECH*>¿Los misterios?...
+<SPEECH*>Oh sí, hay un montón de\nrumores extraños sobre este árbol.<PAGE>\n<SPEECH*>Supongo que por eso se\nconvirtió en el símbolo de San Binah.
+<SPEECH*>Sí... ¿Por qué sólo \neste árbol creció tanto?<PAGE>\n<SPEECH*>¿Es cierto que tiene 2.000 años?
+<SPEECH*>Oí que hace tiempo este árbol\nestuvo a punto de morir, al igual\nque todas las demás plantas a\nsu alrededor.
+<SPEECH*>Sí. Por eso está estudiando\nla relación entre el Árbol de la Tierra\ny el resto de la flora de aquí.
+<SPEECH*>Ajá. ¿Ese tío está perdiendo \nel tiempo en algo así?\nQué raro...
+<SPEECH*>Pero las plantas que crecen en esta\nciudad no lo hacen en ninguna otra.<PAGE>\n<SPEECH*>Eso es lo extraño, ¿verdad?
+<SPEECH*>Si ése es el caso, entonces esta ciudad \ndebe su prosperidad al Árbol de la Tierra.
+<SPEECH*>Sí. Posiblemente ése sea uno de\nlos motivos que impulsaron al Mariscal\nde Campo a estudiarlo.
+<SPEECH*>Este árbol grande huele\nigual que mi casa.
+<SPEECH*>¿Qué? ¿Crees que es el mismo tipo \nde árbol que en el que tú vives?<PAGE>\n<SPEECH*>Las plantas de esta ciudad no\ncrecen en ningún otro sitio, ¿recuerdas?\n¿Eres tonto?
+<SPEECH*>¿Coronel?\n¿Qué pasa?
+<SPEECH*>Interesante...\nQuizá el Mariscal de Campo también \nhaya llegado a cierta hipótesis.
+<SPEECH*>¿Qué hipótesis?
+<SPEECH*>Es un secreto.~\nPor cierto, Guy, sabes una \nbarbaridad sobre esta ciudad.
+<SPEECH*>Ya te lo he dicho, me gusta leer\nsobre destinos turísticos. Acabas\naprendiendo unas cuantas cosas.
+<SPEECH*>Bueno, supongo que podemos\ndejarlo por ahora.<PAGE>\n<SPEECH*>En cualquier caso, dejemos estos\nmapas. No estaría bien que interfiriésemos \ncon el trabajo del Mariscal de Campo.
+¡Guau, hey! ¡Hey! \n¿Qué acabas de hacer?
+¿No lo ves o qué?
+¡¿Qué habrías hecho si hubiera\nardido el autógrafo de Noir?!
+Como si eso fuera mi problema.
+¡Luke! \nSabes que te has pasado. \nDeberías disculparte.
+Disculparse no es suficiente.\nNo puedo creer que estuvieras jugando\ncerca del autógrafo de Noir.
+¡Ah, ya sé! \nSi quieres compensármelo, \n¿qué tal si me haces un favor?
+¿Por qué tendríamos que...?
+Si podemos...
+¡De acuerdo! \nToma, coge esto.
+Has recibido 200 gald.
+La oficina del club de fans del\nSueño Negro está en Chesedonia.\nVe allí y paga mi deuda por mí.
+Ve y hazlo tú mismo.
+Por desgracia, estoy ocupado\ny no puedo ir a Chesedonia. \nNo como vosotros.<PAGE>\nAseguraos de pagar y de traerme el\nboletín de noticias. Y será mejor\nque no intentéis huir con mi dinero.
+Está bien. Pagaremos tu deuda\ny te traeremos el boletín.
+Vaya rollo...
+Si les decís que es la deuda\nanual de Ayn de San Binah, \nlo entenderán.<PAGE>\nGracias.\nLa oficina está delante de la\nposada, en la parte de Malkuth.
+"Ayn". \nEntendido.
+Más te vale acordarte.
+Humf...\nComo si fuera mi problema.
+¿Te gustaría unirte al club\nde fans del Sueño Negro?
+¿Es esto?
+Eso parece.
+¡Bienvenidos! \n¿Estáis aquí para haceros miembros?
+¡No! \nHemos venido a pagar la deuda\nde un tipo llamado "Ayn".
+Ah, sí, el de San Binah. \nSerán 1.000 gald, entonces.
+¡¿1.000 gald?! \n¡¿No eran 200?!
+Sí, la deuda anual es de 1.000 gald. \n¿No vais a pagar?
+1.000 gald \n  Pagar\n  No pagar
+¡Toma!
+Has entregado 1.000 gald.
+¡Gracias! \nAquí está el boletín de noticias. \nSaluda de mi parte a Ayn.
+Has obtenido "fanzine".
+¡Voy a pulverizar a ese tipo!
+Quieto. \nPuede que sólo se haya equivocado. \nEspera hasta que estemos seguros.
+Humf. \n¡Sí, vale!
+No tienes suficiente. \nVuelve cuando lo tengas.
+Ese capullo nos timó. \nEsto es estúpido. \nClaro que no voy a pagar.
+La deuda de Ayn asciende a 1.000 gald. \n¿La pagarás?
+1.000 gald \n  Pagar\n  No pagar
+¡Hey! \n¡Nos debes una explicación!
+¿Por qué estáis enfadados? \n¿Os encargasteis de pagar la deuda?
+La deuda anual era de 1.000 gald. \nSólo nos diste 200.
+¿De verdad? \nEstoy bastante seguro de que os di 1.000. \nBueno, ¿dónde está el boletín de noticias?
+Toma...
+¡Hey! \n¡Nos debes una explicación!
+Primero danos los \n800 gald que faltan.
+O-Os lo acabo de decir, os di todo el dinero. \n¿T-Tenéis alguna prueba de que...?
+Paga. Ahora.
+S-Sí, señora. \nLo siento. \nAquí tiene.
+Has recibido 800 gald.
+Gracias. \nAquí tienes.
+Has entregado el fanzine.
+B-Bien... Gracias. \nPero no lo necesito.
+Ha rechazado el fanzine.
+¿De qué hablas?
+He cambiado de idea. He decidido\ndejar de ser fan de Sueño Negro.\n¡De ahora en adelante, seré fan tuyo!
+E-Espera.\nE-En realidad no soy...
+Je. Es divertido ser\npopular, ¿eh, Tear?
+¡Así que te llamas Tear!\n¡Es un nombre bonito!\n¿Cuántos años tienes?\n¿Cuánto mides?\n¿Sueles llevar este tipo de ropa?
+¡Lo siento!...
+Me he enamorado de su fuerza, pero es\nguapísima incluso cuando se sonroja.
+¡De acuerdo!\n¡Voy a fundar el club de\nfans Amigos de Tear!
+Uh... Sobre gustos\nno hay nada escrito.
+Hey. ¡No nos diste\nsuficiente dinero!
+¿Qué?\nOh, eso.\nYa no importa.
+¿Qué leches quiere decir eso?...\nBueno, da igual, aquí está tu dinero.
+No pasa nada. No os preocupéis.\nPodéis quedároslo.
+¿Por qué?\nNo pagamos tu deuda.
+El Sueño Negro está pasado de moda.\nEl próximo gran éxito será la\nTropa Interpretativa de Antoleones.\nMe encanta como mueven las caderas.
+¿¿Antoleón??
+¿Antoleón?...
+Vaya, me da lástima que no seáis\ncapaces de apreciar lo buenos que\nson. Oh, qué ganas tengo de\nvolver a verles...
+Ya no necesito esto, así\nque os lo podéis quedar.
+Has recibido "Insignia oscura".
+¿Antoleones?...\n¿Pero qué...?
+El árbol gigante de ahí es\nel símbolo de San Binah, el\nÁrbol de la Tierra.<PAGE>\nSi trepas hasta la plataforma de \nobservación, puedes ver todo el pueblo.
+Gracias al Árbol de la Tierra,\naquí crecen muchos tipos diferentes\nde plantas y flores.<PAGE>\nParece increíble, pero\nes verdad.
+Me pregunto qué está\npasando en Akzeriuth...
+Parece que el ejército de Malkuth\nni siquiera puede cruzar la\nfrontera para ayudar...
+Akzeriuth cayó...\n¿Qué va a pasar ahora?
+San Binah está a salvo...\n¿verdad?
+Gracias al Árbol de la Tierra,\nincluso estas flores crecen bien.<PAGE>\nNo es sólo el símbolo del pueblo,\nsino algo necesario en nuestra vida.
+Pero lo que es verdaderamente\nimportante para las flores\nes que las trates con cariño.<PAGE>\nEllas podrían decírtelo.
+Me pregunto cuánto tardó en\nllegar esa información desde\nAkzeriuth hasta aquí.<PAGE>\nNunca nos enteramos de nada, así \nque no hay manera de saberlo.
+Con el puente de Fubras destruido,\ntampoco los McGovern pueden ir\na comprobarlo.<PAGE>\n¿Crees que es seguro contar\ncon la ayuda de Kimlasca?
+Con todo lo que está pasando,\nno puedo estar tranquilo si no \nestoy cuidando de estas flores.<PAGE>\nAunque tampoco es que haya \nnada que pueda hacer...
+Pero tampoco puedo\nconcentrarme en las flores...<PAGE>\nNo sé qué, pero hay\nalgo que me pone nervioso.
+¿No es San Binah un\nlugar maravilloso?
+Nací y crecí aquí.\nSoy un auténtico nativo de\nSan Binah, pese a quien pese.
+Mina quiere que proteja\nel Árbol de la Tierra...\n¿Cómo puedo hacer eso?
+Estoy teniendo una conversación\nimportante con Mina.\n¡No interrumpas!
+Todavía soy pequeño,\nasí que no puedo \nhacer nada.
+Ni siquiera sé qué\ndebería hacer.
+¡Creceré y me convertiré\nen un soldado como el\nseñor McGovern<PAGE>\ny protegeré el pueblo\ny el Árbol de la Tierra!
+Así que primero tengo \nque comer mucho<PAGE>\npara poder crecer.
+¿No es maravillosa la vista desde aquí?
+Mi casa es aquella de ahí, la\nque tiene una chimenea.
+No me refería a esto cuando dije "proteger \nel pueblo y el Árbol de la Tierra"...
+¿Por qué Yuri no lo entiende?
+No le estoy pidiendo que\nhaga algo ahora...
+¿Por qué no puede pensar\nun poco más en el futuro?
+Bueno, me alegra que haya\nempezado a pensar así, pero\nno tiene por qué hacerse soldado.<PAGE>\nY si se hiciera, alguien como\nel general Glenn sería\nmucho más guay...
+Si va a comer mucho,\ntendrá que acostumbrarse\na la comida sana.<PAGE>\nPero al menos se ha puesto serio,\nasí que supongo que por ahora\nsólo lo vigilaré. @
+La cubierta de observación está muy arriba,\nasí que mamá se enfada si vengo solo.<PAGE>\nNo se lo digas, ¿vale?
+Vivimos puerta con puerta.
+Algunas de las flores de San\nBinah se usan como hierbas\npara hacer medicinas.<PAGE>\nSe utilizan para hacer los geles\ny los pomos que usas cada día.
+Sus usos medicinales son importantes,\npero también lo es su aroma.<PAGE>\nEl olor de estas flores\nrelaja mucho,\n¿no crees?
+Las flores no son sólo para mirarlas\nsino también para olerlas.
+Hablando de oler, he oído que el miasma\nen Akzeriuth está empeorando.<PAGE>\nNo llegará hasta San Binah, ¿verdad?
+Mirar a todas estas flores\npreciosas me calma.
+Lo que me recuerda,\n¿de verdad Akzeriuth cayó?
+*Sniff*...\n¡Qué olor más delicioso!
+El señor McGovern hizo\neste lecho de flores,\n¿lo sabías?
+Se eligió a McGovern como\nalcalde de San Binah.<PAGE>\nCon todo lo que ha hecho en su\nvida, no es de extrañar.
+Si vas a la fortaleza de la frontera,\na Kaitzur, tendrás que cruzar el\nrío Fubras e ir hacia el sur.<PAGE>\nPor desgracia, el puente\nfue destruido...
+Parece que el miasma está\nempeorando en Akzeriuth.<PAGE>\nCon todos los terremotos que hay\núltimamente, no creo que dure mucho...
+Se supone que el ejército de\nKimlasca iba a ayudar...\n¿crees que podemos confiar en ellos?<PAGE>\nCreo que les tendrían que leer\nla Partitura, para estar seguros.
+¿Qué le está pasando al mundo?<PAGE>\nEstán ocurriendo demasiados\ndesastres a la vez.
+¿Crees que la caída de\nAkzeriuth puede haber sido\nculpa de Kimlasca?
+El pueblo de San Binah está\nrodeado por una muralla
+Kimlasca no nos podrá\ninvadir fácilmente.
+¿Eres un viajero?\nEntonces seguramente vayas a Kaitzur.<PAGE>\nPero con el puente de Fubras\ndestruido, no podrás llegar.
+Los Alas Oscuras también destruyeron el\npuente de Rotelro que va a Chesedonia.<PAGE>\nSeguramente te irá mejor si\nte esperas a que lo reparen.
+Antes era fácil llegar\na Akzeriuth atravesando\nel paso de Deo.<PAGE>\nPero tras ese gran terremoto\ndel otro día, ha quedado\nbloqueado por un desprendimiento.
+Hay un camino más largo, pero\nestá lleno de monstruos.<PAGE>\nNo es un lugar adecuado\npara viajeros normales.
+Nunca pensé que Akzeriuth\nsimplemente desaparecería.<PAGE>\nNo quiero creerlo, ¿pero ha sido\nKimlasca quien lo ha hecho?\nNo, no puede ser...
+Si Kimlasca pudo hacer\nalgo así, puede que <PAGE>\nSan Binah también esté en peligro...
+Bienvenido a la floreciente\nSan Binah.
+¿No me queda bien?
+¿Adónde vas,\nviajero?<PAGE>\nSin el puente de Rotelro ni\nel puente de Fubras, las \ncosas están difíciles..
+Si quieres cruzar la frontera, el\ncamino mas rápido es el sur de Kaitzur...<PAGE>\nPero tendrás que ingeniártelas\npara cruzar el río.
+He oído que el ejército de Kimlasca\nse ha dirigido a Akzeriuth a salvar\na todo el mundo.<PAGE>\n¡No importa quién, mientras\nalguien les rescate!
+Habría ido yo también si \nhubiese algo que pudiera hacer.<PAGE>\nPero probablemente sólo\nsería un estorbo.
+¿Cómo puede ser Kimlasca\ntan cruel?<PAGE>\nNunca imaginé que fueran a\nabandonar la ciudad entera...\n¿Cómo podéis ser tan cobardes?
+Me pregunto si la Partitura \ndecía algo sobre ese incidente.<PAGE>\nSi es así, podríamos haber\nemboscado a Kimlasca en vez de...
+San Binah es una ciudad especial.
+Sin las hierbas que crecen aquí,\ntodas las personas del mundo \ntendrían problemas.
+¡Guarf!
+Arf, arf, arf...
+¡Noir es \nun pibón!
+¡A partir de ahora, sólo se\nhablará de Antoleón!
+Tienda de medicinas

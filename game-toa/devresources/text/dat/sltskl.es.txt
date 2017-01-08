@@ -1,0 +1,66 @@
+-> Sin efecto
+No hay efecto.
+
+-> Incrementa el ataque
+Incrementa la cantidad de
+daño infligido al enemigo.
+
+-> Incrementar curación
+Incrementa la cantidad de HP recuperado.
+
+-> Reducir tiempo de recuperación
+Reduce el tiempo que lleva recuperarse
+después de realizar un conjuro.
+
+-> Reducir tiempo de Conjuro
+Reduce el tiempo necesario
+para realizar un conjuro.
+
+-> Incrementar efecto
+Incrementa la efectividad.
+
+-> Extender rango
+Extiende el rango de efectividad.
+
+-> Incrementar poder
+Incrementa la habilidad para empujar,
+elevar, o lanzar al aire al enemigo.
+
+-> Incrementar aturdimiento
+Incrementa el tiempo en que el enemigo 
+permanece aturdido después de un ataque.
+
+-> Reducir tiempo de recuperación
+Reduce el tiempo que lleva recuperarse
+después de realizar un conjuro.
+
+-> Incrementar tiempo de efecto
+Incrementa la duración de la efectividad.
+
+-> Invalidar aturdimiento
+El efecto del aturdimiento no tiene efecto
+durante un corto periodo de tiempo.
+
+-> Especial
+Añade un efecto extra.
+
+-> Recuperar HP
+Añade un efecto de recuperación de HP.
+
+-> Curar envenenamiento
+Añade un efecto de curación de veneno.
+
+-> Curar estado alterado
+Añade un efecto de curación
+de un estado alterado.
+
+-> Robar
+Habilita ocasionalmente la posibilidad
+de robar al enemigo al atacarle.
+
+-> Reducir coste de TP
+Reduce la cantidad de TP usado.
+
+-> Cambio de CDF de bajo nivel
+Habilita la posibilidad de usar artes
+de CDF en un CDF de bajo nivel.

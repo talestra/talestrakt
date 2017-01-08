@@ -1,0 +1,645 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+¿Estás listo?\nSí\nNo
+Buena suerte.
+No va mal asegurarse dos veces.
+¡Se puede sentir la emoción en el aire!\n¡El Coliseo está a punto de explotar!<PAGE>\n¡Los espectadores esperan conteniendo la\nrespiración a que salgan los competidores!<PAGE>\nAquí es donde empieza todo.\nEl preludio de una leyenda...\nEl nivel principiante.\n¿Y quién será nuestro aspirante?
+Vamos allá.
+No me gustaría estar en tu lugar.\nAguanta.
+Vaya, vaya, cuánta pasión.
+Premio en metálico... premio en metálico...
+¡Hola!
+Lo haré lo mejor que pueda.
+¡¡Luke!!
+¡¡Tear!!
+¡¡Jade!!
+¡¡Anise!!
+¡¡Guy!!
+¡¡Natalia!!
+¡Aquí se da el primer\npaso hacia la leyenda!\n¡Primer asalto, empezad!
+¡¡Victoria!! \n¡¡Victoriaaaa!! \n¡¿Ya hay alguien triste?!
+Esto es más o menos lo que esperaba.
+No deberías subestimarme.
+La verdad es que me estaba conteniendo, pero...
+Premio en metálico... premio en metálico...
+No sé que decir...
+Vaya, vaya, qué pena.
+¡¡Luke ha ganado la \nprimera batalla!!
+¡¡Tear ha ganado la \nprimera batalla!!
+¡¡Jade ha ganado la \nprimera batalla!!
+¡¡Anise ha ganado la \nprimera batalla!!
+¡¡Guy ha ganado la \nprimera batalla!!
+¡¡Natalia ha ganado la \nprimera batalla!!
+El destino es cruel... ¡pero\npor eso debes coger tu espada\ny abrirte un camino!<PAGE>\n¡¡Segundo asalto... empezad!!
+¡¡Y abrirse camino es lo que ha hecho nuestro aspirante!!\n¡¡Este héroe cambiará el curso del destino!!
+Pues vale...
+¿No te cansas?
+Oh, no ha sido nada.
+Premio en metálico, premio en metálico...
+Je, no sé qué decir...
+No ha sido nada impresionante.
+¡¡Luke ha ganado\nla segunda batalla!!
+¡¡Tear ha ganado\nla segunda batalla!!
+¡¡Jade ha ganado\nla segunda batalla!!
+¡¡Anise ha ganado\nla segunda batalla!!
+¡¡Guy ha ganado\nla segunda batalla!!
+¡¡Natalia ha ganado\nla segunda batalla!!
+En este coliseo han nacido y caído\nmuchos héroes, y una nueva\nleyenda se está alzando.<PAGE>\nLa multitud calla, esperando\nese momento único.<PAGE>\n¡¡Prestad atención mientras\nel destino se manifiesta!!<PAGE>\n¡Sea una feliz victoria o una amarga\nderrota, ésta será la última batalla!\n¡¡Último asalto... empezad!!
+¡¿Lo han visto?! \n¡¿Lo han oído?!\n¡¡Que se sepa!!\n¡¡En este momento, la resplandeciente puerta\nde la leyenda se abre a un nuevo héroe!!
+¡¡Genial!!
+Ufff...
+Bueno, ¿y qué esperabas?
+¡¡Premio en metálico!!
+Je je, no sé qué decir.
+El resultado obvio, debería decir.
+¡Luke ha ganado la última\nbatalla! ¡¡Al fin tenemos\nun nuevo campeón!!
+¡Tear ha ganado la última\nbatalla! ¡¡Al fin tenemos\nuna nueva campeona!!
+¡Jade ha ganado la última\nbatalla! ¡¡Al fin tenemos\nun nuevo campeón!!
+¡Anise ha ganado la última\nbatalla! ¡¡Al fin tenemos\nuna nueva campeona!!
+¡Guy ha ganado la última\nbatalla! ¡¡Al fin tenemos\nun nuevo campeón!!
+¡Natalia ha ganado la última\nbatalla! ¡¡Al fin tenemos\nuna nueva campeona!!
+En honor a tu gloriosa victoria,\nte hacemos entrega de 20.000 gald\nde premio en metálico...<PAGE>\n¡¡y una "medalla de bronce"!!<PAGE>\nY también te otorgamos el derecho a\nparticipar en el siguiente nivel...<PAGE>\nese horizonte lejano, ese lugar legendario...\n¡¡el nivel Avanzado!!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+En honor a tu gloriosa victoria,\nte hacemos entrega de 15.000 gald\nde premio en metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+Ha llegado la hora de decir adiós hasta\nque se celebren las próximas eliminatorias.\n¡¡Hasta pronto!!
+En honor a tu gloriosa victoria,\nte hacemos entrega de 30.000 gald\nde premio en metálico...<PAGE>\n¡¡y una "medalla de bronce"!!<PAGE>\nY también te otorgamos el derecho a\nparticipar en el siguiente nivel...<PAGE>\nese horizonte lejano, ese lugar legendario...\n¡¡el nivel Avanzado!!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+En honor a tu gloriosa victoria,\nte hacemos entrega de 22.500 gald\nde premio en metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+¡¡Oh, que pena!!\n¡¡Te ha faltado muy poco!!\n¡¿Has desafiado al coliseo\ndemasiado pronto?!<PAGE>\n¡¡Cuando seas algo más fuerte,\nvuelve e inténtalo otra vez!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Luke!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Tear!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Jade!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Anise!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Guy!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Natalia!!
+¿Estás listo?\nSí\nNo
+Buena suerte.
+No va mal asegurarse dos veces.
+Chocan las espadas y rugen las artes\nfónicas. Cada vez que se oyen estos\nsonidos, el débil se marcha y el fuerte\nvive entre la gloria y la desesperación.<PAGE>\nSe le llama nivel Avanzado.\n¿Quién desafiará hoy sus límites?...
+Vamos allá.
+No me gustaría estar en tu lugar.\nAguanta.
+Vaya, vaya, cuánta pasión.
+Premio en metálico... premio en metálico...
+¡Buenas!
+Lo haré lo mejor que pueda.
+¡¡Luke!!
+¡¡Tear!!
+¡¡Jade!!
+¡¡Anise!!
+¡¡Guy!!
+¡¡Natalia!!
+¡Ahora, el primer paso hacia la\nleyenda! ¡Primer asalto, empezad!
+¡¡Victoria!! \n¡¡Victoriaaaa!! \n¡¡Victoriaaaaaaaaaaa!!
+Vamos allá.
+No me gustaría estar en tu lugar.\nAguanta.
+Vaya, vaya, cuánta pasión.
+Premio en metálico... premio en metálico...
+¡Hola!
+Lo haré lo mejor que pueda.
+¡¡Luke ha ganado la \nprimera batalla!!
+¡¡Tear ha ganado la \nprimera batalla!!
+¡¡Jade ha ganado la \nprimera batalla!!
+¡¡Anise ha ganado la \nprimera batalla!!
+¡¡Guy ha ganado la \nprimera batalla!!
+¡¡Natalia ha ganado la \nprimera batalla!!
+Ahora que ya hemos acabado el calentamiento,\n¡¡es hora de empezar con el espectáculo!!<PAGE>\n¡¡Segundo asalto... empezad!!
+La suerte ha vuelto a sonreír,\ny en la calidez de su mirada...
+Vamos allá.
+No me gustaría estar en tu lugar.\nAguanta.
+Vaya, vaya, cuánta pasión.
+Premio en metálico... premio en metálico...
+Lo haré lo mejor que pueda.
+¡¡Luke ha ganado\nla segunda batalla!!
+¡¡Tear ha ganado\nla segunda batalla!!
+¡¡Jade ha ganado\nla segunda batalla!!
+¡¡Anise ha ganado\nla segunda batalla!!
+¡¡Guy ha ganado\nla segunda batalla!!
+¡¡Natalia ha ganado\nla segunda batalla!!
+Ya no hay vuelta atrás. El más mínimo\nerror puede significar la derrota.\n¡¡La balanza puede inclinarse\nhacia cualquier lado!!<PAGE>\n¡¡Tercer asalto... empezad!!
+¡¡Y una vez más, una serie\nde victorias que desafía\ncualquier expectativa!!
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+¡¡Luke ha ganado\nla tercera batalla!!
+¡¡Tear ha ganado\nla tercera batalla!!
+¡¡Jade ha ganado\nla tercera batalla!!
+¡¡Anise ha ganado\nla tercera batalla!!
+¡¡Guy ha ganado\nla tercera batalla!!
+¡¡Natalia ha ganado\nla tercera batalla!!
+Derrotando a innumerables y poderosos\nenemigos, luchando por alcanzar la\nperfección que mora tras esa puerta,<PAGE>\nel aspirante sigue luchando, incansable.\n¡¡Y por fin estamos delante de la puerta!!\nCuarto asalto... la semifinal. ¡¡Empezad!!
+¡¡La puerta por fin se ha abierto!!
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+¡¡Luke ha ganado\nla cuarta batalla!!
+¡¡Tear ha ganado\nla cuarta batalla!!
+¡¡Jade ha ganado\nla cuarta batalla!!
+¡¡Anise ha ganado\nla cuarta batalla!!
+¡¡Guy ha ganado\nla cuarta batalla!!
+¡¡Natalia ha ganado\nla cuarta batalla!!
+Nunca olvidaremos el destello de la\nespada en esa mano, la luz del fuego\nque arde en esos ojos.<PAGE>\nNos acercamos al final del viaje\npara obtener el título de campeón<PAGE>\n........\n¡¡Ha llegado la hora de dejar tu\nmarca en la historia y de convertirte\nen una leyenda viva!!<PAGE>\n¡¡La batalla final!!\nLa batalla por el campeonato...\nListos... ¡¡¡Ya!!!
+Derrotando a muchos y poderosos\nadversarios, el título es de...
+¡¡Genial!!
+Ufff...
+Bueno, ¿y qué esperabas?
+¡¡Premio en metálico!!
+Je je, no sé qué decir.
+El resultado obvio, debería decir.
+¡¡Luke!! \n¡¡Luke ha ganado la batalla final\ny ahora es nuestro campeón!!
+¡¡Tear!! \n¡¡Tear ha ganado la batalla final\ny ahora es nuestra campeona!!
+¡¡Jade!! \n¡¡Jade ha ganado la batalla final\ny ahora es nuestro campeón!!
+¡¡Anise!! \n¡¡Anise ha ganado la batalla final\ny ahora es nuestra campeona!!
+¡¡Guy!! \n¡¡Guy ha ganado la batalla final\ny ahora es nuestro campeón!!
+¡¡Natalia!! \n¡¡Natalia ha ganado la batalla final\ny ahora es nuestra campeona!!
+En honor a tu gloriosa victoria,\nte hacemos entrega de 35.000 gald\nde premio en metálico...<PAGE>\n¡¡y una "medalla de oro"!!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+Luke ha recibido el título de "Espada de espadas".
+Tear ha recibido el título de "Sanadora perfecta".
+Jade ha recibido el título de "Maestro de batalla".
+Anise ha recibido el título de "Monada devastadora".
+Guy ha recibido el título de "Caballero dorado".
+Natalia ha recibido el título de "Princesa del Coliseo".
+¡¡Venga todos, un fuerte aplauso!!
+¡Y además! ~ \n¡¡Te hacemos entrega de un título\nque se corresponde a tu estatus!!
+¡Y aún hay más! ~ \n¡¡Te ofrecemos un arma que se\ncorresponde con tu estatus!!
+En honor a tu gloriosa victoria,\nte hacemos entrega de 52.500 gald\nde premio en metálico...<PAGE>\n¡¡y una "medalla de oro"!!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+En honor a tu gloriosa victoria,\nte hacemos entrega de 35.000 gald\nde premio en metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+¡Ha llegado la hora de decir adiós hasta\nque se celebren las próximas eliminatorias!\n¡Adiós a todos!\n¡¡Hasta pronto!!~
+En honor a tu gloriosa victoria,\nte hacemos entrega de 52.500 gald\nde premio en metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+¡¡Oh, no!! \n¡¡Imposible!!\n¡¡No puedo creer que hayas perdido!!<PAGE>\n¡¡Cuando seas algo más fuerte,\nvuelve e inténtalo otra vez!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Luke!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Tear!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Jade!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Anise!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Guy!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Natalia!!
+¿Estás listo?\nSí\nNo
+Buena suerte.
+No va mal asegurarse dos veces.
+Clamorosas ovaciones y abucheos...\n¡¡El coliseo es como las tempestuosas\nolas de invierno de Silvana!!<PAGE>\nLos torneos por equipos, donde el trabajo\nconjunto es la clave, empezarán ahora.
+¡¡Grrrraaaaaah!!
+No me gustaría estar en tu lugar.\nAguanta.
+Oh, vaya, qué pasión.
+Premio en metálico... premio en metálico...
+¡Hola a todos!
+Lo haré lo mejor que pueda.
+¡¡Aquí llega el equipo, liderado por Luke!!
+¡¡Aquí llega el equipo, liderado por Tear!!
+¡¡Aquí llega el equipo, liderado por Jade!!
+¡¡Aquí llega el equipo, liderado por Anise!!
+¡¡Aquí llega el equipo, liderado por Guy!!
+¡¡Aquí llega el equipo, liderado por Natalia!!
+Ahora, antes de nada, la primera prueba.\nLa batalla preliminar...\nListos... ¡¡Ya!!
+¡¡Lo conseguisteis!!\n¡¡Lo conseguisteis!!\n¡¡Lo conseguisteis de verdad!!
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Bueno, pues claro.
+Dummy message  <81A6>Assigned to Murai
+Lo conseguimos, chicos.
+Dummy message  <81A6>Assigned to Murai
+¡¡El equipo de Luke ha\nganado la primera batalla!!
+¡¡El equipo de Tear ha\nganado la primera batalla!!
+¡¡El equipo de Jade ha\nganado la primera batalla!!
+¡¡El equipo de Anise ha\nganado la primera batalla!!
+¡¡El equipo de Guy ha\nganado la primera batalla!!
+¡¡El equipo de Natalia ha\nganado la primera batalla!!
+El torneo ya está en marcha. La\nfuerza del equipo se va desgastando.\n¡¿Se romperán sus lazos?!<PAGE>\nLa segunda batalla...\nListos... ¡¡Ya!!
+¡Sus lazos se mantienen firmes!<PAGE>\nPuedo verlo...\n¡¡No sólo están unidos por el hilo rojo del\ndestino, sino también por cadenas de mítril!!
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+¡¡El equipo de Luke ha\nganado la segunda batalla!!
+¡¡El equipo de Tear ha\nganado la segunda batalla!!
+¡¡El equipo de Jade ha\nganado la segunda batalla!!
+¡¡El equipo de Anise ha\nganado la segunda batalla!!
+¡¡El equipo de Guy ha\nganado la segunda batalla!!
+¡¡El equipo de Natalia ha\nganado la segunda batalla!!
+Torbellinos de derrota y desesperación\narrasan el coliseo como las tormentas del\nDesierto de Zao y, a través de ese desierto,\navanza un equipo de valerosas almas...<PAGE>\nCreyendo los unos en los otros, se esfuerzan\npor alcanzar el oasis de la vitoria.<PAGE>\n¡¡Tomad el mundo en vuestras manos!!<PAGE>\n¡Sea una feliz victoria o una amarga\nderrota, ésta será la última batalla!\n¡¡Último asalto... empezad!!
+¡¡Oh!! ¡¡Increíble!!\n¡¡No tengo palabras!!<PAGE>\n¡¡El equipo ha conseguido atravesar\nel desierto y ahora está en la cima\ndel nivel Principiante!!
+¡¡Genial!!
+Ufff...
+Bueno, ¿y qué esperabas?
+¡¡Premio en metálico!!
+Je je, no sé qué decir.
+El resultado obvio, debería decir.
+¡¡El equipo de Luke ha\nganado la batalla final y\nahora es nuestro campeón!!
+¡¡El equipo de Tear ha\nganado la batalla final y\nahora es nuestro campeón!!
+¡¡El equipo de Jade ha\nganado la batalla final y\nahora es nuestro campeón!!
+¡¡El equipo de Anise ha\nganado la batalla final y\nahora es nuestro campeón!!
+¡¡El equipo de Guy ha\nganado la batalla final y\nahora es nuestro campeón!!
+¡¡El equipo de Natalia ha\nganado la batalla final y\nahora es nuestro campeón!!
+En honor a vuestra gloriosa victoria,\nos hacemos entrega de 40.000 gald\nde premio en metálico...<PAGE>\n¡¡y un "trofeo de bronce"!!<PAGE>\nTambién os habéis ganado el derecho\nde participar en el siguiente nivel,\nel ápice, la meta más alta: ¡el torneo\npor equipos de nivel Avanzado!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+En honor a vuestra gloriosa victoria,\nos hacemos entrega de 30.000 gald\nde premio en metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+Ha llegado la hora de decir adiós hasta\nque se celebren las próximas eliminatorias.\n¡¡Hasta pronto!! ~
+En honor a vuestra gloriosa victoria,\nos hacemos entrega de 60.000 gald\nde premio en metálico...<PAGE>\n¡¡y un "trofeo de bronce"!!<PAGE>\nTambién os habéis ganado el derecho\nde participar en el siguiente nivel,\nel ápice, la meta más alta: ¡el torneo\npor equipos de nivel Avanzado!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+En honor a vuestra gloriosa victoria,\nos hacemos entrega de 45.000 gald\nde premio en metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+En honor a vuestra gloriosa victoria,\nos hacemos entrega de 40.000 gald\nde premio en metálico...<PAGE>\n¡¡y un "trofeo de bronce"!!<PAGE>\nTambién os habéis ganado el derecho\nde participar en el siguiente nivel,\nel ápice, la meta más alta: ¡el torneo\npor equipos de nivel Avanzado!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+En honor a vuestra gloriosa victoria,\nos hacemos entrega de 30.000 gald\nde premio en metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+Ha llegado la hora de decir adiós hasta\nque se celebren las próximas eliminatorias.\n¡¡Hasta pronto!! ~
+¡¡Increíble!!\n¡¿Cómo ha podido pasar esto?!\n¡¡No puedo creer que hayáis perdido!!<PAGE>\n¡¡Cuando seáis algo más fuertes\nvolved e intentadlo otra vez!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Luke!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Tear!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Jade!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Anise!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Guy!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Natalia!!
+¿Estás listo?\nSí\nNo
+Buena suerte.
+No va mal asegurarse dos veces.
+Atravesando una montaña de cadáveres,\nte ves en un rincón especial del infierno\nllamado "Coliseo".<PAGE>\nPero no estás solo.\nMira detrás de ti y verás a\ntus inseparables compañeros.<PAGE>\nEl nivel Avanzado del torneo por\nequipos es una prueba para los lazos\nde amistad. Los participantes son...
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+"Lazos de amistad" \n*Estremecimiento*...
+¡Mis subordinados! \n¡¡Luchad por mí!!
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+¡¡Este equipo, liderado por Luke!!
+¡¡Este equipo, liderado por Tear!!
+¡¡Este equipo, liderado por Jade!!
+¡¡Este equipo, liderado por Anise!!
+¡¡Este equipo, liderado por Guy!!
+¡¡Este equipo, liderado por Natalia!!
+......\n¡¿Podrá sobrevivir tu grupo?!<PAGE>\nPrimer asalto...\nListos... ¡¡Ya!!
+¡¡Ganasteis!!\n¡¡Ganasteis!!\n¡¡Ganasteis de verdad!!
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Bueno, pues claro.
+Dummy message  <81A6>Assigned to Murai
+Lo conseguimos, chicos.
+Dummy message  <81A6>Assigned to Murai
+¡¡El equipo de Luke ha\nganado la primera batalla!!
+¡¡El equipo de Tear ha\nganado la primera batalla!!
+¡¡El equipo de Jade ha\nganado la primera batalla!!
+¡¡El equipo de Anise ha\nganado la primera batalla!!
+¡¡El equipo de Guy ha\nganado la primera batalla!!
+¡¡El equipo de Natalia ha\nganado la primera batalla!!
+¡El torneo ya está en marcha,\ny los enemigos son fieros!<PAGE>\nSegundo asalto...\nListos... ¡¡Ya!!
+¡¡Las palabras no pueden\nexpresar mi emoción!! \n¡¡Fantástico!!
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+Dummy message  <81A6>Assigned to Murai
+¡¡El equipo de Luke ha\nganado la segunda batalla!!
+¡¡El equipo de Tear ha\nganado la segunda batalla!!
+¡¡El equipo de Jade ha\nganado la segunda batalla!!
+¡¡El equipo de Anise ha\nganado la segunda batalla!!
+¡¡El equipo de Guy ha\nganado la segunda batalla!!
+¡¡El equipo de Natalia ha\nganado la segunda batalla!!
+Mirando atrás, ven un sendero de cadáveres,\ny hacia el frente, más de lo mismo...\nPero su paso nunca vacila...<PAGE>\n¡¡Por el bien del futuro que hay más allá,\nsiguen adelante mientras les quede una\ngota de coraje en sus manos unidas!!<PAGE>\n¡¡Ha llegado la hora de que lo que\nlos une se convierta en leyenda!!\n¡Sea una feliz victoria o una amarga\nderrota, ésta será la última batalla!\n¡¡Último asalto... empezad!!
+¡¡Estoy conmovida!!\n¡¡No sé cómo expresarlo!!<PAGE>\n¡¡En este momento, acaba de nacer una leyenda!!\n¡¡Una historia que pasará de padres a hijos!!
+¡¡Genial!!
+Ufff...
+Bueno, ¿y qué esperabas?
+¡¡Premio en metálico!!
+Je je, no sé qué decir.
+El resultado obvio, debería decir.
+¡¡El equipo de Luke ha ganado la batalla\nfinal, ha superado a temibles enemigos,<PAGE>\ny finalmente, finalmente, salen victoriosos\ncomo nuestros nuevos campeones!!
+¡¡El equipo de Tear ha ganado la batalla\nfinal, ha superado a temibles enemigos,<PAGE>\ny finalmente, finalmente, salen victoriosos\ncomo nuestros nuevos campeones!!
+¡¡El equipo de Jade ha ganado la batalla\nfinal, ha superado a temibles enemigos,<PAGE>\ny finalmente, finalmente, salen victoriosos\ncomo nuestros nuevos campeones!!
+¡¡El equipo de Anise ha ganado la batalla\nfinal, ha superado a temibles enemigos,<PAGE>\ny finalmente, finalmente, salen victoriosos\ncomo nuestros nuevos campeones!!
+¡¡El equipo de Guy ha ganado la batalla\nfinal, ha superado a temibles enemigos,<PAGE>\ny finalmente, finalmente, salen victoriosos\ncomo nuestros nuevos campeones!!
+¡¡El equipo de Natalia ha ganado la batalla\nfinal, ha superado a temibles enemigos,<PAGE>\ny finalmente, finalmente, salen victoriosos\ncomo nuestros nuevos campeones!!
+En honor a vuestra gloriosa\nvictoria, os hacemos entrega\nde 50.000 gald de premio\nen metálico...<PAGE>\n¡¡y un trofeo de oro!!<PAGE>\n¡¡Maravilloso!! ¡¡Increíble!!\n¡¡Voy a llorar de la emoción!!\n¡¡Venga, que reciban el aplauso más\nfuerte que se haya oído en el mundo!!
+En honor a vuestra gloriosa\nvictoria, os hacemos entrega\nde 35.000 gald de premio\nen metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+¡Ha llegado la hora de decir adiós hasta\nque se celebren las próximas eliminatorias!\n¡Adiós a todos!\n¡¡Hasta pronto!!~
+En honor a vuestra gloriosa\nvictoria, os hacemos entrega\nde 50.000 gald de premio\nen metálico...<PAGE>\n¡¡y un trofeo de oro!!<PAGE>\n¡¡Maravilloso!! ¡¡Increíble!!\n¡¡Voy a llorar de la emoción!!\n¡¡Venga, que reciban el aplauso más\nfuerte que se haya oído en el mundo!!
+En honor a vuestra gloriosa\nvictoria, os hacemos entrega\nde 75.000 gald de premio\nen metálico...<PAGE>\n¡¡y un trofeo de oro!!<PAGE>\n¡¡Maravilloso!! ¡¡Increíble!!\n¡¡Voy a llorar de la emoción!!\n¡¡Venga, que reciban el aplauso más\nfuerte que se haya oído en el mundo!!
+En honor a vuestra gloriosa\nvictoria, os hacemos entrega\nde 35.000 gald de premio\nen metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+¡Ha llegado la hora de decir adiós hasta\nque se celebren las próximas eliminatorias!\n¡Adiós a todos!\n¡¡Hasta pronto!!~
+En honor a vuestra gloriosa\nvictoria, os hacemos entrega\nde 35.000 gald de premio\nen metálico...<PAGE>\n¡y un set de recuperación!<PAGE>\n¡¡Venga todos, un fuerte aplauso!!
+Es cuestión de suerte, dicen. Incluso\nlos más habilidosos pueden perder\nen un único momento de flaqueza.<PAGE>\n¡¡Cuando seáis algo más fuertes,\nvolved e intentadlo otra vez!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Luke!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Tear!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Jade!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Anise!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestro pobre perdedor, Guy!!
+¡¡Despidámonos con un fuerte y caluroso\naplauso de nuestra pobre perdedora, Natalia!!
+Ha llegado la hora de decir adiós,\nhasta que llegue la hora de... ¿Mmm?<PAGE>\n¡Un momento, no se vayan aún!\n¡Ha aparecido un nuevo aspirante!<PAGE>\n¡Vamos a presenciar un duelo de exhibición!\nListooooooooos...\n¡¡Ya!!
+¡¡Victoria!! \n¡¡Yujuu!! \n¡¡Bravo!!
+¿Estás listo?\nSí\nNo
+Buena suerte.
+No va mal asegurarse dos veces.
+"¿Por qué petas los globos?\nPorque están ahí..."\nNo se sabe quien dijo estas famosas palabras...<PAGE>\nPero ya basta.\nEs hora de luchar contra los propios\nlímites: ¡los globos de Baticul!
+¡¡Grrrraaaaaah!!
+No me gustaría estar en tu lugar.\nAguanta.
+Oh, vaya, qué pasión.
+Premio en metálico... premio en metálico...
+¡Hola a todos!
+Lo haré lo mejor que pueda.
+Y quien se enfrentará a ese\ndesafío será... ¡¡Luke!!
+Y quien se enfrentará a ese\ndesafío será... ¡¡Tear!!
+Y quien se enfrentará a ese\ndesafío será... ¡¡Jade!!
+Y quien se enfrentará a ese\ndesafío será... ¡¡Anise!!
+Y quien se enfrentará a ese\ndesafío será... ¡¡Guy!!
+Y quien se enfrentará a ese\ndesafío será... ¡¡Natalia!!
+¡Y ahora, utiliza toda la fuerza\ny astucia que tengas!\n¡¡Empieza!!
+¿Qué tenemos aquí?\n¡¡Nuevo récord!!\n¡¡Un nuevo récord de tiempo!!<PAGE>\nEs un milagro. Una maravilla de\nactuación. ¡¡Una nueva definición\nde velocidad se ha introducido\nen los anales de la historia!!
+¡¡Qué rápido!! \n¡¡Qué rápido!! \n¡¡Esta velocidad no es una ilusión!!
+¡Bzzzzt! ¡Qué pena!\nSe acabó el tiempo.<PAGE>\nEstabas TAN cerca.\nPero se acabó el juego.\n¡Esperaremos tu próximo intento!
+Todos los juegos han acabado, y los\njueces están haciendo el recuento...<PAGE>\n¡Ah, parece que ya han acabado!
+¡¡A-Absolutamente fantástico!!\n¡¡Es la máxima velocidad jamás alcanzada!!<PAGE>\n¡¡Te hacemos entrega de 5.000 gald!!
+¡¡No es un nuevo récord, pero\nes un resultado impresionante!! \n¡Esperamos con ilusión tu próximo reto!
+¡¡Absolutamente fantástico!!\n¡¡Es la máxima velocidad jamás alcanzada!!<PAGE>\n¡¡Te hacemos entrega de 7.500 gald!!
+Todos los juegos han acabado, y los\njueces están haciendo el recuento...<PAGE>\n¡Ah, parece que ya han acabado!
+¡¡Absolutamente fantástico!!\n¡¡Es la máxima velocidad jamás alcanzada!!<PAGE>\n¡¡Te hacemos entrega de 8.500 gald!!
+¡¡No es un nuevo récord, pero\nes un resultado impresionante!! \n¡Esperamos con ilusión tu próximo reto!
+¡¡Absolutamente fantástico!!\n¡¡Es la máxima velocidad jamás alcanzada!!<PAGE>\n¡¡Te hacemos entrega de 12.000 gald!!
+Todos los juegos han acabado, y los\njueces están haciendo el recuento...<PAGE>\n¡Ah, parece que ya han acabado!
+¡¡Absolutamente fantástico!!\n¡¡Es la máxima velocidad jamás alcanzada!!<PAGE>\n¡¡Te hacemos entrega de 15.000 gald!!
+¡¡No es un nuevo récord, pero\nes un resultado impresionante!! \n¡Esperamos con ilusión tu próximo reto!
+¡¡Absolutamente fantástico!!\n¡¡Es la máxima velocidad jamás alcanzada!!<PAGE>\n¡¡Te hacemos entrega de 22.500 gald!!
+El tiempo récord actual es\n<04*>
+Tu tiempo total fue\n<04*>
+<04*> segundos.
+¡¡Jade ha ganado la batalla final\ny ahora es nuestro campeón!!
+¡Para la ceremonia de presentación \ndel premio, por favor,\npóngase estas ropas!
+¿Oh? \nNo creo que esto se\nhaya hecho antes...
+¡Tiene razón! \nPero hemos recibido esta carta...
+Uh... \n¿Una carta del emperador Peony?
+En el supuesto de que un hombre con el nombre \nde Jade, que llevase un uniforme del ejército \nde Malkuth, se uniese al campeonato<PAGE>\ny acabara como campeón, tendrá usted que \nentregarle el premio yendo él vestido con  \nla ropa que le hemos proporcionado.<PAGE>\nEste hombre, Jade, tiene un sentido \nde la elegancia terrible,<PAGE>\ny esta precaución tiene el propósito de \nevitar que avergüence a las Fuerzas de\nMalkuth. Por la presente se le ordena \nque se asegure de que se pone esa ropa.<PAGE>\nEmperador Peony IX,\nImperio de Malkuth
+Hay que ver...
+¿Qué harás?
+Supongo que no tengo elección. \nAceptaré la pequeña broma de Su Majestad.
+¡¡Y aquí está, el Maestro de batalla Jade!! \n¡¡Oigamos esos aplausos!!
+El público no parece estar reaccionando  \nmuy favorablemente a este traje.
+¡Y no es sorprendente! \n¡Apuesto a que nadie ha \nvisto nunca algo así!!\n¡¡De todas formas, felicitaciones!!
+Sinceramente, no sé lo que voy \na hacer con Su Majestad.
+Je je. \nPero te queda bien, Jade.
+¡Sí!\n¡Demasiado!
+Mmm.\nBueno, supongo que es mejor que \nla mayoría de sus otros diseños.<PAGE>\nQuizá lo lleve puesto durante un tiempo.
+Ja ja. \n¿Nos vamos ya?
+Si quieres participar en el torneo,\nregístrate en la recepción.
+Cuando estéis registrados, podéis\nentrar al Coliseo desde aquí.
+¡Arrrgh!
+¡No, idiota!\n¡Esquiva hacia la derecha\ny hazle un Martillo!
+Quise comprobar personalmente cómo\niba esta arma que yo mismo hice.
+Toda mi armadura también\nme la he hecho yo, claro.
+No hay nada que temer...\nNo hay nada que temer...
+Mientras los resultados de mi\ninvestigación sean correctos...
+Siempre he usado cacerolas,\nasí que no me siento a gusto\ncon estas armas...
+¿Debería volver y\ncoger un buen\ncuchillo de cocina?
+Aaaaah...
+De repente no me veo con\nganas de hacerlo otra vez...
+¡Groar!
+Grrrr...
+Aquí detrás están los monstruos\npara luchar en la arena.
+Si sigues por aquí, no nos haremos\nresponsables de lo que te pase.
+Si quieres luchar, ve\narriba y regístrate.
+Tu vida no correrá peligro aunque\npierdas, así que despáchate a gusto.
+¡Ya es tarde para echarse atrás!

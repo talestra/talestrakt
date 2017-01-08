@@ -1,0 +1,139 @@
+## POINTER 1010 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Nocer forte
+
+## POINTER 1011 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151113]
+Un núcleo de capacidad con 
+la palabra "místico" grabada.
+
+## POINTER 1020 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Scild forte
+
+## POINTER 1021 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175602049]
+Un núcleo de capacidad con la frase 
+"de la misma manera" grabada.
+
+## POINTER 1030 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Esprit forte
+
+## POINTER 1031 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151113]
+Un núcleo de capacidad con la 
+frase "con energía" grabada.
+
+## POINTER 1040 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Balla forte
+
+## POINTER 1041 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175602049]
+Un núcleo de capacidad con la palabra
+"pacíficamente" grabada.
+
+## POINTER 1050 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Alca forte
+
+## POINTER 1051 [t:1;r:1;ru:parsec;user:parsec;time:1200262051]
+Un núcleo de capacidad con la frase
+"a toda potencia" grabada.
+
+## POINTER 1060 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Stre maggiore
+
+## POINTER 1061 [t:1;r:1;ru:parsec;user:parsec;time:1200262051]
+Un núcleo de capacidad con la frase
+"incluso más fuerte" grabada.
+
+## POINTER 1070 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Nocer maggiore
+
+## POINTER 1071 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+frase "con dulzura" grabada.
+
+## POINTER 1080 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Scild maggiore
+
+## POINTER 1081 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+palabra "estrictamente" grabada.
+
+## POINTER 1090 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Alca maggiore
+
+## POINTER 1091 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+palabra "bruscamente" grabada.
+
+## POINTER 1100 [t:1;r:1;ru:parsec;user:kaene;time:1198457679]
+Balla maggiore
+
+## POINTER 1101 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+frase "con armonía" grabada.
+
+## POINTER 1110 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Marcato
+
+## POINTER 1111 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+frase "con claridad" grabada.
+
+## POINTER 1120 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Strecido
+
+## POINTER 1121 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+palabra "salvajemente" grabada.
+
+## POINTER 1130 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Nocercido
+
+## POINTER 1131 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+palabra "solemnemente" grabada.
+
+## POINTER 1140 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Ballacido
+
+## POINTER 1141 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+frase "con vigor" grabada.
+
+## POINTER 1150 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Lebhaft
+
+## POINTER 1151 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+frase "con energía" grabada.
+
+## POINTER 1160 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Scildecido
+
+## POINTER 1161 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+palabra "rapidísimo" grabada.
+
+## POINTER 1170 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Parlanto
+
+## POINTER 1171 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175602050]
+Un núcleo de capacidad con la frase
+"como si contaras un cuento" grabada.
+
+## POINTER 1180 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Largamente
+
+## POINTER 1181 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la frase
+"con gran facilidad" grabada.
+
+## POINTER 1190 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Lunatito
+
+## POINTER 1191 [t:1;r:2;ru:evilluendas,parsec;user:evilluendas;time:1179151114]
+Un núcleo de capacidad con la 
+palabra "enloquecido" grabada.
+
+## POINTER 1200 [t:1;r:3;ru:pacochan,evilluendas,parsec;user:pacochan;time:1176291599]
+Grandioz
+
+## POINTER 1201 [t:1;r:2;ru:evilluendas,parsec;user:rinoninha;time:1175602050]
+Un núcleo de capacidad con la palabra
+"grandiosamente" grabada.

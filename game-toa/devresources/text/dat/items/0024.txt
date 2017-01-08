@@ -1,0 +1,131 @@
+## POINTER 4810 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268706]
+Cinta verde
+
+## POINTER 4811 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268706]
+Una cinta mona de un vigoroso verde.
+Infundida con el tercer fonón.
+
+## POINTER 4820 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268706]
+Cinta azul
+
+## POINTER 4821 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Una cinta mona de un fresco azul.
+Infundida con el cuarto fonón.
+
+## POINTER 4830 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Cinta morada
+
+## POINTER 4831 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Una cinta mona de un morado sagrado.
+Infundida con el primer fonón.
+
+## POINTER 4840 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Cinta bonita
+
+## POINTER 4841 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Una cinta muy mona.
+
+## POINTER 4850 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Cinta tartán
+
+## POINTER 4851 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Una cinta a cuadros con un patrón tartán.
+
+## POINTER 4860 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Cinta a rayas
+
+## POINTER 4861 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Una cinta a rayas.
+
+## POINTER 4870 [t:1;r:1;ru:parsec;user:kaene;time:1199191223]
+Cinta antigua
+
+## POINTER 4871 [t:1;r:1;ru:parsec;user:kaene;time:1199191223]
+Una cinta hecha de un mineral raro y antiguo.
+
+## POINTER 4880 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Cinta mágica
+
+## POINTER 4881 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Una cinta con un fuerte poder fónico.
+
+## POINTER 4890 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Cinta elemental
+
+## POINTER 4891 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Una cinta protegida por fonones.
+
+## POINTER 4900 [t:1;r:1;ru:parsec;user:kaene;time:1198459752]
+Defensa antiveneno
+
+## POINTER 4901 [t:1;r:2;ru:pacochan,parsec;user:Turyx;time:1181470190]
+50% de posibilidades de prevenir Veneno.
+También ligeramente resistente al agua.
+
+## POINTER 4910 [t:1;r:1;ru:parsec;user:kaene;time:1198656720]
+Dije antiveneno
+
+## POINTER 4911 [t:1;r:1;ru:parsec;user:kaene;time:1198459752]
+Previene el envenenamiento.
+También ligeramente resistente al agua.
+
+## POINTER 4920 [t:1;r:1;ru:parsec;user:kaene;time:1198459752]
+Defensa antiparálisis
+
+## POINTER 4921 [t:1;r:1;ru:parsec;user:kaene;time:1198459752]
+50% de posibilidades de prevenir la parálisis. 
+También ligeramente resistente al viento.
+
+## POINTER 4930 [t:1;r:1;ru:parsec;user:kaene;time:1198656720]
+Dije antiparálisis
+
+## POINTER 4931 [t:1;r:1;ru:parsec;user:kaene;time:1198459752]
+Previene la parálisis.
+También ligeramente resistente al viento.
+
+## POINTER 4940 [t:1;r:1;ru:parsec;user:kaene;time:1198459752]
+Defensa antipetrificación
+
+## POINTER 4941 [t:1;r:1;ru:parsec;user:parsec;time:1200302401]
+50% de posibilidades de prevenir la petrificación. 
+También ligeramente resistente a la tierra.
+
+## POINTER 4950 [t:1;r:1;ru:parsec;user:kaene;time:1198656720]
+Dije antipetrificación
+
+## POINTER 4951 [t:1;r:1;ru:parsec;user:parsec;time:1200302401]
+Previene la petrificación.
+También ligeramente resistente a la tierra.
+
+## POINTER 4960 [t:1;r:1;ru:parsec;user:kaene;time:1198459752]
+Defensa antiagotamiento
+
+## POINTER 4961 [t:1;r:1;ru:parsec;user:parsec;time:1195310776]
+50% de posibilidades de prevenir el agotamiento.
+También ligeramente resistente al fuego.
+
+## POINTER 4970 [t:1;r:1;ru:parsec;user:kaene;time:1198656720]
+Dije antiagotamiento
+
+## POINTER 4971 [t:1;r:1;ru:parsec;user:kaene;time:1198459752]
+Previene el agotamiento.
+También ligeramente resistente al fuego.
+
+## POINTER 4980 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179350620]
+Amuleto
+
+## POINTER 4981 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179953883]
+Previene todos los estados alterados físicos.
+
+## POINTER 4990 [t:1;r:2;ru:pacochan,parsec;user:parsec;time:1179350620]
+Laurel
+
+## POINTER 4991 [t:1;r:2;ru:pacochan,parsec;user:Death's sapphire;time:1179953883]
+Previene todos los estados alterados mágicos.
+
+## POINTER 5000 [t:1;r:2;ru:pacochan,parsec;user:pacochan;time:1182268707]
+Brazalete curativo
+
+## POINTER 5001 [t:1;r:2;ru:pacochan,parsec;user:Turyx;time:1181470005]
+Recupera el 10% del HP máximo por cada
+enemigo derrotado.

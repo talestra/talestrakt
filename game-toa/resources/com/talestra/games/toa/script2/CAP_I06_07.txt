@@ -1,0 +1,561 @@
+???
+Van
+Ion
+Mieu
+Marco
+Tony
+Legretta
+Arietta
+Largo
+Sync
+Dist
+Glenn McGovern
+Anciano McGovern
+Pyrope
+John
+Hyman
+Conde Almandine
+Noir
+York
+Urushi
+Astor
+Cónsul de Kimlasca
+Cónsul de Malkuth
+Cochero
+Goldberg
+Cecille
+Alpine
+Mohs
+Ingobert VI
+Duque Fabre
+Susanne
+Ramdas
+Pere
+Patriarca Cheagle
+Rose
+Hencken
+Cathy
+Spinoza
+Teodoro
+Oliver
+Pamela
+Tritheim
+Ginji
+Noelle
+Iemon
+Aston
+Tamara
+Nephry
+Frings
+Peony
+Sesemann
+Nordheim
+Viridian
+Shu
+Reiner
+Mary
+Kelly
+Caballero Blanco
+Soldado de Kimlasca
+Soldado de Malkuth
+Antoleón
+Caballero del Oráculo
+Miriam
+Samus
+Layla
+Florian
+Nebilim
+Yutan
+Misika
+Elion
+Tomio
+Giliette
+Yaun
+Mabo
+Ishtar
+Médico de Malkuth
+Enfermera de Malkuth
+Zvonimir
+Ayn
+Barrelow X
+Casim
+As
+Estrella
+Miyagi
+Din
+Bernal
+Raiz
+Gee
+Jin
+Concilio de Artes
+Erin
+Gatoz
+Shiba
+Roddy
+Aqua
+Nick
+Peko
+
+Está cerrado
+No se abre
+Cerrado
+¿Ir directamente?
+Sí\nNo
+¿Ir directamente?\nSí\nNo
+¿Ir directamente a <04*>Sheridan<04*>?\nSí\nNo
+¿Ir directamente a <04*>Daath<04*>?\nSí\nNo
+¿Ir directamente a <04*>Belkend<04*>?\nSí\nNo
+¿Ir directamente a <04*>San Binah<04*>?\nSí\nNo
+???
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+<02*>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b009.anm
+motion:tea00_h_b009.anm
+motion:jad00_h_b009.anm
+motion:ans00_h_b009.anm
+motion:guy00_h_b009.anm
+motion:nat00_h_b009.anm
+motion:ash00_h_b009.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b012.anm
+motion:tea00_h_b012.anm
+motion:jad00_h_b012.anm
+motion:ans00_h_b012.anm
+motion:guy00_h_b012.anm
+motion:nat00_h_b012.anm
+motion:ash00_h_b012.anm
+motion:luk00_h_b015.anm
+motion:tea00_h_b015.anm
+motion:jad00_h_b015.anm
+motion:ans00_h_b015.anm
+motion:guy00_h_b015.anm
+motion:nat00_h_b015.anm
+motion:ash00_h_b015.anm
+motion:luk00_h_b016.anm
+motion:tea00_h_b016.anm
+motion:jad00_h_b016.anm
+motion:ans00_h_b016.anm
+motion:guy00_h_b016.anm
+motion:nat00_h_b016.anm
+motion:ash00_h_b016.anm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion:luk00_h_b019.anm
+motion:tea00_h_b019.anm
+motion:jad00_h_b019.anm
+motion:ans00_h_b019.anm
+motion:guy00_h_b019.anm
+motion:nat00_h_b019.anm
+motion:ash00_h_b019.anm
+motion:luk00_h_b020.anm
+motion:tea00_h_b020.anm
+motion:jad00_h_b020.anm
+motion:ans00_h_b020.anm
+motion:guy00_h_b020.anm
+motion:nat00_h_b020.anm
+motion:ash00_h_b020.anm
+motion:luk00_h_b021.anm
+motion:tea00_h_b021.anm
+motion:jad00_h_b021.anm
+motion:ans00_h_b021.anm
+motion:guy00_h_b021.anm
+motion:nat00_h_b021.anm
+motion:ash00_h_b021.anm
+motion:luk00_h_b022.anm
+motion:tea00_h_b022.anm
+motion:jad00_h_b022.anm
+motion:ans00_h_b022.anm
+motion:guy00_h_b022.anm
+motion:nat00_h_b022.anm
+motion:ash00_h_b022.anm
+motion:luk00_h_b023.anm
+motion:tea00_h_b023.anm
+motion:jad00_h_b023.anm
+motion:ans00_h_b023.anm
+motion:guy00_h_b023.anm
+motion:nat00_h_b023.anm
+motion:ash00_h_b023.anm
+motion:luk00_h_b024.anm
+motion:tea00_h_b024.anm
+motion:jad00_h_b024.anm
+motion:ans00_h_b024.anm
+motion:guy00_h_b024.anm
+motion:nat00_h_b024.anm
+motion:luk00_h_b024.anm
+<SPEECH*>Es un honor. Soy Goldberg, comandante\nde la Primera División de las Fuerzas\nReales de Kimlasca-Lanvaldear.
+<SPEECH*>Enhorabuena por un regreso seguro.
+<SPEECH*>Sí.
+<SPEECH*>Llegó una paloma mensajera con un\nmensaje del conde Almandine.
+<SPEECH*>Decía que viajabas con un emisario de\npaz del Imperio de Malkuth.
+<SPEECH*>Soy Ion, Maestro Fónico de la Orden de Lorelei.
+<SPEECH*>Traigo una carta de Su Imperial\nMajestad, el emperador Peony IX\ndel Imperio de Malkuth.
+<SPEECH*>¿Podría solicitar una audiencia con \nSu Majestad, el rey Ingobert VI?
+<SPEECH*>Por supuesto. La general Cecille\nserá la responsable de escoltaros\nhasta el castillo.
+<SPEECH*>General de brigada Cecille, \na su servicio.
+Una... una mujer...
+<SPEECH*>¿Algún problema?
+<SPEECH*>No, perdona.\nSoy Guy. Sirviente de Luke.
+<SPEECH*>Sargento locrio Tear Grants, primer\npelotón de la División de Inteligencia\nde los Caballeros del Oráculo.
+<SPEECH*>Sargento iónico Anise Tatlin, Guardiana\ndel Maestro Fónico de los Caballeros del Oráculo.
+<SPEECH*>Coronel Jade Curtiss, comandante de la \nTercera División de la Fuerzas Imperiales de\nMalkuth. Represento a Su Majestad Imperial.
+<SPEECH*>¡¿Tú eres ESE Jade Curtiss?!
+<SPEECH*>Me enseñaste una dolorosa lección\nen cierta batalla al norte\nde Chesedonia, general Cecille.
+<SPEECH*>Debes de estar de broma.\nBarriste completamente mis tropas.
+<SPEECH*>Es bien sabido que eres el confidente\npersonal del Emperador, Coronel.
+<SPEECH*>Si estás aquí, Malkuth \ndebe de ir en serio.
+<SPEECH*>La tensión en la frontera es mayor\nahora que al principio de la Guerra de Hod.\nNo hay otra opción que ir en serio.
+<SPEECH*>Correcto. Bueno Luke, mi unidad\nde defensa de Baticul te escoltará\nde regreso a tu casa.
+<SPEECH*>¡Espera!
+<SPEECH*>Ion me pidió que hablara con Tío de su parte.\n¡Voy a llevarlo al castillo!
+<SPEECH*>Gracias, Luke. \nAgradezco tu ayuda.
+<SPEECH*>Me impresionas, Luke.\nEntiendes de verdad tu responsabilidad.
+<SPEECH*>Oh... uh... sí...
+<SPEECH*>Entendido. En ese caso, enviaré a\nla general Cecille para que informe\na Su Merced, el duque Fabre.
+<SPEECH*>Si no te importa, general Cecille.
+<SPEECH*>Sí, señor.
+<SPEECH*>(Bien, ahora tendré la\noportunidad de ser un héroe.)
+<SPEECH*>De acuerdo, Luke. \nCuando gustes.
+<SPEECH*>¡Sí, vamos!
+<SPEECH*>¿Así que... esto es Baticul?
+<SPEECH*>¿Qué?\nParece como si no lo\nhubieras visto nunca.
+<SPEECH*>¡Qué le voy a hacer!\n¡No me acuerdo!
+<SPEECH*>Vaya... Es cierto. No llegaste a salir\nal exterior tras perder la memoria.
+<SPEECH*>¡Guau, vaya ciudad! \n¡Llega altísimo!
+<SPEECH*>¡Aquí cabrían dos o tres\nBosques de los Cheagles! \n¡Incluso más!
+<SPEECH*>Construyeron esta ciudad en una\ndepresión del terreno que se creó cuando\ncayó una piedra fónica del cielo.
+<SPEECH*>Por lo que está protegida por paredes naturales.\nEs un diseño lógico.
+<SPEECH*>(Maldita sea...\nNo me siento como si hubiera vuelto a casa.)
+Mis más sinceras disculpas, pero Su\nMajestad le espera en el castillo.\nPor favor, vaya primero allí.
+¡Hey, es Guy!
+¡Guy! @ \n¿Cómo has estado? @
+¡Uah! \nSois vosotras, chicas...
+¡Tienes una reacciones tan monas! @
+P-Parad... parad ya...
+Vaya, eres un tipo con suerte.
+¡Jade! ¡No te quedes ahí parado!\n¡Luke! ¡Por favor, haz algo!
+Je je. ¡Diviértete!
+Ya sabes lo que dicen:\n"El que interfiera en los\nromances de otros, que le\ncocee un caballo y muera".
+¡Oh, vamos!\n¡No podéis dejarle así!
+Parad ya.\nLe estáis aterrorizando.
+¡Pero eso es lo genial! @
+¡Hasta luego, Guy!
+¡La próxima vez, preséntanos\na tus amigos!
+¡Gracias, Tear!
+¿Estás bien?
+¡¡Aaah!!
+Oh... Lo siento...
+Ya veo.\nÉsa es nuestra especialidad.
+Esperamos una buena recompensa por esto.
+Va a ser un gran trabajo, Noir.
+¿Qué pasa?\n¿Pensando en volver a robar?
+B-Bueno, pues eso es todo.\nMis excusas, Maestro Fónico.
+Vaya, ¿este chico es el\nmaestro fónico Ion?
+¡¿Qué quiere, señora?!
+Silencio, niñita. ¿O eres un niño? \nEs difícil decirlo.
+Tenemos en cartelera un gran espectáculo para críos.\nSeguro que te encantaría. Vámonos, chicos.
+¡Sí, señora!
+¡Sí, señora!
+¡¿Qué le pasa a esta gente?!\n¡Van vestidos como actores de circo!
+Ahora que lo dices, se parecen\na esa compañía circense,\n"El Sueño Negro".<PAGE>\nSólo les vi una vez hace mucho tiempo,\nasí que no estoy seguro, pero...
+¿Qué? \n¿Fuiste al circo\nsin decírmelo?
+Vaya, perdona...
+Me pregunto qué estarán haciendo.\nParece como si estuvieran planeando algo.
+Sí. \nY estaban interesados en el maestro\nfónico Ion, así que por favor, ten\ncuidado.
+De acuerdo. Lo tendré.
+<SPEECH*>El gran maestro Mohs está en una audiencia\ncon Su Majestad en este momento.\nDeberán esperar, por favor.
+<SPEECH*>Mohs es el tipo que intenta\nempezar la guerra, ¿no?
+<SPEECH*>¡Entremos allí antes de que le dé\na mi tío cualquier idea extraña!
+<SPEECH*>Por favor, deténgase.
+<SPEECH*>¡Soy Luke, hijo del duque Fabre!\n¡Métete en mi camino y haré que te despidan!
+<SPEECH*>Luke, ¿estás seguro de que está \nbien que nos abramos paso así?
+<SPEECH*>No pasa nada.
+<SPEECH*>El Imperio de Malkuth está reforzando\nlas defensas de su capital, Gran Chokmah.
+<SPEECH*>Con Engeve como base de abastecimiento,\nincluso San Binah está...
+<SPEECH*>¡¿Cómo os atrevéis?!\n¡¿Quién os ha dado permiso\npara entrar en el salón?!
+<SPEECH*>¡Cállate! \n¡Apártate de mi camino!
+<SPEECH*>¿Eres tú, Luke?\n¿El hijo de Susanne?
+<SPEECH*>Eso es, Tío.
+<SPEECH*>¡Ahh! Me informaron de lo que\npasó. Me alegra ver que has \nvuelto de Malkuth sano y salvo.
+<SPEECH*>Entonces, los que van contigo deben de ser...
+<SPEECH*>Maestro fónico Ion, de la Orden de Lorelei, \ny Jade, del ejército de Malkuth.
+<SPEECH*>Es un honor verle de nuevo, Su Majestad.\nSoy Ion.
+<SPEECH*>Maestro Fónico...\nTe hemos estado buscando...
+<SPEECH*>Mohs,\nhablaremos luego.
+<SPEECH*>Su Majestad, él es el coronel Jade Curtiss.\nRepresenta a Su Majestad Imperial, Peony IX.
+<SPEECH*>Es un honor estar en su presencia.
+<SPEECH*>Traigo una carta imperial de mi\nseñor para Su Gloriosa Majestad,\nel rey Ingobert VI.
+<SPEECH*>Tío, lo que dice Mohs no tiene sentido.\nYo fui y vi Malkuth con mis propios ojos.
+<SPEECH*>No nos acercamos a la capital, \npero Engeve y San Binah estaban\nabsolutamente tranquilos.
+<SPEECH*>¡¿Qué has dicho?!\nSólo trato de comunicarle a Su\nMajestad que el pacto que Malkuth...
+<SPEECH*>¡Cállate! \n¡Sólo estás intentando comenzar una guerra!\n¡Joder, si ni siquiera te conozco\ny ya estoy harto de ti!
+<SPEECH*>Luke, cálmate.\nLa carta de Malkuth ha llegado\nhasta aquí. No la ignoraré.
+<SPEECH*>Debéis estar cansados de vuestro largo viaje.\nPor favor, descansad un poco.
+<SPEECH*>Hemos preparado habitaciones en el\ncastillo para nuestros emisarios invitados.\nPor favor, permitidme que os escolte.
+<SPEECH*>Si puedo, me gustaría ver la mansión de Luke.
+<SPEECH*>Muy bien.\nCuando acabéis vuestro asuntos fuera,\nvolved al castillo, por favor.
+<SPEECH*>Tear, quédate aquí. Debo\nescuchar tu informe sobre el\nasunto que te asigné.
+<SPEECH*>Gran Maestro, es mi responsabilidad\ncomprobar que Luke llega a su casa \nsano y salvo.
+<SPEECH*>Volveré pronto con mi informe.
+<SPEECH*>Muy bien.
+<SPEECH*>Le pido permiso para salir, Su Majestad.
+<SPEECH*>Luke, Susanne está enferma.
+<SPEECH*>¡¿Madre está mala?!
+<SPEECH*>He enviado a Natalia para \nque esté con ella de mi parte.\nPor favor, cuídalas por mí.
+Natalia quería verte.
+Mis más sinceras disculpas por no \nreconocerle como hijo del duque Fabre.
+Oh... um... ¿Necesita ayuda, señorita?
+¡No! \nYo sólo... Qué uniforme más mono...
+¡Pero vamos, no digo que me \nlo quiera probar ni nada!\n¡De todos modos, me quedaría muy mal!
+¿Eh? ¿Te gustan las cosas bonitas, Tear? \nVaya sorpresa.
+¡No! \n¡Me quedaría muy mal!\nYo no...
+Oh, seguro que le\nquedaría divino, señorita.
+Yo también lo creo.
+¡¿Qué?!
+Sí, puede.\nDespués de todo, parece muy\nrecatada cuando tiene la boca cerrada.
+Creo que le sentaría bien, si\nquieres mi opinión...
+¡Señorito Luke!\n¡Hemos esperado su regreso!
+<SPEECH*>¡Padre!\nYa estoy en casa.
+<SPEECH*>La general Cecille me ha informado.\nMe alegra que estés a salvo.\nGracias por tu ayuda, Guy.
+<SPEECH*>Es un honor, señor.
+<SPEECH*>Veo que los emisarios vienen contigo.\nDebéis de estar cansados.\nPor favor, relajaos y poneos cómodos.
+<SPEECH*>Gracias.
+<SPEECH*>Por cierto, Luke, \n¿dónde está el general dórico Grants?
+<SPEECH*>¿El maestro Van? \nNos separamos en Chesedonia. \nDijo que vendría en barco detrás \nde nosotros.
+<SPEECH*>Duque Fabre... \nIré al puerto.
+<SPEECH*>Sí. Te dejo el asunto de Van a ti.\nYo iré al castillo.
+<SPEECH*>Tengo entendido que fue gracias \na ti que mi hijo acabara en la \notra punta del mundo.
+<SPEECH*>Le pido disculpas por los problemas que he causado.
+<SPEECH*>¿Eres la hermana de Van?
+<SPEECH*>Sí.
+<SPEECH*>Se me dijo que intentaste \nasesinarlo.
+<SPEECH*>¿O en realidad estabas\nconspirando con él?
+<SPEECH*>¿Conspirando?\nNo entiendo a qué se refiere.
+<SPEECH*>Bueno, dejaré el tema por ahora. \nVamos, General.
+<SPEECH*>Su Merced actúa de forma extraña.
+<SPEECH*>Me pregunto qué pasa con el maestro Van...
+<SPEECH*>Creo que deberíamos ir marchando.
+<SPEECH*>Ya que estás aquí, posiblemente\ndebas disculparte con la Señora también.
+<SPEECH*>Es muy posible que cayera enferma\npor la desaparición de Luke.
+<SPEECH*>Tienes razón. \nLo haré.
+<SPEECH*>¡Luke!
+<SPEECH*>Ugh...
+<SPEECH*>¡¿Qué clase de actitud es ésa?!\n¡¿Te das cuenta de lo preocupada que estaba?!
+<SPEECH*>Oh, bueno, ya sabes...\nLuke está abrumado, Alteza.
+<SPEECH*>¡Guy!\n¡Tú también me debes una explicación!
+<SPEECH*>¡Te dije que me avisaras antes\nde que te fueras a buscar a Luke!
+<SPEECH*>¿Por qué te fuiste\nsin decirme nada?
+<SPEECH*>¡Ya sabéis que un sirviente como yo\nno puede entrar en el castillo!
+<SPEECH*>¿Por qué te retiras?
+<SPEECH*>¡Vos sabéis por qué!
+<SPEECH*>Cuando me case con Luke, \ntambién serás mi sirviente.
+<SPEECH*>Acostúmbrate.
+<SPEECH*>¡No puedo!
+<SPEECH*>Eres raro. \nMira lo patético que eres. \nNo sé qué ven las criadas en ti.
+<SPEECH*>Siento lo de Van.
+<SPEECH*>¿Qué pasa con el maestro Van?
+<SPEECH*>Oh, ¿mi padre no te lo ha dicho?
+<SPEECH*>Sospechan que Van estaba\ndetrás de tu desaparición.
+<SPEECH*>Por eso me preguntó si yo\nestaba "conspirando" con él...
+<SPEECH*>¿Oh? \n¿Quién es ella?
+<SPEECH*>¡Luke! \n¡No me puedo creer que te hayas aprovechado\nde una de tus sirvientas!
+<SPEECH*>¡¿Qué?!\n¡Nunca tocaría a una \ntía tan fría como ésta!
+<SPEECH*>¡Además, no es ninguna sirvienta! \nEs la hermana del maestro Van.
+<SPEECH*>Ohh, así que tú eres la que \ncausó toda esta conmoción.\n"Tear", ¿me equivoco?
+<SPEECH*>¡Déjate de rollos!\n¡Dime qué le va a pasar al maestro Van!
+<SPEECH*>Seguramente le arrestarán tan pronto\ncomo pise Baticul. En el peor de los\ncasos, supongo que podrían ejecutarlo.
+<SPEECH*>¡Oh, no! ¡Ion!\n¡El Comandante está en peligro!
+<SPEECH*>Sí.\nDebemos hacer una protesta\ndesde Daath inmediatamente.
+<SPEECH*>¡Natalia! \n¡El maestro Van no tuvo nada que ver!\n¡Por favor, díselo a Tío!\n¡Tienes que salvarlo!
+<SPEECH*>Está bien... No te puedo negar\nun favor a ti, Luke.
+<SPEECH*>A cambio, por favor, date prisa\ny recuerda la promesa que hiciste.
+<SPEECH*>¡Ya te lo he dicho, no recuerdo que\nme declarara a ti cuando era pequeño!
+<SPEECH*>Sí, sí. Tu pérdida de memoria. Pero qué\nromántico sería si lo primero que recordaras\nfuera cómo te me declaraste. @
+<SPEECH*>¡Date prisa y ve a hablar con\nTío sobre el maestro Van!
+<SPEECH*>De verdad, qué malo eres.\nEstá bien.
+<SPEECH*>La princesa Natalia es guapa.\nEse vestido tan mono le quedaba bien...
+<SPEECH*>¿Eh? No es guapa, es cansina. \nSe queja de todo.
+<SPEECH*>Además, tú también eres guapa, Tear.
+<SPEECH*>Uh... gracias.
+<SPEECH*>L-Lo siento.\nLo he dicho sin pensar.
+<SPEECH*>No, no pasa nada. \nLo siento.
+<SPEECH*>¿Lo ves, Guy? Es por eso que las\nchicas vas detrás de ti. Es por la manera \nen que entras y sueltas cosas de ese tipo.
+<SPEECH*>Pero si sólo he dicho lo que pensaba...
+Bienvenido, señorito.
+Hey.
+¿Puedo preguntarle que animal es?...
+Es un cheagle.
+Ah, la bestia sagrada de la Orden de Lorelei...
+¡Soy Mieu!\n¡Encantado de conocerte!
+¡Ha habl... *ejem*!\nErm... encantado de conocerte... Mieu.
+Me sorprendió.\nEs como una mascota.
+Ya veo...
+Me pregunto qué debería preparar\npara las comidas de Mieu...
+¡Señorito Luke! \nMe tranquiliza verle a salvo.
+Oh, vaya, esa señorita que va con usted es...
+Perdón por los problemas que os causé...
+Es con la señora Fabre con quien\ndebería disculparse.
+Desde el incidente, cayó enferma de\ntanto preocuparse por el señorito Luke.
+Lo haré...
+¿Puedo ayudarle en algo?
+Soy Jade. Perdona que pregunte,\npero... ¿nos conocemos de antes?
+N-No, que yo recuerde...
+Ya veo...
+La casa estaba muy sola sin\nusted, señorito Luke.
+Bueno, Guy, no les\ncauses problemas.
+<SPEECH*>¡Oh, Luke!\n¿Eres tú de verdad?\nEstaba tan preocupada por ti.
+<SPEECH*>¡Estaba segura de que te\nhabían secuestrado otra vez!
+<SPEECH*>Estoy bien.\nAquí estoy, en casa de nuevo.
+<SPEECH*>Señora, le ruego que me perdone.
+<SPEECH*>Fui yo quien involucró a su hijo. \nIntenté atacar a mi hermano sin\npensar dónde estaba.
+<SPEECH*>¿Así que tú eres la hermana de Van, Tear?
+<SPEECH*>Sí.
+<SPEECH*>Ya veo... ¿Dices que lo que\npasó esta vez no fue obra de unos\nvillanos que iban tras mi hijo?
+<SPEECH*>Por Lorelei y Yulia,\nle juro que no.
+<SPEECH*>Gracias. Y Tear, no sé qué ha\npasado entre Van y tú,
+<SPEECH*>pero, por favor, no vuelvas a pensar\nen atacar a tu propio hermano. \nLas luchas entre familiares son demasiado tristes.
+<SPEECH*>Le agradezco sus gentiles palabras.
+<SPEECH*>Luke, has vuelto a mí.\nYa estoy bien. Ve y deja que\ntodos sepan que has vuelto.
+<SPEECH*>Oh... Vale...
+Hey, ve a ver primero a la princesa Natalia.\nSeguramente esté en el salón.
+Maldita sea, odio tratar con ella...
+¿Y si vas a ver a tu madre?
+Lo sé, lo sé.
+¿Estás cansado?\nPuedes descansar un poco.
+Sí, eso haré.\nEstoy bien.
+Sí, eso haré.
+Estoy bien.
+De acuerdo. Si te cansas,\nve a tu habitación.
+¡Señorito Luke! ¡Bienvenido!\n¡Y tú también, Guy!
+S-Sí...\n¿Mmm? ¿Estabas llorando? \nTienes los ojos rojos.
+¿Qué? Oh, cuando oí que el señorito Luke por\nfin había vuelto, me puse tan contenta...
+Eres tan simpático y\natento como siempre, Guy.
+¡A-Apártate!
+Dices esas cosas encantadoras\nsin darte cuenta, ¿verdad? @
+<SPEECH*>Bueno, creo me voy a marchar ya.
+<SPEECH*>También es hora de que nos vayamos nosotros.
+<SPEECH*>Luke... por favor, no me olvides. @
+<SPEECH*>Ha sido una experiencia fascinante.\nGracias.
+<SPEECH*>Nos vemos.
+<SPEECH*>Tengo que informar al gran maestro \nMohs, así que yo también me voy...
+<SPEECH*>Oh... vale...
+<SPEECH*>Tienes una madre muy buena.\nAsegúrate de cuidarla bien.
+<SPEECH*>No estás en muy buena\nposición para decirme eso.
+<SPEECH*>Supongo que tienes razón.\nAdiós.
+<SPEECH*>Hey, espera.
+<SPEECH*>¿Sí?
+<SPEECH*>No le des muchas vueltas al tema.
+<SPEECH*>Madre cayó enferma porque, para\nempezar, es muy delicada.
+<SPEECH*>Gracias...
+<SPEECH*>Los Caballeros Blancos se molestaron\nporque dejaron tu búsqueda en manos\nde un "simple sirviente" como yo.
+<SPEECH*>Es hora de hacer la pelota\nmientras doy mi informe.
+Tenemos que llevarle la carta a mi tío.
+Démonos prisa y entreguemos la carta.
+Espera, primero tenemos que entregar la carta.
+Vamos a entregar la carta.
+Démonos prisa y entreguemos la carta.
+Volvamos a la mansión por ahora.
+Es mi deber comprobar que Luke\nvuelve a su mansión a salvo.
+Volvamos directamente\na la mansión.
+Venga, vamos a la\nmansión de Luke.
+Me pregunto cómo será la\nmansión de Luke.\n¡Tengo muchas ganas de verla! ~
+Ya está bien por hoy, volvamos a la mansión.
+Acabamos de regresar de un largo viaje.\nNo deberíamos volver a salir inmediatamente.
+Volvamos a la mansión.
+Creo que lo mejor ahora sería\nvolver a la mansión.
+Quiero ver la mansión de\nLuke un rato más. @
+Me pregunto qué querrá\nNatalia de mí.<PAGE>\nBah, en fin. Supongo que iré\nal castillo a averiguarlo.
+Tenemos que ir a Belkend para\nobtener información de Van.
+Esto no es Belkend.\nVolvamos.
+Vamos a Belkend.\nHay algo que quiero investigar.
+Nos dirigimos a Belkend, ¿no?
+Primero vayamos a Belkend,\ncomo sugirió Asch.
+No me interesa ir a los\nniveles superiores.\nNos vamos ya a Belkend.
+Tenemos que ir a Belkend a\nbuscar información sobre Van.\nNosotros vamos ya al puerto.
+Iremos a Belkend en\nel Tartarus, ¿no?\nPues vamos.
+Volvamos al Tartarus. \nNo puedo recomendar\nir a Belkend a pie.
+Iremos a Belkend en\nel Tartarus, ¿no?\nVolvamos al puerto.
+Si vamos a Belkend, lo más\nseguro es ir por el mar.
+Ahora nos vamos a la caverna de Ortion.
+La caverna de Ortion es nuestro destino,\n¿correcto? En marcha...
+Démonos prisa en ir a la caverna\nde Ortion y encarguémonos de esto.
+La caverna de Ortion está en el territorio\nde Kimlasca, en el continente radessiano.
+No me interesa ir a los niveles\nsuperiores. Nos vamos ya\na la caverna de Ortion.
+No podemos ir andando a\nla caverna de Ortion.\nVolvamos al Tartarus.
+Si vamos a la caverna de Ortion,\ncojamos el Tartarus.
+Vamos a la caverna de Ortion, ¿no?\nVolvamos al Tartarus, ¿vale?
+Volvamos al Tartarus.\nSólo así podremos llegar a la caverna de Ortion.
+Hey, espera, ¿vas a entrar a la ciudad?\nNo deberías quedarte hasta muy tarde.
+Esta bien pasear un poco, pero\nvuelve a tu habitación cuando\nempieces a cansarte.
+¡Lo sé, lo sé!\n 
+Se supone que tenemos que ir a Gran\nChokmah por el puente de Rotelro.
+Vamos a ver al emperador\nPeony en Gran Chokmah.
+Vamos a Gran Chokmah,\nno a Baticul.
+Podemos ir a Gran Chokmah a pie\npor el puente de Rotelro.
+Vamos a Gran Chokmah desde el\npuente de Rotelro, ¿verdad?
+Quiero volver a Baticul, pero\nprimero tenemos que informar\nal emperador Peony.

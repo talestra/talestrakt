@@ -1,0 +1,292 @@
+-> Backstep
+Use "<BUTTON:SQUARE>+<BUTTON:BACKWARD> (Backward)" to backstep.
+
+-> Recover
+Prevent being knocked down with <BUTTON:SQUARE> when knocked
+away by an enemy.
+
+-> Critical Guard
+"<BUTTON:SQUARE>+<BUTTON:FORWARD> (Forward)" reduces the damage from 
+enemy physical attacks.
+
+-> Magic Guard
+"<BUTTON:SQUARE>+<BUTTON:DOWN> (Down)" reduces the effect of 
+enemy magical attacks.
+
+-> Free Run
+Hold the <BUTTON:L2> button to move around freely with <BUTTON:LEFTSTICK>.
+
+-> Over Limit
+Go into Over Limit with <BUTTON:R2> when the gauge is full.
+
+-> Taunt
+When the gauge is not full, use <BUTTON:R2> to increase
+Over Limit by a fixed amount.
+
+-> Special
+While in Over Limit, hold <BUTTON:CROSS> after using an arcane 
+arte or use a high fonic arte to cast a mystic arte.
+
+-> Combo Force
+Mitigates damage from a basic combo attack.
+
+-> Power Charge
+Hold <BUTTON:DOWN> (Down) while taking no action 
+to temporarily increase P. ATK.
+
+-> Critical Up
+Increases chance of inflicting Critical Damage.
+
+-> Heavy Hit
+Increases chance to stun an enemy with 
+a physical attack.
+
+-> Add Combo
+<BUTTON:CROSS> links 4 basic attacks.
+
+-> Add Combo 2
+<BUTTON:CROSS> links 5 basic attacks.
+
+-> Add Combo 3
+<BUTTON:CROSS> links 6 basic attacks.
+
+-> Add Combo 4
+<BUTTON:CROSS> links 7 basic attacks.
+
+-> Roll
+Decreases incidental damage taken when knocked
+to the ground.
+
+-> Guard Plus
+Decreases damage taken while guarding.
+
+-> Rear Guard 1
+Reduces the chance of an enemy causing 
+Guard Break.
+
+-> Void Attack
+Occasionally will not stagger when receiving 
+a physical attack.
+
+-> Immunity
+Decreases the chance of receiving status effects.
+
+-> Endure
+Decreases amount of time needed to recover
+from a stagger hit.
+
+-> Critical Magic
+Inflict Critical Damage when casting a spell attack.
+
+-> Lucky End
+Decreases the amount of time of being unable to
+move after casting a spell.
+
+-> Heavy Magic
+Increase chance to stun the enemy with
+a spell attack.
+
+-> Lucky Magic
+Occasionally decreases the amount of TP 
+consumption when casting a spell.
+
+-> Speed Cast
+Decreases spell casting time.
+
+-> Magic Charge
+Hold <BUTTON:DOWN> (Down) while taking no action 
+to temporarily increase F. ATK.
+
+-> Void Magic
+Occasionally will not stagger when receiving 
+a spell attack.
+
+-> Resist
+Occasionally prevents status effects.
+
+-> Anti Element
+Occasionally decreases damage from an
+elemental attack by half.
+
+-> Magic Guard Plus
+Reduces damage received while using Magic Guard.
+
+-> Stat Boost
+Increases the effect of magical status boosts.
+
+-> Life Up
+Occasionally increases Max HP after battle.
+
+-> Spirit Healer
+Increases amount of TP recovered after a battle.
+
+-> Happiness
+Occasionally increases EXP after battle.
+
+-> Life Healer
+Recover HP after a battle.
+
+-> Mind Up
+Occasionally increases Max TP after battle.
+
+-> HP Recovery
+Increases effectiveness of HP recovery.
+
+-> TP Recovery
+Increases effectiveness of TP recovery.
+
+-> EXP Plus
+Increases amount of EXP earned after a battle.
+
+-> Dash
+Increases mobility during battle.
+
+-> Run Away!
+Reduces the time needed to escape. Doubling up with
+other characters increases effectiveness.
+
+-> Comeback
+Tap <BUTTON:SQUARE> repeatedly to shorten the stagger period.
+
+-> Item Pro
+Decreases the amount of time character is unable
+to move after using items.
+
+-> O.L. Boost
+Increases the duration of Over Limit.
+
+-> Landing
+Decreases amount of time character is unable to
+move after landing.
+
+-> Quick Turn
+Able to turn around instantly even when dashing.
+
+-> Aerial Jump
+Jump in midair.
+
+-> Rebound
+Able to attack during the effects of Recover.
+
+-> Jump Combo
+Hit <BUTTON:CROSS> to link attacks after landing from a jump attack.
+
+-> C. Combo
+Able to link combo attacks to Counter.
+
+-> C. Counter
+Damage increases when attack hits an attacking enemy.
+
+-> Counter
+Hit <BUTTON:CROSS> as soon as the character guards to 
+attack without any lag time.
+
+-> E. Plus
+Occasionally increases damage of elemental attacks.
+
+-> Flash
+Impervious to stagger when hit between special
+combo attacks.
+
+-> Step Away
+Avoid staggering if hit during Backstep.
+
+-> Neutralizer
+Occasionally nullifies a physical attack.
+
+-> Resurrect
+Occasionally revive automatically.
+
+-> Reflect
+Occasionally reflects damage from an attack
+while guarding.
+
+-> Nullify
+Occasionally nullifies a spell attack.
+
+-> Lucky Soul
+Occasionally recover TP when knocked to the ground.
+
+-> Blood Spirit
+Recover TP for the amount of hits received 
+when attacked with a combo.
+
+-> Skill Guard
+Hit <BUTTON:SQUARE>+<BUTTON:DOWN> (Down) to use Guardian.
+
+-> Rebirth
+Gradually recover HP equal to half of the last
+damage received.
+
+-> Angel's Tear
+Revive automatically once per battle.
+
+-> Glory
+Avoid staggering from all attacks.
+
+-> Reprise
+Reduce casting time when a spell is used twice in a row.
+
+-> Spell Save
+Decreases casting time of the same spell if the spell is
+interrupted by an enemy.
+
+-> Reducer
+Decreases TP consumption when a spell is
+used twice in a row.
+
+-> Rhythm
+Tap <BUTTON:CROSS> repeatedly while casting spells 
+to decrease casting time.
+
+-> Dash Guard
+Avoid staggering when hit with magic while dashing.
+
+-> Item Master
+Increase the effectiveness of items used during a battle.
+
+-> Pow Hammer
+Occasionally counter with Pow Hammer when attacked.
+
+-> Auto Aid
+Occasionally cast First Aid automatically when damaged.
+
+-> Ability Plus
+Follow a base arte with a second base 
+arte once per combo.
+
+-> Item Getter
+Increases chance of acquiring items. Doubling up 
+with other characters increases effectiveness.
+
+-> Item Rover
+Increases chance of stealing an item.
+
+-> Status Guard
+Reduces the effect of magical ailments.
+
+-> Resilience
+Avoid staggering while casting a spell.
+
+-> Super Chain
+Able to link arcane and base artes.
+
+-> Rear Guard 2
+Prevents Guard Break.
+
+-> Condition Guard
+Reduces the effects of physical ailments.
+(Poison, Weak).
+
+-> Back Action
+Able to take action immediately after Backstep.
+
+-> Item Thrower
+Able to use items on an ally.
+
+-> Long Step
+Increases the stepping distance of Backstep.
+
+-> Magic End
+Able to move immediately after casting a spell.
+

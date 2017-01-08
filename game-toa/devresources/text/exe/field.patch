@@ -1,0 +1,74 @@
+B:64B880
+
+### LOCATIONS ###
+
+R:006C3300-006C3314
+R:006C3320-006C3334
+R:006C3340-006C3355
+R:006C3360-006C3375
+R:006C3378-006C3383
+R:006C3388-006C3391
+R:006C33A0-006C33B1
+R:006C33C0-006C33D5
+R:006C33D8-006C33E1
+R:006C33F0-006C3403
+R:006C3408-006C3415
+R:006C3420-006C3435
+R:006C3440-006C3453
+R:006C3460-006C3470
+R:006C3470-006C3481
+R:006C3488-006C3494
+R:006C34A0-006C34B1
+R:006C34B8-006C34C1
+R:006C34C8-006C34D0
+R:006C34D0-006C34E0
+R:006C34E0-006C34EF
+
+T:006C1370:West Rugnica Plains
+T:006C1374:East Rugnica Plains
+T:006C1378:South Rugnica Plains
+T:006C137C:East Aberrian Plains
+T:006C1380:Zao Desert
+T:006C1384:Zao Desert
+T:006C1388:Padamiya
+T:006C138C:Tuft Archipelago
+T:006C1390:North Rugnica Plains
+T:006C1394:North Rugnica Plains
+T:006C1398:Radessia
+T:006C13B0:Radessia
+T:006C13B8:Radessia
+T:006C13D0:Radessia
+T:006C13D4:Radessia
+T:006C139C:Meggiora Highlands
+T:006C13B4:Meggiora Highlands
+T:006C13A0:Inista Marsh
+T:006C13A4:West Aberrian Plains
+T:006C13A8:Ispanian Peninsula
+T:006C13AC:Qiubi Peninsula
+T:006C13BC:West Isle of Hod
+T:006C13C0:Isle of Hod
+T:006C13C4:Roneal Mountains
+T:006C13C8:Roneal Mountains
+T:006C13CC:Qliphoth
+T:006C13D8:Sylvana
+T:006C13DC:Absorption Gate
+T:006C13E0:Radiation Gate
+
+### MISC ###
+
+R:006C34F0-006C34FD
+R:006C3500-006C3517
+R:006C3520-006C3544
+R:006C3550-006C356B
+R:006C3570-006C357A
+R:006C3580-006C358B
+
+T:006C13F0: obtenido \n
+T:006C13F4:No has encontrado nada.
+T:006C13F8:El grupo siente\nuna presencia maligna.
+T:006C13FC:La presencia maligna ha desaparecido.
+T:006C1400: encontrado \n
+T:006C1404:Subir/Bajar
+
+F:006C35A0:60:Con el poder de la Gran\npiedra voladora, el Albiore ahora\npuede aterrizar en mas áreas.\n
+F:006C3600:F0:Con el poder de la Piedra\nvoladora refinada, el Albiore puede crear un\ncampo de fuerza que le permite\natravesar barreras al volar con altas velocidades.\x0CEl campo de fuerza únicamente aparece al volar\nhacia delante.\x0CEl Albiore también puede mas áreas.\n
