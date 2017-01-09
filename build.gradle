@@ -4,6 +4,7 @@
 repositories {
 	mavenLocal()
 	maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+	maven { url "https://dl.bintray.com/soywiz/soywiz-maven" }
 	mavenCentral()
 }
 
@@ -11,6 +12,7 @@ buildscript {
 	repositories {
 		mavenLocal()
 		maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
+		maven { url "https://dl.bintray.com/soywiz/soywiz-maven" }
 		mavenCentral()
 	}
 	dependencies {
