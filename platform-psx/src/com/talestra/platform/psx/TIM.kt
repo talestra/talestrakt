@@ -8,7 +8,6 @@ import com.soywiz.korim.color.ColorFormatBase
 import com.soywiz.korim.format.ImageFormat
 import com.soywiz.korim.format.ImageFrame
 import com.soywiz.korim.format.ImageInfo
-import com.soywiz.korio.serialization.xml.Xml2
 import com.soywiz.korio.stream.SyncStream
 import com.soywiz.korio.stream.readBytes
 import com.soywiz.korio.stream.readS32_le

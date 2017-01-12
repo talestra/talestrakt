@@ -98,7 +98,7 @@ fun main(argv: Array<String>) {
 			when (action) {
 				ACTION.ENCODE -> {
 					if (dparams[0] != dparams[1]) {
-						EncodeFile(dparams[0], dparams[1], raw, modifier)
+						OldCompTalesOfLLib.EncodeFile(dparams[0], dparams[1], raw, modifier)
 					} else {
 						System.err.println("Can't use same file for input and output")
 						retval = retval or -1
@@ -106,7 +106,7 @@ fun main(argv: Array<String>) {
 				}
 				ACTION.DECODE -> {
 					if (dparams[0] != dparams[1]) {
-						DecodeFile(dparams[0], dparams[1], raw, modifier)
+						OldCompTalesOfLLib.DecodeFile(dparams[0], dparams[1], raw, modifier)
 					} else {
 						System.err.println("Can't use same file for input and output")
 						retval = retval or -1
@@ -114,16 +114,16 @@ fun main(argv: Array<String>) {
 				}
 				ACTION.PROFILE -> {
 					if (arg.length < 0x900) {
-						ProfileStart("$arg.profile")
-						DecodeFile(dparams[0], null, raw, modifier)
-						ProfileEnd()
+						OldCompTalesOfLLib.ProfileStart("$arg.profile")
+						OldCompTalesOfLLib.DecodeFile(dparams[0], null, raw, modifier)
+						OldCompTalesOfLLib.ProfileEnd()
 					}
 				}
 				ACTION.BDUMP -> {
-					DumpTextBuffer(dparams[0])
+					OldCompTalesOfLLib.DumpTextBuffer(dparams[0])
 				}
 				ACTION.TEST -> {
-					CheckCompression(dparams[0], modifier)
+					OldCompTalesOfLLib.CheckCompression(dparams[0], modifier)
 				}
 				ACTION.HELP -> {
 					show_help()
