@@ -1,5 +1,6 @@
 package com.talestra.tod
 
+import com.soywiz.korim.format.readBitmap
 import com.soywiz.korim.format.readNativeImage
 import com.soywiz.korim.geom.Anchor
 import com.soywiz.korim.geom.ScaleMode
@@ -20,16 +21,16 @@ import com.soywiz.korui.ui.*
 object TodPatcher {
 	@JvmStatic fun main(args: Array<String>) = EventLoop.main {
 		val resources = ResourcesVfs["com/talestra/tod"]
-		val bmp = resources["logo.png"].readNativeImage()
-		val icon = ICO.decode(resources["icon.ico"].readAsSyncStream())
+		val bmp = resources["logo.png"].readBitmap()
+		val icon = resources["icon.ico"].readBitmap()
 		Application().frame("Tales of Destiny en español - v1.0", width = 640, height = 480, icon = icon) {
 			padding.setTo(8.pt)
 			vertical {
 				layersKeepAspectRatio(anchor = Anchor.BOTTOM_RIGHT, scaleMode = ScaleMode.COVER) {
 					width = 100.percent
 					height = 30.vh
-					//image(bmp)
-					image(icon)
+					image(bmp)
+					//image(icon)
 				}
 				//padding.setTo(6.pt)
 				label("ISO:")
