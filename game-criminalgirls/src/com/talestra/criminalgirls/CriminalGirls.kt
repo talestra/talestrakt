@@ -22,7 +22,7 @@ fun main(args: Array<String>) = sync {
 }
 
 fun decodeTest() {
-	val png = PNG.decode(File("c:/temp/crim/tomoe1.imy.png"))
+	val png = PNG().decode(File("c:/temp/crim/tomoe1.imy.png"))
 	awtShowImage(png)
 }
 
@@ -30,7 +30,7 @@ fun encodeTest() {
 	val out = IMY.decode(File("c:/temp/crim/title.0001.imy"))
 	awtShowImage(out)
 	val reencoded = IMY.encode(out)
-	File("c:/temp/crim/title.0001.imy.8.png").writeBytes(PNG.encode(out))
+	File("c:/temp/crim/title.0001.imy.8.png").writeBytes(PNG().encode(out))
 	File("c:/temp/crim/title.0001.imy.rec").writeBytes(reencoded)
 	val redecoded = IMY.decode(reencoded)
 	awtShowImage(redecoded)
@@ -66,7 +66,7 @@ fun dumpTest() = sync {
 			val png = parent[f.path + ".png"]
 			if (!png.exists()) {
 				//if (true) {
-				png.write(PNG.encode(IMY.read(f.read().openSync())))
+				png.write(PNG().encode(IMY.read(f.read().openSync())))
 			}
 		}
 	}

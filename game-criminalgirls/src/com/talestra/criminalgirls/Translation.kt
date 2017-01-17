@@ -2,6 +2,7 @@ package com.talestra.criminalgirls
 
 import com.soywiz.korim.bitmap.Bitmap8
 import com.soywiz.korim.format.PNG
+import com.soywiz.korim.format.readBitmapNoNative
 import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.stream.*
@@ -60,7 +61,7 @@ object Translation {
 		print("Patching '$original'... ${ss.getLength()}")
 		val ORIGINAL = IMY.decode(ss.slice().readAll())
 		val ORIGINAL_HAS_PALETTE = ORIGINAL is Bitmap8
-		val TRANSLATED = PNG.read(resources["images/$png"].read());
+		val TRANSLATED = resources["images/$png"].readBitmapNoNative()
 		val TRANSLATED_HAS_PALETTE = TRANSLATED is Bitmap8
 
 		if (ORIGINAL_HAS_PALETTE != TRANSLATED_HAS_PALETTE) {

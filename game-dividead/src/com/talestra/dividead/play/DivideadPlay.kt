@@ -4,8 +4,8 @@ import com.jtransc.annotation.JTranscKeep
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.bitmap.BitmapChannel
 import com.soywiz.korim.color.Colors
+import com.soywiz.korim.font.BitmapFontGenerator
 import com.soywiz.korim.font.drawText
-import com.soywiz.korim.font.nativeFonts
 import com.soywiz.korim.format.readBitmap
 import com.soywiz.korim.geom.Anchor
 import com.soywiz.korim.geom.ScaleMode
@@ -112,8 +112,6 @@ object DivideadPlay {
 			}
 		}
 
-		val font = nativeFonts.getNativeFont("Arial", 15.0)
-
 		var chars = ""
 		chars += ('A'..'Z').joinToString("")
 		chars += ('a'..'z').joinToString("")
@@ -128,7 +126,7 @@ object DivideadPlay {
 		chars += " \t"
 		chars += ".,;:"
 
-		val bmpFont = font.getGlyphs(chars)
+		val bmpFont = BitmapFontGenerator.generate("Arial", 15, chars)
 		//println(aGlyph)
 		//println(aGlyph.data.toList())
 

@@ -1,6 +1,8 @@
 package com.talestra.shny.play
 
 import com.soywiz.korim.awt.awtShowImage
+import com.soywiz.korim.format.ImageFormats
+import com.soywiz.korim.format.readBitmap
 import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.invokeSuspend
 import com.talestra.platform.psp.GIM
@@ -77,7 +79,7 @@ class ScriptExecutor(
 
 	@Script.Action(Script.Opcode.BG_PRELOAD) suspend fun BG_PRELOAD(type: Int, str: String, param: Int) = asyncFun {
 		if (str != "") {
-			val image = com.talestra.platform.psp.GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readAsSyncStream())
+			val image = iso.root["PSP_GAME/USRDIR/data/bg/$str"].readBitmap()
 			//showImage(image)
 		}
 	}
@@ -87,12 +89,12 @@ class ScriptExecutor(
 	}
 
 	@Script.Action(Script.Opcode.BACKGROUND) suspend fun BACKGROUND(str: String, p1: Int, p2: Int, p3: Int, p4: Int, p5: Int) = asyncFun {
-		val image = com.talestra.platform.psp.GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readAsSyncStream())
+		val image = iso.root["PSP_GAME/USRDIR/data/bg/$str"].readBitmap()
 		awtShowImage(image)
 	}
 
 	@Script.Action(Script.Opcode.BACKGROUND2) suspend fun BACKGROUND2(p1: Int, str: String) = asyncFun {
-		val image = com.talestra.platform.psp.GIM.read(iso.root["PSP_GAME/USRDIR/data/bg/$str"].readAsSyncStream())
+		val image = iso.root["PSP_GAME/USRDIR/data/bg/$str"].readBitmap()
 		awtShowImage(image)
 	}
 
@@ -121,7 +123,7 @@ class ScriptExecutor(
 	@Script.Action(Script.Opcode.CHARA_PUT) suspend fun CHARA_PUT(kind: Int, charaId: Int, p2: Int, p3: Int, p4: Int, p5: Int, p6: Int) = asyncFun {
 		val charaName = "bu%02d_a%02d.gim".format(charaId, state.chars[charaId].suit)
 
-		awtShowImage(com.talestra.platform.psp.GIM.read(iso.root["PSP_GAME/USRDIR/data/bu/$charaName"].readAsSyncStream()))
+		awtShowImage(iso.root["PSP_GAME/USRDIR/data/bu/$charaName"].readBitmap())
 		//showImage(GIM.read(iso.root["PSP_GAME/USRDIR/data/bu/bu02_ak.gim"].open2("r")))
 		//PKG.read(iso.root["PSP_GAME/USRDIR/data/bu/bu02_ak.pkg"].open2("r"))
 	}

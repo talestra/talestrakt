@@ -7,6 +7,7 @@ import com.soywiz.korim.bitmap.Bitmap8
 import com.soywiz.korim.color.RGBA
 import com.soywiz.korim.color.RGBA_4444
 import com.soywiz.korim.format.ImageFormat
+import com.soywiz.korim.format.ImageFrame
 import com.soywiz.korio.stream.*
 import com.talestra.rhcommon.lang.invalidOp
 import com.talestra.rhcommon.lang.isPowerOfTwo
@@ -83,7 +84,11 @@ object IMY : ImageFormat() {
 		}
 	}
 
-	override fun write(bitmap: Bitmap, s: SyncStream) {
+	override fun writeFrames(frames: List<ImageFrame>, s: SyncStream, filename: String) {
+		write(frames.first().bitmap, s)
+	}
+
+	fun write(bitmap: Bitmap, s: SyncStream) {
 		val bpp = if (bitmap is Bitmap8) 1 else 2
 		val bitsPerPixel = bpp * 8
 		val hasPalette = bitmap is Bitmap8
@@ -190,9 +195,13 @@ object IMY : ImageFormat() {
 		s.writeToAlign(4, 0x00)
 	}
 
+	override fun readFrames(s: SyncStream, filename: String): List<ImageFrame> {
+		return listOf(ImageFrame(read(s, filename)))
+	}
+
 	// This includes a compression algorithm? Must disasm executable to find out (font_xx.imy have different sizes)
 	// Already found at 0x810E3DAC
-	override fun read(s: SyncStream): Bitmap {
+	fun read(s: SyncStream): Bitmap {
 		if (s.readStringz(4) != "com.talestra.criminalgirls.IMY") invalidOp("Not an com.talestra.criminalgirls.IMY file")
 		val uncompressedSize = s.readS32_le()
 		val width = s.readU16_le()

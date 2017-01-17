@@ -12,3 +12,13 @@ jar {
 		configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
 	}
 }
+
+task criminalGirlsTool(type: Jar) {
+	baseName = project.name + '-all'
+	from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+	with jar
+	manifest {
+		//attributes 'Implementation-Title': 'Gradle Quickstart', 'Implementation-Version': version
+		attributes 'Main-Class': 'com.talestra.criminalgirls.CriminalGirlsTool'
+	}
+}

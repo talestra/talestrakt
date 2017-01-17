@@ -2,4 +2,5 @@ apply from: '../include.gradle'
 
 dependencies {
 	compile project(':common-vnovel')
+	compile project(':platform-psp')
 }
