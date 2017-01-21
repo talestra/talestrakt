@@ -1,6 +1,5 @@
 package com.talestra.criminalgirls
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.AsyncStream
 import com.soywiz.korio.stream.readS64_le
 import com.soywiz.korio.stream.readStringz
@@ -10,7 +9,7 @@ import com.soywiz.korio.vfs.VfsFile
 import com.talestra.rhcommon.lang.invalidOp
 
 object PS3FS {
-	suspend fun read(s: AsyncStream): VfsFile = asyncFun {
+	suspend fun read(s: AsyncStream): VfsFile {
 		val magic = s.readStringz(8)
 		if (magic != "PS3FS_V1") invalidOp("Not a PS3FS_V1")
 		val count = s.readS64_le()
@@ -24,9 +23,9 @@ object PS3FS {
 			out[name] = data
 			//File("c:/temp/crim/$name").writeBytes(data.readAll())
 		}
-		MemoryVfs(out)
+		return MemoryVfs(out)
 	}
 }
 
 suspend fun AsyncStream.openAsPs3Fs() = PS3FS.read(this)
-suspend fun VfsFile.openAsPs3Fs() = asyncFun { PS3FS.read(this.open()) }
+suspend fun VfsFile.openAsPs3Fs() = PS3FS.read(this.open())

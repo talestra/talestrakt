@@ -1,11 +1,10 @@
 package com.talestra.platform.n3ds
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.*
 
 // https://www.3dbrew.org/wiki/ExeFS
 object N3dsExtFS {
-	suspend fun read(s: AsyncStream) = asyncFun {
+	suspend fun read(s: AsyncStream) {
 		val header = s.readBytes(0x200).openSync()
 		for (n in 0 until 10) {
 			val filename = header.readStringz(8)

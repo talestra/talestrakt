@@ -1,9 +1,7 @@
 package com.talestra.criminalgirls
 
 import com.soywiz.korim.bitmap.Bitmap8
-import com.soywiz.korim.format.PNG
 import com.soywiz.korim.format.readBitmapNoNative
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.ResourcesVfs
@@ -18,7 +16,7 @@ object Translation {
 
 	data class CharMap(val from: Char, val to: Char, val width: Int)
 
-	suspend fun translate(mod: AsyncStream) = asyncFun {
+	suspend fun translate(mod: AsyncStream) {
 		val root = PS3FS.read(mod)
 
 		patchImage(root, "bt_ui05.0000.imy")
@@ -52,11 +50,11 @@ object Translation {
 	}
 	val charMap by lazy { charMapList.associate { it.from to it.to } }
 
-	suspend fun patchImage(root: VfsFile, original: String) = asyncFun {
+	suspend fun patchImage(root: VfsFile, original: String) {
 		patchImage(root, "$original.png", original)
 	}
 
-	suspend fun patchImage(root: VfsFile, png: String, original: String) = asyncFun {
+	suspend fun patchImage(root: VfsFile, png: String, original: String) {
 		val ss = root[original]!!.open(VfsOpenMode.WRITE).slice()
 		print("Patching '$original'... ${ss.getLength()}")
 		val ORIGINAL = IMY.decode(ss.slice().readAll())
@@ -75,7 +73,7 @@ object Translation {
 		println("...Ok")
 	}
 
-	suspend fun updateFontDatWidths(root: VfsFile) = asyncFun {
+	suspend fun updateFontDatWidths(root: VfsFile) {
 		val file = root["font.bin"]
 
 		val map = charMapList.associate { it.to to it }
@@ -92,7 +90,7 @@ object Translation {
 		}
 	}
 
-	suspend fun translateText(root: VfsFile) = asyncFun {
+	suspend fun translateText(root: VfsFile) {
 		val charMap = this.charMap
 		for (file in root.listRecursive()) {
 			val name = file.basename

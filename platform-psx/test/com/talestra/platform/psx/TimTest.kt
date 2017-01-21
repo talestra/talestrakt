@@ -1,14 +1,10 @@
 package com.talestra.platform.psx
 
-import com.soywiz.korim.awt.awtShowImage
 import com.soywiz.korim.bitmap.Bitmap
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.format.ImageFormat
-import com.soywiz.korim.format.PNG
 import com.soywiz.korim.format.readBitmap
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.sync
-import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.ResourcesVfs
 import com.soywiz.korio.vfs.VfsFile
 import org.junit.Assert
@@ -28,6 +24,6 @@ class TimTest {
 	}
 }
 
-suspend fun VfsFile.writeBitmap(bitmap: Bitmap, format: ImageFormat) = asyncFun {
+suspend fun VfsFile.writeBitmap(bitmap: Bitmap, format: ImageFormat) {
 	this.write(format.encode(bitmap))
 }

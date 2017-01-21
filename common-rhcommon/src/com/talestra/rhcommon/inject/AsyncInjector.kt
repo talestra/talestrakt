@@ -1,7 +1,5 @@
 package com.talestra.rhcommon.inject
 
-import com.soywiz.korio.async.asyncFun
-
 @Target(AnnotationTarget.CLASS)
 annotation class Prototype
 
@@ -25,8 +23,8 @@ class AsyncInjector {
 	}
 
 	@Suppress("UNCHECKED_CAST")
-	suspend fun <T : Any?> get(clazz: Class<T>): T = asyncFun {
-		if (instances.containsKey(clazz) || clazz.getAnnotation(Singleton::class.java) != null) {
+	suspend fun <T : Any?> get(clazz: Class<T>): T {
+		return if (instances.containsKey(clazz) || clazz.getAnnotation(Singleton::class.java) != null) {
 			if (!instances.containsKey(clazz)) {
 				val instance = create(clazz)
 				instances[clazz] = instance
@@ -38,7 +36,7 @@ class AsyncInjector {
 	}
 
 	@Suppress("UNCHECKED_CAST")
-	suspend fun <T : Any?> create(clazz: Class<T>) = asyncFun {
+	suspend fun <T : Any?> create(clazz: Class<T>): T {
 		val constructor = clazz.declaredConstructors.first()
 		val out = arrayListOf<Any>()
 		for (paramType in constructor.parameterTypes) {
@@ -54,7 +52,7 @@ class AsyncInjector {
 				throw e
 			}
 		}
-		instance
+		return instance
 	}
 }
 

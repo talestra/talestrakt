@@ -1,9 +1,9 @@
 package com.talestra.games.toa.n3ds
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.serialization.binary.*
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.MemoryVfs
+import com.soywiz.korio.vfs.VfsFile
 
 // NAME_HASH -> FILE_ENTRY -> SLICE
 object TOFHDB {
@@ -30,7 +30,7 @@ object TOFHDB {
 		@Order(4) @Count(12) @Encoding("UTF-8") val extension: String
 	) : Struct
 
-	suspend fun read(dbs: AsyncStream, dat: AsyncStream) = asyncFun {
+	suspend fun read(dbs: AsyncStream, dat: AsyncStream): VfsFile {
 		val dbss = dbs.readAll().openSync()
 		val header = dbss.readStruct<Header>()
 
@@ -59,7 +59,7 @@ object TOFHDB {
 		//}
 		//println(files.values.toList()[100].readAll().size)
 
-		MemoryVfs(files.map { it.name to it.s }.toMap())
+		return MemoryVfs(files.map { it.name to it.s }.toMap())
 		//for ((name, data) in files) {
 		//	println("$name: ${data.getLength()}")
 		//}

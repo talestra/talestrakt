@@ -1,7 +1,6 @@
 package com.talestra.yume.formats
 
 import com.soywiz.korio.async.AsyncSequence
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.asyncGenerate
 import com.soywiz.korio.async.toList
 import com.soywiz.korio.stream.*
@@ -33,7 +32,7 @@ object ARC : PackageReader {
 		this.write32_le(v.offset)
 	}
 
-	suspend override fun read(s: AsyncStream): VfsFile = asyncFun {
+	suspend override fun read(s: AsyncStream): VfsFile {
 		val extensionCount = s.readS32_le()
 		val extensionData = s.readBytes(extensionCount * 12).openSync()
 		val exts = (0 until extensionCount).map {
@@ -51,14 +50,14 @@ object ARC : PackageReader {
 			refs.map { "${it.name}.${ext.name}".trim().toUpperCase() to s.sliceWithSize(it.offset.toLong(), it.size.toLong()) }
 		}.toMap()
 
-		object : Vfs() {
+		return object : Vfs() {
 			fun getEntry(path: String) = files[path.trim().toUpperCase()]
 
 			suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream = getEntry(path)!!.slice()
 
-			suspend override fun stat(path: String): VfsStat = asyncFun {
+			suspend override fun stat(path: String): VfsStat {
 				val entry = getEntry(path)
-				if (entry != null) {
+				return if (entry != null) {
 					createExistsStat(path, isDirectory = false, size = entry.getLength())
 				} else {
 					createNonExistsStat(path)
@@ -71,7 +70,7 @@ object ARC : PackageReader {
 		}.root
 	}
 
-	//override suspend fun read(s: AsyncStream): VfsFile = asyncFun {
+	//override suspend fun read(s: AsyncStream): VfsFile {
 	//	val exsts = (0 until s.readS32_le()).map { s.readArcExt() }
 	//	val files = exsts.flatMap { ext ->
 	//		val s2 = s.sliceWithStart(ext.start)
@@ -81,7 +80,7 @@ object ARC : PackageReader {
 	//	return files.toMap()
 	//}
 
-	override suspend fun write(s: AsyncStream, root: VfsFile): Unit = asyncFun {
+	override suspend fun write(s: AsyncStream, root: VfsFile): Unit {
 		val itemsByExtension = root.listRecursive().toList().groupBy { it.extension }
 		val RECORDS_OFFSET = 4 + EXT_RECORD_SIZE * itemsByExtension.size
 		val CONTENT_OFFSET = RECORDS_OFFSET + FILE_RECORD_SIZE * root.size()
@@ -108,4 +107,4 @@ object ARC : PackageReader {
 }
 
 suspend fun AsyncStream.openAsARC() = ARC.read(this)
-suspend fun VfsFile.openAsARC() = asyncFun { ARC.read(this.open()) }
+suspend fun VfsFile.openAsARC() = ARC.read(this.open())

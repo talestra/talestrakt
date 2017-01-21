@@ -1,6 +1,5 @@
 package com.talestra.criminalgirls
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.MemoryVfs
 import com.soywiz.korio.vfs.VfsFile
@@ -8,7 +7,7 @@ import com.talestra.rhcommon.lang.invalidOp
 import java.util.*
 
 object DSARCIDX {
-	suspend fun read(s: AsyncStream): VfsFile = asyncFun {
+	suspend fun read(s: AsyncStream): VfsFile {
 		val magic = s.readStringz(8)
 		if (magic != "com.talestra.criminalgirls.DSARCIDX") invalidOp("Not a com.talestra.criminalgirls.DSARCIDX file, but '$magic'")
 		val count = s.readS64_le()
@@ -26,9 +25,9 @@ object DSARCIDX {
 			out[name] = s.slice(start until start + length)
 			//println("$name: $start..$length")
 		}
-		MemoryVfs(out)
+		return MemoryVfs(out)
 	}
 }
 
 suspend fun AsyncStream.openAsDsarCidx() = DSARCIDX.read(this)
-suspend fun VfsFile.openAsDsarCidx() = asyncFun { DSARCIDX.read(this.open()) }
+suspend fun VfsFile.openAsDsarCidx() = DSARCIDX.read(this.open())

@@ -1,6 +1,5 @@
 package com.talestra.dividead
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.toList
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.MemoryVfs
@@ -9,7 +8,7 @@ import com.talestra.rhcommon.io.PackageReader
 import java.util.*
 
 object DL1 : PackageReader {
-	override suspend fun read(s: AsyncStream): VfsFile = asyncFun {
+	override suspend fun read(s: AsyncStream): VfsFile {
 		val magic = s.readStringz(8)
 		val count = s.readU16_le()
 		val offset = s.readS32_le()
@@ -29,10 +28,10 @@ object DL1 : PackageReader {
 			pos += size
 		}
 
-		MemoryVfs(files)
+		return MemoryVfs(files)
 	}
 
-	override suspend fun write(s: AsyncStream, root: VfsFile): Unit = asyncFun {
+	override suspend fun write(s: AsyncStream, root: VfsFile): Unit {
 		val entries = root.listRecursive().toList()
 
 		s.writeStringz("DL1.0\u001A", 8)
@@ -48,4 +47,4 @@ object DL1 : PackageReader {
 }
 
 suspend fun AsyncStream.openAsDL1() = DL1.read(this)
-suspend fun VfsFile.openAsDL1() = asyncFun { DL1.read(this.open()) }
+suspend fun VfsFile.openAsDL1(): VfsFile { return DL1.read(this.open()) }

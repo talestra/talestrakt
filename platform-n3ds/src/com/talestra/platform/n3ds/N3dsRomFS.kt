@@ -1,12 +1,11 @@
 package com.talestra.platform.n3ds
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.*
 import com.talestra.rhcommon.lang.invalidOp
 
 // https://www.3dbrew.org/wiki/RomFS
 object N3dsRomFS {
-	suspend fun read(s: AsyncStream) = asyncFun {
+	suspend fun read(s: AsyncStream) {
 		val h = s.readBytes(0x60).openSync()
 		if (h.readStringz(4) != "IVFC") invalidOp("Not a RomFS")
 		if (h.readS32_le() != 0x10000) invalidOp("Not a RomFS (II)")

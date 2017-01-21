@@ -1,14 +1,13 @@
 package com.talestra.yume.formats
 
 import WIP
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.vfs.VfsFile
 
 class ArcPackage(val files: VfsFile) {
-	suspend fun getImage(name: String): List<WIP.Entry> = asyncFun {
+	suspend fun getImage(name: String): List<WIP.Entry> {
 		val color = files["$name.WIP"]
 		val mask = files["$name.MSK"]
-		if (!color.exists()) {
+		return if (!color.exists()) {
 			listOf()
 		} else if (!mask.exists()) {
 			WIP.read(color.readAsSyncStream())

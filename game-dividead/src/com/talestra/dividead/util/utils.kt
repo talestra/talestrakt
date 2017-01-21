@@ -1,6 +1,5 @@
 package com.talestra.dividead.util
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.VfsFile
@@ -13,7 +12,7 @@ fun main(args: Array<String>) = sync {
 	extractAll(dividead["SG.DL1"], dividead["SG.DL1.d"])
 }
 
-suspend fun extractAll(file: VfsFile, out: VfsFile) = asyncFun {
+suspend fun extractAll(file: VfsFile, out: VfsFile) {
 	out.mkdirs()
 	for (file in file.openAsDL1().listRecursive()) {
 		val outFile = out[file.path]

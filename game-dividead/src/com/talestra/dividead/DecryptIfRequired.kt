@@ -1,6 +1,5 @@
 package com.talestra.dividead
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.Vfs
 import com.soywiz.korio.vfs.VfsFile
@@ -33,8 +32,8 @@ class UncompressIfRequired(val parent: SyncStream) : SyncStreamBase() {
 fun VfsFile.uncompressIfRequired() = object : Vfs.Proxy() {
 	val base = this@uncompressIfRequired
 	suspend override fun access(path: String): VfsFile = base[path]
-	suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream = asyncFun {
-		UncompressIfRequired(base[path].readAsSyncStream()).toAsync().toAsyncStream()
+	suspend override fun open(path: String, mode: VfsOpenMode): AsyncStream {
+		return UncompressIfRequired(base[path].readAsSyncStream()).toAsync().toAsyncStream()
 	}
 
 	// @TODO: This shouldn't be necessary

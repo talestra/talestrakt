@@ -68,7 +68,7 @@ object DivideadPlay {
 		}
 	}
 
-	suspend private fun tryAutoload() = asyncFun {
+	suspend private fun tryAutoload() {
 		try {
 			tryLoadRoot(JailedLocalVfs("D:/juegos/dividead"))
 		} catch (e: IOException) {
@@ -76,7 +76,7 @@ object DivideadPlay {
 		}
 	}
 
-	suspend private fun tryLoadRoot(root: VfsFile) = asyncFun {
+	suspend private fun tryLoadRoot(root: VfsFile) {
 		this.root = root
 		println("Loaded: ${DivideadPlay.root}")
 		if (!DivideadPlay.root["SG.DL1"].exists()) {
@@ -87,7 +87,7 @@ object DivideadPlay {
 		startGame()
 	}
 
-	suspend fun startGame() = asyncFun {
+	suspend fun startGame() {
 		println("startGame: $root")
 
 		val SG = root["SG.DL1"].openAsDL1().uncompressIfRequired()
@@ -107,7 +107,7 @@ object DivideadPlay {
 
 		val script = object : Script() {
 			@JTranscKeep
-			override suspend fun setScript(name: String) = asyncFun {
+			override suspend fun setScript(name: String) {
 				s = SG["$name.AB"].readAsSyncStream()
 			}
 		}
@@ -131,26 +131,26 @@ object DivideadPlay {
 		//println(aGlyph.data.toList())
 
 		val renderer = object : Renderer() {
-			suspend private fun getBmp(name: String): Bitmap32 = asyncFun {
+			suspend private fun getBmp(name: String): Bitmap32 {
 				val imgName = PathInfo(name).pathWithExtension("BMP")
 				val bmp = SG[imgName.toUpperCase()].readBitmap().toBMP32()
-				bmp
+				return bmp
 			}
 
-			suspend private fun getBmp2(color: String, mask: String): Bitmap32 = asyncFun {
+			suspend private fun getBmp2(color: String, mask: String): Bitmap32 {
 				val c = getBmp(color)
 				val m = getBmp(mask)
-				Bitmap32.createWithAlpha(c, m, alphaChannel = BitmapChannel.RED)
+				return Bitmap32.createWithAlpha(c, m, alphaChannel = BitmapChannel.RED)
 			}
 
 			@JTranscKeep
-			override suspend fun draw(img: String, x: Int, y: Int, anchor: Anchor) = asyncFun {
+			override suspend fun draw(img: String, x: Int, y: Int, anchor: Anchor) {
 				backBuffer.put(getBmp(img), x, y)
 				//println("draw: $img")
 			}
 
 			@JTranscKeep
-			override suspend fun drawMasked(color: String, mask: String, x: Int, y: Int, anchor: Anchor) = asyncFun {
+			override suspend fun drawMasked(color: String, mask: String, x: Int, y: Int, anchor: Anchor) {
 				val bitmapData = getBmp2(color, mask)
 
 				backBuffer.draw(bitmapData, (640 / 2 - (bitmapData.width * anchor.sx)).toInt(), (385 - bitmapData.height * anchor.sy).toInt())
@@ -175,7 +175,7 @@ object DivideadPlay {
 			}
 
 			@JTranscKeep
-			override suspend fun playMusic(s: String) = asyncFun {
+			override suspend fun playMusic(s: String) {
 				println("playMusic")
 			}
 		}
@@ -186,7 +186,7 @@ object DivideadPlay {
 				set(value) {}
 
 			@JTranscKeep
-			suspend override fun waitText() = asyncFun {
+			suspend override fun waitText() {
 				onClick.waitOne()
 				//sleep(1000)
 			}

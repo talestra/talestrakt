@@ -3,7 +3,7 @@ package com.talestra.yume.patcher
 import WIP
 import com.soywiz.korim.awt.awtShowImage
 import com.soywiz.korim.bitmap.Bitmap32
-import com.soywiz.korio.async.asyncFun
+import com.soywiz.korim.bitmap.sliceWithSize
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.stream.eof
 import com.soywiz.korio.stream.readS32_le
@@ -36,7 +36,7 @@ import com.talestra.yume.formats.openAsARC
 		}.toMap()
 	}
 
-	suspend fun patchScripts() = asyncFun {
+	suspend fun patchScripts() {
 		val rio = assets.folder["Rio.arc"].openAsARC()
 		for (file in rio.listRecursive()) {
 			//println("$name:")
@@ -46,7 +46,7 @@ import com.talestra.yume.formats.openAsARC
 		}
 	}
 
-	suspend fun dumpTranslations() = asyncFun {
+	suspend fun dumpTranslations() {
 		for ((name, texts) in translations.get()) {
 			println("$name:")
 			for ((id, text) in texts) {
@@ -55,7 +55,7 @@ import com.talestra.yume.formats.openAsARC
 		}
 	}
 
-	suspend fun patchImages() = asyncFun {
+	suspend fun patchImages() {
 		val images = WIP.read(assets.CHIP_ARC["MAINGP.WIP"]!!)
 
 		fun cleanMainMenuBackground(bg: Bitmap32) {

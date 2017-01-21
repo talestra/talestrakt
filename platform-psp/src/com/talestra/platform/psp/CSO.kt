@@ -1,6 +1,5 @@
 package com.talestra.platform.psp
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.*
 import com.talestra.rhcommon.compression.Compression
 
@@ -21,8 +20,8 @@ object CSO {
 		}
 
 		companion object {
-			suspend operator fun invoke(s: AsyncStream) = asyncFun {
-				Header(
+			suspend operator fun invoke(s: AsyncStream): Header {
+				return Header(
 					magic = s.readStringz(4),
 					headerSize = s.readS32_le(),
 					totalBytes = s.readS64_le(),
@@ -31,14 +30,13 @@ object CSO {
 					alignment = s.readU8(),
 					reserved = s.readU16_le()
 				)
-
 			}
 		}
 
 		val numberOfBlocks: Int get() = (this.totalBytes / this.blockSize).toInt()
 	}
 
-	suspend fun read(s: AsyncStream): AsyncStream = asyncFun {
+	suspend fun read(s: AsyncStream): AsyncStream {
 		val parent = s
 		val header = Header(parent)
 		val chunks = parent.readIntArray_le(header.numberOfBlocks + 1).toList()
@@ -52,7 +50,7 @@ object CSO {
 				return header.totalBytes
 			}
 
-			suspend fun readBlock(n: Int, out: ByteArray, outOffset: Int): ByteArray = asyncFun {
+			suspend fun readBlock(n: Int, out: ByteArray, outOffset: Int): ByteArray {
 				if (n != cachedBlock) {
 					val isCompressed = (chunks[n + 0] and 0x80000000.toInt()) === 0
 					val start = chunks[n + 0] and 0x7FFFFFFF
@@ -65,13 +63,13 @@ object CSO {
 					System.arraycopy(uncompressed, 0, cachedBlockData, 0, blockSize)
 				}
 				System.arraycopy(cachedBlockData, 0, out, outOffset, blockSize)
-				out
+				return out
 			}
 
-			suspend fun readBlocks(start: Int, endInclusive: Int): ByteArray = asyncFun {
+			suspend fun readBlocks(start: Int, endInclusive: Int): ByteArray {
 				val actualEndInclusive = Math.min(endInclusive, header.numberOfBlocks - 1)
 				// Fast on small reads
-				if ((start == actualEndInclusive) && (start == cachedBlock)) {
+				return if ((start == actualEndInclusive) && (start == cachedBlock)) {
 					cachedBlockData
 				} else {
 					val blocks = ByteArray((actualEndInclusive - start + 1) * blockSize)
@@ -80,17 +78,17 @@ object CSO {
 				}
 			}
 
-			suspend override fun read(position: Long, bytes: ByteArray, offset: Int, count: Int): Int = asyncFun {
+			suspend override fun read(position: Long, bytes: ByteArray, offset: Int, count: Int): Int {
 				val end = Math.min(position + count, header.totalBytes)
 				val readata = readBlocks((position / blockSize).toInt(), (end / blockSize).toInt())
 				val readoffset = (position % blockSize).toInt()
 				val actualCount = Math.min(readata.size - readoffset, (end - position).toInt())
 				System.arraycopy(readata, readoffset, bytes, offset, actualCount)
-				actualCount
+				return actualCount
 			}
 		}
 
-		Impl().toAsyncStream()
+		return Impl().toAsyncStream()
 	}
 }
 

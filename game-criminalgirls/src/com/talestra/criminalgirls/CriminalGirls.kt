@@ -2,7 +2,6 @@ package com.talestra.criminalgirls
 
 import com.soywiz.korim.awt.awtShowImage
 import com.soywiz.korim.format.PNG
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.stream.AsyncStream
 import com.soywiz.korio.stream.openSync
@@ -38,7 +37,7 @@ fun encodeTest() {
 	return
 }
 
-suspend fun translateTest() = asyncFun {
+suspend fun translateTest() {
 	val mod = LocalVfs("D:/isos/psvita/DATA.DAT")
 	val ori = LocalVfs("D:/isos/psvita/DATA.DAT.ori")
 
@@ -79,7 +78,7 @@ object demo {
 	 */
 
 	// This produces a don't know how to generate outer expression
-	suspend fun extract(s: AsyncStream) = asyncFun {
+	suspend fun extract(s: AsyncStream) {
 		for (stat in PS3FS.read(s).listRecursive()) {
 			println("${stat.basename}: ${stat.size()}")
 		}

@@ -4,7 +4,6 @@ import com.soywiz.korim.bitmap.Bitmap
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.bitmap.Bitmap8
 import com.soywiz.korim.color.RGBA
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.VfsFile
 import com.talestra.rhcommon.lang.invalidOp
@@ -66,7 +65,7 @@ object WIP {
 
 	fun read(s: ByteArray): List<Entry> = read(s.openSync())
 
-	suspend fun read(s: VfsFile): List<Entry> = asyncFun { read(s.readAsSyncStream()) }
+	suspend fun read(s: VfsFile): List<Entry> = read(s.readAsSyncStream())
 
 	fun read(s: SyncStream): List<Entry> {
 		val header = HEADER(s)

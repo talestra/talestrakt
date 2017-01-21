@@ -1,6 +1,5 @@
 package com.talestra.dividead.remaster
 
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.filter
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.vfs.LocalVfs
@@ -13,8 +12,8 @@ object Remaster {
 	val ffmpeg = "ffmpeg"
 	val opusenc = "opusenc"
 
-	suspend fun waifu2x(input: VfsFile, output: VfsFile): Int = asyncFun {
-		input.parent.passthru(
+	suspend fun waifu2x(input: VfsFile, output: VfsFile): Int {
+		return input.parent.passthru(
 			waifu2x_caffe_cui,
 			"--gpu", "0",
 			"-s", "2.0",
@@ -23,9 +22,9 @@ object Remaster {
 		)
 	}
 
-	suspend fun ffmpegExtractImages(input: VfsFile, output: VfsFile): Int = asyncFun {
+	suspend fun ffmpegExtractImages(input: VfsFile, output: VfsFile): Int {
 		output.mkdirs()
-		input.parent.passthru(
+		return input.parent.passthru(
 			ffmpeg,
 			"-y",
 			"-i", input.absolutePath,
@@ -34,8 +33,8 @@ object Remaster {
 		)
 	}
 
-	suspend fun ffmpegExtractAudio(input: VfsFile, output: VfsFile): Int = asyncFun {
-		input.parent.passthru(
+	suspend fun ffmpegExtractAudio(input: VfsFile, output: VfsFile): Int {
+		return input.parent.passthru(
 			ffmpeg,
 			"-y",
 			"-i", input.absolutePath,
@@ -49,13 +48,13 @@ object Remaster {
 	)
 	*/
 
-	suspend fun ffmpegGetVideoInfo(input: VfsFile) = asyncFun {
+	suspend fun ffmpegGetVideoInfo(input: VfsFile) {
 		val result = input.parent.execToString(ffmpeg, "-i", input.absolutePath)
 		println(result)
 	}
 
-	suspend fun ffmpegPackVideo(fps: Int, inputImages: VfsFile, inputAudio: VfsFile, output: VfsFile): Int = asyncFun {
-		inputImages.passthru(
+	suspend fun ffmpegPackVideo(fps: Int, inputImages: VfsFile, inputAudio: VfsFile, output: VfsFile): Int {
+		return inputImages.passthru(
 			ffmpeg,
 			"-y",
 			"-framerate", "$fps",
@@ -76,7 +75,7 @@ object Remaster {
 		)
 	}
 
-	suspend fun convertVideo(fps: Int, input: VfsFile, output: VfsFile) = asyncFun {
+	suspend fun convertVideo(fps: Int, input: VfsFile, output: VfsFile) {
 		val wav = input.appendExtension("wav")
 		val images1x = input.appendExtension("images1x")
 		val images2x = input.appendExtension("images2x")
@@ -94,13 +93,13 @@ object Remaster {
 		ffmpegPackVideo(30, images2x, wav, output)
 	}
 
-	suspend fun convertVideoLastStep(fps: Int, input: VfsFile, output: VfsFile) = asyncFun {
+	suspend fun convertVideoLastStep(fps: Int, input: VfsFile, output: VfsFile) {
 		val wav = input.appendExtension("wav")
 		val images2x = input.appendExtension("image2x")
 		ffmpegPackVideo(fps, images2x, wav, output)
 	}
 
-	suspend fun extractDl1(dl1: VfsFile, out: VfsFile) = asyncFun {
+	suspend fun extractDl1(dl1: VfsFile, out: VfsFile) {
 		out.mkdirs()
 		val files = dl1.openAsDL1()
 		for (file in files.listRecursive()) {
@@ -111,7 +110,7 @@ object Remaster {
 		}
 	}
 
-	suspend fun convertWavToMp3(wavFolder: VfsFile, outFolder: VfsFile) = asyncFun {
+	suspend fun convertWavToMp3(wavFolder: VfsFile, outFolder: VfsFile) {
 		outFolder.mkdir()
 		for (wav in wavFolder.list().filter { it.extensionLC == "wav" }) {
 			val out = outFolder[wav.withExtension("mp3").basename]
@@ -124,7 +123,7 @@ object Remaster {
 		}
 	}
 
-	suspend fun convertWavToOpus(wavFolder: VfsFile, outFolder: VfsFile) = asyncFun {
+	suspend fun convertWavToOpus(wavFolder: VfsFile, outFolder: VfsFile) {
 		outFolder.mkdir()
 		for (wav in wavFolder.list().filter { it.extensionLC == "wav" }) {
 			val out = outFolder[wav.withExtension("opus").basename]

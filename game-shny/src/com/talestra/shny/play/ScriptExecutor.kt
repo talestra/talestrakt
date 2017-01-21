@@ -1,11 +1,8 @@
 package com.talestra.shny.play
 
 import com.soywiz.korim.awt.awtShowImage
-import com.soywiz.korim.format.ImageFormats
 import com.soywiz.korim.format.readBitmap
-import com.soywiz.korio.async.asyncFun
 import com.soywiz.korio.async.invokeSuspend
-import com.talestra.platform.psp.GIM
 import com.talestra.rhcommon.inject.Singleton
 import com.talestra.shny.format.Script
 
@@ -20,7 +17,7 @@ class ScriptExecutor(
 		annotation.op to method
 	}.toMap()
 
-	suspend fun exec() = asyncFun {
+	suspend fun exec() {
 		val instruction = reader.readInstruction()
 		val action = this.actions[instruction.op] ?: TODO("Unhandled instruction $instruction")
 		action.invokeSuspend(this, instruction.params)
@@ -77,7 +74,7 @@ class ScriptExecutor(
 	@Script.Action(Script.Opcode.PRELOAD_END) fun PRELOAD_END() {
 	}
 
-	@Script.Action(Script.Opcode.BG_PRELOAD) suspend fun BG_PRELOAD(type: Int, str: String, param: Int) = asyncFun {
+	@Script.Action(Script.Opcode.BG_PRELOAD) suspend fun BG_PRELOAD(type: Int, str: String, param: Int) {
 		if (str != "") {
 			val image = iso.root["PSP_GAME/USRDIR/data/bg/$str"].readBitmap()
 			//showImage(image)
@@ -88,12 +85,12 @@ class ScriptExecutor(
 		state.chars[chara].suit = suit
 	}
 
-	@Script.Action(Script.Opcode.BACKGROUND) suspend fun BACKGROUND(str: String, p1: Int, p2: Int, p3: Int, p4: Int, p5: Int) = asyncFun {
+	@Script.Action(Script.Opcode.BACKGROUND) suspend fun BACKGROUND(str: String, p1: Int, p2: Int, p3: Int, p4: Int, p5: Int) {
 		val image = iso.root["PSP_GAME/USRDIR/data/bg/$str"].readBitmap()
 		awtShowImage(image)
 	}
 
-	@Script.Action(Script.Opcode.BACKGROUND2) suspend fun BACKGROUND2(p1: Int, str: String) = asyncFun {
+	@Script.Action(Script.Opcode.BACKGROUND2) suspend fun BACKGROUND2(p1: Int, str: String) {
 		val image = iso.root["PSP_GAME/USRDIR/data/bg/$str"].readBitmap()
 		awtShowImage(image)
 	}
@@ -120,7 +117,7 @@ class ScriptExecutor(
 	@Script.Action(Script.Opcode.MUSIC) fun MUSIC(type: Int, str: String, p1: Int, p2: Int) {
 	}
 
-	@Script.Action(Script.Opcode.CHARA_PUT) suspend fun CHARA_PUT(kind: Int, charaId: Int, p2: Int, p3: Int, p4: Int, p5: Int, p6: Int) = asyncFun {
+	@Script.Action(Script.Opcode.CHARA_PUT) suspend fun CHARA_PUT(kind: Int, charaId: Int, p2: Int, p3: Int, p4: Int, p5: Int, p6: Int) {
 		val charaName = "bu%02d_a%02d.gim".format(charaId, state.chars[charaId].suit)
 
 		awtShowImage(iso.root["PSP_GAME/USRDIR/data/bu/$charaName"].readBitmap())
@@ -147,7 +144,7 @@ class ScriptExecutor(
 	@Script.Action(Script.Opcode.FACE_SHOW) fun FACE_SHOW(id: Int) {
 	}
 
-	@Script.Action(Script.Opcode.SCRIPT) suspend fun SCRIPT(str: String) = asyncFun {
+	@Script.Action(Script.Opcode.SCRIPT) suspend fun SCRIPT(str: String) {
 		reader.setScript(str)
 	}
 }
