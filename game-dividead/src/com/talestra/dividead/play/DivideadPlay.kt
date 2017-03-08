@@ -56,11 +56,15 @@ object DivideadPlay {
 			loadButton = button("Load").click {
 				val file = dialogOpenFile()
 				println("Selected file: $file")
-				tryLoadRoot(if (file.extension == "iso") {
-					file.openAsIso()
-				} else {
-					file
-				})
+				try {
+					tryLoadRoot(if (file.extension == "iso") {
+						file.openAsIso()
+					} else {
+						file
+					})
+				} catch (e: Throwable) {
+					alert("$e")
+				}
 			}
 			if (!OS.isJs) {
 				async { tryAutoload() }

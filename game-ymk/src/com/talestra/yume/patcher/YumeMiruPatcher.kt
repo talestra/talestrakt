@@ -15,7 +15,7 @@ import com.soywiz.korui.ui.*
 object YumeMiruPatcher {
 	const val VERSION = "v1.0"
 
-	@JvmStatic fun main(args: Array<String>) = EventLoop.main {
+	@JvmStatic fun main(args: Array<String>) = EventLoop {
 		val bmp = ResourcesVfs["data/bg.jpg"].readBitmap()
 		val frameIcon = ResourcesVfs["patcher_ico.png"].readBitmap()
 

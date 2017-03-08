@@ -456,7 +456,7 @@ class Pak : Serializable {
     }
 }
 
-void com.talestra.criminalgirls.main() {
+void main() {
 	/*
 	auto msd = new Msd;
 	msd.read (new BufferedFile("MSE.D/S001.MSD"));

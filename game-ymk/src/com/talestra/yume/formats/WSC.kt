@@ -1,6 +1,7 @@
 package com.talestra.yume.formats
 
 import com.soywiz.korio.stream.*
+import com.soywiz.korio.util.StrReader
 import com.talestra.rhcommon.lang.getu
 import com.talestra.rhcommon.lang.invalidOp
 import com.talestra.rhcommon.lang.mapWhile
@@ -188,7 +189,7 @@ object WSC {
 						format3 = format2.clone()
 						readParams(offset, op, format3)
 					} as Any)
-					format.offset = format3.offset
+					format.pos = format3.pos
 				}
 				']' -> break@read
 				else -> throw RuntimeException("Not supported '$f'")
