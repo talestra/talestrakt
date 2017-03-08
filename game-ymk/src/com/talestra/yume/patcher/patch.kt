@@ -4,14 +4,14 @@ import WIP
 import com.soywiz.korim.awt.awtShowImage
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.bitmap.sliceWithSize
-import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
+import com.soywiz.korio.inject.AsyncInjector
+import com.soywiz.korio.inject.Singleton
 import com.soywiz.korio.stream.eof
 import com.soywiz.korio.stream.readS32_le
 import com.soywiz.korio.stream.readStringz
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.ResourcesVfs
-import com.talestra.rhcommon.inject.AsyncInjector
-import com.talestra.rhcommon.inject.Singleton
 import com.talestra.rhcommon.lang.AsyncCacheItem
 import com.talestra.rhcommon.lang.mapWhile
 import com.talestra.yume.common.GameAssets
@@ -19,7 +19,7 @@ import com.talestra.yume.formats.WSC
 import com.talestra.yume.formats.openAsARC
 
 @Singleton class Patcher(
-	val assets: GameAssets
+		val assets: GameAssets
 ) {
 	val resources = ResourcesVfs
 
@@ -56,7 +56,7 @@ import com.talestra.yume.formats.openAsARC
 	}
 
 	suspend fun patchImages() {
-		val images = WIP.read(assets.CHIP_ARC["MAINGP.WIP"]!!)
+		val images = WIP.read(assets.CHIP_ARC["MAINGP.WIP"])
 
 		fun cleanMainMenuBackground(bg: Bitmap32) {
 			val slice = bg.sliceWithSize(207, 162, 7, 268)
@@ -72,7 +72,7 @@ import com.talestra.yume.formats.openAsARC
 }
 
 object PatcherSpike {
-	@JvmStatic fun main(args: Array<String>) = sync {
+	@JvmStatic fun main(args: Array<String>) = syncTest {
 		val assets = GameAssets(LocalVfs("D:/juegos/yume"))
 		val injector = AsyncInjector()
 		injector.map(assets)

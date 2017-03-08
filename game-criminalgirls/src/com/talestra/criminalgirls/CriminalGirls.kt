@@ -3,6 +3,7 @@ package com.talestra.criminalgirls
 import com.soywiz.korim.awt.awtShowImage
 import com.soywiz.korim.format.PNG
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.stream.AsyncStream
 import com.soywiz.korio.stream.openSync
 import com.soywiz.korio.vfs.LocalVfs
@@ -13,7 +14,7 @@ import com.talestra.rhcommon.lang.toHexString
 import java.io.File
 import java.nio.charset.Charset
 
-fun main(args: Array<String>) = sync {
+fun main(args: Array<String>) = syncTest {
 	translateTest()
 	//return com.talestra.criminalgirls.decodeTest()
 	//return com.talestra.criminalgirls.encodeTest()
@@ -48,7 +49,7 @@ suspend fun translateTest() {
 	Translation.translate(mod.open())
 }
 
-fun dumpTest() = sync {
+fun dumpTest() = syncTest {
 	val mod = File("D:/isos/psvita/DATA.DAT")
 	val files = PS3FS.read(mod.open(VfsOpenMode.READ))
 	val parent = LocalVfs("c:/temp/crim")
@@ -58,7 +59,7 @@ fun dumpTest() = sync {
 		println("$file")
 		val f = parent[name]
 		if (!f.exists()) {
-			parent[name] = file.read()
+			parent.set(name, file.read())
 		}
 		if (f.extension == "imy") {
 			println(f.path)

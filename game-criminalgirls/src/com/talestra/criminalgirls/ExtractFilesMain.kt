@@ -1,9 +1,10 @@
 package com.talestra.criminalgirls
 
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.vfs.LocalVfs
 
-fun main(args: Array<String>): Unit = sync {
+fun main(args: Array<String>): Unit = syncTest {
 	val root = LocalVfs("D:/isos/psvita/DATA.DAT").openAsPs3Fs()
 	val out = LocalVfs("D:/isos/psvita/criminalgirls.out").jail()
 	out.mkdirs()

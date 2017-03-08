@@ -32,8 +32,6 @@ sourceSets {
 
 repositories {
 	mavenLocal()
-	maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
-	maven { url "https://dl.bintray.com/soywiz/soywiz-maven" }
 	mavenCentral()
 }
 
@@ -50,7 +48,6 @@ dependencies {
 
 buildscript {
 	repositories {
-		maven { url "https://dl.bintray.com/kotlin/kotlin-eap-1.1" }
 		mavenLocal()
 		mavenCentral()
 	}

@@ -4,11 +4,12 @@ import com.soywiz.korim.format.PNG
 import com.soywiz.korim.format.readBitmap
 import com.soywiz.korim.format.writeBitmap
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.openAsIso
 import com.talestra.platform.psp.GIM
 
-fun main(args: Array<String>) = sync {
+fun main(args: Array<String>) = syncTest {
 	val iso = LocalVfs("D:/isos/psp/Suzumiya Haruhi no Yakusoku.iso")
 	val files = iso.openAsIso()
 

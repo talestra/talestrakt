@@ -1,11 +1,12 @@
 package com.talestra.yume
 
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.vfs.LocalVfs
 import com.talestra.yume.formats.ArcPackage
 import com.talestra.yume.formats.openAsARC
 
-fun main(args: Array<String>) = sync {
+fun main(args: Array<String>) = syncTest {
 	val BASE = LocalVfs("d:/juegos/yume")
 	val CHIP = ArcPackage(BASE["Chip.arc"].openAsARC())
 	val CHIP_OUT = BASE["chip.arc.d"]

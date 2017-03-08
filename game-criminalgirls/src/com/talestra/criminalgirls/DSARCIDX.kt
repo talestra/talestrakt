@@ -9,7 +9,7 @@ import java.util.*
 object DSARCIDX {
 	suspend fun read(s: AsyncStream): VfsFile {
 		val magic = s.readStringz(8)
-		if (magic != "com.talestra.criminalgirls.DSARCIDX") invalidOp("Not a com.talestra.criminalgirls.DSARCIDX file, but '$magic'")
+		if (magic != "DSARCIDX") invalidOp("Not a DSARCIDX file, but '$magic'")
 		val count = s.readS64_le()
 		s.readShortArray_le(count.toInt())
 		while (s.getPosition() % 4L != 0L) {

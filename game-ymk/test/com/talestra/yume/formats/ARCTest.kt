@@ -1,6 +1,7 @@
 package com.talestra.yume.formats
 
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.async.toList
 import com.soywiz.korio.stream.openSync
 import com.soywiz.korio.stream.toAsync
@@ -17,7 +18,7 @@ class ARCTest {
 	lateinit var rio: VfsFile
 
 	@Before
-	fun setUp() = sync {
+	fun setUp() = syncTest {
 		val resources = ResourcesVfs
 		RIO_ARC = resources["Rio.arc"].read()
 		TITLE_WSC_decrypt = resources["TITLE.WSC.decrypt"].read()
@@ -25,7 +26,7 @@ class ARCTest {
 	}
 
 	@Test
-	fun testReadAndGenerateArc() = sync {
+	fun testReadAndGenerateArc() = syncTest {
 		val original = RIO_ARC
 		val arc = original.openSync("r").toAsync().openAsARC()
 		val files = arc.listRecursive().toList()
@@ -36,13 +37,13 @@ class ARCTest {
 	}
 
 	@Test
-	fun testReadScript() = sync {
+	fun testReadScript() = syncTest {
 		val generated = WSC.Encryption.decrypt(rio["TITLE.WSC"].read())
 		Assert.assertArrayEquals(TITLE_WSC_decrypt, generated)
 	}
 
 	@Test
-	fun testParseScript() = sync {
+	fun testParseScript() = syncTest {
 		val script = WSC.Encryption.decryptStream2(rio["A002_01.WSC"].read().openSync())
 		for (i in WSC.readInstructions(script, "A002_01")) {
 			println(i)

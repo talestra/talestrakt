@@ -1,10 +1,10 @@
 package com.talestra.shny.play
 
-import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
+import com.soywiz.korio.inject.AsyncInjector
 import com.soywiz.korio.vfs.LocalVfs
-import com.talestra.rhcommon.inject.AsyncInjector
 
-fun main(args: Array<String>) = sync {
+fun main(args: Array<String>) = syncTest {
 	val injector = AsyncInjector()
 	val haruhiIso = LocalVfs("D:/isos/psp/haruhi.iso")
 

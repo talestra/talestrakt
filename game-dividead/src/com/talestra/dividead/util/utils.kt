@@ -1,12 +1,13 @@
 package com.talestra.dividead.util
 
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.VfsFile
 import com.talestra.dividead.LZ
 import com.talestra.dividead.openAsDL1
 
-fun main(args: Array<String>) = sync {
+fun main(args: Array<String>) = syncTest {
 	val dividead = LocalVfs("D:/juegos/dividead")
 	extractAll(dividead["WV.DL1"], dividead["WV.DL1.d"])
 	extractAll(dividead["SG.DL1"], dividead["SG.DL1.d"])

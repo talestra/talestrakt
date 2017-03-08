@@ -1,6 +1,7 @@
 package com.talestra.shny.util
 
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.stream.eof
 import com.soywiz.korio.stream.openSync
 import com.soywiz.korio.stream.readAll
@@ -9,7 +10,7 @@ import com.soywiz.korio.vfs.VfsOpenMode
 import com.soywiz.korio.vfs.openAsIso
 import com.talestra.shny.format.Script
 
-fun main(args: Array<String>) = sync {
+fun main(args: Array<String>) = syncTest {
 	val iso = LocalVfs("D:/isos/console/psp/Suzumiya Haruhi no Yakusoku.iso")
 	val files = iso.openAsIso()
 	for (file in files["PSP_GAME/USRDIR/data/script"].list()) {

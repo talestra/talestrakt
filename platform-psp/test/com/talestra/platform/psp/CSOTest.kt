@@ -1,6 +1,7 @@
 package com.talestra.platform.psp
 
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.stream.openAsync
 import com.soywiz.korio.stream.readAll
 import com.soywiz.korio.vfs.ResourcesVfs
@@ -12,7 +13,7 @@ class CSOTest {
 	val resources = ResourcesVfs
 
 	@Test
-	fun name() = sync {
+	fun name() = syncTest {
 		val CUBE_ISO = resources["cube.iso"].read()
 		val CUBE_CSO = resources["cube.cso"].read()
 		val READED_ISO = CUBE_CSO.openAsync().cso().readAll()

@@ -1,19 +1,19 @@
 package com.talestra.toe
 
-import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.stream.*
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.openAsIso
-import com.talestra.talesof.complib.Decode
+import com.talestra.talesof.complib.OldCompTalesOfLLib.Decode
 import java.io.File
 
-fun main(args: Array<String>) = sync {
+fun main(args: Array<String>) = syncTest {
 	val ISO_FILE = LocalVfs("d:/isos/psp/toe.iso")
 	val root = ISO_FILE.openAsIso()
 	val temp = ByteArray(5 * 1024 * 1024)
 	val files = PakBDPair.parseB_DPair(
-		root["PSP_GAME/USRDIR/dat/m_us.b"].open(),
-		root["PSP_GAME/USRDIR/dat/m_us.d"].open()
+			root["PSP_GAME/USRDIR/dat/m_us.b"].open(),
+			root["PSP_GAME/USRDIR/dat/m_us.d"].open()
 	)
 	for (file in files.listRecursive()) {
 		val index = file.basename.toInt()

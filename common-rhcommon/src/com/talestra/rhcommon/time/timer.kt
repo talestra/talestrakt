@@ -1,12 +1,12 @@
 package com.talestra.rhcommon.time
 
+import com.soywiz.korio.coroutine.korioSuspendCoroutine
 import java.io.Closeable
-import kotlin.coroutines.suspendCoroutine
 
 class Timers : UpdatableGroup(), Closeable {
 	override fun close() = removeAll()
 
-	suspend fun wait(time: TimeSpan) = suspendCoroutine<Unit> { c ->
+	suspend fun wait(time: TimeSpan) = korioSuspendCoroutine<Unit> { c ->
 		setTimeout(time, {
 			c.resume(Unit)
 		})

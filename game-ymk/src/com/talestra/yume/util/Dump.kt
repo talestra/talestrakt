@@ -1,12 +1,13 @@
 package com.talestra.yume.util
 
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.vfs.LocalVfs
 import com.talestra.yume.formats.WSC
 import com.talestra.yume.formats.openAsARC
 import java.io.File
 
-fun main(args: Array<String>) = sync {
+fun main(args: Array<String>) = syncTest {
 	val base = LocalVfs("D:/juegos/yume")
 	for (file in listOf(base["CHIP.ARC"], base["BGM.ARC"], base["RIO.ARC"], base["VOICE.ARC"], base["SE.ARC"])) {
 		val out = file.parent["${file.basename}.d"]
@@ -17,9 +18,9 @@ fun main(args: Array<String>) = sync {
 			println("$name")
 			//if (out[name].exists()) continue
 			val bytes = file.read()
-			out[name] = bytes
+			out.set(name, bytes)
 			if (name.endsWith("WSC")) {
-				out[File(name).nameWithoutExtension + ".WS"] = WSC.Encryption.decrypt(bytes)
+				out.set(File(name).nameWithoutExtension + ".WS", WSC.Encryption.decrypt(bytes))
 			}
 		}
 		/*

@@ -2,6 +2,7 @@ package com.talestra.dividead.remaster
 
 import com.soywiz.korio.async.filter
 import com.soywiz.korio.async.sync
+import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.vfs.LocalVfs
 import com.soywiz.korio.vfs.VfsFile
 import com.talestra.dividead.LZ
@@ -106,7 +107,7 @@ object Remaster {
 			val compressed = file.read()
 			val uncompressed = if (LZ.isCompressed(compressed)) LZ.uncompress(compressed) else compressed
 			println(file.fullname)
-			out[file.fullname] = uncompressed
+			out.set(file.fullname, uncompressed)
 		}
 	}
 
@@ -137,7 +138,7 @@ object Remaster {
 		}
 	}
 
-	@JvmStatic fun main(args: Array<String>) = sync {
+	@JvmStatic fun main(args: Array<String>) = syncTest {
 		val base = LocalVfs("D:/juegos/dividead")
 		convertWavToMp3(base["WV.DL1.d"], base["WV.DL1.d.mp3"])
 		convertWavToOpus(base["WV.DL1.d"], base["WV.DL1.d.opus"])

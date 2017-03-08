@@ -1,7 +1,7 @@
 package com.talestra.rhcommon.lang
 
 import com.soywiz.korio.async.Promise
-import kotlin.coroutines.startCoroutine
+import com.soywiz.korio.coroutine.korioStartCoroutine
 
 class AsyncCacheItem<T>(private val gen: suspend () -> T) {
 	var started = false
@@ -10,7 +10,7 @@ class AsyncCacheItem<T>(private val gen: suspend () -> T) {
 	suspend fun get(): T {
 		if (!started) {
 			started = true
-			gen.startCoroutine(deferred.toContinuation())
+			gen.korioStartCoroutine(deferred.toContinuation())
 		}
 		return deferred.promise.await()
 	}
