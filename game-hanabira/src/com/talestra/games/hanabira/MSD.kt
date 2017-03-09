@@ -95,6 +95,19 @@ object MSD {
 		}
 	}
 
+	val charaNames = mapOf(
+			-1 to "-",
+			0 to "NANA",
+			1 to "YUUNA",
+			2 to "GIRL_A",
+			3 to "GIRL_B",
+			4 to "GIRL_C",
+			5 to "TEACHER",
+			6 to "CHILD_A",
+			7 to "CHILD_B",
+			8 to "???"
+	)
+
 	data class REF(val id: Int)
 	data class REF_UNK(val id: Int)
 
@@ -108,7 +121,8 @@ object MSD {
 			val instructions: List<INSTRUCTION>
 	)
 
-	fun read(s: SyncStream): Script {
+	fun read(data: ByteArray): Script {
+		val s = decryptIfRequired(data).openSync()
 		val h = s.readStruct<Header>()
 		if (h.magic != "MSCENARIO FILE  ") invalidOp("Not a msd file")
 		s.position = 0x458

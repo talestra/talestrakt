@@ -9,11 +9,16 @@ class MSDTest {
 	@Test
 	fun name() = syncTest {
 		val root = ResourcesVfs["MSE"].openFJSYS()
-		//val data = root["main.MSD"].read()
+		//val script = MSD.read(root["main.MSD"].read())
+		val script = MSD.read(root["S001.MSD"].read())
+		for (i in script.instructions) {
+			println(i)
+		}
+		/*
 		for (child in root.list()) {
-			val data = child.read()
-			val script = MSD.read(MSD.decryptIfRequired(data).openSync())
+			val script = MSD.read(child.read())
 			println("%s: %d".format(child.basename, script.instructions.size))
 		}
+		*/
 	}
 }
