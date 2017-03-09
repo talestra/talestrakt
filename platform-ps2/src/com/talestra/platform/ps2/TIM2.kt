@@ -5,11 +5,13 @@ import com.soywiz.korim.bitmap.Bitmap4
 import com.soywiz.korim.bitmap.Bitmap8
 import com.soywiz.korim.color.RGB
 import com.soywiz.korim.color.RGBA
+import com.soywiz.korim.format.ImageData
 import com.soywiz.korim.format.ImageFormat
 import com.soywiz.korim.format.ImageFrame
 import com.soywiz.korim.format.ImageInfo
 import com.soywiz.korio.stream.*
 import java.io.IOException
+import kotlin.experimental.and
 
 class TIM2 : ImageFormat() {
 	class Header(
@@ -37,7 +39,7 @@ class TIM2 : ImageFormat() {
 	) {
 		val width = imageWidth.toInt()
 		val height = imageHeight.toInt()
-		val colorFormat = when (clutType) {
+		val colorFormat = when (clutType and 0xF) {
 			ClutType.RGB -> RGB
 			ClutType.RGBA -> RGBA
 			else -> throw UnsupportedOperationException("clutType: $clutType")
@@ -112,10 +114,11 @@ class TIM2 : ImageFormat() {
 			height = 0
 		}
 	} catch (e: Throwable) {
+		e.printStackTrace()
 		null
 	}
 
-	override fun readFrames(s: SyncStream, filename: String): List<ImageFrame> {
+	override fun readImage(s: SyncStream, filename: String): ImageData {
 		val h = readHeader(s)
 		val out = arrayListOf<ImageFrame>()
 		for (entry in 0 until h.numberOfPictures) {
@@ -136,6 +139,6 @@ class TIM2 : ImageFormat() {
 			out += ImageFrame(bmp)
 			//println(eh)
 		}
-		return out
+		return ImageData(out)
 	}
 }

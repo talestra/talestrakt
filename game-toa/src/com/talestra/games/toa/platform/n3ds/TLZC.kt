@@ -1,4 +1,4 @@
-package com.talestra.games.toa.n3ds
+package com.talestra.games.toa.platform.n3ds
 
 import com.soywiz.korio.stream.*
 import java.io.ByteArrayInputStream

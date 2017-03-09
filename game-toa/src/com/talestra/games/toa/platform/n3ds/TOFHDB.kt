@@ -1,4 +1,4 @@
-package com.talestra.games.toa.n3ds
+package com.talestra.games.toa.platform.n3ds
 
 import com.soywiz.korio.serialization.binary.*
 import com.soywiz.korio.stream.*
@@ -8,26 +8,26 @@ import com.soywiz.korio.vfs.VfsFile
 // NAME_HASH -> FILE_ENTRY -> SLICE
 object TOFHDB {
 	data class Header(
-		@Order(0) val time: Long,
-		@Order(1) val fileHashArrayOffset: Int,
-		@Order(2) val fileHashArrayCount: Int,
-		@Order(3) val fileHashArrayByteSize: Long,
-		@Order(4) val fileArrayOffset: Int,
-		@Order(5) val fileArrayCount: Int,
-		@Order(6) val fileArrayByteSize: Long
+			@Order(0) val time: Long,
+			@Order(1) val fileHashArrayOffset: Int,
+			@Order(2) val fileHashArrayCount: Int,
+			@Order(3) val fileHashArrayByteSize: Long,
+			@Order(4) val fileArrayOffset: Int,
+			@Order(5) val fileArrayCount: Int,
+			@Order(6) val fileArrayByteSize: Long
 	) : Struct
 
 	data class HashArray(
-		@Order(0) val key: Int,
-		@Order(1) val value: Int
+			@Order(0) val key: Int,
+			@Order(1) val value: Int
 	) : Struct
 
 	data class FileStruct(
-		@Order(0) val fileSize: Long,
-		@Order(1) val compressSize: Long,
-		@Order(2) val offset: Long,
-		@Order(3) val hash: Int,
-		@Order(4) @Count(12) @Encoding("UTF-8") val extension: String
+			@Order(0) val fileSize: Long,
+			@Order(1) val compressSize: Long,
+			@Order(2) val offset: Long,
+			@Order(3) val hash: Int,
+			@Order(4) @Count(12) @Encoding("UTF-8") val extension: String
 	) : Struct
 
 	suspend fun read(dbs: AsyncStream, dat: AsyncStream): VfsFile {

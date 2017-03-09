@@ -1,0 +1,9 @@
+apply from: '../include.gradle'
+
+apply plugin: 'application'
+apply plugin: 'jtransc'
+
+dependencies {
+	compile project(':common-rhcommon')
+	compile "org.tmatesoft.sqljet:sqljet:1.1.10"
+}

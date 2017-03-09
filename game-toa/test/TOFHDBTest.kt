@@ -1,6 +1,6 @@
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.vfs.LocalVfs
-import com.talestra.games.toa.n3ds.TOFHDB
+import com.talestra.games.toa.platform.n3ds.TOFHDB
 import com.talestra.talesof.complib.CompTalesOf
 import org.junit.Test
 
