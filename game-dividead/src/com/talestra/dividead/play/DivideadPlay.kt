@@ -7,11 +7,11 @@ import com.soywiz.korim.color.Colors
 import com.soywiz.korim.font.BitmapFontGenerator
 import com.soywiz.korim.font.drawText
 import com.soywiz.korim.format.readBitmap
-import com.soywiz.korim.geom.Anchor
-import com.soywiz.korim.geom.ScaleMode
 import com.soywiz.korio.async.*
 import com.soywiz.korio.util.OS
 import com.soywiz.korio.vfs.*
+import com.soywiz.korma.geom.Anchor
+import com.soywiz.korma.geom.ScaleMode
 import com.soywiz.korui.Application
 import com.soywiz.korui.frame
 import com.soywiz.korui.geom.len.pt

@@ -1,5 +1,8 @@
 package com.talestra.games.hanabira.util
 
+import com.soywiz.korau.format.play
+import com.soywiz.korau.format.readAudioData
+import com.soywiz.korau.format.readAudioStream
 import com.soywiz.korim.format.readImageData
 import com.soywiz.korim.format.showImagesAndWait
 import com.soywiz.korio.async.spawn
@@ -19,9 +22,16 @@ fun main(args: Array<String>) = syncTest {
 	//root["BGM"].openFJSYS().copyToTree(root["BGM.d"].ensureParents(), notify = { process(it) })
 	//root["DATA"].openFJSYS().copyToTree(root["DATA.d"].ensureParents(), notify = { process(it) })
 	//root["MGD"].openFJSYS().copyToTree(root["MGD.d"].ensureParents(), notify = { process(it) })
-	root["MGE"].openFJSYS().copyToTree(root["MGE.d"].ensureParents(), notify = { process(it) })
+	//root["MGE"].openFJSYS().copyToTree(root["MGE.d"].ensureParents(), notify = { process(it) })
 	root["MSD"].openFJSYS().copyToTree(root["MSD.d"].ensureParents(), notify = { process(it) })
-	root["MSE"].openFJSYS().copyToTree(root["MSE.d"].ensureParents(), notify = { process(it) })
+	//root["MSE"].openFJSYS().copyToTree(root["MSE.d"].ensureParents(), notify = { process(it) })
+
+
+	//spawn { root["BGM.d"]["M01.ogg"].readAudioStream()!!.play() }
+	//root["VOICE"].openFJSYS()["gala0001.ogg"].readAudioData().play()
+	//root["BGM"].openFJSYS()["M02.ogg"].readAudioStream()?.play()
+
+
 	//root["SE"].openFJSYS().copyToTree(root["SE.d"].ensureParents(), notify = { process(it) })
 	//root["VOICE"].openFJSYS().copyToTree(root["VOICE.d"].ensureParents(), notify = { process(it) })
 }

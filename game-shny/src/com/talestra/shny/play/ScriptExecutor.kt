@@ -3,7 +3,7 @@ package com.talestra.shny.play
 import com.soywiz.korim.awt.awtShowImage
 import com.soywiz.korim.format.readBitmap
 import com.soywiz.korio.async.invokeSuspend
-import com.talestra.rhcommon.inject.Singleton
+import com.soywiz.korio.inject.Singleton
 import com.talestra.shny.format.Script
 
 @Singleton

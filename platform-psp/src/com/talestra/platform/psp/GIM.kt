@@ -4,6 +4,7 @@ import com.soywiz.korim.bitmap.Bitmap
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.bitmap.Bitmap8
 import com.soywiz.korim.color.RGBA
+import com.soywiz.korim.format.ImageData
 import com.soywiz.korim.format.ImageFormat
 import com.soywiz.korim.format.ImageFrame
 import com.soywiz.korim.format.ImageInfo
@@ -23,10 +24,10 @@ class GIM : ImageFormat() {
 		}
 	}
 
-	override fun readFrames(s: SyncStream, filename: String): List<ImageFrame> {
+	override fun readImage(s: SyncStream, filename: String): ImageData {
 		val magic = s.readStringz(0x10)
 		if (magic != "MIG.00.1PSP") throw IllegalArgumentException("Not a GIM file")
-		return listOf(ImageFrame(Reader().readBitmap(s)))
+		return ImageData(frames = listOf(ImageFrame(Reader().readBitmap(s))))
 	}
 
 	enum class ChunkType(val id: Int) {

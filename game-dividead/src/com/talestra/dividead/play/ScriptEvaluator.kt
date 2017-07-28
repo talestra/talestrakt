@@ -2,8 +2,8 @@ package com.talestra.dividead.play
 
 import com.jtransc.annotation.JTranscKeep
 import com.soywiz.korim.color.Colors
-import com.soywiz.korim.geom.Anchor
 import com.soywiz.korio.async.invokeSuspend
+import com.soywiz.korma.geom.Anchor
 import com.talestra.dividead.AB
 import java.io.File
 import java.util.*

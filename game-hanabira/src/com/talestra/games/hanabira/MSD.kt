@@ -36,6 +36,8 @@ object MSD {
 		return data
 	}
 
+	annotation class Run(val op: Opcode)
+
 	enum class Opcode(val id: Int) {
 		VALUE(0),
 		FUNC_START(1),
@@ -120,6 +122,10 @@ object MSD {
 			val table2: List<Int>,
 			val instructions: List<INSTRUCTION>
 	)
+
+	class ScriptReader(val script: Script) {
+		var position = 0
+	}
 
 	fun read(data: ByteArray): Script {
 		val s = decryptIfRequired(data).openSync()

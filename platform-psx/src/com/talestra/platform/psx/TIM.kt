@@ -5,6 +5,7 @@ import com.soywiz.korim.bitmap.Bitmap8
 import com.soywiz.korim.color.BGRA_5551
 import com.soywiz.korim.color.ColorFormat16
 import com.soywiz.korim.color.ColorFormatBase
+import com.soywiz.korim.format.ImageData
 import com.soywiz.korim.format.ImageFormat
 import com.soywiz.korim.format.ImageFrame
 import com.soywiz.korim.format.ImageInfo
@@ -84,7 +85,7 @@ class TIM : ImageFormat() {
 		)
 	}
 
-	override fun readFrames(s: SyncStream, filename: String): List<ImageFrame> {
+	override fun readImage(s: SyncStream, filename: String): ImageData {
 		val h = readHeader(s)
 		val bpp = h.bpp
 
@@ -121,7 +122,7 @@ class TIM : ImageFormat() {
 			else -> throw IllegalArgumentException("Unsupported bpp: $bpp")
 		}
 
-		return listOf(ImageFrame(bmp, targetX = h.imgX, targetY = h.imgY))
+		return ImageData(frames = listOf(ImageFrame(bmp, targetX = h.imgX, targetY = h.imgY)))
 	}
 
 	companion object {

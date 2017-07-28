@@ -3,7 +3,6 @@ package com.talestra.games.hanabira
 import com.soywiz.korio.error.invalidOp
 import com.soywiz.korio.serialization.binary.*
 import com.soywiz.korio.stream.*
-import com.soywiz.korio.util.fromHexString
 import com.soywiz.korio.vfs.NodeVfs
 import com.soywiz.korio.vfs.VfsFile
 
@@ -29,7 +28,7 @@ object FJSYS {
 		if (h.table_files_start != table_files_start) invalidOp("Calculated table_files_start mismatch")
 
 		val table = s.sliceWithSize(0x50, (h.count * 0x10).toLong()).readAll().openSync()
-		val strings = s.sliceWithSize(table_strings_start.toLong(), h.table_strings_size.toLong())
+		val strings = s.sliceWithSize(table_strings_start.toLong(), h.table_strings_size.toLong()).readAll().openSync()
 
 		val entries = arrayListOf<Entry>()
 
@@ -47,7 +46,7 @@ object FJSYS {
 }
 
 suspend fun VfsFile.openFJSYS(): VfsFile {
-	val out = NodeVfs()
+	val out = NodeVfs(caseSensitive = false)
 	for (e in FJSYS.read(this.open())) {
 		out.rootNode.createChild(e.name).stream = e.stream
 	}

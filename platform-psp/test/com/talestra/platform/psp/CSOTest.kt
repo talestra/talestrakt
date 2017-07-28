@@ -1,6 +1,5 @@
 package com.talestra.platform.psp
 
-import com.soywiz.korio.async.sync
 import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.stream.openAsync
 import com.soywiz.korio.stream.readAll

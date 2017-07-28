@@ -9,7 +9,7 @@ class GameIso(
 ) {
 	companion object {
 		suspend fun fromIso(stream: AsyncStream): GameIso {
-			GameIso(stream.openAsIso())
+			return GameIso(stream.openAsIso())
 		}
 	}
 }

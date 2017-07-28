@@ -1,9 +1,9 @@
 package com.talestra.shny.play
 
+import com.soywiz.korio.inject.Singleton
 import com.soywiz.korio.stream.MemorySyncStream
 import com.soywiz.korio.stream.SyncStream
 import com.talestra.rhcommon.ds.Stack
-import com.talestra.rhcommon.inject.Singleton
 import com.talestra.shny.format.Script
 
 @Singleton

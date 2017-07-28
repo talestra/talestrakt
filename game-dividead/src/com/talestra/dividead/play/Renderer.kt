@@ -1,6 +1,6 @@
 package com.talestra.dividead.play
 
-import com.soywiz.korim.geom.Anchor
+import com.soywiz.korma.geom.Anchor
 
 open class Renderer {
 	suspend open fun draw(img: String, x: Int = 0, y: Int = 0, anchor: Anchor = Anchor.TOP_LEFT) {

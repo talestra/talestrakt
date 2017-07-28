@@ -1,6 +1,6 @@
 package com.talestra.shny.play
 
-import com.talestra.rhcommon.inject.Singleton
+import com.soywiz.korio.inject.Singleton
 
 @Singleton class GameState {
 	class Chara(val id: Int) {
