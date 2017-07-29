@@ -1,0 +1,65 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158049622]
+Sala de Juegos
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158049622]
+Aquí puedes participar
+en la simulación de
+combate del Van Eltia.
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158049622]
+¿Empezar simulación?
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158049622]
+<OPTION:0000>Sí
+No
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158049622]
+Empezando simulación
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158049622]
+¡Muy bien!
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166557847]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Káiser<COLOR:0F00>.
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496151]
+No está nada mal.
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158049622]
+No ha estado mal.
+
+## POINTER 17 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 18 [t:1;user:memnoch;time:1294602170]
+Mmm.
+Tal vez si destruyo
+más de golpe...
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 20 [t:1;user:memnoch;time:1294602170]
+Los he conseguido todos...
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 22 [t:1;user:memnoch;time:1294602170]
+Los he conseguido todos...
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 24 [t:1;user:memnoch;time:1294602170]
+Uggh... Esto es difícil.

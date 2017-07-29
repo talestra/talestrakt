@@ -1,0 +1,236 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:soywiz;time:1160238579]
+Tienda de Ropa
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Bikini
+
+## POINTER 3 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160238579]
+Esto es una tienda de ropa.
+
+## POINTER 5 [t:1;user:memnoch;time:1295091639]
+P-Por favor, ojead
+lo que queráis.
+
+## POINTER 7 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166781876]
+¿No hace demasiado calor
+para vestir con tanta ropa?
+
+## POINTER 9 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+¿Te puedo ayudar a encontrar algo?
+
+## POINTER 10 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 11 [t:1;user:memnoch;time:1295529254]
+N-No, gracias...
+Solo estoy echando un vistazo.
+
+## POINTER 13 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+Está bien.
+
+## POINTER 15 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+¿Quizá quieras algo
+fresco para llevar?
+
+## POINTER 17 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+Esa es una compra excelente.
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174186908]
+Por favor, vuelve pronto.
+
+## POINTER 21 [t:1;user:memnoch;time:1295573349]
+"Sudadera de Rasheans"
+
+## POINTER 23 [t:1;user:memnoch;time:1295573349]
+"Camiseta Hawaiana de Rasheans"
+
+## POINTER 25 [t:1;user:memnoch;time:1295573349]
+"Bañador de Rasheans"
+
+## POINTER 27 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160289065]
+¡Ya tenemos en venta
+prendas de Rasheans!
+
+## POINTER 28 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 29 [t:1;user:memnoch;time:1295529254]
+Prefiero llevar lo
+mismo todos los días.
+
+## POINTER 30 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 31 [t:1;user:memnoch;time:1294686246]
+Me pregunto si las mangas
+abombadas ya no están de moda...
+
+## POINTER 32 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 33 [t:1;user:memnoch;time:1294686246]
+Si me preguntas, creo que
+es una pérdida de tiempo
+estar eligiendo ropa.
+
+## POINTER 34 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 35 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+La ropa hecha en Inferia
+es toda muy gruesa.
+
+## POINTER 36 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 37 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+La ropa de pirata debe ser
+ligera para mejorar la movilidad.
+
+## POINTER 38 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 39 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174186908]
+¿No tienen nada
+que le quede bien
+a Dede?
+
+## POINTER 40 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 41 [t:1;r:2;ru:pacochan,evilluendas;time:1157722709]
+Error
+
+## POINTER 42 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 43 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+He encontrado una
+gema realmente bonita.
+
+## POINTER 44 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 45 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+¡¿Una gema?!
+
+## POINTER 46 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 47 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166781877]
+¡Por supuesto!
+
+## POINTER 48 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 49 [t:1;user:memnoch;time:1295529341]
+Es solo un botón.
+Es un cierre para la ropa,
+no tiene casi valor.
+
+## POINTER 50 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 51 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160238556]
+Pero es tan bonito...
+
+## POINTER 53 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160238556]
+Has encontrado <COLOR:0D00><ITEM:00015F01><COLOR:0F00>.
+
+## POINTER 54 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 55 [t:1;user:memnoch;time:1294856560]
+¿Esa no es Katrine, de la
+universidad de Mintche?
+
+## POINTER 56 [t:1;r:1;ru:pacochan;time:1157722709]
+Katrine
+
+## POINTER 57 [t:1;user:memnoch;time:1295488791]
+¡Buenas! ¡Cuánto tiempo!
+
+## POINTER 58 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 59 [t:1;user:memnoch;time:1295124473]
+Buenas.
+¿Llegaste a Ciudad de Inferia?
+
+## POINTER 60 [t:1;r:1;ru:pacochan;time:1157722709]
+Katrine
+
+## POINTER 61 [t:1;user:memnoch;time:1295218995]
+No, pero acabo de descubrir
+cómo llegar hasta allí.
+
+## POINTER 63 [t:1;user:memnoch;time:1295211726]
+Nuestro exclusivo vestido y una
+camiseta hawaiana de Ransheans.
+Serán 30.000 gald, por favor.
+
+## POINTER 64 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 65 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160255562]
+¿Tienes tiempo para
+ir de compras?
+
+## POINTER 66 [t:1;r:2;ru:pacochan,evilluendas;time:1157722709]
+Katrine
+
+## POINTER 67 [t:1;user:memnoch;time:1295124738]
+El dueño de la tienda me ha
+sugerido que necesitaría
+ropa bonita si iba a ir a
+Ciudad de Inferia.
+
+## POINTER 68 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 69 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174186908]
+¡Es demasiado cara, y no
+la necesitas para nada!
+
+## POINTER 70 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 71 [t:1;user:memnoch;time:1295124738]
+No, gracias.
+
+## POINTER 73 [t:1;user:memnoch;time:1295300435]
+Ahora mismo puedes pagar
+en doce cómodas cuotas...
+
+## POINTER 74 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 75 [t:1;user:memnoch;time:1295124738]
+<BOLD:0100>¡No, gracias!<BOLD:0000>
+
+## POINTER 77 [t:1;user:memnoch;time:1295300465]
+Rebajaré 50 gald el precio.
+
+## POINTER 78 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 79 [t:1;user:memnoch;time:1295124738]
+<BOLD:0100>¡¡NO, GRACIAS!!<BOLD:0000>
+
+## POINTER 81 [t:1;user:memnoch;time:1295124482]
+E-Está bien.
+
+## POINTER 82 [t:1;r:2;ru:pacochan,evilluendas;time:1157722709]
+Katrine
+
+## POINTER 83 [t:1;user:memnoch;time:1295124473]
+Muchas gracias.
+Casi pierdo el dinero para
+el viaje a Ciudad de Inferia.
+
+## POINTER 84 [t:1;r:2;ru:pacochan,evilluendas;time:1157722709]
+Katrine
+
+## POINTER 85 [t:1;user:memnoch;time:1295124473]
+¡Oh, oh! ¡Será mejor
+que me dé prisa!

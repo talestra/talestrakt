@@ -1,0 +1,238 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:Lobap;time:1159091328]
+Estación de Luishka
+
+## POINTER 2 [t:1;user:memnoch;time:1294849478]
+¿Volver a la estación de Imen?
+Sí
+No
+
+## POINTER 4 [t:1;user:memnoch;time:1294849478]
+¿Adónde te gustaría ir?
+Estación de Imen
+Estación de la mina abandonada
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;user:memnoch;time:1294849478]
+Aquí está el <COLOR:0D00>sellador de billetes<COLOR:0F00>
+que estabais esperando.
+
+## POINTER 8 [t:1;user:memnoch;time:1295569151]
+¡Oooh!
+¡Muchísimas gracias!
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1167661533]
+Os debería dar algo
+más que las gracias.
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:Lobap;time:1159091328]
+Por favor. Esta es mi señal de gratitud.
+
+## POINTER 14 [t:1;user:memnoch;time:1295534118]
+Recibes una <COLOR:0D00>Sefira<COLOR:0F00>.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:soywiz;time:1160206944]
+Gracias.
+
+## POINTER 18 [t:1;user:memnoch;time:1294591911]
+Veo que habéis aprendido el lenguaje
+mélnico. Haced un buen uso de él.
+
+## POINTER 20 [t:1;user:memnoch;time:1294849478]
+Que mi amor viva o
+muera depende de ti.
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:Lobap;time:1159091473]
+Te lo agradezco de verdad.
+
+## POINTER 24 [t:1;user:memnoch;time:1294591911]
+Je, je, je.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:soywiz;time:1160206944]
+Gracias por prestarme tus oídos.
+Dentro de poco, este amor a
+gran distancia habrá acabado.
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+¡Me he declarado!
+No acabo de creérmelo...
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:soywiz;time:1160206944]
+¡Ah, viajero!
+¿Has estado alguna vez
+en una relación romántica
+a gran distancia?
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+¿Sabes lo que es el no
+poder encontrarte con
+la persona a la que amas?
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 34 [t:1;user:memnoch;time:1294849478]
+¡¿Ein?!
+
+## POINTER 36 [t:1;user:memnoch;time:1294849478]
+¡Mi chica coge el Craymel
+Express desde muy lejos
+solo para verme!
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+¡Quiero cortar su billete
+personalmente!
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+¡¡Cortar!!
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 42 [t:1;user:memnoch;time:1294849478]
+Pues... hazlo.
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+¡Ahí está el problema!
+
+## POINTER 46 [t:1;user:memnoch;time:1294849537]
+¡No tengo mi <COLOR:0D00>sellador de billetes<OPTION:0F00>!
+
+## POINTER 48 [t:1;user:memnoch;time:1294849580]
+Se lo dejé al conductor de la <COLOR:0E00>estación
+de Imen<COLOR:0F00> y nunca lo he recuperado.
+Soy tan descuidado...
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+Que imprudente e irreflexivo.
+¿Por qué no lo recuperas?
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+No puedo...
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+Mi deber es vigilar
+esta estación.
+
+## POINTER 56 [t:1;user:memnoch;time:1294849508]
+Por favor, pedidle al conductor de
+la <COLOR:0E00>estación de Imen<COLOR:0F00> que devuelva
+el <COLOR:0D00>sellador de billetes<COLOR:0F00>.
+
+## POINTER 58 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+¡Por favor!<OPTION:0000>
+Sí
+No
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+Vale. Lo haré si veo
+al conductor de Imen.
+
+## POINTER 62 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+¡Muchísimas gracias!
+
+## POINTER 64 [t:1;user:memnoch;time:1297461564]
+La cuestión de si mi
+amor vive o muere está
+en vuestras manos.
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 66 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+Genial.
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 68 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+Lo siento, pero tenemos
+algo de prisa.
+
+## POINTER 70 [t:1;user:memnoch;time:1294605517]
+Claro.
+Por supuesto...
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:soywiz;time:1160207156]
+*Suspiro*
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 74 [t:1;user:memnoch;time:1295385357]
+¡<CHARA:REID> es demasiado
+rudo con los controles!
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 76 [t:1;user:memnoch;time:1295389138]
+Oye, ¿dónde está <CHARA:KEELE>?
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:soywiz;time:1160207156]
+¿Eh?
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 80 [t:1;user:memnoch;time:1295389165]
+¡<CHARA:KEELE>!
+¡¿Qué pasa?!
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 82 [t:1;user:memnoch;time:1295386137]
+¿Estás enfermo?
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 84 [t:1;user:memnoch;time:1295385776]
+¡¡C-Claro que no!!
+¡Estaba tan a gusto que me he
+quedado dormido todo el viaje!
+
+## POINTER 85 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 86 [t:1;user:memnoch;time:1295542296]
+¿Vamos a viajar otra vez
+en el Craymel Express?
+
+## POINTER 87 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 88 [t:1;r:1;ru:pacochan;user:pacochan;time:1167661533]
+No tenemos otra opción.
+
+## POINTER 89 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 90 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+Aún tenemos bastante combustible.
+Todo irá bien.
+
+## POINTER 92 [t:1;user:memnoch;time:1295148753]
+¿Quieres saltarte el
+Craymel Express 2?
+<OPTION:0000>Sí
+No
+
+## POINTER 94 [t:1;r:1;ru:pacochan;user:pacochan;time:1160208712]
+<CHARA:REID> ha obtenido
+el título de
+<COLOR:0D00>Bombardeador<OPTION:0F00>.

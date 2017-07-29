@@ -1,0 +1,224 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+Observatorio de Seyfert, Puerta de la Prueba
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+Ten cuidado.
+
+## POINTER 4 [t:1;user:memnoch;time:1294596982]
+Esto es un punto de carga.
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967925]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163124169]
+Nos vemos luego.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163124169]
+¿Qué pasa?
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+¡Nada!
+Pero...
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+¿Pero?
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+Estaba pensando...
+No me di cuenta en lo
+mucho que has crecido.
+
+## POINTER 17 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 18 [t:1;user:memnoch;time:1295633921]
+¿Te refieres a que estoy
+engordando? ¡Es imposible! ¡No he
+comido nada decente en años!
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 20 [t:1;user:memnoch;time:1295633921]
+Sí... eso es.
+Ten cuidado, ¿vale?
+
+## POINTER 21 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+Lo tendré.
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;user:memnoch;time:1295633921]
+...
+Por favor, cuídate...
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+No puedo entrar...
+
+## POINTER 27 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;time:1157722709]
+¡<CHARA:REID>!
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+Antes de que empieces la prueba,
+¿por qué no echamos un vistazo
+al resto de este lugar?
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+Es una buena idea.
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 34 [t:1;user:memnoch;time:1294682823]
+Así que esta es la
+última Puerta de la Prueba...
+
+## POINTER 35 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 36 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+No puedes entrar...
+
+## POINTER 38 [t:1;user:memnoch;time:1294682823]
+¿Adónde quieres ir?<OPTION:0000>
+Sala de Observaciones de Seyfert
+Entrada
+
+## POINTER 39 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 40 [t:1;user:memnoch;time:1294682823]
+¿Adónde vas?
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;time:1157722709]
+<CHARA:REID>...
+
+## POINTER 43 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+¿<CHARA:REID>?
+¡¡<CHARA:REID>!! ¡¿Estás bien?!
+
+## POINTER 45 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 46 [t:1;user:memnoch;time:1295211920]
+Sí...
+Lo siento...
+Estoy bien.
+
+## POINTER 47 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+¿Y cómo ha ido?
+
+## POINTER 49 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 50 [t:1;user:memnoch;time:1295085312]
+Todo ha terminado.
+Me han concedido los
+poderes de la Aurora Divina.
+
+## POINTER 51 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163125937]
+¡Eso es genial!
+¡Es realmente maravilloso!
+¡De verdad, <CHARA:REID>!
+
+## POINTER 53 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 54 [t:1;user:memnoch;time:1295636610]
+Hice lo que pude... Eso es todo.
+
+## POINTER 55 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+<CHARA:REID>...
+Eres mi héroe.
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 58 [t:1;user:memnoch;time:1294688050]
+¡N-No me tomes el pelo!
+
+## POINTER 59 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 60 [t:1;user:memnoch;time:1294688050]
+No, lo digo en serio. Mírate.
+Lo estás dando todo para...
+¡para salvar el mundo!
+
+## POINTER 61 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 62 [t:1;user:memnoch;time:1294688050]
+El mundo... Lo que realmente
+quiero hacer es proteger a...
+alguien importante para mí.
+
+## POINTER 63 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 64 [t:1;user:memnoch;time:1294688050]
+¿Eh?
+
+## POINTER 65 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157967883]
+¡¿Qué ha sido eso?!
+
+## POINTER 67 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 68 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166558429]
+No lo sé.
+¡Vamos a ver a <CHARA:KEELE>!

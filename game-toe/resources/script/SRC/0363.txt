@@ -1,0 +1,373 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160243943]
+Taller de Armas
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160243943]
+Bupumu : Imen
+
+## POINTER 2 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Hamilt
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175009761]
+¿Quieres comprar algo?
+
+## POINTER 4 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Hamilt
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160243943]
+Gracias.
+
+## POINTER 6 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Hamilt
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160243943]
+...
+
+## POINTER 8 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175009762]
+Parece que no hayas visto
+armas así nunca...
+
+## POINTER 10 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160243943]
+¿No tenéis guerras
+en Inferia?
+
+## POINTER 12 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 13 [t:1;user:memnoch;time:1295386431]
+¿Guerras?
+¿Te refieres a batallas
+entre tierras enfrentadas?
+
+## POINTER 14 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254763]
+Oí que hubo una hace tiempo,
+pero fue antes de mi época...
+
+## POINTER 16 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 17 [t:1;user:memnoch;time:1295386443]
+¡<8276><828F><8297>!
+¿No hay guerras?
+
+## POINTER 18 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175009762]
+¡Es increíble!
+Envidio vuestro mundo.
+
+## POINTER 20 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 21 [t:1;user:memnoch;time:1295387362]
+Pero siempre estamos
+luchando contra monstruos.
+
+## POINTER 22 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160243943]
+Aun con todo...
+A vosotros no os preocupa que el
+gobernante de hoy sea el mendigo
+de mañana, ¿verdad?
+
+## POINTER 24 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 25 [t:1;user:memnoch;time:1295387340]
+Al menos podéis dormir
+bien por las noches.
+
+## POINTER 26 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 27 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160831255]
+Yo estaría en paro en
+un mundo sin guerras.
+
+## POINTER 28 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 29 [t:1;user:memnoch;time:1294955630]
+¿Me venderás la
+jaula craymel para
+el Craymel Express?
+
+## POINTER 30 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 31 [t:1;user:memnoch;time:1295386999]
+<8278><8285><8293><8144>
+Es tuya por 2.000 gald.
+Comprar
+No comprar
+
+## POINTER 32 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 33 [t:1;user:memnoch;time:1286291070]
+Aseguraos de que volvéis.
+
+## POINTER 34 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 35 [t:1;user:memnoch;time:1286291036]
+Parece que andas un
+poco escaso de gald.
+
+## POINTER 36 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 37 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175009762]
+Toma.
+Ten cuidado. Pesa mucho.
+
+## POINTER 39 [t:1;user:memnoch;time:1295534157]
+<OPTION:0000>Recibes <COLOR:0D00><ITEM:00014701><COLOR:0F00>.
+
+## POINTER 40 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 41 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160243943]
+Hamilt puede que no hable
+mucho, pero trabaja duro.
+
+## POINTER 42 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 43 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254416]
+Aunque Bulenda y yo
+no podemos tener bebés,
+hemos encontrado un 
+buen heredero.
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;time:1157722711]
+Bulenda
+
+## POINTER 45 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161191879]
+Ahora, al no tener un gobernante,
+toda Celestia está agitada.
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;time:1157722711]
+Bulenda
+
+## POINTER 47 [t:1;user:memnoch;time:1294955630]
+Recomiendo encarecidamente llevar
+un arma craymel para sobrevivir
+en este mundo.
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;time:1157722711]
+Bulenda
+
+## POINTER 49 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161191879]
+Tenemos explosivos de alta calidad.
+
+## POINTER 50 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 51 [t:1;user:memnoch;time:1294955630]
+¿Las armas aquí también
+usan jaulas craymel?
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;time:1157722711]
+Bulenda
+
+## POINTER 53 [t:1;user:memnoch;time:1294955630]
+<8278><8285><8293><8144>
+Esto es una bomba craymel.
+Tira de la anilla de seguridad
+y explotará en cinco segundos.
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;time:1157722711]
+Bulenda
+
+## POINTER 55 [t:1;user:memnoch;time:1295389968]
+Pulverizará rocas, e incluso
+podría llevarse por delante
+a diez personas a la vez.
+
+## POINTER 56 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 57 [t:1;user:memnoch;time:1294955630]
+Esto debe ser la jaula craymel
+para el Craymel Express.
+
+## POINTER 58 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 59 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254353]
+¿Está a la venta?
+¿Cuánto cuesta?
+
+## POINTER 60 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 61 [t:1;user:memnoch;time:1295385590]
+<8267><828D><828D><8144>
+Es toda tuya por 2.000 gald.
+
+## POINTER 62 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 63 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254353]
+¿Estás seguro?
+Parece bastante poco...
+
+## POINTER 64 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 65 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254353]
+Para algo tan grande...
+
+## POINTER 66 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 67 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254353]
+No te preocupes por eso.
+
+## POINTER 68 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 69 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254353]
+Después de todo, eres el
+príncipe de <CHARA:MEREDY>.
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;time:1157722711]
+Bulenda
+
+## POINTER 71 [t:1;r:2;ru:soywiz,evilluendas;user:evilluendas;time:1160254353]
+¡Bienvenidos!
+Sagura os está esperando.
+
+## POINTER 72 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 73 [t:1;user:memnoch;time:1295389307]
+¡Ahí va!
+¡Habéis venido!
+
+## POINTER 74 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 75 [t:1;r:1;ru:soywiz;user:soywiz;time:1167963107]
+Por favor, háblenos
+sobre las armas.
+
+## POINTER 76 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 77 [t:1;user:memnoch;time:1294857135]
+Desde luego. Empecemos por las pistolas
+craymel. Hay dos tipos: oscuras y de
+rayo. Ambas tienen cualidades únicas.
+
+## POINTER 78 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 79 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160830920]
+¿Pese a parecer iguales?
+
+## POINTER 80 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Sagura
+
+## POINTER 81 [t:1;user:memnoch;time:1294857135]
+Oh, sí. La coraza exterior es
+la misma. La diferencia está
+en el craymel oscuro o de rayo
+que se usa en su interior.
+
+## POINTER 82 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 83 [t:1;user:memnoch;time:1294857135]
+¡Entiendo! Estáis usando las
+jaulas craymel como piezas.
+
+## POINTER 84 [t:1;r:1;ru:evilluendas;time:1157722711]
+Bulenda
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161191879]
+Y están adaptadas al físico
+del cliente. También tenemos
+muchos tipos de pistolas.
+
+## POINTER 86 [t:1;r:1;ru:evilluendas;time:1157722711]
+Bulenda
+
+## POINTER 87 [t:1;user:memnoch;time:1295389484]
+Este es un modelo ligero, ideal
+para un chico de unos doce años.
+
+## POINTER 88 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 89 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254353]
+¿Incluso los niños llevan
+armas tan peligrosas?
+
+## POINTER 90 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Hamilt
+
+## POINTER 91 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254353]
+Es un mundo peligroso.
+Tienen que protegerse.
+
+## POINTER 92 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 93 [t:1;user:memnoch;time:1295532325]
+¿Quién llevaría algo tan
+grande como esto?
+
+## POINTER 94 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Hamilt
+
+## POINTER 95 [t:1;user:memnoch;time:1294955630]
+Eso es combustible para el
+<COLOR:0D00>Craymel Express<COLOR:0F00>.
+No es un arma.
+
+## POINTER 96 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 97 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160254353]
+¿El <COLOR:0D00>Craymel Express<COLOR:0F00>?
+
+## POINTER 98 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Hamilt
+
+## POINTER 99 [t:1;user:memnoch;time:1295529037]
+Es un modo de transporte usado en
+Celestia. Solía ir a todas partes, pero
+ahora solo se usa para viajar a través
+de la Montaña de la Roca del Dragón.
+
+## POINTER 100 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 101 [t:1;user:memnoch;time:1294857135]
+Un tren empujado por
+una jaula craymel...
+
+## POINTER 102 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 103 [t:1;user:memnoch;time:1294857135]
+Debe ser grande...
+
+## POINTER 104 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Hamilt
+
+## POINTER 105 [t:1;user:memnoch;time:1294857147]
+Oh, sí. Lo es.

@@ -1,0 +1,781 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+Habitación de la Clarividente
+
+## POINTER 2 [t:1;user:memnoch;time:1297493442]
+Esta es la habitación
+de la clarividente.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+Algún día, te reunirás con
+la mujer que estás buscando.
+
+## POINTER 6 [t:1;user:memnoch;time:1294960487]
+¿Quieres que te diga
+qué craymel reside
+en tu interior?
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160140353]
+<OPTION:0000>Sí
+No
+
+## POINTER 10 [t:1;user:memnoch;time:1295219501]
+Te voy a hacer algunas preguntas.
+No respondas con lo que crees que
+debes responder, sino con lo que
+realmente sientes.
+Pulsa <BUTTON:0100> para salir
+cuando quieras.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+Empecemos.
+
+## POINTER 14 [t:1;user:memnoch;time:1294960487]
+Hemos acabado.
+Vive en armonía 
+con tu craymel.
+
+## POINTER 16 [t:1;user:memnoch;time:1295298940]
+Cada uno de nosotros vive con craymels.
+Conocerlos a ellos es conocernos
+a nosotros mismos.
+
+## POINTER 17 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 18 [t:1;user:memnoch;time:1295298791]
+Es bonita, pero...
+
+## POINTER 19 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 20 [t:1;user:memnoch;time:1295488591]
+Guau, bonita muñeca...
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+¡No la toques!
+
+## POINTER 23 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 24 [t:1;user:memnoch;time:1295218948]
+¡¿Eh?!
+¿P-Por qué no?
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¡Uso la muñeca para
+conjurar maldiciones!
+
+## POINTER 27 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:soywiz;time:1163349722]
+Ahora que lo pienso, no he tomado
+un baño desde hace tiempo...
+
+## POINTER 29 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¡Buf! ¡Vaya pelos llevo!
+
+## POINTER 31 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 32 [t:1;user:memnoch;time:1294856555]
+Apuesto a que no hay otro
+uniforme de la universidad
+de Mintche más sucio que este...
+
+## POINTER 33 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+¡Hola!
+
+## POINTER 35 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:evilluendas;time:1162398444]
+Me pregunto cuándo voy
+a crecer en este sombrero.
+
+## POINTER 37 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 38 [t:1;user:memnoch;time:1295574185]
+¡Aah, tan elegante como siempre!
+¡Bua, ja, ja, ja!
+
+## POINTER 39 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Error
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+Capítulo de Inferia
+Capítulo del Orbus
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+Agua
+Fuego
+Viento
+Otro
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+Tierra
+Hielo
+Rayo
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+¿Te sientes seguro hablando
+con todo el mundo?
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+Cuando estás al límite,
+¿pierdes la habilidad de 
+pensar con claridad?
+
+## POINTER 52 [t:1;user:memnoch;time:1295529132]
+¿Te pondrías de acuerdo con 
+alguien solo para evitar un 
+conflicto?
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+Si ves a gente peleando,
+¿intentas no involucrarte?
+
+## POINTER 56 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Dejas para mañana lo que 
+puedes hacer hoy?
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Puedes realizar tareas monótonas 
+una y otra vez si es necesario?
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Crees que eres una persona normal?
+
+## POINTER 62 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Estás satisfecho contigo
+mismo tal como eres ahora?
+
+## POINTER 64 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Sientes que no puedes cambiar 
+el mundo que te rodea?
+
+## POINTER 66 [t:1;user:memnoch;time:1295529211]
+¿Reaccionas emocionalmente a cosas
+solo después de que haya pasado
+algo de tiempo?
+
+## POINTER 68 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Sientes que la gente 
+no te entiende?
+
+## POINTER 70 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160156932]
+¿Deseas expresarte a través del arte?
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Estás más encarado a la
+tragedia que a la comedia?
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Te hieren las cosas
+más simples?
+
+## POINTER 76 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Sientes que eres tan sensible 
+como la mayoría de la gente?
+
+## POINTER 78 [t:1;user:memnoch;time:1295219439]
+¿Te gusta que siempre haya algo
+que te conmueva emocionalmente?
+
+## POINTER 80 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Eres una persona emocional, 
+y estás orgulloso de ello?
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162398444]
+¿Revives frecuentemente en tu 
+cabeza tus malos recuerdos?
+
+## POINTER 84 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160773879]
+¿Encuentras difícil pertenecer a
+grupos que tienen normas estrictas?
+
+## POINTER 86 [t:1;r:1;ru:pacochan;user:korsso;time:1160156932]
+¿Luchas por lo que te merece la pena,
+aunque el resto no lo valore?
+
+## POINTER 88 [t:1;r:1;ru:pacochan;user:soywiz;time:1160773879]
+¿Puedes decir lo que piensas
+sin titubear ante casi
+cualquier persona?
+
+## POINTER 90 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Crees que puedes proteger a
+aquellos que dependen de ti?
+
+## POINTER 92 [t:1;user:memnoch;time:1295301254]
+Si las cosas no van como crees que
+deberían ir, ¿pierdes el interés?
+
+## POINTER 94 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Te disgusta depender de otros?
+
+## POINTER 96 [t:1;user:memnoch;time:1295573310]
+¿Estás de acuerdo con
+el dicho "ojo por ojo"?
+
+## POINTER 98 [t:1;user:memnoch;time:1295219421]
+¿Eres una persona que rara vez se enfada,
+sean cuales sean las circunstancias?
+
+## POINTER 100 [t:1;user:memnoch;time:1295298086]
+¿Te perturban las cosas que no se
+pueden dividir en blanco o negro?
+
+## POINTER 102 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Eres capaz de ignorar lo
+que los demás piensan de ti?
+
+## POINTER 104 [t:1;user:memnoch;time:1295219501]
+¿Sigues tu propio camino sin desviarte,
+sin pensar en las consecuencias?
+
+## POINTER 106 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Te encuentras frecuentemente con
+el papel de liderar a otros?
+
+## POINTER 108 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Odias realizar la misma
+tarea una y otra vez?
+
+## POINTER 110 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+Si ves algo nuevo,
+¿enseguida quieres probarlo?
+
+## POINTER 112 [t:1;user:memnoch;time:1295298013]
+¿Te esfuerzas por entretener a los
+que se encuentran a tu alrededor?
+
+## POINTER 114 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Pruebas cualquier cosa
+que te resulte curiosa?
+
+## POINTER 116 [t:1;user:memnoch;time:1295296710]
+¿Prefieres darte por vencido antes
+de esforzarte en hacer las cosas?
+
+## POINTER 118 [t:1;r:1;ru:pacochan;user:korsso;time:1160156932]
+¿Te gustan los sitios con mucha gente?
+
+## POINTER 120 [t:1;r:1;ru:pacochan;user:korsso;time:1160156932]
+¿Sientes que tienes una gran imaginación?
+
+## POINTER 122 [t:1;r:1;ru:pacochan;user:pacochan;time:1166979123]
+¿Eres el tipo de persona que olvida
+pronto las malas cosas que pasan?
+
+## POINTER 124 [t:1;r:1;ru:pacochan;user:korsso;time:1160156932]
+¿Haces amigos fácilmente?
+
+## POINTER 126 [t:1;user:memnoch;time:1295219214]
+¿Eres normalmente demasiado optimista
+en hacer las cosas, y al final terminas
+entrando en un estado de pánico?
+
+## POINTER 128 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980092]
+¿Eres tranquilo y moderado?
+
+## POINTER 130 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+¿Te sientes molesto en lugares
+ruidosos con gente extraña?
+
+## POINTER 132 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+¿Piensas las cosas minuciosamente
+antes de realizar una acción?
+
+## POINTER 134 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+¿Odias que interrumpan tu vida
+social en tu tiempo privado?
+
+## POINTER 136 [t:1;r:1;ru:pacochan;user:korsso;time:1160156932]
+¿Necesitas tiempo para estar solo?
+
+## POINTER 138 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+¿Odias confiar en la intuición
+o la posibilidad?
+
+## POINTER 140 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+Cuando las cosas se animan,
+¿prefieres mirar a participar?
+
+## POINTER 142 [t:1;user:memnoch;time:1295219325]
+¿Aprendes cosas porque realmente te
+interesan, o simplemente las memorizas?
+
+## POINTER 144 [t:1;user:memnoch;time:1295219018]
+¿Te critican a veces por
+discutir demasiado las cosas?
+
+## POINTER 146 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237199]
+¿Te fastidian las cosas
+inconsistentes e ilógicas?
+
+## POINTER 148 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+¿Esperas mejorar aunque
+sea un poco cada día?
+
+## POINTER 150 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237199]
+¿Crees que los favoritismos
+son algo malo?
+
+## POINTER 152 [t:1;r:1;ru:pacochan;user:pacochan;time:1168510349]
+¿La gente no se percata
+demasiado a menudo de que
+estás enfadado?
+
+## POINTER 154 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+¿Te molesta que las personas
+hagan las cosas sin entusiasmo?
+
+## POINTER 156 [t:1;user:memnoch;time:1295300148]
+¿Eres más duro contigo
+mismo que con los demás?
+
+## POINTER 158 [t:1;user:memnoch;time:1295299290]
+¿Cuando planeas algo,
+te preocupas por crear
+un horario de antemano?
+
+## POINTER 160 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237199]
+¿Reflexionas mucho
+sobre tus acciones?
+
+## POINTER 162 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237200]
+¿Se te da bastante mal
+hacer reír a los demás?
+
+## POINTER 164 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237200]
+¿Te esfuerzas especialmente en
+no ser grosero con los demás?
+
+## POINTER 166 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237200]
+¿Eres el tipo de persona que
+no puede callarse cuando
+encuentra un error?
+
+## POINTER 167 [t:1;r:1;ru:pacochan;time:1157722710]
+<VAR:00101104001100040F30>
+
+## POINTER 169 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237200]
+Error
+orden: <VAR:00101104001100040F30>
+
+## POINTER 171 [t:1;user:memnoch;time:1295302185]
+¿Prefieres estar solo a
+estar con mucha gente?
+
+## POINTER 173 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237200]
+¿Luchas hasta el último
+momento, sin importar las
+dificultades?
+
+## POINTER 175 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237200]
+¿Odias las tareas repetitivas?
+
+## POINTER 177 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237775]
+¿Te dejas llevar a veces
+por la emoción del momento?
+
+## POINTER 179 [t:1;r:1;ru:pacochan;user:pacochan;time:1168510122]
+¿Cuando ves a una persona
+negligente, te preguntas por qué
+lo es en vez de enfadarte?
+
+## POINTER 181 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de Agua,
+Undine.
+
+## POINTER 183 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+Tus amigos te ven como
+una persona educada, ¿no?
+
+## POINTER 185 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237775]
+Eso prueba que tu actitud amable
+y capacidad de escucha calman
+y relajan a tus amigos.
+
+## POINTER 187 [t:1;r:1;ru:pacochan;user:pacochan;time:1168510122]
+No eres a menudo el líder,
+pero se te necesita para
+mantener al grupo unido.
+
+## POINTER 188 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 189 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237775]
+¡Sí, te ha calado, <CHARA:REID>!
+¡Ese eres tú!
+
+## POINTER 191 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de fuego,
+Efreet.
+
+## POINTER 193 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237775]
+En cuanto tienes un objetivo en
+la cabeza, luchas hasta conseguirlo
+sin importar los obstáculos que
+encuentres en el camino.
+
+## POINTER 195 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237775]
+Eres generoso, y te
+gusta cuidar del
+bienestar de los demás.
+
+## POINTER 197 [t:1;r:1;ru:pacochan;user:soywiz;time:1160237775]
+Mejoras liderando a otros.
+
+## POINTER 198 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 199 [t:1;user:memnoch;time:1297465983]
+Mmmm... No sabía que tuvieras
+semejante capacidad de
+liderazgo, <CHARA:REID>.
+
+## POINTER 201 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de viento,
+Sylph.
+
+## POINTER 203 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+Eres extremadamente
+sensible, y te emocionas
+por cada hoja que cae.
+
+## POINTER 205 [t:1;user:memnoch;time:1295299868]
+Tienes la habilidad de expresar bien
+tus sentimientos y no aislarte.
+
+## POINTER 207 [t:1;r:1;ru:pacochan;user:pacochan;time:1168510349]
+Ayudas a tus compañeros con tu
+tu amabilidad y sensibilidad.
+
+## POINTER 208 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 209 [t:1;user:memnoch;time:1295301847]
+<CHARA:MEREDY> tiene los mismos resultados. <81F4>
+
+## POINTER 210 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 211 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+¡¿Qué?!
+
+## POINTER 212 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 213 [t:1;user:memnoch;time:1294960487]
+¿Es eso malo?
+
+## POINTER 215 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de la 
+tierra, Gnome.
+
+## POINTER 217 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+Das rienda suelta a tu curiosidad,
+moviéndote enérgicamente de una
+cosa a la siguiente.
+
+## POINTER 219 [t:1;r:1;ru:pacochan;user:pacochan;time:1168510349]
+Siempre estás buscando diversión,
+y con tu actitud positiva, animas
+a los de tu alrededor.
+
+## POINTER 221 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+Por eso habitualmente crees que
+eres el que anima al grupo.
+
+## POINTER 222 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 223 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+¡Guau! ¡Tú y yo nos parecemos!
+
+## POINTER 224 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 225 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+¡¿Qué?!
+
+## POINTER 226 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 227 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+¡No tienes por qué parecer tan descontento!
+
+## POINTER 229 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de hielo, 
+Celsius.
+
+## POINTER 231 [t:1;user:memnoch;time:1295301041]
+Observas constantemente y determinas
+con tranquilidad todas las situaciones
+que te rodean.
+
+## POINTER 233 [t:1;user:memnoch;time:1295301041]
+Tienes una gran curiosidad
+intelectual, y tratas a todo
+el mundo con igualdad y justicia.
+
+## POINTER 235 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+Como resultado, tus amigos
+habitualmente dependen de ti.
+
+## POINTER 236 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 237 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+¡¿<CHARA:REID>, calmado?!
+No lo sabía.
+A mí me pareces un cabraloca...
+
+## POINTER 238 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 239 [t:1;user:memnoch;time:1295299339]
+Eso es lo que tú crees. De hecho
+soy una persona muy interesante
+y cultivada.
+
+## POINTER 241 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel del rayo,
+Volt.
+
+## POINTER 243 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980093]
+Tienes ideales elevados, trabajas
+duro y siempre alcanzas tus metas
+al final.
+
+## POINTER 245 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+Siempre estás buscando
+maneras mejores para
+alcanzar tus metas, sin
+perder ninguna oportunidad.
+
+## POINTER 247 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+Te relacionas con los demás 
+de manera educada y honesta,
+y habitualmente juegas el papel
+de mantener el grupo bajo control.
+
+## POINTER 248 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 249 [t:1;user:memnoch;time:1294960487]
+<CHARA:REID>, ¿el mismo tipo
+de persona que yo?
+¡Tiene que haber un error!
+
+## POINTER 250 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 251 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+¡Vaya, PERDONE USTED!
+
+## POINTER 252 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+flag:<VAR:00100804>
+
+## POINTER 254 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de agua,
+Undine.
+
+## POINTER 256 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+Te das por satisfecho bastante
+fácilmente, y no sientes la 
+necesidad de llevar las cosas
+demasiado lejos.
+
+## POINTER 258 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+Odias el conflicto y la
+presión, y raramente
+expresas tus opiniones.
+
+## POINTER 260 [t:1;user:memnoch;time:1294960487]
+Pero el que al final
+pierde por no decir las
+cosas o exteriorizar sus
+opiniones eres tú.
+
+## POINTER 261 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 262 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+¡Increíble! ¡Ve a través
+de ti, <CHARA:REID>!
+
+## POINTER 264 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de fuego,
+Efreet.
+
+## POINTER 266 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980528]
+Con tal de no mostrar ninguna
+debilidad, ¿no te encuentras
+habitualmente forzando a otros
+para hacer lo que tú quieres?
+
+## POINTER 268 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243094]
+Si eres demasiado exigente,
+puedes volverte algo similar
+a un dictador con el riesgo
+de perder a tus amigos.
+
+## POINTER 270 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980528]
+Los líderes también tienen
+que aprender a escuchar lo
+que los demás tienen que
+decir.
+
+## POINTER 271 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 272 [t:1;user:memnoch;time:1295488664]
+¡Eh, somos el mismo
+tipo de persona!
+Mejor que tengamos cuidado,
+¿eh?
+
+## POINTER 274 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel del viento,
+Sylph.
+
+## POINTER 276 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+Eres una persona emocional,
+dependes de tu estado de ánimo.
+
+## POINTER 278 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+Si dejas de cumplir tus 
+responsabilidades por tus 
+caprichos, perderás la confianza
+de tus amigos.
+
+## POINTER 280 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+En vez de estar enfadado
+cuando otros no te entiendan,
+trabaja duro para que los demás
+reconozcan tu valía.
+
+## POINTER 281 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 282 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+¡<CHARA:MEREDY> el mismo tipo!
+¡Vamos a mejorar, <CHARA:REID>!
+
+## POINTER 284 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de la 
+tierra, Gnome.
+
+## POINTER 286 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+Siempre pasas de un nivel al
+siguiente, dejando muchas cosas
+a medio hacer persiguiendo la
+diversión, ¿verdad?
+
+## POINTER 288 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+Si te espoleas demasiado,
+tus amigos se cansarán de ti.
+
+## POINTER 290 [t:1;user:memnoch;time:1297461096]
+Quizá deberías poner más
+esfuerzos en hacer más divertido
+lo que ya tienes delante de ti.
+
+## POINTER 292 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel de hielo,
+Celsius.
+
+## POINTER 294 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+¿Tienes una gran riqueza de
+conocimientos, pero no estás
+dispuesto a compartirlos?
+
+## POINTER 296 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+Si constantemente juzgas a los
+demás, la gente nunca pasará más
+allá de tus fallos y nunca verá
+la buena persona que eres realmente.
+
+## POINTER 298 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+En vez de mantener tus pensamientos
+para ti, ¿por qué no intentas 
+aprender a disfrutar compartiendo
+tiempo y conocimientos con tus amigos?
+
+## POINTER 299 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 300 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+Compartir con los amigos, ¿eh?
+No sé qué puede haber tan
+divertido en eso.
+
+## POINTER 302 [t:1;user:memnoch;time:1294960487]
+El craymel que reside en tu
+corazón es el craymel del rayo,
+Volt.
+
+## POINTER 304 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+Si insistes en el mismo nivel de
+perfección para los demás que
+para ti mismo, tus amigos te 
+evitarán.
+
+## POINTER 306 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243590]
+Comprende que cada persona tiene
+su manera de hacer las cosas.
+
+## POINTER 308 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980528]
+Cosas que estás seguro que
+están bien algunas veces también
+estarán mal. No seas demasiado
+insistente en tus ideales.
+
+## POINTER 309 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 310 [t:1;user:memnoch;time:1297493423]
+¡¿Qué?! ¿Qué pasa
+con mi manera de ser?
+
+## POINTER 311 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 312 [t:1;r:1;ru:pacochan;user:pacochan;time:1166980528]
+¡<CHARA:KEELE>, cálmate!
+¡Eso es justo lo que ella
+estaba diciendo!
+
+## POINTER 313 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190288]
+flag:<VAR:00100804>
+
+## POINTER 315 [t:1;r:1;ru:pacochan;user:korsso;time:1160140353]
+<OPTION:0000>Sí
+No
+
+## POINTER 317 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160243618]
+Cancelaré el cuestionario.

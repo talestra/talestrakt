@@ -1,0 +1,79 @@
+## POINTER 0 [t:1;r:1;ru:soywiz;time:1157722709]
+Pueblo de Treetop, Morle
+
+## POINTER 2 [t:1;user:memnoch;time:1295094357]
+Este es el poblado Morle.
+
+## POINTER 4 [t:1;user:memnoch;time:1295094342]
+Bienvenidos al pueblo de Treetop.
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1162122594]
+¿Una chica joven?
+Nop, no ha pasado por aquí.
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1162122594]
+¿Así que encontrasteis a
+la chica que buscabais?
+Eso está muy bien.
+
+## POINTER 10 [t:1;user:memnoch;time:1295094357]
+Este es el poblado Morle.
+
+## POINTER 12 [t:1;user:memnoch;time:1295611231]
+Bienvenidos al pueblo de Treetop.
+
+## POINTER 14 [t:1;user:memnoch;time:1295611231]
+Bienvenidos al pueblo de Treetop.
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1162122594]
+No había pronunciado esas
+palabras desde hace tanto...
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1162122594]
+Algo está ocurriendo en la ciudad
+y está asustando a los turistas...
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1162122594]
+Debería visitar Ciudad
+de Inferia alguna vez...
+
+## POINTER 21 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1162122594]
+¡<CHARA:REID>!
+¡¿Te vas a olvidar
+de <CHARA:MEREDY>?!
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 24 [t:1;user:memnoch;time:1295094342]
+N-Ni hablar.
+Me he equivocado de camino.
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Tenemos que encontrar a <CHARA:MEREDY>.
+
+## POINTER 27 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 28 [t:1;user:memnoch;time:1295089034]
+¡<CHARA:REID>!
+¿No íbamos a investigar sobre
+los craymels con el profesor Mazet?
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¡Lo sé! ¡Lo sé!
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 32 [t:1;user:memnoch;time:1294682647]
+Vamos a ver al profesor...

@@ -1,0 +1,131 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+Posada
+
+## POINTER 2 [t:1;user:memnoch;time:1294851017]
+Bienvenido.
+Una siesta serán <VAR:00120004> jinis.
+¿Quieres una habitación?
+
+## POINTER 4 [t:1;user:memnoch;time:1297466036]
+<OPTION:0000>Sí
+No
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+¿No es aburrido durante el día?
+
+## POINTER 8 [t:1;user:memnoch;time:1286289991]
+Lo siento, pero
+no aceptamos gald.
+
+## POINTER 10 [t:1;user:memnoch;time:1294851017]
+Lo siento.
+Parece que no tienes
+suficientes jinis.
+
+## POINTER 12 [t:1;user:memnoch;time:1294851017]
+Disfruta de la vida
+nocturna de Jini y
+haz disfrutar el
+corazón.
+
+## POINTER 14 [t:1;user:memnoch;time:1294851017]
+Bienvenido.
+Una estancia nocturna serán <VAR:00120004> jinis.
+¿Quieres una habitación?
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+<OPTION:0000>Sí
+No
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+¿Aún no te has
+divertido suficiente?
+
+## POINTER 20 [t:1;user:memnoch;time:1286289991]
+Lo siento, pero
+no aceptamos gald.
+
+## POINTER 22 [t:1;user:memnoch;time:1294851017]
+Lo siento.
+No parece que tengas
+suficientes jinis.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+Volved pronto.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+¡¡Jefe!!
+¿Encontró unos buenos clientes?
+
+## POINTER 28 [t:1;user:memnoch;time:1286300103]
+¿Alguna vez encontraremos nuevos reclutas?
+Con solo nosotros tres, ¿cómo
+podemos llamarnos ejército libre?
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+¿Eh? Bueno, verás...
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+Escuchad, ¿por qué no nos aventuramos
+en nuevos territorios?
+
+## POINTER 34 [t:1;user:memnoch;time:1286300798]
+Ya sabéis, ensanchar nuestros
+horizontes y reclutar personal
+diverso.
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+Si hiciéramos eso...
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+¡Seríamos un ejército indomable! Shileska
+no sería nada comparada con nosotros.
+¡¡Nuestro día de gloria está cerca!!
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+John
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+¡La Pantera Oscura, John!
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+Millie
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+¡La Rosa Oscura, Millie!
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+Grid
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+¡Y el Rey Dragón Oscuro, Grid!
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+Grid
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1159023899]
+Y a nosotros tres, se nos conoce como...
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+Grid
+
+## POINTER 48 [t:1;user:memnoch;time:1295553403]
+Los <COLOR:0D00>Alas Oscuras<COLOR:0F00>.
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+Millie
+
+## POINTER 50 [t:1;user:memnoch;time:1295553403]
+Los <COLOR:0D00>Alas Oscuras<COLOR:0F00>.
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+John
+
+## POINTER 52 [t:1;user:memnoch;time:1295553403]
+Los <COLOR:0D00>Alas Oscuras<COLOR:0F00>.
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+Grid
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:pacochan;time:1159024014]
+¡Pongámonos en marcha!

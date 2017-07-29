@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161193218]
+Casa de Galenos, Salón (destruido)
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:hexplus;time:1157732084]
+Chef Maravillas
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:hexplus;time:1157732084]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:hexplus;time:1157732084]
+Chef Maravillas
+
+## POINTER 4 [t:1;user:memnoch;time:1295533475]
+Te enseñaré cómo hacer <COLOR:0D00>arroz
+dulce<COLOR:0F00> al estilo occidental.
+
+## POINTER 6 [t:1;user:memnoch;time:1295533475]
+Has aprendido a hacer arroz dulce.
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:hexplus;time:1157732084]
+Chef Maravillas
+
+## POINTER 8 [t:1;user:memnoch;time:1295533475]
+El arroz dulce tiene cinco ingredientes:
+carne de jabalí, tomates, cebollas,
+arroz y satay blanco.
+
+## POINTER 10 [t:1;user:memnoch;time:1295534140]
+Recibes ingredientes del arroz dulce.
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:hexplus;time:1157732084]
+Chef Maravillas
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166670563]
+¡Que tengas un buen día!
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160214667]
+Está roto.
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160214667]
+Está roto.
+
+## POINTER 18 [t:1;user:memnoch;time:1294851322]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:hexplus;time:1157732084]
+¡<CHARA:MEREDY>!
+¡¡<CHARA:MEREDY>!!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 22 [t:1;user:memnoch;time:1294851322]
+¡¿Estás ahí?!
+¡Respóndeme!
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160214667]
+Supongo que no está aquí.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160214667]
+¡Busquemos en otro sitio!

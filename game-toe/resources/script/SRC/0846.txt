@@ -1,0 +1,681 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769669]
+Sala de Control, Fase 1, Mar <VAR:00120004>
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166757035]
+Puente de Mando
+
+## POINTER 2 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¡¡Hagámoslo!!
+
+## POINTER 4 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:jorge;time:1158583558]
+¡Esta máquina es alucinante!
+
+## POINTER 6 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:soywiz;time:1159959573]
+¡Te avisa cuando
+hay peligro cerca!
+
+## POINTER 8 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 9 [t:1;user:memnoch;time:1294852117]
+Este dispositivo parece que
+controla el Poder de los
+craymels en la jaula craymel.
+
+## POINTER 10 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¿Qué tal si ahora me dejas
+el control del barco?
+
+## POINTER 12 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¡Enemigos a la vista!
+
+## POINTER 14 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¡Sí!
+Preparémonos para una...
+
+## POINTER 16 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¡Batalla naval!
+
+## POINTER 18 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¡Sí, eso es! ¡Todo lo que hemos de
+hacer para ganar es destruir todos
+los barcos enemigos! Pan comido, ¿eh?
+
+## POINTER 20 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 21 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+De acuerdo, <CHARA:REID>.
+Te dejaré el mando.
+
+## POINTER 22 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¡¡Vale!!
+
+## POINTER 24 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 25 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¡¡Hagámoslo!!
+
+## POINTER 26 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 27 [t:1;user:memnoch;time:1294855884]
+¡La entrada al castillo de Balir!
+
+## POINTER 28 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 29 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¡Sí!
+
+## POINTER 30 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 31 [t:1;user:memnoch;time:1295568899]
+¡Recemos para que la potencia 
+del cañón craymel sea suficiente
+para atravesar la barrera!
+
+## POINTER 32 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 33 [t:1;user:memnoch;time:1294852197]
+¡Ningún problema!
+¡Los craymels supremos
+están de nuestro lado!
+
+## POINTER 34 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 35 [t:1;user:memnoch;time:1294852197]
+¡Cargad el cañón de craymels!
+
+## POINTER 36 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 37 [t:1;user:memnoch;time:1295609087]
+¡Afirmativo, capitán!
+
+## POINTER 38 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 39 [t:1;user:memnoch;time:1295301312]
+¡Iiic!
+
+## POINTER 40 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 41 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+¡Rebota!
+
+## POINTER 42 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 43 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+Ooog...
+Me encuentro mal...
+
+## POINTER 44 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 45 [t:1;user:memnoch;time:1295544617]
+¿Se mantendrá el
+barco de una pieza?
+
+## POINTER 46 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 47 [t:1;user:memnoch;time:1295543592]
+Al Van Eltia no le daña
+el hielo tan fácilmente.
+Seguid y entrad en el puerto.
+
+## POINTER 48 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 49 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+Hemos llegado a la
+Ciudad Portuaria, Peruti.
+
+## POINTER 50 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 51 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+Vale, vayamos a tierra firme.
+Espero que podamos encontrar
+información acerca del
+paradero de Balir...
+
+## POINTER 52 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 53 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+Parece que hace mucho frío fuera.
+
+## POINTER 54 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 55 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+¿Vienes con nosotros?
+
+## POINTER 56 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 57 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+No. No, gracias.
+Soy demasiado joven para exponerme
+a riesgos innecesarios.
+
+## POINTER 58 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 59 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+<CHARA:KEELE>,
+¿qué te pasa?
+
+## POINTER 60 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 61 [t:1;user:memnoch;time:1295546796]
+No os preocupéis por él.
+Solo está mareado, nada más.
+
+## POINTER 62 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 63 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+<CHARA:KEELE>, no puedes vivir sin
+<CHARA:MEREDY>, ¿verdad?
+
+## POINTER 64 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 65 [t:1;user:memnoch;time:1295301351]
+¡¿D-D-De qué
+estás hablando?!
+
+## POINTER 66 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 67 [t:1;user:memnoch;time:1295301351]
+*Ugh* Creo que
+voy a vomitar...
+
+## POINTER 68 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 69 [t:1;user:memnoch;time:1295543574]
+Solo digo lo que veo.
+No importa, igualmente nos
+veremos en cuanto volváis.
+
+## POINTER 70 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 71 [t:1;user:memnoch;time:1294857959]
+Capitán...
+Con respecto a la búsqueda
+del Legado de Aifread...
+
+## POINTER 72 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 73 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158606033]
+Aún no puedo decir nada.
+
+## POINTER 74 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 75 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¡¿Eh?!
+
+## POINTER 76 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 77 [t:1;user:memnoch;time:1295544481]
+Carecéis del espíritu del
+pirata. Primero querría
+observar vuestras acciones...
+
+## POINTER 78 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 79 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+¿Entonces...?
+
+## POINTER 80 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 81 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Seguid y proceded
+con vuestro trabajo.
+
+## POINTER 82 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 83 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+A su hora, decidiré si se
+os puede confiar el
+conocimiento del Legado.
+
+## POINTER 84 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160847214]
+Es bueno oír eso, pero...
+
+## POINTER 86 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 87 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+Es insultante...
+
+## POINTER 88 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 89 [t:1;user:memnoch;time:1294682903]
+¿Adónde vamos?
+
+## POINTER 90 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 91 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¡Vayamos a <COLOR:0E00>Peruti<COLOR:0F00>!
+
+## POINTER 92 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 93 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¿Peruti? ¡Ningún problema!
+Las coordenadas de su posición
+ya están registradas, así que
+podemos ir ahí automáticamente.
+
+## POINTER 94 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 95 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Bien, pues.
+Iré a la Sala de Máquinas
+para comprobar el motor.
+
+## POINTER 96 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 97 [t:1;user:memnoch;time:1295544733]
+Por cierto, eso no es
+una cosa viva, ¿verdad?
+¿Qué es?
+
+## POINTER 98 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 99 [t:1;user:memnoch;time:1295531978]
+¡¡AAAAAAAAH!!
+¡No, no, no ,no!
+¡Los animales están prohibidos
+en este barco!
+
+## POINTER 100 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 101 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¿Por qué?
+
+## POINTER 102 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 103 [t:1;user:memnoch;time:1295531978]
+¡Porque ODIO A LOS ANIMALES!
+¡Por eso!
+
+## POINTER 104 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 105 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+Aprenderás a apreciarlos.
+
+## POINTER 107 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163962644]
+¡Kwiikii!
+
+## POINTER 108 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 109 [t:1;user:memnoch;time:1295543668]
+¡Aiieee!
+¡Iiiiic!
+¡Llévatelo de aquí!
+*Sollozo*
+
+## POINTER 110 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 111 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¡TE ODIO!
+
+## POINTER 112 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 113 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Era de esperar...
+
+## POINTER 114 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 115 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Los críos son los críos...
+
+## POINTER 116 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 117 [t:1;user:memnoch;time:1295543764]
+¿Y creéis que sois lo
+suficientemente maduros para
+llamar crío a otra persona?
+
+## POINTER 118 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 119 [t:1;user:memnoch;time:1295388362]
+¡Venga, vámonos!
+
+## POINTER 120 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:0001672B>
+
+## POINTER 121 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¿<CHARA:CHAT> no se pondrá histérica
+si lo movemos sin su permiso?
+
+## POINTER 123 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+¿Quieres partir?<OPTION:0000>
+Sí
+No
+
+## POINTER 124 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 125 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+Qué pasa.
+Encantado de conocerte, chaval.
+
+## POINTER 126 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 127 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Desde un punto de vista de género,
+llamarme chaval no es muy apropiado.
+
+## POINTER 128 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 129 [t:1;user:memnoch;time:1295557242]
+Además, me llamo <CHARA:CHAT>.
+Y ya que soy la dueña del Van Eltia,
+llámame capitán de ahora en adelante.
+
+## POINTER 130 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 131 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+De acuerdo,
+<CHARA:CHAT>.
+
+## POINTER 132 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 133 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+Y para que te quede claro, <CHARA:REID> y los
+demás son mis subordinados, y tú...
+
+## POINTER 134 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 135 [t:1;user:memnoch;time:1295384156]
+¿Quién va a tomar el mando? Yo sé
+navegar. ¡¿Dónde está el timón?!
+
+## POINTER 136 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 137 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Si no me escuchas...
+
+## POINTER 138 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 139 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+¡Eres muy mona!
+
+## POINTER 140 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 141 [t:1;user:memnoch;time:1295384156]
+Zarpemos...
+
+## POINTER 142 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 143 [t:1;user:memnoch;time:1295528285]
+¿Inferia?
+Me temo que no es posible.
+Van Eltia solo es un barco.
+
+## POINTER 144 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 145 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+Claro que no puede. Quiero reunir
+pistas sobre cómo volver a Inferia.
+Déjanos en tierra en la ciudad más
+cercana.
+
+## POINTER 146 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 147 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¡Encontraremos algo
+parecido al Puente de Luz!
+
+## POINTER 148 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 149 [t:1;user:memnoch;time:1295384156]
+¿Un puente?
+
+## POINTER 150 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 151 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Vayamos y busquemos
+el Legado de Aifread.
+
+## POINTER 152 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 153 [t:1;user:memnoch;time:1295297106]
+Eh... ¿por qué AHORA?
+
+## POINTER 154 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 155 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+Queréis ir a Inferia, ¿verdad?
+
+## POINTER 156 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 157 [t:1;user:memnoch;time:1295636057]
+Sabéis quién fue mi
+bisabuelo, ¿verdad?
+
+## POINTER 158 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 159 [t:1;user:memnoch;time:1295636057]
+Era Aifread, ¿no?
+¿El gran pirata que atemorizaba
+a los marineros de todo el mundo?
+
+## POINTER 160 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 161 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¡Exacto!
+Y todo el mundo significa
+toda Eternia.
+
+## POINTER 162 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 163 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¿Estás diciendo que uno de
+los Legados de Aifread es una
+herramienta para poder ir a Inferia?
+
+## POINTER 164 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 165 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¿Seguro?
+
+## POINTER 166 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 167 [t:1;user:memnoch;time:1295572838]
+Primero, volvamos a
+mi mansión.
+Dejádmelo a mí.
+
+## POINTER 169 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+<CHARA:CHAT> se ha unido al grupo
+
+## POINTER 170 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 171 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+¿Quieres partir?<OPTION:0000>
+Sí
+No
+
+## POINTER 172 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 173 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Bien, vámonos.
+
+## POINTER 174 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 175 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¿Sabes navegar?<OPTION:0000>
+Sí
+No
+
+## POINTER 176 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 177 [t:1;user:memnoch;time:1295556220]
+Avanza con <BUTTON:0000>.
+Retrocede con <BUTTON:0100>.
+Gira con la cruceta.
+
+## POINTER 178 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 179 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Cuando quieras bajar del barco,
+abre el Menú de Viaje y
+elige <COLOR:0D00>Aterrizar<COLOR:0F00>.
+
+## POINTER 180 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 181 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+Cuando quieras llamar al Van Eltia,
+ve a una costa y abre el Menú de Viaje.
+
+## POINTER 182 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 183 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+¿Has entendido?<OPTION:0000>
+Sí
+No
+
+## POINTER 184 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 185 [t:1;user:memnoch;time:1294852197]
+El <COLOR:0D00>cañón craymel<COLOR:0F00> solo
+puede disparar hacia adelante.
+Y como tarda en recargarse,
+asegúrate de apuntar bien.
+
+## POINTER 186 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 187 [t:1;user:memnoch;time:1294852197]
+Cuando te preocupe un barco enemigo
+o quieras rodear alguno, usa el
+<COLOR:0D00>turbo de emergencia<COLOR:0F00>.
+
+## POINTER 188 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 189 [t:1;user:memnoch;time:1294852197]
+El turbo de emergencia utiliza
+energía generada por el cañón
+craymel, así que no puedes
+acelerar hasta que esté cargado.
+
+## POINTER 190 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 191 [t:1;user:memnoch;time:1294852197]
+Sin embargo, no necesita tanto rendimiento
+como disparar el cañón craymel.
+No es necesario que se cargue completamente
+para usar el Turbo de Emergencia.
+
+## POINTER 192 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 193 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162769670]
+¡Tenemos la ayuda de mis camaradas!
+¡La victoria será nuestra!
+
+## POINTER 194 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 195 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158608077]
+También podemos pedir la ayuda de los
+barcos de Shileska, pero no creo que
+el Van Eltia necesite ayuda.

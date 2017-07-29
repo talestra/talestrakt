@@ -1,0 +1,360 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1167992370]
+Juego del Escondite de Aifread (Operacional)
+
+## POINTER 2 [t:1;user:memnoch;time:1295534386]
+Encuentras <ITEM:0300>.
+
+## POINTER 4 [t:1;user:memnoch;time:1295210931]
+¡¡El cofre del tesoro era falso!!
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157746418]
+Trampa operativa.
+
+## POINTER 6 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 7 [t:1;user:memnoch;time:1295533978]
+Por fin, la salida...
+
+## POINTER 8 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Fiu...
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Aquí puedes comprar objetos.
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157746418]
+No puedes continuar hasta
+que obtengas dos o menos.
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:hexplus;time:1157761453]
+Nada
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157746418]
+Por favor, espera.
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:hexplus;time:1157761453]
+Trampa
+
+## POINTER 20 [t:1;user:memnoch;time:1295533958]
+Recibes <BOLD:0100>daño por fuego<BOLD:0000>.
+
+## POINTER 22 [t:1;user:memnoch;time:1295533958]
+<CHARA:00120004> está <BOLD:0100>envenenado<BOLD:0000>.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157746418]
+Por favor, avanza <VAR:00117C04> espacios.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+¿Qué quieres hacer?
+<OPTION:0000>Girar la ruleta
+Mirar los espacios de enfrente
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+Girando la ruleta.
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+No puedes avanzar porque
+has sacado un <VAR:00117C04>.
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+Puedes moverte <VAR:00117C04> espacios.
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Regresa <VAR:0010E704> espacios.
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+¡¡Un monstruo!!
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+Un regalo de Aifread.
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Has sido restaurado.
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+Enciende todas las velas con
+el <ITEM:00013F01>.
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+¡¡Ya!!
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+¡Huye de la bomba!
+
+## POINTER 45 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+¡¡Ya!!
+
+## POINTER 47 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+¡¡Completado!!
+
+## POINTER 49 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+Fallaste...
+
+## POINTER 50 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 51 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Esto es...
+
+## POINTER 52 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 53 [t:1;user:memnoch;time:1295533958]
+¿un juego de dados?
+
+## POINTER 54 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 55 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+¡Guau!
+¡Ese era mi bisabuelo!
+¡Desde luego era creativo!
+
+## POINTER 56 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 57 [t:1;user:memnoch;time:1295533958]
+El talento para crear juegos
+estúpidos debe ser cosa de familia.
+
+## POINTER 59 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Avanza <VAR:00117C04> espacios.
+
+## POINTER 61 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+<OPTION:0000>Mirar espacio siguiente
+Mirar espacio anterior
+Cancelar
+
+## POINTER 63 [t:1;user:memnoch;time:1295533958]
+La casilla a <OPTION:0000><VAR:00120004> posiciones de aquí
+hace <BOLD:0100>retroceder tres casillas<BOLD:0000>.
+
+## POINTER 65 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+hace <BOLD:0100>retroceder seis casillas<BOLD:0000>.
+
+## POINTER 67 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es una <BOLD:0100>trampa de daño por fuego<BOLD:0000>.
+
+## POINTER 69 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es una <BOLD:0100>trampa de gas venenoso<BOLD:0000>.
+
+## POINTER 71 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es una <BOLD:0100>trampa de derrumbamiento<BOLD:0000>.
+
+## POINTER 73 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es una <BOLD:0100>lucha con un monstruo
+espeluznante<BOLD:0000>.
+
+## POINTER 75 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí es
+una <BOLD:0100>lucha con un monstruo de
+pesadilla<BOLD:0000>.
+
+## POINTER 77 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es una <BOLD:0100>lucha con un monstruo del
+Infierno<BOLD:0000>.
+
+## POINTER 79 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es un <BOLD:0100>cofre al azar<BOLD:0000>.
+
+## POINTER 81 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es un <BOLD:0100>punto de compra<BOLD:0000>.
+
+## POINTER 83 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es un <BOLD:0100>punto de cura<BOLD:0000>.
+
+## POINTER 85 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es una <BOLD:0100>trampa de una roca que cae<BOLD:0000>.
+
+## POINTER 87 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es una de <BOLD:0100>quedarse atascado hasta
+sacar un dos o menos<BOLD:0000>.
+
+## POINTER 89 [t:1;user:memnoch;time:1295533958]
+<OPTION:0000>La casilla a <VAR:00120004> posiciones de aquí
+es una <BOLD:0100>trampa de bomba de tiempo<BOLD:0000>.
+
+## POINTER 91 [t:1;user:memnoch;time:1295533958]
+La casilla a <OPTION:0000><VAR:00120004> posiciones de aquí
+es una <BOLD:0100>trampa de vela<BOLD:0000>.
+
+## POINTER 93 [t:1;user:memnoch;time:1295533958]
+La casilla a <OPTION:0000><VAR:00120004> posiciones de aquí,
+¡¡es la META!!
+
+## POINTER 95 [t:1;user:memnoch;time:1295533958]
+La casilla a <OPTION:0000><VAR:00120004> posiciones de aquí
+no tiene nada.
+
+## POINTER 97 [t:1;user:memnoch;time:1295533958]
+¡El Juego de Preguntas de Aifread!
+¡Da, da, dum!
+
+## POINTER 99 [t:1;user:memnoch;time:1295533958]
+Dos salvias,
+Tres salvias rojas
+y tres ajedreas
+
+## POINTER 101 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+¿Cuántas hierbas relacionadas
+con el HP hay en total?
+
+## POINTER 103 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>3
+5
+6
+
+## POINTER 105 [t:1;user:memnoch;time:1295533958]
+2 bananas, 3 kiwis,
+1 amango y 3 coles.
+
+## POINTER 107 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+¿Cuántos frutos hay en total?
+
+## POINTER 109 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>6
+8
+9
+
+## POINTER 111 [t:1;user:memnoch;time:1295533958]
+3 tomates, 4 patatas
+y 5 cubos de tofu.
+
+## POINTER 113 [t:1;user:memnoch;time:1295533958]
+¿Cuántas <COLOR:0D00>t<COLOR:0F00>es hay en
+todos esos nombres?
+
+## POINTER 115 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>3
+5
+6
+
+## POINTER 117 [t:1;user:memnoch;time:1295533958]
+Hay 10 piratas.
+5 de ellos llevan bufandas,
+y 6 de ellos llevan pipas de fumar.
+
+## POINTER 119 [t:1;user:memnoch;time:1295533958]
+Todos los piratas que llevan
+bufanda, fuman pipas.
+
+## POINTER 121 [t:1;user:memnoch;time:1295533958]
+¿Cuántos piratas no
+llevan bufandas ni
+fuman?
+
+## POINTER 123 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>2
+4
+6
+
+## POINTER 125 [t:1;user:memnoch;time:1295533958]
+En la pregunta anterior,
+¿cuántos piratas fuman pipas?
+
+## POINTER 127 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>2
+5
+6
+
+## POINTER 129 [t:1;user:memnoch;time:1295533958]
+3 cronómetros,
+3 tapaderas,
+y 3 bolsas de la compra.
+
+## POINTER 131 [t:1;user:memnoch;time:1295533958]
+¿Cuáles de esos objetos están
+clasificados como <COLOR:0D00>Herramientas<COLOR:0F00>?
+
+## POINTER 133 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>2
+3
+5
+
+## POINTER 135 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+2x3-2+29-1x29=?
+
+## POINTER 137 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>1
+4
+9
+
+## POINTER 139 [t:1;user:memnoch;time:1295533958]
+1 estofado,
+4 sándwiches asados, 
+y 3 cócteles de frutas.
+
+## POINTER 141 [t:1;user:memnoch;time:1295533958]
+¿Cuántas veces hay que
+usar satay rojo para
+cocinar todos los platos?
+
+## POINTER 143 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>1
+5
+7
+
+## POINTER 145 [t:1;user:memnoch;time:1295533958]
+3 gambas, 5 remolachas,
+8 coles, 7 patatas
+y 8 satays rojos.
+
+## POINTER 147 [t:1;user:memnoch;time:1295533958]
+Si tienes estos ingredientes,
+¿cuántas veces puedes preparar
+una sopa de remolacha?
+
+## POINTER 149 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+<OPTION:0000>3 veces
+5 veces
+8 veces
+
+## POINTER 151 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Cada hombre
+tiene 4 hijos.
+
+## POINTER 153 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Cada hijo de cada hombre
+también tiene 4 hijos.
+
+## POINTER 155 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+El número total de
+nietos es de 96.
+
+## POINTER 157 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+¿Cuántos hombres hay?
+
+## POINTER 159 [t:1;user:memnoch;time:1297466096]
+<OPTION:0000>4
+6
+1
+
+## POINTER 161 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+¡Completado!
+
+## POINTER 163 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158057210]
+¡Correcto!
+
+## POINTER 165 [t:1;r:1;ru:pacochan;user:pacochan;time:1158398456]
+Avanza <VAR:00117C04> espacios.
+
+## POINTER 167 [t:1;r:1;ru:pacochan;user:pacochan;time:1167992372]
+¡Idiota!
+¡Te has equivocado!
+
+## POINTER 169 [t:1;r:1;ru:pacochan;time:1157722709]
+¡¡Completado!!

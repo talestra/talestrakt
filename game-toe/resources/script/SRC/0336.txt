@@ -1,0 +1,171 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160666]
+Cumbre del Monte Farlos
+
+## POINTER 2 [t:1;user:memnoch;time:1294597362]
+Esto es un punto de carga.
+
+## POINTER 4 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160778558]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 6 [t:1;user:memnoch;time:1295625816]
+La puerta está fuertemente sellada...
+
+## POINTER 8 [t:1;user:memnoch;time:1295381526]
+Mostradme el poder de la luz,
+y el camino a los cielos se
+abrirá.
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 10 [t:1;user:memnoch;time:1295296372]
+¿El poder de la luz?
+
+## POINTER 12 [t:1;user:memnoch;time:1294851339]
+Has encontrado una lente. 
+Ahora tienes <VAR:00108500>.
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:pacochan;time:1167235349]
+¡Ahí está!
+¡¡<CHARA:FARAH>!!
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 16 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160778193]
+¡Te hemos encontrado, <CHARA:FARAH>!
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160107595]
+¡Siento haberos preocupado!
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 20 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:Lobap;time:1158858243]
+¡Estamos juntos de nuevo!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 22 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:Lobap;time:1158858243]
+Me alegra que estés bien.
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 24 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160778311]
+¡Pensábamos que te
+habíamos perdido!
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160778311]
+¡Yo pensaba lo mismo!
+Tenía a <CHARA:RAS> conmigo,
+así que no he tenido
+de qué preocuparme.
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 28 [t:1;user:memnoch;time:1295384449]
+¿Así que tú eres <CHARA:RAS>?
+Yo soy <CHARA:KEELE>, un estudiante
+de la universidad de Mintche.
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 30 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160107595]
+Estamos en deuda contigo
+por salvar a <CHARA:FARAH>.
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;user:soywiz;time:1160107606]
+<CHARA:RAS>
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174610421]
+No me tenéis que 
+agradecer nada.
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160666]
+Bien, ahora debemos separarnos
+de <CHARA:RAS> y seguir adelante.
+¿Nos vamos?
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 36 [t:1;user:memnoch;time:1294859335]
+¡Que <CHARA:RAS> nos ayude!
+¡<CHARA:RAS> tiene un fibril
+increíble!
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 38 [t:1;user:memnoch;time:1295383342]
+Lo que viene en adelante
+es nuestro problema.
+¡No es problema de <CHARA:RAS>!
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 40 [t:1;user:memnoch;time:1294859335]
+¡Pero <CHARA:RAS> ya 
+está involucrado!
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:RAS>
+
+## POINTER 42 [t:1;user:memnoch;time:1295383063]
+No pasa nada, <CHARA:FARAH>.
+En realidad he visto un lugar
+muy interesante cerca de aquí.
+Será mejor que nos separemos.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:RAS>
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1167235349]
+Estoy seguro de que nos volveremos
+a encontrar algún día.
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;user:memnoch;time:1295383063]
+Espero que sí...
+¡Gracias por todo!
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:RAS>
+
+## POINTER 48 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160107595]
+Bien, si me disculpáis,
+he de seguir mi camino.
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 50 [t:1;user:memnoch;time:1295383003]
+Necesitamos el fibril...
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:pacochan;time:1167235349]
+¿Eh?
+Esta puerta no se abre...

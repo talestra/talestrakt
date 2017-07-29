@@ -1,0 +1,93 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+DORMITORIO
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+Me muero de hambre...
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 4 [t:1;user:memnoch;time:1294686754]
+Me he puesto muy morena.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+Ojalá tuviera tiempo
+de leer un libro...
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496879]
+<CHARA:MEREDY> se pregunta cómo
+les irá a Bonz y Sagura.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:CHAT>
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+¡Mirad!
+¡Voy a ser una gran pirata!
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:MAX>
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+Oh, no...
+¡Me ha crecido el bigote!
+...Mejor que me afeite.
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496879]
+¿Deseas descansar?
+<OPTION:0000>Sí
+No
+
+## POINTER 16 [t:1;user:memnoch;time:1286289740]
+¡Bienvenidos! Serán <VAR:00114A00> gald.
+¿Queréis quedaros?<OPTION:0000>
+Sí
+No
+
+## POINTER 18 [t:1;user:memnoch;time:1286289740]
+Bienvenidos. Serán <VAR:00114A00> gald.
+¿Queréis quedaros?
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:0001672B>
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+¡¿Nos estás cobrando?!
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496879]
+Debes entender que el mantenimiento
+de las habitaciones no es barato.
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:0001672B>
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496879]
+¡Pero aun así!
+
+## POINTER 26 [t:1;user:memnoch;time:1286289758]
+<VAR:00114A00> gald.
+¿Queréis quedaros?
+<OPTION:0000>Sí
+No
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+Tened una agradable estancia.
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+Buenos días.
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496879]
+El mantenimiento de las habitaciones
+cuesta dinero, ya sabes.
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158050264]
+Volved pronto.

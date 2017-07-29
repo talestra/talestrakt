@@ -1,0 +1,266 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1168046622]
+Frente al Coliseo / Abajo a la Izquierda
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+¡Jóvenes!
+
+## POINTER 4 [t:1;r:1;ru:soywiz;user:pacochan;time:1162379381]
+¿Por casualidad os habéis encontrado
+con una <COLOR:0D00>Espada Empuñable<COLOR:0F00>?
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157740443]
+Es una espada con una empuñadura especial.
+
+## POINTER 7 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 8 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162379381]
+Nop. No la he visto.
+
+## POINTER 9 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 10 [t:1;r:1;ru:soywiz;user:pacochan;time:1162379381]
+¿Estás buscando un arma
+llamada <COLOR:0D00>Espada Empuñable<COLOR:0D00>?
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163121611]
+Se me ha debido caer en
+algún lugar de la ciudad...
+
+## POINTER 14 [t:1;user:memnoch;time:1295532825]
+Como esta es la primera vez
+que vengo, no puedo encontrar
+los sitios sin perderme.
+
+## POINTER 15 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Es una pena...
+
+## POINTER 17 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1162379381]
+¡<CHARA:FARAH>!
+No conocemos nada
+de esta ciudad...
+
+## POINTER 19 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+¡Déjanoslo a nosotros!
+¡La encontraremos por ti!
+
+## POINTER 21 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+¿Verdad, <CHARA:REID>?
+<OPTION:0000>Sí
+No
+
+## POINTER 23 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;user:memnoch;time:1295569171]
+¡Oooh!
+¡¿No deberíamos ayudarle?!
+
+## POINTER 25 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Argg, vale.
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+¡Gracias!
+¡Os lo agradezco mucho!
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1162379381]
+Voy a volver a echar un
+vistazo por esta zona.
+
+## POINTER 32 [t:1;r:1;ru:soywiz;user:pacochan;time:1162379381]
+¿Puedes ayudarme a encontrar
+la Espada Empuñable?
+<OPTION:0000>Sí
+No
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Ah, bueno.
+Supongo que tendré que
+seguir buscándola solo.
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+¡Gracias!
+¡Os lo agradezco mucho!
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Voy a echar un vistazo
+por esta zona otra vez.
+
+## POINTER 40 [t:1;user:memnoch;time:1294683064]
+Y ahora, ¿adónde ha ido
+a parar esa dichosa
+Espada Empuñable?
+
+## POINTER 41 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 42 [t:1;user:memnoch;time:1295489197]
+Mira, ¿es esta la
+espada que perdiste?
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1162379381]
+¡Oh!
+¡Has encontrado mi <COLOR:0D00>Espada Empuñable<COLOR:0F00>!
+¡Estoy en deuda contigo!
+
+## POINTER 46 [t:1;user:memnoch;time:1295213447]
+¡Sin esta espada, mi
+estudiante no podía
+entrar en el coliseo!
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¿Tu estudiante?
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157740537]
+Aunque no lo parezca
+demasiado, soy profesor.
+
+## POINTER 52 [t:1;user:memnoch;time:1295635089]
+Estoy realmente agradecido
+por toda vuestra amabilidad.
+Lo digo de corazón.
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:pacochan;time:1162379381]
+Has recibido <COLOR:0D00>Capa Smash<COLOR:0F00>.
+
+## POINTER 56 [t:1;user:memnoch;time:1295213447]
+Esto es el coliseo real.
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Si confías en tus habilidades,
+¿por qué no las pones a prueba?
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157740443]
+Vi tu Enfrentamiento.
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Eres más fuerte de
+lo que pareces.
+
+## POINTER 64 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Sé que puede ser aburrido, pero
+no te olvides de practicar tus
+habilidades fundamentales de lucha.
+
+## POINTER 65 [t:1;r:1;ru:soywiz, ;time:1157722709]
+DebugMessage
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Espadachín
+
+## POINTER 68 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+Equipado con una arma tan buena,
+yo también puedo ser así de fuerte.
+
+## POINTER 70 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864451]
+No voy a perder contra
+un musculitos sin cerebro...
+
+## POINTER 72 [t:1;user:memnoch;time:1295213447]
+Si no fuera por el Gran Descenso,
+tendría oportunidad de probarme
+en el coliseo.
+
+## POINTER 73 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722709]
+DebugMessage
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864452]
+Chico Flojo
+
+## POINTER 76 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864452]
+No es una sorpresa que aquellos que
+parecen bárbaros actúen como tal.
+
+## POINTER 78 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157740443]
+¡Qué friki!
+
+## POINTER 80 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864452]
+¿Qué son esas ropas que llevas?
+¡Pareces un chico de pueblo!
+
+## POINTER 81 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864452]
+¡Cállate la boca! 
+Esto es todo lo que tengo.
+¿Algún problema?
+
+## POINTER 83 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 84 [t:1;user:memnoch;time:1295489245]
+¡<CHARA:REID>! ¡Basta ya!
+¡Es solo una niña!
+
+## POINTER 86 [t:1;user:memnoch;time:1295489245]
+¡Solo digo
+la verdad!
+
+## POINTER 88 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162379381]
+Tinte de Rasheans, ¿eh?
+
+## POINTER 90 [t:1;user:memnoch;time:1295489245]
+Oiga, señora.
+
+## POINTER 91 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 92 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864452]
+¿Sí?
+
+## POINTER 94 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864452]
+Las ropas que llevas puestas...
+¿dónde las compraste?
+
+## POINTER 95 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 96 [t:1;user:memnoch;time:1295489245]
+¿Estas?
+Son ropas de Rasheans.
+
+## POINTER 97 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 98 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864452]
+¿Ves esos colores?
+Se llaman tinte de Rasheans.
+
+## POINTER 100 [t:1;user:memnoch;time:1295387084]
+Ya veo...
+
+## POINTER 101 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 102 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¿Quieres ropa así también?
+
+## POINTER 104 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163122610]
+¿Qué? ¡No! 
+¡De ningún modo!
+
+## POINTER 105 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722709]
+DebugMessage
+
+## POINTER 106 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864452]
+Chica Noble

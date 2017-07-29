@@ -1,0 +1,224 @@
+## POINTER 0 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1167970986]
+Taberna de Chambard (Competición)
+
+## POINTER 2 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1157736749]
+Nuestro invitado querrá
+una <COLOR:0D00>sabrosa tortilla<COLOR:0F00>.
+
+## POINTER 4 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166636864]
+¿Estás listo para competir
+con la Maestra del sabor?
+
+## POINTER 6 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1157736749]
+<OPTION:0000>Sí
+No
+
+## POINTER 8 [t:1;user:memnoch;time:1295212467]
+Por favor, vuelve cuando
+hayas aprendido a hacer
+una tortilla en condiciones.
+
+## POINTER 10 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1157736749]
+Vuelve cuando tengas
+los ingredientes adecuados
+para hacer una tortilla.
+
+## POINTER 12 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160292620]
+Te estábamos esperando.
+Ahora, empecemos el
+concurso de cocina.
+
+## POINTER 14 [t:1;user:memnoch;time:1295212467]
+Por favor, vuelve
+cuando estés listo.
+
+## POINTER 16 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1160285283]
+Nuestro invitado desea una
+<COLOR:0D00>tarta llena de energía<COLOR:0F00>.
+
+## POINTER 18 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166636864]
+¿Estás listo para competir
+con la Maestra del sabor?
+
+## POINTER 20 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1157736749]
+<OPTION:0000>Sí
+No
+
+## POINTER 22 [t:1;r:1;ru:soywiz;user:soywiz;time:1160286910]
+Por favor, vuelve cuando
+hayas aprendido a hacer un
+pastel en condiciones.
+
+## POINTER 24 [t:1;r:1;ru:soywiz;user:Lobap;time:1158916103]
+Vuelve cuando tengas
+los ingredientes adecuados
+para hacer un pastel.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1160292620]
+Te hemos estado esperando.
+Ahora, comencemos con el
+torneo de cocina.
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:Lobap;time:1158916103]
+Por favor, vuelve
+cuando estés listo.
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:soywiz;time:1160285772]
+Nuestro invitado desea una
+<COLOR:0D00>Pasta de Marisco al viejo estilo<COLOR:0F00>.
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1166636864]
+¿Estás listo para competir
+con la Maestra del sabor?
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157736749]
+<OPTION:0000>Sí
+No
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1160292620]
+Por favor, vuelve cuando
+hayas aprendido a hacer una
+pasta de marisco en condiciones.
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1166636864]
+Vuelve cuando tengas los
+ingredientes adecuados para
+hacer una pasta de marisco.
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:soywiz;time:1160286910]
+Te estábamos esperando.
+Y ahora, ¡Que dé comienzo
+el concurso de cocina!
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:soywiz;time:1160286910]
+Por favor, vuelve
+cuando estés listo.
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:soywiz;time:1160286910]
+La comida estaba
+absolutamente deliciosa.
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:soywiz;time:1160287542]
+¡La excelente comida da
+a la gente ganas de llorar
+de alegría!
+
+## POINTER 48 [t:1;user:memnoch;time:1295301918]
+No existen verdaderas reglas que
+juzguen la calidad de la comida.
+¿Queda el invitado satisfecho?
+
+## POINTER 50 [t:1;user:memnoch;time:1295298736]
+Eso es lo que importa.
+
+## POINTER 52 [t:1;user:memnoch;time:1295298736]
+Asientos especiales de la
+Taberna de Chambard.
+
+## POINTER 54 [t:1;user:memnoch;time:1295532831]
+Este es uno de los privilegios
+de ser el alcalde de Chambard.
+
+## POINTER 56 [t:1;r:1;ru:pacochan;user:pacochan;time:1166636865]
+¿Cuánto desafío le supondrás a
+la invicta Maestra del Sabor?
+
+## POINTER 58 [t:1;user:memnoch;time:1295299699]
+Muéstranos de
+lo que eres capaz.
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:pacochan;time:1166636865]
+Tu comida estaba deliciosa.
+De todas las grandes comidas que
+he probado, yo diría que estarías
+entre los tres mejores.
+
+## POINTER 62 [t:1;user:memnoch;time:1295298736]
+No, quizá entre los cuatro...
+O quizá entre los cinco.
+
+## POINTER 64 [t:1;r:2;ru:pacochan,evilluendas;user:Lobap;time:1158916103]
+La comida es cultura.
+
+## POINTER 66 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160292620]
+Esperaré con ganas un
+verdadero placer deleitable.
+
+## POINTER 68 [t:1;r:2;ru:pacochan,evilluendas;user:Lobap;time:1158916103]
+Tengo todo lo que puedo comer.
+
+## POINTER 70 [t:1;user:memnoch;time:1295298975]
+Cualquier cocinero que
+juzgue como incompetente
+será expulsado del mundo
+de la cocina en Inferia.
+
+## POINTER 72 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160288100]
+Tu plato era incomible.
+
+## POINTER 74 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160288100]
+Tu cocina no tiene espíritu.
+
+## POINTER 76 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1167969631]
+Nunca llegarás a ser un cocinero de
+verdad si te basas siempre en recetas.
+
+## POINTER 78 [t:1;user:memnoch;time:1295299009]
+Mmmpf.
+Así, asá.
+
+## POINTER 80 [t:1;user:memnoch;time:1295124167]
+Mmpf.
+Parece que has aprendido
+un par de cosas.
+
+## POINTER 82 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160288100]
+Has recorrido un largo camino.
+
+## POINTER 84 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1160288100]
+Te proclamo como uno de los
+cocineros de élite de los
+Guerreros del Sabor.
+
+## POINTER 86 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160288100]
+Soy Gaibara, comandante en jefe
+de los Guerreros del Sabor.
+
+## POINTER 88 [t:1;r:2;ru:pacochan,evilluendas;user:Lobap;time:1158916103]
+¡Estoy hambriento!
+¡Rápido! ¡Rápido!
+
+## POINTER 90 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160288100]
+Para ser honestos,
+me ha decepcionado.
+
+## POINTER 92 [t:1;user:memnoch;time:1294602981]
+Mmm, estuviste a punto.
+
+## POINTER 94 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1160288313]
+Algo falla.
+
+## POINTER 96 [t:1;r:1;ru:pacochan;user:soywiz;time:1160288100]
+¡Estaba buenísimo!
+¡Mmmmmm!
+
+## POINTER 98 [t:1;r:1;ru:pacochan;user:pacochan;time:1160292620]
+Estaba divino, pensé que
+me derretiría del gusto.
+¡Mmmmmm!
+
+## POINTER 100 [t:1;r:1;ru:pacochan;user:soywiz;time:1160288313]
+¡No he probado nunca nada
+tan bueno en toda mi vida!
+
+## POINTER 102 [t:1;r:1;ru:pacochan;user:Lobap;time:1158916103]
+¡¡Sííííí!! ¡¡Mmmmmm!!
+
+## POINTER 104 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1173923535]
+Soy Kissy.
+Soy verdaderamente crítico
+en asuntos de cocina.
+
+## POINTER 106 [t:1;user:memnoch;time:1294851397]
+Has encontrado una lente. 
+Ahora tienes <VAR:00108500>

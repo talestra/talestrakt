@@ -1,0 +1,230 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822210]
+Barole 3
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163851214]
+Ciudad Comercial, Barole
+
+## POINTER 3 [t:1;user:memnoch;time:1295212865]
+He de tener cuidado.
+Siempre compro de
+manera impulsiva...
+
+## POINTER 5 [t:1;user:memnoch;time:1295208583]
+Venden de todo en esta ciudad.
+Ya te digo, este lugar es
+el cielo.
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:soywiz;time:1159983885]
+Estoy completamente arruinado.
+
+## POINTER 9 [t:1;user:memnoch;time:1297460444]
+¡Argh!
+¡¡He hecho OTRA compra impulsiva!!
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:pacochan;time:1165481220]
+Desde aquí, tengo una vista
+completa de sus fechorías...
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:pacochan;time:1165481220]
+¡Guau, has podido llegar hasta aquí!
+Te daré un objeto como recompensa.
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983885]
+Has recibido <ITEM:0700>.
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822210]
+Estoy rezando.
+
+## POINTER 19 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822210]
+¡Rezando para que el mundo
+permanezca tal y como
+siempre ha sido!
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822210]
+Muchas gracias.
+
+## POINTER 23 [t:1;user:memnoch;time:1295551257]
+Tim ha empezado una nueva
+vida gracias a ti.
+
+## POINTER 25 [t:1;user:memnoch;time:1295488831]
+¡Eh, jovencito!
+¿Quieres probarme en un 
+concurso de aritmética?
+
+## POINTER 27 [t:1;user:memnoch;time:1295630981]
+Cuánto tiempo sin verte.
+¿Vemos cuánto han mejorado
+tus habilidades aritméticas?
+
+## POINTER 29 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822210]
+<OPTION:0000>Sí
+No
+
+## POINTER 31 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822210]
+Buena respuesta.
+¿Quieres oír las reglas?
+
+## POINTER 33 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822210]
+<OPTION:0000>Sí
+No
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:pacochan;time:1165481220]
+De acuerdo entonces,
+vamos a empezar.
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983885]
+<VAR:00112004> min <VAR:00112204>.<VAR:00112404> seg.
+
+## POINTER 37 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983885]
+<VAR:00112204>.<VAR:00112404> seg.
+
+## POINTER 39 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983885]
+Bien hecho.
+Reconozco tus habilidades para
+los negocios, y te voy a otorgar
+un título.
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:pacochan;time:1165481220]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Matemático<COLOR:0F00>.
+
+## POINTER 43 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983885]
+Bien hecho. Me has derrotado.
+Te concedo este <ITEM:00120004>.
+
+## POINTER 45 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159984451]
+Bien hecho.
+Reconozco tu capacidad para
+los negocios, y te otorgo
+este <ITEM:00120004>.
+
+## POINTER 47 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159984451]
+Bien hecho. Me has vuelto a derrotar.
+Te concedo <ITEM:00120004>, <ITEM:00120404>, y
+<ITEM:00120804>.
+
+## POINTER 49 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983885]
+Has recibido <ITEM:00120004>.
+
+## POINTER 51 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983885]
+Has recibido <ITEM:00120004>,
+<ITEM:00120404>, y <ITEM:00120804>.
+
+## POINTER 53 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163851215]
+Espero tu próximo reto.
+¡Je, je, je!
+
+## POINTER 55 [t:1;user:memnoch;time:1295213503]
+Deberías venir a
+verme una vez más.
+¡Je, je, je!
+
+## POINTER 57 [t:1;r:1;ru:pacochan;user:pacochan;time:1165481220]
+Has perdido.
+¡Quizá debas renunciar a
+convertirte en un mercader!
+
+## POINTER 59 [t:1;user:memnoch;time:1295208603]
+¡Je, je, je!
+
+## POINTER 61 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+¡No importa cuántas veces
+lo intentes si no eres
+bueno!
+
+## POINTER 63 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+¡Rendirse es lo mismo que perder!
+
+## POINTER 65 [t:1;user:memnoch;time:1295211024]
+¿Crees que has ganado por salir corriendo?
+
+## POINTER 67 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+¡Nunca me cogerás!
+
+## POINTER 68 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 69 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+¡Urrrgh!
+¡Te cogeré!
+
+## POINTER 70 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 71 [t:1;r:1;ru:pacochan;user:pacochan;time:1165481220]
+Se supone que debemos encontrarnos
+con <CHARA:RAS> enfrente de la posada.
+
+## POINTER 73 [t:1;user:memnoch;time:1295211456]
+La tienda <BOLD:0100>Armas Pesadas<BOLD:0000> está
+siendo un negocio muy próspero.
+
+## POINTER 75 [t:1;user:memnoch;time:1297460471]
+La famosa <BOLD:0100>Parrilla de Scaroni<BOLD:0000> está
+justo en lo alto de estas escaleras.
+¡¿No tenéis ganas de comer nuestra
+deliciosa comida?!
+
+## POINTER 77 [t:1;user:memnoch;time:1286292163]
+Has encontrado <VAR:0001E803> gald.
+
+## POINTER 79 [t:1;user:memnoch;time:1295212248]
+<OPTION:0000>Piedras por pila / Nivel <VAR:00103204>
+1ª pila : <VAR:0011260401000F30>
+2ª pila : <VAR:0011260402000F30>
+3ª pila : <VAR:0011260403000F30>
+
+## POINTER 81 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+¿Quieres ir primero?
+<OPTION:0000>Sí
+No
+Ver reglas
+
+## POINTER 83 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159984451]
+¿De qué pila cogerás piedras?<OPTION:0000>
+1ª pila (<VAR:0011260401000F30> piedras)
+2ª pila (<VAR:0011260402000F30> piedras)
+3ª pila (<VAR:0011260403000F30> piedras)
+
+## POINTER 85 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163851215]
+¿Cuántas piedras cogerás?<OPTION:0000>
+1
+2
+3
+
+## POINTER 87 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+No hay suficientes piedras.
+
+## POINTER 89 [t:1;user:memnoch;time:1295212102]
+No quedan piedras.
+
+## POINTER 91 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+Mi turno.
+
+## POINTER 92 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983885]
+<VAR:00111C04> piedra(s) de la pila <VAR:00111E04>.
+
+## POINTER 93 [t:1;user:memnoch;time:1295212248]
+<OPTION:0000>Piedras por pila / Nivel@<VAR:00103204>
+1ª pila : <VAR:0011260401000F30>
+2ª pila : <VAR:0011260402000F30>
+3ª pila : <VAR:0011260403000F30>
+
+## POINTER 95 [t:1;user:memnoch;time:1295209934]
+Hay tres pilas de piedras, y
+en cada turno se cogen varias.
+El que coja la última gana.
+
+## POINTER 97 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159984539]
+Puedes coger entre una y tres
+piedras por turno.
+¿Has entendido ya las reglas?
+
+## POINTER 99 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+<OPTION:0000>Sí
+No
+
+## POINTER 101 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157822482]
+Por cierto, puedes terminar el juego
+con <BUTTON:0100> durante tu turno.

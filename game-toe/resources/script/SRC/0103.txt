@@ -1,0 +1,637 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:soywiz;time:1164474167]
+Univ. de Mintche (Exám. Medio)
+
+## POINTER 2 [t:1;user:memnoch;time:1286291169]
+El mal comportamiento durante
+el examen no será tolerado.
+¡Limitaos a realizar el examen!
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;time:1157722710]
+Oficina de Preparación de Exámenes
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;time:1157722710]
+Ésta es la Sala de Exámenes Intermedios.
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349885]
+Parece que ya has realizado
+el Examen Intermedio.
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349885]
+¿Te gustaría intentar hacer
+el Examen Intermedio?
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349885]
+<OPTION:0000>Sí
+No
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349885]
+Muy bien.
+Te deseo la mejor suerte.
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+Sí.
+Es mejor no hacer el examen
+si no estás preparado.
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¡Por favor, vuelve cuando hayas
+pasado el Examen Elemental!
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+Yo te leeré las preguntas
+del examen.
+
+## POINTER 21 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿Estás listo?
+<OPTION:0000>Sí
+No
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Empecemos, pues!
+
+## POINTER 25 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Pregunta <VAR:00120004>!
+
+## POINTER 27 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿Qué personaje tiene
+las orejas más grandes?
+
+## POINTER 29 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726606]
+<OPTION:0000>Rongo Lango
+Klonoa
+Lephise
+Huepow
+
+## POINTER 31 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Qué lleva bordado el sombrero de Klonoa?
+
+## POINTER 33 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+<OPTION:0000>Nada
+Líneas
+Una estrella fugaz
+Pac-Man
+
+## POINTER 35 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 36 [t:1;user:memnoch;time:1295651008]
+¿Cuál es el nombre correcto del juego?
+
+## POINTER 37 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726591]
+<OPTION:0000>Cyber Cage
+Cyber Maze
+Cyber Rock
+Cyber Sled
+
+## POINTER 39 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿Cuál de los siguientes coches no
+aparece en Ridge Racer V?
+
+## POINTER 41 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726591]
+<OPTION:0000>Ziblant XS
+Kamata Fiaro
+Danver Toreador
+Himmel E.D.
+
+## POINTER 43 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+En el Tekken 3, ¿qué muerte
+quiere vengar Jin Kazama?
+
+## POINTER 45 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+<OPTION:0000>La de su madre
+La de su padre
+La de su hermano
+La de su hijo
+
+## POINTER 47 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿En qué juego podrías quemar rueda
+en un circuito de carreras real?
+
+## POINTER 49 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726591]
+<OPTION:0000>Ridge Racer
+Pole Position
+MotoGP
+R4
+
+## POINTER 51 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Qué herramienta utilizaba Mr. Driller?
+
+## POINTER 53 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 54 [t:1;user:memnoch;time:1295653230]
+<OPTION:0000>Pala
+Martillo perforador
+Dinamita
+Láser
+
+## POINTER 55 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 56 [t:1;r:1;ru:soywiz;user:soywiz;time:1168038457]
+¿Cuántas motos y pilotos aparecen en
+la portada del manual de instrucciones
+del MotoGP?
+
+## POINTER 57 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+<OPTION:0000>2 motos, 2 pilotos
+1 moto, 1 piloto
+1 moto, 2 pilotos
+3 motos, 3 pilotos
+
+## POINTER 59 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿Qué Doctor no trabaja
+para Namco?
+
+## POINTER 61 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726591]
+<OPTION:0000>Dr. Boskonovich
+Dr. Right
+Dr. Don
+Dr. Dan
+
+## POINTER 63 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿Qué personaje de Namco
+realiza el Rising Impale?
+
+## POINTER 65 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Clovis Barclay
+Reid Hershel
+Paul Phoenix
+Heihachi Mishima
+
+## POINTER 67 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 68 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿En qué juego puedes encontrar
+el Cielo y el Infierno?
+
+## POINTER 69 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Dragon Valor
+R4
+Klonoa
+Tales of Destiny
+
+## POINTER 71 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+((123 + 200) x 2 + 123) - 4 = ?
+
+## POINTER 73 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>756
+796
+769
+765
+
+## POINTER 75 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Por quién siente algo Karyl?
+
+## POINTER 77 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Leianna
+Ilene
+Eleanor
+Marian
+
+## POINTER 79 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Quién es el amigo de infancia de Stahn?
+
+## POINTER 81 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Grid
+Rufus
+Buck
+Beck
+
+## POINTER 83 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 84 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿Cuál es el nombre del
+muy boscoso aerópolis?
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 86 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Cloudius
+Anthzoon
+Helraios
+Rodeon
+
+## POINTER 87 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 88 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166958062]
+¿A qué puedes jugar si ganas 
+5 veces en la arena, tras la 
+destrucción de Belcrant?
+
+## POINTER 89 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 90 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Ghost Hunt
+Tekken Tournament
+Crocodile Panic
+Tic-Tac-Toe
+
+## POINTER 91 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 92 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Quién es el tipo malo de Time Crisis 2?
+
+## POINTER 93 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 94 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Keith Martin
+Robert Baxter
+Ernest Diaz
+Zark Luger
+
+## POINTER 95 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 96 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Cuál es la especialidad culinaria de Mary?
+
+## POINTER 97 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 98 [t:1;r:1;ru:soywiz;user:soywiz;time:1163419990]
+<OPTION:0000>Queen's Delight
+Spicy Prawns
+The Sea's Bounty
+Beast Meat Supreme
+
+## POINTER 99 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 100 [t:1;user:memnoch;time:1295545880]
+¿Qué fruta le gusta
+más comer a Pac-Man?
+
+## POINTER 101 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 102 [t:1;user:memnoch;time:1295545880]
+<OPTION:0000>Cerezas
+Kiwis
+Mangos
+Lichis
+
+## POINTER 103 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 104 [t:1;user:memnoch;time:1295652701]
+¿Cuál de estos juegos no apareció
+en Namco Museum Vol. 1?
+
+## POINTER 105 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 106 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Toy Pop
+Dig Dug
+Rally-X
+New Rally-X
+
+## POINTER 107 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 108 [t:1;user:memnoch;time:1295652148]
+¿Qué cocinó Chelsea para Alba cuando 
+este fingió estar enfermo?
+
+## POINTER 109 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 110 [t:1;user:memnoch;time:1295652179]
+<OPTION:0000>Especialidad del día
+Sopa de remolacha
+Risotto
+Fideos
+
+## POINTER 111 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 112 [t:1;user:memnoch;time:1295652450]
+¿Cuál es el nombre de la aerópolis
+donde puede encontrarse el
+crucero antigravitatorio?
+
+## POINTER 113 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 114 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Mikheil
+Dycroft
+Ignasea
+Cloudius
+
+## POINTER 115 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 116 [t:1;user:memnoch;time:1295653297]
+Symphony, Samba, March y Rumba.
+¿De qué personaje son estas habilidades?
+
+## POINTER 117 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 118 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Stahn
+Philia
+Mary
+Karyl
+
+## POINTER 119 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 120 [t:1;user:memnoch;time:1295653297]
+¿Qué le dio Alba a Stahn cuando este
+volvió con Chelsea de la montaña?
+
+## POINTER 121 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 122 [t:1;user:memnoch;time:1295210491]
+<OPTION:0000>Gel de naranja
+Gel de piña
+Melange gel
+Gel de limón
+
+## POINTER 123 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 124 [t:1;user:memnoch;time:1295573706]
+En un bar en Janos, un extranjero dice:
+"Hagamos un brindis
+por tus ___________".
+
+## POINTER 125 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 126 [t:1;user:memnoch;time:1295573706]
+<OPTION:0000>Manos elegantes
+Ojos resplandecientes
+¡Enormes tetooooorras!
+Bellísimo cabello
+
+## POINTER 127 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 128 [t:1;user:memnoch;time:1295573724]
+Los miembros de los <BOLD:0100>Alas Oscuras<BOLD:0000>
+son John "La Bestia", Torbellino Milly,
+y Grid el ___________.
+
+## POINTER 129 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 130 [t:1;user:memnoch;time:1295545958]
+<OPTION:0000>Profesor
+Soñador
+Demonio veloz
+Omnipotente
+
+## POINTER 131 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 132 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+Di el nombre del dibujante que creó
+los personajes del Tales of Destiny.
+
+## POINTER 133 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 134 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Jun Toyoda
+Shinichiro Okamoto
+Mutsumi Inomata
+Sawako Natori
+
+## POINTER 135 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 136 [t:1;user:memnoch;time:1295545958]
+¿Cuántos campos de fuerza
+hay en el Straylize Shrine?
+
+## POINTER 137 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 138 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>5
+6
+7
+8
+
+## POINTER 139 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 140 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿Cuál es el nombre del barco
+del jugador en Xevious?
+
+## POINTER 141 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 142 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726580]
+<OPTION:0000>Solvalou
+Soul Blade
+Star Blade
+Galaga
+
+## POINTER 143 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 144 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+¿Cuánto tiempo dura el neutralizador
+contra los gases tóxicos de Junkland?
+
+## POINTER 145 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 146 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+<OPTION:0000><8140>40 segundos
+60 segundos
+80 segundos
+100 segundos
+
+## POINTER 147 [t:1;r:1;ru:evilluendas;time:1157722710]
+<VAR:00101D04001200040F30>
+
+## POINTER 149 [t:1;r:1;ru:evilluendas;time:1157722710]
+Error
+
+## POINTER 150 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 151 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Vas a abandonar?
+
+## POINTER 152 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 153 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Es correcta!
+
+## POINTER 154 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 155 [t:1;r:1;ru:evilluendas;time:1157722710]
+Está mal.
+
+## POINTER 156 [t:1;user:memnoch;time:1295545958]
+De <VAR:00120004> preguntas, has acertado <VAR:00101C04>.
+
+## POINTER 157 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 158 [t:1;user:memnoch;time:1295651634]
+¡Cero puntos!
+
+## POINTER 159 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 160 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Te lo estás tomando en serio?
+
+## POINTER 161 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 162 [t:1;user:memnoch;time:1295545958]
+¡Lo has conseguido!
+¡Has acertado todas las preguntas!
+
+## POINTER 163 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 164 [t:1;user:memnoch;time:1294856773]
+¡Por el poder que me ha concedido el
+Presidente de la universidad de Mintche,
+te otorgo este título y este objeto!
+
+## POINTER 166 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993528]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Catedrático de Namco<COLOR:0F00>.
+
+## POINTER 168 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993528]
+Has recibido <ITEM:0600>.
+
+## POINTER 169 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 170 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993528]
+El examen ha terminado.
+
+## POINTER 171 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 172 [t:1;r:1;ru:evilluendas;time:1157722710]
+De <VAR:0012000401003230> preguntas, has acertado <VAR:00101C04>.
+
+## POINTER 173 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 174 [t:1;user:memnoch;time:1295545958]
+¡No aprobaste esta vez,
+pero no te rindas!
+¡Inténtalo de nuevo!
+
+## POINTER 175 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 176 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161383809]
+Tengo que irme.
+Un amigo está esperándome.
+
+## POINTER 177 [t:1;r:1;ru:evilluendas;time:1157722710]
+Clark
+
+## POINTER 178 [t:1;user:memnoch;time:1286291108]
+¡Asegúrate de intentarlo 
+de nuevo alguna vez!

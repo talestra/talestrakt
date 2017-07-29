@@ -1,0 +1,460 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:korsso;time:1160215123]
+Salón de Galenos
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:korsso;time:1160215123]
+Chef Maravillas
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160321743]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:korsso;time:1160215123]
+Chef Maravillas
+
+## POINTER 4 [t:1;user:memnoch;time:1294592454]
+Te enseñaré cómo hacer
+<COLOR:0D00>arroz dulce<COLOR:0F00> al estilo occidental.
+
+## POINTER 6 [t:1;user:memnoch;time:1294592454]
+Has aprendido a hacer arroz dulce.
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:korsso;time:1160215123]
+Chef Maravillas
+
+## POINTER 8 [t:1;user:memnoch;time:1294592454]
+El arroz dulce tiene cinco ingredientes:
+carne de jabalí, tomates, cebollas,
+arroz y satay blanco.
+
+## POINTER 10 [t:1;user:memnoch;time:1294592454]
+Has recibido los ingredientes
+para el arroz dulce.
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:korsso;time:1160215123]
+Chef Maravillas
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166670573]
+¡Que tengas un buen día!
+
+## POINTER 13 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160249509]
+Volved pronto.
+
+## POINTER 15 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 16 [t:1;user:memnoch;time:1295389211]
+¡Eh! Estoy despierta. Entra.
+
+## POINTER 17 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 18 [t:1;user:memnoch;time:1295385545]
+Probablemente es malo
+que nos vayamos tal cual.
+
+## POINTER 19 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160289881]
+¿Qué es esto?
+Qué máquina más rara.
+
+## POINTER 21 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160321743]
+<CHARA:MEREDY>, ¿es posible que
+yo pueda usar esta máquina?
+
+## POINTER 23 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 24 [t:1;user:memnoch;time:1295573890]
+Mmmm.
+Los inferianos no tienen
+elaras, así que no creo
+que puedas usarla.
+
+## POINTER 26 [t:1;user:memnoch;time:1294851332]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 27 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160289881]
+¿No hay nadie más aquí?
+¿Dónde está tu familia?
+
+## POINTER 29 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 30 [t:1;user:memnoch;time:1294851332]
+¿Fa... mi... lia? ¿Te refieres a
+los padres biológicos de <CHARA:MEREDY>?
+Los celestianos se independizan
+a los diez años.
+
+## POINTER 31 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160249867]
+Así que, <CHARA:MEREDY>...
+¿Vives tú sola?
+
+## POINTER 33 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160249867]
+Sí... Una vez <CHARA:MEREDY> estaba sola
+y otra vez <CHARA:MEREDY> estaba con otro.
+
+## POINTER 35 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 36 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160321743]
+¡<CHARA:KEELE>!
+¡Eso es privado!
+¡No es de nuestra incumbencia!
+
+## POINTER 37 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 38 [t:1;user:memnoch;time:1295390476]
+Oh, yo... err... Tienes razón.
+
+## POINTER 39 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 40 [t:1;user:memnoch;time:1295387259]
+Hay varias camas por aquí.
+Están un poco arrugadas, pero...
+¡sentíos como en casa!
+
+## POINTER 41 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160249562]
+Gracias <CHARA:MEREDY>.
+
+## POINTER 43 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 44 [t:1;user:memnoch;time:1295389903]
+Aún no ha anochecido.
+Me gustaría ir a ver la ciudad...
+¿Podrías enseñármela un poco?
+
+## POINTER 45 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161192353]
+¡Claro que sí!
+Aquí es donde <CHARA:MEREDY> creció.
+<CHARA:MEREDY> quiere que todos vean.
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;user:memnoch;time:1295386973]
+Oh, err...
+¿Os importa si me
+quedo a descansar?
+Estoy algo agotada.
+
+## POINTER 49 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160289881]
+¡Claro que sí!
+Bien entonces, <CHARA:KEELE>, <CHARA:REID>,
+¡seguid a <CHARA:MEREDY>!
+
+## POINTER 51 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 52 [t:1;user:memnoch;time:1295389242]
+Eh, <CHARA:FARAH>,
+que tengas dulces sueños.
+
+## POINTER 53 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160289881]
+Gracias. Pasadlo bien.
+
+## POINTER 55 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 56 [t:1;user:memnoch;time:1295390451]
+Guau... ¡Está
+completamente oscuro!
+
+## POINTER 57 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250835]
+Vamos a ver...
+¿Dónde está la luz?
+
+## POINTER 59 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 60 [t:1;user:memnoch;time:1295389747]
+¿<CHARA:FARAH>?
+¿Qué ocurre? ¿Qué haces
+ahí, en la oscuridad?
+
+## POINTER 61 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 62 [t:1;user:memnoch;time:1295389242]
+Oh... nada.
+Tan solo...
+Solo pensaba.
+
+## POINTER 63 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 64 [t:1;user:memnoch;time:1295389394]
+Han pasado muchas cosas:
+la caída de <CHARA:MEREDY> del cielo,
+el encuentro con los craymels supremos,
+la escalada del monte Farlos...
+
+## POINTER 65 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250835]
+Hemos derrotado a los
+soldados reales...
+Y hemos llegado a Celestia...
+
+## POINTER 67 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;user:memnoch;time:1294859090]
+Me siento... completamente perdida.
+
+## POINTER 69 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250835]
+Por qué...
+¿Por qué estoy
+ayudando a <CHARA:MEREDY>?
+
+## POINTER 71 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 72 [t:1;user:memnoch;time:1295390357]
+Es tu forma de ser...
+Eres una persona amable que no
+se puede quedar sentada viendo
+cómo sufren los demás, ¿no?
+
+## POINTER 73 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 74 [t:1;user:memnoch;time:1295389242]
+No lo sé.
+He usado siempre eso como excusa.
+Sin pensar... Tan solo actuando por 
+instinto.
+
+## POINTER 75 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250835]
+Pero quizá sea como me
+dijo <CHARA:RAS>. A lo mejor
+estoy tratando de huir...
+
+## POINTER 77 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250835]
+¿De qué?
+
+## POINTER 79 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 80 [t:1;user:memnoch;time:1295387452]
+¡No lo sé!
+Ni siquiera me conozco.
+No... confío en mí misma.
+
+## POINTER 81 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160289881]
+<CHARA:RAS> fue incapaz
+de dar la estocada final.
+
+## POINTER 83 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 84 [t:1;user:memnoch;time:1295387520]
+Había descuidado mi defensa;
+tuvo muchas oportunidades de
+contraatacar, pero no lo hizo
+
+## POINTER 85 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 86 [t:1;user:memnoch;time:1295387452]
+Creo que dudaba de sí mismo.
+Incluso con todo su poder e
+inteligencia, seguía dudando.
+
+## POINTER 87 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 88 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160289881]
+No hay nadie en el mundo que se
+conozca completamente. Y es
+imposible saber siempre lo que
+está bien o lo que está mal.
+
+## POINTER 89 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 90 [t:1;user:memnoch;time:1295385524]
+Sí...
+Imagino que sí.
+
+## POINTER 91 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 92 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160251116]
+Además...
+
+## POINTER 93 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 94 [t:1;r:1;ru:evilluendas;user:soywiz;time:1161215991]
+No es propio de ti pensar tanto;
+se te podría soltar algún cable.
+
+## POINTER 95 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 96 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160289881]
+¿Qué has dicho?
+¡Te vas a enterar!
+
+## POINTER 97 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 98 [t:1;user:memnoch;time:1295387452]
+Voy a dormir.
+¡Buenas noches!
+
+## POINTER 99 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 100 [t:1;user:memnoch;time:1295387452]
+Buenas noches... <CHARA:REID>.
+
+## POINTER 101 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250311]
+¡<CHARA:MEREDY>!
+¿Qué estás haciendo?
+
+## POINTER 103 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 104 [t:1;user:memnoch;time:1295387452]
+<8268><8140><8281><828D><8140><8287><828F><8289><828E><8287><8140><8294><828F><8140><8282><8292><8289><828E><8287>
+<8285><8296><8285><8292><8299><828F><828E><8285><8140><828F><8296><8285><8292><8140><8294><8288><8285><8292><8285><8144>
+
+## POINTER 105 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 106 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250311]
+¿Qué es eso?
+
+## POINTER 107 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 108 [t:1;user:memnoch;time:1295385616]
+Es un <COLOR:0D00>teléfono de elara<COLOR:0F00>.
+Permite a la gente hablar a distancia.
+
+## POINTER 109 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 110 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161192353]
+¿Es también tecnología celestiana?
+
+## POINTER 111 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 112 [t:1;user:memnoch;time:1295149795]
+Sí. <COLOR:0D00>Galenos<COLOR:0F00> lo inventó.
+El teléfono de elara solo está en
+<COLOR:0E00>Luishka<COLOR:0F00> y ahora aquí.
+
+## POINTER 113 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 114 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250311]
+¿Galenos? ¿Luishka?
+No lo entiendo.
+Explícate.
+
+## POINTER 115 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 116 [t:1;user:memnoch;time:1294859090]
+Yo... err...
+Ya lo entenderás cuando vayamos.
+
+## POINTER 117 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 118 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160250311]
+¿Ahora mismo?
+
+## POINTER 119 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 120 [t:1;user:memnoch;time:1295390409]
+¡Sí! Vive en un poblado llamado
+Luishka. Iremos y veremos a Galenos.
+Está estudiando cómo derrotar
+a Balir. Él es un amigo.
+
+## POINTER 121 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 122 [t:1;user:memnoch;time:1295390409]
+Ayudó enviando a
+<CHARA:MEREDY> a Inferia.
+
+## POINTER 123 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 124 [t:1;user:memnoch;time:1294859090]
+Un investigador que sabe cómo 
+usar la <COLOR:0D00>nave craymel<COLOR:0F00>...
+
+## POINTER 125 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 126 [t:1;user:memnoch;time:1294859090]
+Luishka...
+Debemos ir al <COLOR:0E00>este<COLOR:0F00> y escalar
+la <COLOR:0E00>Montaña de la Roca del Dragón<COLOR:0F00>.
+
+## POINTER 127 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 128 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160249896]
+¡Vale! ¡Decidido entonces!
+¡Vayamos!

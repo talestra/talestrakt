@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;time:1157722708]
+Balir Castle Garden (<CHARA:RAS> Center)
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 2 [t:1;r:1;ru:pacochan;time:1157722708]
+¡<CHARA:RAS>!
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 4 [t:1;r:1;ru:pacochan;time:1157722708]
+<CHARA:REID>...
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 6 [t:1;user:memnoch;time:1295567685]
+¡Por qué!
+¡¿Por qué nos salvaste?!
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 8 [t:1;user:memnoch;time:1295567685]
+Había algo que
+necesitaba... darte.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 10 [t:1;user:memnoch;time:1295567697]
+¿Es esto la <COLOR:0D00><ITEM:00014A01><COLOR:0F00>?
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 12 [t:1;user:memnoch;time:1295567685]
+¿Qué es... esta luz?
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 14 [t:1;user:memnoch;time:1295085341]
+Es la Aurora Divina.
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 16 [t:1;user:memnoch;time:1295567711]
+¿Aurora... Divina?
+Aun así, ¿qué es eso?
+¿Qué tiene que ver conmigo?
+
+## POINTER 17 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1167993661]
+Reúnete con Galenos.
+Él te contará el resto.
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 20 [t:1;user:memnoch;time:1294688406]
+Parece que... este
+es el final para mí.
+
+## POINTER 21 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;time:1157722708]
+¡<CHARA:RAS>!
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 24 [t:1;user:memnoch;time:1295085818]
+<CHARA:REID>... Protege a
+aquellos a quien quieres.
+Las artes aurora existen
+para ese propósito.
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 26 [t:1;r:1;ru:pacochan;time:1157722708]
+¡¡<CHARA:RAS>!!
+
+## POINTER 27 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 28 [t:1;r:1;ru:pacochan;time:1157722708]
+<CHARA:RAS>...
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 30 [t:1;r:1;ru:pacochan;time:1157722708]
+<CHARA:RAS>...
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 32 [t:1;r:1;ru:pacochan;time:1157722708]
+¡¡Noooooo!!
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:pacochan;time:1157995941]
+<OPTION:1000><CHARA:REID>.
+Puedes hacerlo.
+Salva el mundo y protege
+aquellos a quien quieres.

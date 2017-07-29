@@ -1,0 +1,441 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Engine chat_pos:<VAR:00108400>
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 2 [t:1;user:memnoch;time:1295383376]
+¡Las máquinas son preciosas!
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 4 [t:1;user:memnoch;time:1295625361]
+Las palabras de la estatua de
+Aifread en el punto de relevo...
+¿Qué habrán querido decir?
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 6 [t:1;r:1;ru:soywiz;user:soywiz;time:1167961199]
+El Punto de Relevo de
+la Barrera Orbus.
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 8 [t:1;user:memnoch;time:1295625293]
+Todavía hay algún
+tipo de secreto ahí
+escondido... ¡Lo sé!
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 10 [t:1;user:memnoch;time:1295625293]
+88:64
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158056464]
+Esos números que había en
+la estatua de Aifread...
+¿Podrían ser coordenadas?
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 14 [t:1;user:memnoch;time:1295383376]
+¡Las máquinas son preciosas!
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 16 [t:1;user:memnoch;time:1295383376]
+¡Las máquinas son preciosas!
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158056464]
+Parece que
+necesitas mi ayuda.
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162643100]
+¿Quieres que <CHARA:CHAT> se una al grupo?<OPTION:0000>
+Sí
+No
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 22 [t:1;user:memnoch;time:1294857925]
+Un capitán debería estar
+siempre en su barco, pero...
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162643100]
+Muy bien...
+Os acompañaré.
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162643100]
+<CHARA:CHAT> se ha unido
+al grupo.
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Oh...
+No importa.
+
+## POINTER 29 [t:1;r:1;ru:evilluendas;time:1157722708]
+Galenos
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Si cooperamos con Shileska,
+podríamos averiguar una forma
+de derrotar a <CHARA:SHIZEL>...
+
+## POINTER 31 [t:1;r:1;ru:evilluendas;time:1157722708]
+Galenos
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162643100]
+<CHARA:RAS> me pidió que
+llevara un mensaje a Roen.
+
+## POINTER 33 [t:1;r:1;ru:evilluendas;time:1157722708]
+Galenos
+
+## POINTER 34 [t:1;user:memnoch;time:1294859745]
+Hay algo que quiero
+investigar en el
+observatorio de Seyfert.
+
+## POINTER 35 [t:1;r:1;ru:evilluendas;time:1157722708]
+Galenos
+
+## POINTER 36 [t:1;user:memnoch;time:1294859745]
+Qué máquina tan increíble.
+¡No puedo creer que se
+construyera hace diez años!
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Me quedaré.
+He de encargarme del
+mantenimiento del motor.
+
+## POINTER 40 [t:1;user:memnoch;time:1294850112]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 42 [t:1;user:memnoch;time:1295388326]
+Oye, <CHARA:CHAT>.
+¡Digo... capitán!
+Démonos prisa y vayamos a Imen.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Afirmativo.
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162643100]
+La ciudad está viva.
+Parece que el hielo ha
+empezado a retroceder.
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Lo sabemos.
+Somos los que lo hemos derretido.
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 50 [t:1;user:memnoch;time:1295558179]
+Sois... sois
+sorprendentemente 
+bondadosos.
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;user:memnoch;time:1294852013]
+Esto tiene un motor
+craymel incluso mayor
+que el del Craymel Express.
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Precioso, ¿verdad?
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 56 [t:1;user:memnoch;time:1295558190]
+Es un modelo del 43; motor craymel
+de doce cilindros alineados
+horizontalmente y diseñado por 
+el legendario mago craymel, Maxton.
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 58 [t:1;user:memnoch;time:1295211569]
+8.000 zaks de revoluciones máximas.
+Con el super-turbo, alcanza una
+fuerza de torsión de 28,000 aste.
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 60 [t:1;user:memnoch;time:1294852013]
+No solo tiene potencia,
+su elegante diseño es
+poco menos que perfecto.
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 62 [t:1;user:memnoch;time:1295383376]
+¡Las máquinas son preciosas!
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 64 [t:1;user:memnoch;time:1294852013]
+Es un poco rara...
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 66 [t:1;user:memnoch;time:1294852013]
+Puede que esté un poquito
+obsesionada con las máquinas...
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 68 [t:1;user:memnoch;time:1294852013]
+Y... ¿cuándo zarparemos?
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Oh, exacto.
+Por aquí por favor.
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+¡Bien, vámonos!
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162643100]
+Perdonad, ¿pero me podéis
+dar un poco de tiempo?
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Quiero ayudar a Galenos.
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Claro.
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Volveré luego.
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+¡<CHARA:MEREDY> no puede ayudar,
+pero <CHARA:MEREDY> quiere ir!
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 84 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+<CHARA:REID>, ¿qué hacemos?
+
+## POINTER 85 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 86 [t:1;user:memnoch;time:1295652029]
+Mmmm...
+¿Por qué no nos aseguramos de que
+el barco funcione correctamente?
+<CHARA:CHAT>, demos una vuelta con él.
+
+## POINTER 87 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 88 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Buena idea.
+Muy bien, zarpemos.
+
+## POINTER 89 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 90 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+¿Eh?
+
+## POINTER 91 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 92 [t:1;user:memnoch;time:1295652046]
+¡¡Aaaah!! ¡¿Q-Qué es esto?!
+¡Pelo de animal!
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 94 [t:1;user:memnoch;time:1294852067]
+¡¿Qué significa esto?!
+¡Mi precioso motor craymel
+ha sido ensuciado!
+
+## POINTER 95 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 96 [t:1;user:memnoch;time:1295650786]
+Ya me ocuparé de esa pequeña
+sabandija, Quickie.
+¡<CHARA:MEREDY> puede ser una
+dueña muy irresponsable!
+
+## POINTER 97 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 98 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132052]
+Como mínimo, debería entender
+que estas máquinas son muy
+delicadas y necesitan mantenerse
+alejadas de animales salvajes.
+
+## POINTER 100 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166958664]
+Kuwiiky.
+
+## POINTER 101 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132452]
+No puede ser...
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 104 [t:1;user:memnoch;time:1295574051]
+¡¡Aaaah!! ¡¡Aquí también hay pelo!!
+¡¡No puede ser!!
+¡¡Creía que había ido a la cubierta
+de observaciones con <CHARA:MEREDY>!!
+
+## POINTER 105 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 106 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132452]
+No puede ser...
+
+## POINTER 108 [t:1;user:memnoch;time:1297458781]
+¡Kuku, kuwiiiky!
+
+## POINTER 109 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 110 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132452]
+¡Aaah!
+
+## POINTER 112 [t:1;user:memnoch;time:1295574051]
+¡Kwiiiky, kwiiiky, kwiiiky!
+
+## POINTER 113 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 114 [t:1;user:memnoch;time:1295297823]
+¡¿P-P-Por
+qué estás aquí?!
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 116 [t:1;user:memnoch;time:1295650828]
+¡¡Aaah!!
+¡Que alguien me ayude!
+
+## POINTER 117 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 118 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158132452]
+Mis máquinas...
+
+## POINTER 119 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 120 [t:1;user:memnoch;time:1295297823]
+Ah... err... mm... aah...
+Sé un buen chico y vete fuera.
+Aquí no hay nada para ti.
+¡<CHARA:MEREDY> está ahí fuera!
+
+## POINTER 122 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167477004]
+¡¡Ku, ku, kuwiiky!!
+
+## POINTER 123 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 124 [t:1;r:1;ru:soywiz;user:soywiz;time:1163353309]
+¡¡Aarggg!!! ¡¡Te he dicho
+que pares!! ¡¡Estás soltando
+pelos por todas partes!!
+Por favor... ¡Para!
+
+## POINTER 126 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167476970]
+¡¡Kuwiiky, kuwiiky, kuwiiky!!
+
+## POINTER 127 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 128 [t:1;user:memnoch;time:1295297823]
+Te lo ruego. ¡Por favor!
+
+## POINTER 129 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 130 [t:1;user:memnoch;time:1295297823]
+¡¡Waaaa, waaa!!
+
+## POINTER 132 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163348217]
+Manejando a <CHARA:CHAT> en combate,
+pulsa <BUTTON:6600> cuando un enemigo te haga
+un ataque normal para contraatacar.

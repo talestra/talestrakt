@@ -1,0 +1,370 @@
+## POINTER 1 [t:1;r:1;ru:pacochan;user:soywiz;time:1159713840]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:soywiz;time:1159713840]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:soywiz,pacochan;user:soywiz;time:1159713840]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:soywiz,pacochan;user:soywiz;time:1159713840]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:korsso;time:1160233439]
+Arroyo de Undine E
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:soywiz;time:1159713840]
+Lo habéis hecho bien.
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:soywiz;time:1159713840]
+Lo habéis hecho bien
+llegando hasta aquí.
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:pacochan;time:1166783282]
+Esto es...
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:soywiz;time:1159713840]
+¿Podría ser...?
+
+## POINTER 18 [t:1;user:memnoch;time:1297460942]
+Ha pasado mucho tiempo
+desde la última vez que
+vi a un humano.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 20 [t:1;user:memnoch;time:1295083556]
+¡E-El craymel supremo!
+¡¿Undine?!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;user:memnoch;time:1295650683]
+Fiuu...
+¿Es de verdad?
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 24 [t:1;user:memnoch;time:1295057358]
+Craymel supremo Undine,
+guardián de las Aguas
+Sagradas. Perdónanos
+por pisar estas tierras.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 26 [t:1;user:memnoch;time:1295057358]
+Oh craymel supremo Undine,
+¡por favor, dinos!
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:korsso;time:1160233385]
+¿Es cierto que el Gran Descenso
+llegará a este mundo?
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Undine
+
+## POINTER 30 [t:1;user:memnoch;time:1295057358]
+¿De verdad crees que un craymel
+supremo como yo, debería
+dignarse a conversar con
+humanos sin razón?
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;user:memnoch;time:1294686616]
+E-Entonces,
+es verdad...
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:pacochan;time:1166783282]
+¡Hwil!
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Undine
+
+## POINTER 36 [t:1;user:memnoch;time:1294688318]
+Entonces, permitidme preguntaros
+qué es lo que queréis.
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:soywiz;time:1159754135]
+Quiero que entres aquí.
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 40 [t:1;user:memnoch;time:1295057358]
+Para salvar al mundo
+necesitamos el poder de
+los craymels supremos.
+¿Nos ayudarás?
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:soywiz;time:1159713840]
+Comprendo lo tosco
+que puede parecer.
+¡Pero no hay otra forma!
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Undine
+
+## POINTER 44 [t:1;user:memnoch;time:1294687942]
+En ese caso, mostradme
+si vuestras acciones
+hablan tan fuerte
+como vuestras palabras.
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+Undine
+
+## POINTER 46 [t:1;user:memnoch;time:1295057358]
+Aquí es donde duermen los craymels.
+Si estáis preparados, aventuraos
+en el interior.
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 48 [t:1;user:memnoch;time:1294689131]
+¿Si estamos preparados?
+¿A qué se refiere, <CHARA:KEELE>?
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 50 [t:1;user:memnoch;time:1294687960]
+Quiere que luchemos contra ella...
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 52 [t:1;user:memnoch;time:1295057358]
+¡¿Luchar?!
+¡Es un craymel supremo!
+No podemos ganar...
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:soywiz;time:1159713840]
+Undine...
+Está probando nuestro poder.
+Debemos esforzarnos al máximo.
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 56 [t:1;r:1;ru:pacochan;user:pacochan;time:1160756353]
+¡Sí!
+¡Sin arriesgar,
+no se gana!
+¡Ningún problema!
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 58 [t:1;user:memnoch;time:1295488766]
+Oye, <CHARA:KEELE>.
+¿Cuántos craymels supremos hay?
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:soywiz;time:1159713840]
+No estoy seguro.
+Pero se dice que hay generalmente
+cuatro tipos principales.
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 62 [t:1;user:memnoch;time:1295057358]
+Agua, fuego y viento...
+los tres craymels básicos,
+y el craymel de la Luz,
+que los unifica a todos.
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 64 [t:1;user:memnoch;time:1295099859]
+Mmmm... Y, ¿dónde están
+los otros craymels supremos
+además de Undine?
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 66 [t:1;r:1;ru:pacochan;user:soywiz;time:1159754053]
+Undine no nos lo dijo.
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 68 [t:1;user:memnoch;time:1295092057]
+Los planos de existencia entre los humanos
+y los craymels difieren. El hecho de que
+aparezcan delante de los humanos es un
+evento extraordinario.
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 70 [t:1;user:memnoch;time:1295094476]
+Guau... ¿En serio?
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 72 [t:1;user:memnoch;time:1295488766]
+¡Eh!
+Nuestro siguiente destino...
+¿Por qué no vamos a Inferia?
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 74 [t:1;user:memnoch;time:1295057358]
+¿Inferia?
+¿Te refieres al castillo del Rey?
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 76 [t:1;user:memnoch;time:1295057358]
+Sí.
+La obtención de todos los
+craymels está por encima de
+nuestras habilidades.
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168720938]
+No hay mucho más que podamos
+hacer, aparte de informar
+al Rey sobre el Gran Descenso.
+¿Me equivoco?
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 80 [t:1;user:memnoch;time:1295098315]
+Pero... hemos podido
+establecer un pacto
+con Undine por nuestra
+cuenta.
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168720970]
+Hemos tenido mucha suerte.
+No podemos permitirnos ningún
+fallo. ¡Tenemos que conocer
+nuestros límites!
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 84 [t:1;user:memnoch;time:1297465944]
+Eso es cierto... Tenemos la
+obligación de informar al Rey.
+
+## POINTER 85 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 86 [t:1;r:1;ru:pacochan;time:1157722711]
+¡<CHARA:KEELE>!
+
+## POINTER 87 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 88 [t:1;user:memnoch;time:1295057358]
+Imagina las consecuencias de
+buscar los craymels supremos
+sin el permiso del Rey.
+
+## POINTER 89 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 90 [t:1;user:memnoch;time:1295099570]
+Nos podrían considerar
+erróneamente como sospechosos.
+
+## POINTER 91 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 92 [t:1;user:memnoch;time:1295099570]
+Entiendo...
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 94 [t:1;user:memnoch;time:1295099570]
+Decidido, entonces.
+Nuestro próximo destino
+es Ciudad de Inferia.
+
+## POINTER 95 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 96 [t:1;user:memnoch;time:1295057358]
+¿Y qué hay de los craymels supremos?
+
+## POINTER 97 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 98 [t:1;user:memnoch;time:1295057358]
+No te preocupes. Una vez que el
+Rey sepa sobre el Gran Descenso,
+movilizará la armada y encontrará
+todos los craymels supremos.
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 100 [t:1;user:memnoch;time:1295094442]
+<CHARA:MEREDY>, confía
+en nuestro Rey,
+¿vale?
+
+## POINTER 101 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 102 [t:1;user:memnoch;time:1295124698]
+Tenemos que cruzar el <COLOR:0E00>Bosque<COLOR:0F00>
+<COLOR:0E00>de la Tentación<COLOR:0F00> para llegar a
+Ciudad de Inferia.
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 104 [t:1;user:memnoch;time:1295057358]
+Vayamos al <COLOR:0E00>sureste<COLOR:0F00> siguiendo el río.
+El bosque está atravesando el puente.

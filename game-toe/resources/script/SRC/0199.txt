@@ -1,0 +1,336 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166957582]
+Recepción del Coliseo
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166957595]
+Coliseo
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:pacochan;time:1162920095]
+Lo hago lo mejor
+que puedo...
+
+## POINTER 5 [t:1;user:memnoch;time:1295213289]
+¡Pero no tengo
+tanto talento!
+
+## POINTER 7 [t:1;user:memnoch;time:1295213404]
+Tienes que ganar el campeonato de la
+ciudad antes de competir en el campeonato
+nacional. Así son las reglas.
+
+## POINTER 9 [t:1;user:memnoch;time:1295213289]
+Si sobrestimas
+tu fuerza, morirás...
+
+## POINTER 11 [t:1;user:memnoch;time:1295213289]
+Me pregunto si venderán guías de 
+estrategia para el torneo...
+
+## POINTER 13 [t:1;user:memnoch;time:1295213341]
+¡He oído que puedes conseguir
+un gran premio si ganas el
+torneo!
+
+## POINTER 15 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162920095]
+Por favor, dirígete al
+mostrador de inscripciones.
+
+## POINTER 17 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162920095]
+Por favor, dirígete al
+mostrador de inscripciones.
+
+## POINTER 19 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1158002785]
+¡Qué espada tan buena!
+Me hubiese gustado
+probarla alguna vez...
+
+## POINTER 21 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162920095]
+Por favor, dirígete al
+mostrador de inscripciones.
+
+## POINTER 23 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162920095]
+Por favor, dirígete al
+mostrador de inscripciones.
+
+## POINTER 25 [t:1;r:1;ru:evilluendas;user:manwe;time:1157966183]
+Mumbane para niños.
+
+## POINTER 26 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 27 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1157962634]
+Discúlpeme...
+
+## POINTER 29 [t:1;r:2;ru:pacochan,evilluendas;user:hexplus;time:1157732945]
+¡¿Qué?!
+
+## POINTER 30 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 31 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162920095]
+Estamos buscando algo que
+se le cayó a un anciano.
+
+## POINTER 33 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162920095]
+¿Algo que se le cayó?
+¿Te refieres a esto?
+
+## POINTER 34 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 35 [t:1;r:1;ru:soywiz;user:soywiz;time:1167969330]
+¡Sí, esa es!
+¡La <COLOR:0D00>Espada Empuñable<COLOR:0F00>!
+
+## POINTER 37 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1158002785]
+¡Qué espada tan buena!
+Me hubiese gustado
+probarla alguna vez...
+
+## POINTER 39 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162920095]
+Bueno, no puedo quedarme lo
+que no es mío. Aquí tienes.
+
+## POINTER 40 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 41 [t:1;user:memnoch;time:1295635616]
+¡Fantástico!
+¡Vayamos deprisa a
+devolvérsela al anciano!
+
+## POINTER 42 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 43 [t:1;r:1;ru:pacochan;user:manwe;time:1157966183]
+¡De acuerdo!
+
+## POINTER 45 [t:1;user:memnoch;time:1295213404]
+Admitimos inscripciones para
+el <COLOR:0D00>campeonato local<COLOR:0F00> del
+torneo de Inferia.
+
+## POINTER 47 [t:1;user:memnoch;time:1295213404]
+Admitimos inscripciones para
+el <COLOR:0D00>campeonato nacional<COLOR:0F00> del
+torneo de Inferia.
+
+## POINTER 49 [t:1;user:memnoch;time:1295213404]
+Admitimos inscripciones para
+el <COLOR:0D00>campeonato mundial<COLOR:0F00> del
+torneo de Inferia.
+
+## POINTER 51 [t:1;r:1;ru:pacochan;user:manwe;time:1157966342]
+¿Aceptas el desafío del
+espadachín misterioso?
+
+## POINTER 53 [t:1;user:memnoch;time:1286292250]
+Participar cuesta <VAR:00120804> gald,
+¿Quieres inscribirte?
+
+## POINTER 55 [t:1;r:1;ru:pacochan;user:pacochan;time:1162920095]
+<OPTION:0000>Sí
+No
+
+## POINTER 56 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 57 [t:1;user:memnoch;time:1295150369]
+No, gracias.
+
+## POINTER 59 [t:1;r:1;ru:pacochan;user:manwe;time:1157966342]
+¡Buena elección!
+
+## POINTER 61 [t:1;r:1;ru:soywiz;user:soywiz;time:1167969330]
+Ya veo.
+Bueno, estoy segura de que no la
+has tomado porque seas un...cobarde.
+
+## POINTER 63 [t:1;r:1;ru:pacochan;user:soywiz;time:1157968492]
+Lo siento, pero no tienes
+suficiente dinero.
+
+## POINTER 64 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 65 [t:1;user:memnoch;time:1295150375]
+Sí, ¡lo haré!
+
+## POINTER 67 [t:1;r:1;ru:pacochan;user:soywiz;time:1157963126]
+De acuerdo.
+¿Conoces las reglas?
+
+## POINTER 69 [t:1;r:1;ru:pacochan;user:soywiz;time:1157963126]
+<OPTION:0000>Sí
+No
+
+## POINTER 71 [t:1;r:1;ru:pacochan;user:soywiz;time:1157963126]
+Debes luchar tres rondas en solitario.
+Gana las tres, y ganarás dinero y
+otros regalos.
+
+## POINTER 73 [t:1;r:1;ru:pacochan;user:pacochan;time:1162920095]
+Restauraremos tu HP y TP al
+finalizar cada ronda, pero
+no está permitido usar
+objetos en las batallas.
+
+## POINTER 75 [t:1;r:1;ru:pacochan;user:soywiz;time:1157963126]
+Ya estás registrado.
+Por favor, pasa por la
+puerta del centro.
+
+## POINTER 76 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 77 [t:1;r:1;ru:pacochan;user:soywiz;time:1157963126]
+Bien, ¡deseadme suerte!
+
+## POINTER 78 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 79 [t:1;user:memnoch;time:1295098302]
+¡Mucha suerte, <CHARA:REID>!
+¡Patéales el trasero!
+
+## POINTER 80 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 81 [t:1;r:1;ru:pacochan;user:pacochan;time:1162920095]
+¡Estoy segura de que
+lo harás genial!
+¡Te estaremos animando!
+
+## POINTER 82 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 83 [t:1;r:1;ru:pacochan;user:soywiz;time:1157968605]
+¡Buena suerte, <CHARA:REID>!
+¡Te estaremos animando desde las gradas!
+
+## POINTER 84 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 85 [t:1;r:1;ru:pacochan;user:soywiz;time:1157968605]
+¡Tu oponente es muy fuerte!
+¡Ve con cuidado!
+
+## POINTER 86 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 87 [t:1;r:1;ru:pacochan;time:1157722707]
+¡<CHARA:REID>!
+
+## POINTER 88 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 89 [t:1;r:1;ru:pacochan;user:soywiz;time:1157968605]
+¿Cómo te encuentras?
+
+## POINTER 90 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 91 [t:1;r:1;ru:pacochan;user:soywiz;time:1157968605]
+¡Felicidades, <CHARA:REID>!
+
+## POINTER 92 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 93 [t:1;r:1;ru:pacochan;user:manwe;time:1157992474]
+¿Qué ocurre, <CHARA:REID>?
+
+## POINTER 94 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 95 [t:1;r:1;ru:pacochan;user:pacochan;time:1162920095]
+...No creo que
+realmente intentara...
+
+## POINTER 96 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 97 [t:1;r:1;ru:pacochan;user:soywiz;time:1157962957]
+¡¿Eh?!
+
+## POINTER 98 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 99 [t:1;user:memnoch;time:1286300075]
+Pero no pasa nada.
+He luchado lo mejor que he
+podido y... ¡ha sido divertido!
+
+## POINTER 100 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 101 [t:1;r:1;ru:pacochan;user:soywiz;time:1157962957]
+Además...
+
+## POINTER 102 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 103 [t:1;r:1;ru:pacochan;user:pacochan;time:1162920096]
+Tengo la sensación de que
+volveré a verlo algún día...
+
+## POINTER 104 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 105 [t:1;user:memnoch;time:1286298594]
+¡Estoy segura de que sí!
+
+## POINTER 106 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 107 [t:1;r:1;ru:pacochan;user:soywiz;time:1157962957]
+¡Vaya, <CHARA:REID>!
+¡El mejor de la ciudad!
+
+## POINTER 108 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 109 [t:1;r:1;ru:pacochan;user:soywiz;time:1157962957]
+¡Lo has hecho genial, <CHARA:REID>!
+¡El mejor del Imperio!
+
+## POINTER 110 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 111 [t:1;r:1;ru:pacochan;user:pacochan;time:1162920096]
+¡Eres el mejor
+del mundo, <CHARA:REID>!
+
+## POINTER 112 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 113 [t:1;r:1;ru:pacochan;user:pacochan;time:1162920096]
+Me sentía en cierto modo
+como un animal de circo.
+
+## POINTER 114 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 115 [t:1;r:1;ru:pacochan;user:soywiz;time:1157962957]
+Estaba tan nervioso,
+que no recuerdo nada
+de lo que me preguntaron.
+
+## POINTER 116 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 117 [t:1;user:memnoch;time:1286295652]
+Estaba tan animado que tengo
+la sensación de haber dicho
+algo realmente estúpido...
+
+## POINTER 118 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 119 [t:1;r:1;ru:pacochan;user:soywiz;time:1157962957]
+¡Eso no es verdad!
+¡Estuviste genial, <CHARA:REID>!
+
+## POINTER 120 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 121 [t:1;r:1;ru:pacochan;user:hexplus;time:1157733055]
+Gracias...

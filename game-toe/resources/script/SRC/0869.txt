@@ -1,0 +1,84 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166555734]
+Plano
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158052144]
+Se dice que hay una isla al
+<COLOR:0E00>sur<COLOR:0F00> de Morle que
+es inaccesible en barco porque
+está rodeada de acantilados.
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158052144]
+Pero tal vez podamos volar por encima...
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;user:memnoch;time:1294851786]
+Se dice que se forma una fuente
+termal donde los craymels de agua
+y fuego se juntan.
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158052144]
+Algún día, quiero encontrar y
+estudiar este fenómeno natural.
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 10 [t:1;user:memnoch;time:1294851786]
+Parece que está convirtiendo
+el poder generado por los
+craymels de rayo para elevarse...
+
+## POINTER 12 [t:1;user:memnoch;time:1294851786]
+No puedes usar el Aibird ahora.
+
+## POINTER 14 [t:1;user:memnoch;time:1294851786]
+¿Quieres aprender
+a operar el Aibird?
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166555622]
+<OPTION:0000>Cómo abordar
+Cómo operar
+Cómo volver
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166555622]
+Puedes acceder a él desde el
+Menú de Viaje mientras navegas
+en el Van Eltia, o abordarlo
+directamente desde esta sala.
+
+## POINTER 20 [t:1;user:memnoch;time:1295556215]
+Usa <BUTTON:0000> para acelerar.
+Usa <BUTTON:0100> para frenar.
+Usa cruceta Izquierda/Derecha para girar,
+y Arriba/Abajo para controlar la altitud.
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166555622]
+Puedes aterrizar pulsando <BUTTON:0200>
+una vez te detengas sobre un
+terreno llano.
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166555622]
+Puedes volver al Van Eltia
+pulsando <BUTTON:0200> cuando estés
+detenido sobre el océano.
+
+## POINTER 26 [t:1;user:memnoch;time:1294851808]
+¿Quieres abordar el Aibird?<OPTION:0000>
+Sí
+No
+
+## POINTER 28 [t:1;user:memnoch;time:1286298194]
+<BUTTON:0100>: Avanzar/<BUTTON:0200>: Aterrizar
+<BUTTON:0800> Izquierda/Derecha <BUTTON:0400> <BUTTON:0500>: Girar
+<BUTTON:0800> Arriba/Abajo: Ascender y Descender

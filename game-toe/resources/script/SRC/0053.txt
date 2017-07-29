@@ -1,0 +1,288 @@
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161015037]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161015037]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726280]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726280]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546991]
+Cima Régulus 4
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 10 [t:1;user:memnoch;time:1294683852]
+Je, je. Así que también te las
+has apañado para llegar aquí.
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+¡Por supuesto!
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161015037]
+¿Pero no deberías volver?
+El camino se hace más duro
+cuanto más lejos vas, ya sabes.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;user:memnoch;time:1294683860]
+No te preocupes por mí.
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 18 [t:1;user:memnoch;time:1294601946]
+Mmpf.
+Bueno, haz lo que quieras.
+Pero luego no vengas llorando.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 20 [t:1;user:memnoch;time:1294601960]
+Yo... también puedo hacerlo.
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+¿Por qué no descansamos un rato?
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;user:memnoch;time:1295655027]
+Vale...
+Todavía nos queda un buen trecho.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 26 [t:1;user:memnoch;time:1295532619]
+¿De verdad vamos a encontrar el mineral
+de ribavius en un sitio como este?
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 28 [t:1;user:memnoch;time:1294602104]
+¿Os acordáis?
+¿De lo que vimos aquí hace tiempo?
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 30 [t:1;user:memnoch;time:1294602104]
+...
+¿Esa piedra en aquel entonces?
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;user:memnoch;time:1294602104]
+En aquel entonces... piedra...
+¿Hace tiempo? Hace tiempo...
+Éramos...
+¡Ya me acuerdo!
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161015037]
+¿De qué habláis?
+Decídselo a <CHARA:MEREDY>.
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161015037]
+Nada importante.
+¡Muy bien, sigamos!
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;user:memnoch;time:1294602104]
+¡Esperad!
+<CHARA:MEREDY> tiene derecho a saberlo.
+Y quiero que todos escuchéis lo
+que tengo que decir...
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163342079]
+Un día, vinimos aquí a jugar,
+aunque no teníamos permiso para venir.
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 42 [t:1;user:memnoch;time:1295652802]
+Como resultado, rompimos el sello y
+liberamos a los monstruos que atacaron
+Rasheans. Ese es el pasado que los
+tres compartimos. Eso es todo.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 44 [t:1;user:memnoch;time:1294602104]
+¿Atacaron el poblado?
+¿Como... Imen?
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 46 [t:1;user:memnoch;time:1295530352]
+¡Solo teníamos siete años!
+¡¡No pudimos hacer nada!!
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 48 [t:1;user:memnoch;time:1295651092]
+Nadie sabía lo del sello.
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163342079]
+¡Yo lo sabía!
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;user:memnoch;time:1294602104]
+¿Qué...
+quieres decir?
+
+## POINTER 53 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166960386]
+Sabía que era un sitio peligroso,
+pero hice ir a <CHARA:REID> y <CHARA:KEELE>...porque
+quería un fragmento de estrella.
+
+## POINTER 55 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 56 [t:1;user:memnoch;time:1295655095]
+Fui una egoísta. ¡Por culpa
+de ese egoísmo todos murieron!
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161015037]
+Por eso mi pecado es mucho,
+mucho mayor que el de
+<CHARA:REID> y <CHARA:KEELE>...
+Lo siento tanto...
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 60 [t:1;user:memnoch;time:1294595059]
+¿<CHARA:FARAH>?
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161015037]
+<CHARA:FARAH>.
+Ya basta.
+No pasa nada.
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167960915]
+<CHARA:FARAH>, incluso aunque tus 
+pecados fueran mayores que los 
+nuestros, ¿no los has subsanado ya?
+Ya has sufrido suficiente.
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 66 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161982234]
+Dejamos la tragedia en nuestro pasado.
+Sabemos que fue un error que cometimos
+de pequeños. Pero <CHARA:FARAH>, tus heridas...
+Nunca se curaron...
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 68 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+¡¡Han pasado diez años!!
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 70 [t:1;user:memnoch;time:1294602104]
+Y ahora,
+has expuesto tu sufrimiento...
+¡¡para salvar el mundo!!
+Ya has pagado suficiente.
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 72 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+<CHARA:REID>...
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167961260]
+Siempre disfrutamos con
+tus juegos, <CHARA:FARAH>.
+Es la verdad.
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167961260]
+En los buenos y los malos momentos,
+estuviste ahí, <CHARA:FARAH>. Eras
+nuestra amable mandona...
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 78 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161015037]
+No tenemos tiempo que perder.
+Si no nos damos prisa, será
+el fin del mundo.
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 80 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161982235]
+¡Por supuesto!
+Venga, <CHARA:FARAH>, ¡vámonos!
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 82 [t:1;user:memnoch;time:1294602104]
+¡Vale!

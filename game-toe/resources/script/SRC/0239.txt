@@ -1,0 +1,195 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159824138]
+Barole 2
+
+## POINTER 1 [t:1;r:1;ru:pacochan;user:pacochan;time:1163868105]
+Barole, la Ciudad Comercial
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159824138]
+¡Hace falta velocidad!
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159824138]
+¿Lo pillas, chaval?
+¡Lo más importante para el
+negocio es la velocidad!
+
+## POINTER 7 [t:1;user:memnoch;time:1295208441]
+Si crees que puedes vender algo,
+abastécete de él lo antes posible
+¡Si las ventas van mal, límpiate
+las manos igual de rápido!
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:pacochan;time:1163868105]
+¡Gana mucho DINERO! ¡Oh, sí!
+
+## POINTER 11 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159823961]
+...
+
+## POINTER 13 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983363]
+En el mundo de los negocios,
+hay que tener ojo para las
+tendencias.
+
+## POINTER 15 [t:1;user:memnoch;time:1295208441]
+Si no lo tienes...
+tipos como yo...
+*Snif, snif*
+
+## POINTER 17 [t:1;user:memnoch;time:1295208441]
+¡Era broma!
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:pacochan;time:1163868105]
+¡No me acongojo tan fácilmente!
+¡¡¡Voy a ganar más DINERO!!!
+
+## POINTER 20 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+DebugMessage
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163850722]
+Esto es Barole, la Ciudad Comercial.
+
+## POINTER 23 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983363]
+Mirándote he recordado un
+hombre que fue hace tiempo
+un inigualable espadachín...
+
+## POINTER 24 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 25 [t:1;user:memnoch;time:1295212806]
+¿Quién era?
+
+## POINTER 27 [t:1;user:memnoch;time:1295212831]
+¿Quién?
+Se me ha olvidado.
+
+## POINTER 29 [t:1;user:memnoch;time:1297493314]
+¡T-Tú!
+
+## POINTER 30 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 31 [t:1;user:memnoch;time:1297493314]
+¿Y-Yo? ¿Qué?
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1163868105]
+Er, nada. Perdón. Te he
+confundido con otra persona.
+
+## POINTER 35 [t:1;user:memnoch;time:1295626752]
+Las personas cambian constantemente,
+al igual que los vínculos que tienen
+entre ellas.
+
+## POINTER 37 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1163868105]
+Aun así, también se puede decir que
+la existencia de las personas no
+cambia... Así como las conexiones
+que dichas personas crean.
+
+## POINTER 38 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+DebugMessage
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1163868105]
+Anciano de Barole 2, la Ciudad Comercial.
+
+## POINTER 41 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1173649455]
+¿Escucharás mi interpretación?
+
+## POINTER 43 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159823961]
+<OPTION:0000>Sí
+No
+
+## POINTER 45 [t:1;user:memnoch;time:1286292170]
+¡Entonces págame <VAR:0A00> gald!
+
+## POINTER 47 [t:1;user:memnoch;time:1295208441]
+Es una actuación
+magistral, aunque...
+
+## POINTER 49 [t:1;user:memnoch;time:1286292349]
+¿Qué tal te ha parecido?
+Bastante bien, ¿no?
+¡Se apreciarían mucho <VAR:0A00> gald!
+
+## POINTER 50 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+DebugMessage
+
+## POINTER 51 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159823961]
+Chico de la Armónica
+
+## POINTER 53 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159823961]
+¡Intenta pillarme!
+
+## POINTER 54 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 55 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1163868106]
+Se supone que debemos encontrarnos
+con <CHARA:RAS> frente a la posada.
+
+## POINTER 57 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983363]
+Has encontrado <ITEM:00120004>.
+
+## POINTER 59 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983363]
+Has encontrado <ITEM:00120004>,
+pero no puedes llevar más.
+
+## POINTER 60 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 61 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159823961]
+Guau.
+¡Huele genial!
+
+## POINTER 63 [t:1;user:memnoch;time:1295213032]
+¡Si sigues olisqueando
+así, tendré que cobrarte!
+
+## POINTER 65 [t:1;user:memnoch;time:1295529764]
+¡La <BOLD:0100>Tienda del Deseo<BOLD:0000> está buscando
+empleados a media jornada!
+¡Gran salario y beneficios!
+¡Solo hay una condición!
+
+## POINTER 67 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159823961]
+¡Debes trabajar DURO!
+
+## POINTER 69 [t:1;user:memnoch;time:1295213233]
+¡Precios sin igual!
+<BOLD:0100>Tienda genérica de la Necesidad<BOLD:0000>
+
+## POINTER 71 [t:1;user:memnoch;time:1295213233]
+¡Solo puedes apreciar verdaderamente
+tus gald gastándolos!
+-El distrito comercial de Barole-
+
+## POINTER 73 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159823961]
+<OPTION:0000>Pagar
+No pagar
+
+## POINTER 75 [t:1;r:1;ru:pacochan;user:pacochan;time:1163868106]
+Gracias.
+¡Vuelve a escucharme
+alguna otra vez!
+
+## POINTER 77 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159983363]
+¿Qué es esto?
+¿No se supone que los
+adultos tienen dinero?
+
+## POINTER 79 [t:1;user:memnoch;time:1286292388]
+¡<VAR:0A00> gald, por favor!
+
+## POINTER 80 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 81 [t:1;r:1;ru:pacochan;user:pacochan;time:1163868106]
+Parece que hay problemas.
+Mejor que no nos metamos...
+¡¿<CHARA:FARAH>?!
+
+## POINTER 82 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 83 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159823961]
+Demasiado tarde.

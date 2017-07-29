@@ -1,0 +1,10 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;time:1157722709]
+Torre Izquierda 1P
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166589687]
+¿Presionar el botón?<OPTION:0000>
+Sí
+No
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;time:1157722709]
+El ascensor ha sido activado.

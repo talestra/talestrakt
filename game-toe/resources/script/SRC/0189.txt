@@ -1,0 +1,226 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162225362]
+Hotel Inferia
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 2 [t:1;user:memnoch;time:1295532780]
+Esta es la salida.
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157737518]
+Monte Farlos
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 6 [t:1;user:memnoch;time:1294859590]
+Un cuadro del monte Farlos...
+Es la montaña que escalamos.
+
+## POINTER 8 [t:1;user:memnoch;time:1294855285]
+El <COLOR:0E00>puerto de Inferia<COLOR:0F00> está
+un poco al <COLOR:0E00>norte<COLOR:0F00> de aquí.
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Hay un ferry que va a
+<COLOR:0E00>Barole, la Ciudad Comercial<COLOR:0F00>, y a
+<COLOR:0E00>Mintche, la Ciudad Universitaria<COLOR:0F00>.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162225362]
+Lo siento, pero
+ahora mismo no
+contratamos gente.
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Oh, ¿te alojas aquí? 
+¡Discúlpame!
+
+## POINTER 16 [t:1;user:memnoch;time:1295092487]
+¡Por favor, no destroces nada!
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162225362]
+Tenemos pocos clientes estos días... 
+Supongo que la gente piensa que es 
+indecente estar en un hotel de lujo.
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+¡Disfruta de la estancia!
+
+## POINTER 22 [t:1;user:memnoch;time:1286292256]
+Incluso los plebeyos tienen
+permiso para estar aquí.
+Son <VAR:00114A00> gald, por adelantado. 
+¿Os quedaréis esta noche?
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736033]
+Ya que estaremos aquí de todos modos,
+¡por qué no estar en el castillo!
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736349]
+Me parece bien.
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736349]
+<OPTION:0000>Quedarse 
+Irse
+
+## POINTER 30 [t:1;user:memnoch;time:1295530012]
+Espero que lo entiendas, pero a
+los plebeyos solo se les permite
+estar en el segundo piso.
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Ahora mismo, tenemos habitaciones
+disponibles en el segundo piso o la
+habitación del ala este del tercer piso.
+Puedes escoger habitación.
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Ahora eres libre de
+escoger cualquier
+habitación que te guste.
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736349]
+No tienes suficiente dinero.
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Por favor, vuelve pronto.
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Lo siento muchísimo, pero
+hoy está todo reservado.
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736565]
+Pero la habitación oeste del 
+tercer piso sigue abierta...
+
+## POINTER 43 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 44 [t:1;user:memnoch;time:1295530012]
+¿No es esa habitación?
+
+## POINTER 45 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162225362]
+Muy bien, la cogemos.
+
+## POINTER 47 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+¿Verdad, <CHARA:REID>?
+<OPTION:0000>Sí 
+No
+
+## POINTER 49 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736711]
+¡No me culpes si algo ocurre!
+
+## POINTER 51 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736711]
+¡DE NINGUNA MANERA! ¡Prefiero 
+dormir fuera!
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736711]
+¡Es un día precioso!
+
+## POINTER 56 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+¿Qué tal fue el servicio de
+habitaciones? ¿Os importaría
+dejar algún comentario?
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162225362]
+Dile que empiece
+a usar gafas.
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+¿Qué tal fue el servicio de
+habitaciones? ¿Os importaría
+dejar algún comentario?
+
+## POINTER 61 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162225362]
+Pues la verdad, al
+menos debería saber
+hacer hamburguesas...
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+¡Hace un día precioso!
+
+## POINTER 65 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162225362]
+¿Tienes los ojos rojos?
+
+## POINTER 67 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 68 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157736875]
+Preocúpate de tus propios asuntos...
+
+## POINTER 70 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Los invitados están quejándose
+de un gato visto por el hotel.
+
+## POINTER 72 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157737518]
+¿Has visto al gato?
+
+## POINTER 73 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 74 [t:1;user:memnoch;time:1295530012]
+No...
+¿Quizá solo sea un fantasma?
+
+## POINTER 75 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 76 [t:1;user:memnoch;time:1295530012]
+La criada de ayer fue
+una ardua trabajadora.
+
+## POINTER 77 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 78 [t:1;user:memnoch;time:1295149415]
+Pero ella pareció algo
+preocupada por la ventana.
+
+## POINTER 80 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157737518]
+Las ventanas...
+
+## POINTER 81 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157737518]
+¿Ocurre algo?
+
+## POINTER 84 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Hace mucho tiempo, una criada se precipitó
+hacia su muerte desde la ventana del cuarto
+piso mientras estaba limpiando...
+
+## POINTER 86 [t:1;r:1;ru:pacochan;user:pacochan;time:1162659695]
+Ella debe de seguir preocupada por
+sus inacabadas tareas de limpieza...
+
+## POINTER 88 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157737811]
+Su fantasma aparece
+de vez en cuando...

@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:soywiz;time:1157730702]
+3ª Planta del Hotel
+
+## POINTER 2 [t:1;user:memnoch;time:1295633018]
+¡Ahora mismo no puedes usar las
+habitaciones de la cuarta planta!
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157793666]
+Yo no usaría la habitación de 
+la izquierda si fuera tú...
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157793666]
+Dicen que en mitad de la noche...
+
+## POINTER 8 [t:1;user:memnoch;time:1295633018]
+... ¡aparece un fantasma!
+
+## POINTER 10 [t:1;user:memnoch;time:1295633018]
+Muy...
+Muy...
+terrorífico.
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1162660295]
+¡Ahora mismo no puedes usar la
+habitación del lado oeste del
+tercer piso!
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157793666]
+La habitación oeste de la tercera
+planta es la única abierta...
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157793666]
+¡No se permite a los plebeyos
+pasar de este punto!
+
+## POINTER 18 [t:1;user:memnoch;time:1295091348]
+¡Por favor, sal de aquí!
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157793666]
+Perdonadme. ¿Vais a quedaros
+en...esta habitación?
+
+## POINTER 22 [t:1;user:memnoch;time:1295091348]
+¡Cuidado con el fantasma!
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 24 [t:1;user:memnoch;time:1295091348]
+¡No hace falta que grites! Probablemente
+sea un producto de tu imaginación...

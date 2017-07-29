@@ -1,0 +1,347 @@
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161005583]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1166976020]
+Desfiladero de Efreet 05 (Zona Descanso)
+
+## POINTER 10 [t:1;user:memnoch;time:1294597402]
+Esto es un punto de carga.
+
+## POINTER 12 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 14 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+¡<CHARA:KEELE>! ¿Estás bien?
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;user:memnoch;time:1294686841]
+E-Estoy bien.
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 18 [t:1;user:memnoch;time:1295302297]
+Vamos a descansar.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 20 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+¡De verdad! ¡Estoy bien!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+No quiero terminar
+cargando contigo.
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+Yo también estoy cansada.
+Hemos andado durante horas.
+¡Descansemos!
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 26 [t:1;user:memnoch;time:1294595226]
+¿<CHARA:KEELE>?
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 28 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+¡<CHARA:MEREDY>! ¿Lo sabías?
+¡El Gran Descenso es
+obra de los humanos!
+Lo sabías, ¿verdad?
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 30 [t:1;user:memnoch;time:1294595226]
+Ha sido <COLOR:0D00>Balir<COLOR:0F00>...
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+¿Balir?
+¿Quién es ese?
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;user:memnoch;time:1294595226]
+El <8266><8292><8285><8281><8294><8140><826C><8281><8293><8294><8285><8292><8144>
+de Celestia.
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 36 [t:1;user:memnoch;time:1294595226]
+Es como un rey.
+Y es Balir quien está
+detrás del Gran Descenso.
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+¿Así que los celestianos
+quieren destruir Eternia?
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 40 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+Los celestianos...
+Fueron los celestianos después
+de todo... ¡Ellos fueron los
+causantes del Gran Descenso!
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 42 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+¡No es verdad! ¡Balir lo hizo todo
+él solo! ¡¡Tanto los inferianos como
+los celestianos estamos en peligro!!
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 44 [t:1;user:memnoch;time:1295219361]
+¿Ah, sí? ¿Y por qué no
+habías dicho nada hasta ahora?
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174438495]
+Kuwiikii...
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 48 [t:1;user:memnoch;time:1295300392]
+No me podía explicar bien...
+Estaba asustada...
+¡Lo siento! ¡Por favor!
+¿Confiáis en mí?
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 50 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+Dime...
+¿Tienen todos los celestianos
+piel oscura y piedras de cristal
+en sus cabezas como tú?
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 52 [t:1;user:memnoch;time:1295149884]
+Por supuesto...
+Todos tienen una elara.
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 54 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+¿Incluso Balir?
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 56 [t:1;user:memnoch;time:1295300930]
+No...
+Balir no tiene.
+Su frente es clara
+como la vuestra.
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 58 [t:1;user:memnoch;time:1295149884]
+Dime, ¿recuerdas el 
+nombre del hombre que 
+cruzó a Celestia?
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 60 [t:1;user:memnoch;time:1295573902]
+Mmm... No era...
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 62 [t:1;user:memnoch;time:1295099266]
+¿Balir?
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 64 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+¿Creéis que es una
+simple coincidencia?
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 66 [t:1;user:memnoch;time:1295299802]
+¡¡No puede ser!!
+¿La mente pensante tras
+el Gran Descenso es...
+Balir? ¡¿Un inferiano?!
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 68 [t:1;user:memnoch;time:1295299802]
+No lo sé...
+Pero creo que es demasiado
+pronto para asumir que los
+celestianos son los malos.
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 70 [t:1;user:memnoch;time:1295299802]
+<CHARA:MEREDY>...
+yo creo en ti.
+Confío en ti completamente.
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 72 [t:1;r:2;ru:pacochan,evilluendas;time:1157722707]
+¡Gracias!
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 74 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+Bueno entonces, ¿por qué
+no empezamos la búsqueda
+del Puente de Luz?
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 76 [t:1;r:2;ru:pacochan,evilluendas;time:1157722707]
+<CHARA:REID>...
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 78 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1158927664]
+No, quería decir que nos pegaremos a ti 
+hasta que encontremos el Puente de Luz.
+No me refería a nada serio...
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 80 [t:1;user:memnoch;time:1294859545]
+Monte Farlos...
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 82 [t:1;user:memnoch;time:1294859545]
+El Puente de Luz está
+en el monte Farlos.
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 84 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+¡¿Cómo lo sabes, <CHARA:KEELE>?!
+
+## POINTER 85 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 86 [t:1;user:memnoch;time:1294859939]
+Lo escuché... en el Observatorio Real.
+
+## POINTER 87 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 88 [t:1;r:2;ru:pacochan,evilluendas;time:1157722707]
+¡Buen trabajo!
+
+## POINTER 89 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 90 [t:1;r:2;ru:pacochan,evilluendas;time:1157722707]
+<CHARA:KEELE>... Gracias.
+
+## POINTER 91 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 92 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1158926875]
+Vamos a seguir.
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 94 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160755607]
+No me gusta la intuición y las
+inferencias. Necesito confirmar
+la causa del Gran Descenso con
+mis propios ojos.
+
+## POINTER 95 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 96 [t:1;user:memnoch;time:1294859576]
+¡Vale! Vayamos
+al <COLOR:0E00>monte Farlos<COLOR:0F00>.
+¡¡Ningún problema!!
+
+## POINTER 97 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 98 [t:1;user:memnoch;time:1294859576]
+O-Os quiero a todos... tanto.
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 100 [t:1;r:2;ru:pacochan,evilluendas;time:1157722707]
+<8268><8140><8281><828D><8140><8293><828F><8292><8292><8299>
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174438521]
+¡¡Kuwiikiii, kuwiikiii!!
+
+## POINTER 103 [t:1;user:memnoch;time:1295300311]
+HP de Undine: <VAR:00114C00>
+
+## POINTER 105 [t:1;user:memnoch;time:1294960840]
+Undine se ha quedado sin HP.
+Ahora eres vulnerable al fuego.
+Para restaurar el HP de Undine,
+sal de la caverna.

@@ -1,0 +1,425 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;time:1157722708]
+Guarida de <CHARA:CHAT>
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1158853810]
+120:128
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 4 [t:1;r:1;ru:pacochan;time:1157722708]
+Dice <COLOR:0D00>120:128<COLOR:0F00>.
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907229]
+Usemos el <ITEM:00014B01> para
+encontrar el lugar.
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1158853810]
+204:98
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1158853810]
+Resuelve el significado de los números,
+y el Puente de Expedición aparecerá.
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 12 [t:1;r:1;ru:pacochan;time:1157722708]
+Aifread el Pirata, eh...
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932829]
+Parece tan maduro con barba...
+pero las cosas que hizo eran
+tan...infantiles.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 16 [t:1;r:1;ru:pacochan;time:1157722708]
+¡Esto es terrible!
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932829]
+¿Qué pasa?
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¡Alguien ha cambiado
+el monumento por uno
+falso!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+<8250><8251><824F><8146><8250><8251><8257><8145><8145><8145>
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907229]
+<COLOR:0D00>120:128<COLOR:0F00>.
+¡Es verdad! ¡Los números son
+distintos a los de antes!
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¡Debo recuperar el real!
+¡Es un monumento irremplazable
+dejado por mi bisabuelo!
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Si <COLOR:0D00>120:128<COLOR:0F00> es
+nuestra pista...
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Entonces no parece que sea el
+trabajo de un ladrón ordinario.
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 32 [t:1;user:memnoch;time:1295636424]
+¿Hay alguien que desafíe deliberadamente a
+la descendiente del Gran Pirata, Aifread?
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 34 [t:1;user:memnoch;time:1295640290]
+¡Si usamos el <COLOR:0D00><ITEM:00014B01><COLOR:0F00>,
+podremos ir a esa posición!
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¡Marchémonos
+ahora mismo!
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¿Cuál es el problema?
+¡Vámonos!
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 40 [t:1;user:memnoch;time:1295544087]
+El deterioro de este sitio...
+Algo no cuadra.
+No parece natural.
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 42 [t:1;user:memnoch;time:1295543830]
+Me muero de sed.
+Preguntemos por un poco
+de agua y algo para comer.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¿Alguien vive aquí?
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 46 [t:1;user:memnoch;time:1295546707]
+Preferiría que estuviera desierto
+a encontrar algún malvado demonio
+merodeando por el lugar.
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Pero estaría bien si pudiéramos
+conseguir algo de información.
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¡Y algo de comer!
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;user:memnoch;time:1295546160]
+¿Por qué todos sois
+tan idealistas?
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¡Holaaaa!
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 56 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Tal vez no haya nadie.
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 58 [t:1;user:memnoch;time:1295547643]
+Qué pena.
+Vámonos.
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 60 [t:1;r:1;ru:pacochan;time:1157722708]
+¡Comida!
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 62 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Significa que podemos entrar, ¿verdad?
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932829]
+Yo he creado este mecanismo.
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 66 [t:1;user:memnoch;time:1295546160]
+¡G-Guau!
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;user:memnoch;time:1295546160]
+¡G-Guau!
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 70 [t:1;user:memnoch;time:1295546160]
+¡G-Guau!
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 72 [t:1;user:memnoch;time:1295546160]
+¡G-Guau!
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 74 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Este monumento ha estado
+aquí desde tiempos antiguos.
+Echadle un vistazo.
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 76 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+<CHARA:MEREDY>, ¿podrías...?
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¡Por supuesto!
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 80 [t:1;user:memnoch;time:1295546160]
+<8251><824F><8253><8143><8258><8257>... números.
+<COLOR:0D00>204, 98<COLOR:0F00>. Y luego dice...
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 82 [t:1;user:memnoch;time:1295546160]
+<8276><8288><8285><828E><8140><8294><8288><8285><8140><8292><8289><8284><8284><828C><8285>
+<8289><8293><8140><8293><828F><828C><8296><8285><8284><8143>
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 84 [t:1;user:memnoch;time:1295546160]
+<8294><8288><8285><8140><8282><8292><8289><8284><8287><8285><8140><8294><8288><8281><8294>
+<8283><828F><828E><828E><8285><8283><8294><8293><8140><8297><8289><828C><828C><8140><8282><8285>
+<828D><8281><8284><8285><8140><8296><8289><8293><8289><8282><828C><8285><8144>
+
+## POINTER 85 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 86 [t:1;r:1;ru:pacochan;time:1157722708]
+¿Qué?
+
+## POINTER 87 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 88 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932829]
+Resuelve el acertijo de los números,
+¡¡y el <COLOR:0D00>Puente de Expedición<COLOR:0F00> aparecerá!!
+
+## POINTER 89 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 90 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¡¿<BOLD:0100>Puente<BOLD:0000>?!
+
+## POINTER 91 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 92 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¡¿El Puente de Luz?!
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 94 [t:1;r:1;ru:pacochan;user:soywiz;time:1162434534]
+Cuando hablabais del <BOLD:0100>Puente
+de Luz<BOLD:0000>, el acertijo sin
+resolver de este monumento
+me vino a la cabeza.
+
+## POINTER 95 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 96 [t:1;user:memnoch;time:1295528505]
+Ahora solo hay que pensar qué
+significan esos números, ¿cierto?
+
+## POINTER 97 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 98 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Eso es fácil de averiguar.
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 100 [t:1;r:1;ru:pacochan;user:soywiz;time:1162434534]
+Pero si yo lo llevo intentando resolver
+desde hace más de cinco años...
+
+## POINTER 101 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 102 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Eso es porque careces de
+la sabiduría adecuada.
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 104 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Yo tampoco lo pillo.
+
+## POINTER 105 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 106 [t:1;user:memnoch;time:1295629830]
+Ni yo...
+
+## POINTER 107 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 108 [t:1;r:1;ru:pacochan;user:soywiz;time:1162434534]
+¡<CHARA:MEREDY> tampoco!
+
+## POINTER 110 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962695]
+¡¡Kwiikii!!
+
+## POINTER 111 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 112 [t:1;user:memnoch;time:1294593727]
+¡<CHARA:CHAT>! ¿Hay algún dispositivo
+celestiano que indique la posición
+geográfica en números?
+
+## POINTER 113 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 114 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¿Te refieres al <COLOR:0D00><ITEM:00014B01><COLOR:0F00>, que mide
+tu latitud y longitud actuales?
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 116 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+¿Aifread también usaba esto?
+
+## POINTER 117 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 118 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Es una de las siete herramientas
+indispensables de los piratas.
+
+## POINTER 120 [t:1;user:memnoch;time:1295534003]
+<OPTION:0000>Recibes <COLOR:0D00><ITEM:00014B01><COLOR:0F00>.
+
+## POINTER 121 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 122 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Estas cosas son inútiles a no
+ser que realmente las utilices.
+
+## POINTER 123 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 124 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Muestra dos números. Probablemente
+sean la latitud y la longitud.
+
+## POINTER 125 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 126 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+Apuesto a que encontramos algo si
+vamos al lugar donde los números
+indicados sean <BOLD:0100>204, 98<BOLD:0000>.
+
+## POINTER 127 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 128 [t:1;r:1;ru:pacochan;user:pacochan;time:1158932373]
+He malgastado cinco años...
+
+## POINTER 129 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 130 [t:1;user:memnoch;time:1295630738]
+No te deprimas.
+Puede que no haga mucho, pero
+en lo que se refiere a pensar...

@@ -1,0 +1,126 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1167239786]
+Balneario
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+Tu fuerza ha sido restaurada.
+
+## POINTER 3 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:evilluendas;time:1167479708]
+¡Mira, <CHARA:MEREDY>!
+¡Las <ITEM:00010C01>s
+se están pelando!
+
+## POINTER 5 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+¡Por supuesto!
+¡Pelando!
+
+## POINTER 7 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 8 [t:1;user:memnoch;time:1295089916]
+¡Podemos hacer <BOLD:0100>pieles
+secas<BOLD:0000> a partir de ellas!
+
+## POINTER 10 [t:1;user:memnoch;time:1295089916]
+Has recibido <COLOR:0D00>pieles secas<COLOR:0F00>.
+
+## POINTER 11 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡<CHARA:MEREDY>!
+
+## POINTER 13 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+¡<CHARA:REID>!
+¡El agua sienta bien!
+
+## POINTER 15 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+¡¿Qué estás haciendo?!
+
+## POINTER 17 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+¡No deberías estar ahí!
+
+## POINTER 19 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+¿Por qué no? ¡Esto es
+grande y se está bien!
+
+## POINTER 21 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+¡¿<CHARA:FARAH> también está ahí?!
+
+## POINTER 23 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+¡<CHARA:MEREDY>!
+¿Estás ahí?
+
+## POINTER 25 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+¡<CHARA:FARAH>!
+¡Por aquí!
+
+## POINTER 27 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852426]
+<CHARA:MEREDY><81F0>
+¡¡Vuelve aquí!!
+
+## POINTER 29 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852427]
+Vale...
+
+## POINTER 31 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852427]
+¡<CHARA:MEREDY>!
+Permanece en tu lado, ¡¿vale?!
+
+## POINTER 33 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;user:memnoch;time:1295297958]
+Pero, ¿por qué?
+
+## POINTER 35 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡<CHARA:MEREDY>!
+
+## POINTER 37 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852427]
+<BOLD:0100>¡Simplemente quédate en tu lado!<BOLD:0000>
+
+## POINTER 39 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158852427]
+¡<CHARA:KEELE>!

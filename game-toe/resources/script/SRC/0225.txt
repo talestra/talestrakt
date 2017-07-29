@@ -1,0 +1,235 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:soywiz;time:1159960051]
+Puerto de Inferia 2 Muelle a Barole
+
+## POINTER 2 [t:1;user:memnoch;time:1295150823]
+Barole es la ciudad del comercio.
+Los mercaderes de toda Inferia se
+reúnen allí.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584528]
+No olvides nunca tu espíritu
+aventurero. Las mejores cosas
+pueden ocurrir en lugares
+ocultos o desconocidos.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+DebugMessage
+
+## POINTER 6 [t:1;r:1;ru:pacochan;time:1157722707]
+Capitán
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584528]
+Este barco se dirige a Barole.
+¿Qué tal un viaje?
+
+## POINTER 10 [t:1;user:memnoch;time:1294855593]
+¿Irás a Barole?<OPTION:0000>
+No ir
+Ir en primera clase (<VAR:0001840300114A003130> gald)
+Ir en segunda clase (<VAR:00018403> gald)
+
+## POINTER 12 [t:1;user:memnoch;time:1295149035]
+¡De acuerdo! ¡El barco parte pronto!
+¡Subid a bordo! ¡Deprisa!
+
+## POINTER 14 [t:1;r:1;ru:pacochan;time:1157722707]
+No tienes suficiente dinero.
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 16 [t:1;user:memnoch;time:1295150349]
+No, gracias.
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584528]
+¿Estás seguro?
+Es un lugar bonito...
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584528]
+Si vas al <COLOR:0E00>este<COLOR:0F00>, verás un
+continente desértico.
+
+## POINTER 22 [t:1;user:memnoch;time:1295148599]
+Pero no puedes ir allí
+andando, y no hay ninguna
+ruta imperial que vaya...
+
+## POINTER 23 [t:1;r:1;ru:pacochan;time:1157722707]
+¡Todo el mundo excepto <CHARA:KEELE> ha muerto!
+
+## POINTER 25 [t:1;user:memnoch;time:1294851558]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 26 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:soywiz;time:1159959963]
+Barole...
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:soywiz;time:1159959963]
+Está al <COLOR:0E00>norte<COLOR:0F00> de Inferia.
+Es una ciudad comercial
+muy bulliciosa.
+
+## POINTER 30 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 31 [t:1;user:memnoch;time:1295086982]
+Mmm. ¡Suena como un buen lugar
+para recabar más información
+sobre los craymels supremos!
+
+## POINTER 33 [t:1;user:memnoch;time:1294855281]
+¿Cogeréis este barco
+hacia el <COLOR:0E00>puerto de Barole<COLOR:0F00>?
+Sí
+No
+
+## POINTER 34 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 35 [t:1;user:memnoch;time:1294851558]
+No, gracias.
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584529]
+¿Estás segura?
+Barole es un lugar bonito...
+
+## POINTER 38 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584529]
+¡Sí, por favor!
+¡Queremos ir!
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:soywiz;time:1159959963]
+¡Vamos a partir pronto!
+¡Subid a bordo rápido!
+
+## POINTER 42 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 43 [t:1;r:1;ru:pacochan;time:1157722707]
+¿<CHARA:KEELE>?
+
+## POINTER 44 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 45 [t:1;r:1;ru:pacochan;time:1157722707]
+¿Se te ha olvidado algo?
+
+## POINTER 46 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 47 [t:1;r:1;ru:pacochan;time:1157722707]
+¿Qué ocurre?
+
+## POINTER 48 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 49 [t:1;user:memnoch;time:1295150265]
+N-No puedo ir.
+
+## POINTER 50 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 51 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584529]
+¿Qué?
+¿Qué quieres decir?
+
+## POINTER 52 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 53 [t:1;user:memnoch;time:1295150555]
+El canciller Zosimos me
+ha pedido que le ayudara a
+encontrar el Puente de Luz...
+
+## POINTER 54 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 55 [t:1;user:memnoch;time:1295150555]
+¡¡No puedes decirlo en serio!!
+¿Vas a ayudarles en la guerra?
+¿Todavía confías en ellos después
+de lo que hicieron?
+
+## POINTER 56 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 57 [t:1;r:1;ru:pacochan;user:soywiz;time:1159959963]
+¡Baiba!
+
+## POINTER 58 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 59 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584529]
+Era mi sueño trabajar en el
+Observatorio Real de Astronomía.
+
+## POINTER 60 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 61 [t:1;user:memnoch;time:1295382204]
+Vale...
+Haz lo que quieras, <CHARA:KEELE>.
+
+## POINTER 62 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 63 [t:1;user:memnoch;time:1295382204]
+Adiós...
+
+## POINTER 64 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 65 [t:1;r:1;ru:pacochan;time:1157722707]
+¡¿Qué?!
+
+## POINTER 66 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 67 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584529]
+¿Vamos a dejarle marchar
+así, <CHARA:FARAH>?
+
+## POINTER 68 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 69 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584529]
+¿Qué podemos hacer?
+Es su vida.
+
+## POINTER 70 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 71 [t:1;r:1;ru:pacochan;user:pacochan;time:1163584529]
+¡Vamos! ¡Podemos hacerlo nosotros
+solos! ¡Ningún problema!
+
+## POINTER 73 [t:1;user:memnoch;time:1295151434]
+¡Venga, ya!
+Es hora de marcharse.
+¿Venís u os quedáis?
+
+## POINTER 74 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 75 [t:1;r:1;ru:pacochan;time:1157722707]
+¡Nos vamos!
+
+## POINTER 76 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 77 [t:1;r:1;ru:pacochan;time:1157722707]
+¡En marcha, <CHARA:MEREDY>!
+
+## POINTER 78 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 79 [t:1;r:1;ru:soywiz;time:1157722707]
+Claro que sí...
+
+## POINTER 81 [t:1;user:memnoch;time:1295534219]
+Recibes el equipamiento de <CHARA:KEELE>.

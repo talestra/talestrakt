@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1160230595]
+Armería de Barole
+
+## POINTER 1 [t:1;r:1;ru:pacochan;time:1157722711]
+Armas Pesadas
+
+## POINTER 2 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:pacochan;time:1160230595]
+¿Quieres que te aconseje
+sobre técnicas de lucha?
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:pacochan;time:1166633310]
+<OPTION:0000>Sí
+No
+
+## POINTER 6 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:pacochan;time:1160230595]
+¿Usas la <COLOR:0D00>función
+de atajo<COLOR:0F00>?
+
+## POINTER 8 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 9 [t:1;user:memnoch;time:1295383626]
+En la pantalla de <COLOR:0D00>Habilidades<COLOR:0F00> puedes asignar
+una habilidad especial o una arte craymel
+tuya o de algún aliado a <BUTTON:6A00> y <BUTTON:6B00> para usarla
+durante el combate.
+
+## POINTER 10 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 11 [t:1;user:memnoch;time:1295084033]
+Al usar artes craymel, el botón se
+presiona para iniciar la habilidad,
+y se suelta para lanzarla.
+
+## POINTER 12 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 13 [t:1;user:memnoch;time:1295084033]
+En el caso de las habilidades especiales,
+puedes lanzar un ataque repetidamente
+manteniendo el botón pulsado.
+
+## POINTER 14 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:pacochan;time:1166633310]
+Es tu vida. 
+Eres libre de elegir tu
+propio estilo de lucha.
+
+## POINTER 17 [t:1;user:memnoch;time:1295084033]
+¿Has ido recogiendo los
+tres tipos de prendas de
+protección: armadura,
+escudo y casco?
+
+## POINTER 19 [t:1;user:memnoch;time:1295211056]
+¿Te intereza alguna
+arma o armadura?
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:pacochan;time:1166633310]
+¡Graziaz!
+
+## POINTER 23 [t:1;user:memnoch;time:1295084033]
+¡Volvé' ziempre que queráiz!

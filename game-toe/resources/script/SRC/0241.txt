@@ -1,0 +1,313 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159881772]
+Barole 4
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163875909]
+Ciudad Comercial, Barole
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+Si vais al <COLOR:0E00>oeste<COLOR:0F00> de aquí, hay una
+cueva donde aúlla el viento.
+
+## POINTER 5 [t:1;user:memnoch;time:1295626824]
+El viento es extremadamente
+fuerte. Debéis ser cautelosos.
+
+## POINTER 7 [t:1;user:memnoch;time:1295298701]
+Lejos hacia el <COLOR:0E00>oeste<COLOR:0F00>, cruzando 
+el océano, yace Chambard, la 
+Ciudad de la Arena Abrasadora.
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163875909]
+Es una ciudad árida rodeada por desierto,
+pero su cocina es la mejor del mundo.
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+¡Si voy a morir, quiero que
+sea después de haberme vuelto
+asquerosamente rico!
+
+## POINTER 13 [t:1;user:memnoch;time:1294602985]
+Mmm... ¿También os habéis marchado
+de vuestra ciudad natal?
+
+## POINTER 15 [t:1;user:memnoch;time:1294683036]
+¡Deberíais rendiros!
+No importa adónde huyáis,
+en cuanto Celestia caiga
+¡acabaremos todos chafados!
+
+## POINTER 16 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+DebugMessage
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160148346]
+Esto es Barole, la Ciudad Comercial.
+
+## POINTER 19 [t:1;user:memnoch;time:1295529758]
+Esta es una ciudad donde solo
+los recuerdos permanecen...
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160148346]
+La gente la visita a diario,
+y se vuelve a marchar.
+
+## POINTER 23 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163875909]
+El mercader con el que vais...
+Lo he visto en alguna parte antes.
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+Es algo más que un mercader...
+
+## POINTER 27 [t:1;user:memnoch;time:1294683036]
+Tengo esa intuición.
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+Tengo que contaros una historia.
+Una historia del pasado, incluso
+antes de que todos vosotros
+hubierais nacido.
+
+## POINTER 31 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163875910]
+Hubo una chica que marchó a
+Ciudad de Inferia para casarse
+con un noble, a pesar de que ella
+era la hija de un mercader.
+
+## POINTER 33 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163875910]
+Me pregunto qué tal
+le irá a esa chica...
+
+## POINTER 34 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+DebugMessage
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+Anciana de Barole.
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+No os puedo vender este cuadro,
+es como un hijo para mí. Vertí
+mi alma en él cuando lo pinté.
+
+## POINTER 39 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160148548]
+Tengo hambre...
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+La Barrera Orbus solía ser transparente,
+pero ahora está cambiando a un color
+turbio...
+
+## POINTER 43 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+¿Volveremos a ver el cielo
+azul que vimos en el pasado?
+
+## POINTER 45 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163875910]
+¡Fiu!
+
+## POINTER 47 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+¡Jamás seré capturado!
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+Chef Maravillas
+
+## POINTER 49 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+Chef Maravillas
+
+## POINTER 51 [t:1;user:memnoch;time:1294592502]
+Te enseñaré a hacer un
+rico y suculento <COLOR:0D00>bistec<COLOR:0F00>.
+
+## POINTER 53 [t:1;user:memnoch;time:1294592502]
+Has aprendido a hacer bistec.
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+Chef Maravillas
+
+## POINTER 55 [t:1;user:memnoch;time:1294592502]
+El bistec tiene tres ingredientes:
+carne de oso, zanahorias y patatas.
+
+## POINTER 57 [t:1;user:memnoch;time:1294592502]
+Has recibido los ingredientes
+del bistec.
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+Chef Maravillas
+
+## POINTER 59 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482080]
+¡Que tengas un buen día!
+
+## POINTER 60 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 61 [t:1;user:memnoch;time:1295210087]
+Se supone que nos encontraríamos
+con <CHARA:RAS> enfrente de la posada.
+
+## POINTER 62 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 63 [t:1;user:memnoch;time:1295210087]
+T-Tengo tanta hambre...
+
+## POINTER 65 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149367]
+Has sido completamente restaurado.
+
+## POINTER 67 [t:1;user:memnoch;time:1295301620]
+¡Estoy intentando cocinar
+el estofado más grande de
+Inferia! Por favor, aleja
+las manos.
+
+## POINTER 69 [t:1;user:memnoch;time:1295608404]
+Estoy cocinando el estofado
+en la competición contra
+Celestia. Por favor, no
+acerques tus manazas ahí.
+
+## POINTER 71 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149367]
+Una señal en la fachada.
+
+## POINTER 72 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 73 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+¡Baiba!
+¡Hay un montón de tiendas!
+
+## POINTER 74 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 75 [t:1;user:memnoch;time:1295127046]
+¡Todo es muy bonito!
+
+## POINTER 76 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 77 [t:1;user:memnoch;time:1295127046]
+Ahora no te vayas a deambular.
+
+## POINTER 78 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 79 [t:1;user:memnoch;time:1295149302]
+Ese agradable aroma debe ser...
+
+## POINTER 80 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 81 [t:1;user:memnoch;time:1295127046]
+¡<CHARA:REID>, no deambules TÚ ahora!
+
+## POINTER 82 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 83 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+¡Esta vez no te pienso
+dejar escapar!
+
+## POINTER 85 [t:1;user:memnoch;time:1295219596]
+¡Suéltame!
+¡No te he robado
+nada, vieja!
+
+## POINTER 86 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 87 [t:1;user:memnoch;time:1295219733]
+¡¿V-Vieja?!
+
+## POINTER 89 [t:1;user:memnoch;time:1295219733]
+J-Jovencita.
+Una bella jovencita...
+
+## POINTER 90 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 91 [t:1;user:memnoch;time:1294601919]
+Mmpf. Eso creía.
+
+## POINTER 93 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163875910]
+Señorita,
+¿qué piensas hacer
+conmigo ahora?
+
+## POINTER 94 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 95 [t:1;user:memnoch;time:1295219276]
+Déjame ver... Podría delatarte al dueño de la
+tienda, pero eso no sería divertido... ¿Qué
+tal si te conviertes en un conejillo de indias
+para que pueda probar mis nuevos ataques?
+
+## POINTER 96 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 97 [t:1;user:memnoch;time:1295219578]
+¡Que era broma!
+Y una cosa más.
+
+## POINTER 98 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 99 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160152847]
+De ahora en adelante, prométeme que
+devolverás las cosas que tomes
+prestadas a la gente.
+
+## POINTER 100 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 101 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160151646]
+Cuando puedas ayudar a los demás,
+prométeme que lo devolverás todo.
+
+## POINTER 102 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 103 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482081]
+Venga. Vámonos ya.
+
+## POINTER 104 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 105 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+<CHARA:FARAH>...
+¿Crees que cambiará?
+
+## POINTER 106 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 107 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+¡Eso creo!
+
+## POINTER 109 [t:1;user:memnoch;time:1295150157]
+¡Estoy intentando cocinar el
+estofado más grande de Inferia!
+
+## POINTER 111 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+Aún no está listo.
+
+## POINTER 113 [t:1;user:memnoch;time:1295631084]
+¡Estoy luchando por el récord
+de aguante frente a los hornos!
+
+## POINTER 115 [t:1;user:memnoch;time:1295150157]
+Solo un poco más...
+Un poco más.
+
+## POINTER 117 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160152847]
+He cocido demasiado el estofado
+y todos los ingredientes se han
+ablandado en una sopa informe.
+
+## POINTER 119 [t:1;r:1;ru:pacochan;user:pacochan;time:1165482081]
+¿Qué he puesto
+en este estofado?
+
+## POINTER 121 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160149133]
+Por favor, comed
+todo lo que queráis.

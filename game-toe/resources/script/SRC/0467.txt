@@ -1,0 +1,345 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;time:1157722709]
+Recepción
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480400]
+Es inútil.
+No se abre.
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;time:1157722709]
+Chef Maravillas
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480401]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;time:1157722709]
+Chef Maravillas
+
+## POINTER 6 [t:1;user:memnoch;time:1294592224]
+Te enseñaré a preparar <COLOR:0D00>ramen con miel<COLOR:0F00>,
+¡tan dulce y sabroso que desearás más!
+
+## POINTER 8 [t:1;user:memnoch;time:1294592224]
+Has aprendido a preparar
+ramen con miel.
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;time:1157722709]
+Chef Maravillas
+
+## POINTER 10 [t:1;user:memnoch;time:1294592224]
+El ramen con miel tiene tres ingredientes:
+panyan, col y satay blanco.
+
+## POINTER 12 [t:1;user:memnoch;time:1294592224]
+Has recibido los ingredientes
+del ramen con miel.
+
+## POINTER 13 [t:1;r:1;ru:soywiz;time:1157722709]
+Chef Maravillas
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175024314]
+¡Que tengas un buen día!
+
+## POINTER 16 [t:1;r:1;ru:soywiz;user:soywiz;time:1167941635]
+¿Deseas descansar?<OPTION:0000>
+Sí
+No
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480401]
+Los ojos de la máscara son ranuras
+para monedas. ¿Cuánto quieres meter?
+
+## POINTER 20 [t:1;user:memnoch;time:1295211572]
+<OPTION:0000>200 gald
+500 gald
+1.000 gald
+Nada
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;time:1157722709]
+No tienes suficiente dinero.
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480401]
+Un Gel de Manzana
+ha caído de la
+boca, pero...
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;time:1157722709]
+No puedes llevar más.
+
+## POINTER 28 [t:1;user:memnoch;time:1295211636]
+Un gel de manzana
+ha caído de
+la boca.
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;time:1157722709]
+No tienes suficiente dinero.
+
+## POINTER 32 [t:1;user:memnoch;time:1295211636]
+Dos geles de manzana
+y uno de naranja
+han caído de la
+boca, pero...
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;time:1157722709]
+No puedes llevar más.
+
+## POINTER 36 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480401]
+Dos Geles de Manzana
+y uno de Naranja
+han caído de
+la boca.
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;time:1157722709]
+No tienes suficiente dinero.
+
+## POINTER 40 [t:1;user:memnoch;time:1295211636]
+Dos geles de naranja
+y un pomo de vida
+han caído de la
+boca, pero...
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;time:1157722709]
+No puedes llevar más.
+
+## POINTER 44 [t:1;user:memnoch;time:1295211636]
+Dos geles de naranja
+y un pomo de vida
+han caído de
+la boca.
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;time:1157722709]
+No se mueve...
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480402]
+¡Qué suave!
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 50 [t:1;user:memnoch;time:1297462342]
+¿Qué está pasando?
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;user:memnoch;time:1295547506]
+¡¿Qué os dije?!
+¡Sabía que habría problemas!
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;user:memnoch;time:1295211636]
+Ten... go... sueño.
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158853713]
+Fmhzzz...
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 58 [t:1;user:memnoch;time:1295211636]
+No puedo comer más...
+Argh.
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;time:1157722709]
+¡Problemas! ¡¡Problemas!!
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 62 [t:1;user:memnoch;time:1295211636]
+¡¿Q-Qué?!
+¿Enemigos?
+¿Tenemos que luchar?
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 64 [t:1;user:memnoch;time:1295211636]
+¡No! ¡No luchar!
+Pero... salida...
+¡No está!
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;time:1157722709]
+¡Es una locura!
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 68 [t:1;user:memnoch;time:1295547423]
+Sí que habéis tardado poco.
+Ahora, dejad que os pregunte.
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480402]
+¿Seréis mis nuevos mozos de cubierta?
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480402]
+<OPTION:0000>Sí
+No
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480402]
+Ya veo.
+Creía que seríais
+más prometedores.
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480402]
+Claro. ¡Seremos tus subordinados,
+así que corre y enséñanos tu barco!
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 78 [t:1;user:memnoch;time:1295544029]
+Un momento, por favor.
+No <BOLD:0100>subordinados<BOLD:0000>, sino
+<BOLD:0100>mozos de cubierta<BOLD:0000>.
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 80 [t:1;user:memnoch;time:1294858038]
+¡Y os dirigiréis a mí
+como <BOLD:0100>capitán<BOLD:0000>!
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480402]
+Sí, sí, lo que tú digas.
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 84 [t:1;user:memnoch;time:1294858038]
+¡La respuesta correcta
+es <BOLD:0100>afirmativo, capitán<BOLD:0000>!
+
+## POINTER 85 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 86 [t:1;user:memnoch;time:1294858038]
+¿A-Afirmativo, capitán?
+Eso está un poco pasado
+de moda, ¿no crees?
+
+## POINTER 87 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 88 [t:1;user:memnoch;time:1295543540]
+Es que soy de
+la vieja escuela.
+
+## POINTER 89 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 90 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158853713]
+Grrr...
+
+## POINTER 91 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 92 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160844853]
+Bueno pues. Ya que parecéis
+haber recuperado el aliento,
+dirijámonos al barco.
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 94 [t:1;r:1;ru:evilluendas;time:1157722709]
+Vale.
+
+## POINTER 95 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 96 [t:1;user:memnoch;time:1294858038]
+Q-Quiero decir, ¡afirmativo, capitán!
+
+## POINTER 97 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 98 [t:1;user:memnoch;time:1294858038]
+¡Afirmativo, capitán!
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 100 [t:1;user:memnoch;time:1294858038]
+¡Afirmativo, capitán !
+
+## POINTER 101 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 102 [t:1;user:memnoch;time:1294858038]
+¡Afirmativo, capitán !
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 104 [t:1;r:2;ru:soywiz,evilluendas;user:evilluendas;time:1167480402]
+Ya veo...
+Toda la casa está trucada.
+
+## POINTER 105 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 106 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175024220]
+Lo hice yo sola.
+
+## POINTER 107 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 108 [t:1;r:2;ru:evilluendas,soywiz;time:1157722709]
+¡Increíble!
+
+## POINTER 109 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 110 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175024314]
+Lo hice <BOLD:0100>yo sola<BOLD:0000>.
+
+## POINTER 111 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 112 [t:1;user:memnoch;time:1294858038]
+¡Guau! ¡C-Capitán!
+¡Impresionaaante!
+
+## POINTER 113 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:CHAT>
+
+## POINTER 114 [t:1;user:memnoch;time:1295546756]
+No es para tanto.
+Bien, por aquí, por favor.
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 116 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167480402]
+Si pongo este
+jarrón ahí...

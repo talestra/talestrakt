@@ -1,0 +1,520 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:carlos;time:1157735374]
+Ciudad de Inferia Central Arriba
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168977635]
+Viniendo de una buena familia,
+y con lazos cercanos con al Rey,
+¡Roen puede ser muy influyente!
+
+## POINTER 4 [t:1;user:memnoch;time:1295151255]
+Sin lord Luine aquí,
+¿sobre qué más se puede chismorrear?
+
+## POINTER 6 [t:1;user:memnoch;time:1295151255]
+¡No me puedo creer que
+el Rey haya hecho que
+lord Luine vaya a Celestia!
+
+## POINTER 8 [t:1;user:memnoch;time:1295151077]
+¿A lo mejor era parte de
+la conspiración de lord Roen?
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:carlos;time:1157734786]
+Naah.
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Mujer de mediana edad
+
+## POINTER 14 [t:1;user:memnoch;time:1295151077]
+¡Lord Luine es guapo
+y popular, pero su
+madre era una plebeya!
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:carlos;time:1157735374]
+Mejor que vuelva
+al trabajo.
+
+## POINTER 18 [t:1;user:memnoch;time:1295151077]
+Parece que incluso lord Roen 
+ha dejado de avanzar con la
+princesa Arende.
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+Es algo de sentido común.
+
+## POINTER 22 [t:1;user:memnoch;time:1294857538]
+La princesa Arende tiene el corazón roto.
+Ella no querría que la molestaran.
+
+## POINTER 24 [t:1;user:memnoch;time:1295151077]
+Me pregunto si la princesa
+Arende será capaz de olvidar a
+lord Luine y seguir con su vida.
+
+## POINTER 26 [t:1;user:memnoch;time:1295655163]
+Yo también...
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 28 [t:1;user:memnoch;time:1295655177]
+Mujer oficinista
+
+## POINTER 30 [t:1;user:memnoch;time:1294858255]
+Veamos...
+La princesa Arende es la Princesa Real,
+lord Roen es el capitán de la Guardia,
+y Luine es... el Caballero Mayor.
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1162755004]
+¡Ayy!
+¡Estoy confusa!
+
+## POINTER 34 [t:1;user:memnoch;time:1294857538]
+¡Desde luego la princesa Arende
+no va a casarse en toda su vida!
+
+## POINTER 36 [t:1;user:memnoch;time:1294858255]
+De todos modos, eso es lo que creo.
+
+## POINTER 38 [t:1;user:memnoch;time:1294857721]
+Es imposible que lord
+Roen venza a lord Luine.
+
+## POINTER 40 [t:1;user:memnoch;time:1294857538]
+Lord Luine estará siempre en
+el corazón de la princesa Arende.
+
+## POINTER 42 [t:1;user:memnoch;time:1294857538]
+O al menos, eso es lo que creo...
+Pero debería guardarme mis opiniones
+para mí misma...
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 44 [t:1;r:1;ru:pacochan;time:1157722709]
+Esposa joven
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+¡Cuando crezca, yo también
+me uniré a la Guardia Real
+y serviré al Rey!
+
+## POINTER 48 [t:1;user:memnoch;time:1295529924]
+¡Y pensar que el Rey está solo
+al otro lado de esta puerta!
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+¿Sois buena gente?
+
+## POINTER 52 [t:1;user:memnoch;time:1294857538]
+O... ¿sois mala gente?
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+¡Te deseo suerte!
+
+## POINTER 56 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+¿Sois buena gente?
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 58 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+Eso lo tienes que decidir tú.
+No encontrarás la respuesta
+preguntando a la gente.
+
+## POINTER 60 [t:1;r:1;ru:pacochan;time:1157722709]
+¿Por qué?
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:1;ru:soywiz;user:soywiz;time:1163120454]
+Porque incluso la gente buena
+tiene sus cosas malas, y la
+gente mala tiene sus cosas buenas.
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 64 [t:1;r:1;ru:pacochan;time:1157722709]
+¿Lo entiendes?
+
+## POINTER 66 [t:1;user:memnoch;time:1295632089]
+Mm... Sí.
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 68 [t:1;r:1;ru:pacochan;time:1157722709]
+¡Bien!
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 70 [t:1;r:1;ru:pacochan;time:1157722709]
+Chico
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+Este es el Observatorio Real de
+Astronomía. ¡Dicen que los mejores
+científicos de todo el mundo vienen
+aquí a investigar!
+
+## POINTER 74 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+Fiu... ¡Sí que es un
+edificio espléndido!
+
+## POINTER 76 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+Apuesto a que los científicos del
+Observatorio Real están teniendo
+todo tipo de ideas brillantes.
+
+## POINTER 78 [t:1;user:memnoch;time:1295489130]
+Oye, ¿no podríamos construir algo así
+como un poste gigante para evitar que
+Celestia se nos caiga encima?
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 80 [t:1;r:1;ru:pacochan;user:carlos;time:1157735374]
+Hombre de pueblo
+
+## POINTER 82 [t:1;r:1;ru:pacochan;user:pacochan;time:1162755004]
+¡Bienvenido!
+¡Vendo todo tipo de comida!
+
+## POINTER 84 [t:1;r:1;ru:pacochan;user:pacochan;time:1162755004]
+Vuelve pronto.
+
+## POINTER 86 [t:1;user:memnoch;time:1295489157]
+Eh, ¿te has enterado?
+
+## POINTER 88 [t:1;user:memnoch;time:1294857721]
+Parece que lord Roen ha intentado
+cortejar a la princesa Arende sin
+ningún tipo de reparo...
+
+## POINTER 90 [t:1;user:memnoch;time:1294857538]
+¿Cortejar?
+
+## POINTER 92 [t:1;r:1;ru:pacochan;user:carlos;time:1157735852]
+¿Qué pasa? ¿Tengo que deletrearlo?
+
+## POINTER 94 [t:1;user:memnoch;time:1294857573]
+Una proposición matrimonial.
+PRO... PO... SI... CIÓN.
+
+## POINTER 96 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+Guau. ¿Eso significa que el
+triángulo amoroso es oficial?
+
+## POINTER 98 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381597]
+¡Sí, así es!
+
+## POINTER 100 [t:1;user:memnoch;time:1294857721]
+Y todos sabemos que la
+princesa Arende siempre ha
+estado colada por lord Luine...
+
+## POINTER 102 [t:1;user:memnoch;time:1294857721]
+¿Estás sugiriendo que lord Roen
+va a intentar algo con la Princesa
+mientras lord Luine no está?
+
+## POINTER 104 [t:1;r:1;ru:pacochan;user:carlos;time:1157735852]
+Creo que vamos a ver
+derramamiento de sangre.
+
+## POINTER 106 [t:1;user:memnoch;time:1295569167]
+Oooh...
+
+## POINTER 107 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 108 [t:1;r:1;ru:pacochan;user:carlos;time:1157735852]
+Como el Rey no nos va a ayudar,
+supongo que no tenemos más
+remedio que hacerlo solos.
+
+## POINTER 109 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 110 [t:1;r:1;ru:soywiz;user:carlos;time:1157736343]
+¡¿Estás de coña?!
+
+## POINTER 111 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 112 [t:1;user:memnoch;time:1295088528]
+Vamos a recoger craymels Supremos.
+¡Luego nos vamos a Celestia!
+
+## POINTER 113 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 114 [t:1;user:memnoch;time:1295088528]
+Vale. Sabemos que el Puente de Luz
+es el camino a Celestia. ¡Ahora lo
+único que tenemos que hacer es
+encontrar los craymels supremos!
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 116 [t:1;r:1;ru:pacochan;user:carlos;time:1157736343]
+¡<CHARA:KEELE>, llegas tarde!
+¡Nos vamos ya!
+
+## POINTER 117 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 118 [t:1;user:memnoch;time:1295382208]
+Eh... vale...
+
+## POINTER 119 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 120 [t:1;user:memnoch;time:1295534747]
+¿Por qué no vamos al <COLOR:0E00>puerto de
+Inferia<COLOR:0F00> y usamos la tarjeta de
+embarque?
+
+## POINTER 121 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 122 [t:1;user:memnoch;time:1294855297]
+Así son los guardias...
+Son todo músculo y nada de cerebro.
+Y pensar que nuestro ilustrísimo Rey
+está protegido por esos cretinos...
+
+## POINTER 123 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 124 [t:1;r:1;ru:pacochan;user:carlos;time:1157736343]
+¿Ilustrísimo?
+¿Eso significa grande?
+
+## POINTER 125 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 126 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+Sí.
+¡Después de todo, él es el Rey!
+
+## POINTER 127 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 128 [t:1;r:1;ru:pacochan;user:carlos;time:1157736343]
+¿Por qué es grande?
+
+## POINTER 129 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 130 [t:1;user:memnoch;time:1294593937]
+Supongo que una celestiana
+no lo entendería.
+
+## POINTER 131 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 132 [t:1;r:1;ru:pacochan;user:carlos;time:1157736343]
+¡¿Qué?!
+
+## POINTER 133 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 134 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+El Rey es una presencia sagrada y
+noble. ¡Es esencialmente diferente
+a la gente como nosotros!
+
+## POINTER 135 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 136 [t:1;user:memnoch;time:1295098056]
+<CHARA:MEREDY>,
+¿Celestia no
+tiene un Rey?
+
+## POINTER 137 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 138 [t:1;r:1;ru:pacochan;user:carlos;time:1157736343]
+¡No! Somos todos iguales.
+¡No hay gente especial!
+
+## POINTER 139 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 140 [t:1;r:1;ru:pacochan;user:carlos;time:1157736988]
+Ya veo...
+
+## POINTER 141 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 142 [t:1;user:memnoch;time:1295099072]
+Quizá la razón por la que Celestia
+sea tan bárbara es porque nunca
+ha conocido el mandato de un Rey.
+
+## POINTER 143 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 144 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168830961]
+¡Los celestianos no son bárbaros!
+
+## POINTER 145 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 146 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+Venga, parad esta pelea sin sentido.
+Deberíamos estar pensando qué hacer ahora.
+
+## POINTER 147 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 148 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+Vayamos al <COLOR:0E00>Observatorio
+Real de Astronomía<COLOR:0F00>.
+
+## POINTER 149 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 150 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+¿Te refieres al edificio alto de ahí?
+
+## POINTER 151 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 152 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168977271]
+Exacto.
+Cobija al telescopio
+más preciso del mundo.
+
+## POINTER 153 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 154 [t:1;user:memnoch;time:1295099727]
+Deberían dejarnos usarlo; entonces
+podríamos determinar objetivamente
+si el Gran Descenso es verdad o no.
+
+## POINTER 155 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 156 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168977420]
+¿Cómo sabemos que no
+nos echarán otra vez?
+
+## POINTER 157 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 158 [t:1;r:1;ru:pacochan;user:carlos;time:1157736988]
+Grandes científicos de todo el
+mundo se reúnen en el Observatorio.
+No son guardias musculosos.
+
+## POINTER 159 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 160 [t:1;r:1;ru:pacochan;user:carlos;time:1157737256]
+Entonces no deberíamos tener
+ningún problema para entrar.
+¡Vamos!
+
+## POINTER 161 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 162 [t:1;user:memnoch;time:1295091438]
+¡Argh! Es desalentador pensar que un
+idiota como él pueda ser un investigador
+en una de las mejores instituciones...
+
+## POINTER 163 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 164 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+<CHARA:KEELE>, antes de echar la culpa a otros,
+deberías admitir tus propios errores.
+¡Aún no has acertado con ninguna de
+tus predicciones!
+
+## POINTER 165 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 166 [t:1;user:memnoch;time:1295489184]
+¡Eh, vigila lo que dices!
+¡<CHARA:KEELE> está haciendo todo lo
+que puede para ayudar a <CHARA:MEREDY>
+y salvar el mundo!
+
+## POINTER 167 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 168 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+¿Verdad?
+
+## POINTER 169 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 170 [t:1;user:memnoch;time:1295094096]
+Er... Cierto.
+
+## POINTER 171 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 172 [t:1;r:1;ru:pacochan;user:carlos;time:1157737256]
+¿Qué podemos hacer?
+¿Hay alguna otra manera de
+que el Rey nos reciba?
+
+## POINTER 173 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 174 [t:1;user:memnoch;time:1295086853]
+La hay.
+El <COLOR:0E00>santuario de Seyfert<COLOR:0F00>.
+
+## POINTER 175 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 176 [t:1;r:1;ru:pacochan;user:carlos;time:1157737256]
+¿Así que debemos rezar para 
+que Seyfert nos ayude?
+
+## POINTER 177 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 178 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+La iglesia guarda el Anillo de
+Seyfert como símbolo de su fe.
+Deben de haber notado la inusual
+apariencia del Anillo de Seyfert.
+
+## POINTER 179 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 180 [t:1;r:1;ru:pacochan;user:carlos;time:1157737256]
+Todo irá bien esta vez.
+
+## POINTER 181 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 182 [t:1;r:1;ru:pacochan;user:pacochan;time:1162381598]
+¡Vale, ningún problema!
+¡Hagámoslo!
+
+## POINTER 183 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 184 [t:1;user:memnoch;time:1295086853]
+Dirijámonos hacía el santuario de Seyfert,
+al extremo <COLOR:0E00>este<COLOR:0F00> de la ciudad.

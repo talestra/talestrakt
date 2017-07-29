@@ -1,0 +1,467 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157795344]
+Habitación de Hotel
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157795344]
+¿Te quedarás en esta habitación?
+<OPTION:0000>Sí
+No
+
+## POINTER 4 [t:1;user:memnoch;time:1295092125]
+¡Muy buenas! Debéis estar
+cansados por vuestro viaje.
+¡Qué descanséis bien!
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:carlos;time:1157811219]
+Bien, buenas noc...
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡Oh, vaya! ¡Un gran trozo de basura!
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163962482]
+¡¡Kwikii!!
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡¡Quickie no
+es basura!!
+
+## POINTER 14 [t:1;user:memnoch;time:1295091190]
+¡Oh, lo siento muchísimo!
+Es que no veo nada bien...
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+Ahora nos gustaría ir a
+dormir, si no te importa.
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157795344]
+¡Oh, por supuesto!
+¡Sí, por supuesto!
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157795344]
+¡Perdón por todo
+el ruido!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+Probablemente ella
+cree que ha sido...
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 24 [t:1;user:memnoch;time:1295091221]
+Silenciosa...
+En cualquier caso, vamos
+a dormir un poco.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡Oh, perdón!
+¡Le he dado una
+patada al cubo!
+
+## POINTER 28 [t:1;user:memnoch;time:1297460011]
+¡¡Es que veo 
+taaaan mal!!
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡No pasa nada!
+¡Ahora, vamos a dormir!
+
+## POINTER 32 [t:1;user:memnoch;time:1295096911]
+Bienvenidos. <81A5>
+¡Vuestra habitación está
+como los chorros del oro!
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:hexplus;time:1157732701]
+Gracias.
+
+## POINTER 36 [t:1;user:memnoch;time:1295096911]
+Oh, eres muy guapo. <81A5>
+Y qué bonito collar llevas. <81A5> <81A5>
+
+## POINTER 38 [t:1;user:memnoch;time:1295096911]
+Me encantan los
+jóvenes delicados
+e inteligentes... <81A5>
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡Tío, estoy cansado!
+
+## POINTER 42 [t:1;user:memnoch;time:1295096911]
+¿Te gusta
+la tarta?
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 44 [t:1;user:memnoch;time:1295628304]
+Mm... Sí...
+
+## POINTER 46 [t:1;user:memnoch;time:1295096911]
+¡Je, je! Eso está muy bien. <81A5>
+¡Te haré una la próxima vez!
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:soywiz;time:1157962143]
+¡Pero la próxima vez, ven tú solo!
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 50 [t:1;user:memnoch;time:1294683847]
+Me gustan más las hamburguesas
+que las tartas.
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168830880]
+Bien por ti.
+
+## POINTER 54 [t:1;user:memnoch;time:1295094506]
+Haré un guiso de crema, también.
+Y le pondré todo mi amor. <81A5>
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 56 [t:1;user:memnoch;time:1294683847]
+Mmmm, estoy realmente cansada
+y me gustaría dormir un poco...
+
+## POINTER 58 [t:1;user:memnoch;time:1295091526]
+¡Estoy atónita! ¿Son
+estas chicas de tu tipo?
+
+## POINTER 60 [t:1;user:memnoch;time:1295096911]
+Estarías mucho mejor
+con una mujer más mayor...
+como yo. <81A5>
+
+## POINTER 62 [t:1;user:memnoch;time:1295094519]
+Buenas noches...
+mi príncipe. <81A5>
+
+## POINTER 63 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 64 [t:1;r:2;ru:pacochan,evilluendas;user:soywiz;time:1157891166]
+¡Acabo de recordar!
+Una historia que escuché
+una vez...
+
+## POINTER 65 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 66 [t:1;user:memnoch;time:1295638344]
+Dicen que las voces se escuchan
+a través de las paredes del hotel,
+a medianoche... Y todas susurran:
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;user:memnoch;time:1295638344]
+"Dadme vuestras piernas...
+¡Dadme vuestras piernas!".
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 70 [t:1;user:memnoch;time:1295489066]
+¡Oye!
+¡¿De qué hotel
+estás hablando?!
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892415]
+Mmm...
+No lo sé...
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 74 [t:1;user:memnoch;time:1297460039]
+Dicen que cuando oyes las voces,
+¡te has de cubrir las piernas o
+si no se las llevarán!
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 76 [t:1;user:memnoch;time:1297460039]
+De todas formas... ¡buenas noches!
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡¿Por qué has tenido que
+contarme esa historia ahora?!
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 80 [t:1;user:memnoch;time:1295574209]
+<BOLD:0100>¡Aaaaah!<BOLD:0000>
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 82 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¿Qué ocurre, <CHARA:KEELE>?
+¡¿Has visto un fantasma?!
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 84 [t:1;user:memnoch;time:1295088390]
+¡Qué descubrimiento!
+¡Esto revolucionará
+la teoría craymel!
+
+## POINTER 85 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 86 [t:1;user:memnoch;time:1295637687]
+¡No murmulles
+mientras duermas!
+
+## POINTER 88 [t:1;user:memnoch;time:1295088390]
+¡Piernas!
+¡Vuestras piernas!
+
+## POINTER 90 [t:1;user:memnoch;time:1295088390]
+¡Dadme vuestras piernas!
+
+## POINTER 91 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 92 [t:1;user:memnoch;time:1295088390]
+¡¡Es el fan-fantasma!!
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 94 [t:1;user:memnoch;time:1295489117]
+¡Eh!
+Despertad, ¡todos!
+¡¡UN FANTASMA!!
+
+## POINTER 96 [t:1;user:memnoch;time:1295088390]
+¡Dadme vuestras piernas!
+
+## POINTER 97 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 98 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892415]
+¡¡Seyfert!!
+¡¡Protégenos!!
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 100 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892415]
+¡¡No te lleves mis piernas!!
+
+## POINTER 102 [t:1;user:memnoch;time:1295088390]
+¡Dadme vuestras piernas!
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 104 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+¡¡Es un FANTASMA!!
+
+## POINTER 105 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 106 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+¡¡Despertad!!
+
+## POINTER 107 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 108 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+¡¡Despertad!!
+
+## POINTER 109 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 110 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+¡¡Es un FANTASMA!!
+
+## POINTER 111 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 112 [t:1;user:memnoch;time:1295088390]
+¿Un fantasma? ¡Es solo un gato!
+
+## POINTER 114 [t:1;user:memnoch;time:1295088390]
+¡Dadme vuestras piernas!
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 116 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+¡Ha hablado!
+
+## POINTER 117 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 118 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+¡¿Un gato poseído?!
+
+## POINTER 120 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+¡¡Por favor!!
+¡¡Dejadla sola!!
+
+## POINTER 121 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 122 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡Ya veo!
+
+## POINTER 123 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 124 [t:1;r:1;ru:soywiz;user:soywiz;time:1167969253]
+Has sido tú quien ha difundido el
+rumor para mantener a los visitantes
+alejados de esta habitación...
+
+## POINTER 126 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+Lo siento mucho.
+
+## POINTER 128 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+No tenemos permiso para tener
+animales en el hotel, pero de
+verdad quería enseñarle algunos
+trucos...
+
+## POINTER 129 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 130 [t:1;r:1;ru:pacochan;user:soywiz;time:1157892772]
+¿Trucos?
+
+## POINTER 132 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+Sí ¡Mi sueño es viajar y
+entretener gente de todo
+el mundo con su talento!
+
+## POINTER 134 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡No hay ningún gato que
+pueda imitar la voz de
+los humanos así de bien!
+
+## POINTER 136 [t:1;user:memnoch;time:1295088390]
+¡Dadme
+vuestras piernas!
+
+## POINTER 138 [t:1;user:memnoch;time:1295088390]
+¡Dadme vuestras piernas!
+
+## POINTER 139 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 140 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡Qué buena es, me pone
+la carne de gallina!
+
+## POINTER 141 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 142 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡Vaya, las vistas desde la 4ª planta
+son realmente impresionantes!
+
+## POINTER 144 [t:1;user:memnoch;time:1295301637]
+¡Por favor, manteneos
+alejados de la ventana!
+
+## POINTER 146 [t:1;user:memnoch;time:1295088390]
+¡Ku, ku-kwiiik!
+
+## POINTER 147 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 148 [t:1;r:1;ru:pacochan;user:soywiz;time:1157893046]
+¿Qué pasa, Quickie?
+
+## POINTER 150 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167216628]
+El último huésped se fue a
+última hora, así que todavía
+no he acabado de limpiar.
+
+## POINTER 152 [t:1;r:1;ru:pacochan;user:soywiz;time:1157893046]
+Lo siento muchísimo. ¡Lo
+tendré limpio en un instante!
+
+## POINTER 153 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 154 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+Vaya, esto sí que
+es un buen servicio.
+
+## POINTER 155 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 156 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡Al fin!
+¡Una criada de verdad!
+
+## POINTER 157 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 158 [t:1;r:1;ru:pacochan;user:soywiz;time:1157893046]
+¿Qué estás haciendo?
+
+## POINTER 160 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+Me aseguro de que
+las ventanas estén
+bien cerradas.
+
+## POINTER 161 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 162 [t:1;r:1;ru:pacochan;user:soywiz;time:1157893046]
+No te preocupes.
+Ya la podemos
+cerrar nosotros.
+
+## POINTER 164 [t:1;r:1;ru:pacochan;user:soywiz;time:1157893046]
+¡Nunca se es demasiado cauteloso!
+
+## POINTER 166 [t:1;r:1;ru:soywiz;user:soywiz;time:1157962465]
+¡Vaya! ¡Así es como debe ser!
+
+## POINTER 168 [t:1;r:1;ru:pacochan;user:pacochan;time:1162918995]
+¡Que durmáis plácidamente!
+
+## POINTER 170 [t:1;r:1;ru:pacochan;user:soywiz;time:1157893046]
+<OPTION:0000>1: global1  +1
+2: global1 -1
+3: global2  1
+4: global2 -1
+
+## POINTER 171 [t:1;r:1;ru:pacochan;time:1157722707]
+g1: v(global1) g2:v(global2)

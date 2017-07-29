@@ -1,0 +1,152 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+Santuario de Farlos 1
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+Series Cuento de Hadas:
+La Historia de Seyfert
+
+## POINTER 4 [t:1;user:memnoch;time:1294851343]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+¿Deseas descansar?
+<OPTION:0000>Sí
+No
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+<CHARA:MEREDY>...
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 10 [t:1;user:memnoch;time:1294602821]
+¿Mmm?
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+Celestia...
+¿Qué clase de sitio es?
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162397891]
+Es mucho más oscura que Inferia.
+No sopla el viento, pero muy,
+muy fría.
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 16 [t:1;user:memnoch;time:1295384483]
+¡¡Y muchas, muchas,
+muchas máquinas!!
+
+## POINTER 17 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+¿Máquinas?
+¿Estás diciendo que la tecnología
+es más avanzada que en Inferia?
+¡Eso es imposible!
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+¡Es verdad!
+
+## POINTER 21 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 22 [t:1;user:memnoch;time:1295382672]
+Bueno, no pasa nada. En cuanto
+lleguemos a Celestia descubriremos
+todo cuanto necesitemos saber
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 24 [t:1;user:memnoch;time:1295150739]
+¿De verdad estáis planeando
+ir a Celestia?
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 26 [t:1;user:memnoch;time:1295382567]
+¿Tú no vienes, <CHARA:REID>?
+
+## POINTER 27 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 28 [t:1;user:memnoch;time:1295382638]
+¿No has escuchado a Zosimos?
+¡Ese tal Balir cruzó el
+Puente de Luz y nunca
+regresó!
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;user:memnoch;time:1295383285]
+Pero <CHARA:MEREDY> vino a Inferia.
+¿No crees que nosotros podríamos también?
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 32 [t:1;user:memnoch;time:1297465963]
+Pero aunque logremos llegar
+a Celestia... ¡Es un mundo
+totalmente desconocido!
+¡No sabemos QUÉ nos podría pasar!
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 34 [t:1;user:memnoch;time:1295381608]
+Exactamente por
+eso quiero ir.
+
+## POINTER 35 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+¡Arrghh!
+Chicos, ¿nunca habéis escuchado eso
+de <BOLD:0100>más vale prevenir que curar<BOLD:0000>?
+
+## POINTER 37 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162397891]
+<CHARA:REID>, vayamos todos juntos.
+Te necesitamos.
+
+## POINTER 39 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+¡BUENAS NOCHES!
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 42 [t:1;user:memnoch;time:1295381667]
+Descansemos primero.
+El cansancio y la
+escalada no suelen
+casar demasiado bien.
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160229934]
+¿Deseas descansar?
+<OPTION:0000>Sí
+No

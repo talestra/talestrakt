@@ -1,0 +1,16 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166591071]
+Castillo de <CHARA:SHIZEL>, Ascensor (Nivel Centro-Izquierda)
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166591071]
+<OPTION:0000>Subir
+Bajar
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;time:1157722711]
+¡¡El cofre del tesoro era falso!!
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166591071]
+Has encontrado <ITEM:0700>.
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166591071]
+Has encontrado <ITEM:0700>,
+pero no puedes llevar más.

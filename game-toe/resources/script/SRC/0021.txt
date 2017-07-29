@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Antigua habitación de <CHARA:KEELE>
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160673189]
+¿Descansar?
+<OPTION:0000>Sí
+No
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160673189]
+No será...
+¿La corona que me hizo <CHARA:FARAH>
+cuando éramos pequeños?
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160673189]
+<CHARA:FARAH>... 
+hizo esto para mí.
+
+## POINTER 8 [t:1;user:memnoch;time:1295530299]
+Es obvio que solo está
+hecho para niños.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 10 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161435580]
+No puedo esperar a probarme
+un uniforme de estudiante.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+El cuerpo de <CHARA:KEELE> de niño...
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Parece tan débil...
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:soywiz;time:1162647071]
+¡<CHARA:KEELE>! Despierta.
+Es hora de comer.
+
+## POINTER 18 [t:1;user:memnoch;time:1295625686]
+Este cuerpo... no es mío.
+¡¡Es <CHARA:KEELE> de pequeño!!

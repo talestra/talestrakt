@@ -1,0 +1,142 @@
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161436609]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161436609]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727855]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727855]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Cueva de Nostos 15
+
+## POINTER 10 [t:1;user:memnoch;time:1294597465]
+Esto es un punto de carga.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161436609]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Ahora la marea está baja.
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Ahora la marea está alta.
+
+## POINTER 17 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡Aaah!
+
+## POINTER 19 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 20 [t:1;user:memnoch;time:1294596605]
+¡¡Un oso ovíparo!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+<8267><8285><828C><8290><8149>
+
+## POINTER 23 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 24 [t:1;user:memnoch;time:1294596605]
+¡Dejádmelo!
+¡Un oso ovíparo
+debe ser tarea fácil!
+
+## POINTER 25 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 26 [t:1;user:memnoch;time:1294596605]
+Arff... Ja, ja.
+Una... lucha fácil.
+
+## POINTER 27 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 28 [t:1;user:memnoch;time:1294596605]
+Entonces, ¿por qué
+pareces tan cansado?
+
+## POINTER 29 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¿Por qué no acampamos aquí?
+
+## POINTER 31 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 32 [t:1;user:memnoch;time:1294596557]
+Sí...
+¡Me rugen las tripas!
+
+## POINTER 34 [t:1;user:memnoch;time:1295574605]
+Oso ovíparo
+"Vivir... ¡Viviré!".
+
+## POINTER 35 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡Aaaah!
+
+## POINTER 37 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 38 [t:1;user:memnoch;time:1294596647]
+¡¡Un oso ovíparo!!
+
+## POINTER 39 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+<8267><8285><828C><8290><8149>
+
+## POINTER 41 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 42 [t:1;user:memnoch;time:1295532917]
+¡Dejadme este a mí!
+
+## POINTER 44 [t:1;user:memnoch;time:1295574605]
+Oso ovíparo
+"Yo... yo...
+quiero vi... vir".
+
+## POINTER 45 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¿Por qué no acampamos aquí?
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 48 [t:1;user:memnoch;time:1294596557]
+Sí...
+¡Me rugen las tripas!
+
+## POINTER 49 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 50 [t:1;user:memnoch;time:1295527631]
+¡Eh!
+¡Hay algo en
+las ascuas!
+
+## POINTER 52 [t:1;user:memnoch;time:1294596661]
+Has encontrado <COLOR:0D00>bichos de leña<COLOR:0F00>.

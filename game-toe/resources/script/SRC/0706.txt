@@ -1,0 +1,52 @@
+## POINTER 0 [t:1;r:2;ru:soywiz,pacochan;user:soywiz;time:1167950010]
+Tumba de Aifread E Casa Encant. 04
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157737078]
+Puedes cambiar la dirección sin moverte
+pulsando <BUTTON:0200> y Derecha o Izquierda.
+
+## POINTER 4 [t:1;user:memnoch;time:1286289836]
+El dinero hace girar el mundo.
+¿Restablecerte por <VAR:00120004> gald?<OPTION:0000>
+Sí
+No
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157737078]
+Has sido restablecido.
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1158400178]
+Ahora, sigue tu camino.
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157737078]
+Vuelve en cualquier momento.
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1158400178]
+No sirvo para gente pobre.
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157737078]
+El dinero hace girar el mundo
+incluso en el infierno...
+
+## POINTER 16 [t:1;user:memnoch;time:1286290026]
+<OPTION:0000><ITEM:0012080400000F30> <VAR:0012180400000F30> gald
+<ITEM:0012080401000F30> <VAR:0012180401000F30> gald
+<ITEM:0012080402000F30> <VAR:0012180402000F30> gald
+<ITEM:0012080403000F30> <VAR:0012180403000F30> gald
+
+## POINTER 18 [t:1;user:memnoch;time:1286289836]
+<OPTION:0000>Actualmente tienes <VAR:0000003000406B20> gald.
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1158400178]
+Ya tienes muchos.
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157737078]
+No tienes suficiente dinero.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:soywiz;time:1157800903]
+Encantado de hacer negocios.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157737078]
+Vuelve de nuevo.
+
+## POINTER 28 [t:1;user:memnoch;time:1295210063]
+Caldera hirviente del Infierno, enfrente.

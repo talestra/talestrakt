@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Pasillo
+
+## POINTER 2 [t:1;user:memnoch;time:1294682943]
+¿Adónde quieres ir?<OPTION:0000>
+Vestíbulo
+Suite
+Tejado
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1167814509]
+No puedes permanecer
+en la suite de noche.
+
+## POINTER 6 [t:1;user:memnoch;time:1295151329]
+Solo personal autorizado
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1167814509]
+<8273><8288><8285><8140><8260><8287><8285><8140><828F><8286>
+<8266><8292><8285><8281><8294><8140><8275><828F><8299><8281><8287><8285><8293>
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:0001672B>
+
+## POINTER 10 [t:1;user:memnoch;time:1294682943]
+La Era de los... Viajes
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡Buenas noches!
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164425775]
+Sí.

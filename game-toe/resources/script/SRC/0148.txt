@@ -1,0 +1,365 @@
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626470]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626471]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157739210]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157739210]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157739210]
+Morle 3
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157739210]
+toe:<VAR:00114800>
+
+## POINTER 10 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:pacochan;time:1162311742]
+¡Dime! ¿Has venido de
+verdad desde Celestia?
+
+## POINTER 12 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161626472]
+Claro que sí.
+
+## POINTER 14 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Déjame ver alguna prueba.
+
+## POINTER 16 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160247019]
+<8276><8288><8281><8294><8148>
+¿Qué es una prruehbah?
+
+## POINTER 18 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 19 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160247019]
+¿Entonces, es verdad que
+el mundo está en peligro?
+
+## POINTER 20 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626472]
+¿Qué clase de tecnología
+posee Celestia?
+
+## POINTER 22 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 23 [t:1;user:memnoch;time:1294686986]
+¿Qué es exactamente esa piedra que
+tienes en la frente? ¡¿Todos los
+habitantes de Celestia la tienen?!
+
+## POINTER 24 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 25 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¡Venga, habla!
+
+## POINTER 26 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 27 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626472]
+¡<CHARA:KEELE>, bruuuto!
+
+## POINTER 28 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 29 [t:1;user:memnoch;time:1294686986]
+!¿Qui-quién es el bruto?!
+
+## POINTER 30 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 31 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Venga, calmaos.
+
+## POINTER 32 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1162311742]
+Dime, <CHARA:MEREDY>.
+¿Nos puedes contar la razón por
+la que has venido a Inferia?
+
+## POINTER 34 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 35 [t:1;r:1;ru:evilluendas;time:1157722709]
+¡Claro que sí!
+
+## POINTER 36 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 37 [t:1;user:memnoch;time:1295573938]
+Mmmm... <CHARA:MEREDY>... quiere
+detener el <COLOR:0D00>Gran Descenso<COLOR:0F00>.
+Necesitar ayuda...
+
+## POINTER 38 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 39 [t:1;user:memnoch;time:1294681588]
+¿El Gran Descenso?
+Eso no aparece ni siquiera
+en la Enciclopedia Leonoa.
+
+## POINTER 40 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 41 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626472]
+El Gran Descenso es cuando
+Inferia y Celestia se 
+acercan... y entonces...
+
+## POINTER 42 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 43 [t:1;user:memnoch;time:1294682155]
+¡BOOOM!
+
+## POINTER 44 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 45 [t:1;user:memnoch;time:1295092235]
+¡¿Inferia y Celestia,
+colisionando?!
+
+## POINTER 46 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 47 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161626472]
+<8273><8288><8281><8294><8140><8289><8293><8140><8292><8289><8287><8288><8294><8149>
+¡Claro que sí!
+Van a colisionar.
+La colisión es muy mala.
+
+## POINTER 48 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 49 [t:1;user:memnoch;time:1294681588]
+N-No puede ser cierto...
+
+## POINTER 50 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 51 [t:1;user:memnoch;time:1294681588]
+¡¿E-Ellos y nosotros, chocando?!
+¿En serio?
+¿Qué va a ocurrir?
+¡¿Vamos a ser aplastados?!
+
+## POINTER 52 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 53 [t:1;user:memnoch;time:1295088737]
+¿Por qué se ha perdido el equilibrio?
+¿Es esto un efecto secundario del
+aumento de la presión de los craymels
+causada por la distorsión de Grouble?
+
+## POINTER 54 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 55 [t:1;r:1;ru:pacochan;user:pacochan;time:1162311742]
+¿O es que la presión local de
+la Zona Craymel ha causado un
+Efecto Dockart en la Barrera
+Orbus?
+
+## POINTER 56 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 57 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626472]
+<CHARA:MEREDY>,
+¿estás aquí porque
+sabes cómo detener 
+el Gran Descenso?
+
+## POINTER 58 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 59 [t:1;user:memnoch;time:1295088737]
+¡Claro que sí!
+Encontrar los craymels supremos
+de Inferia. Si lo hacemos, la
+colisión se detendrá.
+
+## POINTER 60 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 61 [t:1;user:memnoch;time:1295088737]
+¿Pactar con los craymels supremos?
+¡No tiene sentido! ¡Es imposible!
+
+## POINTER 62 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 63 [t:1;user:memnoch;time:1295088737]
+Los craymels y las personas viven en mundos
+diferentes. Y eso es todavía más cierto
+con los craymels supremos. Verlos ya es
+suficientemente difícil. ¿Un pacto? ¡Anda ya!
+
+## POINTER 64 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 65 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626472]
+<8267><828F><8297><8285><8296><8285><8292><8143>
+<8297><8285><8140><8288><8281><8296><8285><8140><8294><8288><8289><8293><8144>
+¡Ningún problema!
+
+## POINTER 66 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 67 [t:1;user:memnoch;time:1295088737]
+¡Jaula craymel celestiana!
+Los craymels supremos pueden entrar.
+
+## POINTER 68 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 69 [t:1;user:memnoch;time:1295088737]
+¿Estás diciendo que los craymels
+Supremos pueden ser capturados
+en una jaula craymel de Celestia?
+
+## POINTER 70 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 71 [t:1;user:memnoch;time:1295088737]
+¡No, no!
+Las jaulas craymel de Celestia
+funcionan igual que las jaulas 
+craymel de Inferia.
+
+## POINTER 72 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 73 [t:1;user:memnoch;time:1295088737]
+Pero el <COLOR:0D00>Parasol<COLOR:0F00> es diferente. ¡Con esto,
+los craymels supremos pueden entrar en
+una jaula craymel!
+
+## POINTER 74 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 75 [t:1;user:memnoch;time:1295088737]
+Entonces, al usar esto, ¿incluso
+mi jaula craymel funcionaría?
+
+## POINTER 76 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 77 [t:1;user:memnoch;time:1295088737]
+¡Claro que sí! Los craymels 
+supremos pueden entrar.
+
+## POINTER 78 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 79 [t:1;r:1;ru:pacochan;user:pacochan;time:1162311743]
+En otras palabras...
+¡Podemos salvar el mundo!
+
+## POINTER 80 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 81 [t:1;r:1;ru:evilluendas;time:1157722709]
+¡Claro que sí!
+
+## POINTER 82 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 83 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626473]
+¡Quizás nos convirtamos en héroes!
+¡Sí, ningún problema!
+
+## POINTER 84 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168717494]
+<CHARA:KEELE>, ¿puedes hacerlas 
+volver a la realidad?
+
+## POINTER 86 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 87 [t:1;user:memnoch;time:1295088737]
+Preguntemos al profesor Mazet el
+paradero de los craymels supremos.
+
+## POINTER 88 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 89 [t:1;user:memnoch;time:1295527617]
+No podéis decirlo en serio...
+¿Buscar los craymels supremos?
+
+## POINTER 90 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 91 [t:1;user:memnoch;time:1294689169]
+Si los encontramos, la verdad
+sobre el Gran Descenso quizá
+salga a la luz.
+
+## POINTER 92 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 93 [t:1;user:memnoch;time:1295088737]
+Después de todo, los craymels
+supremos no mienten.
+
+## POINTER 94 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 95 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626473]
+¡<CHARA:KEELE>!
+Ayuda a <CHARA:MEREDY>. ¿Ayudarás?
+¡¿Por favor, por favor?!
+
+## POINTER 96 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 97 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161626473]
+¡Que te quede claro que esto
+no significa que me crea todo
+lo que nos has contado!
+
+## POINTER 98 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 99 [t:1;user:memnoch;time:1294681671]
+¡Yo solo hago esto
+para descubrir la verdad!
+
+## POINTER 100 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 101 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¡¿Cómo puedes ser tan tozudo?!
+
+## POINTER 102 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 103 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¡Venga, vamos!

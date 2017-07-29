@@ -1,0 +1,132 @@
+## POINTER 1 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+Mina de Gnome
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+Tienes una pala.
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+Tienes dinamita.
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+Tienes la llave.
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+¿Cogerás algo?<OPTION:0000>
+Pala
+Dinamita
+Llave
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+Ya llevabas eso contigo.
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+Coges la pala.
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+Coges la dinamita.
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+Coges la llave.
+
+## POINTER 22 [t:1;r:1;ru:pacochan;time:1157722710]
+Error
+
+## POINTER 23 [t:1;r:1;ru:pacochan;time:1157722710]
+Error
+
+## POINTER 24 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:pacochan;time:1158762315]
+¿Este pequeño palo es una llave?
+
+## POINTER 26 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:evilluendas;time:1166465036]
+¡Por supuesto! En Celestia,
+la gente los usa un montón.
+
+## POINTER 28 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 29 [t:1;user:memnoch;time:1295384008]
+Solo es una simple varilla.
+
+## POINTER 30 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207494]
+También permite encender máquinas.
+
+## POINTER 32 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1158762315]
+¿Encender máquinas?
+Parece cómodo.
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:pacochan;time:1167990128]
+<826E><826D><8140><8272><8273><8271><8268><826A><8264>
+<8273><8267><8268><8272><8140><8260><8271><8264><8260>
+<8268><8272>
+<8263><8260><826D><8266><8264><8271><826E><8274><8272>
+
+## POINTER 36 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:pacochan;time:1167990128]
+Algo acerca de una huelga...
+
+## POINTER 38 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1167990128]
+Es el anuncio
+de una huelga...
+
+## POINTER 40 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 41 [t:1;user:memnoch;time:1294855781]
+¿Porque la mina es...
+peligrosa?
+
+## POINTER 42 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 43 [t:1;r:1;ru:pacochan;user:pacochan;time:1158762315]
+Aquí hay diversas herramientas.
+Tal vez debería coger una...
+Pueden resultar útiles.
+
+## POINTER 45 [t:1;user:memnoch;time:1295528489]
+Solo puedes coger
+un objeto a la vez.
+
+## POINTER 47 [t:1;user:memnoch;time:1295541916]
+Tu fuerza y salud han sido restablecidas.
+
+## POINTER 48 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 49 [t:1;r:1;ru:pacochan;user:soywiz;time:1158207523]
+Este lugar parece seguro.
+Podemos descansar aquí cuando
+estemos cansados.

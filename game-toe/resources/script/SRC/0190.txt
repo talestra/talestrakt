@@ -1,0 +1,70 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:airis;time:1157734996]
+2º Piso del Vestíbulo
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1162660051]
+¡Esto es maravilloso! ¡Siempre
+he soñado con estar en el Hotel
+Inferia!
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1162660051]
+Ah, libertad de los
+problemas diarios!
+¡Esto es vida!
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:airis;time:1157734996]
+Chef Maravillas
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:airis;time:1157734996]
+¡Yo soy el misterioso
+Chef Maravillas!
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:airis;time:1157734996]
+Chef Maravillas
+
+## POINTER 8 [t:1;user:memnoch;time:1295094560]
+Te enseñaré cómo preparar un
+suavemente hervido <COLOR:0D00>guiso de crema<COLOR:0F00>.
+
+## POINTER 10 [t:1;user:memnoch;time:1295533330]
+Has aprendido cómo preparar un guiso de crema.
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:airis;time:1157735211]
+Chef Maravillas
+
+## POINTER 12 [t:1;user:memnoch;time:1295094560]
+El guiso de crema tiene cinco ingredientes:
+carne de oso, zanahorias, cebollas,
+leche y patatas.
+
+## POINTER 14 [t:1;user:memnoch;time:1295094560]
+Has recibido ingredientes del guiso de crema.
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:airis;time:1157735211]
+Chef Maravillas
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:airis;time:1157735211]
+¡Que tengas un buen día!
+
+## POINTER 17 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1162660051]
+La habitación del ala oeste del
+tercer piso es la única abierta...
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1162660051]
+La habitación del ala oeste del
+tercer piso es la única abierta...
+
+## POINTER 22 [t:1;user:memnoch;time:1295534535]
+Encuentras <ITEM:0B00>.
+
+## POINTER 24 [t:1;user:memnoch;time:1295534535]
+Encuentras <ITEM:0B00>,
+pero no puedes llevar más.
+
+## POINTER 26 [t:1;user:memnoch;time:1294856071]
+El castillo de Inferia y la Barrera Orbus

@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:korsso;time:1160161487]
+Caverna de Sylph i
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:korsso;time:1160161487]
+No puedes pasar por aquí.
+El viento es demasiado fuerte.
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 4 [t:1;user:memnoch;time:1286296132]
+Entonces, ¿qué se supone
+que tenemos que hacer?
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:korsso;time:1160161487]
+Retroceder.
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:RAS>
+
+## POINTER 8 [t:1;user:memnoch;time:1295208514]
+Si nos agarramos a la cuerda
+mientras cruzamos, todo irá bien.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1166974411]
+Es un objeto bastante útil.
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:korsso;time:1160161487]
+No se puede ascender sin viento.
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:korsso;time:1160161532]
+¡¡Una ráfaga de viento inesperada!!
+
+## POINTER 14 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:0001672B>
+
+## POINTER 15 [t:1;user:memnoch;time:1286296132]
+Arrrggg, arrgg...
+¡¡Qué fuerte!!
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:korsso;time:1160161487]
+El viento ha sido bloqueado.

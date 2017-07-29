@@ -1,0 +1,84 @@
+## POINTER 1 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162313039]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161725978]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157734243]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157734243]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161725978]
+Bosque de la Tentación (Central)
+
+## POINTER 10 [t:1;user:memnoch;time:1294597445]
+Esto es un punto de carga.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161725978]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161725978]
+El aire aquí
+es tan puro.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Parece un área de descanso.
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 18 [t:1;user:memnoch;time:1295099620]
+V-Vamos a descansar aquí.
+Este lugar parece ser seguro.
+
+## POINTER 20 [t:1;user:memnoch;time:1295097860]
+Kwikiii, kukuku.
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+El aire, parece inseguro...
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 24 [t:1;r:1;ru:soywiz;user:soywiz;time:1167967622]
+Este bosque es donde se reúnen
+todas las almas perdidas.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161725978]
+Si no tienes cuidado, los 
+espíritus, ansiosos por un
+cuerpo, podrían robarte la vida.
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 28 [t:1;user:memnoch;time:1295098150]
+N-No nos asustes así.
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161725978]
+¡Ningún problema!
+Monstruo, pirata, lo que sea...
+¡¡Los venceré!!

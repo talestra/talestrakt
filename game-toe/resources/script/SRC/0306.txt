@@ -1,0 +1,74 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161512500]
+Desfiladero de Efreet 09
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1166977062]
+Qué raro. Esta puerta no se abre.
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160189832]
+Hay algo grabado en ella...
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;user:memnoch;time:1295573322]
+"Muestra el poder de la luz,
+y la puerta se abrirá".
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 8 [t:1;user:memnoch;time:1295300226]
+¿El poder de la luz?...
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160189832]
+Tiene que haber una manera
+de abrir estas puertas...
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 12 [t:1;user:memnoch;time:1295298885]
+<CHARA:KEELE>, ¿por qué no probamos
+con el <COLOR:0D00><ITEM:00013F01><COLOR:0F00>
+que acabamos de recibir?
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160189832]
+De acuerdo.
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160189832]
+Supongo que merece
+la pena probar.
+
+## POINTER 17 [t:1;user:memnoch;time:1295300304]
+HP de Undine: <VAR:00114C00>
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:pacochan;time:1166977062]
+Undine se ha quedado sin HP. 
+Ahora eres vulnerable al fuego. 
+Para restaurar el HP de Undine,
+sal de la caverna.
+
+## POINTER 21 [t:1;user:memnoch;time:1295573322]
+"Muestra el poder de la luz,
+y la puerta se abrirá".
+
+## POINTER 22 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 23 [t:1;user:memnoch;time:1295296377]
+¿El poder de la luz?

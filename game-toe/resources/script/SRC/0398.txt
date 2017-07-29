@@ -1,0 +1,666 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164223]
+Laboratorio del Sótano
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 2 [t:1;user:memnoch;time:1295535034]
+Galenos debe haber usado este
+dispositivo para comunicarse
+con <CHARA:MEREDY> en Imen.
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 4 [t:1;user:memnoch;time:1294686790]
+No está bien...
+Nadie en Imen responde.
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1167665610]
+No se conecta más...
+
+## POINTER 7 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 8 [t:1;user:memnoch;time:1294855213]
+Primero id al <COLOR:0E00>oeste<COLOR:0F00>
+al <COLOR:0E00>puerto de Peruti<COLOR:0F00>
+y encontrad la localización
+del castillo de Balir.
+
+## POINTER 9 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 10 [t:1;user:memnoch;time:1294855813]
+Para ir a Peruti, coged el Craymel
+Express hacia el <COLOR:0E00>sur<COLOR:0F00> hacia la 
+mina abandonada.
+Peruti está al otro lado de la mina.
+
+## POINTER 11 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:soywiz;time:1160160785]
+Sed cautelosos en
+vuestro viaje.
+
+## POINTER 13 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 14 [t:1;user:memnoch;time:1294855813]
+¿Llegasteis a la mina abandonada?
+
+## POINTER 15 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 16 [t:1;user:memnoch;time:1294855213]
+Cruzad la mina abandonada.
+Veréis Peruti al otro lado
+de la mina.
+
+## POINTER 17 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 18 [t:1;user:memnoch;time:1294855213]
+¿El barco pirata... Van Eltia?
+
+## POINTER 19 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190750]
+Eso es lo más intrigante.
+Desde luego, me gustaría
+verlo alguna vez.
+
+## POINTER 21 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 22 [t:1;user:memnoch;time:1294855213]
+Id un poco más hacia el
+<COLOR:0E00>oeste<COLOR:0F00> y llegaréis al
+<COLOR:0E00>puerto de Peruti<COLOR:0F00>.
+
+## POINTER 23 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+Monte Celsius...
+
+## POINTER 25 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 26 [t:1;user:memnoch;time:1294855213]
+Si hay un problema con 
+los craymels de hielo, tenemos
+que solucionarlo antes de
+entrar en batalla con Balir.
+
+## POINTER 27 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 28 [t:1;user:memnoch;time:1294855213]
+Debéis informar a la gente de
+Peruti que los craymels de hielo
+han vuelto a su estado normal.
+
+## POINTER 29 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1167665610]
+¿Dices que ocurre
+algo en Imen?
+
+## POINTER 31 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 32 [t:1;user:memnoch;time:1294602713]
+Mmmm.
+Es bastante posible...
+
+## POINTER 33 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 34 [t:1;user:memnoch;time:1295149719]
+Mi elara también me ha
+estado avisando de algún
+tipo de perturbación.
+
+## POINTER 35 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+Debéis regresar a
+Imen inmediatamente.
+
+## POINTER 37 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 38 [t:1;user:memnoch;time:1294855213]
+¡Qué!
+¡¿Imen destruida?!
+
+## POINTER 39 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 40 [t:1;user:memnoch;time:1294855213]
+¡Balir, maldito monstruo!
+¿Cuánta sangre necesitas
+para saciar tu sed?
+
+## POINTER 41 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:soywiz;time:1160160785]
+Os sugiero que vayáis
+a conocer a la gente
+de Shileska.
+
+## POINTER 43 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:soywiz;time:1160160785]
+Tinnsia está en el
+continente del <COLOR:0E00>este<COLOR:0F00>.
+
+## POINTER 45 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 46 [t:1;user:memnoch;time:1295568341]
+Ya veo...
+Habéis descubierto
+el paradero de Balir.
+
+## POINTER 47 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+Parece que finalmente
+ha llegado el momento.
+
+## POINTER 49 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 50 [t:1;user:memnoch;time:1294855213]
+<OPTION:00010001>De nuevo...
+os pido ayuda.
+
+## POINTER 51 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+Debéis vencer a Balir.
+
+## POINTER 53 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 54 [t:1;user:memnoch;time:1294855213]
+Yo continuaré con mi
+investigación craymel aquí.
+
+## POINTER 55 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 56 [t:1;user:memnoch;time:1294855213]
+Aaah, <CHARA:REID>.
+Has venido.
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 58 [t:1;user:memnoch;time:1294855213]
+Solo me vas a
+examinar, ¿verdad?
+
+## POINTER 59 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:soywiz;time:1160834360]
+Por supuesto.
+Por favor, quítate la ropa
+y túmbate en la cama.
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 62 [t:1;user:memnoch;time:1295574378]
+Bueno, mmmm... Será mejor
+que volvamos a la habitación.
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+Vale.
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 66 [t:1;user:memnoch;time:1295301518]
+Galenos, por favor,
+cuida de <CHARA:REID>.
+
+## POINTER 67 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 68 [t:1;r:1;ru:pacochan;time:1157722708]
+Por supuesto.
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 70 [t:1;r:1;ru:pacochan;time:1157722708]
+¡¡Galenos!!
+
+## POINTER 71 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:pacochan;time:1167665610]
+<826E><8288><8149><8140><8268><8140><8297><8281><8293><8140><828A><8295><8293><8294>
+<8283><8281><828C><828C><8289><828E><8287><8140><8299><828F><8295><8144>
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 74 [t:1;r:1;ru:pacochan;time:1157722708]
+<8276><8285><828C><828C><8143><8140><8297><8285><8140><8288><8281><8296><8285><8140><8283><828F><828D><8285><8149>
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 76 [t:1;user:memnoch;time:1295576385]
+¿Qu-qué pasa?
+¿Qué has dicho?
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175011173]
+<826E><8288><8143><8140><8268><8140><8281><828D><8140><8293><828F><8292><8292><8299><8149>
+Lo siento.
+<CHARA:MEREDY> está no es tálgica...
+¡Oh! ¡No! ¡No! ¡Nostálgica!
+
+## POINTER 79 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175011173]
+Yo soy Galenos.
+He oído casi todo de
+cuanto ha ocurrido.
+
+## POINTER 81 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 82 [t:1;user:memnoch;time:1294858649]
+Parece que habéis recogido a
+los craymels supremos de Inferia...
+Os lo agradezco honestamente.
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 84 [t:1;user:memnoch;time:1295488252]
+¿Qu-qué ocurre?
+
+## POINTER 85 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 86 [t:1;user:memnoch;time:1294602713]
+Mmmm... ¡Quia!
+
+## POINTER 87 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 88 [t:1;user:memnoch;time:1295488252]
+¡¡Au!! ¡Eso duele!
+
+## POINTER 89 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 90 [t:1;user:memnoch;time:1294602713]
+Tú debes ser <CHARA:REID>.
+Mmmm... Sí, es cierto.
+
+## POINTER 91 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 92 [t:1;user:memnoch;time:1295488252]
+<8267><8285><8140><828C><828F><828F><828B><8293><8140><8296><8285><8292><8299>
+<8290><828F><8297><8285><8292><8286><8295><828C><8143><8140><8284><828F><8285><8293><8140><8288><8285><8140><828E><828F><8294><8148>
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 94 [t:1;user:memnoch;time:1295535676]
+Por favor, ilumínenos.
+Queremos saber la verdad.
+
+## POINTER 95 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 96 [t:1;user:memnoch;time:1295531654]
+¿Quién es ese Balir?
+¿Qué es el Gran Descenso?
+¿Qué es el poder del arte aurora?
+
+## POINTER 97 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 98 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+Lo explicaré lo
+mejor que pueda.
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 100 [t:1;user:memnoch;time:1294602713]
+¿Eh?
+¿Dónde estoy?
+
+## POINTER 101 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 102 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+Ah, te has despertado.
+Gracias por cooperar.
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 104 [t:1;user:memnoch;time:1294602713]
+Oh... es verdad.
+El examen...
+¿Qué has aprendido?
+
+## POINTER 105 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 106 [t:1;user:memnoch;time:1295488252]
+Mmm... Lo siento.
+Como pensaba, la verdad reside en el Orbus.
+No puedo obtener una conclusión
+en una sola noche de estudio.
+
+## POINTER 107 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 108 [t:1;user:memnoch;time:1294859270]
+Pero... es cierto que
+dentro de tu cuerpo duerme
+un fibril increíblemente 
+poderoso.
+
+## POINTER 109 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 110 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+¿Sí?
+
+## POINTER 111 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 112 [t:1;user:memnoch;time:1294859270]
+El fibril está todavía latente.
+Se ha de cumplir alguna condición
+antes de que despierte.
+
+## POINTER 113 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 114 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+¿Qué clase de condición?
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 116 [t:1;r:1;ru:pacochan;user:pacochan;time:1167665610]
+¡Eso es exactamente lo que está
+investigando Galenos! ¿Por qué
+no piensas antes de preguntar?
+
+## POINTER 117 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 118 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190750]
+He obtenido muestras de tu sangre.
+Eso debería ayudar en nuestra búsqueda.
+
+## POINTER 119 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 120 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+Ya veo...
+Así que <CHARA:RAS> no llegó a tiempo.
+
+## POINTER 121 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 122 [t:1;user:memnoch;time:1294602732]
+Gracias, Galenos.
+¿Por qué nos salvó <CHARA:RAS>?
+¿Cómo lo conociste?
+
+## POINTER 123 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 124 [t:1;r:1;ru:pacochan;user:soywiz;time:1160297707]
+Todo es por la guía de la llave.
+
+## POINTER 125 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 126 [t:1;r:1;ru:pacochan;user:pacochan;time:1167665610]
+¿La guía de esta... <ITEM:00014A01>?
+
+## POINTER 127 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 128 [t:1;user:memnoch;time:1295092524]
+Mantiene el deseo del Dios
+de la Creación, Seyfert.
+Seguir esta llave es seguir
+su voluntad.
+
+## POINTER 129 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 130 [t:1;user:memnoch;time:1295575902]
+¿Estaba <CHARA:RAS>...
+guiado por Seyfert
+para visitarte?
+
+## POINTER 131 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 132 [t:1;user:memnoch;time:1295575965]
+Sí, y para aprender el arte aurora tenía
+que superar las <COLOR:0D00>Pruebas de Seyfert<COLOR:0F00>.
+
+## POINTER 133 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 134 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164855]
+¿Las <COLOR:0D00>Pruebas de Seyfert<COLOR:0F00>?
+
+## POINTER 135 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 136 [t:1;user:memnoch;time:1295575977]
+Hay dos formas de artes aurora.
+
+## POINTER 137 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 138 [t:1;user:memnoch;time:1295085422]
+Está la <COLOR:0D00>Aurora Oscura<COLOR:0F00> de Nereid,
+y está la <COLOR:0D00>Aurora Divina<COLOR:0F00> de Seyfert.
+
+## POINTER 139 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 140 [t:1;user:memnoch;time:1295085171]
+La Aurora Divina...
+El arte aurora de Seyfert...
+¡¿Así que si la poseemos,
+podremos derrotar a <CHARA:SHIZEL>?!
+
+## POINTER 141 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 142 [t:1;user:memnoch;time:1294859270]
+Quizá...
+Pero no se puede poseer al
+menos que uno posea el fibril.
+
+## POINTER 143 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 144 [t:1;user:memnoch;time:1294859270]
+¿Fibril?
+¡Gran poder!
+
+## POINTER 145 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 146 [t:1;r:1;ru:pacochan;user:soywiz;time:1160297707]
+Sí.
+Eso es lo que la luz nos muestra...
+
+## POINTER 147 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 148 [t:1;r:1;ru:pacochan;user:pacochan;time:1167665610]
+<CHARA:REID> y <CHARA:RAS> comparten
+la misma esencia...
+
+## POINTER 149 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 150 [t:1;user:memnoch;time:1295085384]
+Entonces, ¿por qué?
+¿Por qué <CHARA:RAS> perdió contra <CHARA:SHIZEL>?
+¿No se sometió a las Pruebas de Seyfert
+para adquirir el arte Aurora Divina?
+
+## POINTER 151 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 152 [t:1;user:memnoch;time:1295085171]
+<CHARA:RAS>...
+no había completado las pruebas.
+
+## POINTER 153 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 154 [t:1;user:memnoch;time:1295576021]
+¿Por qué vino
+a salvarnos?
+
+## POINTER 155 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 156 [t:1;user:memnoch;time:1295576039]
+Esa fue una decisión que
+tomó por propia voluntad.
+
+## POINTER 157 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 158 [t:1;user:memnoch;time:1295576058]
+¿Dónde está, Galenos?
+¿Dónde puedo someterme
+a las Pruebas de Seyfert?
+
+## POINTER 159 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 160 [t:1;r:1;ru:pacochan;time:1157722708]
+¡<CHARA:REID>!
+
+## POINTER 161 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 162 [t:1;user:memnoch;time:1295085171]
+¿Lo... harías
+por nosotros?
+
+## POINTER 163 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 164 [t:1;r:1;ru:pacochan;time:1157722708]
+<CHARA:REID>...
+
+## POINTER 165 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 166 [t:1;user:memnoch;time:1294859270]
+Soy el único con
+fibril, ¿verdad?
+
+## POINTER 167 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 168 [t:1;user:memnoch;time:1295577497]
+En efecto.
+Las pruebas están en el <COLOR:0E00>sepulcro de Seyfert<COLOR:0F00>.
+La <ITEM:00014A01> te mostrará
+el camino.
+
+## POINTER 169 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 170 [t:1;user:memnoch;time:1295576169]
+Entendido.
+Será mejor partamos ya.
+No tenemos tiempo que perder.
+
+## POINTER 171 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 172 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190750]
+Por supuesto.
+¡Vamos!
+
+## POINTER 173 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 174 [t:1;r:1;ru:pacochan;user:pacochan;time:1160756270]
+¡Ningún problema!
+
+## POINTER 175 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 176 [t:1;user:memnoch;time:1295576385]
+¿Qué hará usted, Galenos?
+
+## POINTER 177 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 178 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190750]
+Está un poco apartado de vuestro
+camino, pero ¿podríais llevarme
+al Escondite de Shileska?
+
+## POINTER 179 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 180 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160190750]
+¿Vas a reunirte con Shileska?
+
+## POINTER 181 [t:1;r:1;ru:pacochan;time:1157722708]
+Galenos
+
+## POINTER 182 [t:1;user:memnoch;time:1295576413]
+Me gustaría unir fuerzas con
+ellos para encontrar el modo
+de vencer a <CHARA:SHIZEL>.
+
+## POINTER 183 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 184 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160164894]
+Comprendo.
+Vamos a visitar <COLOR:0E00>Tinnsia<COLOR:0F00> primero.

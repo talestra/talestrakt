@@ -1,0 +1,63 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160193]
+Entrada al Monte Farlos
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160193]
+Monte Farlos
+
+## POINTER 3 [t:1;user:memnoch;time:1294597375]
+Esto es un punto de carga.
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160193]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 6 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160111274]
+Incluso tan cerca como estamos...
+
+## POINTER 8 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160193]
+¡Es muy alto!
+
+## POINTER 10 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 11 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159625880]
+<CHARA:KEELE>, ¿estás bien?
+
+## POINTER 12 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 13 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160193]
+¿Bien qué?
+
+## POINTER 14 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159625880]
+Está bastante empinado.
+¿Crees que podrás subirlo?
+
+## POINTER 16 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160193]
+¡El legendario Puente de Luz está allí!
+¡Lo voy a subir, y punto!
+
+## POINTER 18 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 19 [t:1;user:memnoch;time:1295382695]
+Pues que sea verdad.
+
+## POINTER 20 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:pacochan;time:1167234919]
+Vale, ¡vamos!

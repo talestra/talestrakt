@@ -1,0 +1,152 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163635282]
+Ferry (Camarote de 2ª clase)
+
+## POINTER 2 [t:1;user:memnoch;time:1295124380]
+¡Es estúpido pagar un
+pasaje de primera clase!
+
+## POINTER 4 [t:1;user:memnoch;time:1295124380]
+¿No sois pasajeros
+de primera clase?
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168724338]
+¡Guau!
+¡Esta cama está
+dura como una roca!
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159970883]
+¡Métete en tus propios asuntos!
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168724338]
+¡Dormir en una cama 
+dura es mejor para ti!
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168724313]
+¡Guau!
+¡Esta cama está
+dura como una roca!
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159970883]
+¡Métete en tus propios asuntos!
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168724313]
+¡Dormir en una cama 
+dura es mejor para ti!
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163634700]
+¡Guau! ¡La superficie del
+agua está justo aquí!
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:soywiz;time:1159970883]
+Parece bastante duro...
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159970883]
+¿Deseas descansar?
+Sí
+No
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159970883]
+¿Deseas descansar?
+Sí
+No
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1163865877]
+Me pregunto qué estará 
+haciendo <CHARA:KEELE>.
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1163865877]
+Su sueño se ha hecho realidad.
+Probablemente esté disfrutando
+mucho.
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159970883]
+<CHARA:MEREDY>, perdónale.
+<CHARA:KEELE> también tiene
+cosas que quiere hacer.
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159970883]
+<CHARA:MEREDY> ya lo ha perdonado.
+Pero...
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163634700]
+<CHARA:MEREDY> es de Celestia. Así
+que ¿puede ser que <CHARA:KEELE> se
+convierta en mi enemigo?
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 36 [t:1;user:memnoch;time:1295124380]
+¡D-De ninguna manera!
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 38 [t:1;user:memnoch;time:1295124380]
+¿E-En serio? ¿No?
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 40 [t:1;user:memnoch;time:1295529776]
+<CHARA:KEELE> solo quiere
+aprender mucho.
+No será tu enemigo.
+Confía en él.
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 42 [t:1;user:memnoch;time:1295127309]
+¿Confiar?
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;user:memnoch;time:1295488895]
+Oye, ¿estás despierto?
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159970883]
+¡Estoy pensando!
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159970883]
+¿Sobre?
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 50 [t:1;user:memnoch;time:1295124380]
+N-Nada.

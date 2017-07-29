@@ -1,0 +1,727 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162399839]
+Biblioteca (destruida)
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1162399840]
+Biblioteca
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158856242]
+Chef Maravillas
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158856242]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158856242]
+Chef Maravillas
+
+## POINTER 5 [t:1;user:memnoch;time:1295533435]
+¡Te mostraré cómo hacer un
+relajante <COLOR:0D00>cóctel de frutas<COLOR:0F00>.
+
+## POINTER 7 [t:1;user:memnoch;time:1295533435]
+Has aprendido a hacer
+un cóctel de frutas.
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158856242]
+Chef Maravillas
+
+## POINTER 9 [t:1;user:memnoch;time:1295533435]
+El cóctel de frutas tiene tres ingredientes:
+leche, bananas, amangos y satay blanco.
+
+## POINTER 11 [t:1;user:memnoch;time:1295534136]
+Recibes los ingredientes
+del cóctel de frutas.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158856242]
+Chef Maravillas
+
+## POINTER 13 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1166670556]
+¡Que tengas un buen día!
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+<826D><828F><8140><8272><828C><8285><8285><8290><8289><828E><8287><8149>
+
+## POINTER 16 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160210630]
+¡No duermas aquí!
+
+## POINTER 18 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+Por favor, no duermas aquí...
+
+## POINTER 21 [t:1;r:1;ru:pacochan;time:1157722710]
+<8270><8295><8289><8285><8294><8140><826F><828C><8285><8281><8293><8285><8149>
+
+## POINTER 22 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 23 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+¡Silencio!
+
+## POINTER 24 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+Silencio, por favor...
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:pacochan;time:1167475139]
+<8273><8288><8285><8140><826B><8285><8287><8285><828E><8284>
+<828F><8286><8140><8260><8289><8286><8292><8285><8281><8284>
+
+## POINTER 28 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+<COLOR:0D00>La Leyenda de Aifread<COLOR:0F00>.
+
+## POINTER 30 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+¿Lo vas a leer?<OPTION:0000>
+Sí
+No
+
+## POINTER 32 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+Una vez, el barco pirata de
+Aifread, el Van Eltia, merodeó
+por los mares del mundo.
+
+## POINTER 34 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:soywiz;time:1160853844]
+Ya sea mercader o marinero,
+todos le temían. Pero los hubo
+que decían que era piadoso.
+
+## POINTER 36 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+Pero el legendario Gran Pirata ha
+desaparecido desde entonces. Esto
+ocurrió hace unos cien años.
+
+## POINTER 38 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+Vaya libro más absurdo.
+
+## POINTER 40 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 41 [t:1;user:memnoch;time:1295529022]
+Solo menciona hechos sin fundamento...
+
+## POINTER 42 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 43 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+¿Entonces por qué no escribes uno?
+
+## POINTER 44 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 45 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+Los piratas...
+
+## POINTER 46 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 47 [t:1;r:1;ru:pacochan;user:pacochan;time:1167475139]
+¡No son interesantes hasta
+que los cubre el misterio!
+
+## POINTER 49 [t:1;r:1;ru:pacochan;user:pacochan;time:1167475139]
+<8262><8292><8281><8299><828D><8285><828C><8140><8264><828E><8287><8289><828E><8285><8285><8292><8289><828E><8287>
+<8286><828F><8292><8140><8261><8285><8287><8289><828E><828E><8285><8292><8293>
+
+## POINTER 50 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 51 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+<COLOR:0D00>Los Principios de Ingeniería Craymel<COLOR:0F00>.
+
+## POINTER 52 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 53 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+¿Lo vas a leer?<OPTION:0000>
+Sí
+No
+
+## POINTER 54 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 55 [t:1;user:memnoch;time:1294858951]
+Hay tres craymels
+primarios:
+tierra, hielo y rayo.
+
+## POINTER 56 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 57 [t:1;user:memnoch;time:1294858951]
+Los craymels de tierra forman rocas,
+los de hielo crean cristales, y los
+de rayo hacen explosiones.
+
+## POINTER 58 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 59 [t:1;user:memnoch;time:1294858951]
+Todos tienen un papel vital, ya
+que son necesarios para la supervivencia
+de los humanos y del mundo en sí.
+
+## POINTER 60 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 61 [t:1;user:memnoch;time:1294858951]
+Craymels de tierra, de
+hielo y de rayo, ¿eh?
+
+## POINTER 62 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 63 [t:1;user:memnoch;time:1294858951]
+Completamente distinto de
+los craymels de Inferia.
+
+## POINTER 65 [t:1;user:memnoch;time:1294858951]
+<8264><8294><8285><8292><828E><8281><828C><8140><8265><8292><8289><8285><828E><8284>
+<826C><8289><8281><8283><8289><8293>
+
+## POINTER 66 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 67 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+<COLOR:0D00>Amigo Eterno, Miacis<COLOR:0F00>.
+
+## POINTER 68 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 69 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+¿Lo vas a leer?<OPTION:0000>
+Sí
+No
+
+## POINTER 70 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 71 [t:1;user:memnoch;time:1295635899]
+Desde la Era Mélnica, miacis y
+humanos han sido amigos íntimos.
+
+## POINTER 72 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 73 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+Sus grandes ojos verdes pueden
+mirar fijamente en el alma humana
+mientras que sus suaves melenas
+calman nuestros preocupados corazones.
+
+## POINTER 74 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 75 [t:1;user:memnoch;time:1295556337]
+Los humanos siempre traicionarán
+a los de su propia raza, pero el
+corazón de un miacis es verdadero
+y no conoce engaño alguno.
+
+## POINTER 76 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 77 [t:1;r:1;ru:pacochan;user:pacochan;time:1167475139]
+¿Ahora veis lo genial
+que es Dede?
+
+## POINTER 78 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 79 [t:1;user:memnoch;time:1294684216]
+¡Bua, ja, ja, ja!
+
+## POINTER 81 [t:1;r:1;ru:pacochan;time:1157722710]
+<8273><8288><8285><8140><8263><8289><8293><8294><8281><828E><8294><8140><8276><828F><8292><828C><8284>
+
+## POINTER 82 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 83 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+<COLOR:0D00>El Mundo Distante<COLOR:0F00>.
+
+## POINTER 84 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 85 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+Lo vas a leer?<OPTION:0000>
+Sí
+No
+
+## POINTER 86 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 87 [t:1;r:1;ru:pacochan;user:pacochan;time:1160210630]
+El mundo distante es un infierno ardiente.
+
+## POINTER 88 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 89 [t:1;user:memnoch;time:1294859021]
+Sin la bendición de los
+craymels de hielo, incluso
+el suelo y el aire arderían.
+
+## POINTER 90 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 91 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Hay gente en este mundo
+distante, pero no llevan
+nada y viven sin refugio.
+
+## POINTER 92 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 93 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Así que este <BOLD:0100>mundo distante<BOLD:0000> es...
+
+## POINTER 94 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 95 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Sí.
+Es Inferia.
+
+## POINTER 96 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 97 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Un infierno ardiente, eh...
+
+## POINTER 98 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 99 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Definitivamente es más caliente
+que Celestia, pero...
+
+## POINTER 101 [t:1;r:1;ru:pacochan;time:1157722710]
+<8273><8288><8285><8140><826F><8281><8294><8288><8140><8294><828F><8140><826F><8285><8281><8283><8285>
+
+## POINTER 102 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 103 [t:1;r:1;ru:pacochan;user:pacochan;time:1167475140]
+<COLOR:0D00>El Camino a la Paz<COLOR:0F00>.
+
+## POINTER 104 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 105 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+¿Lo vas a leer?<OPTION:0000>
+Sí
+No
+
+## POINTER 106 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 107 [t:1;user:memnoch;time:1295529017]
+La guerra solo puede destruir.
+Nada puede crearse a partir de ella.
+Deberíamos bajar nuestras armas
+y buscar una forma de coexistencia
+pacífica.
+
+## POINTER 108 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 109 [t:1;user:memnoch;time:1295529017]
+Sin guerras, los humanos pueden
+conseguir mejor humanidad. No
+solo centrándose en unos mismos,
+sino amando y entendiendo a los demás.
+
+## POINTER 110 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 111 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Pero para darse cuenta de esta utopía,
+es necesario no tener miedo de la
+pérdida y del abandono. Planeo dedicar
+mi vida a decir esta gran verdad.
+
+## POINTER 112 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 113 [t:1;user:memnoch;time:1294854356]
+Este tipo piensa casi como un
+inferiano. ¿Quién ha escrito esto?
+
+## POINTER 114 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 115 [t:1;user:memnoch;time:1295573887]
+Mmm...
+Una persona llamada Transon.
+
+## POINTER 116 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 117 [t:1;user:memnoch;time:1295574114]
+Aaaaah.
+
+## POINTER 118 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 119 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168723994]
+¡Guau!
+
+## POINTER 120 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 121 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+¡¿Sagura?!
+
+## POINTER 122 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 123 [t:1;r:1;ru:pacochan;time:1157722710]
+<CHARA:MEREDY>...
+
+## POINTER 124 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 125 [t:1;r:1;ru:pacochan;time:1157722710]
+¡<CHARA:MEREDY>!
+
+## POINTER 126 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 127 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+¡¿Uno de los secuaces de Balir?!
+
+## POINTER 128 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 129 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+¡¡Hyades!!
+
+## POINTER 130 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Hyades
+
+## POINTER 131 [t:1;user:memnoch;time:1295557871]
+¡Ji, ja, ja, ja, ja!
+¿Así que sois los acompañantes de
+<CHARA:MEREDY>? *Tos* ¡Bienvenidos a la
+fiesta! ¡Pronto seréis destruidos!
+
+## POINTER 132 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 133 [t:1;user:memnoch;time:1295553696]
+¡¿Así que has sido tú quien
+le ha hecho esto a la ciudad?!
+
+## POINTER 134 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 135 [t:1;user:memnoch;time:1294684061]
+¡¡Vas a pagarlo!!
+
+## POINTER 136 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 137 [t:1;user:memnoch;time:1295554541]
+¿Lo hemos cogido?
+
+## POINTER 138 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 139 [t:1;user:memnoch;time:1295389185]
+Eh, ¿qué fue eso?
+
+## POINTER 140 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 141 [t:1;user:memnoch;time:1295557219]
+Hyades.
+Luchamos contra él una vez
+en Rasheans. Un tipo duro...
+
+## POINTER 142 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 143 [t:1;user:memnoch;time:1295557286]
+<CHARA:MEREDY>,
+¿es a ti a quien persigue?
+
+## POINTER 144 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 145 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+<CHARA:MEREDY> no lo sabe...
+
+## POINTER 146 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 147 [t:1;user:memnoch;time:1295556562]
+¿No lo sabes?
+¡Por la forma en la que hablaba,
+parecía como si os conocierais!
+
+## POINTER 149 [t:1;user:memnoch;time:1295556536]
+Kwww, kwww, kwww, kiii, kiii...
+
+## POINTER 150 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 151 [t:1;user:memnoch;time:1295556536]
+Hyades... No solía
+ser así. Él no ha
+podido ser...
+
+## POINTER 152 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 153 [t:1;user:memnoch;time:1295554573]
+¡El poblado fue casi totalmente
+destruido! ¡Respóndeme!
+
+## POINTER 154 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 155 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+¡Para, <CHARA:KEELE>!
+
+## POINTER 156 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 157 [t:1;user:memnoch;time:1295554573]
+No le hables de esa forma.
+¡No le eches la culpa a <CHARA:MEREDY>!
+
+## POINTER 158 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 159 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+Lo siento...
+
+## POINTER 160 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 161 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Cuando <CHARA:MEREDY> era joven,
+Hyades cuidó mucho de <CHARA:MEREDY>.
+Pero eso fue hace mucho, muuucho tiempo.
+
+## POINTER 162 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 163 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Ese Hyades y este Hyades no son
+el mismo. Debe ser culpa de
+Balir... Hyades ha cambiado.
+
+## POINTER 164 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 165 [t:1;user:memnoch;time:1295542492]
+¿Sagura?
+
+## POINTER 166 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Sagura
+
+## POINTER 167 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+<BOLD:0100>¡Bulenda! ¡¡Hamilt!!<BOLD:0000>
+
+## POINTER 168 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Bonz
+
+## POINTER 169 [t:1;user:memnoch;time:1295389294]
+Eh, eh, ¿qué hay de Lotte?
+
+## POINTER 170 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 171 [t:1;user:memnoch;time:1295554573]
+Aquí hay un diccionario de una lengua
+antigua. Aquí encontraremos la respuesta.
+
+## POINTER 173 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+¿Cuál es la primera letra?<OPTION:0000>
+<8261>
+<8273>
+<826B>
+
+## POINTER 175 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+¿La segunda letra?<OPTION:0000>
+<826E>
+<8264>
+<8260>
+
+## POINTER 177 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+¿La tercera letra?<OPTION:0000>
+<826A>
+<8274>
+<826D>
+
+## POINTER 179 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+¿La cuarta letra?<OPTION:0000>
+<8272>
+<826A>
+<8279>
+
+## POINTER 181 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+¿La quinta letra?<OPTION:0000>
+<8264>
+<8268>
+<8260>
+
+## POINTER 183 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+¿La sexta letra?<OPTION:0000>
+<8272>
+<8268>
+<826D>
+
+## POINTER 184 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 185 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+¡Banzai!
+
+## POINTER 186 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 187 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+Esto no puede ser cierto.
+
+## POINTER 188 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 189 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Plebeyo...
+¡Persona ordinaria sin ningún
+tipo de cualidades especiales
+o extraordinarias!
+
+## POINTER 190 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 191 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+¿Te refieres a alguien
+como <CHARA:REID>?
+
+## POINTER 192 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 193 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Bueno, DISCULPA.
+
+## POINTER 194 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 195 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+Monje...
+¡Ah!, como un clérigo.
+
+## POINTER 196 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 197 [t:1;user:memnoch;time:1294849550]
+¿El sacerdote tiene
+algo que ver con el
+<COLOR:0D00>sellador de billetes<COLOR:0F00>?
+
+## POINTER 198 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 199 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+<CHARA:MEREDY> está practicando
+el combo de diez golpes.
+
+## POINTER 200 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 201 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+A veces dices cosas
+muy extrañas.
+
+## POINTER 202 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 203 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Bonsai...
+El arte de hacer crecer y apreciar
+árboles enanos y con formas ornamentales.
+
+## POINTER 204 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:REID>
+
+## POINTER 205 [t:1;r:1;ru:pacochan;user:pacochan;time:1167475140]
+¿Qué demonios es esto?
+No termino de entenderlo.
+
+## POINTER 206 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 207 [t:1;r:1;ru:pacochan;user:pacochan;time:1167475140]
+¡Hwil!
+El bonsai de Celestia
+es algo como esto.
+
+## POINTER 208 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 209 [t:1;user:memnoch;time:1295574132]
+Aaah...
+
+## POINTER 210 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 211 [t:1;r:1;ru:pacochan;user:pacochan;time:1160212044]
+Ciertamente presenta un
+aspecto transcendental
+del mundo.
+
+## POINTER 212 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 213 [t:1;user:memnoch;time:1294849550]
+¡Lo he encontrado!
+¡El <COLOR:0D00>sellador de billetes<COLOR:0F00>!
+
+## POINTER 214 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 215 [t:1;r:1;ru:pacochan;user:pacochan;time:1167475140]
+¡Hwil!
+El conductor de Luishka
+se pondrá muy contento.
+
+## POINTER 216 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 217 [t:1;r:1;ru:pacochan;user:Lobap;time:1158856751]
+¡Volvamos a la
+estación de Luishka!
+
+## POINTER 218 [t:1;r:1;ru:soywiz, ;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 219 [t:1;user:memnoch;time:1295532236]
+¡No hay ninguna palabra como
+esta en el diccionario!

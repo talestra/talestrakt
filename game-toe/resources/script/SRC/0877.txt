@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989632]
+Observatorio de Seyfert, Entrada
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989632]
+Observatorio de Seyfert
+
+## POINTER 2 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989632]
+Es demasiado tarde para volver.
+
+## POINTER 4 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 5 [t:1;user:memnoch;time:1295636719]
+<CHARA:KEELE> y <CHARA:MEREDY> están
+en la Sala de Observaciones...
+
+## POINTER 7 [t:1;user:memnoch;time:1294682915]
+¿Adónde quieres ir?<OPTION:0000>
+Sala de Observaciones de Seyfert
+Puerta de la Prueba
+
+## POINTER 8 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989632]
+Es inútil.
+No se abre.
+
+## POINTER 10 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 11 [t:1;user:memnoch;time:1295636770]
+¡La he encontrado!
+¡Es una cerradura para la <ITEM:00014A01>!
+
+## POINTER 12 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989632]
+Se ha abierto.
+
+## POINTER 14 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 15 [t:1;user:memnoch;time:1295636770]
+¡Vayamos, entonces!

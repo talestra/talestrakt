@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Habitación del Rey de Inferia
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159848148]
+Has encontrado <COLOR:0D00><ITEM:00016101><COLOR:0F00>.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;time:1157722710]
+Cuento contigo.
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Roen me informó de la situación.
+
+## POINTER 8 [t:1;user:memnoch;time:1294857278]
+Para expiar vuestra traición, quiero
+que cooperéis con la princesa Arende
+y salvéis Inferia.
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159848148]
+No hay respuesta.
+Como un cuerpo sin vida.
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:soywiz;time:1159848148]
+Contamos contigo.
+
+## POINTER 14 [t:1;user:memnoch;time:1295651675]
+Si derrotas a <CHARA:SHIZEL>, te daré un
+colgante metálico en lugar del
+que tienes ahora... como regalo.
+
+## POINTER 16 [t:1;user:memnoch;time:1297460319]
+Si las alas no vuelan,
+pierden su razón de ser.
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163244511]
+Estos son los aposentos
+del Rey y la Reina.
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163244511]
+El Rey ha caído enfermo.
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163244511]
+Estos son los aposentos
+del Rey y la Reina.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1163583169]
+Por favor...
+No entres sin permiso.

@@ -1,0 +1,52 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546743]
+Posada del Dojo Régulus 2P
+
+## POINTER 2 [t:1;user:memnoch;time:1295532611]
+Este es el segundo piso de la posada
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Chef Maravillas
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160955283]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Chef Maravillas
+
+## POINTER 6 [t:1;user:memnoch;time:1295532611]
+Te enseñaré cómo preparar
+un vigoroso <COLOR:0D00>estofado<COLOR:0F00>.
+
+## POINTER 8 [t:1;user:memnoch;time:1295532611]
+Has aprendido cómo preparar un estofado.
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Chef Maravillas
+
+## POINTER 10 [t:1;user:memnoch;time:1295532611]
+El estofado tiene tres ingredientes:
+carne de oso, col y zanahorias.
+
+## POINTER 12 [t:1;user:memnoch;time:1295534263]
+Recibes los ingredientes del estofado.
+
+## POINTER 13 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Chef Maravillas
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163888995]
+¡Que tengas un buen día!
+
+## POINTER 15 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160955283]
+Mmmm, huele bien.
+Es el aroma de la avellana.
+
+## POINTER 18 [t:1;user:memnoch;time:1295534552]
+Encuentras <ITEM:00120004>.
+
+## POINTER 20 [t:1;user:memnoch;time:1295534552]
+Encuentras <ITEM:00120004>,
+pero no puedes llevar más.

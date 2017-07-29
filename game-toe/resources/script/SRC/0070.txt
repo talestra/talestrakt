@@ -1,0 +1,140 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166547050]
+Tumba de Régulus 0
+
+## POINTER 2 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161983138]
+El HP ha sido restaurado.
+
+## POINTER 4 [t:1;user:memnoch;time:1294597627]
+Esto es un punto de carga.
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041397]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 8 [t:1;user:memnoch;time:1297458944]
+¡¡Si no podéis derrotarme, rendíos!!
+¡Olvidaos de entrar más allá!
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041397]
+¿Acaso sabéis qué
+yace en el interior?
+
+## POINTER 11 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041397]
+¡Lo que veis ante vosotros
+es el sello que Seyfert creó!
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041397]
+Así que más adelante...
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;user:memnoch;time:1295651148]
+¿Es donde fue encerrada Nereid,
+la Diosa de la Destrucción?
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041397]
+Me da igual lo que haya dentro,
+¡yo pienso seguir!
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡Nada nos detendrá!
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041397]
+Entonces, tendréis que
+derrotarme primero.
+
+## POINTER 23 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041397]
+Ahora, mostradme
+vuestra fuerza.
+
+## POINTER 25 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 26 [t:1;user:memnoch;time:1295651148]
+Qué patético...
+
+## POINTER 27 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 28 [t:1;user:memnoch;time:1294682401]
+Ya veo...
+Siento vuestra determinación
+en vuestra fuerza.
+
+## POINTER 29 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Os ayudaré.
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1161983138]
+¡¡De acuerdo!!
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Sí, ¡por favor!
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 36 [t:1;user:memnoch;time:1294956928]
+¡No puedo creerlo!
+¡El craymel de la luz va
+a cooperar con nosotros!
+
+## POINTER 37 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1161983138]
+Ni siquiera yo sé lo
+que yace más adelante.
+
+## POINTER 39 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Rem
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Proceded con cautela.
+
+## POINTER 42 [t:1;user:memnoch;time:1294956928]
+Ya hay seis craymels supremos en
+la jaula craymel de <CHARA:0012CC040012C4040F30>.
+
+## POINTER 44 [t:1;user:memnoch;time:1294956928]
+El craymel supremo entrará en
+la jaula craymel de <CHARA:0012CC040012C4040F30>
+
+## POINTER 46 [t:1;user:memnoch;time:1294956928]
+¿En cuál?<OPTION:0000>
+Jaula craymel de <CHARA:KEELE>
+Jaula craymel de <CHARA:MEREDY>

@@ -1,0 +1,294 @@
+## POINTER 0 [t:1;user:memnoch;time:1295610982]
+Casino y Cambio
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Decídete.
+¿Vas a jugar o no?
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904508]
+Por esto odio jugar
+con aficionados.
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Grrrr...
+Tenía los ojos
+puestos en ese título.
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904508]
+Venga, juguemos al <ITEM:00014801>.
+
+## POINTER 10 [t:1;user:memnoch;time:1295610924]
+No eres muy bueno, ¿verdad?
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157994340]
+Eres bastante bueno, ¿no?
+
+## POINTER 14 [t:1;user:memnoch;time:1295096022]
+Te ganaré en cualquier momento. <81A5>
+
+## POINTER 16 [t:1;user:memnoch;time:1295096063]
+Qué pena lo de la última vez. <81A5>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+No seas duro
+conmigo, ¿quieres?
+
+## POINTER 20 [t:1;user:memnoch;time:1295528515]
+¡¡Aquí está!!
+¡Solo uno más!
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157994340]
+¡VENGA!
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157994340]
+Admiro a la gente que es
+buena en el <ITEM:00014801>.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904508]
+A lo largo de la historia, todos los
+gobernantes de Celestia han sido reconocidos
+como jugadores maestros del <ITEM:00014801>.
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157994340]
+¡Ayyyyy!
+¡¡Qué mala suerte tengo!!
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:hexplus;time:1157732451]
+Chef Maravillas
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:hexplus;time:1157732451]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:hexplus;time:1157732451]
+Chef Maravillas
+
+## POINTER 32 [t:1;user:memnoch;time:1295533373]
+Te enseñaré a preparar un <COLOR:0D00>estofado<COLOR:0F00>,
+la cura perfecta para la fatiga!
+
+## POINTER 34 [t:1;user:memnoch;time:1295533373]
+Has aprendido a hacer estofado.
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:hexplus;time:1157732451]
+Chef Maravillas
+
+## POINTER 36 [t:1;user:memnoch;time:1295533373]
+El estofado tiene cuatro ingredientes:
+huevo, konia, rábano y satay rojo.
+
+## POINTER 38 [t:1;user:memnoch;time:1295534024]
+Recibes ingredientes del estofado.
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:hexplus;time:1157732451]
+Chef Maravillas
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1166670525]
+¡Que tengas un buen día!
+
+## POINTER 42 [t:1;user:memnoch;time:1294850402]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 44 [t:1;user:memnoch;time:1294850402]
+Aquí puedes cambiar
+gald por jinis.
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+¿Qué quieres hacer?<OPTION:0000>
+Ver balance actual
+Ver tasa de cambio
+Cambiar dinero
+
+## POINTER 48 [t:1;user:memnoch;time:1294850402]
+Actualmente tienes
+<VAR:00127C00> jinis.
+
+## POINTER 50 [t:1;user:memnoch;time:1294850402]
+La tasa de cambio de hoy
+es <VAR:0010C100> gald por jinis.
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+¿Cuánto quieres cambiar?
+
+## POINTER 54 [t:1;user:memnoch;time:1286289922]
+<OPTION:0000><VAR:0010C100> x  1 gald
+<VAR:0010C100> x  5 gald
+<VAR:0010C100> x 10 gald
+<VAR:0010C100> x 20 gald
+
+## POINTER 56 [t:1;user:memnoch;time:1294850636]
+Cambiar <VAR:0010C1000012B8043330> gald por <VAR:0012B804> jinis.
+¿Así lo quieres?<OPTION:0000>
+Sí
+No
+
+## POINTER 58 [t:1;user:memnoch;time:1286289922]
+Parece que no tienes
+suficiente gald.
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:hexplus;time:1157732451]
+Muchas gracias.
+
+## POINTER 61 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 62 [t:1;user:memnoch;time:1295610392]
+¿Qué te parece?
+¿Hace una partida al <ITEM:00014801>?
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+<OPTION:0000>Sí
+No
+
+## POINTER 65 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 66 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+¿Seguro?
+Tienes pinta de
+ganador...
+
+## POINTER 67 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 68 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904509]
+Sé que puedes ganar.
+No tuviste mucha suerte
+la última vez.
+
+## POINTER 69 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 70 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Me encantaría ver de
+nuevo tus impresionantes
+habilidades...
+
+## POINTER 71 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 72 [t:1;user:memnoch;time:1294850698]
+Cuesta <VAR:0012BC04> jinis.
+¿Te parece bien?
+
+## POINTER 74 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+<OPTION:0000>Sí
+No
+
+## POINTER 75 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 76 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Ya veo...
+
+## POINTER 77 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 78 [t:1;user:memnoch;time:1294850698]
+Lo siento.
+Parece que no tienes
+suficientes jinis.
+
+## POINTER 79 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 80 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Gracias por
+el pago.
+
+## POINTER 81 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 82 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904509]
+Y bien, ¿estáis todos
+listos para jugar?
+
+## POINTER 84 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+¡Sí!
+
+## POINTER 86 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+¡Vamos!
+
+## POINTER 88 [t:1;user:memnoch;time:1295096063]
+Ji, ji. <81A5>
+
+## POINTER 89 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 90 [t:1;user:memnoch;time:1295096063]
+¿Quieres cancelar?
+Inténtalo en otro momento.
+
+## POINTER 92 [t:1;user:memnoch;time:1294850698]
+¡Bua, ja, ja, ja!
+¡No es tan fácil
+como pensáis!
+
+## POINTER 94 [t:1;user:memnoch;time:1294683822]
+Je, je...
+
+## POINTER 96 [t:1;user:memnoch;time:1295096063]
+¡He ganado!
+Ji, ji. <81A5>
+
+## POINTER 97 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 98 [t:1;user:memnoch;time:1297462267]
+Qué pena que no hayas ganado.
+Inténtalo de nuevo.
+
+## POINTER 99 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 100 [t:1;user:memnoch;time:1295609431]
+¡Felicidades!
+¡<CHARA:REID> es el ganador!
+
+## POINTER 101 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167994095]
+¡Eres el mejor jugador
+de <ITEM:00014801>!
+¡¡Sabes bien cómo se juega!!
+
+## POINTER 103 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 104 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Por el poder que me ha
+sido otorgado, te concedo
+un nuevo título.
+
+## POINTER 106 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993158]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Buscavidas<COLOR:0F00>.
+
+## POINTER 107 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 108 [t:1;user:memnoch;time:1294850698]
+Creo que es hora de que visites
+a Jugadores Anónimos de <ITEM:00014801>.
+
+## POINTER 110 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167992234]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Maestro del WHIS<COLOR:0F00>.
+
+## POINTER 111 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 112 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Aquí están tus ganancias.
+
+## POINTER 114 [t:1;user:memnoch;time:1295534031]
+Recibes <VAR:0012C004> jinis.
+
+## POINTER 115 [t:1;r:1;ru:pacochan;user:pacochan;time:1159115545]
+Comerciante
+
+## POINTER 116 [t:1;user:memnoch;time:1295625923]
+Ha sido una gran partida.
+Juega de nuevo alguna vez.

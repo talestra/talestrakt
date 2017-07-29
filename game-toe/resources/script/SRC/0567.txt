@@ -1,0 +1,310 @@
+## POINTER 0 [t:1;user:memnoch;time:1295610956]
+Salón y Recepción
+
+## POINTER 2 [t:1;user:memnoch;time:1295610956]
+Este es el salón y recepción 
+del balneario Craymel.
+
+## POINTER 4 [t:1;user:memnoch;time:1286289857]
+Bienvenido.
+La entrada cuesta 600 gald.
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853164]
+<OPTION:0000>Pagar
+No pagar
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853164]
+¿Estás seguro?
+Es muy beneficioso para tu salud.
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853164]
+No tienes suficiente dinero,
+Lo siento.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853164]
+Gracias.
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1163350494]
+La entrada de hombres está a tu izquierda.
+La entrada de mujeres está a tu derecha.
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+¡Disculpa!
+¡No entres ahí, por favor!
+
+## POINTER 17 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1167987001]
+¿Qué ocurre?
+¿No entras?
+
+## POINTER 19 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853164]
+Creo que pasaré.
+
+## POINTER 21 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1167986979]
+Esperaré aquí.
+Entrad si queréis,
+y divertíos.
+
+## POINTER 23 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1167479536]
+¿Te da vergüenza?
+
+## POINTER 25 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 26 [t:1;user:memnoch;time:1295148513]
+¡D-De ninguna manera!
+¡Métete en tus asuntos!
+
+## POINTER 27 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1167986979]
+¡Vaaaaya!
+
+## POINTER 29 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡<CHARA:REID>!
+
+## POINTER 31 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1167479536]
+¡Ha dicho que no quiere entrar!
+¿Por qué no la dejas tranquila?
+
+## POINTER 33 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853164]
+Lo sé, pero...
+
+## POINTER 35 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1167479536]
+Venga, <CHARA:MEREDY>.
+¡Vamos!
+
+## POINTER 37 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+¡Por supuesto!
+
+## POINTER 39 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+¡¿Qué les pasa?!
+
+## POINTER 41 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+¡¿Monumento de Aifread?!
+
+## POINTER 43 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+Estoy seguro.
+Lo vi en los vestidores.
+
+## POINTER 45 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 46 [t:1;user:memnoch;time:1286298439]
+¿Qué está haciendo en
+un lugar como este?
+
+## POINTER 47 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 48 [t:1;user:memnoch;time:1286301772]
+Esto me supera.
+Y... ¿qué hacemos?
+
+## POINTER 49 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853685]
+Me gustaría verlo,
+por supuesto.
+
+## POINTER 51 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 52 [t:1;user:memnoch;time:1286297938]
+¿En qué vestidor está?
+
+## POINTER 53 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853685]
+El de tu izquierda.
+
+## POINTER 55 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 56 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853685]
+¡No te preocupes!
+No hay nadie.
+
+## POINTER 57 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:CHAT>
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+¡¡No estoy preocupada!!
+
+## POINTER 59 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1167479537]
+¡Vale! ¡Vale!
+
+## POINTER 61 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1167479537]
+Sígueme.
+Yo iré primero...
+...y no dejes que nadie
+te vea, ¿de acuerdo?
+
+## POINTER 64 [t:1;user:memnoch;time:1286299764]
+¡Detente!
+¡Tú, el de ahí!
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853685]
+¡¿Has pagado?!
+
+## POINTER 67 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 68 [t:1;user:memnoch;time:1286299764]
+Sí.
+Antes hemos pagado por todo el grupo.
+
+## POINTER 70 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853685]
+¡Oh! Es cierto.
+Siento las molestias.
+
+## POINTER 71 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 72 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+¡<CHARA:KEELE>!
+¿Estás bien?
+
+## POINTER 73 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+Lo siento.
+Fue culpa de <CHARA:MEREDY>.
+
+## POINTER 75 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 76 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+¡No seas estúpida!
+¡¡No tuvo nada que ver contigo!!
+
+## POINTER 77 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 78 [t:1;user:memnoch;time:1295528493]
+¡Solo estuve en el agua caliente
+durante demasiado tiempo!
+
+## POINTER 79 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 80 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1167479537]
+¿Ves?
+¡Tal y como yo dije!
+
+## POINTER 81 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 82 [t:1;user:memnoch;time:1295546765]
+No es culpa tuya que
+<CHARA:KEELE> se desmayara.
+No es para tanto.
+
+## POINTER 83 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 84 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853685]
+¿Vale?
+
+## POINTER 85 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 86 [t:1;user:memnoch;time:1295099759]
+Vale...
+Lo siento...
+No quise preocuparte.
+
+## POINTER 87 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 88 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+<CHARA:KEELE>...
+
+## POINTER 89 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 90 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853685]
+Ya estoy bien.
+Marchémonos.
+
+## POINTER 91 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 92 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+Vale.
+Os veo luego.
+
+## POINTER 93 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 94 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+Ajá.
+
+## POINTER 95 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 96 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡<CHARA:REID>!
+
+## POINTER 97 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 98 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158853685]
+Gracias por esperar.
+
+## POINTER 99 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 100 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1163350554]
+¿No ha sido revitalizante?
+
+## POINTER 101 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 102 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158854411]
+¡Venga, vámonos!

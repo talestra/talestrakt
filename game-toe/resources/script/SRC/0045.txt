@@ -1,0 +1,275 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546431]
+Dojo Régulus - Sala de Artes Craymel
+
+## POINTER 1 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 2 [t:1;r:1;ru:soywiz;user:soywiz;time:1167963648]
+<CHARA:FARAH>.
+Yo los sujetaré por ti.
+
+## POINTER 3 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¡<CHARA:FARAH>!
+
+## POINTER 5 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¡Estás bien!
+
+## POINTER 7 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 8 [t:1;user:memnoch;time:1295527985]
+¡Eh! ¿Solo te preocupaba
+cómo estuviese <CHARA:FARAH>?
+
+## POINTER 9 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 10 [t:1;user:memnoch;time:1294595137]
+Errr... no. Bueno...
+
+## POINTER 11 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1161894689]
+<CHARA:FARAH>, yo...
+Entrenaré más duro...
+
+## POINTER 13 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 14 [t:1;user:memnoch;time:1295532579]
+Esta es la sala de artes craymel.
+
+## POINTER 16 [t:1;user:memnoch;time:1295086742]
+¿Quieres que te hable sobre los craymels?
+
+## POINTER 18 [t:1;user:memnoch;time:1294956884]
+¿Qué es un craymel?<OPTION:0000>
+¿Qué es un craymel de agua?
+¿Qué es una jaula craymel?
+No necesito explicaciones
+
+## POINTER 20 [t:1;user:memnoch;time:1294956884]
+Los <COLOR:0D00>craymels<COLOR:0F00> existen
+por toda Eternia...
+En el agua, el aire, las rocas...
+
+## POINTER 22 [t:1;user:memnoch;time:1294956884]
+La lluvia, una ráfaga de viento,
+el ardiente fuego...
+Todo son fuerzas de craymels.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1161894689]
+No tienen una forma física
+ni vida. Quizá ellos están más
+cerca de dios que los hombres.
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+Craymels... Son bastante misteriosos.
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160955081]
+¿Quieres que te cuente más cosas?
+
+## POINTER 30 [t:1;user:memnoch;time:1294956884]
+Existen varias clases
+de <COLOR:0D00>craymels<COLOR:0F00>...
+
+## POINTER 32 [t:1;user:memnoch;time:1294956884]
+De entre todos ellos, confiamos
+ciegamente en los <COLOR:0D00>craymels de agua<COLOR:0F00>.
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:pacochan;time:1161894689]
+Sin ellos, la lluvia no caería
+y los ríos no fluirían. Los
+lagos se secarían y las plantas
+se acabarían marchitando...
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1161894689]
+Simplemente no podríamos
+vivir sin ellos.
+
+## POINTER 38 [t:1;user:memnoch;time:1294956884]
+Estos <COLOR:0D00>craymels<COLOR:0F00> existen
+y residen en el interior
+de formas cristalinas.
+
+## POINTER 40 [t:1;user:memnoch;time:1294956884]
+Debido a que las <COLOR:0D00>jaulas craymel<COLOR:0F00> están
+hechas de cristal se puede sellar a los
+craymels en su interior.
+
+## POINTER 42 [t:1;user:memnoch;time:1295089101]
+Así que utilizando una jaula craymel,
+podemos concentrar la energía de los
+craymels y usarla en forma de <COLOR:0D00>artes
+craymel<COLOR:0F00>.
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160955081]
+Craymels...
+Realmente son misteriosos...
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+*Sollozo*
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¿Hay alguien ahí adentro?
+
+## POINTER 50 [t:1;user:memnoch;time:1295574291]
+¡Aaaah!
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:pacochan;time:1161894689]
+Te lo ruego.
+No le digas al maestro que estoy aquí.
+¡No lo aguanto! ¡¡No quiero seguir con
+ese tipo de entrenamiento!!
+
+## POINTER 54 [t:1;user:memnoch;time:1295534546]
+Encuentras <ITEM:00121004>.
+
+## POINTER 56 [t:1;user:memnoch;time:1295534546]
+Encuentras <ITEM:00121004>,
+pero no puedes llevar más.
+
+## POINTER 57 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 58 [t:1;user:memnoch;time:1294956884]
+Parece un lugar para
+guardar jaulas craymel.
+
+## POINTER 60 [t:1;user:memnoch;time:1294851693]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 61 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 62 [t:1;user:memnoch;time:1294956884]
+El <COLOR:0E00>río Rasheans<COLOR:0F00> es
+un atajo a Mintche.
+
+## POINTER 63 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:pacochan;time:1286152373]
+Pero... ¿no está el río
+demasiado agitado?
+
+## POINTER 65 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 66 [t:1;user:memnoch;time:1294851693]
+Ningún problema. Podemos pedir prestados
+los poderes de los craymels de agua.
+
+## POINTER 67 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 68 [t:1;user:memnoch;time:1294851693]
+¿Cray... mel?
+
+## POINTER 69 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 70 [t:1;user:memnoch;time:1294956884]
+<CHARA:REID>, no me digas que no
+sabes lo que es un <COLOR:0D00>craymel<COLOR:0F00>.
+
+## POINTER 71 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 72 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160955081]
+Nunca me ha interesado nada
+que no me llenase el estómago.
+
+## POINTER 73 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 74 [t:1;user:memnoch;time:1294956884]
+Los craymels no son seres materiales.
+Fuego, viento, agua, luz... Residen
+en el interior de las cosas y tienen
+muchas manifestaciones.
+
+## POINTER 75 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 76 [t:1;user:memnoch;time:1294956884]
+Y como Paollo, aquellos que tienen la habilidad
+de controlar a los craymels y sus fenómenos,
+son llamados <COLOR:0D00>magos craymel<COLOR:0F00>, ¿verdad?
+
+## POINTER 77 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 78 [t:1;user:memnoch;time:1294956884]
+Eh, bueno...
+Con un poco de entrenamiento,
+cualquiera con una jaula 
+craymel puede aprender...
+
+## POINTER 79 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 80 [t:1;user:memnoch;time:1294956884]
+¿Eso que tienes en la mano
+es una jaula craymel?
+
+## POINTER 81 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 82 [t:1;user:memnoch;time:1294956884]
+S-Sí.
+Exactamente.
+
+## POINTER 83 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 84 [t:1;user:memnoch;time:1295086778]
+Sellando a los craymels en el interior
+de este cristal craymel, puedes
+realizar diversas artes craymel.
+
+## POINTER 85 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 86 [t:1;user:memnoch;time:1295574302]
+Aah...Ya veo.
+Simplemente introduciendo los craymels ahí...
+
+## POINTER 87 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 88 [t:1;user:memnoch;time:1295086778]
+Hace tiempo, se decía que había
+muchas jaulas craymel, y que muchos
+sabían cómo usar las artes craymel.
+
+## POINTER 89 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 90 [t:1;r:1;ru:pacochan;user:pacochan;time:1161894689]
+Guau...
+
+## POINTER 91 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 92 [t:1;user:memnoch;time:1294956884]
+B-Bien entonces.
+Os estaré esperando en el
+<COLOR:0E00>muelle del río Rasheans<COLOR:0F00>.
+
+## POINTER 93 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 94 [t:1;r:1;ru:pacochan;user:pacochan;time:1161894689]
+Por favor, venid cuando estéis listos.

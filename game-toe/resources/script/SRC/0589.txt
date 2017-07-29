@@ -1,0 +1,327 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163944976]
+Monte Celsius (pico)
+
+## POINTER 2 [t:1;user:memnoch;time:1295534434]
+Encuentras <COLOR:0D00><ITEM:00015701><COLOR:0F00>.
+
+## POINTER 4 [t:1;user:memnoch;time:1295534434]
+Encuentras <ITEM:00015701>,
+pero no puedes llevar más.
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:soywiz;time:1160761207]
+Se ha restaurado el HP.
+
+## POINTER 8 [t:1;user:memnoch;time:1294597257]
+Esto es un punto de carga.
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763299]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡La próxima vez ganaremos!
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+Retirémonos por ahora.
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡Error!
+
+## POINTER 16 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+<8267><8274><826C><826C><8160>
+
+## POINTER 18 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 19 [t:1;user:memnoch;time:1294853181]
+¡El craymel supremo!
+
+## POINTER 20 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 21 [t:1;user:memnoch;time:1294853181]
+Craymel supremo de hielo,
+¿puedes oírme?
+
+## POINTER 22 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 23 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+<8267><8274><826C><826C><8160>
+
+## POINTER 24 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 25 [t:1;user:memnoch;time:1295557703]
+Parece que no.
+
+## POINTER 26 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¿Qué vamos a hacer?
+
+## POINTER 28 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡Baiba!
+
+## POINTER 30 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡¿Eh?!
+
+## POINTER 32 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡¿Efreet?!
+
+## POINTER 34 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¿Qué pasa?
+
+## POINTER 36 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+Efreet
+
+## POINTER 37 [t:1;user:memnoch;time:1295610797]
+Esta canción...
+¿Qué es?
+
+## POINTER 38 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+Efreet
+
+## POINTER 39 [t:1;user:memnoch;time:1294853181]
+¿Eres...
+el craymel supremo de hielo?
+
+## POINTER 40 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:pacochan;time:1167989544]
+¡No te acerques!
+
+## POINTER 42 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 43 [t:1;user:memnoch;time:1294853181]
+¡Oh, oh!
+
+## POINTER 44 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+Efreet
+
+## POINTER 45 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¿Qué pasa?
+
+## POINTER 46 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 47 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡Detente! ¡No te acerques!
+
+## POINTER 48 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+Efreet
+
+## POINTER 49 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡¿Qué?!
+
+## POINTER 50 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+Efreet
+
+## POINTER 51 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¿Estás bien?
+¿Qué te pasa?
+¡¿Estás viva?!
+
+## POINTER 52 [t:1;r:1;ru:pacochan;time:1157722710]
+Gnome
+
+## POINTER 53 [t:1;user:memnoch;time:1295554930]
+¡Oyeeee! Efreet,
+apártate, ¿quieres?
+
+## POINTER 54 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+Efreet
+
+## POINTER 55 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡¿Qué?!
+
+## POINTER 56 [t:1;r:1;ru:pacochan;time:1157722710]
+Gnome
+
+## POINTER 57 [t:1;user:memnoch;time:1295550626]
+¡Das demasiado miedo, Efreet!
+A Celsius no le gustas.
+
+## POINTER 58 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+Efreet
+
+## POINTER 59 [t:1;user:memnoch;time:1294853181]
+¿Q-Qué?
+¿Yo?
+
+## POINTER 60 [t:1;r:1;ru:pacochan;time:1157722710]
+Gnome
+
+## POINTER 61 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+Veamos...
+
+## POINTER 62 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 63 [t:1;user:memnoch;time:1294686835]
+¿Dónde... estoy?
+¿Qué... ha pasado?
+
+## POINTER 64 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 65 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+Debes haber perdido el control...
+Y como puedes ver, el clima
+también está descontrolado.
+
+## POINTER 66 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 67 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+Ya veo...
+Debo haber hecho sufrir
+mucho a los ciudadanos.
+
+## POINTER 68 [t:1;r:1;ru:pacochan;time:1157722710]
+Gnome
+
+## POINTER 69 [t:1;user:memnoch;time:1294853181]
+No es culpa tuya.
+La crisis del mundo de los humanos
+también afecta al de los craymels.
+No es culpa de Celsius.
+
+## POINTER 70 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 71 [t:1;user:memnoch;time:1294853181]
+El Gran Descenso...
+¡¿afecta al mundo de los craymels?!
+
+## POINTER 72 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 73 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡Eso significa que no
+hay tiempo para bromas!
+
+## POINTER 74 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 75 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+Estamos intentando
+detener esta crisis.
+¿Nos ayudarás?
+
+## POINTER 76 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 77 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+Coge este <COLOR:0D00><ITEM:00014001><COLOR:0F00>.
+Puede serte útil.
+
+## POINTER 79 [t:1;user:memnoch;time:1295533997]
+Recibes <COLOR:0D00><ITEM:00014001><COLOR:0F00>.
+
+## POINTER 81 [t:1;r:1;ru:pacochan;user:pacochan;time:1167989545]
+Puedes disparar trozos
+de hielo pulsando <BUTTON:0400>.
+
+## POINTER 82 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 83 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡Gracias!
+
+## POINTER 84 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 85 [t:1;user:memnoch;time:1295557934]
+Me devolvisteis la cordura.
+Me encantará ayudaros.
+
+## POINTER 87 [t:1;user:memnoch;time:1294853246]
+¿Cuál usarás?<OPTION:0000>
+Jaula craymel de <CHARA:MEREDY>
+Jaula craymel de <CHARA:KEELE>
+
+## POINTER 88 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 89 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+Volvamos a la ciudad.
+
+## POINTER 90 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 91 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¡Ya basta de hielo!
+
+## POINTER 92 [t:1;r:1;ru:pacochan;time:1157722710]
+Gnome
+
+## POINTER 93 [t:1;user:memnoch;time:1294853181]
+¡Oye, Celsius!
+Déjame advertirte que no
+es muy cómodo este lugar...
+
+## POINTER 94 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 95 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+¿Por qué?
+
+## POINTER 96 [t:1;r:1;ru:pacochan;time:1157722710]
+Gnome
+
+## POINTER 97 [t:1;r:1;ru:pacochan;user:pacochan;time:1158763229]
+Lo sabrás cuando entremos.
+
+## POINTER 98 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+Efreet
+
+## POINTER 99 [t:1;user:memnoch;time:1295388619]
+¡Eh!
+¿Estás bien, Celsius?
+¡Soy Efreet!
+¡Siéntete como en casa!
+
+## POINTER 100 [t:1;r:1;ru:pacochan;time:1157722710]
+Celsius
+
+## POINTER 101 [t:1;user:memnoch;time:1297462525]
+Apártate de mí...
+
+## POINTER 102 [t:1;r:1;ru:pacochan;time:1157722710]
+Gnome
+
+## POINTER 103 [t:1;user:memnoch;time:1294853181]
+Jo, jo, jo.
+
+## POINTER 104 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 105 [t:1;user:memnoch;time:1294853181]
+Supongo que incluso los craymels
+supremos tienen sus propios problemas.

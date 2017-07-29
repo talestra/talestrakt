@@ -1,0 +1,349 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+Puerto de Peruti
+
+## POINTER 2 [t:1;user:memnoch;time:1294851311]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+Esto es Peruti, la Ciudad Portuaria.
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1167758864]
+¡Gracias a Dios, ya no tenemos
+que llamarla Ciudad del Hielo!
+
+## POINTER 8 [t:1;user:memnoch;time:1295577840]
+Esto es Peruti, la Ciudad Portuaria.
+Es el punto medio para los viajeros
+de los mares interiores y exteriores.
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+¡Eh, chico!
+¡Es un gran barco!
+¿Cómo se llama?
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+El Van Eltia...
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 14 [t:1;user:memnoch;time:1294602564]
+Mmm.
+No es un mal nombre.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+¿Es rápido?
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 18 [t:1;user:memnoch;time:1294602564]
+Es... bastante rápido.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+Bien.
+¡Está decidido!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+¿Eh?
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+¡El desafío definitivo!
+Una competición para determinar las
+habilidades de navegación y la
+superioridad del barco. Se llama...
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+¡<BOLD:0100>Alrededor de Celestia<BOLD:0000>!
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 28 [t:1;user:memnoch;time:1294597798]
+¡Soy el capitán Mach!
+No solo llevo esta competición, ¡sino
+que también tengo el récord mundial!
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+Si no estás seguro de tu
+barco o tus habilidades,
+será mejor que te largues.
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+¡Eh, chico!
+¿Vas a participar?
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+Es el deporte marinero definitivo,
+¡<BOLD:0100>Alrededor de Celestia<BOLD:0000>!
+<OPTION:0000>Participar
+No participar
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1167758865]
+¡De acuerdo!
+¿Quieres que te explique las reglas?
+<OPTION:0000>Claro
+No, gracias
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+La carrera empieza y termina en Peruti.
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+El primero que llegue a Peruti,
+gana. Fácil, ¿verdad?
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+Pero hay algo más.
+Tienes que atravesar los puntos
+de control en el orden correcto.
+Si te los saltas, no podrás ganar.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1160149669]
+Los controles del barco son
+los mismos de siempre.
+Si quieres salir, pulsa <BUTTON:0200>.
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150026]
+Esas son las reglas.
+¿Lo has pillado?
+<OPTION:0000>Sí
+No
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150026]
+¡Empecemos la carrera!
+¡Aborda el Van Eltia!
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150026]
+Me equivoqué contigo...
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150026]
+Creo que me hago viejo...
+
+## POINTER 54 [t:1;user:memnoch;time:1294597798]
+¡El capitán Mach es el marinero
+más rápido del mundo!
+
+## POINTER 56 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150026]
+¡Es tan molón!
+
+## POINTER 58 [t:1;user:memnoch;time:1294597798]
+¿También eres fan
+del capitán Mach?
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:soywiz;time:1160158338]
+Trata de ganar algunas
+piernas de mar reales...
+
+## POINTER 62 [t:1;user:memnoch;time:1294597798]
+¡Antes de volver a competir
+contra el capitán Mach!
+¡Ja, ja, ja!
+
+## POINTER 64 [t:1;user:memnoch;time:1294597798]
+¡El capitán Mach
+es legendario!
+
+## POINTER 66 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150026]
+¡Te vi finalizar la carrera!
+
+## POINTER 68 [t:1;user:memnoch;time:1294597798]
+Te pareces al capitán
+Mach cuando era joven.
+
+## POINTER 70 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150026]
+¡Buena suerte en
+la próxima carrera!
+
+## POINTER 72 [t:1;user:memnoch;time:1294597798]
+¡Cómo has podido!
+¡No puedo creer que superases
+el récord del capitán Mach!
+
+## POINTER 74 [t:1;user:memnoch;time:1294597798]
+¡Mi sueño era desafiar
+al capitán Mach!
+
+## POINTER 76 [t:1;user:memnoch;time:1294597798]
+Enhorabuena...
+
+## POINTER 78 [t:1;user:memnoch;time:1294597798]
+El capitán Mach
+es legendario.
+
+## POINTER 80 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+¡Eh, gracias!
+
+## POINTER 82 [t:1;user:memnoch;time:1295551272]
+¡Gracias a ti,
+por fin podemos
+salir a faenar!
+
+## POINTER 84 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+¡Estoy impaciente por zarpar!
+
+## POINTER 86 [t:1;r:1;ru:pacochan;user:pacochan;time:1167758866]
+¡Vayamos a por una buena captura!
+
+## POINTER 88 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+¡Sí!
+¡Vámonos!
+
+## POINTER 90 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+¡Sí!
+
+## POINTER 92 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+¡Sí!
+
+## POINTER 94 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+¿Soy yo, o el cielo
+está descendiendo
+cada día más?
+
+## POINTER 96 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+Soy yo, ¿verdad?
+
+## POINTER 97 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 98 [t:1;user:memnoch;time:1294597798]
+¡El récord actual es
+<VAR:00100D04><VAR:00100E04>:<VAR:00100F04><VAR:00101004>:<VAR:00101104><VAR:00101204>!
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 100 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+Alabo que no huyeras
+de la carrera, pero...
+
+## POINTER 101 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 102 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+Pero tu barco merece
+un capitán mejor.
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 104 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+Lo hiciste mejor de lo que pensaba.
+
+## POINTER 105 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 106 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+Tu barco también ha trabajado
+duro, ¡trátalo bien!
+
+## POINTER 107 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 108 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+Me has vencido, chico.
+
+## POINTER 109 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 110 [t:1;user:memnoch;time:1294597798]
+¡Vaya récord!
+Eh, chico, ¿eres el capitán?
+
+## POINTER 111 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 112 [t:1;user:memnoch;time:1295631065]
+Eh... no.
+Supongo que es 
+<CHARA:CHAT> quien lo es.
+
+## POINTER 113 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 114 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+Da igual quien sea.
+¡Voy a conceder un
+título a <CHARA:CHAT>!
+
+## POINTER 116 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993706]
+<CHARA:CHAT> ha obtenido el
+título de <COLOR:0D00>Primer Oficial<COLOR:0F00>.
+
+## POINTER 117 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 118 [t:1;user:memnoch;time:1294683220]
+Por fin me puedo retirar.
+Je, je, je...
+
+## POINTER 119 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 120 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+¡Cualquiera que huya en medio
+de una carrera no tiene nada
+que hacer en el mar!
+
+## POINTER 121 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Mach
+
+## POINTER 122 [t:1;r:1;ru:pacochan;user:pacochan;time:1160150875]
+Vuelve cuando estés listo.

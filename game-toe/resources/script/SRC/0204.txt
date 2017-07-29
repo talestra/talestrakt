@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157732007]
+Tienda de Objetos
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157732007]
+Sueños Dorados
+
+## POINTER 3 [t:1;user:memnoch;time:1295088320]
+¿Conoces los
+<COLOR:0D00>cristales craymel<COLOR:0F00>?
+<OPTION:0000>Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163116661]
+¿Ya los conoce
+todo el mundo?
+
+## POINTER 7 [t:1;user:memnoch;time:1295088320]
+Hay de todos los tipos,
+como <COLOR:0D00>cristales de agua<COLOR:0F00>
+y <COLOR:0D00>cristales de viento<COLOR:0F00>...
+
+## POINTER 9 [t:1;user:memnoch;time:1295088320]
+Si los usas en tu
+jaula craymel, podrás aumentar
+la vitalidad de los craymels.
+
+## POINTER 11 [t:1;user:memnoch;time:1295209285]
+¡ADVERTENCIA!
+La ley imperial prohíbe terminantemente
+la venta de pomos llameantes a menores
+de edad.
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:pacochan;time:1163260726]
+¡Disponemos de diversos artículos!
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157732231]
+Aquí hay un pequeño extra para ti.
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163241220]
+Has recibido <ITEM:00120004>.
+
+## POINTER 19 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157732231]
+¡Muchísimas gracias!
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;user:airis;time:1157732231]
+En ocasiones es bueno ser moderado.

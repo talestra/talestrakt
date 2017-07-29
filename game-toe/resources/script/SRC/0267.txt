@@ -1,0 +1,87 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160230936]
+Tienda de Armas
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167967391]
+Pikmin-ator
+
+## POINTER 3 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1160230936]
+Esto es una tienda de armas.
+
+## POINTER 4 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Widdok
+
+## POINTER 5 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1160230974]
+¿Quieres que te aconseje
+sobre técnicas de lucha?
+
+## POINTER 7 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1160230936]
+<OPTION:0000>Sí
+No
+
+## POINTER 8 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Widdok
+
+## POINTER 9 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1160230936]
+¿Revisas los números que aparecen 
+cuando la batalla termina?
+
+## POINTER 10 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Widdok
+
+## POINTER 11 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166781629]
+MEDIA indica la <COLOR:0D00>duración
+media de batalla<COLOR:0F00>.
+
+## POINTER 12 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Widdok
+
+## POINTER 13 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166781629]
+PTS es tu puntuación en las
+<COLOR:0D00>habilidades de batalla<COLOR:0F00> en una
+escala hasta 100. Cuanto más
+alto sea, mejor eres tú.
+
+## POINTER 14 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+Widdok
+
+## POINTER 15 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1160230936]
+Es tu vida.
+Eres libre de elegir tu
+propio estilo de lucha.
+
+## POINTER 17 [t:1;user:memnoch;time:1295488801]
+¡Recuerda que un ataque
+es la mejor defensa!
+
+## POINTER 19 [t:1;user:memnoch;time:1295574200]
+¡Aah, tienes buen ojo
+para la calidad!
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160230936]
+Te recomiendo que
+lo compres...
+
+## POINTER 23 [t:1;r:1;ru:pacochan;user:pacochan;time:1166781630]
+¡Deberías pensar en la 
+armadura antes que en las
+armas!
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160230936]
+¡Estoy seguro de que
+lucirá genial sobre ti!
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160230936]
+¿No te arrepentirás después?
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160230936]
+Incluso la mejor arma
+no tendrá utilidad en 
+manos de un incompetente.
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:pacochan;time:1166781630]
+Por esa razón, no
+aceptamos devoluciones.
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160230936]
+Serpiente Rellena
+(Puede ser usada como bastón)

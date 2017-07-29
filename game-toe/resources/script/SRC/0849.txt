@@ -1,0 +1,80 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159554]
+Sala de Control, Van Eltia Fase 2, Muelle 3
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166757079]
+Puente de Mando
+
+## POINTER 2 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+Lo siento. Llego
+un poco tarde.
+
+## POINTER 4 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+No te preocupes por eso.
+
+## POINTER 6 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+Por cierto, ¿has acabado
+tu investigación?
+
+## POINTER 8 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+...Sí.
+
+## POINTER 10 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+¿Y qué pasa con Galenos?
+
+## POINTER 12 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+¡Dijo que el resto
+dependía de nosotros!
+
+## POINTER 14 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166757134]
+Bien, vámonos.
+¡¿Estáis listos?!
+
+## POINTER 16 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+¡Sí!
+
+## POINTER 18 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+¡Ajá!
+
+## POINTER 20 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 21 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+¡Por supuesto!
+
+## POINTER 22 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158159523]
+¡A toda máquina!
+
+## POINTER 25 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166757134]
+¿Quieres partir?<OPTION:0000>
+Sí
+No

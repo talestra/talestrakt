@@ -1,0 +1,137 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1164425103]
+Tinnsia 5
+
+## POINTER 2 [t:1;user:memnoch;time:1295388766]
+Oye, ¿has notado eso?
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159399774]
+Parece como si el suelo
+estuviera temblando, pero...
+
+## POINTER 6 [t:1;r:2;ru:Lobap,evilluendas;user:evilluendas;time:1159399774]
+¿Es mi imaginación?
+
+## POINTER 8 [t:1;r:2;ru:Lobap,evilluendas;user:pacochan;time:1160128789]
+Cuando tenga diez años,
+también me uniré a Shileska.
+
+## POINTER 10 [t:1;r:2;ru:Lobap,evilluendas;user:pacochan;time:1160147786]
+¡No puedo esperar
+a mi cumpleaños!
+
+## POINTER 12 [t:1;r:2;ru:Lobap,evilluendas;user:pacochan;time:1160147786]
+¿Has oído hablar de los Gatoz?
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166956145]
+Me pregunto si son
+personas que parecen
+gatos o es al revés.
+
+## POINTER 16 [t:1;r:2;ru:Lobap,evilluendas;user:pacochan;time:1160147786]
+Me encantaría conocerlos...
+
+## POINTER 18 [t:1;r:2;ru:Lobap,evilluendas;user:evilluendas;time:1159399774]
+¿Qué estás haciendo?
+
+## POINTER 20 [t:1;r:2;ru:Lobap,evilluendas;user:evilluendas;time:1159399774]
+Si tienes el <ITEM:00014901>,
+puedes entrar en el escondite.
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160869801]
+He oído que sois bastante hábiles.
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160869801]
+Cuento con vosotros.
+
+## POINTER 26 [t:1;r:2;ru:Lobap,evilluendas;user:evilluendas;time:1159399774]
+Lo hicisteis genial.
+
+## POINTER 28 [t:1;r:2;ru:Lobap,evilluendas;user:soywiz;time:1160143509]
+El enemigo era demasiado fuerte.
+
+## POINTER 30 [t:1;r:2;ru:Lobap,evilluendas;user:soywiz;time:1160143509]
+Shileska ha dejado de ser
+una organización clandestina.
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160143509]
+Parece que mis
+obligaciones
+terminan aquí.
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;user:memnoch;time:1295382364]
+Oye, ¿dónde está <CHARA:CHAT>?
+
+## POINTER 35 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 36 [t:1;user:memnoch;time:1294854192]
+Probablemente esté en el <COLOR:0E00>muelle<COLOR:0F00>
+supervisando la instalación del
+cañón craymel.
+
+## POINTER 37 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 38 [t:1;user:memnoch;time:1294854192]
+Ella es el <COLOR:0D00>capitán<COLOR:0F00>
+del Van Eltia, después de todo.
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166956295]
+¿Pa dónde creéis que estáis yendo?
+No podéis ir ahí sin permiso.
+
+## POINTER 42 [t:1;user:memnoch;time:1294602473]
+¿Mmm?
+
+## POINTER 44 [t:1;user:memnoch;time:1294602473]
+¡¿Es un... <ITEM:00014901>?!
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160143509]
+¡Miacis de corazón!
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159399774]
+Seguidme.
+
+## POINTER 49 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159399774]
+¡De acuerdo!
+
+## POINTER 51 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 52 [t:1;user:memnoch;time:1294602473]
+¿Este es el escondite?
+
+## POINTER 53 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 54 [t:1;user:memnoch;time:1295567003]
+No os habéis dejado
+nada, ¿verdad?
+
+## POINTER 55 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160143509]
+¿Nos dejamos algo?
+No va a ser precisamente un
+viaje de placer, ya sabéis.
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159399774]
+Es importante estar preparado.
+
+## POINTER 59 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166956373]
+¡En cualquier caso,
+vamos a ver a <CHARA:MAX>!
+Podemos prepararnos después.

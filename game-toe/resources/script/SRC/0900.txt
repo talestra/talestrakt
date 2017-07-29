@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,soywiz;user:evilluendas;time:1161626712]
+Mapa general de los Bosques de Celestia
+
+## POINTER 2 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1160743030]
+Soy un soldado sin nombre.
+Te enseñaré un comando.
+
+## POINTER 4 [t:1;user:memnoch;time:1295571945]
+<CHARA:REID> aprende el comando
+<COLOR:0D00>Ataque rápido<COLOR:0F00>.
+
+## POINTER 6 [t:1;user:memnoch;time:1295636858]
+Usando habilidades que pueden
+ejecutarse rápida y consecutivamente,
+ganarás batallas eficientemente aún
+cuando esas habilidades no sean
+particularmente potentes usándose
+solas.
+
+## POINTER 8 [t:1;user:memnoch;time:1295571945]
+Esta es la estrategia del
+<COLOR:0D00>Ataque rápido<COLOR:0F00>.
+
+## POINTER 10 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1160743071]
+Soy un soldado sin nombre.
+Te enseñaré un comando.
+
+## POINTER 12 [t:1;user:memnoch;time:1295571945]
+<CHARA:REID> aprende el comando
+<COLOR:0D00>Ataque precoz<COLOR:0F00>.
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,soywiz;user:evilluendas;time:1166567073]
+Cuando te enfrentes a muchos enemigos 
+débiles, esto te ayudará a eliminarlos 
+sin tener que utilizar técnicas especiales.
+
+## POINTER 16 [t:1;user:memnoch;time:1295571945]
+Esa es la estrategia del
+<COLOR:0D00>Ataque precoz<COLOR:0F00>.
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 18 [t:1;user:memnoch;time:1295571945]
+¡Lo he encontrado!
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 20 [t:1;user:memnoch;time:1294687915]
+Este es el monumento
+que dejó mi bisabuelo.
+¡No lo cuestionéis!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 22 [t:1;r:1;ru:soywiz;user:soywiz;time:1167955457]
+¡Incluso los números
+inscritos coinciden!
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,soywiz;user:evilluendas;time:1161626713]
+Me pregunto qué será.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 26 [t:1;user:memnoch;time:1295571945]
+!!Es el <COLOR:0D00>Pico de la Venganza<COLOR:0F00>!!
+Es una de las siete herramientas
+fundamentales de los piratas.
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 28 [t:1;user:memnoch;time:1295571945]
+¡Este es el único
+que todavía no tengo!
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:CHAT>
+
+## POINTER 30 [t:1;user:memnoch;time:1295634382]
+¡Mi bisabuelo nos
+ha mostrado la luz!
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,soywiz;user:evilluendas;time:1161626713]
+Yupiii.
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,soywiz;time:1157722708]
+Has encontrado el Pico de la Venganza.
+
+## POINTER 35 [t:1;r:2;ru:evilluendas,soywiz;user:pacochan;time:1157724605]
+global1: <VAR:00114C00>

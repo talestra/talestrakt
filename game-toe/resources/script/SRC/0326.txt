@@ -1,0 +1,179 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161159602]
+Monte Farlos 7 / <VAR:00114C00>
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161159602]
+*¡Jadeo!*
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174439413]
+¡¿La ves?!
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174439413]
+¡Mirad esta roca volcánica!
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 8 [t:1;user:memnoch;time:1295382740]
+¿Has visto cómo el elemento de piedra
+craymel forma un patrón arremolinado?
+¡Es un estado extremadamente raro!
+¡Es la primera vez que veo
+un espécimen de este tipo!
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 10 [t:1;user:memnoch;time:1295488528]
+¡Oye, que estamos buscando a
+<CHARA:FARAH>, ¿recuerdas?!
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 12 [t:1;user:memnoch;time:1295488528]
+¡Eh, <CHARA:KEELE>!
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110509]
+¡¡Es <CHARA:FARAH>!!
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110509]
+<BOLD:0100>¡¡<CHARA:FARAH>!!<BOLD:0000>
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110509]
+<BOLD:0100>¡¡<CHARA:FARAH>!!<BOLD:0000>
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 20 [t:1;user:memnoch;time:1295381344]
+<BOLD:0100>¡<CHARA:REID>! <8140> ¡<CHARA:KEELE>!
+¡¡<CHARA:MEREDY>!! ¿Estáis todos bien?<BOLD:0000>
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110509]
+<BOLD:0100>¡No te preocupes por nosotros!
+¿Estás tú bien?<BOLD:0000>
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110509]
+<BOLD:0100>¡Mirad quién me salvó!<BOLD:0000>
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 26 [t:1;user:memnoch;time:1294956686]
+¿No es ese el tipo de
+la caverna de Sylph?
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110509]
+Sí, es ese mercader,
+<CHARA:RAS>.
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110509]
+<BOLD:0100>¡<CHARA:RAS>!
+¿Has vuelto?<BOLD:0000>
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1166981490]
+<BOLD:0100>¡Nos cruzamos de casualidad!
+¡Resulta que <CHARA:RAS> también estaba
+en las montañas!<BOLD:0000>
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:pacochan;time:1166981490]
+De casualidad, eh...
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161159602]
+<BOLD:0100>¿Cómo podemos
+llegar hasta allí?<BOLD:0000>
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:RAS>
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160776426]
+<BOLD:0100>¡No creo que podáis con
+estas condiciones del terreno!<BOLD:0000>
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:RAS>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110903]
+<BOLD:0100>¡Vayamos todos a la cima!
+¡Ya nos encontraremos allí!<BOLD:0000>
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110903]
+<BOLD:0100>¿Cómo puedes estar
+tan seguro?<BOLD:0000>
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:RAS>
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161159602]
+<BOLD:0100>¡Vengo aquí a menudo
+en busca de tesoros
+ancestrales!<BOLD:0000>
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110903]
+<BOLD:0100>¡No os preocupéis por mí!
+¡Nos encontraremos arriba!<BOLD:0000>
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110903]
+¿No parece ese tipo
+terriblemente sospechoso?
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110903]
+De cualquier forma...
+Será mejor que vayamos a la cima...
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160110903]
+Cierto.

@@ -1,0 +1,78 @@
+## POINTER 0 [t:1;r:1;ru:soywiz;user:soywiz;time:1166971307]
+Tienda Estudiantil
+
+## POINTER 2 [t:1;user:memnoch;time:1295532987]
+Esta es la Tienda Estudiantil.
+
+## POINTER 3 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722707]
+Widdok
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125431]
+¿Quieres que te aconseje
+sobre técnicas de lucha?
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125431]
+<OPTION:0000>Sí
+No
+
+## POINTER 7 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722707]
+Widdok
+
+## POINTER 8 [t:1;r:1;ru:soywiz;user:soywiz;time:1165457241]
+Es posible encadenar ataques
+básicos en combos pulsando
+repetidamente el botón <BUTTON:6400>.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722707]
+Widdok
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026986]
+<CHARA:REID> puede combinar tres tipos de 
+ataque: <COLOR:0D00>Corte<COLOR:0F00>, <COLOR:0D00>Estocada<COLOR:0F00> y <COLOR:0D00>Corte Alto<COLOR:0F00>
+para realizar un Combo de 3 Golpes.
+
+## POINTER 11 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722707]
+Widdok
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125431]
+Es tu vida. 
+Eres libre de elegir tu
+propio estilo de lucha.
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125431]
+Vendemos espadas, hachas
+y lanzas en esta tienda.
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026986]
+Las hachas son buenas para cortar.
+Las lanzas llegan lejos y son buenas
+para estocadas. Las espadas están
+equilibradas entre ambas.
+
+## POINTER 18 [t:1;user:memnoch;time:1294592067]
+Mmm... ¿Cuál debería comprar?
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+Vendemos todo tipo de cosas...
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+Gracias.
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+No hay nada malo en ser frugal.
+
+## POINTER 26 [t:1;user:memnoch;time:1294592067]
+No nos quedan diccionarios de
+mélnico y no esperamos recibir
+más en un futuro próximo.
+
+## POINTER 27 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¿Qué es esto?
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026986]
+¡¡Disculpa!!
+¡Si lo tocas, 
+lo compras!

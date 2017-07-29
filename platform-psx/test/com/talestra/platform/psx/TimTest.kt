@@ -4,11 +4,13 @@ import com.soywiz.korim.bitmap.Bitmap
 import com.soywiz.korim.bitmap.Bitmap32
 import com.soywiz.korim.format.ImageFormat
 import com.soywiz.korim.format.readBitmap
+import com.soywiz.korim.format.showImageAndWait
 import com.soywiz.korio.async.sync
 import com.soywiz.korio.async.syncTest
 import com.soywiz.korio.vfs.ResourcesVfs
 import com.soywiz.korio.vfs.VfsFile
 import org.junit.Assert
+import org.junit.Ignore
 import org.junit.Test
 
 class TimTest {
@@ -22,6 +24,12 @@ class TimTest {
 		//Thread.sleep(10000L)
 		Assert.assertTrue(Bitmap32.matches(image, expectedImage, 1))
 		Unit
+	}
+
+	@Test
+	@Ignore("interactive")
+	fun name2(): Unit = syncTest {
+		showImageAndWait(ResourcesVfs["test.tim"].readBitmap())
 	}
 }
 

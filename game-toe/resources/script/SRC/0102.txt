@@ -1,0 +1,778 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993569]
+Univ. de Mintche (Exam. Fácil)
+
+## POINTER 2 [t:1;user:memnoch;time:1286289296]
+¡A los estudiantes que pille
+copiando durante el examen
+serán expulsados inmediatamente!
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Oficina de Preparación de Exámenes
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+Ésta es la Sala de Exámenes
+para Principiantes.
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1286150531]
+Parece que ya has hecho el
+Examen para Principiantes.
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+¿Te gustaría hacer el
+Examen de Principiantes?
+<OPTION:0000>Sí
+No
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349217]
+Perfecto.
+¡Que tengas suerte!
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349217]
+Vuelve cuando
+hayas estudiado.
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349217]
+Hola.
+Te leeré las preguntas
+del examen.
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349217]
+¿Estás listo? 
+<OPTION:0000>Sí
+No
+
+## POINTER 19 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡Bien, comencemos!
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Pregunta <VAR:00120004>.
+
+## POINTER 23 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+¿Cuál de estos títulos no ha
+sido producido por Namco?
+
+## POINTER 25 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726548]
+<OPTION:0000>Mr. Driller
+Fighting Calibur
+Tekken
+Tekken 2
+
+## POINTER 27 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+¿Cuál de estos títulos no ha
+sido producido por Namco?
+
+## POINTER 29 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Tekken
+Ridge Racer
+Point Blank
+Tales of Dragon
+
+## POINTER 31 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349217]
+¿Qué personaje es la
+mascota oficial de Namco?
+
+## POINTER 33 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Wasabi
+Zig
+Doug
+Pac-Man
+
+## POINTER 35 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349217]
+¿Qué personaje no
+pertenece a la lista?
+
+## POINTER 37 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Stahn Aileron
+Jin Kazama
+Ling Xiaoyu
+Hwoarang
+
+## POINTER 39 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿Qué juego no
+pertenece a la lista?
+
+## POINTER 41 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Ridge Racer V
+Tekken Tag Tournament
+MotoGP
+Air Combat
+
+## POINTER 43 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 44 [t:1;user:memnoch;time:1295652682]
+¿Cuál de estos juegos no apareció
+en Namco Museum Vol. 3?
+
+## POINTER 45 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Galaxian
+Dig Dug
+Mr. Driller
+Ms. Pac-Man
+
+## POINTER 47 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 48 [t:1;user:memnoch;time:1295652682]
+¿Cuál de estos juegos no apareció
+en Namco Museum Vol. 3?
+
+## POINTER 49 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Klonoa
+The Tower of Druaga
+Pole Position II
+Phozon
+
+## POINTER 51 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿Cuál de estos elementos
+no pertenece a la lista?
+
+## POINTER 53 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Crisis Zone
+Target Zone
+Point Blank
+Point Blank 2
+
+## POINTER 55 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 56 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+¿Cuál de estos juegos no es
+un arcade exitoso de Namco?
+
+## POINTER 57 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Ridge Racer V
+Dragon Valor
+Quick & Crash
+Tekken 3
+
+## POINTER 59 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿De qué color es la cinta de
+la cabeza de la Sra. Pac-Man?
+
+## POINTER 61 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+<OPTION:0000>Rosa
+Amarillo
+Verde
+Azul
+
+## POINTER 63 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+¿De qué color son los
+ojos de la Sra. Pac-Man?
+
+## POINTER 65 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+<OPTION:0000>Marrones
+Azules
+Color avellana
+Negros
+
+## POINTER 67 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 68 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿De qué color son
+los ojos de Pac-Man?
+
+## POINTER 69 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 70 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+<OPTION:0000>Marrones
+Color avellana
+Negros
+Azules
+
+## POINTER 71 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 72 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¿Quién es la hermana de Stahn?
+
+## POINTER 73 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Lilian
+Lilith
+Alice
+Adrian
+
+## POINTER 75 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 76 [t:1;user:pacochan;time:1286150822]
+¿Cuál es el nombre de la bioaleación
+encontrada en Montaña de Basura?
+
+## POINTER 77 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:pacochan;time:1286150822]
+<OPTION:0000>Bersach
+Belselio
+Berselius
+Berseau
+
+## POINTER 79 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 80 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+¿Quién estimuló el
+odio en Junkland?
+
+## POINTER 81 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Philia
+Rutee
+Leon
+Chelsea
+
+## POINTER 83 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 84 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+Cuando Karyl apareció en Moreau,
+dijo que la Gente le llamaba <819B><819B>.
+
+## POINTER 85 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 86 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>Blue Lightning
+Nightmare
+The Traditionalist
+Love Seeker
+
+## POINTER 87 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 88 [t:1;r:1;ru:pacochan;user:pacochan;time:1286149553]
+¿Cuántas puertas se pueden abrir con
+las Swordians en el Templo Oculto?
+
+## POINTER 89 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 90 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>1
+2
+3
+4
+
+## POINTER 91 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 92 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿A cuál de estas ciudades
+está unido el ascensor 
+antigravedad de Radisrol?
+
+## POINTER 93 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 94 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Cresta
+Junkland
+Heidelberg
+Darilsheid
+
+## POINTER 95 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 96 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+De las muchas tiendas que migraron
+de Darilsheid a Radisrol, ¿cuál
+fue la primera en establecerse?
+
+## POINTER 97 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 98 [t:1;user:memnoch;time:1295211522]
+<OPTION:0000>Posada
+Tienda de armas
+Tienda de armaduras
+Tienda de equipamiento
+
+## POINTER 99 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 100 [t:1;r:1;ru:soywiz;user:pacochan;time:1162062526]
+¿Qué suele decir Rembrandt
+de Mikheil?
+
+## POINTER 101 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+<OPTION:0000>Lo siento
+Ji, ji.
+¡Venga!
+Es un placer
+
+## POINTER 103 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 104 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿Qué le pasó a Marian
+en Mikheil?
+
+## POINTER 105 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 106 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+<OPTION:0000>Murió
+Escapó en la cápsula de arriba
+Escapó en la cápsula de abajo
+Saltó
+
+## POINTER 107 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 108 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿Qué pidió Alba para que
+Chelsea volviera?
+
+## POINTER 109 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 110 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+<OPTION:0000>Coser botones en sus pantalones
+Ayudarla a bañarse
+Preparar la cena
+Llevar un paquete
+
+## POINTER 111 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 112 [t:1;r:1;ru:pacochan;user:pacochan;time:1162062526]
+En el castillo, ¿qué objeto
+poseído por el grupo de Stahn
+era usado como faro direccional?
+
+## POINTER 113 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 114 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+<OPTION:0000>Esposas
+Grilletes
+Pendientes
+Diadema
+
+## POINTER 115 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 116 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿De los 7 Generales de Seinegald,
+quién es la única General que es mujer?
+
+## POINTER 117 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 118 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726440]
+<OPTION:0000>Isard
+Dryden
+Melina
+Ashley
+
+## POINTER 119 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 120 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161349218]
+¿Cuál es el nombre del navío
+que reside en Aquaveil?
+
+## POINTER 121 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Chelsea
+
+## POINTER 122 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+<OPTION:0000>El Navío de la Cruz Blanca
+El Navío de la Cruz Negra
+El Navío de la Cruz Roja
+El Navío de la Cruz Azul
+
+## POINTER 123 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 124 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¿Qué objeto se necesita en el
+Río Congelado del norte de Snowfria?
+
+## POINTER 125 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 126 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+<OPTION:0000>Capa Llameante
+Capa de Agua
+Capa de Ladrón
+Capa de Piel
+
+## POINTER 127 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 128 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¿Qué es lo que revela Baruk en Cloudius
+sobre sus intenciones para el mundo?
+
+## POINTER 129 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 130 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+<OPTION:0000>Conseguir todas las Swordian
+Destruir el mundo
+Convertirse en rey
+Cosechar los campos
+
+## POINTER 131 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 132 [t:1;r:1;ru:pacochan;user:pacochan;time:1286151805]
+¿Cuál es el nombre del dragón marino
+que llevó a Philia a dar una vuelta?
+
+## POINTER 133 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 134 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>Bernardo
+Belcrant
+Belselium
+Berselius
+
+## POINTER 135 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 136 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¿Cuál es el título de Philia
+en el Templo de Straylize?
+
+## POINTER 137 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 138 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+<OPTION:0000>Sumo Sacerdote
+Sacerdotisa
+Obispo
+Papa
+
+## POINTER 139 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 140 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¿Cuál es el minijuego que
+se juega en Cherik?
+
+## POINTER 141 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 142 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>Hopscotch
+Tug-of-war
+Tag
+Blackjack
+
+## POINTER 143 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<VAR:00101D04001200040F30>
+
+## POINTER 145 [t:1;r:1;ru:evilluendas;time:1157722710]
+Error
+
+## POINTER 146 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 147 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Ya te das por vencido?
+
+## POINTER 148 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 149 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Correcto!
+
+## POINTER 150 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 151 [t:1;r:1;ru:evilluendas;time:1157722710]
+Error.
+
+## POINTER 152 [t:1;r:1;ru:pacochan;user:pacochan;time:1168046472]
+De <VAR:00120004> preguntas, has acertado <VAR:00101C04>.
+
+## POINTER 153 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 154 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡0 puntos!
+
+## POINTER 155 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 156 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Te lo estás tomando en serio?
+
+## POINTER 157 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 158 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¡Increíble!
+¡Has respondido todas las
+preguntas correctamente!
+
+## POINTER 159 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 160 [t:1;user:memnoch;time:1294856842]
+¡Por el poder que me ha concedido el
+Presidente de la universidad de Mintche,
+yo te entrego este título y este objeto!
+
+## POINTER 161 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 162 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¡Eso demuestra que puedes
+hacerlo si lo intentas!
+
+## POINTER 164 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993557]
+<CHARA:REID> ha obtenido
+el título de <COLOR:0D00>Profesor de Namco<COLOR:0F00>.
+
+## POINTER 166 [t:1;r:1;ru:evilluendas;time:1157722710]
+Recibes <ITEM:0300>.
+
+## POINTER 167 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 168 [t:1;r:1;ru:pacochan;user:pacochan;time:1168046472]
+De <VAR:0012000401003230> preguntas, has acertado <VAR:00101C04>.
+
+## POINTER 169 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 170 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¡Trata de hacerlo mejor
+la próxima vez!
+
+## POINTER 171 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 172 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+Yo me voy a ir ahora. 
+¡No quiero que mi abuelo
+se preocupe por mí!
+
+## POINTER 173 [t:1;r:1;ru:evilluendas;time:1157722710]
+Chelsea
+
+## POINTER 174 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¡No olvides intentarlo en otra
+ocasión!
+
+## POINTER 176 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+Hola. Yo te leeré las preguntas
+del examen.
+
+## POINTER 178 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¿Estás listo?
+<OPTION:0000>Sí
+No
+
+## POINTER 180 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Empecemos pues!
+
+## POINTER 182 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Pregunta <VAR:00120004>!
+
+## POINTER 184 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Quién es la hermana de Stahn?
+
+## POINTER 186 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>Lilian
+Lilith
+Alice
+Adrian
+
+## POINTER 188 [t:1;r:1;ru:pacochan;user:pacochan;time:1286150822]
+¿Cuál es el nombre de la bioaleación
+encontrada en Montaña de Basura?
+
+## POINTER 190 [t:1;r:1;ru:pacochan;user:pacochan;time:1286150822]
+<OPTION:0000>Bersach
+Berseau
+Berselius
+Belselio
+
+## POINTER 192 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Quién estimuló el odio en Junkland?
+
+## POINTER 194 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>Philia
+Rutee
+Leon
+Chelsea
+
+## POINTER 196 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿En qué juego ha trabajado Producciones I.G.?
+
+## POINTER 198 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>Air Combat 3
+R4
+Tekken3
+The Never Ending Game
+
+## POINTER 200 [t:1;r:1;ru:pacochan;user:pacochan;time:1286149553]
+¿Cuántas puertas se pueden abrir con
+las Swordians en el Templo Oculto?
+
+## POINTER 202 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>1
+2
+3
+4
+
+## POINTER 204 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¿A cuál de estas ciudades está unido
+el ascensor antigravedad de Radisrol?
+
+## POINTER 206 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>Cresta
+Junkland
+Heidelberg
+Darilsheid
+
+## POINTER 208 [t:1;user:memnoch;time:1297459419]
+En el castillo, ¿qué objeto
+poseído por el grupo de Stahn
+era usado como baliza de dirección?
+
+## POINTER 210 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+<OPTION:0000>Unas esposas
+Unos grilletes
+Un pendiente
+Una diadema
+
+## POINTER 212 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+De los 7 Generales de Seinegald,
+¿quién es la única mujer General?
+
+## POINTER 214 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<OPTION:0000>Isard
+Dryden
+Melina
+Ashley
+
+## POINTER 215 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726440]
+<VAR:00101D04001200040F30>
+
+## POINTER 217 [t:1;r:1;ru:evilluendas;time:1157722710]
+Error
+
+## POINTER 219 [t:1;r:1;ru:evilluendas;time:1157722710]
+Has cancelado la prueba.
+
+## POINTER 221 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Correcto!
+
+## POINTER 223 [t:1;r:1;ru:evilluendas;time:1157722710]
+Lo siento, eso está mal.
+
+## POINTER 224 [t:1;r:1;ru:pacochan;user:pacochan;time:1168046472]
+De <VAR:00120004> preguntas, has acertado <VAR:00101C04>.
+
+## POINTER 226 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡0 puntos!
+
+## POINTER 228 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Te lo estás tomando en serio?
+
+## POINTER 230 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¡Increíble!
+¡Has respondido todas las
+preguntas correctamente!
+
+## POINTER 232 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161349218]
+¡Eso demuestra que puedes
+hacerlo si lo intentas!
+
+## POINTER 234 [t:1;r:1;ru:pacochan;user:pacochan;time:1168046472]
+De <VAR:0012000401003230> preguntas, has acertado <VAR:00101C04>.
+
+## POINTER 236 [t:1;r:1;ru:pacochan;user:pacochan;time:1168046472]
+¡Inténtalo hacerlo mejor la próxima vez!
+
+## POINTER 238 [t:1;r:1;ru:evilluendas;time:1157722710]
+Yo me iré ahora.
+
+## POINTER 240 [t:1;r:1;ru:pacochan;user:pacochan;time:1168046472]
+¡No olvides intentarlo
+en otra ocasión!

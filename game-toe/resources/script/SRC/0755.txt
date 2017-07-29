@@ -1,0 +1,181 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;time:1157722708]
+<836C><838C><8343><8368><82CC>–À‹{ 0<VAR:0012B804> [<VAR:00115000>/<VAR:00114E00>]
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;time:1157722708]
+<836C><838C><8343><8368><82CC>–À‹{ <VAR:0012B804> [<VAR:00115000>/<VAR:00114E00>]
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+<OPTION:0000>Has encontrado <ITEM:00129004>.
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+<OPTION:0000>Has encontrado <ITEM:00129004>,
+pero no puedes llevar más.
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+Selecciona el personaje que
+quieres usar en este piso.
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+<OPTION:0000><CHARA:0012A00400000F30>
+<CHARA:0012A00401000F30>
+<CHARA:0012A00402000F30>
+Siguiente
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+<OPTION:0000><CHARA:0012A00400000F30>
+<CHARA:0012A00401000F30>
+<CHARA:0012A00402000F30>
+<CHARA:0012A00403000F30>
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+<OPTION:0000><CHARA:0012A00400000F30>
+<CHARA:0012A00401000F30>
+<CHARA:0012A00402000F30>
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+<OPTION:0000><CHARA:0012A00400000F30>
+<CHARA:0012A00401000F30>
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+<OPTION:0000><CHARA:0012A00403000F30>
+<CHARA:0012A00404000F30>
+<CHARA:0012A00405000F30>
+Atrás
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+<OPTION:0000><CHARA:0012A00403000F30>
+<CHARA:0012A00404000F30>
+Atrás.
+
+## POINTER 21 [t:1;r:1;ru:evilluendas;time:1157722708]
+<CHARA:0012A00400000F30> se enfrentará a este piso.
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;time:1157722708]
+Laberinto de Nereid 17
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163963080]
+Régulus
+
+## POINTER 24 [t:1;r:1;ru:soywiz;user:soywiz;time:1167961967]
+Restauraré vuestras fuerzas.
+
+## POINTER 26 [t:1;r:1;ru:soywiz;user:evilluendas;time:1163963080]
+Estáis completamente restaurados.
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+Has encontrado <ITEM:00015401>.
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+Has encontrado <ITEM:00015401>,
+pero no puedes llevar más.
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163963080]
+¿Quieres salir de la mazmorra?<OPTION:0000>
+Sí
+No
+
+## POINTER 34 [t:1;user:memnoch;time:1294683198]
+Je, je, je....
+
+## POINTER 35 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 36 [t:1;r:1;ru:evilluendas;time:1157722708]
+¡¿Quién eres?!
+
+## POINTER 38 [t:1;user:memnoch;time:1297462715]
+¿Desde cuándo los rasheanos
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;time:1157722708]
+son tan maleducados?
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 42 [t:1;user:memnoch;time:1294683198]
+¿Quién... eres?
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163963081]
+Siempre y cuando os preocupe
+salvar vuestros pellejos,
+¡no podréis derrotarme!
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;time:1157722708]
+¡Nada de vuestro alrededor es real!
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+¡¡Sentid la angustia de vuestros
+débiles y mortales cuerpos!!
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+¡¿Todavía no entendéis lo
+débiles y lamentables que sois?!
+
+## POINTER 52 [t:1;user:memnoch;time:1297493612]
+¿Por qué preocuparse de un cuerpo muerto?
+
+## POINTER 53 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;user:memnoch;time:1295219141]
+Se parecía a...
+la estatua de bronce
+en el bosque de Rasheans...
+
+## POINTER 55 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163963081]
+Me enseñaron que Régulus se
+sacrificó para proteger el mundo...
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;time:1157722708]
+Tal vez sea literalmente cierto...
+
+## POINTER 59 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+Qué terrible...
+
+## POINTER 61 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;time:1157722708]
+Su vida no fue una completa pérdida.
+
+## POINTER 63 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+Sé que PODEMOS
+derrotar a <CHARA:SHIZEL>.
+
+## POINTER 65 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+¿Cómo puedes
+estar tan seguro?
+
+## POINTER 67 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 68 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+¡Simplemente lo sé!
+
+## POINTER 69 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165748327]
+Claro.
+¡Ningún problema!
+
+## POINTER 71 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;time:1157722708]
+¡Derrotemos a <CHARA:SHIZEL>!

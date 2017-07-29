@@ -1,0 +1,79 @@
+## POINTER 0 [t:1;user:memnoch;time:1295094238]
+Vista completa del poblado de Gnome.
+
+## POINTER 1 [t:1;r:1;ru:pacochan;user:soywiz;time:1160511903]
+Poblado de Gnome
+
+## POINTER 3 [t:1;user:memnoch;time:1294597157]
+Esto es un punto de carga.
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:pacochan;time:1167990922]
+Cuando guardas en una mazmorra y 
+luego cargas el juego, la partida 
+empezará en este punto de carga.
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:pacochan;time:1167990922]
+Voy a curar
+tus heridas.
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:pacochan;time:1167990922]
+Estáis completamente restaurados.
+
+## POINTER 11 [t:1;user:memnoch;time:1294597157]
+Este es el poblado de Gnome.
+
+## POINTER 13 [t:1;user:memnoch;time:1295095986]
+Ji, ji, ji... <81A5>
+
+## POINTER 15 [t:1;r:1;ru:pacochan;time:1157722708]
+¿Necesitáis algún objeto?
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:pacochan;time:1167990922]
+¡Yujuu!
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:pacochan;time:1158597201]
+¡Au, qué demonios!
+
+## POINTER 21 [t:1;r:1;ru:pacochan;time:1157722708]
+¡Coge tu comida aquí!
+
+## POINTER 23 [t:1;r:1;ru:pacochan;user:pacochan;time:1158597201]
+¡Está sabroso!
+
+## POINTER 25 [t:1;r:1;ru:pacochan;time:1157722708]
+¿No quieres nada?
+
+## POINTER 27 [t:1;r:1;ru:pacochan;time:1157722708]
+Esto es para ti.
+
+## POINTER 29 [t:1;user:memnoch;time:1295533990]
+Recibes <ITEM:0100>.
+
+## POINTER 31 [t:1;user:memnoch;time:1295095986]
+¿Puuuuu?
+
+## POINTER 33 [t:1;user:memnoch;time:1294850276]
+¿Puuuuu?...
+
+## POINTER 35 [t:1;r:1;ru:pacochan;time:1157722708]
+Humanos...
+
+## POINTER 37 [t:1;user:memnoch;time:1295095986]
+Ji, ji, ji... <81A5>
+
+## POINTER 38 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 39 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168724135]
+Guau...
+¡La roca está brillando!
+
+## POINTER 40 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 41 [t:1;r:2;ru:pacochan,evilluendas;time:1157722708]
+Aquí debe ser donde duermen.
+
+## POINTER 43 [t:1;user:memnoch;time:1294850276]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.

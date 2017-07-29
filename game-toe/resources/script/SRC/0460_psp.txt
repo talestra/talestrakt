@@ -1,0 +1,246 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:soywiz;time:1165625043]
+Baile, Mostrador Frontal
+
+## POINTER 1 [t:1;r:1;ru:pacochan;user:soywiz;time:1165625043]
+Salón de Baile
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:soywiz;time:1165625043]
+¡Siempre me mareo tanto!
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626732]
+¡Necesito practicar
+para no marearme!
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+Ups, perdón.
+No te vi bailar.
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+¡Soy lo que llaman un
+productor de peces gordos!
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+¡¡Mi trabajo es descubrir
+talentos desconocidos!!
+
+## POINTER 13 [t:1;user:memnoch;time:1294850543]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+¡Bienvenido al Salón de Baile!
+
+## POINTER 17 [t:1;user:memnoch;time:1295625506]
+¿Quieres ver un espléndido baile
+del Maestro del Baile?
+Por solo <VAR:00124004> jini.
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+<OPTION:0000>Sí
+No
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+¡No tienes ni idea de lo
+magnífico que es el baile
+que te vas a perder!
+
+## POINTER 23 [t:1;user:memnoch;time:1294850543]
+Oh, dios mío.
+Parece que no tienes
+suficientes jinis.
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:pacochan;time:1167905727]
+Por favor, entra
+al auditorio.
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+¡Bienvenidos al Salón de Baile!
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:pacochan;time:1167905727]
+¡Pareces llena de energía, señorita!
+¿Quieres participar en el baile?
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626745]
+<CHARA:MEREDY>
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+¿Te refieres a <CHARA:MEREDY>?
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:MEREDY>
+
+## POINTER 33 [t:1;user:memnoch;time:1295573828]
+Mmmm...
+<CHARA:MEREDY> no estar segura...
+
+## POINTER 35 [t:1;user:memnoch;time:1294850584]
+Cuesta tres jinis
+para entrar a competir.
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626733]
+<OPTION:0000>¿Quieres entrar?
+Sí
+No
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+¿Seguro?
+Los ganadores reciben dinero.
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:MEREDY>
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+¡<CHARA:MEREDY> va a probar!
+
+## POINTER 43 [t:1;user:memnoch;time:1294850584]
+Oh, qué pena.
+No tienes suficientes jinis.
+
+## POINTER 45 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Por favor, entra a
+la sala de adentro.
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:REID>
+
+## POINTER 47 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+¡Mucha suerte!
+Te veremos desde
+el público.
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:MEREDY>
+
+## POINTER 49 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+¡Por supuesto!
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:REID>
+
+## POINTER 51 [t:1;r:1;ru:pacochan;user:pacochan;time:1167905727]
+No te sientas mal. Puedes
+volver a intentarlo en
+otro momento.
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:MEREDY>
+
+## POINTER 53 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+¡Por supuesto!
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:REID>
+
+## POINTER 55 [t:1;r:1;ru:pacochan;user:pacochan;time:1167905728]
+Te dije que no sé bailar.
+Tengo dos pies izquierdos.
+
+## POINTER 56 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:MEREDY>
+
+## POINTER 57 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+<CHARA:MEREDY> también lo hizo mal.
+
+## POINTER 58 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:REID>
+
+## POINTER 59 [t:1;user:memnoch;time:1295626254]
+Hemos sacado un <VAR:001234040001E8033430><VAR:001234040001E803353064003430>.<VAR:00123404640035300A003430><VAR:001234040A003530>.
+Lo hemos hecho lo mejor que hemos podido.
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:MEREDY>
+
+## POINTER 61 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+¡La próxima vez nos
+esforzaremos más!
+
+## POINTER 62 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:REID>
+
+## POINTER 63 [t:1;user:memnoch;time:1295626254]
+Hemos sacado un <VAR:001234040001E8033430><VAR:001234040001E803353064003430>.<VAR:00123404640035300A003430><VAR:001234040A003530>.
+No está mal, ¿eh?
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626746]
+<CHARA:MEREDY>
+
+## POINTER 65 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+La próxima vez nos
+esforzaremos más, ¿verdad?
+
+## POINTER 66 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Maestro del Baile
+
+## POINTER 67 [t:1;user:memnoch;time:1295210331]
+¡Ha sido espectacular!
+¡Eres una bailarina fantástica!
+
+## POINTER 68 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Maestro del Baile
+
+## POINTER 69 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Por el poder que me ha sido otorgado,
+te concedo un nuevo título.
+
+## POINTER 71 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167992037]
+<CHARA:MEREDY> ha obtenido el
+título de <COLOR:0D00>Reina del Baile<COLOR:0F00>.
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Maestro del Baile
+
+## POINTER 73 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+¡Esta es mi pequeña muestra de
+gratitud por el fabuloso espectáculo
+que has mostrado a los espectadores!
+
+## POINTER 75 [t:1;user:memnoch;time:1295534065]
+Recibes <ITEM:00012101>.
+
+## POINTER 77 [t:1;user:memnoch;time:1295534065]
+Recibes <VAR:00123C04> jinis.
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Maestro del Baile
+
+## POINTER 79 [t:1;user:memnoch;time:1295096107]
+Hasta la vista. <81A5>
+
+## POINTER 80 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Maestro del Baile
+
+## POINTER 81 [t:1;user:memnoch;time:1294850584]
+¡Ha sido espectacular!
+¡Hacéis una estupenda pareja!
+
+## POINTER 82 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Maestro del Baile
+
+## POINTER 83 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Por el poder que me ha sido otorgado,
+os concedo un nuevo título.
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167992037]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Estrella del Baile<COLOR:0F00>.
+
+## POINTER 86 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Maestro del Baile
+
+## POINTER 87 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+¡Es mi pequeña prueba de apreciación
+por hacer un espectáculo tan genial
+para la audiencia!
+
+## POINTER 89 [t:1;user:memnoch;time:1294850584]
+Has recibido <VAR:00123C04> jinis.
+
+## POINTER 90 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Maestro del Baile
+
+## POINTER 91 [t:1;user:memnoch;time:1295096107]
+Hasta la vista. <81A5>
+
+## POINTER 93 [t:1;r:1;ru:pacochan;user:soywiz;time:1165626734]
+Puntuación : <VAR:0012340464003430>.<VAR:0012340464003530>

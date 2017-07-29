@@ -1,0 +1,121 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;time:1157722707]
+Puerto de Inferia
+
+## POINTER 2 [t:1;user:memnoch;time:1297460376]
+El servicio de ferris se ha suspendido.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1163583751]
+Mintche es una ciudad universitaria
+y un lugar ideal para vivir para la
+gente joven.
+
+## POINTER 6 [t:1;user:memnoch;time:1297460397]
+Este barco se dirige a Mintche,
+la Ciudad Académica.
+¿Queréis subir?
+
+## POINTER 8 [t:1;user:memnoch;time:1295150356]
+¿Deseas ir a Mintche?<OPTION:0000>
+No, gracias
+Ir en primera clase (<VAR:0001D00200114A003130> gald)
+Ir en segunda clase (<VAR:0001D002> gald)
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:soywiz;time:1159848416]
+¡Partiremos enseguida!
+¡Daos prisa en subir!
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1163583751]
+Lo siento, pero no tienes
+suficiente dinero.
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 14 [t:1;user:memnoch;time:1295150356]
+No, gracias...
+
+## POINTER 16 [t:1;r:1;ru:pacochan;time:1157722707]
+Qué pena.
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1163583751]
+El barco de la derecha va a Barole,
+la Ciudad Comercial, mientras que
+el de la izquierda va a Mintche, la
+Ciudad Académica.
+
+## POINTER 20 [t:1;user:memnoch;time:1295625452]
+Aunque el mundo se acabase mañana,
+defendería esta entrada hasta el
+fin. ¡Es una tarea específica que
+me ha confiado el Rey de Inferia!
+
+## POINTER 21 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+DebugMessage
+
+## POINTER 22 [t:1;r:1;ru:pacochan;time:1157722707]
+Guardia
+
+## POINTER 24 [t:1;user:memnoch;time:1295529780]
+A partir de aquí solo pueden
+pasar nobles y mercaderes
+con pases.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1163583751]
+Me gustaría tener mi propio
+barco algún día. Podría viajar
+libremente por todo el mundo.
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:soywiz;time:1163123262]
+¡Qué bien! ¡Tienes tu propio barco!
+Puedes comprar accesorios en el
+abastecedor de barcos de allí.
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+DebugMessage
+
+## POINTER 30 [t:1;r:1;ru:pacochan;time:1157722707]
+Mercader
+
+## POINTER 32 [t:1;user:memnoch;time:1294858211]
+Soy el capitán de esta nave.
+
+## POINTER 33 [t:1;r:1;ru:pacochan;time:1157722707]
+¡¡PUERTA ABIERTA!!
+
+## POINTER 35 [t:1;user:memnoch;time:1295149444]
+Este barco se dirige a Mintche..
+¿Queréis subir?
+
+## POINTER 36 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 37 [t:1;user:memnoch;time:1294858211]
+Mintche, ¿eh?
+
+## POINTER 38 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 39 [t:1;user:memnoch;time:1294858211]
+¡<CHARA:REID>!
+¡No me digas que quieres
+regresar a Rasheans!
+
+## POINTER 40 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 41 [t:1;user:memnoch;time:1294858211]
+N-No... No estaba
+pensando en eso...
+
+## POINTER 42 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 43 [t:1;r:1;ru:pacochan;user:pacochan;time:1163583751]
+Tenemos un pase.
+¿Ves?
+
+## POINTER 45 [t:1;r:1;ru:pacochan;user:soywiz;time:1159848416]
+¡Un pase expedido por el Rey!
+
+## POINTER 47 [t:1;user:memnoch;time:1295150578]
+¡P-Podéis pasar!

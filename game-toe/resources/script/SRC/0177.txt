@@ -1,0 +1,198 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:carlos;time:1157737880]
+Ciudad de Inferia Arriba Derecha
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735711]
+¿Quieres aprender sobre
+los celestianos?
+<OPTION:0000>Sí
+No
+
+## POINTER 4 [t:1;user:memnoch;time:1295098958]
+Eres sabio.
+¿Qué quieres saber?
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161883706]
+<OPTION:0000>Apariencia de los celestianos
+Habilidades de los celestianos
+Civilización celestiana
+Objetivos de los celestianos
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1162652106]
+Los celestianos tienen el
+cuerpo cubierto de pelo,
+como las bestias.
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1162652106]
+Se dice que sus caras dan
+tanto miedo que ponen los
+pelos de punta.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735711]
+Se dice que los celestianos
+tienen largas uñas, suficientemente
+afiladas para cortar piedras.
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161883706]
+Pueden cortar a los
+inferianos en tiras en
+un abrir y cerrar de ojos.
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+Celestia es un lugar de caos total.
+Es un mundo de asesinatos y violencia.
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+Y no es posible que una civilización
+florezca entre tanto caos.
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+El objetivo de los celestianos
+es reducir Inferia a la
+derrota y la desesperación.
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1162652106]
+No hay nada que les guste más
+que vernos sufrir y llorar a
+los inferianos.
+
+## POINTER 24 [t:1;r:1;ru:soywiz;user:soywiz;time:1167968558]
+Si hubiera al menos una forma de
+hablar con los celestianos, y
+ponerse de acuerdo con ellos...
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+¡Nunca!
+
+## POINTER 28 [t:1;user:memnoch;time:1295631165]
+¡Jamás querría que me capturaran,
+me chuparan la sangre y me partieran
+en pedazos esos celestianos!
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+DebugMessage
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1162652106]
+Anciano
+
+## POINTER 32 [t:1;r:1;ru:soywiz;user:pacochan;time:1162652106]
+¿Una Espada Empuñable?
+Lo siento pero nunca he oído hablar de ella.
+
+## POINTER 34 [t:1;user:memnoch;time:1295567446]
+¡Oh, espera!
+Me pareció escuchar algo sobre un
+objeto perdido en el teatro real...
+
+## POINTER 36 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162652106]
+¿Por qué no vas a una taquilla
+y preguntas por ello?
+
+## POINTER 38 [t:1;user:memnoch;time:1295567446]
+Me pareció escuchar un anuncio sobre
+un objeto perdido en el teatro real...
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+¡No sabía que erais
+actores callejeros!
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+¡Qué maravilla!
+
+## POINTER 44 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162652294]
+¡Un joven espadachín, una chica de 
+pueblo y una bailarina extranjera!
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161883706]
+¡No puedo esperar a ver
+cómo se desarrolla la historia!
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+¿Cuándo empieza la actuación?
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+¿Actuación?
+¡No somos actores!
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+Oh. ¿No lo sois?
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+Oh... Parecéis todos
+tan excéntricos, que
+había asumido que...
+
+## POINTER 56 [t:1;user:memnoch;time:1295529917]
+La destrucción del mundo...
+Siempre he creído que solo
+era posible en el mundo
+imaginario de los escenarios...
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+DebugMessage
+
+## POINTER 58 [t:1;user:memnoch;time:1295567463]
+Mujer noble
+
+## POINTER 60 [t:1;user:memnoch;time:1295567446]
+Este edificio es el teatro real.
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161883707]
+Es un prestigioso teatro,
+con cien años de historia.
+
+## POINTER 64 [t:1;user:memnoch;time:1295650943]
+¡Volveré a verla de nuevo!
+
+## POINTER 66 [t:1;user:memnoch;time:1295650943]
+Ya la he visto más de diez veces.
+
+## POINTER 68 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161883707]
+*Sollozo*
+
+## POINTER 70 [t:1;r:1;ru:pacochan;user:pacochan;time:1162652106]
+¡Estoy tan conmovida!
+¡Esa ha sido la mejor actuación!
+*Sollozo*
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+DebugMessage
+
+## POINTER 72 [t:1;user:memnoch;time:1295650943]
+Hombre de mediana edad.
+
+## POINTER 74 [t:1;user:memnoch;time:1294601927]
+Mmpf.
+No pareces consciente
+de la crisis.
+
+## POINTER 76 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+¡Espera!
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:pacochan;time:1162652106]
+¿Qué pasa?
+
+## POINTER 80 [t:1;user:memnoch;time:1294603081]
+No te acompañará
+un celestiano, ¿no?
+
+## POINTER 81 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157735504]
+Por supuesto que no.
+
+## POINTER 84 [t:1;user:memnoch;time:1294603081]
+Mmm.
+Supongo que tienes razón.
+
+## POINTER 86 [t:1;r:1;ru:pacochan;user:pacochan;time:1162652106]
+Si todos los celestianos fueran
+chicas pequeñas como ella, no
+tendríamos absolutamente ningún
+problema.

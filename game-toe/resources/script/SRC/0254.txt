@@ -1,0 +1,175 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160231027]
+Puerto de Barole 3
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160231027]
+¡Tienes que usar la cabeza
+en los negocios!
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¡La pérdida de uno es
+es ganancia para otro!
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+Lo contrario también es cierto...
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164946495]
+Barole, la Ciudad Comercial<COLOR:0F00>,
+está al <COLOR:0E00>oeste<COLOR:0F00> del puerto.
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164946495]
+Está francamente cerca.
+¡No puedes perdértelo!
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+Ahora págame por esta
+pequeña información...
+
+## POINTER 14 [t:1;user:memnoch;time:1286291895]
+¡Págame por la información!
+Te lo dejaré en 100 gald.
+
+## POINTER 16 [t:1;user:memnoch;time:1286291895]
+¿Pagarás los 100 gald?<OPTION:0000>
+Sí
+No
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731662]
+Gracias.
+
+## POINTER 20 [t:1;user:memnoch;time:1295529283]
+Pregúntame si hay algo
+más que te interese saber...
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¿Estás arruinado?
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+Me has comprado información,
+¡¿y ahora no me vas a pagar?!
+¡No intentes estafarme!
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¡¿Sabes lo que le pasa
+a la gente que incumple
+la ley?!
+
+## POINTER 28 [t:1;user:memnoch;time:1286291895]
+No querrás salir
+herido por 100
+gald, ¿verdad?
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+Eres muy testarudo, ¿no?
+De acuerdo, dejaré que te
+vayas esta vez...
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164946495]
+Barole, la Ciudad Comercial,
+está al <COLOR:0E00>oeste<COLOR:0F00>.
+¡No me hagas repetírtelo!
+
+## POINTER 34 [t:1;user:memnoch;time:1295629789]
+¡Y aquí estaba haciendo
+depósitos de mis ahorros!
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1166634300]
+¡No va a servir de nada
+si el mundo se viene abajo!
+
+## POINTER 37 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731873]
+Chef Maravillas
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731962]
+¡Soy el Misterioso
+Chef Maravillas!
+
+## POINTER 39 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731873]
+Chef Maravillas
+
+## POINTER 40 [t:1;user:memnoch;time:1295529478]
+Te enseñaré cómo hacer
+<COLOR:0F00>calamares a la romana<COLOR:0D00>
+benditos con amor.
+
+## POINTER 42 [t:1;user:memnoch;time:1295533326]
+Has aprendido a hacer calamares a la romana.
+
+## POINTER 43 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731873]
+Chef Maravillas
+
+## POINTER 44 [t:1;user:memnoch;time:1295529478]
+Calamares a la romana tiene tres ingredientes:
+calamar, limón y col.
+
+## POINTER 46 [t:1;user:memnoch;time:1295534211]
+Recibes ingredientes de
+los calamares a la romana.
+
+## POINTER 47 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731873]
+Chef Maravillas
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164946495]
+¡Que tengas un buen día!
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¿Te marchas del puerto?<OPTION:0000>
+Sí, irse del puerto
+No, abordar el barco
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731662]
+¡¡Espera un minuto!!
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¡Has robado eso! ¡¡Es mío!!
+Si lo quieres, ¡págalo!
+
+## POINTER 56 [t:1;user:memnoch;time:1295529302]
+¡Son solo <VAR:0001A005> gald!
+
+## POINTER 58 [t:1;user:memnoch;time:1286291895]
+¿Pagarás los <VAR:0001A005> gald?<OPTION:0000>
+Si
+No
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731662]
+No tienes suficiente dinero.
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¡Gracias por negociar!
+
+## POINTER 64 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731662]
+¡¡Espera un minuto!!
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¡Has robado eso! ¡¡Es mío!!
+Si lo quieres, ¡págalo!
+
+## POINTER 68 [t:1;user:memnoch;time:1295529302]
+¡Son solo <VAR:0001A00F> gald!
+
+## POINTER 70 [t:1;user:memnoch;time:1286291895]
+¿Pagarás los <VAR:0001A00F> gald?<OPTION:0000>
+Sí
+No
+
+## POINTER 72 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731662]
+No tienes suficiente dinero.
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¡Gracias por negociar!
+
+## POINTER 76 [t:1;r:1;ru:pacochan;user:pacochan;time:1160234686]
+Has devuelto el <ITEM:00120004>.
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:pacochan;time:1160234686]
+Has pagado el <ITEM:00120004>.
+
+## POINTER 80 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+Si no tienes suficiente,
+paga lo que tengas...
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160234686]
+¿Qué? ¿No tienes dinero?
+
+## POINTER 84 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157731662]
+¡Muchas gracias!

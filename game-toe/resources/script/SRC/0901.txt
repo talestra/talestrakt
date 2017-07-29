@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mapa general de Celestia
+
+## POINTER 2 [t:1;user:memnoch;time:1294850022]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 4 [t:1;user:memnoch;time:1294598351]
+¡E-Esa estatua!
+¿Podría ser...?
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1166567368]
+<CHARA:CHAT> ha aprendido Martillo Envenenado.
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1157724569]
+¡He aprendido una habilidad
+especial de pirata!
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1169998984]
+¿Qué clase de habilidad es esa?
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1157724569]
+Se llama <BOLD:0100>Martillo Envenenado<BOLD:0000>.
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 14 [t:1;user:memnoch;time:1295573106]
+Es una técnica con la que
+puedo lanzar martillos
+envenenados al enemigo.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722711]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1166567368]
+¡¿Es seguro para una niña
+utilizar esa clase de habilidades?!
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1157724569]
+global1: <VAR:00114C00>

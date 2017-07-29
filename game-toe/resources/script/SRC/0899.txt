@@ -1,0 +1,195 @@
+## POINTER 0 [t:1;user:memnoch;time:1286291220]
+Mapa genérico - Llanuras de Inferia
+
+## POINTER 2 [t:1;user:memnoch;time:1294850029]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 4 [t:1;user:memnoch;time:1294850029]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 6 [t:1;user:memnoch;time:1294850029]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627966]
+Soy un soldado sin nombre.
+Te enseñaré un comando.
+
+## POINTER 10 [t:1;user:memnoch;time:1295571982]
+<CHARA:REID> aprende el comando <COLOR:0D00>Ataque a distancia<COLOR:0F00>.
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627966]
+Espera pacientemente hasta
+que el enemigo entre en tu
+rango de ataque, entonces
+ataca.
+
+## POINTER 14 [t:1;user:memnoch;time:1295571982]
+Esa es la regla básica de la
+estrategia del <COLOR:0D00>Ataque a distancia<COLOR:0F00>.
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627966]
+Soy un soldado sin nombre.
+Te enseñaré un comando.
+
+## POINTER 18 [t:1;user:memnoch;time:1295571982]
+<CHARA:REID> aprende el comando <COLOR:0D00>Ataque frontal<COLOR:0F00>.
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627966]
+Todos los aliados cargarán y atacarán
+en la dirección a la que estés encarando.
+
+## POINTER 22 [t:1;user:memnoch;time:1295571982]
+Esa es la regla básica del
+<COLOR:0D00>Ataque frontal<COLOR:0F00>.
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627966]
+He oído que hay una chica que
+puede montar a Drake el Dragón
+como si fuese un caballo.
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627966]
+Desgraciadamente...
+no puedes encontrarla
+en este mundo...
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+Eso demuestra que hay más
+vida de la que el ojo ve.
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+He oído que hay una chica que
+canta extrañas palabras
+mientras toca un laúd.
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+Desgraciadamente...
+no puedes encontrarla
+en este mundo...
+
+## POINTER 34 [t:1;user:memnoch;time:1295381852]
+Eso demuestra que solo encontramos
+una pequeña fracción de la población
+mundial en nuestro tiempo de vida.
+
+## POINTER 36 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+He oído que en las regiones remotas,
+algunos extranjeros viven en una
+isla con un verano permanente.
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+Desgraciadamente...
+no puedes encontrar un
+sitio así en este mundo...
+
+## POINTER 40 [t:1;user:memnoch;time:1297466213]
+Eso demuestra que haber viajado a todos
+los rincones del mundo, no  significa
+que hayas visto todo lo que hay que ver.
+
+## POINTER 42 [t:1;user:memnoch;time:1295381852]
+¿<ITEM:00010E01>? ¡Qué rico!
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+¿Quieres un poco?
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+<OPTION:0000>¡Dame 1!
+¡Dame 5!
+¡Dame 10!
+¡Dame 15!
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+Vuelve siempre que
+quieras más.
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+No puedes llevar <VAR:00120004>.
+
+## POINTER 52 [t:1;user:memnoch;time:1286289711]
+¡Serán <VAR:5000001200043330> gald por <VAR:00120004>!
+¿Vale?
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+<OPTION:0000>Sí
+No
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;time:1157722709]
+¿Estás seguro?
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+¡Ups! No tienes
+suficiente dinero...
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;time:1157722709]
+¡Disfruta!
+
+## POINTER 61 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:soywiz;time:1161089158]
+¿Subir a la balsa?
+<OPTION:0000>Sí
+No
+
+## POINTER 63 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;time:1157722709]
+¡Muy bien, vámonos!
+
+## POINTER 65 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+Sí, es demasiado peligroso.
+
+## POINTER 67 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;r:1;ru:evilluendas;time:1157722709]
+¡Fue divertido!
+
+## POINTER 69 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;time:1157722709]
+Estoy mareada...
+
+## POINTER 71 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;time:1157722709]
+<8268><8140><8265><8285><8285><828C><8140><8284><8289><829A><829A><8299>
+
+## POINTER 73 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+No puedo creer que
+hayamos sobrevivido...
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157724625]
+time:<VAR:00122400>/item:<VAR:00122800>
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+Has encontrado <VAR:00120004> Gel de Manzana.
+
+## POINTER 79 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161627967]
+¡Guau!
+¡Hemos descendido muy rápido!
+
+## POINTER 81 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166566849]
+Sí, pero vaya viajecito.
+
+## POINTER 84 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166566849]
+<CHARA:REID> ha obtenido el 
+título de <COLOR:0D00>Maestro Timonel<COLOR:0F00>.

@@ -1,0 +1,117 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265324]
+Tienda General
+
+## POINTER 1 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265324]
+Suteden : Jini
+
+## POINTER 3 [t:1;user:memnoch;time:1294851068]
+<VAR:00127C00> jinis
+<VAR:0000003000406B20> gald
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:soywiz;time:1159959054]
+Este artículo de aquí...
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:pacochan;time:1167906659]
+¿Quieres comprarlo?<OPTION:0000>
+Sí
+No
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265324]
+¿Seguro?
+
+## POINTER 11 [t:1;user:memnoch;time:1294851068]
+Serán diez mil gald
+o cien jinis.
+¿Cómo querrías pagar?
+
+## POINTER 13 [t:1;user:memnoch;time:1295298136]
+<OPTION:0000>Diez mil gald
+Cien jinis
+No, gracias
+
+## POINTER 15 [t:1;user:memnoch;time:1286290063]
+No tienes suficiente gald.
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265324]
+Gracias.
+
+## POINTER 19 [t:1;user:memnoch;time:1295534081]
+<OPTION:0000>Recibes <COLOR:0D00><ITEM:00014C01><COLOR:0F00>.
+
+## POINTER 21 [t:1;user:memnoch;time:1294851068]
+No tienes suficiente jinis.
+
+## POINTER 23 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265324]
+Gracias.
+
+## POINTER 25 [t:1;user:memnoch;time:1295534106]
+<OPTION:0000>Recibes <COLOR:0D00><ITEM:00014C01><COLOR:0F00>.
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:pacochan;time:1167906660]
+¡Si no vas a comprar
+nada, fuera de aquí!
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:pacochan;time:1167906660]
+¡Si no vas a comprar
+nada, fuera de aquí!
+
+## POINTER 31 [t:1;user:memnoch;time:1295611275]
+Espero que estés haciendo buen
+uso del artículo que has comprado.
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1158933210]
+¿Has oído hablar del Gálago?
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265324]
+<OPTION:0000>Sí
+No
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:pacochan;time:1167906660]
+¡Ah! ¡Tú también has
+oído hablar de él!
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1158933210]
+Estoy buscando ese ornamento.
+
+## POINTER 41 [t:1;user:memnoch;time:1294851068]
+Si encontráis el Gálago,
+hacédmelo saber, ¿vale?
+
+## POINTER 43 [t:1;r:1;ru:pacochan;user:soywiz;time:1159958771]
+Es un lindo y pequeño animal
+al que le encantan las manzanas.
+
+## POINTER 45 [t:1;r:1;ru:pacochan;user:pacochan;time:1158933210]
+También es bastante
+travieso.
+
+## POINTER 47 [t:1;user:memnoch;time:1286298570]
+¡Ya me he cansado de buscar
+el ornamento de Gálago!
+
+## POINTER 49 [t:1;r:1;ru:pacochan;user:soywiz;time:1159958771]
+La compra realmente buena de
+hoy en día son las artesanías
+tradicionales de Inferia.
+
+## POINTER 51 [t:1;r:1;ru:pacochan;user:hexplus;time:1157728797]
+Inferia...
+
+## POINTER 53 [t:1;r:1;ru:pacochan;user:pacochan;time:1167906660]
+Tiene un anillo surrealista en él...
+
+## POINTER 55 [t:1;r:1;ru:pacochan;user:soywiz;time:1159958771]
+Has encontrado <ITEM:00121004>.
+
+## POINTER 57 [t:1;r:1;ru:pacochan;user:soywiz;time:1159958771]
+Has encontrado <ITEM:00121004>,
+pero no puedes llevar más.
+
+## POINTER 59 [t:1;r:1;ru:pacochan;user:hexplus;time:1157728797]
+¡Tenemos los mejores precios!
+
+## POINTER 61 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265324]
+Gracias.
+
+## POINTER 63 [t:1;r:1;ru:pacochan;user:pacochan;time:1167906660]
+¡Vuelve otro día!

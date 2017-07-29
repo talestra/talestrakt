@@ -1,0 +1,131 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161161041]
+Monte Farlos Mapa Adicional 3
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1167235915]
+Aquí hay cuerdas que
+alguien debió dejarse.
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253867]
+Qué mal, no podemos alcanzarlas.
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962838]
+¡¡Kwii, kwiikii!!
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253867]
+¡Quickie!
+¿Irás por nosotros?
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962901]
+¡Kwiikii!
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+Si <CHARA:MEREDY> dice <BOLD:0100>Ahí<BOLD:0000>,
+comprueba el área.
+Si <CHARA:MEREDY> dice <BOLD:0100>Ahora<BOLD:0000>,
+intenta trepar, ¿vale?
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962838]
+¡¡Kwiikii!!
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+Y salta cuando <CHARA:MEREDY> diga <BOLD:0100>Vamos<BOLD:0000>.
+¿Vale, Quickie?
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962838]
+¡¡Kwi kwiikii!!
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 20 [t:1;user:memnoch;time:1295382267]
+¿De verdad lo ha entendido todo?
+Supongo que no nos queda otra
+alternativa que confiar en él.
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962838]
+¡¡Kwiikii!!
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Derecha!
+¡Izquierda!
+Para
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+¡Para ahí, Quickie!
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253867]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+<OPTION:0000>¡Ahí!
+¡Ahora!
+¡Vamos!
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160154965]
+¡¡Buen trabajo Quickie!!
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962838]
+¡Kwiikii!

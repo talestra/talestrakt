@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Cafetería de Mintche
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726363]
+Cafetería
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161336614]
+Incluso aunque sea el plato
+más barato del menú...
+
+## POINTER 5 [t:1;user:memnoch;time:1295096952]
+... con esta especia, se transforma
+en una comida de gourmet digna de
+un restaurante de cinco tenedores. <81A5>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161336615]
+¡Nadie puede rechazar un plato
+delicioso cuando encuentras uno!
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161336615]
+¡Sigue apeteciendo, no importa
+cuántas veces lo hayas comido ya!
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:pacochan;time:1162028710]
+Un plato desagradable simplemente
+no sabe bien, no importa cómo lo
+sirvas...
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:pacochan;time:1162028710]
+Incluso el manjar más delicioso
+puede volverse aburrido si lo
+comes todos los días...
+
+## POINTER 15 [t:1;user:memnoch;time:1295527892]
+¿No te vas a
+comer ese camarón?
+¡Vaya desperdicio!
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161336615]
+¡Nunca se sabe cuándo se va a
+acabar el mundo! ¡Harías bien
+en comer mientras puedas!
+
+## POINTER 19 [t:1;user:memnoch;time:1295527892]
+¡Puaj!
+Camarones, cangrejos... ¡Agh!
+¿Quién se come estas cosas?
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:pacochan;time:1162028710]
+Estoy tan preocupado por el destino
+del mundo, que ni siquiera puedo
+tragar la comida...
+
+## POINTER 23 [t:1;r:1;ru:pacochan;user:pacochan;time:1162028710]
+La dieta de <ITEM:00010C01> está
+teniendo mucho éxito entre
+las chicas del campus.
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:pacochan;time:1162028710]
+¡Se supone que comer <ITEM:00010C01> 
+también es bueno para tu complexión!
+
+## POINTER 27 [t:1;user:memnoch;time:1294592662]
+¿Has oído hablar del
+legendario plato <BOLD:0100>curry de Mabo<BOLD:0000>?
+
+## POINTER 29 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161336615]
+¡Dicen que es increíblemente
+delicioso!
+
+## POINTER 31 [t:1;user:memnoch;time:1294855742]
+Esta es la cafetería de Mintche.
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Chef Maravillas
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1162028710]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Chef Maravillas
+
+## POINTER 35 [t:1;user:memnoch;time:1294592642]
+¡Te mostraré cómo hacer una <COLOR:0D00>hamburguesa<COLOR:0F00>,
+siempre popular entre los estudiantes!
+
+## POINTER 37 [t:1;user:memnoch;time:1294592642]
+Has aprendido a hacer una hamburguesa.
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Chef Maravillas
+
+## POINTER 39 [t:1;user:memnoch;time:1294592642]
+Las hamburguesas tienen tres ingredientes
+<ITEM:0001F700>, <ITEM:00010301>, y <ITEM:0001FB00>.
+
+## POINTER 41 [t:1;user:memnoch;time:1294592642]
+Has recibido los ingredientes
+de la hamburguesa.
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Chef Maravillas
+
+## POINTER 43 [t:1;r:1;ru:pacochan;user:pacochan;time:1162028710]
+¡Que tengas un buen día!
+
+## POINTER 45 [t:1;r:1;ru:pacochan;user:pacochan;time:1162028710]
+¡Come mientras seas joven
+y tengas que crecer!
+
+## POINTER 47 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Gracias.
+
+## POINTER 49 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡No dudes en volver!

@@ -1,0 +1,157 @@
+## COMMENT 0902
+Fin del juego :P
+
+
+---------------------------
+
+Cuando tengamos que hacer pruebas para ver si los textos quedan bien en el juego (que hay una enorme cantidad que se ven cortados a mitad de palabra), uno de los problemas es que no podemos probar todos los textos a no ser que vayamos jugando el juego...
+
+¡Pues eso se ha acabado! He encontrado la posición de memoria donde se almacena el dialogo que se va a cargar. Por lo que bastara con hablar con quien sea, y segun el valor que hayamos puesto a esa direccion de memoria, en vez de cargar el dialogo que tendria que cargar, cargara el que queramos (de los que hay en esa habitacion).
+
+Por ejemplo, en la habitacion 10, hablamos con el tio del pelo azul, con un debugger hacemos que haga un breakpoint al escribir en las posiciones de memoria desde 800fb290 - 800fb293 (que son los 4 bytes donde se almacena el numero de dialogo) Entonces justo antes de que salga el dialogo se parara la emulacion. Ahora dumpeamos la memoria ram, y con un editor hexadecimal vemos que a partir de la posicion fb290 pone: 04000000 Pues ahora en el traductor (es decir aqui) vais a la habitacion 10. Entonces supongamos que queremos que cargue el dialogo que dice "Pero... Parecía como...". Si os fijais, a la izquierda de este dialogo, en numeros azules dice que es el texto nº 12. Pues donde ponia 04000000, cambiamos el 04 por 0C (que es 12 en hexadecimal) Guardamos el archivo, lo cargamos a la memoria ram, resumimos la emulacion y.... ¡Magia! el tio ha dicho: "Pero... Parecía como..." Y asi podemos probar todos los textos (excepto en las habitaciones en las que no haya con quien hablar pero que en un momento del juego si las haya)
+
+Pues eso. Y a seguir traduciendo. Y repito no hagais lineas que sean mucho mas largas que las originales. Si es necesario, poned más lineas, pero no las hagais muy largas, que hay mazo de textos que seven como una mierda xD.
+
+## COMMENT 0870_psp
+Versión de PSP de la habitacióon 870.
+El diálogo 0870_0028 ha sido dividido en:
+0870_psp_0028/0870_psp_0030
+en la versión de psp.
+
+## COMMENT 0866
+Similar a habitación 0868
+
+## COMMENT 0857
+En el 0058 he cambiado "este" (una unidad inventada de fuerza) por "aste", para que se mantenga la carencia de significado de la palabra original -- edu
+
+## COMMENT 0783
+Hola buenas yo soy un poco nuevo por aqui pero me gustaria comentar la traducción del texto 0783_0006. ¿Qué os parecería sustiruirlo por "esta cosa probablemente se usa con otro propósito"? Lo digo porque en la actual versión se repite la palabra "cosa". Bueno ya cometareis vuestra opinión vale?
+
+## COMMENT 0460_psp
+Versión de PSP. Mini juego de Baile de Jini.
+Para un jugador únicamente. Aun así han mantenido
+parte del script de dos jugadores aunque no se use.
+
+## COMMENT 0449
+En el 11 he quitado los interrogantes porque se entiende mejor sin ellos.
+
+## COMMENT 0362
+Lobap: (0362_0017): Trial and Error: No sé una traducción más concreta, pero supongo que se referirá a probar y volver a probar...aún así lo he traducido con lo que me imaginaba que era. si alguien ve que está mejor...pues edit jeje.
+
+Edu: (0362_0017): Trial and Error: Lo he traducido por "ensayo y error".
+
+## COMMENT 0353
+soywiz: 0353_0056 --> Princesa inferiana
+--> Príncipes inferianos
+
+## COMMENT 0347
+Crash
+
+## COMMENT 0346
+0346_0009 tenía una errata que fue corregida en la versión de PSP y que he corregido.
+
+## COMMENT 0247
+(lobap): 0247_0036 esta línea no sé muy bien como ponerlo. Sería algo así como..."recibes el precio que pagas" o algo por el estilo, pero ahora mismo...no caigo.
+Por cierto, están muy graciosos esta clase de eventos xD
+
+## COMMENT 0243
+He traducido Pot Pie como Pastel de Marisco (aunque antes estaba como Tarta) porque es una especie de pastel y lleva camarón. Tenedlo en cuenta para los menús y todo eso. No lo he validado a la espera de vuestra opinión ~~Edu
+
+## COMMENT 0217
+soywiz: Revisad 0217_0030 por favor; que no me queda del todo claro.
+
+
+Doy por hecho que las que discutieron fueron la madre de Luine y la reina ~~evilluendas
+
+## COMMENT 0212
+Esta habitación o es idéntica a la 211 o muy similar.
+
+## COMMENT 0211
+Esta habitación o es idéntica a la 212 o muy similar.
+
+## COMMENT 0210
+10/11/2006 - soywiz
+Acabo de jugar la habitación y he corregido algunas cosas. No todas son literales del original, pero quedan mejor en el contexto.
+
+## COMMENT 0202
+Cless es el puto amo xD
+Holas xD
+
+## COMMENT 0198
+Que cachondeo con la gata xD
+
+## COMMENT 0181
+Aquí empieza la obra de teatro.
+
+## COMMENT 0107
+En la 0016 no he sabido muy bien cómo traducir lo de "the world that stretches across the sky". Habíamos puesto "El mundo que se acerca a través del cielo, pero eso está mal porque la Enciclopedia Leonoa es anterior al Gran Descenso. Si se os ocurre alguna manera mejor de ponerlo, ponedlo ~~Edu
+
+## COMMENT 0104
+En la 141 y 142 de esta habitación he metido un huevo de pascua. He sustituido la última pregunta por una referencia a nosotros.
+
+Para ver qué juegos pertenecen a Namco, http://en.wikipedia.org/wiki/List_of_Namco_games
+
+soywiz: lol (mola xD)
+
+## COMMENT 0103
+La 0103_0126 estaba a huevo xDDDDDDDDD:
+
+En un bar en Janos, un extranjero dice
+'Hagamos un brindis por tus
+ ___________.'
+
+<OPTION:0000>elegantes manos
+hermosos ojos vivos
+¡enormes tetooooorras!
+bellísimo cabello
+
+## COMMENT 0079_psp
+Versión de la PSP de la habitación 0079.
+Lo único que cambia es: 0079_psp_0138
+
+## COMMENT 0000
+Este es el mapa de depuración. Para activarlo en la PSX, podéis usar el código gameshark 0x30132748-0003 o esta variante: 0x300C7D10-0001 que es para poder acceder a él desde cualquier parte del juego.
+
+En la PSP usando el CW Cheat para Devhook (viene ya en la Base de Datos): 0x70D69F04 --> 0x00000007
+
+Probando a colocar un comentario en una habitación.
+
+## COMMENT 0008
+He puesto destruida porque con mas texto, no sale XD
+
+## COMMENT 0009
+He puesto destruida porque con mas texto, no sale XD
+
+## COMMENT 0010
+He puesto destruida porque con mas texto, no sale XD
+
+## COMMENT 0012
+Hay que revisar el 9 que no tenía sentido. El significado que se le había dado es que
+deberían obtener un permiso para trabajar en frente; pero allowance es cuota; además de que
+lo dicen al "coger" sin permiso dinero. Quizá hable de un posible "pago" por el trabajo que harán mas adelante... pero a saber... que alguien lo mire xD
+
+He puesto "Nos deberían dar una propina, tenemos mucho trabajo por delante." La frase significa eso, sin duda, pero quizá haya alguna manera mejor de expresarlo. A ver si se nos ocurre ~~Edu
+
+## COMMENT 0013
+He usado en 0008 la frase de la habitación anterior. Si se cambia una, que se cambie la otra ~~Edu
+
+## COMMENT 0024
+De aquí se va a la 26.
+
+## COMMENT 0025
+Principio del juego. De aquí se va a la 0024.
+
+## COMMENT 0026
+De aquí se va a la 27.
+
+## COMMENT 0027
+Esta es la habitación mas famosa para mi; con la que empezó todo hace ya mucho tiempo. Era la primera que tenía una cantidad razonable de texto para poder investigar.
+
+## COMMENT 0037
+soywiz: La 0037_0001 creo que es de debug así que no importa si está traducida o no :P
+
+## COMMENT 0047
+soywiz:
+He colocado:
+Victoria, Trofeo y Fortaleza si no no hay forma de que entre XD
+

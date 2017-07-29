@@ -1,0 +1,327 @@
+## POINTER 0 [t:1;r:2;ru:soywiz,evilluendas;user:evilluendas;time:1159060682]
+Hotel Tinnsia
+
+## POINTER 2 [t:1;user:memnoch;time:1295554859]
+Cuando te alojas en una suite, 
+no puedes volver a hospedarte
+en una habitación normal.
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1164425706]
+Os recomiendo que os alojéis
+aquí cuando os hayáis convertido
+en adultos.
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160955622]
+Me pregunto si podría sobrevivir
+a una inundación si me quedara en
+el tejado de este hotel...
+
+## POINTER 8 [t:1;user:memnoch;time:1295577667]
+Estoy francamente preocupada...
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159617616]
+He estado viajando por el
+mundo en busca de los Siete
+Tesoros de Celestia.
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160955622]
+Pero cuando los encuentre,
+¡no tengo ni idea de lo que
+haré con lo que me quede de
+vida!
+
+## POINTER 14 [t:1;user:memnoch;time:1295638203]
+Es por eso por lo que,
+en cierto modo, espero
+no encontrarlos jamás.
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160955622]
+Me pregunto dónde están
+escondidos los Siete
+Tesoros de Celestia.
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+Chef Maravillas
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+Chef Maravillas
+
+## POINTER 20 [t:1;user:memnoch;time:1294592292]
+¡Te enseñaré a preparar un
+delicioso <COLOR:0D00>cóctel dulce<COLOR:0F00>!
+
+## POINTER 22 [t:1;user:memnoch;time:1294592292]
+Has aprendido a preparar cóctel dulce.
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+Chef Maravillas
+
+## POINTER 24 [t:1;user:memnoch;time:1294592292]
+El cóctel dulce tiene 5 ingredientes:
+leche, bananas, amangos,
+kiwis y satay blanco.
+
+## POINTER 26 [t:1;user:memnoch;time:1294592292]
+Has recibido los ingredientes del cóctel dulce.
+
+## POINTER 27 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+Chef Maravillas
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1164425706]
+¡Que tengas un buen día!
+
+## POINTER 30 [t:1;user:memnoch;time:1295568531]
+Es peligroso salir por ahí de noche.
+Le sugiero que se quede dentro.
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 32 [t:1;r:1;ru:soywiz;user:evilluendas;time:1159060682]
+Esto no es el ascensor.
+
+## POINTER 34 [t:1;user:memnoch;time:1294682932]
+¿Adónde quieres ir?<OPTION:0000>
+Sala de Invitados
+Suite
+Tejado
+
+## POINTER 36 [t:1;user:memnoch;time:1295151318]
+Solo personal autorizado
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+No podemos usarlo a no
+ser que paguemos.
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1164425706]
+<8255><8265>     <8146><8271><828F><828F><8286>
+<8254><8265>     <8146><8272><8295><8289><8294><8285>
+<8251><817C><8253><8265> <8146><8266><8295><8285><8293><8294><8140><8271><828F><828F><828D><8293>
+<8250><8265>     <8146><826B><828F><8282><8282><8299>
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 42 [t:1;user:memnoch;time:1295573840]
+Mmmm...
+
+## POINTER 43 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1164425706]
+Suites en el quinto.
+Las habitaciones de invitados 
+van desde el segundo hasta
+el cuarto piso.
+
+## POINTER 46 [t:1;r:1;ru:soywiz;user:soywiz;time:1167964436]
+<8260><8140><8290><8285><8294><8292><8289><8286><8289><8285><8284>
+<828D><8285><8292><828D><8281><8289><8284>
+
+## POINTER 47 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 48 [t:1;user:memnoch;time:1295573856]
+Mmm...
+
+## POINTER 49 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 50 [t:1;user:memnoch;time:1295550508]
+¿A <8290><8285><8294><8145><8145><8145>
+<8290><8285><8294><8292><8289><8286><8289><8285><8284>
+... sirena?
+
+## POINTER 51 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159617616]
+¿Eh?
+
+## POINTER 53 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+¡Es demasiado complicado de leer!
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;time:1157722709]
+<8272><8290><8285><8285><8284><8140><8264><8281><8294><8289><828E><8287>
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 58 [t:1;user:memnoch;time:1295573856]
+Mmmm...
+
+## POINTER 59 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 60 [t:1;user:memnoch;time:1295550270]
+¿Una revista sobre comida rápida?
+
+## POINTER 61 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+Vaya revista más rara...
+
+## POINTER 64 [t:1;r:1;ru:soywiz;time:1157722709]
+¡Bienvenido!
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 66 [t:1;r:1;ru:soywiz;user:evilluendas;time:1159060682]
+Tenemos un cupón.
+
+## POINTER 68 [t:1;r:1;ru:soywiz;user:evilluendas;time:1159060682]
+Desde luego.
+Se alojarán en una suite.
+
+## POINTER 70 [t:1;r:1;ru:soywiz;user:pacochan;time:1159617616]
+Por favor, utilicen el
+ascensor a su derecha.
+
+## POINTER 72 [t:1;r:1;ru:soywiz;user:soywiz;time:1167964436]
+Les deseo que tengan una
+buena estancia.
+
+## POINTER 74 [t:1;r:1;ru:soywiz;user:pacochan;time:1159617616]
+¿Te está costando dormir?
+
+## POINTER 76 [t:1;user:memnoch;time:1295567049]
+Estamos limpiando vuestra habitación.
+Por favor, volved luego.
+
+## POINTER 78 [t:1;r:1;ru:soywiz;user:soywiz;time:1167964436]
+Que tengáis un buen día.
+
+## POINTER 80 [t:1;user:memnoch;time:1286290274]
+Bienvenidos.
+Son <VAR:00114A00> gald la noche.
+¿Os quedaréis?
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,soywiz;user:pacochan;time:1159617616]
+<OPTION:0000>Sí
+No
+
+## POINTER 84 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1164425706]
+Por favor, usad el
+ascensor de la derecha.
+
+## POINTER 86 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+Me temo que no tienes
+suficiente dinero.
+
+## POINTER 88 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1159060682]
+Hasta la próxima.
+
+## POINTER 90 [t:1;user:memnoch;time:1295557826]
+Pregúntame lo que quieras si
+tienes cualquier tipo de duda.
+
+## POINTER 91 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 92 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1164425706]
+¿Dónde está el 
+escondite de Shileska?
+
+## POINTER 94 [t:1;user:memnoch;time:1295554673]
+¿Quién sabe?
+Es un escondite.
+Podría estar oculto
+en cualquier parte.
+
+## POINTER 95 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 96 [t:1;user:memnoch;time:1294853416]
+¿Dónde podemos encontrar
+al craymel supremo de Rayo?
+
+## POINTER 98 [t:1;user:memnoch;time:1295574327]
+Eeeh... Quizá dentro de...
+¿una tormenta de rayos?
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 100 [t:1;user:memnoch;time:1294853430]
+¿Dónde está el
+castillo de Balir?
+
+## POINTER 102 [t:1;user:memnoch;time:1295567999]
+Mmmm...
+El castillo de Balir...
+está probablemente donde...
+resida el señor Balir.
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 104 [t:1;r:1;ru:soywiz;user:evilluendas;time:1159060682]
+¿Has visto venir
+a una chica?
+
+## POINTER 106 [t:1;user:memnoch;time:1295574335]
+Mmmm...
+¿Yo cuento?
+
+## POINTER 107 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 108 [t:1;user:memnoch;time:1294853416]
+¿Dónde está el
+castillo de Balir?
+
+## POINTER 110 [t:1;user:memnoch;time:1295568024]
+Mmmm...
+El castillo de Balir...
+está probablemente donde...
+resida el señor Balir.
+
+## POINTER 111 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 112 [t:1;r:1;ru:soywiz;user:evilluendas;time:1159060682]
+¿Cómo vamos a Inferia?
+
+## POINTER 114 [t:1;user:memnoch;time:1295568024]
+Mmmm...
+¿Usando alas imaginarias?
+¡Es broma!
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 116 [t:1;user:memnoch;time:1294856262]
+Buscamos el mineral de ribavius.
+¿Sabes algo de él?
+
+## POINTER 118 [t:1;user:memnoch;time:1295574086]
+Aaah.
+¿Vas a comprar un violín?
+
+## POINTER 120 [t:1;user:memnoch;time:1294853416]
+Te refieres al Stradivarius.
+¿No?
+
+## POINTER 121 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 122 [t:1;r:1;ru:soywiz;user:soywiz;time:1167964496]
+Háblame de las debilidades
+de <CHARA:SHIZEL>.
+
+## POINTER 124 [t:1;user:memnoch;time:1294602417]
+Mmmm..
+¿Tal vez las espinillas
+o el plexo solar?

@@ -1,0 +1,73 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;time:1157722709]
+Puerto de Peruti Congelado
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;time:1157722709]
+Ciudad Portuaria, Peruti
+
+## POINTER 2 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158832]
+¡Oooh! ¡Hace frío!
+¿Eh? ¿Qué pasa?
+
+## POINTER 4 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 5 [t:1;user:memnoch;time:1295543975]
+¡¡Me estoy co-congelando!!
+
+## POINTER 6 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158832]
+<BOLD:0100>Frío<BOLD:0000> es quedarse corto.
+¡¡Me voy a CONGELAR!!
+
+## POINTER 8 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 9 [t:1;user:memnoch;time:1295546984]
+En Peruti siempre hace frío,
+pero este no es normal...
+
+## POINTER 10 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;time:1157722709]
+¿No tienes frío, <CHARA:MEREDY>?
+
+## POINTER 12 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158832]
+<CHARA:MEREDY> tiene frío,
+pero no tiene mucho,
+mucho frío.
+
+## POINTER 14 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;time:1157722709]
+¿<CHARA:KEELE>?
+
+## POINTER 16 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 17 [t:1;user:memnoch;time:1295301087]
+¡Oh, oh! 
+¡<CHARA:KEELE> se ha congelado!
+
+## POINTER 18 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158832]
+¡Busquemos algún lugar
+cálido de inmediato!
+
+## POINTER 20 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 21 [t:1;user:memnoch;time:1295547601]
+Vaya, ¡siempre
+ha de ser <CHARA:KEELE>!

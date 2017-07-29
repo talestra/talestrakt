@@ -1,0 +1,123 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Poblado lejano, Rasheans
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1295094388]
+Este es el <COLOR:0E00>poblado lejano, Rasheans<COLOR:0F00>.
+Algún día volverás aquí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310070]
+Rasheans no ha cambiado
+ni un pelo. Era igual ayer,
+y lo seguirá siendo mañana.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310070]
+Oh, cuánto tiempo.
+Pareces estar bien.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Este es el mapa A de Rasheans.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Así que has perdido tus armas predeterminadas...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+¿Quieres intercambiar armas?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310070]
+¿No te aburres de luchar
+con las mismas armas?
+
+## POINTER 16 [t:1;r:2;ru:pacochan,memnoch;user:pacochan;time:1286152405]
+¿Quieres cambiar tu <ITEM:6D00>
+por otra arma?
+
+## POINTER 18 [t:1;r:4;ru:evilluendas,pacochan,soywiz,memnoch;time:1157722711]
+¿Dónde está tu <ITEM:6D00>?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+En el mapa principal, pulsa <BUTTON:0200>
+para abrir el <BOLD:0100>Menú de viaje<BOLD:0000>.
+Si seleccionas <BOLD:0100>Acampar<BOLD:0000>,
+podrás restaurar tu salud.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Pulsa el <BOLD:0100>botón SELECT<BOLD:0000> para obtener
+<BOLD:0100>Pistas<BOLD:0000> sobre tu situación actual.
+
+## POINTER 23 [t:1;r:3;ru:soywiz, , ,evilluendas,memnoch;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Por fin ha llegado el día
+que nos vamos del poblado.
+
+## POINTER 25 [t:1;r:3;ru:soywiz, , ,evilluendas,memnoch;time:1157722711]
+<CHARA:REID>
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+No te emociones tanto.
+<COLOR:0E00>Mintche<COLOR:0F00> está hacia el <COLOR:0E00>sur<COLOR:0F00>.
+Aún queda mucha distancia por recorrer.
+
+## POINTER 27 [t:1;r:3;ru:soywiz, , ,evilluendas,memnoch;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+¡Ningún problema!
+Sobre todo con tu ayuda,
+¿verdad?
+
+## POINTER 29 [t:1;r:3;ru:soywiz, , ,evilluendas,memnoch;time:1157722711]
+<CHARA:REID>
+
+## POINTER 30 [t:1;r:4;ru:evilluendas,pacochan,soywiz,memnoch;user:evilluendas;time:1160662293]
+Lo que tú digas...
+
+## POINTER 31 [t:1;r:3;ru:soywiz, , ,evilluendas,memnoch;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 32 [t:1;r:4;ru:evilluendas,pacochan,soywiz,memnoch;time:1157722711]
+¡¡Vámonos!!
+
+## POINTER 34 [t:1;r:4;ru:evilluendas,pacochan,soywiz,memnoch;time:1157722711]
+<826B><8285><8294><8140><8295><8293><8140><8287><8285><8294><8140><8287><828F><8289><828E><8287><8149>
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310070]
+¿Qué arma quieres?<OPTION:0000>
+<ITEM:6E00>
+<ITEM:6D00>
+<ITEM:5300>
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Cambiemos <ITEM:00120004>
+por <ITEM:00120404>.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Pero si es lo mismo...
+Bueno, no pasa nada.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310070]
+¿Equipar <ITEM:00120404>?<OPTION:0000>
+Sí
+No
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+<ITEM:00120404> equipada.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+Has de equiparte algo.
+<ITEM:00120404> se ha equipado
+temporalmente.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310049]
+<ITEM:00120804> está actualmente equipada.
+
+## POINTER 52 [t:1;r:4;ru:evilluendas,pacochan,soywiz,memnoch;time:1157722711]
+Muy bien, cancelaremos el intercambio.
+
+## POINTER 54 [t:1;r:4;ru:evilluendas,pacochan,soywiz,memnoch;user:evilluendas;time:1160662293]
+No tienes ningún arma predeterminada.

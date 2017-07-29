@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1159270097]
+Jini De Noche 1
+
+## POINTER 2 [t:1;user:memnoch;time:1295630256]
+No todos los días
+vamos a Jini.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:soywiz;time:1159959229]
+¡Vayamos a malgastar dinero!
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1159365975]
+Cuando pierdes todo tu
+dinero, lo pierdes todo...
+
+## POINTER 8 [t:1;user:memnoch;time:1295096007]
+Tu estatus, la autoconfianza...
+incluso el amor.
+
+## POINTER 10 [t:1;user:memnoch;time:1295096007]
+Me encanta gastar dinero. <81A5>
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:evilluendas;time:1159296531]
+He perdido todo lo que tenía.
+
+## POINTER 14 [t:1;user:memnoch;time:1295528509]
+Préstame un jini, ¿quieres?
+¿Solo un jini?
+¡Por favor!
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1159270097]
+<OPTION:0000>Sí
+No
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:evilluendas;time:1159296531]
+Awww.
+¿Estás arruinado también?
+
+## POINTER 20 [t:1;user:memnoch;time:1295388665]
+¡Oye, un millón de 
+gracias! ¡Te prometo 
+que te lo devolveré
+multiplicado por diez!
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1159365975]
+¡Oh, venga!
+Considéralo como una buena acción.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1167903025]
+¿Quieres embarcar en el Aifish?
+<OPTION:0000>Sí
+No
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:soywiz;time:1159984617]
+¡Baiba!
+¡Nos aprecia!
+¡Sin shock!
+
+## POINTER 27 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 28 [t:1;user:memnoch;time:1294683927]
+¡¡Bua, ja, ja, ja!!
+¡Eso es porque por fin
+siente mi amor!
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1159365975]
+Ahora que lo pienso...
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1159365975]
+Una mujer que vimos por aquí
+nos pidió que diéramos este
+mensaje al líder de Shileska.
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:evilluendas;time:1159296531]
+¿Sí?
+
+## POINTER 35 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 36 [t:1;user:memnoch;time:1295528557]
+El Portador de la Fortuna, Miacis, es solo
+una superstición. Al igual que hay
+diferencias en el color del pelo de la
+gente, el pigmento de la piel animal afecta...
+
+## POINTER 37 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:evilluendas;time:1159296531]
+¡¿Desapareció?!
+
+## POINTER 39 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:pacochan;time:1167903026]
+¡Hwil!
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 42 [t:1;user:memnoch;time:1286297172]
+¡El miacis rosa no es superstición!
+¡De verdad es el Dios de la Fortuna!
+
+## POINTER 43 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1159365975]
+El <BOLD:0100>Dios de la Fortuna<BOLD:0000>, ¿eh?
+
+## POINTER 45 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 46 [t:1;user:memnoch;time:1294683927]
+Sí, ¡¿es cierto?!
+
+## POINTER 47 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 48 [t:1;user:memnoch;time:1294683927]
+¡Bua, ja, ja, ja!
+
+## POINTER 50 [t:1;user:memnoch;time:1295571765]
+<CHARA:MAX> aprende Maestro Elemental.

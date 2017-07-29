@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166960279]
+Camino a la torre de Vigilancia (destruida)
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 2 [t:1;user:memnoch;time:1295650689]
+¡Fiu!
+<CHARA:FARAH>, ¿estás bien?
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 4 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161436011]
+¡Sí, estoy bien!
+Pero ha caído algo, ¿verdad?
+¡Voy a echar un vistazo!
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160673650]
+Eh, ¡<CHARA:FARAH>! ¡Espera!
+¡¡Es muy peligroso!!
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 8 [t:1;user:memnoch;time:1295091443]
+¡Argh!
+¡Siempre igual!

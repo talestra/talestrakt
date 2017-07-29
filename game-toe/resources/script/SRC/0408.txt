@@ -1,0 +1,166 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160136756]
+1P Posada (Deshielo)
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:soywiz;time:1160120869]
+¿No vas a comprar nada?
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+Gracias.
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+Vuelve de nuevo.
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161287910]
+Te lo digo... <CHARA:REID>, cuando
+se trata de comer, pierde toda la
+fuerza de voluntad.
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157733014]
+Bienvenidos a mi establecimiento.
+Hace una temperatura estupenda fuera,
+¿a que sí? Tenemos una habitación en
+el segundo piso.
+
+## POINTER 12 [t:1;user:memnoch;time:1286290654]
+Son <VAR:00114A00> gald por noche.
+¿Deseas quedarte?
+<OPTION:0000>Sí
+No
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+Por favor, sentíos como en casa.
+
+## POINTER 16 [t:1;user:memnoch;time:1295301488]
+Por favor, tened cuidado.
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+Me temo que no tenéis suficiente dinero.
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+Espero veros en vuestra
+próxima visita.
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+Muchas gracias chicos, el hielo
+se derritió y la temperatura sigue
+subiendo. ¡Por fin puedo empezar
+a trabajar!
+
+## POINTER 24 [t:1;user:memnoch;time:1295551298]
+¡Mañana comenzará
+el trabajo duro!
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160120869]
+El hielo se ha derretido por fin,
+¿y ahora me decís que el cielo
+se va a caer sobre nosotros?
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+¡Oh, esto es demasiado gracioso!
+
+## POINTER 30 [t:1;user:memnoch;time:1295556011]
+¡Comer en una habitación
+calentita, hoy por hoy,
+es un auténtico lujo!
+
+## POINTER 32 [t:1;user:memnoch;time:1295556011]
+¡Oooh, sí!
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160120869]
+He oído que Shileska perdió
+la batalla contra Balir.
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1167760457]
+¡Maldito seas, Balir!
+¡¡Argh!!
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161287911]
+¡No puedo creer que realmente
+hayáis vuelto de la montaña
+durante la terrible tormenta!
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+¡La gente de esta ciudad hablará
+de vuestro heroísmo para siempre!
+
+## POINTER 42 [t:1;user:memnoch;time:1295556011]
+En verdad sois
+los héroes de Peruti.
+
+## POINTER 44 [t:1;user:memnoch;time:1294858551]
+Ahora que lo pienso,
+el craymel de hielo había
+sido considerado como
+un mal augurio.
+
+## POINTER 46 [t:1;user:memnoch;time:1294858551]
+¿Qué le va a ocurrir al mundo?
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 48 [t:1;user:memnoch;time:1294858551]
+Eh, mirad.
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 50 [t:1;user:memnoch;time:1294858551]
+Esta estufa usa
+una jaula craymel.
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+¿Qué es esto?
+¿Un gato?
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+No es un gato.
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 56 [t:1;user:memnoch;time:1286297006]
+Es un miacis.
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 58 [t:1;r:1;ru:pacochan;user:pacochan;time:1167760458]
+Es un animal que ha vivido 
+junto con los humanos en 
+Celestia desde tiempos antiguos.
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1157732941]
+¡Es taaaan mono!
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962739]
+¡Kwiikii!
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 64 [t:1;user:memnoch;time:1294858551]
+No te preocupes.
+¡Quickie todavía
+es mi mejor amigo!
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163962763]
+¡Kwiikii!
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 68 [t:1;user:memnoch;time:1294858551]
+¡Ji, ji!

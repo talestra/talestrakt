@@ -1,0 +1,389 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675043]
+La casa del Anciano (muro destruido)
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1286629959]
+¿Puedo comerme esto?
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286629959]
+¡AY!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1286629959]
+Encuentras 500 gald.
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Nos tendrían que dar una propina
+por todo el trabajo que nos espera.
+
+## POINTER 9 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+No os detendré
+si os vais a marchar.
+
+## POINTER 11 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¿Qué significa esto?
+¡Os había dicho que
+expulsarais a la chica!
+
+## POINTER 13 [t:1;r:4;ru:soywiz, pacochan,evilluendas,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Solo hemos entrado un momento.
+Nos iremos enseguida.
+
+## POINTER 15 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Mi deber es proteger
+el pueblo de todo peligro.
+
+## POINTER 17 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Me duele... la espalda.
+Necesito un poco de banrea.
+
+## POINTER 19 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Ya he saldado mi deuda
+con vosotros por el banrea.
+
+## POINTER 21 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675043]
+Esta es la casa del Anciano.
+
+## POINTER 23 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Mi espalda se curaría enseguida si tuviera
+la medicina legendaria: el banrea.
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+<CHARA:REID>.
+Busquemos los tres
+ingredientes del banrea.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630581]
+<OPTION:0000>Sí
+No
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¡Oh, <CHARA:REID>!
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 32 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+¡Está bien!
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¡Vamos a preguntar por el pueblo
+ahora que nos hemos decidido!
+
+## POINTER 35 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 36 [t:1;r:3;ru:pacochan,evilluendas,memnoch;user:pacochan;time:1160665106]
+¡Ningún problema!
+
+## POINTER 37 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 38 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Nada es imposible en este mundo.
+
+## POINTER 39 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Siempre que os miro
+siento que eso es así.
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 42 [t:1;r:3;ru:pacochan,evilluendas,memnoch;user:pacochan;time:1160665106]
+¿Cómo está su espalda?
+
+## POINTER 43 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¡Mirad!
+¡Está genial!
+
+## POINTER 45 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Y todo gracias al
+banrea que me disteis.
+
+## POINTER 47 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+¡Nos alegra oír eso!
+
+## POINTER 49 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630581]
+Volved cuando os canséis de
+vuestras aventuras, ¿vale?
+
+## POINTER 51 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Rasheans...
+Esta es vuestro hogar.
+
+## POINTER 53 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Muchas gracias.
+
+## POINTER 55 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 56 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Gracias.
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630581]
+¡Anciano! 
+¿Se encuentra bien?
+
+## POINTER 59 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¿Se ha hecho daño
+otra vez en la espalda?
+
+## POINTER 61 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¿Y qué pasa?
+No es para tanto.
+
+## POINTER 63 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630581]
+¡No!
+¡Déjeme ayudar en algo!
+
+## POINTER 65 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¡No, estoy bien!
+Además, un poco de ayuda no
+va a arreglarme la espalda.
+
+## POINTER 67 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Pero si me traéis una
+medicina especial, tal
+vez podamos hablar, ¿eh?
+
+## POINTER 69 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Oiga, eso no vale.
+
+## POINTER 71 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 72 [t:1;r:3;ru:pacochan,evilluendas,memnoch;user:pacochan;time:1160665106]
+¿Cómo se llama la medicina?
+
+## POINTER 73 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 74 [t:1;r:3;ru:pacochan,evilluendas,memnoch;user:soywiz;time:1157724428]
+<COLOR:0D00>Banrea<COLOR:0F00>...
+
+## POINTER 75 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 76 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Es una medicina legendaria que se obtiene
+al fermentar <COLOR:0D00>tres ingredientes<COLOR:0F00>.
+
+## POINTER 77 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 78 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+¿Tres ingredientes?
+
+## POINTER 79 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 80 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Eso es todo cuanto sé. Deberíais
+preguntar a los conciudadanos.
+
+## POINTER 81 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 82 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Por supuesto, solo si
+si deseáis hacerlo...
+
+## POINTER 83 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 84 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Desagradecido...
+
+## POINTER 85 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 86 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630581]
+Pero es cierto que se
+hizo daño en la espalda
+por nuestra culpa.
+
+## POINTER 87 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 88 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Vamos, <CHARA:REID>, busquemos los
+tres ingredientes para el banrea.
+
+## POINTER 90 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630581]
+<OPTION:0000>Sí
+No
+
+## POINTER 91 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 92 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¡Oh, <CHARA:REID>!
+
+## POINTER 93 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 94 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¡Vale!
+¡Vamos a preguntar por el pueblo
+ahora que nos hemos decidido!
+
+## POINTER 95 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 96 [t:1;r:3;ru:pacochan,evilluendas,memnoch;user:pacochan;time:1160665106]
+¡Ningún problema!
+
+## POINTER 97 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 98 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¡Anciano!
+¡Traemos el banrea!
+
+## POINTER 99 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 100 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+¿En serio?
+
+## POINTER 101 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:REID>
+
+## POINTER 102 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Nos ha costado mucho
+conseguirlo, puede creernos.
+
+## POINTER 103 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 104 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Espero sinceramente que su
+pobre espalda se recupere.
+
+## POINTER 105 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 106 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+B-Bueno, entonces...
+
+## POINTER 107 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 108 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Esperad un momento.
+
+## POINTER 109 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 110 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Tomad esto.
+
+## POINTER 111 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 112 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Anciano...
+
+## POINTER 113 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 114 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Mmpf. Digamos que con
+esto estamos en paz.
+
+## POINTER 115 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Khamran
+
+## POINTER 116 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+Poneos en marcha.
+
+## POINTER 117 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 118 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722710]
+¡Volveremos!
+
+## POINTER 120 [t:1;r:1;ru:memnoch;user:memnoch;time:1286630516]
+Has recibido <COLOR:0D00>Campana de viento<COLOR:0F00>.

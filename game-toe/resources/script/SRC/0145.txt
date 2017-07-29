@@ -1,0 +1,59 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Tienda del Viajero
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Tienda del Viajero
+
+## POINTER 2 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161542655]
+¿Quieres que te aconseje 
+sobre técnicas de lucha?
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161542656]
+<OPTION:0000>Sí
+No
+
+## POINTER 6 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 7 [t:1;user:memnoch;time:1295084416]
+<COLOR:0D00>Las habilidades sagradas<COLOR:0F00> se aprenden
+combinando habilidades especiales.
+
+## POINTER 8 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 9 [t:1;user:memnoch;time:1295084416]
+Para conseguir habilidades sagradas,
+debes aumentar tus niveles de corte
+y estocada.
+
+## POINTER 10 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 11 [t:1;user:memnoch;time:1295084416]
+También debes utilizar las habilidades
+especiales que son la base de las
+habilidades sagradas una y otra vez.
+
+## POINTER 12 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+Widdok
+
+## POINTER 13 [t:1;user:memnoch;time:1294681613]
+Es tu vida.
+Eres libre de escoger tu
+propio estilo de lucha.
+
+## POINTER 15 [t:1;user:memnoch;time:1294681613]
+¡Bienvenidos, viajeros!
+Todo lo que necesitéis para vuestro
+viaje lo encontraréis justo aquí.
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310979]
+¡No tienes nada que temer
+si estás preparado!
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310979]
+¡Vuelve pronto!

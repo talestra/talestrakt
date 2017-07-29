@@ -1,0 +1,10 @@
+## POINTER 0 [t:1;r:2;ru:soywiz,evilluendas;time:1157722711]
+Sala de Escaleras, Tumba de Aifread
+
+## POINTER 2 [t:1;user:memnoch;time:1294597098]
+Esto es un punto de carga.
+
+## POINTER 4 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1167948014]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.

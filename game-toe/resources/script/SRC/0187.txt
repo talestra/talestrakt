@@ -1,0 +1,199 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:soywiz;time:1157759591]
+Teatro Imperial
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1162658712]
+¡Bienvenido!
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1162754515]
+Si te das prisa, todavía podrás
+encontrar algunos asientos.
+
+## POINTER 6 [t:1;user:memnoch;time:1295209060]
+¿Q-Qué es esto?
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1162658712]
+Es la reposición de <COLOR:0D00>La Leyenda de 
+Ultus Veigh<COLOR:0F00>, un gran éxito de hace
+más de una década.
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+Chef Maravillas
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+Chef Maravillas
+
+## POINTER 12 [t:1;user:memnoch;time:1294592555]
+Te enseñaré cómo hacer una
+<COLOR:0D00>tarta<COLOR:0F00> que no llena mucho y es
+muy digestiva.
+
+## POINTER 14 [t:1;user:memnoch;time:1294592555]
+Has aprendido a hacer tarta.
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+Chef Maravillas
+
+## POINTER 16 [t:1;user:memnoch;time:1294592555]
+La tarta tiene cuatro ingredientes:
+huevos, <ITEM:00010C01>, leche y fresas.
+
+## POINTER 18 [t:1;user:memnoch;time:1294592555]
+Has recibido los ingredientes
+de la tarta.
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+Chef Maravillas
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+¡Que tengas un buen día!
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+¡Por favor, ve dentro!
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1162658712]
+Nuestra obra estrella para hoy es
+la <COLOR:0D00>Leyenda de Ultus Veigh<COLOR:0F00>.
+¿Desearías verla?
+
+## POINTER 26 [t:1;user:memnoch;time:1286292305]
+Acto 1 - <VAR:0012D40400000F30> gald
+
+## POINTER 28 [t:1;user:memnoch;time:1286292305]
+Acto 1 - <VAR:0012D40400000F30> gald
+Acto 2 - <VAR:0012D40401000F30> gald
+
+## POINTER 30 [t:1;user:memnoch;time:1286292305]
+Acto 1 - <VAR:0012D40400000F30> gald
+Acto 2 - <VAR:0012D40401000F30> gald
+Acto 3 - <VAR:0012D40402000F30> gald
+
+## POINTER 32 [t:1;user:memnoch;time:1286292305]
+Acto 1 - <VAR:0012040400000F30> gald
+Acto 2 - <VAR:0012040401000F30> gald
+Acto 3 - <VAR:0012040402000F30> gald
+Acto 4 - <VAR:0012040403000F30> gald
+
+## POINTER 34 [t:1;user:memnoch;time:1286292305]
+Acto 2 - <VAR:0012040401000F30> gald
+Acto 3 - <VAR:0012040402000F30> gald
+Acto 4 - <VAR:0012040403000F30> gald
+Acto 5 - <VAR:0012040404000F30> gald
+
+## POINTER 36 [t:1;user:memnoch;time:1286292305]
+Acto 3 - <VAR:0012040402000F30> gald
+Acto 4 - <VAR:0012040403000F30> gald
+Acto 5 - <VAR:0012040404000F30> gald
+Acto 6 - <VAR:0012040405000F30> gald
+
+## POINTER 38 [t:1;user:memnoch;time:1286292305]
+Acto 4 - <VAR:0012040403000F30> gald
+Acto 5 - <VAR:0012040404000F30> gald
+Acto 6 - <VAR:0012040405000F30> gald
+Acto 7 - <VAR:0012040406000F30> gald
+
+## POINTER 40 [t:1;user:memnoch;time:1286292305]
+Acto 5 - <VAR:0012040404000F30> gald
+Acto 6 - <VAR:0012040405000F30> gald
+Acto 7 - <VAR:0012040406000F30> gald
+Acto 8 - <VAR:0012040407000F30> gald
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+Es una buena historia, ¿sabes?
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+No tienes suficiente dinero.
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1162754600]
+Gracias.
+¡Por favor, entra directamente!
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+No tienes suficiente dinero.
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:pacochan;time:1162658712]
+Gracias, gracias.
+¡Por favor, entra directamente!
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734879]
+Aparición Especial de
+<COLOR:0D00>El Trío del Dolor<COLOR:0F00>
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734604]
+<COLOR:0D00>La Leyenda de Ultus Veigh<COLOR:0F00>
+
+## POINTER 56 [t:1;user:memnoch;time:1294851595]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 58 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734748]
+¿Un artículo perdido?
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734748]
+Ha sido reclamado por
+aquel cliente de ahí...
+
+## POINTER 62 [t:1;user:memnoch;time:1295630846]
+¿Q-Qué quieres?
+¡Esto es mío!
+¡Te digo que es verdad!
+
+## POINTER 63 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734748]
+¿Qué has dejado caer?
+
+## POINTER 66 [t:1;user:memnoch;time:1294851595]
+¡N-No mires!
+¡Te digo que no mires!
+
+## POINTER 67 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;user:memnoch;time:1297459951]
+¡¿Eh?!
+
+## POINTER 70 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734748]
+¡Ah!
+
+## POINTER 71 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734748]
+¿Qué era?
+
+## POINTER 73 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 74 [t:1;user:memnoch;time:1294851595]
+Bueno, no
+era una espada.
+
+## POINTER 76 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157734748]
+No puedo creer que haya 
+dejado a una chica ver esto...
+
+## POINTER 78 [t:1;user:memnoch;time:1294851595]
+¡E-Esto es demasiado!
+
+## POINTER 79 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 80 [t:1;r:1;ru:pacochan;user:pacochan;time:1162658712]
+Vale, sigamos.
+
+## POINTER 81 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 82 [t:1;user:memnoch;time:1294851595]
+Vale...
+
+## POINTER 83 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 84 [t:1;user:memnoch;time:1294851595]
+Esta es la salida...

@@ -1,0 +1,130 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1167664080]
+Dormitorios 1 2a Planta
+
+## POINTER 1 [t:1;r:1;ru:pacochan;user:pacochan;time:1160162491]
+Chef Maravillas
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1160162491]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:pacochan;time:1160162491]
+Chef Maravillas
+
+## POINTER 4 [t:1;user:memnoch;time:1294592425]
+Te enseñaré cómo hacer
+<COLOR:0D00>tofu amargo<COLOR:0F00> con 
+sabores refinados.
+
+## POINTER 6 [t:1;user:memnoch;time:1294592425]
+Has aprendido a hacer tofu amargo.
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:pacochan;time:1160162491]
+Chef Maravillas
+
+## POINTER 8 [t:1;user:memnoch;time:1294592425]
+tofu amargo tiene cuatro ingredientes:
+tofu, satay rojo, carne de jabalí
+y satay negro.
+
+## POINTER 10 [t:1;user:memnoch;time:1294592425]
+Has recibido los ingredientes
+para hacer tofu amargo.
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:pacochan;time:1160162491]
+Chef Maravillas
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:korsso;time:1160152975]
+¡Que tengas un buen día!
+
+## POINTER 14 [t:1;r:1;ru:soywiz;user:soywiz;time:1167941479]
+¿Deseas descansar?<OPTION:0000>
+Sí
+No
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1167664080]
+<OPTION:0000><BUTTON:0000>, <BUTTON:0100>
+<BOLD:0100>:<BOLD:0000> CANCELAR
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:korsso;time:1160152975]
+¿Qué ocurre, <CHARA:MEREDY>?
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 20 [t:1;user:memnoch;time:1295531669]
+¿Eh?
+Esta habitación...
+Es... nostálgica.
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;user:memnoch;time:1295531687]
+¿Habías estado en
+esta habitación antes?
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 24 [t:1;user:memnoch;time:1295531687]
+N-No.
+Ja, ja. Qué tonta soy.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 26 [t:1;user:memnoch;time:1295544788]
+Ji, ji.
+Bueno, no quiero ser grosera con <CHARA:REID>,
+pero, ¿por qué no nos vamos a dormir?
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1160162491]
+¡Por supuesto!
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:korsso;time:1160152975]
+¡Nada!
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:korsso;time:1160152975]
+¿No recuerdas nada de tus padres?
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;user:memnoch;time:1295528984]
+Solo recuerdo...tristeza...
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 36 [t:1;user:memnoch;time:1295528984]
+Ya veo...
+Te duele recordar.
+Lo siento...
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1160162491]
+No pasa nada.
+¡Estoy bien! ¡Tengo a Galenos,
+<CHARA:REID>, <CHARA:KEELE>, y <CHARA:FARAH>!
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 40 [t:1;user:memnoch;time:1295528984]
+Ji, ji. Gracias.
+Eres muy fuerte, <CHARA:MEREDY>.

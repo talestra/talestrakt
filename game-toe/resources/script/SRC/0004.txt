@@ -1,0 +1,68 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Rasheans actual C
+
+## POINTER 2 [t:1;r:4;ru:pacochan,evilluendas,soywiz,memnoch;user:soywiz;time:1160112335]
+Has encontrado <ITEM:00010C01>.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310645]
+Has encontrado <ITEM:00010C01>,
+pero no puedes llevar más.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+<COLOR:0E00>Mintche, la ciudad académica<COLOR:0F00>,
+se encuentra hacia el <COLOR:0E00>sur<COLOR:0F00>.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+¿<COLOR:0E00>Mintche, la ciudad académica<COLOR:0F00>?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Está yendo hacia el <COLOR:0E00>sur<COLOR:0F00> del río Rasheans,
+Aun así, ¿por qué querrías ir allí?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Otra explosión en el cielo...
+¿Qué es lo que está pasando?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Este es el mapa C de Rasheans.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+¿Estáis buscando los ingredientes
+del <COLOR:0D00>banrea<COLOR:0F00>?
+Lleva su tiempo hacerlo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Atended.
+Uno de los ingredientes
+son los <COLOR:0D00>cuernos de cabra<COLOR:0F00>.
+
+## POINTER 19 [t:1;r:4;ru:soywiz, pacochan, ,evilluendas,memnoch;time:1157722708]
+<CHARA:REID>
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+¿Cuernos de cabra?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Son los cuernos de <COLOR:0D00>falcia<COLOR:0F00>,
+cabras salvajes que viven en las
+montañas sagradas.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310645]
+Con suerte, soltarán los
+cuernos después de la batalla.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+He oído que puedes encontrar
+cuernos de falcia en el monte Farlos.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Buena suerte cuando
+vayas a por ellos.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Vaya, veo que has encontrado
+un <COLOR:0D00>cuerno de cabra<COLOR:0F00>.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1286310631]
+Eso significa que tienes uno
+de los ingredientes del banrea.

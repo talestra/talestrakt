@@ -1,0 +1,129 @@
+## POINTER 0 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160237599]
+Chambard 1
+
+## POINTER 2 [t:1;user:memnoch;time:1295086892]
+Si estás buscando el desfiladero
+de Efreet, debes ir al <COLOR:0E00>sureste<COLOR:0F00>
+desde aquí.
+
+## POINTER 4 [t:1;user:memnoch;time:1295057578]
+¿El craymel supremo de fuego?
+No tengo ni idea.
+Pero...
+
+## POINTER 6 [t:1;user:memnoch;time:1295086892]
+Si cruzas el desierto desde aquí yendo al
+<COLOR:0E00>sureste<COLOR:0F00>, llegarás a un lugar de fuego
+llamado <COLOR:0E00>desfiladero de Efreet<COLOR:0F00>.
+
+## POINTER 8 [t:1;r:2;ru:pacochan,evilluendas;user:Lobap;time:1159380176]
+Tal vez vaya en busca de
+algo de aventura también...
+
+## POINTER 10 [t:1;user:memnoch;time:1295086892]
+¿Fuisteis al desfiladero de Efreet?
+
+## POINTER 12 [t:1;r:2;ru:pacochan,evilluendas;user:Lobap;time:1159380176]
+¿Y os las apañasteis para volver vivos?
+Estoy impresionado.
+
+## POINTER 14 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160237599]
+He oído de casualidad a
+algunos marineros hablar...
+
+## POINTER 16 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160237599]
+Se supone que hay algo realmente
+grande en el fondo del océano
+al <COLOR:0E00>norte<COLOR:0F00> de aquí.
+
+## POINTER 18 [t:1;user:memnoch;time:1295091747]
+¡Bienvenidos a la taberna de Chambard!
+
+## POINTER 20 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166635217]
+Nuestra chef es insuperable.
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1173923839]
+No obtuvo el título de
+<BOLD:0100>Maestra del Sabor<BOLD:0000> por nada.
+
+## POINTER 24 [t:1;user:memnoch;time:1295611169]
+Antes de morir me
+gustaría hincarle el diente
+a la comida celestiana.
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 26 [t:1;user:memnoch;time:1295488808]
+¡Mirad!
+¡Es un restaurante!
+¡Entremos!
+
+## POINTER 28 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1160237599]
+¡Discúlpeme, joven!
+
+## POINTER 30 [t:1;user:memnoch;time:1295091762]
+La taberna de Chambard
+NO es un restaurante.
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 32 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166635217]
+Estarás de guasa, ¿no?
+El edificio, la decoración...
+¿Qué otra cosa puede ser?
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1173923839]
+Es un lugar de primera clase,
+así que no somos bienvenidos.
+Te refieres a eso, ¡¿verdad?!
+
+## POINTER 36 [t:1;user:memnoch;time:1295300906]
+No, no quería decir
+eso exactamente.
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;user:memnoch;time:1295300906]
+Entonces ¡¿qué querías decir?!
+
+## POINTER 40 [t:1;user:memnoch;time:1295300906]
+Como dicen, los cocineros tienen
+sus batallas en las cocinas.
+
+## POINTER 42 [t:1;user:memnoch;time:1295091762]
+La taberna de Chambard es un lugar
+donde cocineros de élite compiten 
+unos con otros midiendo sus 
+habilidades culinarias.
+
+## POINTER 44 [t:1;user:memnoch;time:1295302137]
+Si cree que su comida puede
+competir, entonces entre.
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162663931]
+No estoy segura de seguirte,
+pero suena interesante.
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;r:3;ru:pacochan,soywiz,evilluendas;user:pacochan;time:1160237599]
+¡Ningún problema!
+
+## POINTER 49 [t:1;r:2;ru:pacochan,soywiz;user:pacochan;time:1160237599]
+switch 220 off
+
+## POINTER 50 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+DebugMessage
+
+## POINTER 51 [t:1;r:2;ru:pacochan,soywiz;time:1157722708]
+Error

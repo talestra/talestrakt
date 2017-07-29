@@ -1,0 +1,22 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1165050262]
+Mercado de Pescado de Barole
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1165050263]
+Agua de mar
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1165050263]
+¡Bienvenidos, bienvenidos!
+¡Comprad pescado fresco aquí!
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160218285]
+¡Muchas gracias!
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:pacochan;time:1166634540]
+¿No os gusta el pescado?
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160218285]
+Has encontrado <ITEM:00120004>.
+
+## POINTER 11 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1165050263]
+Has encontrado <ITEM:00120004>, 
+pero no puedes llevar más.

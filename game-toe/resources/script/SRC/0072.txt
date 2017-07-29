@@ -1,0 +1,252 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163849714]
+Muelle del Río Rasheans
+
+## POINTER 1 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166950372]
+¿Estás preparado?
+<OPTION:0000>Sí
+No
+
+## POINTER 3 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1286150587]
+Vuelve cuando lo estés.
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157726314]
+toe:<VAR:00114800>
+
+## POINTER 6 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041988]
+Como Paollo no está aquí,
+la corriente va muy rápida...
+
+## POINTER 8 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041988]
+¿Deberíamos montar en la balsa?<OPTION:0000>
+Sí
+No
+
+## POINTER 10 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 11 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¡Allá vamos!
+
+## POINTER 12 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 13 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+Estoy de acuerdo. Es muy peligroso.
+
+## POINTER 14 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041988]
+¿Quién es esta chica
+exactamente?
+
+## POINTER 16 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163888805]
+Color de pelo extraño.
+Ropa que no había visto nunca.
+Y una piedra rara en la frente.
+
+## POINTER 18 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 19 [t:1;user:memnoch;time:1295543248]
+¿Será una artista ambulante?
+
+## POINTER 21 [t:1;r:1;ru:soywiz;user:soywiz;time:1165457295]
+<CHARA:MEREDY> ha obtenido
+el título de <COLOR:0D00>Artista Ambulante<COLOR:0F00>
+
+## POINTER 22 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 23 [t:1;user:memnoch;time:1295573976]
+Mmmm, aaah... <CHARA:MEREDY>,
+¿De dónde vienes?
+¿Por qué has venido?
+
+## POINTER 24 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 25 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041988]
+<8268><8286><8140><8294><8288><8289><828E><8287><8293>
+<8284><828F><8140><828E><828F><8294><8140><8283><8288><8281><828E><8287><8285><8143>
+<8294><8288><8285><8293><8285><8140><8294><8297><828F><8140><8297><828F><8292><828C><8284><8293>
+<8297><8289><828C><828C><8140><8282><8285><8140><8284><8285><8293><8294><8292><828F><8299><8285><8284><8149>
+
+## POINTER 26 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 27 [t:1;r:1;ru:soywiz;user:soywiz;time:1166986971]
+Bueno... 
+Si no podemos entenderla, no 
+vamos a llegar a ninguna parte.
+
+## POINTER 28 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 29 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+<CHARA:REID>...
+
+## POINTER 30 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 31 [t:1;user:memnoch;time:1297458679]
+¡Fiburil, fiburil!
+
+## POINTER 32 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 33 [t:1;user:memnoch;time:1297458679]
+¡Au, au, au!
+
+## POINTER 34 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 35 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041988]
+¿Qué es esa luz?
+¿Qué es un <BOLD:0100>fiburil<BOLD:0000>?
+
+## POINTER 36 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 37 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041988]
+No lo sé, pero parece
+obvio que quiere que la
+ayudes.
+
+## POINTER 38 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1162019630]
+¿Tendrá miedo de que
+vuelva el que nos atacó?
+
+## POINTER 40 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 41 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+Quizá...
+
+## POINTER 42 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 43 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163888906]
+Bueno, no hay de
+qué preocuparse....
+Dejaremos que <CHARA:KEELE> lo averigüe.
+
+## POINTER 44 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 45 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1158395658]
+Supongo que sí. ¡Ha pasado mucho
+tiempo desde que vimos a <CHARA:KEELE>
+por última vez! ¡Apuesto a que se
+ha convertido en un gran erudito!
+
+## POINTER 46 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 47 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163888906]
+A saber...
+
+## POINTER 48 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 49 [t:1;user:memnoch;time:1294956975]
+Llamaré a los craymels 
+para calmar las aguas
+del río Rasheans.
+
+## POINTER 50 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 51 [t:1;r:1;ru:pacochan;user:pacochan;time:1162019630]
+Mientras está en calma, bajad
+con la balsa por el río.
+
+## POINTER 52 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 53 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041989]
+<8262><826E><826C><8264><8140><826E><826D><8149><8140><8262><826E><826C><8264><8140><826E><826D><8149>
+<8262><826E><826C><8264><8140><826E><826D><8149><8140><8262><826E><826C><8264><8140><826E><826D><8149>
+
+## POINTER 54 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 55 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¡Guau!
+
+## POINTER 56 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 57 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041989]
+<8262><8281><828E><8140><8299><828F><8295>
+<8295><828E><8284><8285><8292><8293><8294><8281><828E><8284><8140><828D><8285><8148>
+
+## POINTER 58 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 59 [t:1;user:memnoch;time:1297458679]
+¿S-S-Sí?
+
+## POINTER 60 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:REID>
+
+## POINTER 61 [t:1;user:memnoch;time:1295091818]
+¡P-Por favor!
+No le hagas caso.
+
+## POINTER 62 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 63 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041989]
+Que el poder de Seyfert
+os proteja durante el viaje...
+
+## POINTER 64 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 65 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041989]
+¡Muchas gracias, Paollo!
+¡Buena suerte a ti también!
+
+## POINTER 66 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 67 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+Er, esto... ¡Gracias!
+
+## POINTER 68 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 69 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161041989]
+Paollo y yo estudiamos
+juntos en el dojo.
+
+## POINTER 70 [t:1;r:1;ru:soywiz, ;time:1157722707]
+Paollo
+
+## POINTER 71 [t:1;user:memnoch;time:1297458679]
+¡Tú... te acuerdas de mí!
+
+## POINTER 72 [t:1;r:1;ru:soywiz, ;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 73 [t:1;r:1;ru:pacochan;user:pacochan;time:1286151946]
+Bien, ¡vamos allá!

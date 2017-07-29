@@ -1,0 +1,144 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+Entrada al Monte Celsius
+
+## POINTER 2 [t:1;user:memnoch;time:1294597262]
+Esto es un punto de carga.
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166569641]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+No podemos hacerlo.
+Hace demasiado frío...
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166569641]
+Vayamos a la
+Tienda de Montaña
+en Peruti.
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+¡<CHARA:MEREDY>!
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+¡Esperad!
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 14 [t:1;user:memnoch;time:1297462464]
+¡Qué... frío!
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+¿Queremos ropa más caliente?
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166569641]
+Vayamos a la
+Tienda de Montaña
+en Peruti.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+¡Estoy de acuerdo!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+¡No puedo ver nada!
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+Vamos a invocar a Efreet.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 26 [t:1;user:memnoch;time:1295550383]
+<8262><828F><828D><8285><8140><828F><828E><8149><8140><8262><828F><828D><8285><8140><828F><828E><8149>
+<8262><828F><828D><8285><8140><828F><828E><8149> ¡¡Efreet!!
+
+## POINTER 27 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+Efreet
+
+## POINTER 28 [t:1;user:memnoch;time:1295550383]
+¿Mmm? Mirad esto...
+¡Este lugar está cubierto de hielo!
+¡¿Qué estarán haciendo los craymels
+de hielo?!
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+Efreet
+
+## POINTER 30 [t:1;user:memnoch;time:1295550412]
+Queréis que haga algo
+con la nieve, ¿verdad?
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 32 [t:1;user:memnoch;time:1295301427]
+¡Eso es!
+¡¡POR FAVOR, haz algo!!
+Tenemos taaaanto frío...
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 34 [t:1;user:memnoch;time:1295557613]
+Nos congelaríamos
+sin tu ayuda.
+
+## POINTER 35 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+Efreet
+
+## POINTER 36 [t:1;user:memnoch;time:1295550173]
+¿De verdad hace tanto frío?
+Yo no noto nada. 
+Vamos a ver...
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+Efreet
+
+## POINTER 38 [t:1;user:memnoch;time:1294853354]
+Este territorio pertenece
+a los craymels de hielo.
+No sé cuánto aguantará mi
+poder.
+¡Id! ¡Rápido!
+
+## POINTER 39 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+¡Entendido!
+Gracias, Efreet.
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+Pulsa cualquier tecla
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1158320068]
+Pulsa cualquier tecla

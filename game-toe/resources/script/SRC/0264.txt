@@ -1,0 +1,1117 @@
+## POINTER 0 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970821]
+Taberna de Chambard (Competición)
+
+## POINTER 2 [t:1;user:memnoch;time:1295300073]
+Nuestro invitado quiere una
+<COLOR:0D00>sabrosa tortilla<COLOR:0F00>.
+
+## POINTER 4 [t:1;r:1;ru:soywiz;user:soywiz;time:1160299033]
+¿Estás preparado para competir
+con la Maestra del Sabor?
+
+## POINTER 6 [t:1;r:1;ru:soywiz;user:soywiz;time:1160293399]
+<OPTION:0000>Sí
+No
+
+## POINTER 8 [t:1;user:memnoch;time:1295212409]
+Por favor, vuelve cuando hayas
+aprendido a hacer una tortilla
+en condiciones.
+
+## POINTER 10 [t:1;r:1;ru:soywiz;user:soywiz;time:1160293399]
+Vuelve cuando tengas los
+ingredientes adecuados para
+una tortilla.
+
+## POINTER 12 [t:1;r:1;ru:soywiz;user:soywiz;time:1167969976]
+Estábamos esperándote.
+Ahora, permítenos comenzar
+el concurso de cocina.
+
+## POINTER 14 [t:1;user:memnoch;time:1295212461]
+Por favor, vuelve cuando
+estés lista.
+
+## POINTER 16 [t:1;user:memnoch;time:1295097947]
+Nuestro invitado quiere una
+<COLOR:0D00>tarta llena de energía<COLOR:0F00>.
+
+## POINTER 18 [t:1;r:1;ru:soywiz;user:soywiz;time:1167969976]
+¿Estás preparada para competir con
+la Maestra del Sabor?
+
+## POINTER 20 [t:1;r:1;ru:soywiz;user:evilluendas;time:1159732311]
+<OPTION:0000>Sí
+No
+
+## POINTER 22 [t:1;user:memnoch;time:1295212461]
+Por favor, vuelve cuando hayas
+aprendido a hacer una tarta
+en condiciones.
+
+## POINTER 24 [t:1;r:1;ru:soywiz;user:pacochan;time:1160297424]
+Vuelve cuando tengas los
+ingredientes adecuados para
+una tarta.
+
+## POINTER 26 [t:1;r:1;ru:soywiz;user:pacochan;time:1160297424]
+Estábamos esperándote.
+Ahora, comencemos el
+concurso de cocina.
+
+## POINTER 28 [t:1;user:memnoch;time:1295212461]
+Por favor, vuelve cuando estés lista.
+
+## POINTER 30 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Nuestro invitado desea una
+<COLOR:0D00>Pasta de Marisco al viejo estilo<COLOR:0F00>.
+
+## POINTER 32 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¿Estás preparado para competir
+contra la Maestra del Sabor?
+
+## POINTER 34 [t:1;r:1;ru:soywiz;user:evilluendas;time:1159732311]
+<OPTION:0000>Sí
+No
+
+## POINTER 36 [t:1;user:memnoch;time:1295212461]
+Por favor, vuelve cuando hayas
+aprendido a hacer una Pasta de
+Marisco en condiciones.
+
+## POINTER 38 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Vuelve cuando tengas los
+ingredientes necesarios
+para una Pasta de Marisco.
+
+## POINTER 40 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Te hemos estado esperando.
+¡Y ahora, que de
+comienzo el concurso!
+
+## POINTER 42 [t:1;user:memnoch;time:1295212461]
+Por favor, vuelve cuando estés lista.
+
+## POINTER 44 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡La comida ha sido
+absolutamente maravillosa!
+
+## POINTER 46 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡La excelente comida da a la
+gente ganas de llorar de alegría!
+
+## POINTER 48 [t:1;user:memnoch;time:1295301912]
+No existen verdaderas reglas que
+juzguen la calidad de la comida.
+¿Queda el invitado satisfecho?
+
+## POINTER 50 [t:1;user:memnoch;time:1295212461]
+Eso es lo que importa.
+
+## POINTER 52 [t:1;r:1;ru:soywiz;user:pacochan;time:1160297424]
+¡Damas y caballeros!
+¡¡Tenemos una nueva concursante!!
+
+## POINTER 54 [t:1;r:1;ru:soywiz;user:soywiz;time:1160541465]
+Venida del poblado lejano de Rasheans,
+¡una maestra de la comida casera!
+¡¡La Señorita <CHARA:FARAH> Oersted!!
+
+## POINTER 56 [t:1;r:1;ru:soywiz;user:soywiz;time:1167969976]
+¡Ahora, presentemos a nuestro
+invitado para esta ronda!
+
+## POINTER 58 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡¡Vamos!!
+
+## POINTER 60 [t:1;user:memnoch;time:1295091709]
+Bienvenida a la taberna de Chambard,
+sede de la competición de cocina.
+
+## POINTER 62 [t:1;user:memnoch;time:1295212461]
+Por favor, dinos tu nombre
+y a lo que te dedicas.
+
+## POINTER 64 [t:1;r:1;ru:soywiz;user:evilluendas;time:1159732311]
+Me llamo Gina...
+
+## POINTER 66 [t:1;user:memnoch;time:1294856564]
+Trabajo en la
+universidad de Mintche.
+
+## POINTER 68 [t:1;user:memnoch;time:1295633871]
+Así que estás entre el personal
+de la universidad. Debes estar
+orgullosa.
+
+## POINTER 70 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Empecemos, entonces.
+¿Qué te gustaría tomar?
+
+## POINTER 71 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 72 [t:1;r:1;ru:soywiz;user:korsso;time:1160141482]
+Veamos. Creo que me gustaría una 
+<COLOR:0D00>tortilla<COLOR:0F00>, por favor.
+
+## POINTER 74 [t:1;user:memnoch;time:1295301744]
+¿Y puedes decirnos qué tipo de tortilla
+te gusta?
+
+## POINTER 75 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 76 [t:1;user:memnoch;time:1295096243]
+Una que esté de rechupete, por supuesto. <81A5>
+
+## POINTER 78 [t:1;r:1;ru:soywiz;user:korsso;time:1160141482]
+¡Tenemos un pedido!
+
+## POINTER 80 [t:1;r:1;ru:soywiz;user:korsso;time:1160141482]
+¡¡Una <BOLD:0100>sabrosa tortilla<BOLD:0000>, por favor!!
+
+## POINTER 82 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Me llamo Franco,
+Soy el maestro de un dojo
+de artes marciales.
+
+## POINTER 84 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡Oh, vaya! ¡En ese caso,
+debes ser muy fuerte!
+
+## POINTER 86 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Comencemos, entonces.
+¿Qué es lo que te gustaría tomar?
+
+## POINTER 87 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 88 [t:1;user:memnoch;time:1295097947]
+Me gustaría tomar una <COLOR:0D00>tarta<COLOR:0F00>.
+
+## POINTER 90 [t:1;user:memnoch;time:1295301764]
+¿Y puedes decirnos qué tipo
+de tarta te gustaría tomar?
+
+## POINTER 91 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 92 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Bien, naturalmente, una que
+estuviese repleta de energía
+y nutrientes.
+
+## POINTER 94 [t:1;r:1;ru:soywiz;user:korsso;time:1160141482]
+¡Tenemos un pedido!
+
+## POINTER 96 [t:1;user:memnoch;time:1295097947]
+¡¡Una <BOLD:0100>tarta repleta de energía<BOLD:0000>,
+por favor!!
+
+## POINTER 98 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¿Por qué tendría que deciros
+mi nombre? ¿Qué pasa contigo?
+
+## POINTER 100 [t:1;user:memnoch;time:1295574381]
+B-Bueno, mmm...
+Quizás podrías decirnos al menos
+a qué se dedica.
+
+## POINTER 102 [t:1;r:1;ru:soywiz;user:korsso;time:1160141482]
+Soy el sacerdote.
+
+## POINTER 104 [t:1;user:memnoch;time:1297460770]
+Ya... ya veo...
+Bueno, entonces, ¿qué te gustaría tomar?
+
+## POINTER 106 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+<COLOR:0D00>Una Pasta de Marisco<COLOR:0F00>.
+Y que sepa al viejo estilo.
+
+## POINTER 108 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡Tenemos un pedido!
+
+## POINTER 110 [t:1;user:memnoch;time:1295299517]
+¡¡<BOLD:0100>Pasta de marisco<BOLD:0000> buena
+y al viejo estilo, por favor!!
+
+## POINTER 111 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 112 [t:1;user:memnoch;time:1295301727]
+¿Qué estáis mirando tan impacientes?
+¡Todo va a ir bien, os lo digo yo!
+
+## POINTER 113 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 114 [t:1;user:memnoch;time:1295299478]
+¡Dejádmelo a mí!
+
+## POINTER 116 [t:1;user:memnoch;time:1295299478]
+¡Damas y caballeros!
+¡¡Tenemos una nueva competidora!!
+
+## POINTER 118 [t:1;user:memnoch;time:1295299478]
+¡La señorita <CHARA:FARAH> Oersted
+ha regresado después de su última
+derrota!
+
+## POINTER 120 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Bien entonces, traigamos a nuestros
+invitados una vez más.
+
+## POINTER 122 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡¡Venga, salid!!
+
+## POINTER 124 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¿Qué te gustaría tomar?
+
+## POINTER 125 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 126 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Déjame ver. Creo que me gustaría
+tomar una <COLOR:0D00>tortilla<COLOR:0F00>, por favor.
+
+## POINTER 128 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡Tenemos un pedido!
+
+## POINTER 130 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡¡Una <BOLD:0100>sabrosa tortilla<BOLD:0000>, por favor!!
+
+## POINTER 131 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 132 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Sí, servidme una
+<COLOR:0D00>tarta<COLOR:0F00>, ¿vale?
+
+## POINTER 134 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡Tenemos un pedido!
+
+## POINTER 136 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡¡Una <BOLD:0100>tarta repleta de energía<BOLD:0000>,
+por favor!!
+
+## POINTER 138 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+<COLOR:0D00>Pasta de Marisco<COLOR:0F00>
+con sabor al viejo estilo.
+
+## POINTER 140 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡Tenemos un pedido!
+
+## POINTER 142 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡¡Una <BOLD:0100>Pasta de Marisco<BOLD:0000>
+al viejo estilo, por favor!!
+
+## POINTER 143 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 144 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¡Esta vez pienso ganar!
+¡Lo haré!
+
+## POINTER 146 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+Comer todo lo que puedas
+de la más selecta comida...
+
+## POINTER 148 [t:1;r:1;ru:soywiz;user:soywiz;time:1160295173]
+¿Puede un hombre experimentar
+una felicidad mayor?
+
+## POINTER 150 [t:1;r:1;ru:soywiz;user:pacochan;time:1160297424]
+La buena comida trae satisfacción
+al corazón humano. ¡Hace sentir
+a alguien realmente vivo!
+
+## POINTER 152 [t:1;r:1;ru:soywiz;user:pacochan;time:1160297424]
+La comida es más poderosa que la espada.
+El que domina la comida, domina el mundo.
+
+## POINTER 154 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970859]
+¡<BOLD:0100>Taberna de Chambard<BOLD:0000> 
+os trae la batalla de las comidas más
+poderosas de la historia!
+
+## POINTER 156 [t:1;user:memnoch;time:1295529344]
+¡Hoy, una vez más, te proporcionamos
+solo lo mejor de lo mejor en comida!
+
+## POINTER 158 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970563]
+¡Ahora, recibamos a la incomparable
+Chef de este establecimiento,
+la Maestra del Sabor!
+
+## POINTER 160 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298065]
+¡Venga, sal!
+
+## POINTER 162 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298065]
+Nuestra invitada ha pedido
+una <COLOR:0D00>sabrosa tortilla<COLOR:0F00>.
+
+## POINTER 164 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298065]
+Nuestra invitada ha pedido
+una <COLOR:0D00>tarta llena de energía<COLOR:0F00>.
+
+## POINTER 166 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298065]
+Nuestra invitada ha pedido una
+<COLOR:0D00>Pasta de Marisco<COLOR:0F00> al antiguo
+estilo.
+
+## POINTER 168 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970563]
+En su dignidad como cocineras, ambas
+participantes usan cada habilidad
+y sensibilidad que tienen en la batalla
+de manera que no haya arrepentimientos.
+
+## POINTER 170 [t:1;user:memnoch;time:1297460792]
+¿Estáis listas?
+
+## POINTER 172 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970563]
+<BOLD:0100>¡Podéis empezar!<BOLD:0000>
+
+## POINTER 174 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298065]
+Conozcamos un poco
+mejor a nuestra invitada.
+
+## POINTER 176 [t:1;r:1;ru:soywiz;user:mike;time:1160299386]
+Señorita Gina, podría contarnos
+qué clase de recuerdos le traen
+las tortillas?
+
+## POINTER 177 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 178 [t:1;r:1;ru:soywiz;user:mike;time:1160299386]
+Las tortillas de mi madre eran
+las mejores.
+¡Me encantaban!
+
+## POINTER 180 [t:1;r:1;ru:soywiz;user:mike;time:1160299386]
+Así que las tortillas le
+recuerdan las comidas caseras
+de cuando era pequeña.
+
+## POINTER 181 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 182 [t:1;user:memnoch;time:1295653395]
+S-Supongo...
+
+## POINTER 184 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+Ahora, Franco, ¿puedes
+decirnos por qué has
+pedido una tarta?
+
+## POINTER 185 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 186 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+Bueno, es una larga historia, pero
+cuando era un apasionado aprendiz
+de espadachín...
+
+## POINTER 188 [t:1;user:memnoch;time:1295653346]
+Eh... er... Disculpa,
+pero me temo que no tenemos
+mucho tiempo, así que...
+
+## POINTER 189 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 190 [t:1;user:memnoch;time:1294594334]
+Arrogante en mis habilidades,
+decidí embarcarme en una aventura
+al arroyo de Undine donde viven
+peligrosos monstruos...
+
+## POINTER 192 [t:1;user:memnoch;time:1295212518]
+Bien... ¿puedo preguntarte
+por qué insistes en los
+condimentos antiguos?
+
+## POINTER 194 [t:1;user:memnoch;time:1294594334]
+¡Ese es el problema de la
+gente joven hoy en día!
+
+## POINTER 196 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+No tienen respeto a la comida,
+así que sus sentidos del gusto
+han muerto completamente.
+
+## POINTER 198 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301436]
+Elige el primer ingrediente
+que quieras añadir.
+
+## POINTER 200 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+Gina, ¿comes tortillas
+habitualmente?
+
+## POINTER 201 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 202 [t:1;user:memnoch;time:1295212530]
+No, la verdad es que no.
+
+## POINTER 204 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+¿Oh?
+¿Y cómo es eso? ¿No
+dijiste que te encantaban
+las tortillas?
+
+## POINTER 205 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 206 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+Bueno...
+
+## POINTER 207 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 208 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+Me apresuré, derribando a
+hachazos los monstruos que
+atacaban uno tras otro...
+
+## POINTER 209 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 210 [t:1;user:memnoch;time:1295653395]
+Y cuando me acerqué
+al lugar más inaccesible,
+de repente...
+
+## POINTER 211 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 212 [t:1;user:memnoch;time:1295653395]
+Me di cuenta de que estaba
+rodeado de gigantescas
+tortugas aplastadoras.
+
+## POINTER 214 [t:1;user:memnoch;time:1295097947]
+¿Y qué tiene que ver
+eso con la tarta?
+
+## POINTER 216 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+¿Hay algún recuerdo especial
+que asocies con la Pasta de
+Marisco?
+
+## POINTER 218 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299283]
+¿POR QUÉ?
+¡¿Y a ti que te importa?!
+
+## POINTER 220 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+¡Aish!
+
+## POINTER 222 [t:1;r:1;ru:soywiz;user:pacochan;time:1160298984]
+Vale. Te lo diré.
+
+## POINTER 224 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299283]
+Verás, Crecí en
+esta ciudad.
+
+## POINTER 226 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299283]
+Y cuando era un chaval solía
+comer pasta de marisco
+casi cada día.
+
+## POINTER 228 [t:1;user:memnoch;time:1295097947]
+Y-Ya veo.
+
+## POINTER 230 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301436]
+Elige un ingrediente para
+añadir a tu plato.
+
+## POINTER 232 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299283]
+¿Por qué ahora
+ya no comes
+tortillas?
+
+## POINTER 233 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 234 [t:1;user:memnoch;time:1297460823]
+Las tortillas que sirven en
+los restaurantes no están
+condimentadas como a mí me gusta.
+
+## POINTER 236 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299283]
+¿Pero no las puedes
+hacer tu misma?
+
+## POINTER 237 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 238 [t:1;user:memnoch;time:1297460836]
+Las tortugas aplastadoras
+me apretujaron hasta estar
+a punto de morir, pero luego...
+
+## POINTER 239 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 240 [t:1;user:memnoch;time:1295542639]
+Un viajante me encontró
+y me devolvió la salud.
+
+## POINTER 241 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 242 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299283]
+Y la comida que me dio
+ese viajante no fue otra
+cosa que una tarta.
+
+## POINTER 244 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299703]
+¡Fiu! Me alegro que tu
+historia al final tuviera
+algo que ver con la tarta.
+
+## POINTER 246 [t:1;user:memnoch;time:1295529597]
+¿Podría decirme cuál es
+exactamente la diferencia
+
+## POINTER 248 [t:1;user:memnoch;time:1295529597]
+entre los condimentos
+de antaño y los de hoy en día?
+
+## POINTER 250 [t:1;r:1;ru:soywiz;user:mike;time:1160299802]
+¡¿Cómo diablos debería saberlo?!
+
+## POINTER 252 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299703]
+¡Aish!
+
+## POINTER 254 [t:1;r:1;ru:soywiz;user:mike;time:1160299802]
+Hay algo realmente diferente. 
+La Pasta de Marisco moderna no
+profundiza en el sabor.
+
+## POINTER 256 [t:1;user:memnoch;time:1295529597]
+Mmmm... Ya veo.
+
+## POINTER 258 [t:1;r:1;ru:soywiz;user:mike;time:1160299802]
+Por favor, selecciona otro ingrediente
+a añadir.
+
+## POINTER 260 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299703]
+¿Qué diferencias había entre
+las tortillas de tu juventud
+con las de los restaurantes
+de hoy?
+
+## POINTER 261 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 262 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299703]
+La diferencia es que...
+
+## POINTER 264 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299703]
+¿Sí?
+
+## POINTER 265 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 266 [t:1;user:memnoch;time:1297493385]
+Las tortillas que recuerdo
+de pequeña eran como más...
+¿jugosas?
+
+## POINTER 267 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 268 [t:1;user:memnoch;time:1297460859]
+Siempre he deseado volver
+a encontrar a ese viajante
+para agradecérselo.
+
+## POINTER 269 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 270 [t:1;r:1;ru:soywiz;user:pacochan;time:1160299703]
+Pero...
+
+## POINTER 271 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 272 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+Todo lo que tengo para seguir
+es el sabor de la tarta que
+me dio.
+
+## POINTER 274 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+¿Así que la tarta es la única pista
+que tienes para encontrar a la
+persona que salvó tu vida?
+
+## POINTER 275 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 276 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+Exacto.
+
+## POINTER 278 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+¿Así que hoy en día no comes
+mucha pasta de marisco?
+
+## POINTER 280 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+Uno, en el noble rango de
+arzobispo no tiene ni derecho
+a elegir sus propias comidas.
+
+## POINTER 282 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+¡Dios mío!
+¡No me había dado cuenta
+de que era un arzobispo!
+
+## POINTER 284 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+¡No seas estúpido!
+
+## POINTER 286 [t:1;user:memnoch;time:1294857789]
+¡Y-Yo, con toda seguridad,
+no soy un arzobispo!
+
+## POINTER 288 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+Pero...
+¿no dijiste
+que lo eras?
+
+## POINTER 290 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+¡Es mi nombre!
+¡¡Me llamo
+Arzo Bispo!!
+
+## POINTER 292 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+...
+
+## POINTER 294 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+Por favor, elige
+tu ingrediente final.
+
+## POINTER 296 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+Ahora es el momento de
+poner los toques finales
+en tu plato.
+
+## POINTER 298 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+<BOLD:0100>¡Se acabó el tiempo!<BOLD:0000>
+
+## POINTER 300 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+Damas y caballeros,
+gracias por su paciencia.
+¡Ahora procederemos a degustarlo!
+
+## POINTER 302 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970563]
+¡Nuestra invitada probará
+el plato de la señorita
+<CHARA:FARAH>!
+
+## POINTER 304 [t:1;user:memnoch;time:1294602863]
+¿Mmm?
+¿Algún problema?
+
+## POINTER 306 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300399]
+¡Qué sorpresa!
+¡La invitada se niega a probarlo!
+
+## POINTER 308 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970563]
+¡Siento decir esto pero el plato
+de la señorita <CHARA:FARAH> ha perdido!
+
+## POINTER 309 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 310 [t:1;user:memnoch;time:1294602863]
+¿Quéééé?
+¡¿Pero por qué?!
+
+## POINTER 312 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+¿Qué opinas?
+¿Cómo sabe?
+
+## POINTER 313 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 314 [t:1;user:memnoch;time:1294602960]
+P-Pu...
+
+## POINTER 315 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 316 [t:1;user:memnoch;time:1294602960]
+P-Pu...
+
+## POINTER 318 [t:1;user:memnoch;time:1294602960]
+P-Pu...
+
+## POINTER 319 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 320 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+<BOLD:0100>¡Puaaaaaj!<BOLD:0000>
+
+## POINTER 321 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 322 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+<BOLD:0100>¡Puaaaaaj!<BOLD:0000>
+
+## POINTER 324 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+<BOLD:0100>¡Puaaaaaj!<BOLD:0000>
+
+## POINTER 326 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+¡Caramba! La invitada parece
+haberse desmayado de la
+insipidez de la comida!
+
+## POINTER 328 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+¡No hace falta decirlo, la entrada
+de <CHARA:FARAH> ha perdido!
+
+## POINTER 329 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 330 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+<BOLD:0100>¡Nooo!<BOLD:0000>
+
+## POINTER 332 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+¿Qué opinas?
+¿Qué tal sabe?
+
+## POINTER 333 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 334 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+Mmmmm.
+No está mal.
+
+## POINTER 335 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 336 [t:1;user:memnoch;time:1294602960]
+Eh... No está mal.
+
+## POINTER 338 [t:1;user:memnoch;time:1294602960]
+Mmm...
+No es una mala
+pasta de marisco.
+
+## POINTER 340 [t:1;r:1;ru:soywiz;user:mike;time:1160300081]
+Ahora nuestro invitado probará
+la entrada preparada por la
+Maestra del Sabor.
+
+## POINTER 342 [t:1;r:1;ru:soywiz;user:mike;time:1160300081]
+¿Qué te parece?
+
+## POINTER 343 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 344 [t:1;user:memnoch;time:1294602960]
+D-De...
+
+## POINTER 345 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 346 [t:1;user:memnoch;time:1294602960]
+D-De...
+
+## POINTER 348 [t:1;user:memnoch;time:1294602960]
+D-De...
+
+## POINTER 349 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 350 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+<BOLD:0100>¡¡Delicioso!!<BOLD:0000>
+
+## POINTER 351 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 352 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+<BOLD:0100>¡¡Delicioso!!<BOLD:0000>
+
+## POINTER 354 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+<BOLD:0100>¡¡Delicioso!!<BOLD:0000>
+
+## POINTER 355 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 356 [t:1;user:memnoch;time:1294602960]
+¡¡E-E-Está
+absolutamente
+delicioso!!
+
+## POINTER 358 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+Eso significa que
+la ganadora es...
+
+## POINTER 359 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 360 [t:1;user:memnoch;time:1295096764]
+Sí. <81A5>
+
+## POINTER 361 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 362 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+¡Eso es!
+¡¡Este es el auténtico
+sabor de la tarta!!
+
+## POINTER 363 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 364 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+¡Puedo sentir la energía saliendo
+por cada rincón de mi cuerpo!
+¡OH SÍ!
+
+## POINTER 366 [t:1;user:memnoch;time:1295532377]
+¡Este es el sabor!
+¡Esta es la pasta de marisco
+tal como tendría que ser!
+
+## POINTER 368 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+En ese caso, el ganador de
+este encuentro es...
+
+## POINTER 370 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+No hace falta decirlo.
+
+## POINTER 372 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+<BOLD:0100>La ganadora es...
+¡¡La Maestra de Sabores!!<BOLD:0000>
+
+## POINTER 373 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 374 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+¡Nooo!
+
+## POINTER 376 [t:1;r:1;ru:soywiz;user:pacochan;time:1160300994]
+¿Qué opinas?
+¿Cómo sabe?
+
+## POINTER 377 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 378 [t:1;user:memnoch;time:1294602960]
+Ñ-Ña...
+
+## POINTER 379 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 380 [t:1;user:memnoch;time:1294602960]
+Ñ-Ña...
+
+## POINTER 382 [t:1;user:memnoch;time:1294602960]
+Ñ-Ña...
+
+## POINTER 383 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 384 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+<BOLD:0100>¡¡Ñaaaaam!!<BOLD:0000>
+
+## POINTER 385 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 386 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+<BOLD:0100>¡¡Ñaaaaam!!<BOLD:0000>
+
+## POINTER 388 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+<BOLD:0100>¡¡Ñaaaaam!!<BOLD:0000>
+
+## POINTER 389 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 390 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+¡Eso es!
+¡¡Este es el sabor!!
+¡¡El sabor que tanto he esperado!!
+
+## POINTER 391 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 392 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+¡Una <COLOR:0D00>tortilla jugosa<COLOR:0F00>
+con ese delicioso toque de limón!
+
+## POINTER 393 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Gina
+
+## POINTER 394 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+¡Así es como mi madre
+la hacía cuando era
+pequeña, en Barole!
+
+## POINTER 395 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 396 [t:1;user:memnoch;time:1295532396]
+¡Este es el sabor!
+
+## POINTER 397 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 398 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+El sabor de la <COLOR:0D00>tarta llena de
+energía<COLOR:0F00> que me salvó de
+la muerte.
+
+## POINTER 399 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 400 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+¡¿Quién te ha enseñado a
+hacer una tarta así?!
+
+## POINTER 401 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 402 [t:1;r:1;ru:soywiz;user:mike;time:1160299910]
+Déjame pensar...
+Era un viajero que
+conocí en la Posada Morle.
+
+## POINTER 403 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 404 [t:1;user:memnoch;time:1295529635]
+¡No sé cómo
+agradecértelo!
+
+## POINTER 405 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 406 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+No he hecho nada en especial...
+
+## POINTER 407 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 408 [t:1;user:memnoch;time:1295529635]
+Entonces, ¿podría ser...?
+¿Eres tú la que me
+salvó mi vida?
+
+## POINTER 409 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 410 [t:1;r:1;ru:soywiz;user:pacochan;time:1160301341]
+¡Nop!
+
+## POINTER 411 [t:1;r:1;ru:soywiz, ;time:1157722708]
+Franco
+
+## POINTER 412 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+*Suspiro*
+
+## POINTER 414 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+<COLOR:0D00>¡Viva la Pasta de Marisco!<COLOR:0F00>
+
+## POINTER 416 [t:1;user:memnoch;time:1297460895]
+¡Sabe como en los viejos tiempos!
+¡¡Sabe a mi infancia!!
+¡¡El sabor de la cocina de mi madre!!
+
+## POINTER 418 [t:1;user:memnoch;time:1297460923]
+¡Bua, bua!
+¡¡MAMI!!
+¡¡Dónde está mi MAMI!!
+
+## POINTER 420 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970564]
+¡Rayos y centellas!
+¡El plato ha recibido la máxima
+puntuación! Ahora es el turno de
+la Maestra del Sabor.
+
+## POINTER 422 [t:1;user:memnoch;time:1294602960]
+¿Qué es eso?
+
+## POINTER 424 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+¡Parece que la Maestra
+del Sabor ha sido derrotada!
+
+## POINTER 426 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+Y eso significa...
+
+## POINTER 428 [t:1;user:memnoch;time:1295299517]
+¡Que tenemos un ganador!
+<BOLD:0100>¡La señorita <CHARA:FARAH> Oersted!<BOLD:0000>
+
+## POINTER 430 [t:1;user:memnoch;time:1295091738]
+La taberna de Chambard conferirá
+un nuevo título a la señorita <CHARA:FARAH>.
+
+## POINTER 432 [t:1;r:1;ru:pacochan;user:evilluendas;time:1167992430]
+<CHARA:FARAH> ha obtenido
+el título de <COLOR:0D00>Chef 3 Estrellas<COLOR:0F00>.
+
+## POINTER 434 [t:1;r:1;ru:pacochan;user:evilluendas;time:1167992431]
+<CHARA:FARAH> ha obtenido
+el título de <COLOR:0D00>Estrella de la Cocina<COLOR:0F00>.
+
+## POINTER 436 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+Me has derrotado.
+
+## POINTER 438 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+El mayor honor para la cocina en
+Inferia, el título de <COLOR:0D00>Guerrera Chef<COLOR:0F00>,
+ahora te pertenece.
+
+## POINTER 440 [t:1;user:memnoch;time:1295529635]
+¡Ya habéis visto, amigos!
+¡La Maestra del Sabor en sí
+ha conferido el título a la
+señorita <CHARA:FARAH>!
+
+## POINTER 442 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+<CHARA:FARAH> ha obtenido el
+título de <COLOR:0D00>Guerrera Chef<COLOR:0F00>.
+
+## POINTER 444 [t:1;r:1;ru:soywiz;user:soywiz;time:1167970564]
+Bueno, entonces...
+
+## POINTER 446 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+¡Mi hermano debe estar
+hambriento, así que mejor si
+empiezo a preparar la comida!
+
+## POINTER 448 [t:1;user:memnoch;time:1295299517]
+¡Felicidades, señorita <CHARA:FARAH>!
+
+## POINTER 449 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 450 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+¡Lo has conseguido, <CHARA:FARAH>!
+
+## POINTER 451 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 452 [t:1;user:memnoch;time:1294602960]
+¡Yupi!
+
+## POINTER 453 [t:1;r:1;ru:soywiz, ;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 454 [t:1;user:memnoch;time:1295529635]
+¡Gracias!
+¡¡Os lo debo todo
+a vosotros chicos!!
+
+## POINTER 456 [t:1;r:1;ru:soywiz;user:soywiz;time:1160294145]
+<OPTION:0000><ITEM:0012740400000F30>
+<ITEM:0012740401000F30>
+<ITEM:0012740402000F30>
+No usar
+
+## POINTER 458 [t:1;r:1;ru:soywiz;user:korsso;time:1160141989]
+Parece que no tienes
+ese ingrediente.

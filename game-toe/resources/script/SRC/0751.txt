@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;time:1157722708]
+<836C><838C><8343><8368><82CC>–À‹{ 0<VAR:0012B804> [<VAR:00115000>/<VAR:00114E00>]
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;time:1157722708]
+<836C><838C><8343><8368><82CC>–À‹{ <VAR:0012B804> [<VAR:00115000>/<VAR:00114E00>]
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+<OPTION:0000>Has encontrado <ITEM:00129004>.
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+<OPTION:0000>Has encontrado <ITEM:00129004>,
+pero no puedes llevar más.
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+Selecciona el personaje que
+quieres usar en este piso.
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+<OPTION:0000><CHARA:0012A00400000F30>
+<CHARA:0012A00401000F30>
+<CHARA:0012A00402000F30>
+Siguiente
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+<OPTION:0000><CHARA:0012A00400000F30>
+<CHARA:0012A00401000F30>
+<CHARA:0012A00402000F30>
+<CHARA:0012A00403000F30>
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+<OPTION:0000><CHARA:0012A00400000F30>
+<CHARA:0012A00401000F30>
+<CHARA:0012A00402000F30>
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+<OPTION:0000><CHARA:0012A00400000F30>
+<CHARA:0012A00401000F30>
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+<OPTION:0000><CHARA:0012A00403000F30>
+<CHARA:0012A00404000F30>
+<CHARA:0012A00405000F30>
+Atrás
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747264]
+<OPTION:0000><CHARA:0012A00403000F30>
+<CHARA:0012A00404000F30>
+Atrás.
+
+## POINTER 21 [t:1;r:1;ru:evilluendas;time:1157722708]
+<CHARA:0012A00400000F30> se enfrentará a este piso.
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;time:1157722708]
+Laberinto de Nereid 13

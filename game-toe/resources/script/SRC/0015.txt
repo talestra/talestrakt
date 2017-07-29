@@ -1,0 +1,76 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675014]
+Casa del Anciano 2P
+
+## POINTER 1 [t:1;r:3;ru:pacochan,evilluendas,memnoch;time:1157722709]
+Khamran
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675014]
+Este es el segundo piso de la casa del Anciano.
+
+## POINTER 3 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:REID>
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286674851]
+Si quieres dormir,
+más te vale hacerlo
+en tu propia casa.
+
+## POINTER 5 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:REID>
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1286674851]
+Mmmm, ¿qué
+es este libro?
+
+## POINTER 7 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 8 [t:1;r:2;ru:soywiz,memnoch;user:soywiz;time:1163972282]
+¡Un <ITEM:1C00>!
+
+## POINTER 9 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1286674851]
+Con él puedes averiguar cuántos
+objetos tienes de todos los que
+puedas llegar a tener.
+
+## POINTER 11 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:REID>
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1286674851]
+Mmmm...
+
+## POINTER 13 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1286674851]
+Oye, <CHARA:REID>. ¿No podría
+sernos útil? ¿Por qué
+no lo tomamos prestado?
+
+## POINTER 15 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1286674864]
+Cogerlo...
+¿Sin permiso?
+
+## POINTER 17 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1286674851]
+¡Aunque se lo pidiésemos,
+no nos lo dejaría!
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1163959873]
+<OPTION:0000>Has conseguido el <COLOR:0D00><ITEM:1C00><COLOR:0F00>.
+
+## POINTER 21 [t:1;r:2;ru:soywiz, ,memnoch;time:1157722709]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675049]
+<COLOR:0D00>Las Escrituras Sagradas<COLOR:0F00>...
+El Anciano siempre ha creído
+en Seyfert.

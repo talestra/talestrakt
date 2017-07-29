@@ -1,0 +1,200 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:soywiz;time:1160247367]
+Tienda General de Barole.
+
+## POINTER 1 [t:1;r:1;ru:pacochan;user:soywiz;time:1160247367]
+Tienda de la Necesidad
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1173649505]
+¡Ya entiendo!
+Para que parezca un buen
+precio, se ha de poner 
+junto a los objetos más 
+caros.
+
+## POINTER 5 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166568762]
+¡¿Qué estás mirando?!
+¡No estoy haciendo nada sospechoso!
+
+## POINTER 7 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1166568762]
+¡No estoy investigando
+a la competencia!
+
+## POINTER 9 [t:1;user:memnoch;time:1295209515]
+Veamos.
+¿Qué debería comprar?...
+
+## POINTER 10 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 11 [t:1;r:2;ru:pacochan,evilluendas;user:evilluendas;time:1160163782]
+Dos veces dos es cuatro,
+dos veces tres es seis...
+
+## POINTER 12 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:pacochan;time:1166568762]
+Eh...
+
+## POINTER 14 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¿Qué estás haciendo aquí?
+
+## POINTER 16 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¡Como puedes ver,
+estoy trabajando!
+
+## POINTER 18 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¡¿Tú?! ¡¿Trabajando?!
+
+## POINTER 20 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¡Por supuesto!
+
+## POINTER 22 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 23 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+Ya lo has visto.
+¡Me voy a hacer el mayor
+comerciante de todo Barole!
+
+## POINTER 24 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+Toma...
+
+## POINTER 26 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+Esto es para ti.
+
+## POINTER 28 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+Gr...gracias...
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:soywiz;time:1160247367]
+Has recibido <COLOR:0D00><ITEM:00016001><COLOR:0F00>.
+
+## POINTER 32 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+Parece como si
+pudiera haber algo...
+
+## POINTER 34 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:pacochan;time:1166568763]
+Eso es <VAR:00107600>.
+
+## POINTER 36 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 37 [t:1;user:memnoch;time:1295299305]
+Dame un respiro.
+Esto no tiene sentido.
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:soywiz;time:1160247367]
+Has encontrado <ITEM:00120004>.
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:soywiz;time:1160247367]
+Has encontrado <ITEM:00120004>,
+pero no puedes llevar más.
+
+## POINTER 43 [t:1;user:memnoch;time:1295092145]
+¡B-Bienvenidos!
+
+## POINTER 45 [t:1;user:memnoch;time:1295210536]
+Gracias por vuestro tiempo.
+
+## POINTER 47 [t:1;user:memnoch;time:1295212484]
+Por favor, volved de nuevo.
+
+## POINTER 49 [t:1;r:1;ru:pacochan;user:pacochan;time:1166568763]
+¿Qué pasó con el
+hombre del sombrero?
+
+## POINTER 51 [t:1;user:memnoch;time:1295210536]
+Gracias por vuestro tiempo.
+
+## POINTER 53 [t:1;user:memnoch;time:1295212484]
+Por favor, volved de nuevo.
+
+## POINTER 55 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+Tim trabaja duro.
+¡Se hará un buen comerciante!
+
+## POINTER 57 [t:1;user:memnoch;time:1295210536]
+Gracias por vuestro tiempo.
+
+## POINTER 59 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¡Tim!
+¿Has olvidado tus modales?
+
+## POINTER 60 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 61 [t:1;user:memnoch;time:1295210536]
+¡Mu-muchas gracias!
+
+## POINTER 63 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¿Tienes todo lo que necesitas?
+
+## POINTER 65 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¡Bienvenidos!
+
+## POINTER 67 [t:1;user:memnoch;time:1295210536]
+Gracias por vuestro tiempo.
+
+## POINTER 69 [t:1;user:memnoch;time:1295212484]
+Por favor, volved pronto.
+
+## POINTER 70 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 71 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¿Qué es esto?
+
+## POINTER 72 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 73 [t:1;user:memnoch;time:1295092414]
+Donies...
+
+## POINTER 74 [t:1;r:1;ru:pacochan;time:1157722710]
+Tim
+
+## POINTER 75 [t:1;r:1;ru:pacochan;user:pacochan;time:1166568763]
+Son para usted, señora.
+Ha sido muy amable conmigo.
+
+## POINTER 76 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 77 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160163782]
+¡Gracias!
+
+## POINTER 79 [t:1;r:1;ru:pacochan;user:soywiz;time:1160247367]
+Has recibido <COLOR:0D00><ITEM:00016001><COLOR:0F00>.
+
+## POINTER 80 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 81 [t:1;r:1;ru:pacochan;user:pacochan;time:1166568763]
+¡¿Señora?! ¡No soy tan vieja!

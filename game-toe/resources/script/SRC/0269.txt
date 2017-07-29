@@ -1,0 +1,106 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228130]
+Arroyo de Undine
+
+## POINTER 1 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228130]
+Arroyo de Undine
+
+## POINTER 3 [t:1;user:memnoch;time:1294597435]
+Esto es un punto de carga.
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:pacochan;time:1166782020]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 7 [t:1;user:memnoch;time:1294851362]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228652]
+¿A ese hombre
+le pasa algo?
+
+## POINTER 10 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:pacochan;time:1166782020]
+Parece estar bastante
+debilitado...
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228130]
+Déjame echar un vistazo.
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228564]
+Está desnutrido.
+Vamos a darle de comer este...
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228564]
+<BOLD:0100>¡He rejuvenecido!<BOLD:0000>
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228130]
+¡Parece que te
+sientes mejor!
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228130]
+¡Sí!
+¡Muchísimas gracias!
+
+## POINTER 23 [t:1;r:1;ru:soywiz;user:pacochan;time:1166782021]
+Sois bienvenidos.
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228564]
+Ahora has de tomártelo con calma.
+¿Por qué no te quedas en la
+posada de Morle un rato?
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228130]
+¡S...sí!
+¡Creo que eso es lo que haré!
+
+## POINTER 28 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228564]
+¡Bueno, parece que
+todo ha ido bien!
+
+## POINTER 30 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228564]
+...Sí.
+
+## POINTER 32 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228564]
+¡<CHARA:REID>, espera!
+
+## POINTER 34 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 35 [t:1;user:memnoch;time:1295094266]
+¡Este no es el
+<COLOR:0E00>poblado Treetop, Morle<COLOR:0F00>,
+done vive el profesor Mazet!
+
+## POINTER 36 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 37 [t:1;r:2;ru:pacochan,soywiz;user:pacochan;time:1160228564]
+Volvamos hacia
+el <COLOR:0E00>oeste<COLOR:0F00>.
+
+## POINTER 38 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228564]
+¿Por qué no nos
+lo dijiste antes?
+
+## POINTER 40 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:pacochan;time:1160228564]
+Este bosque no se
+parece a Morle...

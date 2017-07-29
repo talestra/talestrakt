@@ -1,0 +1,114 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+Despensa A
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+¡Debemos entrenar para
+mantenernos en forma!
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1163962619]
+¡Kwiikii!
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:0001672B>
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+La cubierta parece fría...
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+La rampa está cerrada.
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+La rampa está cerrada.
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:0001672B>
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+Debe ser por ahí...
+
+## POINTER 14 [t:1;user:memnoch;time:1295610878]
+¿Quieres partir?<OPTION:0000>
+Sí
+No
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+Este cepillo parece fuerte.
+Podría ser un arma decente...
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+Suéltalo.
+¡Está sucio!
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:CHAT>
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+¡Lo siento, está sucio!
+Sirve para limpiar.
+¡Por supuesto que está sucio!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+¡Eso es!
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:MEREDY>
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162642558]
+¡Uno de los Siete
+Tesoros de Celestia!
+¡¡El Poderoso Cepillo!!
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:REID>
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158133487]
+¡Lo sabía!
+Ya me parecía que era distinto
+a los cepillos normales.
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162642558]
+¡No es posible que sea...! 
+Cómo puede ser...
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162642558]
+<CHARA:CHAT>, cómo no te
+has dado cuenta de...
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722707]
+<CHARA:CHAT>
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162642558]
+Ahora que lo pienso...
+Si que era algo peculiar que
+un cepillo estuviera tan
+cuidadosamente envuelto y guardado.
+
+## POINTER 34 [t:1;user:memnoch;time:1295534351]
+¿Cogerás el extraño cepillo?<OPTION:0000>
+Sí
+No
+
+## POINTER 36 [t:1;user:memnoch;time:1295534351]
+Encuentras <ITEM:6500>.
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167991991]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Explorador<COLOR:0F00>.

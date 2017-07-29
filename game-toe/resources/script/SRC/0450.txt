@@ -1,0 +1,239 @@
+## POINTER 0 [t:1;user:memnoch;time:1295127124]
+Abastecedor de Barcos
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164424998]
+Quiero instalar un camarote
+en mi querida María, pero...
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1158267003]
+¡Es <BOLD:0100>tan caro<BOLD:0000>!
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157732255]
+Chef Maravillas
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157732255]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157732255]
+Chef Maravillas
+
+## POINTER 8 [t:1;user:memnoch;time:1294592256]
+¡Te enseñaré cómo hacer un favorito
+de la vieja escuela, el famoso
+<COLOR:0D00>sándwich asado<COLOR:0F00>!
+
+## POINTER 10 [t:1;user:memnoch;time:1294592256]
+Has aprendido a preparar sándwich asado.
+
+## POINTER 11 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157732255]
+Chef Maravillas
+
+## POINTER 12 [t:1;user:memnoch;time:1294592256]
+El sándwich asado tiene 4 ingredientes:
+arroz, cebolla, carne de jabalí
+y satay negro.
+
+## POINTER 14 [t:1;user:memnoch;time:1294592256]
+Has recibido los ingredientes
+del sándwich asado.
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;user:hexplus;time:1157732255]
+Chef Maravillas
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164424998]
+¡Que tengas un buen día!
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164425042]
+¡Disculpa!
+Ese es el muelle para 
+transformar los barcos.
+Por favor, no entres.
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+Tu barco está anclado en el muelle.
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+Aquí puedes transformar tu barco.
+
+## POINTER 24 [t:1;user:memnoch;time:1295610854]
+¿Quieres transformar
+el Van Eltia?<OPTION:0000>
+Sí
+No
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+¿Qué cabina quieres transformar?
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+<OPTION:0000>Cabina 1
+Cabina 2
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+<OPTION:0000>Cabina 1
+Cabina 2
+Cabina 3
+Cabina 4
+
+## POINTER 32 [t:1;user:memnoch;time:1294858165]
+¿Qué quieres instalar
+en la cabina <VAR:00120404>?
+
+## POINTER 34 [t:1;user:memnoch;time:1294858165]
+<OPTION:0000>Cabina vacía (<VAR:000210980200> gald)
+Tienda (<VAR:0002E0930400> gald)
+Posada (<VAR:0002A0BB0D00> gald)
+Teletransportador (<VAR:000240771B00> gald)
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157816634]
+No tienes suficiente dinero.
+
+## POINTER 38 [t:1;user:memnoch;time:1286290157]
+Costará <VAR:00120004> gald.
+¿Seguro?
+Sí
+No
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+¡Vuelve cuando quieras!
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1164424998]
+Aquí podemos transformar
+los camarotes de tu barco.
+
+## POINTER 44 [t:1;user:memnoch;time:1295557775]
+Pero parece que el tuyo
+no puede ser transformado.
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+Aquí puedes transformar tu barco.
+
+## POINTER 48 [t:1;user:memnoch;time:1295610854]
+¿Quieres transformar
+el Van Eltia?<OPTION:0000>
+Sí
+No
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+¿Qué cabina quieres transformar?
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+<OPTION:0000>Cabina 1
+Cabina 2
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+<OPTION:0000>Cabina 1
+Cabina 2
+Cabina 3
+Cabina 4
+
+## POINTER 56 [t:1;user:memnoch;time:1294858165]
+¿Qué quieres instalar
+en la cabina <VAR:00120404>?
+
+## POINTER 58 [t:1;user:memnoch;time:1295610854]
+<OPTION:0000>Cabina vacía (<VAR:000210980200> gald)
+Tienda (<VAR:0002E0930400> gald)
+Posada (<VAR:0002A0BB0D00> gald)
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:evilluendas;time:1157816634]
+No tienes suficiente dinero.
+
+## POINTER 62 [t:1;user:memnoch;time:1286290157]
+Costará <VAR:00120004> gald.
+¿Estás seguro?
+Sí
+No
+
+## POINTER 64 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+¡Vuelve cuando quieras!
+
+## POINTER 66 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+Aquí podemos transformar
+las cabinas de tu barco.
+
+## POINTER 68 [t:1;user:memnoch;time:1295557775]
+Pero parece que el tuyo
+no puede ser transformado.
+
+## POINTER 70 [t:1;user:memnoch;time:1294858075]
+¡Eh, capitán!
+¡Compra algo para tu barco!
+
+## POINTER 71 [t:1;user:memnoch;time:1295557802]
+Tinnsia: Lista de dispositivos
+
+## POINTER 73 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368834]
+¡Gracias!
+¡Lo instalaré en tu
+barco de inmediato!
+
+## POINTER 75 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+¡Vuelve cuando tengas
+suficiente dinero!
+
+## POINTER 76 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es actualmente
+una enfermería.
+
+## POINTER 77 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es actualmente
+una tienda.
+
+## POINTER 78 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es actualmente
+una posada.
+
+## POINTER 79 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es actualmente
+un teletransportador.
+
+## POINTER 80 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es actualmente
+una sala de recreo.
+
+## POINTER 81 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> está vacía.
+
+## POINTER 83 [t:1;user:memnoch;time:1294858165]
+Transformar cabina <VAR:00120404> en
+una cabina vacía.
+
+## POINTER 85 [t:1;user:memnoch;time:1294858165]
+Transformar cabina <VAR:00120404> en
+una tienda.
+
+## POINTER 87 [t:1;user:memnoch;time:1294858165]
+Transformar cabina <VAR:00120404> en
+una posada.
+
+## POINTER 89 [t:1;user:memnoch;time:1294858165]
+Transformar cabina <VAR:00120404> en
+un teletransportador.
+
+## POINTER 91 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es ahora
+una cabina vacía.
+
+## POINTER 93 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es ahora
+una tienda.
+
+## POINTER 95 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es ahora
+una posada.
+
+## POINTER 97 [t:1;user:memnoch;time:1294858165]
+La cabina <VAR:00120404> es ahora
+un teletransportador.
+
+## POINTER 99 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993769]
+<CHARA:CHAT> ha obtenido
+el título de <COLOR:0D00>Decoradora de Interiores<COLOR:0F00>.
+
+## POINTER 101 [t:1;r:1;ru:pacochan;user:pacochan;time:1159368783]
+¿Has cambiado de opinión?
+
+## POINTER 103 [t:1;user:memnoch;time:1294858165]
+La cabina no necesita
+ser transformada.

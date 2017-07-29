@@ -1,0 +1,140 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160542856]
+Poblado Morle 9
+
+## POINTER 2 [t:1;user:memnoch;time:1294682497]
+Esta es la casa del profesor Mazet.
+
+## POINTER 4 [t:1;user:memnoch;time:1294682497]
+El profesor Mazet sabe
+todo tipo de cosas.
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161458305]
+Acabo de ver a una chica correr...
+¿Algo va mal?
+
+## POINTER 8 [t:1;user:memnoch;time:1294682497]
+El profesor Mazet
+estaba preocupado.
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161458306]
+¿Os vais de nuevo?
+Tened mucho cuidado, ¿vale?
+
+## POINTER 12 [t:1;user:memnoch;time:1295532909]
+Esta es la casa del profesor Mazet.
+
+## POINTER 14 [t:1;user:memnoch;time:1295631135]
+No parecéis amigos
+del profesor Mazet...
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+He malgastado mi tiempo hablando contigo.
+
+## POINTER 17 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 18 [t:1;user:memnoch;time:1294682497]
+Tiene que ser aquí. El
+domicilio del profesor Mazet.
+
+## POINTER 19 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 20 [t:1;user:memnoch;time:1294682443]
+¿Cuánto tiempo hace que no
+habías visto a este profesor?
+
+## POINTER 21 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;time:1157722711]
+Alrededor de tres años.
+
+## POINTER 23 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124524]
+¿Por qué tiene que vivir
+tan lejos de todo?
+
+## POINTER 25 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 26 [t:1;user:memnoch;time:1294682595]
+No lo tengo claro.
+Pero conociendo al profesor,
+apuesto a que tiene una muy
+buena razón.
+
+## POINTER 27 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 28 [t:1;user:memnoch;time:1294682595]
+Después de Morle está el arroyo de Undine...
+Nunca pensé que llegaría tan lejos.
+
+## POINTER 29 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;user:memnoch;time:1294686190]
+Bueno, ya hemos llegado muy lejos.
+¡No podemos volver a Rasheans!
+
+## POINTER 31 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168718056]
+<CHARA:MEREDY> pide perdón.
+Es culpa de <CHARA:MEREDY>...
+
+## POINTER 33 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124524]
+<CHARA:FARAH> y <CHARA:REID> fueron expulsados
+del poblado porque <COLOR:0D00>Hyades<COLOR:0F00> atacó.
+
+## POINTER 35 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124524]
+Hyades, ¿él es el que destruyó
+la Casa del Anciano?
+
+## POINTER 37 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168718167]
+¿Así que iba detrás de ti?
+
+## POINTER 39 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 40 [t:1;user:memnoch;time:1297493268]
+Pero, ¿por qué?
+
+## POINTER 41 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124524]
+¿Eh? ¿Qué pasa?
+
+## POINTER 43 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124524]
+No es nada.
+¡Vamos, sigamos!
+
+## POINTER 45 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;user:memnoch;time:1294594390]
+El <COLOR:0E00>arroyo de Undine<COLOR:0F00> se encuentra
+al <COLOR:0E00>Noreste<COLOR:0F00> de Morle.
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:0001672B>
+
+## POINTER 48 [t:1;user:memnoch;time:1294594396]
+¿Adónde puede haber ido <CHARA:MEREDY>?

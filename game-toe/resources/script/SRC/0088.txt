@@ -1,0 +1,222 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Santuario de Mintche
+
+## POINTER 2 [t:1;user:memnoch;time:1294859707]
+Al <COLOR:0E00>noreste<COLOR:0F00> de Mintche y más allá del mar
+está el monte Farlos. Allí comenzaron las
+enseñanzas de Seyfert, en la montaña más
+alta del mundo.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026745]
+Toda persona tiene un rol
+entregado a él o ella por
+los dioses. No está bien
+aspirar a algo más.
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026745]
+¡Soy una persona lamentable!
+Hice trampas en mi examen.
+Ahora cargaré con esa pena
+durante el resto de mi vida...
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡Pero no se lo digas a mi profesor!
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026745]
+¡Soy una persona lamentable!
+He usado el dinero de mi
+beca para apostar.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+¡Pero chico, cuánto gané!
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¿Qué deseas hacer?
+
+## POINTER 16 [t:1;user:memnoch;time:1295211815]
+<OPTION:0000>Oír un sermón
+<OPTION:0000>Confesar
+<OPTION:0000>Nada
+
+## POINTER 18 [t:1;user:memnoch;time:1295530261]
+Cuando uno piensa solo en sí mismo,
+la vida tiene poco valor. Debemos
+hacer sacrificios para ayudar a otros.
+Esa es la manera correcta de vivir.
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026745]
+En lugar de mirar al pasado,
+concéntrate en el futuro. Es
+en eso en lo que te debes
+concentrar ahora.
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:evilluendas;time:1161125339]
+Que Seyfert te proteja
+en tu viaje.
+
+## POINTER 24 [t:1;user:memnoch;time:1295211815]
+Una simple donación son 5.000 gald.
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+¿Hacer una donación al santuario?
+Sí
+No
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026746]
+Gracias, pero no es necesario
+hacer donaciones cuando se tiene
+tan poco dinero para uno mismo...
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+¡Ah, una buena obra!
+Que Seyfert te proteja
+durante tu viaje.
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+No te preocupes.
+No hay nada malo en seguir
+tus propios deseos...
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+Me encantará escuchar
+tu confesión. A ver,
+¿cuál es tu pecado?
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1163668936]
+Bueno, supongo que se podría decir
+que me traicioné a mí mismo...
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160820571]
+Juré que viviría siempre pacíficamente
+en Rasheans... Pero dejé que otros me
+liaran, y ahora aquí estoy...
+¡tan lejos de casa!
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+Eso no es exactamente un pecado.
+Y tampoco lo llamaría una traición...
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160820571]
+Es tu sino. Se te ha
+otorgado el destino de
+viajar lejos de casa.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Destino...
+
+## POINTER 46 [t:1;user:memnoch;time:1297459175]
+Para alguien tan joven, tus
+intenciones son admirables.
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026746]
+A ver, déjame preguntarte... 
+¿Alguna vez has sacrificado
+algo para ayudar a alguien?
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Sí.
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+Cuando era niño, había una chica a
+la que le daban pena las gallinas.
+No quería que nadie se las comiera,
+así que dejó que escaparan.
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026746]
+Al día siguiente, hubo una gran agitación
+en el poblado. Sentí pena por ella, así
+que les dije a todos que había sido yo,
+y fui castigado.
+
+## POINTER 56 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+¡Oh!
+¡Qué historia más bonita!
+
+## POINTER 58 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026746]
+Es posible que tu castigo fuera
+doloroso, pero estoy seguro que
+Seyfert valora tu acto...
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 60 [t:1;user:memnoch;time:1295527917]
+¡Oye, espera un minuto!
+¡No nos habrían cogido
+si no hubieses dejado tus
+huellas allí, <CHARA:REID>!
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Bueno, sí, pero...
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 64 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+¡Mi plan era perfecto!
+¡Pero tenías que llegar y robar unos
+huevos para echarlo todo a perder!
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+¡No es mi culpa!
+¡Tenía hambre!
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;r:1;ru:pacochan;user:pacochan;time:1162026746]
+¡Siempre tienes hambre!
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 70 [t:1;r:1;ru:pacochan;user:pacochan;time:1163668936]
+¡Déjame en paz!
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 72 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡¿Y bien?!
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161125339]
+¡Parad, vosotros dos!
+¿Olvidáis dónde estáis?
+¡Si vais a pelearos,
+hacedlo fuera!
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 76 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡S...sí!
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 78 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡Lo siento!

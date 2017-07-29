@@ -1,0 +1,495 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160058781]
+Sala de Guerra
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160058781]
+Escondite de Shileska
+
+## POINTER 2 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722711]
+Roen
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160058781]
+He informado de vuestro
+triunfo al Rey.
+Deberíais estar agradecidos.
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 5 [t:1;user:memnoch;time:1294856154]
+Ahora lo único que podemos hacer es
+rezar para que tengamos suficiente
+mineral de ribavius, el material base
+necesario para hacer la lente especial.
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 7 [t:1;user:memnoch;time:1295652840]
+Una piedra esférica
+de color blanco...
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 9 [t:1;user:memnoch;time:1294851288]
+No hay registro de algo así...
+Al menos no en Inferia.
+
+## POINTER 10 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166954182]
+Sí, ¿necesitáis mi ayuda?
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160058781]
+<OPTION:0000>Sí
+No
+
+## POINTER 14 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166954182]
+¡De acuerdo, pues!
+Ten cuidado, Dede.
+¡Te veré más tarde!
+
+## POINTER 16 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160058781]
+¡De acuerdo, pues!
+¡Me quedaré a proteger el escondite!
+
+## POINTER 18 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160058781]
+Por favor...derrotad a <CHARA:SHIZEL>.
+
+## POINTER 20 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 21 [t:1;user:memnoch;time:1295528727]
+No te lo pido solo en nombre
+de Shileska, sino también
+en nombre de Celestia.
+
+## POINTER 23 [t:1;user:memnoch;time:1295567084]
+Shileska fue fundada hace quince
+años por <CHARA:MAX>, si actual líder.
+
+## POINTER 25 [t:1;user:memnoch;time:1295567027]
+Pero entonces solo era una pequeña
+milicia de menos de diez hombres.
+Ayla no se unió hasta más adelante.
+
+## POINTER 27 [t:1;user:memnoch;time:1294602460]
+¿Cuánta gente hay ahora en Shileska?
+Mmm... Es una pregunta difícil...
+Dudo que nadie lo sepa con seguridad.
+
+## POINTER 29 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160058781]
+<COLOR:0D00>La batalla naval en Peruti<COLOR:0F00>
+hace ocho años fue muy dura,
+una batalla espeluznante.
+
+## POINTER 31 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166954182]
+La victoria de <CHARA:MAX> en la batalla
+le hizo ser renombrado y ayudó a Shileska
+a convertirse en una gran organización.
+
+## POINTER 33 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160058781]
+<CHARA:MAX> nació para ser un líder.
+
+## POINTER 35 [t:1;user:memnoch;time:1295577767]
+Hace ocho años, Shileska venció en la
+batalla naval de Peruti. Sin embargo, la
+pérdida de Vaghn, que actuó como concilio,
+fue un duro golpe para la organización.
+
+## POINTER 37 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166954182]
+Vaghn había sido miembro de Shileska
+desde su formación, y también era
+el mejor amigo de <CHARA:MAX>.
+
+## POINTER 39 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160059717]
+<CHARA:MAX> no lo aparenta,
+pero está llevando una
+gran carga sobre sus hombros.
+
+## POINTER 40 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 41 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160059717]
+<CHARA:FARAH>, vámonos.
+
+## POINTER 42 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 43 [t:1;user:memnoch;time:1295148841]
+Eh... vale.
+
+## POINTER 44 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 45 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160059717]
+Por favor, echad un vistazo a esto.
+
+## POINTER 46 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 47 [t:1;user:memnoch;time:1295148841]
+Aquí está el problema.
+
+## POINTER 48 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 49 [t:1;user:memnoch;time:1295555047]
+Un muro que rodea el castillo
+de Balir, que está protegido
+por una barrera impenetrable.
+
+## POINTER 50 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 51 [t:1;user:memnoch;time:1295555047]
+No importa cuántos barcos tengamos,
+no podremos atacar hasta que no descubramos
+una forma de destruir esa puerta.
+
+## POINTER 52 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 53 [t:1;user:memnoch;time:1295148841]
+¿Una barrera?
+
+## POINTER 54 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 55 [t:1;user:memnoch;time:1295555047]
+Debe ser el poder del <COLOR:0D00>arte aurora<COLOR:0F00>.
+Probablemente también sea el motivo
+por el cual no logramos determinar
+su posición con exactitud.
+
+## POINTER 56 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 57 [t:1;user:memnoch;time:1295085660]
+¿Arte aurora?
+
+## POINTER 58 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 59 [t:1;user:memnoch;time:1295556092]
+Es el poder del fibril de Balir.
+Es mucho, mucho más poderoso
+que las artes craymels.
+
+## POINTER 60 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 61 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160059717]
+Tampoco sabemos mucho acerca de eso.
+
+## POINTER 62 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 63 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160059717]
+Por favor, seguidme.
+
+## POINTER 65 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160059717]
+¡Están aquí, señor!
+
+## POINTER 66 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 67 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160059717]
+¡¿Canciller Zosimos?!
+
+## POINTER 68 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Roen
+
+## POINTER 69 [t:1;user:memnoch;time:1294854114]
+Galenos necesitaba conocimientos de Inferia,
+así que he pedido su cooperación como
+representante de los ingenieros craymel.
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 71 [t:1;user:memnoch;time:1294854114]
+Es difícil de creer que
+esta civilización y tecnología
+pertenezcan a Celestia.
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 73 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160059717]
+Mi nombre es Galenos.
+Trabajemos juntos.
+No tenemos mucho tiempo.
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 75 [t:1;user:memnoch;time:1295651839]
+Ni en un millón de años hubiera
+imaginado que cooperaría con los
+celestianos. Pero no tengo elección:
+es una orden del Rey.
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 77 [t:1;user:memnoch;time:1294854114]
+El Rey de Inferia te ha concedido
+plena autoridad sobre las negociaciones
+con Celestia ¿Eres consciente de la
+responsabilidad que te concierne?
+
+## POINTER 78 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Roen
+
+## POINTER 79 [t:1;user:memnoch;time:1295650552]
+¡Déjemelo a mí!
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 81 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166954182]
+Espero con ganas realizar
+una auténtica investigación.
+
+## POINTER 82 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 83 [t:1;user:memnoch;time:1295652243]
+Mientras leo en voz alta el
+acuerdo, líderes de ambos bandos,
+daos la mano como aprobación.
+
+## POINTER 84 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166954182]
+Los bandos de Celestia e Inferia
+dan su palabra de que van a
+cooperar para defender Eternia
+de la amenaza de <CHARA:SHIZEL>.
+
+## POINTER 86 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 87 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+¡Sí!
+¡Hagámoslo!
+Eh...
+
+## POINTER 88 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 89 [t:1;user:memnoch;time:1294854114]
+¿Las acciones
+hablan por sí mismas?
+
+## POINTER 90 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:MAX>
+
+## POINTER 91 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+¡¡Exacto!!
+
+## POINTER 92 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Roen
+
+## POINTER 93 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+¡Uuf!
+
+## POINTER 94 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 95 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+Galenos y <CHARA:KEELE> explicarán
+los planes de la batalla
+final contra <CHARA:SHIZEL>.
+
+## POINTER 96 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 97 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163253771]
+Para ser honestos, aún tengo que
+determinar algún plan objetivo, pero...
+
+## POINTER 98 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 99 [t:1;user:memnoch;time:1295653775]
+Con la cooperación tecnológica
+entre Celestia e Inferia, estoy
+seguro de que podremos lograr un
+potencial inimaginable.
+
+## POINTER 100 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Roen
+
+## POINTER 101 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166954182]
+¿Y qué será exactamente?
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 103 [t:1;user:memnoch;time:1294854589]
+Un <COLOR:0D00>cañón frinjador<COLOR:0F00>.
+
+## POINTER 104 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 105 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163253771]
+Permitidme explicar los detalles.
+
+## POINTER 106 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 107 [t:1;user:memnoch;time:1294854114]
+Quisiera que los ingenieros de Shileska
+reconstruyeran el cañón craymel del
+castillo de Balir modificándolo para
+que las jaulas craymel entre Inferia
+y Celestia estén conectadas.
+
+## POINTER 108 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 109 [t:1;user:memnoch;time:1294854114]
+También quisiera pedir a los Magos
+craymel de Inferia que ubiquen sus
+craymels en el cañón craymel.
+
+## POINTER 110 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 111 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163253771]
+¡Idiota!
+¿En serio intentas mezclar la energía
+de dos mundos distintos?
+¡Seguro que se repelen unos a otros!
+
+## POINTER 112 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 113 [t:1;user:memnoch;time:1295653797]
+Si usamos una lente especial, podremos
+mezclarlos sin que se repelan.
+A esto se le llama <COLOR:0D00>frinjar<COLOR:0F00>.
+
+## POINTER 114 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 115 [t:1;user:memnoch;time:1294851230]
+<COLOR:0D00>Frinjaremos<COLOR:0F00> los craymels
+de Inferia y Celestia.
+
+## POINTER 116 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 117 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+Frinjar...
+
+## POINTER 118 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 119 [t:1;user:memnoch;time:1294851230]
+El efecto generará un
+flujo intenso de craymels.
+
+## POINTER 120 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 121 [t:1;user:memnoch;time:1294854114]
+Ese es el principio del <COLOR:0D00>cañón frinjador<COLOR:0F00>.
+Será diez veces más poderoso que el
+cañón craymel del Van Eltia.
+
+## POINTER 122 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Roen
+
+## POINTER 123 [t:1;user:memnoch;time:1294851230]
+Entiendo...
+Volveremos a Inferia para
+recoger jaulas craymel.
+¡Pongámonos en marcha!
+
+## POINTER 125 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+¡Sí, señor!
+
+## POINTER 126 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+Ayla
+
+## POINTER 127 [t:1;user:memnoch;time:1294854114]
+Nuestro deber es reconstruir
+el cañón craymel.
+¡Démonos prisa!
+
+## POINTER 129 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+¡Miacis de corazón!
+
+## POINTER 131 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+¡Miacis de corazón!
+
+## POINTER 133 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+¡Miacis de corazón!
+
+## POINTER 135 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+¡Miacis de corazón!
+
+## POINTER 136 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 137 [t:1;user:memnoch;time:1294856273]
+¿<COLOR:0D00>Mineral de ribavius<COLOR:0F00>?
+
+## POINTER 138 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 139 [t:1;user:memnoch;time:1294851230]
+Es un cristal esférico y blanco con
+partículas plateadas que brillan en
+la superficie. Es una piedra muy rara.
+
+## POINTER 140 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 141 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060851]
+Hemos buscado por toda Celestia,
+y aún no hemos podido encontrarlo...
+
+## POINTER 142 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 143 [t:1;user:memnoch;time:1295650982]
+¿Una luz brillante?
+¿Como una <BOLD:0100>estrella<BOLD:0000>?
+
+## POINTER 144 [t:1;r:1;ru:evilluendas;time:1157722711]
+Galenos
+
+## POINTER 145 [t:1;user:memnoch;time:1294856158]
+Ahora lo único que podemos hacer es
+rezar para que tengamos suficiente
+mineral de ribavius, el material base
+necesario para hacer la lente especial.
+
+## POINTER 146 [t:1;r:1;ru:evilluendas;time:1157722711]
+Zosimos
+
+## POINTER 147 [t:1;user:memnoch;time:1294851230]
+No hay registro de algo así...
+Al menos no en Inferia...
+
+## POINTER 148 [t:1;r:2;ru:soywiz, ,evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 149 [t:1;r:1;ru:evilluendas;user:pacochan;time:1160060923]
+¡Espera!
+¿Dónde está <CHARA:FARAH>?

@@ -1,0 +1,839 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310501]
+Casa de Mazet
+
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310502]
+¡Ah, casi lo olvido!
+Tengo algo que me
+gustaría daros.
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+Es un libro de <ITEM:1B00>.
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310502]
+Con esto, puedes comprobar la
+apariencia y las habilidades de
+los monstruos contra los que ya
+has luchado.
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+Intenta completar
+toda la colección.
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+Has recibido <COLOR:0D00><ITEM:1B00><COLOR:0F00>.
+
+## POINTER 11 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Es humana, como tú.
+
+## POINTER 13 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 14 [t:1;user:memnoch;time:1295088639]
+Si vais hacia el <COLOR:0E00>noreste<COLOR:0F00>, llegaréis a
+un lugar llamado <COLOR:0E00>arroyo de Undine<COLOR:0F00>.
+Probablemente allí encontréis al craymel
+de agua.
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:soywiz;time:1159711935]
+Ya veo.
+Así que Undine apareció ante vosotros...
+
+## POINTER 17 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 18 [t:1;user:memnoch;time:1294594377]
+Id al <COLOR:0E00>arroyo de Undine<COLOR:0F00>.
+Estoy seguro de que Undine
+será capaz de ayudaros.
+
+## POINTER 19 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 20 [t:1;user:memnoch;time:1295124993]
+Ciudad de Inferia está lejos, al
+<COLOR:0E00>este<COLOR:0F00> del <COLOR:0E00>Bosque de la Tentación<COLOR:0F00>.
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+Si fuera un poco más joven...
+Iría con vosotros.
+
+## POINTER 23 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 24 [t:1;user:memnoch;time:1295088639]
+Los craymels siempre
+velan por vosotros.
+
+## POINTER 25 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 26 [t:1;user:memnoch;time:1295389858]
+Persigue lo incognoscible.
+Eso es el verdadero aprendizaje.
+
+## POINTER 28 [t:1;user:memnoch;time:1294851623]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 29 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡Profesor Mazet!
+
+## POINTER 31 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 32 [t:1;user:memnoch;time:1294851623]
+No será este... ¡<CHARA:KEELE>!
+
+## POINTER 33 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+¿Cómo ha estado?
+¡He venido porque tengo un favor que pedirle!
+
+## POINTER 35 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 36 [t:1;user:memnoch;time:1294851623]
+¡Cálmate!
+
+## POINTER 37 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+¡No has cambiado nada, <CHARA:KEELE>!
+Cada vez que descubres algo nuevo,
+no puedes contener tu excitación.
+
+## POINTER 39 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+Je, je.
+Te conoce bastante bien.
+
+## POINTER 41 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168715760]
+¡Calla!
+
+## POINTER 43 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 44 [t:1;user:memnoch;time:1294688281]
+P-Perdone mis modales.
+¿Esto... ha estado bien?
+
+## POINTER 45 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 46 [t:1;user:memnoch;time:1294681908]
+¡Jajajá!
+Eso está mejor.
+Dime, ¿qué te trae por aquí?
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+¡Gracias!
+Bueno, la razón por la que...
+
+## POINTER 49 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+<8273><8288><8285><8140><8297><828F><8292><828C><8284><8140><8289><8293>
+<8289><828E><8140><8287><8292><8285><8281><8294><8140><8284><8281><828E><8287><8285><8292><8149>
+<826F><828C><8285><8281><8293><8285><8140><828C><8285><828E><8284><8140><828D><8285>
+<8299><828F><8295><8292><8140><8293><8294><8292><8285><828E><8287><8294><8288><8149><8149>
+
+## POINTER 51 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 52 [t:1;user:memnoch;time:1294681908]
+Ya veo... ¿Así que dice
+que es de Celestia?
+
+## POINTER 53 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 54 [t:1;user:memnoch;time:1294682120]
+Evidentemente,
+no me lo creo todo.
+
+## POINTER 55 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 56 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+Pero me gustaría que nos diera algún
+consejo sobre cómo podríamos conseguir
+comunicarnos con ella.
+
+## POINTER 57 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 58 [t:1;user:memnoch;time:1294681908]
+Me gustaría que cada uno de 
+vosotros tuviera uno de estos.
+
+## POINTER 59 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡Son bonitos!
+
+## POINTER 61 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Se llama <ITEM:00013D01>.
+
+## POINTER 63 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 64 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727892]
+<ITEM:00013D01>...
+
+## POINTER 65 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168715761]
+¿Has oído hablar de esto?
+
+## POINTER 67 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 68 [t:1;user:memnoch;time:1295088639]
+Todos los grandes magos craymel 
+llevan uno. Dicen que si te los 
+pones en las orejas puedes 
+comunicarte con los craymels.
+
+## POINTER 69 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 70 [t:1;user:memnoch;time:1295088639]
+¿Comunicarse? ¿Con los craymels?
+
+## POINTER 71 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 72 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162310502]
+Bien...
+¿Pero qué tiene que ver el <ITEM:00013D01>
+con <CHARA:MEREDY>?
+
+## POINTER 73 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 74 [t:1;user:memnoch;time:1295088639]
+¡Ya lo entiendo!
+¡Los craymels también
+hablan en mélnico!
+
+## POINTER 75 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 76 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162310502]
+Correcto.
+El mismo concepto también puede
+ser aplicable en este caso.
+
+## POINTER 77 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 78 [t:1;user:memnoch;time:1295088639]
+Pero no somos magos craymel...
+
+## POINTER 79 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 80 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162310502]
+Probadlos.
+Y luego escuchad atentamente
+lo que dice <CHARA:MEREDY>.
+
+## POINTER 81 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+¡Parece fácil!
+¡Vamos a probar!
+
+## POINTER 84 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+Has recibido <COLOR:0D00><ITEM:00013D01><COLOR:0F00>.
+
+## POINTER 85 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 86 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+¡De acuerdo, estoy lista!
+
+## POINTER 87 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 88 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+<CHARA:MEREDY>, ¿puedes entenderme?
+¡Contesta si puedes!
+
+## POINTER 89 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 90 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+<8276><8288><8281><8294><8140><8289><8293>
+<8294><8288><8289><8293><8140><8285><8281><8292><8290><8289><8285><8283><8285><8140><8286><828F><8292><8148>
+
+## POINTER 91 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 92 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310502]
+¡<CHARA:REID>! ¡<CHARA:KEELE>!
+¿Habéis entendido
+lo que ha dicho?
+
+## POINTER 93 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 94 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+Ni una palabra.
+Parece que no está funcionando.
+
+## POINTER 95 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 96 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168715761]
+<CHARA:MEREDY>, di algo otra vez.
+¡Dinos si nos entiendes!
+
+## POINTER 97 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 98 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+<8268><8140><8281><828D><8140><8293><828F><8292><8292><8299><8144>
+<8276><8288><8281><8294><8140><8289><8293><8140><8289><8294>
+<8299><828F><8295><8140><8281><8292><8285><8140><8293><8281><8299><8289><828E><8287><8148>
+<8268><8140><8284><828F><8140><828E><828F><8294><8140><8295><828E><8284><8285><8292><8293><8294><8281><828E><8284><8144>
+
+## POINTER 99 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 100 [t:1;user:memnoch;time:1295088639]
+Puede que necesitéis tiempo. El 
+<ITEM:00013D01> no funcionará 
+si no estáis todos en la misma 
+onda psíquica...
+
+## POINTER 101 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 102 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¿Onda psíquica?
+
+## POINTER 103 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 104 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310502]
+No parece fácil...
+
+## POINTER 105 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 106 [t:1;r:1;ru:pacochan;user:pacochan;time:1168185237]
+¿Cuál es el problema?
+Cálmate...
+
+## POINTER 107 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 108 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+¿Te ha sentado algo mal?
+
+## POINTER 109 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 110 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+<8263><828F><8140><8299><828F><8295><8140><828B><828E><828F><8297><8140><8297><8288><8285><8292><8285>
+<8270><8295><8289><8283><828B><8289><8285><8140><8288><8281><8293><8140><8287><828F><828E><8285><8148>
+<8276><8288><8285><828E><8140><8284><8289><8284><8140><8289><8294><8140><8288><8281><8290><8290><8285><828E><8148>
+
+## POINTER 111 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 112 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+<8268><8140><8288><8281><8296><8285><8140><8294><828F><8140><8287><828F>
+<828C><828F><828F><828B><8140><8286><828F><8292><8140><8270><8295><8289><8283><828B><8289><8285><8149>
+
+## POINTER 113 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 114 [t:1;user:memnoch;time:1295527624]
+Oye, ¿qué hacemos?
+
+## POINTER 115 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 116 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+¡No podemos dejarla sola!
+
+## POINTER 117 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 118 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+Supongo que no.
+
+## POINTER 119 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 120 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+¡No lo entiendo!
+¿Qué le pasa?
+
+## POINTER 121 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 122 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+<CHARA:KEELE>.
+
+## POINTER 123 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 124 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+Escucha...
+Ella es humana, como tú.
+Recuérdalo... ¿vale?
+
+## POINTER 125 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 126 [t:1;user:memnoch;time:1295088639]
+S-Sí.
+Entendido.
+
+## POINTER 127 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 128 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+Hasta donde sabemos, esta
+cosa que ella llama Parasol...
+
+## POINTER 129 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 130 [t:1;user:memnoch;time:1295088639]
+no parece tener ninguna utilidad o
+función especial que le permita usarla
+con los craymels supremos.
+
+## POINTER 131 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 132 [t:1;user:memnoch;time:1294682559]
+¿Qué piensa, profesor?
+
+## POINTER 133 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 134 [t:1;user:memnoch;time:1295088639]
+Debéis encontrar los craymels
+supremos. No hay nada más que
+pueda deciros.
+
+## POINTER 135 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 136 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Entiendo...
+
+## POINTER 137 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 138 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168717775]
+Ten el Parasol.
+
+## POINTER 139 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 140 [t:1;user:memnoch;time:1295088666]
+Profesor, ¿puede decirnos
+dónde podemos encontrar a
+los craymels supremos?
+
+## POINTER 141 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 142 [t:1;user:memnoch;time:1294688370]
+Conozco un lugar 
+donde podríais...
+
+## POINTER 143 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 144 [t:1;user:memnoch;time:1295088639]
+Si es cierto que el desastre se nos avecina
+y que <CHARA:MEREDY> es la llave para salvar el
+mundo, estoy seguro de que los craymels
+supremos aparecerán ante vosotros.
+
+## POINTER 145 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 146 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+Entonces...
+Deben saber mucho
+más que nosotros...
+
+## POINTER 147 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 148 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¿Os habéis decidido?
+
+## POINTER 149 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 150 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511868]
+¡Desde luego!
+¡Los encontraremos!
+
+## POINTER 151 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 152 [t:1;r:1;ru:evilluendas;time:1157722711]
+¡Claro que sí!
+
+## POINTER 153 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 154 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+Tened este mapa. ¡Estoy
+seguro de que os será útil!
+
+## POINTER 156 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+Has recibido <COLOR:0D00><ITEM:1D00><COLOR:0F00>.
+
+## POINTER 157 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 158 [t:1;user:memnoch;time:1294682563]
+¡Gracias,
+profesor Mazet!
+
+## POINTER 159 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 160 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+<CHARA:FARAH>, siento que tienes
+el poder innato de sanar...
+
+## POINTER 161 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 162 [t:1;r:2;ru:evilluendas,pacochan;user:eyetoy;time:1161008755]
+Te enseñaré una nueva habilidad.
+
+## POINTER 163 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 164 [t:1;user:memnoch;time:1294682578]
+No sé cómo agradecérselo...
+
+## POINTER 166 [t:1;user:memnoch;time:1295571848]
+<CHARA:FARAH> aprende <COLOR:0F00>Desintoxicar<COLOR:0D00>.
+
+## POINTER 167 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 168 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+<CHARA:KEELE>.
+
+## POINTER 169 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 170 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310503]
+Parece que habéis aprendido
+a comunicaros con <CHARA:MEREDY>
+bastante rápido...
+
+## POINTER 171 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 172 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+¿Eh? Oh, sí.
+Nos ayudó un pequeño incidente...
+
+## POINTER 173 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 174 [t:1;user:memnoch;time:1295389858]
+Recordad esos sentimientos.
+Y perseguid lo incognoscible.
+Eso es el verdadero aprendizaje.
+
+## POINTER 175 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 176 [t:1;user:memnoch;time:1295389858]
+¿Lo incognoscible?
+
+## POINTER 177 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 178 [t:1;user:memnoch;time:1294683705]
+Je, je, je.
+A lo mejor algún día,
+también entenderás por
+qué dejé la universidad...
+
+## POINTER 179 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 180 [t:1;user:memnoch;time:1294683688]
+¡¿Y bien?!
+¿Encontrasteis a Undine?
+
+## POINTER 181 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 182 [t:1;user:memnoch;time:1295209370]
+Ella aceptó... ayudarnos.
+
+## POINTER 183 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 184 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡Eso es genial!
+
+## POINTER 185 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 186 [t:1;user:memnoch;time:1295088639]
+¡Pero nunca me imaginé que
+acabaríamos teniendo que luchar
+contra un craymel supremo!
+
+## POINTER 187 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 188 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+¿Dijo Undine
+algo sobre el
+Gran Descenso?
+
+## POINTER 189 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 190 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+No, la verdad es que no...
+
+## POINTER 191 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 192 [t:1;user:memnoch;time:1294603147]
+Mmm. Vaya...
+
+## POINTER 193 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 194 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310503]
+Pero el simple hecho de que
+aceptara cooperar con humanos
+confirma que el desastre se
+cierne sobre nosotros.
+
+## POINTER 195 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 196 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡Así que es cierto!
+
+## POINTER 197 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 198 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+Bueno...
+¿Qué haréis ahora?
+
+## POINTER 199 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 200 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1159711935]
+Tenemos intención de ir a
+Ciudad de Inferia. Tenemos
+la obligación de advertir
+al Rey de Inferia.
+
+## POINTER 201 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 202 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310503]
+Buena idea.
+Ciudad de Inferia está lejos, hacia
+el <COLOR:0E00>este<COLOR:0F00> del <COLOR:0E00>Bosque de la Tentación<COLOR:0F00>.
+
+## POINTER 203 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 204 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+No hay de qué preocuparse.
+Con ese mapa que nos diste,
+no deberíamos tener problemas
+en encontrar nuestro camino.
+
+## POINTER 205 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 206 [t:1;user:memnoch;time:1297459743]
+Ya veo.
+¡Que tengáis un viaje tranquilo, entonces!
+
+## POINTER 207 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 208 [t:1;user:memnoch;time:1295651429]
+¡Ah! ¡<CHARA:REID>!
+¡<CHARA:FARAH>, <CHARA:MEREDY>
+y... <CHARA:KEELE>!
+
+## POINTER 209 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 210 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+¿Qué habéis estado haciendo?
+¡Estaba preocupado por vosotros!
+
+## POINTER 211 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 212 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+Bueno...
+Tuvimos que hacer una
+parada en Celestia...
+
+## POINTER 213 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 214 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡¿Qué acabas de decir?!
+
+## POINTER 215 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 216 [t:1;user:memnoch;time:1295532499]
+Celestia...
+Usamos el Puente de Luz
+para llegar allí...
+
+## POINTER 217 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 218 [t:1;user:memnoch;time:1295149081]
+¡¿De verdad?!
+¡Bueno, desde luego que
+habéis estado ocupados!
+
+## POINTER 219 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 220 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+<CHARA:MEREDY>...
+
+## POINTER 221 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 222 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¿Eh?
+
+## POINTER 223 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 224 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+Es posible que no se
+pueda salvar a tu madre...
+
+## POINTER 225 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 226 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+Pero estoy seguro de que lo que
+haces es lo que tu madre querría.
+
+## POINTER 227 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 228 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Estoy seguro de ello.
+
+## POINTER 229 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 230 [t:1;r:1;ru:pacochan;user:pacochan;time:1162310503]
+¿Qué quiere decir?
+No lo entiendo...
+
+## POINTER 231 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 232 [t:1;r:1;ru:pacochan;user:evilluendas;time:1161511869]
+Lo que quiero decir es
+que no hay nada más que
+pueda hacer para ayudarte.
+
+## POINTER 233 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 234 [t:1;user:memnoch;time:1295213085]
+Debes creer en ti mismo, en
+tus amigos, y seguir adelante.
+
+## POINTER 235 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 236 [t:1;user:memnoch;time:1295213085]
+No lo entiendo, pero...
+si usted lo dice.
+
+## POINTER 237 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 238 [t:1;user:memnoch;time:1295213085]
+Cuando todo acabe, volveré
+para escuchar más de sus...
+sermones raros.
+
+## POINTER 239 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 240 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+¡<CHARA:REID>!
+
+## POINTER 241 [t:1;r:2;ru:evilluendas,pacochan;time:1157722711]
+Mazet
+
+## POINTER 242 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161511869]
+Aquí estaré esperando...

@@ -1,0 +1,51 @@
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161357245]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161358488]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727694]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727694]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+Monte Mintche B
+
+## POINTER 9 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727694]
+toe:<VAR:00114800>
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727694]
+toe:<VAR:00114800>
+
+## POINTER 11 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 12 [t:1;user:memnoch;time:1294601706]
+E-Espera...
+
+## POINTER 13 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 14 [t:1;user:memnoch;time:1294601706]
+¿Cómo? ¿Ya sin aliento?
+Je... Tan débil como siempre.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161358488]
+¡Dame un respiro!
+No he dormido lo suficiente últimamente.
+
+## POINTER 17 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161358488]
+¿Por qué no acampamos aquí?
+Aún nos queda un largo camino...

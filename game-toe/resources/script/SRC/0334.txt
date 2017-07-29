@@ -1,0 +1,52 @@
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158858348]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158858348]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160111926]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160111926]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160477]
+Monte Farlos 13 / <VAR:00114C00>
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158858378]
+Esto es un punto de carga.
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161160477]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 14 [t:1;user:memnoch;time:1295382107]
+¡Buff!
+¡Hemos recorrido un buen trecho!
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1167235140]
+¡Fiu!
+¡<CHARA:MEREDY> está rendida!
+
+## POINTER 17 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:Lobap;time:1158858348]
+Supongo que descansaremos.
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160111926]
+De acuerdo.

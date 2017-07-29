@@ -1,0 +1,179 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309605]
+Mapa de depuración
+
+## POINTER 1 [t:1;r:4;ru:soywiz, pacochan, evilluendas,memnoch;time:1157722711]
+<CHARA:00123C00>
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+La cantidad máxima para
+el grupo es <COLOR:0D00>seis<COLOR:0F00>.
+
+## POINTER 3 [t:1;r:4;ru:soywiz, pacochan, evilluendas,memnoch;time:1157722711]
+<CHARA:00123C00>
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+Soy <CHARA:00123C00>
+¿Debo entrar en el grupo?
+<OPTION:0000>Sí
+No
+
+## POINTER 5 [t:1;r:4;ru:soywiz, pacochan, evilluendas,memnoch;time:1157722711]
+<CHARA:0001672B>
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+<CHARA:00123C00>
+entra en el grupo.
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, ,memnoch;time:1157722711]
+<CHARA:00123C00>
+
+## POINTER 8 [t:1;r:4;ru:soywiz,pacochan,evilluendas,memnoch;time:1157722711]
+Hasta luego.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, ,memnoch;time:1157722711]
+<CHARA:0001672B>
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+Solo queda una persona en el grupo.
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, ,memnoch;time:1157722711]
+<CHARA:0001672B>
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+<CHARA:00123C00> 
+deja el grupo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+¡¡Tengo todos los craymels!!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+<OPTION:0000>1. Otros
+2. Agua
+3. Viento
+4. Fuego
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+<OPTION:0000>1. Otros
+2. Tierra
+3. Hielo
+4. Rayo
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+<OPTION:0000>1. Luz
+2. Oscuridad
+3. Elemental
+4. Tiempo
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+Aquí tienes, <CHARA:KEELE>.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+Aquí tienes, <CHARA:MEREDY>.
+
+## POINTER 26 [t:1;r:4;ru:soywiz,pacochan,evilluendas,memnoch;time:1157722711]
+No hay nadie que pueda tenerlo.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+Ya tienes a ese.
+
+## POINTER 30 [t:1;r:4;ru:soywiz,pacochan,evilluendas,memnoch;time:1157722711]
+Volver
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+<OPTION:0000>1. Oso
+2. Pequeño <CHARA:KEELE>
+3. Pequeña <CHARA:MEREDY>
+4. <CHARA:SHIZEL> en el pasado
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, ,memnoch;user:soywiz;time:1157724037]
+Dede
+
+## POINTER 34 [t:1;r:4;ru:soywiz,pacochan,evilluendas,memnoch;time:1157722711]
+¡¡Restaurar!!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+Opciones de depuración
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1295089855]
+<OPTION:0000>1. Objetos, comidas
+2. Ajustar marcadores de guía de monstruos
+3. Abrir menú Compra-venta
+4. Abrir menú Jaula Craymel
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+<OPTION:0000>1. Todos los objetos(15)
+2. Aprender comida de Inferia
+3. Aprender comida de Celestia
+4. Aprender otras comidas
+
+## POINTER 40 [t:1;r:2;ru:soywiz,memnoch;user:soywiz;time:1163816964]
+¡¡Ladrón!! (<VAR:00016A01> objetos)
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+¡¡Apréndelo, tío!!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+¿Aún no lo has aprendido?
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+¡¡Apréndelo, tío!!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+¿Aún no lo has aprendido?
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+¡¡Apréndelo, tío!!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+¿Aún no lo has aprendido?
+
+## POINTER 53 [t:1;r:3;ru:soywiz,evilluendas,memnoch;user:soywiz;time:1158384983]
+Marcadores
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+<OPTION:0000>1. Encontrar todos los enemigos
+2. Examinar todos los enemigos
+3. Ajustar marcadores
+4. Eliminar marcadores
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1295543520]
+Prueba de compra-venta
+
+## POINTER 58 [t:1;r:4;ru:soywiz,pacochan,evilluendas,memnoch;time:1157722711]
+He cambiado de idea.
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+¿Quieres vender «<ITEM:00122400>»?
+
+## POINTER 62 [t:1;r:4;ru:soywiz,pacochan,evilluendas,memnoch;time:1157722711]
+No tienes nada que vender.
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:memnoch;time:1294956770]
+Abriendo menú Jaula C.
+
+## POINTER 65 [t:1;r:3;ru:soywiz, pacochan, ,memnoch;time:1157722711]
+<CHARA:0001672B>
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+¡Ya basta! 
+Deja de pedir a los demás
+que se ocupen de tus asuntos.
+Hazlo tú mismo.
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:memnoch;time:1295096960]
+Hola <CHARA:00122000> <81A5>
+á.é.í.ó.ú.ñ.ü.º.
+Á.É.Í.Ó.Ú.Ñ.Ü.ª.
+¡.¿.?.!.
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309588]
+<81E8>...
+
+## POINTER 72 [t:1;r:4;ru:soywiz,pacochan,evilluendas,memnoch;user:soywiz;time:1157724027]
+OFF SWITCH 0-2048
+
+## POINTER 74 [t:1;r:1;ru:memnoch;user:memnoch;time:1286309657]
+<OPTION:0000>1:toe +1000
+2:toe +100
+3:toe +10
+4:toe +1

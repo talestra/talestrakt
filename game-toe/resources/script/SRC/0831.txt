@@ -1,0 +1,18 @@
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166642912]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166642912]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1157821569]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1157821569]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166642912]
+Castillo de <CHARA:SHIZEL> Area 2 Habitación Craymel

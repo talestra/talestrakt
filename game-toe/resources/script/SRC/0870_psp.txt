@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+Aifish
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+<CHARA:KEELE>
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+He oído que hace tiempo, un
+barco lleno de tesoros se hundió
+en aguas al <COLOR:0E00>suroeste<COLOR:0F00>
+de Mintche...
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+<CHARA:KEELE>
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+Puede que lo encontremos
+con el Aifish.
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;user:memnoch;time:1295607942]
+Me pregunto dónde estará el
+craymel supremo Shadow, quien
+reina sobre los craymels de Celestia.
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+<CHARA:KEELE>
+
+## POINTER 8 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1165625355]
+Tal vez haya que buscar en
+cada rincón y grieta del fondo
+del mar.
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+<CHARA:CHAT>
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+Mirad esa forma aerodinámica,
+el brillo reluciente...
+¡Es precioso!
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166545354]
+¿Quieres abordar el Aifish?
+Sí
+No
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625355]
+No puedes usar el Aifish ahora.
+
+## POINTER 16 [t:1;user:memnoch;time:1294850064]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 18 [t:1;user:memnoch;time:1295531899]
+Este es el submarino, Aifish.
+Si buscáis en el fondo del mar,
+tal vez encontréis el Puente
+de Expedición.
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166545355]
+¿Quieres instrucciones de
+cómo operar el Aifish?<OPTION:0000>
+Sí
+No
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166545355]
+¿Qué quieres aprender?<OPTION:0000>
+Cómo abordar
+Cómo operar
+Cómo regresar
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625356]
+Puedes acceder a él desde el
+Menú de Viaje mientras navegas
+en el Van Eltia, o abordarlo
+directamente desde esta sala.
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166545355]
+Estos son los controles.
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625356]
+Pulsa <BUTTON:0000> para acelerar.
+Pulsa <BUTTON:0100> para frenar.
+
+## POINTER 30 [t:1;user:memnoch;time:1295556168]
+Pulsa la cruceta Izquierda/Derecha
+para girar y Arriba/Abajo para
+ascender o descender.
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625356]
+Puedes volver al Van Eltia
+pulsando <BUTTON:0200> mientras estás sumergido.
+
+## POINTER 33 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625356]
+<CHARA:CHAT>
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625356]
+Parece que deberíamos empezar a
+buscar bajo el mar desde ahora.
+
+## POINTER 35 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625356]
+<CHARA:REID>
+
+## POINTER 36 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625356]
+¡Muy bien!
+¡Busquemos el <COLOR:0E00>Puente de Expedición<COLOR:0F00>!
+
+## POINTER 37 [t:1;r:1;ru:evilluendas;user:soywiz;time:1165625356]
+<CHARA:KEELE>
+
+## POINTER 38 [t:1;user:memnoch;time:1295576812]
+Interesante...
+La superficie del submarino
+es lamosa... como un pez.

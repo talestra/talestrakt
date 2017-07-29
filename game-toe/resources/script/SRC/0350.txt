@@ -1,0 +1,231 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160142345]
+Imen 3
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161182555]
+¡Acaban de llegar esta mañana!
+¿Y qué vais a hacer hoy?
+
+## POINTER 4 [t:1;user:memnoch;time:1295388064]
+¡¡Gracias por todo!!
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160216956]
+¡Volved pronto!
+
+## POINTER 8 [t:1;user:memnoch;time:1295387241]
+El más grande mago craymel
+del mundo vive aquí,
+pero ahora no está.
+
+## POINTER 10 [t:1;user:memnoch;time:1294956163]
+El motor craymel es una
+de las invenciones más
+importantes de la historia.
+
+## POINTER 12 [t:1;user:memnoch;time:1295387038]
+A mí también me encantaría
+convertirme en un mago craymel
+y construir máquinas molonas.
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160142345]
+Galenos todavía no ha regresado.
+
+## POINTER 16 [t:1;user:memnoch;time:1295387053]
+Galenos, el mago craymel,
+es increíble. Es respetado
+por todos los celestianos.
+
+## POINTER 18 [t:1;user:memnoch;time:1294956163]
+Tanto la bomba de agua como
+el Craymel Express funcionan
+gracias al motor craymel.
+
+## POINTER 20 [t:1;user:memnoch;time:1295389340]
+Eh.
+
+## POINTER 21 [t:1;r:1;ru:soywiz, ;time:1157722709]
+DebugMessage
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Error
+
+## POINTER 23 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160142345]
+¿Vais a volver ya?
+<CHARA:MEREDY> quiere que
+veáis mucho más.
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160142345]
+Has encontrado <ITEM:0300>.
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1167473767]
+Has encontrado <ITEM:0300>,
+pero no puedes llevar más.
+
+## POINTER 29 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161182555]
+¡Paremos por hoy!
+
+## POINTER 31 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;user:memnoch;time:1295389340]
+Oye, <CHARA:MEREDY>.
+¿Hay algo más para ver?
+
+## POINTER 33 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161182555]
+Nop. Nada.
+
+## POINTER 35 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 36 [t:1;user:memnoch;time:1295389662]
+Oh, en realidad hay una
+antigua biblioteca en las
+afueras de la ciudad, pero
+no es muy interesante.
+
+## POINTER 37 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 38 [t:1;user:memnoch;time:1295385865]
+¡¿BIBLIOTECA?! ¡No hay nada que
+me fascine más que una biblioteca!
+¡Por favor, llévame allí!
+
+## POINTER 39 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 40 [t:1;user:memnoch;time:1295124615]
+Ah... mm... Vale...
+¿Qué quieres hacer tú, <CHARA:REID>?
+
+## POINTER 41 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160831581]
+Lo siento, pero estoy cansado.
+Yo me acostaré ya, ¿vale?
+
+## POINTER 43 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160142345]
+Vale.
+¡Buenas noches!
+
+## POINTER 45 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1167473768]
+Irás conmigo, ¿verdad?
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160141775]
+¿Cómo está <CHARA:MEREDY>?
+
+## POINTER 49 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 50 [t:1;user:memnoch;time:1295387781]
+No te preocupes, enseguida se ha
+dormido. Seguro que estaba exhausta.
+
+## POINTER 51 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160142345]
+Eso está bien...
+
+## POINTER 53 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 54 [t:1;user:memnoch;time:1295388030]
+¡Me preocupa mucho!
+Es muy problemática.
+
+## POINTER 55 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 56 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161182555]
+<CHARA:MEREDY> se ha quedado
+toda la noche por ti, <CHARA:KEELE>.
+
+## POINTER 57 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 58 [t:1;user:memnoch;time:1295298472]
+B-Bueno, se lo agradezco mucho...
+
+## POINTER 59 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 60 [t:1;user:memnoch;time:1295387395]
+Debió alegrarse mucho cuando
+demostraste tanto interés por
+Celestia y todo eso.
+
+## POINTER 61 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160141775]
+Especialmente por todo lo
+que ha pasado hasta ahora.
+
+## POINTER 63 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 64 [t:1;user:memnoch;time:1294682519]
+Al fin entiendo a lo que el
+profesor Mazet se refería
+con lo que dijo.
+
+## POINTER 65 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160141775]
+¿Qué dijo?
+
+## POINTER 67 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 68 [t:1;r:1;ru:pacochan;user:pacochan;time:1167473768]
+Persigue lo incognoscible.
+Los libros y la universidad no pueden
+enseñarte todo lo que hay que saber,
+así que usa tus propios ojos para ver
+el mundo...
+
+## POINTER 69 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 70 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160141775]
+Mmmm...
+
+## POINTER 71 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 72 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160141775]
+Oh...
+
+## POINTER 73 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160141775]
+Bien, preparémonos para
+partir en cuanto <CHARA:MEREDY>
+se despierte.
+
+## POINTER 75 [t:1;r:1;ru:soywiz, ;time:1157722709]
+<CHARA:REID>
+
+## POINTER 76 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161182555]
+Vamos a comer, también.

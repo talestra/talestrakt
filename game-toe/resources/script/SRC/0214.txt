@@ -1,0 +1,396 @@
+## POINTER 0 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+Habitación de Invitados 1
+
+## POINTER 2 [t:1;r:1;ru:soywiz;user:soywiz;time:1167941656]
+¿Deseas descansar?
+<OPTION:0000>Sí
+No
+
+## POINTER 4 [t:1;user:memnoch;time:1294851567]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 6 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+¡Es mullido y suave!
+
+## POINTER 7 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 8 [t:1;user:memnoch;time:1294851567]
+¿Solo hay dos camas?
+
+## POINTER 9 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 10 [t:1;user:memnoch;time:1295149918]
+Por supuesto que no.
+Esto no es un mesón de pueblo.
+
+## POINTER 11 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 12 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+¡Escuchad, plebeyos!
+
+## POINTER 13 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 14 [t:1;user:memnoch;time:1295087047]
+¡En adelante, discusiones contrarias
+a la doctrina del Imperio de Inferia
+no serán toleradas!
+
+## POINTER 15 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 16 [t:1;user:memnoch;time:1295148645]
+¡Si me desobedecéis,
+seréis sentenciados a muerte!
+¿Está claro?
+
+## POINTER 17 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+Como el agua.
+
+## POINTER 19 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 20 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+La pena de muerte da miedo...
+
+## POINTER 21 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+Vale, vale.
+
+## POINTER 23 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 24 [t:1;user:memnoch;time:1295124206]
+¡Mmpf! Os quiero fuera de aquí
+lo antes posible. ¡Está empezando
+a apestar todo a campesino!
+
+## POINTER 25 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 26 [t:1;user:memnoch;time:1295124206]
+Fiu. ¡Por fin hemos terminado!
+
+## POINTER 27 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 28 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:pacochan;time:1163348769]
+¿Eh? ¿Terminado?
+
+## POINTER 29 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 30 [t:1;user:memnoch;time:1295087047]
+Ya no hay nada de lo que preocuparse.
+<CHARA:KEELE> y Zosimos van a descubrir qué
+hay tras el Gran Descenso.
+
+## POINTER 31 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 32 [t:1;user:memnoch;time:1295087047]
+Y cuando lo hagan, el Rey
+hará algo para remediarlo.
+
+## POINTER 33 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 34 [t:1;user:memnoch;time:1295087047]
+Y así, hemos cumplido nuestro papel.
+¡Nuestro largo viaje ha terminado!
+¡Ahora podemos sentarnos y relajarnos!
+
+## POINTER 35 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 36 [t:1;user:memnoch;time:1295087047]
+¡No ha acabado!
+¡<CHARA:MEREDY> debe volver a Celestia
+con los craymels supremos!
+
+## POINTER 37 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 38 [t:1;user:memnoch;time:1295087047]
+Volver a Celestia.
+¡<CHARA:REID> no ha acabado todavía!
+
+## POINTER 39 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 40 [t:1;user:memnoch;time:1295150315]
+¡Argh! ¡No puedo... respirar!
+
+## POINTER 41 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 42 [t:1;user:memnoch;time:1295087047]
+Eso es...
+Todavía tenemos cosas que hacer.
+
+## POINTER 43 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;user:memnoch;time:1295087047]
+No deberíamos confiar
+en el Rey para todo.
+
+## POINTER 45 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;user:memnoch;time:1295124242]
+Al menos deberíamos descubrir
+cómo devolver a <CHARA:MEREDY> a casa.
+
+## POINTER 47 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 48 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+Es más fácil decirlo que hacerlo.
+
+## POINTER 49 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 50 [t:1;user:memnoch;time:1295087047]
+¡Ningún problema! ¡Podemos
+hacerlo si trabajamos juntos!
+¿Verdad, <CHARA:MEREDY>?
+
+## POINTER 51 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 52 [t:1;user:memnoch;time:1295087047]
+¡Ningún problema!
+¡Gracias, <CHARA:FARAH>!
+
+## POINTER 53 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;user:memnoch;time:1295087047]
+<CHARA:MEREDY>, vamos a dormir
+a la otra habitación.
+
+## POINTER 55 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 56 [t:1;user:memnoch;time:1295126698]
+¡No! ¡<CHARA:MEREDY> quiere
+estar con <CHARA:REID>!
+¡Dormir todos juntos!
+
+## POINTER 57 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 58 [t:1;user:memnoch;time:1295087047]
+¡N-NO!
+
+## POINTER 59 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 60 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+¿Por qué?
+
+## POINTER 61 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 62 [t:1;r:3;ru:pacochan,evilluendas,soywiz;user:evilluendas;time:1159625764]
+¡No es no!
+
+## POINTER 63 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 64 [t:1;user:memnoch;time:1295087047]
+¿Por qué no?
+
+## POINTER 65 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 66 [t:1;user:memnoch;time:1295087047]
+¡Buenas noches!
+
+## POINTER 67 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;user:memnoch;time:1295087047]
+¿Ves? <CHARA:REID> dice
+que se va a dormir.
+
+## POINTER 69 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 70 [t:1;user:memnoch;time:1295087047]
+Vale...
+
+## POINTER 71 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 72 [t:1;user:memnoch;time:1295087047]
+Y ahora estoy
+desvelado...
+
+## POINTER 73 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 74 [t:1;user:memnoch;time:1295087047]
+Supongo que <CHARA:KEELE> ha estado
+despierto toda la noche.
+
+## POINTER 75 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 76 [t:1;user:memnoch;time:1295087047]
+Probablemente esté inmerso
+en su investigación.
+Seguro que <CHARA:KEELE> puede...
+
+## POINTER 77 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 78 [t:1;r:3;ru:pacochan,evilluendas,soywiz;time:1157722710]
+¡<CHARA:KEELE>!
+
+## POINTER 79 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 80 [t:1;user:memnoch;time:1295087047]
+¿Descubristeis qué está
+causando el Gran Descenso?
+
+## POINTER 81 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 82 [t:1;user:memnoch;time:1295087047]
+Todavía no...
+Pero estamos acercándonos.
+
+## POINTER 83 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 84 [t:1;user:memnoch;time:1295087047]
+¡Sabía que lo darías todo!
+Debes estar cansado.
+Deberías dormir.
+
+## POINTER 85 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 86 [t:1;user:memnoch;time:1295609341]
+¡Shh! ¡Viene alguien!
+
+## POINTER 88 [t:1;user:memnoch;time:1295087047]
+Por favor...
+Si la Reina la
+viera aquí...
+
+## POINTER 90 [t:1;user:memnoch;time:1295529791]
+¡Te lo ruego!
+Quiero hablar con los
+plebeyos solo una vez.
+
+## POINTER 91 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 92 [t:1;user:memnoch;time:1295087047]
+¡...!
+Estáis despiertos.
+
+## POINTER 93 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 94 [t:1;user:memnoch;time:1295150664]
+Qué honor...
+Ha venido la Princesa
+en persona para despertarnos.
+
+## POINTER 95 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 96 [t:1;user:memnoch;time:1294857614]
+La... la razón por la que...
+
+## POINTER 97 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Arende
+
+## POINTER 98 [t:1;user:memnoch;time:1294857614]
+Le pedí que me dejara venir.
+Estaba... preocupada por todos
+vosotros.
+
+## POINTER 99 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 100 [t:1;user:memnoch;time:1295087047]
+Gracias por vuestra preocupación.
+Gracias a vos, hemos podido
+descansar completamente.
+
+## POINTER 101 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 102 [t:1;user:memnoch;time:1295087047]
+Eres guapa.
+Más bonita que las
+vidrieras del santuario.
+
+## POINTER 103 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 104 [t:1;user:memnoch;time:1295087047]
+Pero qué...
+¡Serás impertinente!
+
+## POINTER 105 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Arende
+
+## POINTER 106 [t:1;user:memnoch;time:1294857332]
+Gracias...
+Soy Arende, la princesa de Inferia.
+
+## POINTER 107 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 108 [t:1;user:memnoch;time:1294857332]
+¿A... rende?
+¡Yo <CHARA:MEREDY>!
+
+## POINTER 109 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Arende
+
+## POINTER 110 [t:1;user:memnoch;time:1294857332]
+¡Jijijí!
+
+## POINTER 111 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 112 [t:1;user:memnoch;time:1294857332]
+¡Jijí!
+
+## POINTER 113 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 114 [t:1;user:memnoch;time:1295126941]
+El Rey está a punto
+de anunciar algo
+importante en la 
+cámara de audiencias.
+
+## POINTER 115 [t:1;r:3;ru:soywiz, , evilluendas,pacochan;time:1157722710]
+Roen
+
+## POINTER 116 [t:1;user:memnoch;time:1295150423]
+Normalmente solo invitan a la realeza y
+a los nobles, pero el canciller Zosimos
+ha permitido que asistierais.
+Si no tenéis objeciones, ¡venid ahora!

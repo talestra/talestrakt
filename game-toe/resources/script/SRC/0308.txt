@@ -1,0 +1,244 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:korsso;time:1160214960]
+Santuario de Farlos
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+Widdok
+
+## POINTER 2 [t:1;user:memnoch;time:1294854727]
+¿Sabes algo sobre frinjar?
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+Widdok
+
+## POINTER 4 [t:1;user:memnoch;time:1294854727]
+¿Quieres que te enseñe a frinjar?<OPTION:0000>
+Explícamelo de nuevo
+Nah, ya lo entiendo
+
+## POINTER 6 [t:1;user:memnoch;time:1295383691]
+¿Sobre qué te gustaría aprender?<OPTION:0000>
+Crear nuevas artes craymel
+Colores de artes craymel en Jaula C.
+Mensajes posteriores a la batalla
+
+## POINTER 8 [t:1;user:memnoch;time:1295086138]
+Cuando frinjes en la Jaula C. en el
+menú principal, ciertas combinaciones
+de craymels crean nuevas artes craymel.
+
+## POINTER 10 [t:1;user:memnoch;time:1294960998]
+Agua y Viento forman Sanar,
+Fuego y Agua forman Audacia, y
+Fuego y Viento forman Concentración.
+
+## POINTER 12 [t:1;user:memnoch;time:1295086138]
+Pero solo puedes adquirir nuevas artes
+craymel cuando los craymels lleguen al
+nivel de experiencia requerido.
+
+## POINTER 14 [t:1;user:memnoch;time:1294960648]
+Para adquirir Audacia, Fuego debe
+estar a Nv 5 y Agua a Nv 7. Para
+Concentración, Viento debe estar a
+Nv 6 y Fuego a Nv 5.
+
+## POINTER 16 [t:1;user:memnoch;time:1294960648]
+Los craymels pueden ganar experiencia
+usando ciertos objetos como los
+<COLOR:0D00>Cristales<COLOR:0F00>.
+
+## POINTER 18 [t:1;user:memnoch;time:1295086138]
+Cuando eliges un craymel en la Jaula C.,
+aparecerá una lista de las artes craymel
+asociadas con dicho craymel.
+
+## POINTER 20 [t:1;user:memnoch;time:1295086138]
+Las artes craymel indicadas en blanco
+pueden ser usadas en batalla.
+
+## POINTER 22 [t:1;user:memnoch;time:1295086138]
+Las artes craymel que están en azul
+significa que la combinación es
+correcta, pero los craymels no han
+llegado al nivel necesario.
+
+## POINTER 24 [t:1;user:memnoch;time:1295086177]
+Las artes craymel que están en rojo
+significa que el arte ha sido obtenida pero
+no está actualmente disponible porque la
+combinación de craymels es incorrecta.
+
+## POINTER 26 [t:1;user:memnoch;time:1295086138]
+Las artes craymel que están en gris
+significa que los craymels no han
+llegado el nivel requerido,
+y la combinación es incorrecta.
+
+## POINTER 28 [t:1;user:memnoch;time:1295086138]
+Las artes craymel que están en
+amarillo significa que pueden
+ser adquiridas al frinjar.
+
+## POINTER 30 [t:1;user:memnoch;time:1295086138]
+Aparecen mensajes después de
+la batalla cuando una nueva
+arte craymel está disponible.
+
+## POINTER 32 [t:1;user:memnoch;time:1295086138]
+El mensaje <COLOR:0D00>Frinja para crear una
+nueva arte craymel<COLOR:0F00> significa que
+puedes frinjar inmediatamente para formar
+una nueva arte craymel.
+
+## POINTER 34 [t:1;user:memnoch;time:1295086138]
+El mensaje <COLOR:0D00>Actividad detectada en
+Jaula C.<COLOR:0F00> significa que puedes frinjar
+para obtener una nueva arte craymel
+después de realizar cierta combinación.
+
+## POINTER 36 [t:1;user:memnoch;time:1295086177]
+Pero ten en cuenta que cambiando la
+combinación podrías estropear las
+combinaciones existentes de artes
+craymel, así que ten cuidado.
+
+## POINTER 38 [t:1;user:memnoch;time:1294854727]
+¿Quieres salir de la
+ayuda sobre frinjar?<OPTION:0000>
+Sí
+No
+
+## POINTER 39 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+Widdok
+
+## POINTER 40 [t:1;user:memnoch;time:1295086138]
+¿Quieres saber más acerca
+de conjurar artes craymel?
+Sí
+No
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+Widdok
+
+## POINTER 42 [t:1;user:memnoch;time:1295086138]
+Probablemente sepas que tu nivel
+de Vitalidad cambia cuando usas
+artes craymel.
+
+## POINTER 43 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+Widdok
+
+## POINTER 44 [t:1;user:memnoch;time:1297461061]
+¿Pero sabías que cuanto más alta es tu
+Vitalidad, más corto es el tiempo que
+tardas en conjurar una arte craymel?
+
+## POINTER 45 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+Widdok
+
+## POINTER 46 [t:1;user:memnoch;time:1294854727]
+Cuando la Vitalidad está a 10,
+puedes invocar al craymel supremo,
+pero el uso de la invocación también
+disminuirá la Vitalidad.
+
+## POINTER 47 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+Widdok
+
+## POINTER 48 [t:1;user:memnoch;time:1294854727]
+¿Por qué no frinjas?
+
+## POINTER 49 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160296642]
+Esa <CHARA:FARAH>...
+¿Dónde demonios
+se ha metido?
+
+## POINTER 51 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 52 [t:1;user:memnoch;time:1294960648]
+Mmmm... <CHARA:FARAH> dijo
+que se dirigía a
+la cima...
+
+## POINTER 53 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;user:memnoch;time:1295488598]
+Oye, <CHARA:REID>,
+ya que estamos aquí,
+descansemos en el santuario.
+
+## POINTER 55 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 56 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160296642]
+Sí, supongo que deberíamos.
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160296642]
+Descansemos en el santuario
+antes de escalar.
+
+## POINTER 59 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 60 [t:1;user:memnoch;time:1294960648]
+Así que este es el famoso santuario del
+<COLOR:0E00>monte Farlos<COLOR:0F00>, el lugar de nacimiento
+de las Enseñanzas de Seyfert.
+
+## POINTER 61 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:1;ru:pacochan;user:pacochan;time:1160296642]
+¡Eso sí que es un GRAN vitral!
+
+## POINTER 63 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 64 [t:1;user:memnoch;time:1295092597]
+Tengo entendido que es un dibujo
+del Dios de la Creación, Seyfert,
+descendiendo del cielo.
+
+## POINTER 65 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 66 [t:1;user:memnoch;time:1294854727]
+Guau... Es asombroso.
+
+## POINTER 67 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:0001672B>
+
+## POINTER 68 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160230084]
+Esperemos hasta mañana.
+
+## POINTER 69 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:0001672B>
+
+## POINTER 70 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160296847]
+Ya hemos hecho suficiente por hoy.
+
+## POINTER 71 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:0001672B>
+
+## POINTER 72 [t:1;user:memnoch;time:1295091068]
+Descansamos, ¿por favor?
+
+## POINTER 73 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:0001672B>
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160228324]
+Descansemos en el santuario.
+
+## POINTER 75 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722708]
+<CHARA:0001672B>
+
+## POINTER 76 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160228324]
+Descansemos en el santuario.

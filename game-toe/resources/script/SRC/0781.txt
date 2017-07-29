@@ -1,0 +1,32 @@
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158170934]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166589894]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158170934]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158170934]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158170934]
+Torre Derecha 3P
+
+## POINTER 10 [t:1;user:memnoch;time:1294597027]
+Esto es un punto de carga.
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166589894]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:pacochan;time:1158170934]
+Ir a la Primera Planta.
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;time:1157722708]
+No ocurre nada...

@@ -1,0 +1,84 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+Bosque de Rasheans 7
+
+## POINTER 1 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¡<CHARA:FARAH>!
+
+## POINTER 3 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160857425]
+¿<CHARA:REID>?
+¡Por aquí!
+
+## POINTER 5 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 6 [t:1;user:memnoch;time:1286298099]
+¿Qué... es esto?
+
+## POINTER 7 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¿Quién es...esa?
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160857425]
+<8267><8285><828C><828C><828F><8144>
+<8273><8288><8281><828E><828B><8140><8299><828F><8295><8140><8286><828F><8292>
+<8288><8285><828C><8290><8289><828E><8287><8140><828D><8285><8144>
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160857425]
+<826C><8299><8140><828E><8281><828D><8285><8140><8289><8293><8140><826C><8285><8292><8285><8284><8299><8144>
+<8268><8140><8283><828F><828D><8285><8140><8286><8292><828F><828D><8140><8262><8285><828C><8285><8293><8294><8289><8281><8144>
+
+## POINTER 13 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+...¿Qué?
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160857425]
+<8273><8288><8289><8293><8140><8290><828C><8281><8283><8285><8140><8289><8293><8140><8268><826D><8265><8264><8271><8268><8260><8143>
+<8289><8293><8140><828E><828F><8294><8140><8289><8294><8148>
+
+## POINTER 17 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160857425]
+No entiendo ni una palabra.
+¿Qué hacemos?
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160857425]
+<8268><8293><8140><8294><8288><8285><8292><8285>
+<8281><828E><8299><828F><828E><8285><8140><8288><8285><8292><8285>
+<8297><8288><828F><8140><8283><8281><828E>
+<8293><8290><8285><8281><828B><8140><826C><8264><826B><826D><8268><8262><8272><8148>
+
+## POINTER 21 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;user:memnoch;time:1295573982]
+Mmm... Yo... err... aah...
+
+## POINTER 23 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1286150490]
+Es... es peligroso seguir aquí.
+Salgamos pitando.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:FARAH>
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;time:1157722707]
+¿Por qué?
+
+## POINTER 27 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722707]
+<CHARA:REID>
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1160857425]
+¡Porque sí!

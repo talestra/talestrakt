@@ -1,0 +1,413 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;time:1157722708]
+Salón de Subastas
+
+## POINTER 1 [t:1;r:1;ru:pacochan;time:1157722708]
+Salón de Subastas
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904962]
+El subastador que hay aquí es excelente.
+Se puede confiar en él.
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:pacochan;time:1159114039]
+Si estás seguro de tu
+propuesta, puedes
+aumentar el precio
+mínimo.
+
+## POINTER 7 [t:1;user:memnoch;time:1286299849]
+Básicamente, los
+objetos más raros
+suelen ser los más caros.
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:pacochan;time:1159114039]
+Los novatos pueden ser
+estafados, así que cuidado.
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:pacochan;time:1159114039]
+Si el vendedor le gusta lo que
+el comprador puja, el vendedor
+<COLOR:0D00>acepta la puja<COLOR:0F00>.
+
+## POINTER 13 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+Que tengas un comprador no
+significa que debas vender de
+inmediato. Es mejor tomarte
+tu tiempo.
+
+## POINTER 15 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+¿Puedo ayudarte en algo?
+Tengo un montón de
+gangas hoy.
+
+## POINTER 17 [t:1;r:1;ru:pacochan;time:1157722708]
+Has hecho una compra excelente.
+
+## POINTER 19 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Tendremos más objetos geniales
+la próxima vez que vengas.
+
+## POINTER 20 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 21 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Actualmente, no ha habido
+cambios en el precio de tu
+propuesta, <ITEM:00128800>.
+
+## POINTER 22 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 23 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+Por favor, ven
+otro día.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 25 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+Lo sentimos mucho,
+pero no ha habido pujas
+por encima de tu precio
+mínimo.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 27 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Por favor, reclama
+el objeto propuesto.
+
+## POINTER 29 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Has reclamado <ITEM:00128800>.
+
+## POINTER 30 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:pacochan;time:1159114206]
+No tuviste suerte esta vez,
+pero la experiencia te hará
+ganar la próxima vez.
+
+## POINTER 32 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+Ansiamos poder
+atenderte de nuevo.
+
+## POINTER 34 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 35 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+La puja de tu propuesta,
+<ITEM:00128800>, está ahora
+a <VAR:0012C004> Jinis.
+
+## POINTER 36 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+¿Qué quieres hacer?
+
+## POINTER 39 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+<OPTION:0000>Aceptar la puja
+Aumentar precio mínimo
+Esperar y ver
+
+## POINTER 40 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+Muy bien.
+Vuelve cuando desees.
+
+## POINTER 42 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 43 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+¿Tal vez quieras
+proponer uno de los
+objetos que tienes
+para la subasta?
+
+## POINTER 45 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+<OPTION:0000>Sí
+No
+
+## POINTER 46 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 47 [t:1;user:memnoch;time:1295528520]
+Las subastas no son solo
+para hacer dinero. También
+pueden ser un estimulante
+pasatiempo.
+
+## POINTER 48 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 49 [t:1;user:memnoch;time:1295301430]
+Por favor, selecciona un objeto.
+
+## POINTER 50 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 51 [t:1;r:1;ru:pacochan;time:1157722708]
+¿<ITEM:00122400>?
+
+## POINTER 52 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 53 [t:1;user:memnoch;time:1286298497]
+Es un objeto muy bueno.
+Veamos cuánto cuesta
+en la subasta.
+
+## POINTER 54 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 55 [t:1;user:memnoch;time:1294850817]
+El pago por la propuesta
+son cinco jinis.
+¿Te va bien?
+
+## POINTER 57 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904963]
+<OPTION:0000>Sí
+No
+
+## POINTER 58 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 59 [t:1;r:1;ru:pacochan;time:1157722708]
+Me entristece oír eso.
+
+## POINTER 60 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 61 [t:1;user:memnoch;time:1294850817]
+Lo siento muchísimo pero
+parece que no tienes
+suficientes jinis.
+
+## POINTER 62 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 63 [t:1;r:1;ru:pacochan;time:1157722708]
+Excelente.
+
+## POINTER 64 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 65 [t:1;user:memnoch;time:1295212399]
+Por favor, vuelve más tarde
+para ver qué tal van las cosas.
+
+## POINTER 66 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 67 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Tal vez encuentres que
+la puja está por las
+nubes.
+
+## POINTER 68 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 69 [t:1;user:memnoch;time:1294850817]
+Lo siento, pero parece
+que no tienes ningún
+objeto que puedas proponer.
+
+## POINTER 70 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 71 [t:1;user:memnoch;time:1295528567]
+Las subastas no son solo
+para hacer dinero. También
+pueden ser un estimulante
+pasatiempo.
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Chef Maravillas
+
+## POINTER 73 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 74 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Chef Maravillas
+
+## POINTER 75 [t:1;user:memnoch;time:1294850817]
+Te enseñaré cómo hacer <COLOR:0D00>patata con chili<COLOR:0F00>,
+un plato básico de comida casera.
+
+## POINTER 77 [t:1;user:memnoch;time:1294850817]
+Has aprendido a hacer patata con chili.
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Chef Maravillas
+
+## POINTER 79 [t:1;user:memnoch;time:1294850817]
+La patata con chili tiene 4 ingredientes:
+patata, zanahoria, cebolla y satay rojo.
+
+## POINTER 81 [t:1;user:memnoch;time:1295534041]
+Recibes ingredientes de patata con chili.
+
+## POINTER 82 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Chef Maravillas
+
+## POINTER 83 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1166670514]
+¡Que tengas un buen día!
+
+## POINTER 85 [t:1;user:memnoch;time:1294850371]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 86 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 87 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Ciertamente.
+
+## POINTER 88 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 89 [t:1;user:memnoch;time:1294850817]
+El <ITEM:00128800> propuesto por
+<CHARA:REID> ha acumulado una
+puja de <VAR:0012C004> jinis.
+
+## POINTER 90 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 91 [t:1;user:memnoch;time:1294850817]
+Aquí tienes el
+pago en jinis.
+
+## POINTER 93 [t:1;user:memnoch;time:1294850817]
+¡El objeto ha acumulado una
+puja de <VAR:0012C004> jinis!
+
+## POINTER 94 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 95 [t:1;user:memnoch;time:1294850817]
+Parece que has ganado una
+buena cantidad de jinis
+en las subastas.
+
+## POINTER 96 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 97 [t:1;user:memnoch;time:1294850817]
+Como representante de Jini,
+Te concedo un nuevo título.
+
+## POINTER 99 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993838]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Nuevo Rico<COLOR:0F00>.
+
+## POINTER 100 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 101 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Ha sigo una gran subasta.
+
+## POINTER 102 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 103 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904964]
+Vuelve pronto.
+
+## POINTER 104 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 105 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Ciertamente.
+¿Cuánto quieres aumentar
+el precio mínimo?
+
+## POINTER 107 [t:1;user:memnoch;time:1294850817]
+<OPTION:0000><VAR:0012100400000F30> jinis
+<VAR:0012100401000F30> jinis
+<VAR:0012100402000F30> jinis
+Esperar y ver
+
+## POINTER 108 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Aumento del mínimo fallido.
+
+## POINTER 109 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Nuevo precio mínimo: <VAR:00128C00>
+
+## POINTER 110 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Aumento del mínimo fallido.
+
+## POINTER 111 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Nuevo precio mínimo: <VAR:00128C00>
+
+## POINTER 112 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Aumento del mínimo fallido.
+
+## POINTER 113 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Nuevo precio mínimo: <VAR:00128C00>
+
+## POINTER 114 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 115 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904964]
+Ciertamente.
+Por favor, vuelve
+más tarde.
+
+## POINTER 116 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 117 [t:1;user:memnoch;time:1294850817]
+Ciertamente.
+Aumentaremos el precio
+mínimo a <VAR:0012BC04> jinis.
+
+## POINTER 118 [t:1;r:1;ru:pacochan;time:1157722708]
+Subastador
+
+## POINTER 119 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904964]
+Por favor, vuelve
+más tarde.
+
+## POINTER 120 [t:1;r:1;ru:soywiz, ;time:1157722708]
+INFO
+
+## POINTER 121 [t:1;r:1;ru:pacochan;user:pacochan;time:1159114039]
+dados:<VAR:00120404>/rango:<VAR:00120804>
+
+## POINTER 123 [t:1;user:memnoch;time:1294850863]
+Jinis actuales: <VAR:00127C00>
+
+## POINTER 125 [t:1;user:memnoch;time:1294850817]
+<OPTION:0000><VAR:0012700500000F30> jinis <ITEM:0012640500000F30>
+<VAR:0012700501000F30> jinis <ITEM:0012640501000F30>
+<VAR:0012700502000F30> jinis <ITEM:0012640502000F30>
+
+## POINTER 127 [t:1;user:memnoch;time:1294850817]
+¿Quieres comprar <ITEM:0012640500120004010032300F30>?
+Serán <VAR:0012700500120004010032300F30> jinis.
+
+## POINTER 129 [t:1;r:1;ru:pacochan;user:pacochan;time:1167904964]
+<OPTION:0000>Sí
+No
+
+## POINTER 131 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Gracias por tu patrocinio.
+
+## POINTER 133 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167992218]
+<CHARA:REID> ha obtenido el
+título de <COLOR:0D00>Explorador<COLOR:0F00>.
+
+## POINTER 135 [t:1;r:1;ru:pacochan;user:pacochan;time:1159113786]
+Lo siento, pero parece
+que no puedes llevar más.
+
+## POINTER 137 [t:1;user:memnoch;time:1294850817]
+Parece que no tienes
+suficientes jinis.

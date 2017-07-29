@@ -1,0 +1,238 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160144331]
+Tinnsia 4
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 2 [t:1;user:memnoch;time:1295532123]
+¿No es esa Lesitia?
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158479]
+¿Pintando la ciudad?
+Te gusta pintar lugares
+diversos, ¿verdad?
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;time:1157722710]
+Lesitia
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158479]
+Tinnsia es un lugar que
+llevaba tiempo queriendo
+pintar.
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;time:1157722710]
+Lesitia
+
+## POINTER 8 [t:1;user:memnoch;time:1295532123]
+Un amigo mío de la infancia
+amaba esta ciudad...
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 10 [t:1;user:memnoch;time:1295554505]
+¿Estás pintando para él?
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;time:1157722710]
+Lesitia
+
+## POINTER 12 [t:1;user:memnoch;time:1295554505]
+Sí.
+Me gustaría que algún día
+tuviera todos mis cuadros.
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;time:1157722710]
+Lesitia
+
+## POINTER 14 [t:1;user:memnoch;time:1295557984]
+Ya no puedo preguntarle
+si le gustan, pero me
+gustaría dedicárselos.
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;time:1157722710]
+Lesitia
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158479]
+Pintar es mi salvación.
+
+## POINTER 18 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1160866130]
+¡Me he vuelto a quedar toda
+la noche jugando al <ITEM:00014801>
+otra vez!
+
+## POINTER 20 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1160144981]
+En realidad no es TAN divertido,
+pero no puedo dejar de jugar.
+
+## POINTER 22 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1160866130]
+¿Que qué voy a hacer esta noche?
+Jugar al <ITEM:00014801>, por supuesto.
+
+## POINTER 24 [t:1;user:memnoch;time:1295635973]
+Las reglas del juego <ITEM:00014801>
+fueron estandarizadas
+en la Era Birial, pero
+
+## POINTER 26 [t:1;user:memnoch;time:1295635973]
+su origen se remonta
+a la Era Mélnica.
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158479]
+Se dice que incluso los soldados
+olvidan las adversidades de la
+guerra en cuanto se ponen a 
+jugar a <ITEM:00014801>...
+
+## POINTER 30 [t:1;user:memnoch;time:1294854229]
+Hay tres craymels primarios:
+tierra, hielo y rayo.
+
+## POINTER 32 [t:1;user:memnoch;time:1294854229]
+Y los tres son regidos por el
+craymel oscuro, Shadow.
+
+## POINTER 34 [t:1;user:memnoch;time:1294854229]
+Se dice que Shadow aparecerá
+cuando todos los craymels
+primarios estén juntos.
+
+## POINTER 36 [t:1;user:memnoch;time:1294854229]
+También se dice que hay otro
+craymel de rango superior al
+craymel oscuro...
+
+## POINTER 38 [t:1;user:memnoch;time:1295568323]
+Seguro que no aparecerá delante
+de nosotros, meros mortales.
+
+## POINTER 40 [t:1;user:memnoch;time:1294849955]
+Los humanos y los craymels
+residen en dimensiones diferentes.
+
+## POINTER 42 [t:1;user:memnoch;time:1294851293]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161158479]
+<8266><8292><8285><8281><8294><8140><8271><8295><828C><8285><8292>
+<828F><8286><8140><8294><8288><8285><8140><8264><8281><8292><8294><8288>
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160144331]
+Gran soberano de la Tierra...
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 48 [t:1;user:memnoch;time:1294849944]
+¿Es este Gnome?
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160145162]
+Gran soberano de la Tierra...
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160145162]
+¿Se supone que es
+algún tipo de chiste?
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 54 [t:1;user:memnoch;time:1286296892]
+¿Eh? Esto no puede ser bueno.
+Debo estar haciéndome viejo...
+¡Ese miacis parece... rosa!
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 56 [t:1;user:memnoch;time:1295625754]
+¡Se parece al Portador
+de la Fortuna, Miacis!
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 58 [t:1;user:memnoch;time:1286296722]
+¡Bua, ja, ja, ja!
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 60 [t:1;user:memnoch;time:1286296872]
+No te equivocas.
+Ese miacis es rosa.
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160144331]
+¡¿QUÉ?!
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160144331]
+¡Maldición!
+¡Estuvo taaaaaan cerca!
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 66 [t:1;user:memnoch;time:1295625016]
+No entiendo a la gente que
+cree en leyendas infantiles
+como la del miacis
+Portador de Felicidad.
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 68 [t:1;user:memnoch;time:1295149094]
+Bueno...
+Incluso yo quiero creer
+en las leyendas de vez
+en cuando.
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 70 [t:1;user:memnoch;time:1295149094]
+¡Solo bromeaba!
+El tema es que me gusta sentir
+su descarga eléctrica. Me ayuda
+a aprender nuevas habilidades.
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160144331]
+¡Nunca falla!
+Una vez más, ¡he obtenido una
+nueva idea para una habilidad!
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MAX>
+
+## POINTER 74 [t:1;user:memnoch;time:1294684163]
+¡Esto puede llegar a ser adictivo!
+¡Bua, ja, ja, ja!
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 76 [t:1;user:memnoch;time:1295630583]
+¿No es un poquito peligroso?
+
+## POINTER 78 [t:1;user:memnoch;time:1295571792]
+<CHARA:MAX> aprende Espiral de Agua.

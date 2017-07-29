@@ -1,0 +1,494 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:soywiz;time:1160113195]
+Despensa del Sótano
+
+## POINTER 1 [t:1;r:2;ru:soywiz, , ,evilluendas;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 2 [t:1;user:memnoch;time:1295569028]
+Mañana es el gran día.
+
+## POINTER 3 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 4 [t:1;user:memnoch;time:1294684154]
+¡Bua, ja, ja, ja!
+
+## POINTER 5 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 6 [t:1;r:1;ru:soywiz;user:soywiz;time:1167966220]
+Hemos organizado a todos los
+aliados para encontrarnos
+en el mar.
+
+## POINTER 7 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 8 [t:1;user:memnoch;time:1295301449]
+Por favor, poned en marcha el
+Van Eltia y dirigíos al castillo
+de Balir.
+
+## POINTER 9 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 10 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113195]
+La insignia de Miacis
+os protegerá a todos.
+
+## POINTER 11 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 12 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113195]
+Buena suerte a todos.
+
+## POINTER 13 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 14 [t:1;r:1;ru:soywiz;user:soywiz;time:1167966220]
+<CHARA:MEREDY> no puede ver muy bien.
+
+## POINTER 15 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113195]
+Permaneced juntos.
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,soywiz;user:evilluendas;time:1163962710]
+¡Kwiikii, kwiikii!
+
+## POINTER 19 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 20 [t:1;user:memnoch;time:1295550609]
+¡¿Una trampa?!
+
+## POINTER 21 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;user:memnoch;time:1295550609]
+¡Sssh! ¡Hay alguien ahí!
+
+## POINTER 23 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 24 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113195]
+¡Ahí vienen!
+
+## POINTER 26 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113195]
+¡Miacis de corazón!
+
+## POINTER 28 [t:1;user:memnoch;time:1295557717]
+Perdonad nuestra rudeza.
+Hemos escuchado las nuevas de Guston,
+pero queríamos poneros a prueba.
+
+## POINTER 30 [t:1;user:memnoch;time:1295550609]
+Vuestras habilidades son como poco
+mediocres pero habéis sido recomendados
+por el mismísimo Guston, así que os
+he vigilado para ver cómo mejorabais.
+
+## POINTER 31 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;r:1;ru:soywiz;user:soywiz;time:1167966220]
+Así que, ¿cuál es la siguiente
+prueba?
+
+## POINTER 34 [t:1;r:1;ru:soywiz;user:soywiz;time:1160868301]
+Ya es suficiente. Bienvenidos al Cuartel
+General de Shileska. Somos la armada
+revolucionaria que lucha por la
+libertad de las almas de los hombres.
+
+## POINTER 35 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 36 [t:1;user:memnoch;time:1295556367]
+Imagino que esa es la forma
+de definir la libertad.
+
+## POINTER 37 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;user:memnoch;time:1295555736]
+Hemos venido aquí para localizar
+el paradero del castillo de Balir
+¿Lo conoces?
+
+## POINTER 40 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Podéis llamarme Ayla. 
+Por favor, por aquí.
+
+## POINTER 41 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 42 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114853]
+¡Vaya! ¡Mirad todos esos hombres!
+No sabía que Shileska tuviera
+tantos soldados...
+
+## POINTER 43 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 44 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+¡Sí!
+
+## POINTER 46 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+¡Miacis de corazón!
+
+## POINTER 47 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+¡Wow!
+¡Nunca imaginé que <CHARA:MAX>
+fuera tan popular!
+
+## POINTER 49 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 50 [t:1;r:1;ru:soywiz;user:soywiz;time:1161546198]
+Probablemente no conozcan
+al verdadero <CHARA:MAX> como
+nosotros...
+
+## POINTER 51 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 52 [t:1;user:memnoch;time:1295388752]
+¡Oh, oh!
+¡Vayamos a ver el cañon craymel!
+
+## POINTER 54 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+Has recibido el equipo
+de <CHARA:MAX>.
+
+## POINTER 56 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114853]
+¡Hemos venido de Peruti!
+
+## POINTER 58 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114853]
+Mi barco también va a participar
+en la batalla.
+
+## POINTER 60 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114853]
+¡Dejadme la batalla naval a mí!
+
+## POINTER 62 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+¡El reinado de Balir
+acabará mañana!
+
+## POINTER 64 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114853]
+¡Me siento cómo en los
+viejos tiempos!
+
+## POINTER 66 [t:1;user:memnoch;time:1295569538]
+¡La cabeza de Balir será mía!
+
+## POINTER 68 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114853]
+¡Llevo mucho tiempo
+esperando este día!
+
+## POINTER 70 [t:1;user:memnoch;time:1295388846]
+Eh, ¿sois nuevos reclutas?
+¡Encantado de conoceros!
+
+## POINTER 72 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114853]
+¡Oh sí!
+¡Ya lo siento!
+
+## POINTER 74 [t:1;user:memnoch;time:1295567119]
+¡Lo vamos a partir!
+
+## POINTER 76 [t:1;user:memnoch;time:1295557184]
+Con el invencible <CHARA:MAX>
+como líder, ¡no tenemos
+nada que temer!
+
+## POINTER 78 [t:1;r:1;ru:soywiz;user:pacochan;time:1167761736]
+Hemos venido todos de Jini,
+¡La Ciudad del Ocio!
+
+## POINTER 80 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+¡Miacis de corazón!
+
+## POINTER 81 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 82 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+¡Ayla!
+
+## POINTER 83 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 84 [t:1;r:1;ru:soywiz;user:soywiz;time:1167966221]
+Buenos días.
+La armada de Shileska ya
+ha abordado los navíos.
+
+## POINTER 85 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 86 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+¿Ayla no va a ir?
+
+## POINTER 87 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 88 [t:1;user:memnoch;time:1295569311]
+Mi misión es hacer guardia aquí
+mientras no haya nadie.
+
+## POINTER 89 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 90 [t:1;user:memnoch;time:1295568143]
+Ya veo...
+Bueno, creo que nosotros
+nos pondremos en camino.
+
+## POINTER 91 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 92 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+Por favor, tened cuidado.
+
+## POINTER 93 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 94 [t:1;user:memnoch;time:1294855990]
+Parece que habéis tenido suerte
+penetrando las paredes del
+castillo de Balir.
+
+## POINTER 95 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 96 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+Sí.
+Gracias.
+
+## POINTER 97 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 98 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+De nada.
+Nada de esto habría sido posible,
+sin tu ayuda, <CHARA:KEELE>.
+
+## POINTER 99 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 100 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+Ayla...
+
+## POINTER 101 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 102 [t:1;user:memnoch;time:1294851110]
+Mmm... Por cierto...
+
+## POINTER 103 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 104 [t:1;user:memnoch;time:1294851110]
+¿Cómo está mi jefe?
+
+## POINTER 105 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 106 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+Nos separamos de él en el puerto...
+
+## POINTER 107 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 108 [t:1;r:1;ru:soywiz;user:soywiz;time:1167966221]
+¡Pero no te preocupes!
+¡Estoy segura de que lo estará
+haciendo bien él solo!
+
+## POINTER 109 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 110 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114045]
+Sí.
+Te lo garantizo.
+<CHARA:MAX> está bien.
+
+## POINTER 111 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 112 [t:1;user:memnoch;time:1294605474]
+¡Por supuesto!
+
+## POINTER 113 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 114 [t:1;user:memnoch;time:1294855990]
+Una vez penetremos el castillo de
+Balir, ¡la victoria será nuestra!
+
+## POINTER 115 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 116 [t:1;user:memnoch;time:1294855990]
+Sí.
+Volveremos del castillo de Balir
+para poner fin a su reinado.
+
+## POINTER 117 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 118 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113427]
+Espéranos aquí.
+
+## POINTER 119 [t:1;r:1;ru:soywiz;time:1157722709]
+Ayla
+
+## POINTER 120 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113427]
+Por favor, tened cuidado.
+
+## POINTER 121 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 122 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113427]
+<CHARA:FARAH>, ¿qué ocurre?
+
+## POINTER 123 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 124 [t:1;user:memnoch;time:1294851110]
+Hay un sitio al que quiero ir...
+
+## POINTER 125 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 126 [t:1;user:memnoch;time:1295653162]
+Creo que sé dónde puede
+estar el mineral de ribavius.
+¿Podemos ir allí?
+
+## POINTER 127 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 128 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+¡¿Qué?!
+¿Lo dices en serio?
+
+## POINTER 129 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 130 [t:1;user:memnoch;time:1294851110]
+Le pregunté a Galenos por él...
+Y estoy casi segura de que
+no me equivoco.
+
+## POINTER 131 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 132 [t:1;user:memnoch;time:1295652730]
+Entonces, ¿dónde podemos
+encontrar el mineral?
+
+## POINTER 133 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 134 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Inferia.
+
+## POINTER 135 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 136 [t:1;user:memnoch;time:1295087088]
+¡¿En Inferia?!
+Pero el canciller Zosimos dijo que
+no se había registrado nunca su
+existencia allí.
+
+## POINTER 137 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 138 [t:1;user:memnoch;time:1295651035]
+¿Lo has visto de verdad?
+¿Cuándo?
+
+## POINTER 139 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 140 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Si vamos, lo entenderéis.
+¿Vendréis conmigo?
+
+## POINTER 141 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 142 [t:1;r:1;ru:soywiz;user:soywiz;time:1160113427]
+¡Claro que sí!
+¡<CHARA:MEREDY> va con <CHARA:FARAH>!
+
+## POINTER 143 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 144 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+¡De acuerdo, entonces!
+¡Vayamos al Van Eltia!
+
+## POINTER 145 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 146 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Hemos conseguido algunas armas.
+
+## POINTER 147 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 148 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Necesitamos conseguir algunas armas.
+
+## POINTER 149 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 150 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Vayamos a por armas.
+
+## POINTER 151 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 152 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Consigamos armas.
+
+## POINTER 153 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MAX>
+
+## POINTER 154 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Consigamos algo de armamento.
+
+## POINTER 155 [t:1;r:1;ru:soywiz;time:1157722709]
+DebugMessage
+
+## POINTER 156 [t:1;r:1;ru:soywiz;time:1157722709]
+Error
+
+## POINTER 157 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:REID>
+
+## POINTER 158 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+Será mejor que vayamos a
+ver a <CHARA:MAX>.
+
+## POINTER 159 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 160 [t:1;user:memnoch;time:1295640253]
+Un momento.
+¿No deberíamos ver a <CHARA:MAX>
+antes de marcharnos?
+
+## POINTER 161 [t:1;r:1;ru:soywiz;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 162 [t:1;r:1;ru:soywiz;user:soywiz;time:1160114530]
+¡No podemos marcharnos!
+¿Dónde está <CHARA:FARAH>?

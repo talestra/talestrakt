@@ -1,0 +1,149 @@
+## POINTER 1 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161435044]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161435044]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727832]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1157727832]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Cueva de Nostos 8
+
+## POINTER 9 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+¿Qué estás haciendo?
+
+## POINTER 11 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 12 [t:1;user:memnoch;time:1294596956]
+¿Eh? Estoy haciendo cecina.
+Si secas carne de oso ovíparo, puedes
+hacer raciones de comida de emergencia.
+
+## POINTER 13 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 14 [t:1;user:memnoch;time:1294596956]
+Lo siento pero lo dudo.
+Para empezar, la carne de oso ovíparo
+sufre ciertas reacciones químicas que
+hacen que pierda sus nutrientes.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1162121256]
+¿Pero qué dices, <CHARA:KEELE>?
+¡Si nunca la has probado!
+
+## POINTER 17 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 18 [t:1;user:memnoch;time:1295574720]
+No necesito probarla para saberlo.
+Está explicado detalladamente en
+el Volumen 3, Capítulo 21 de la
+Enciclopedia Leonoa.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:pacochan;time:1162121257]
+¡Toma ya!
+Me da igual lo que ponga.
+¡La he comido muchas veces
+y sé que estoy en lo cierto!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1286152981]
+¡Chicos! Calmaos.
+¿De verdad es tan importante?
+
+## POINTER 23 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1162121257]
+¡<CHARA:KEELE>,
+no pienses ni en sueños que
+la voy a compartir contigo!
+
+## POINTER 25 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161435044]
+Perfecto. Menos de qué preocuparme.
+
+## POINTER 27 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 28 [t:1;user:memnoch;time:1295574720]
+Los chicos siempre igual.
+Nunca cambiarán...
+
+## POINTER 29 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+¿Qué estás haciendo?
+
+## POINTER 31 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 32 [t:1;user:memnoch;time:1294596956]
+¿Eh? Estoy haciendo cecina.
+Si secas carne de oso ovíparo, puedes
+hacer raciones de comida de emergencia.
+
+## POINTER 33 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 34 [t:1;user:memnoch;time:1294596956]
+Lo siento pero lo dudo.
+Para empezar, la carne de oso ovíparo
+sufre ciertas reacciones químicas que
+hacen que pierda sus nutrientes.
+
+## POINTER 35 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1162121257]
+¿Pero qué dices, <CHARA:KEELE>?
+¡Si nunca la has probado!
+
+## POINTER 37 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 38 [t:1;user:memnoch;time:1295574720]
+No necesito probarla para saberlo.
+Está explicado detalladamente en
+el Volumen 3, Capítulo 21 de la
+Enciclopedia Leonoa.
+
+## POINTER 39 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:REID>
+
+## POINTER 40 [t:1;r:1;ru:pacochan;user:pacochan;time:1162121257]
+¡Toma ya!
+Me da igual lo que ponga.
+¡La he comido muchas veces
+y sé que estoy en lo cierto!
+
+## POINTER 41 [t:1;r:2;ru:soywiz, , evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:pacochan;time:1286152981]
+¡Chicos! Calmaos.
+¿De verdad es tan importante?

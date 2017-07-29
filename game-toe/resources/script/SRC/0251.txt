@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:soywiz;time:1160236340]
+Tienda de Comida de Barole
+
+## POINTER 1 [t:1;r:1;ru:pacochan;time:1157722708]
+Maple
+
+## POINTER 3 [t:1;r:1;ru:pacochan;user:pacochan;time:1160239323]
+Los tomates hoy en día son
+cuidadosamente cultivados de
+manera que puedan sobrevivir
+en climas cálidos.
+
+## POINTER 5 [t:1;r:1;ru:pacochan;user:soywiz;time:1160236340]
+Los tomates son mucho
+mejores cuando crecen
+en climas fríos.
+
+## POINTER 7 [t:1;r:1;ru:pacochan;user:pacochan;time:1160239323]
+¡Nuestras verduras tienen el sabor
+de la naturaleza! ¡Las importamos
+directamente de regiones ocultas
+de Rasheans!
+
+## POINTER 8 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 9 [t:1;r:1;ru:pacochan;user:soywiz;time:1160236340]
+¡¿Regiones ocultas?!
+
+## POINTER 11 [t:1;r:1;ru:pacochan;user:soywiz;time:1160236340]
+Has encontrado <ITEM:00120004>.
+
+## POINTER 13 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1166568750]
+Has encontrado <ITEM:00120004>,
+pero no puedes llevar más.
+
+## POINTER 15 [t:1;r:2;ru:evilluendas,pacochan;user:pacochan;time:1160239323]
+¿Qué tal algo de comida fresca?
+
+## POINTER 17 [t:1;r:1;ru:pacochan;user:pacochan;time:1160239323]
+Mejor usarlas pronto.
+
+## POINTER 19 [t:1;user:memnoch;time:1295532853]
+¡No se puede ganar con
+el estómago vacío!
+O eso dicen...

@@ -1,0 +1,73 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;time:1157722710]
+Van Eltia (Fase 1)
+
+## POINTER 2 [t:1;user:memnoch;time:1295569786]
+Vas a subir al Van Eltia.
+¿Estás seguro?<OPTION:0000>
+Sí
+No
+
+## POINTER 4 [t:1;user:memnoch;time:1294850216]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 6 [t:1;user:memnoch;time:1294850216]
+<CHARA:FARAH>... ¿Estás bien?
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 8 [t:1;user:memnoch;time:1295567769]
+¡E-Estoy bien!
+Estoy lista
+para continuar.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 10 [t:1;user:memnoch;time:1294686826]
+Estoy bien...
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 12 [t:1;user:memnoch;time:1294686826]
+Entonces, vámonos.
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747122]
+Vamos a ver a Galenos en
+<COLOR:0D00>Luishka<COLOR:0F00> y averigüemos
+qué nos intentaba decir <CHARA:RAS>.
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 16 [t:1;user:memnoch;time:1294686826]
+La Aurora... Divina...
+
+## POINTER 17 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747122]
+Sí.
+Parece que nos
+corresponde buscarla.
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747122]
+¡Bien!
+¡Ningún problema!
+
+## POINTER 21 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1165747122]
+¡Por supuesto!

@@ -1,0 +1,162 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+Mina de Gnome B2-9
+
+## POINTER 1 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+La gravilla bloquea el camino.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¿Quitarás la gravilla?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+No lo hagamos ahora.
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:0001672B>
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+Creo que vi una
+pala en la oficina.
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¡Bien, <CHARA:REID>!
+¡Es hora de que seas útil!
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 12 [t:1;user:memnoch;time:1295388523]
+¿No estamos haciendo esto juntos?
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+Aquí tienes.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+Esto no es justo...
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¡Claro que lo es!
+Estaremos aquí dándote apoyo moral.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 20 [t:1;r:1;ru:pacochan;user:soywiz;time:1160837202]
+No necesito apoyo moral...
+¡Necesito que me echen una mano!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¡Gracias <CHARA:REID>!
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+*Suspiro*
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+Has volado la roca.
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+Creo que probaré a
+cavar con la pala...
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¡¡Eso es <BOLD:0100><ITEM:00015201><BOLD:0000>!!
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¿Colain?
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+Es el nombre de un héroe de
+hace muchos, muchos años.
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¡Esta jarra es uno de los
+<COLOR:0E00>Siete Tesoros de Celestia<COLOR:0F00>!
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 38 [t:1;user:memnoch;time:1295531508]
+El <COLOR:0D00>pedo<COLOR:0F00> de Colain
+está atrapado dentro.
+
+## POINTER 40 [t:1;user:memnoch;time:1295534406]
+Encuentras <ITEM:00015201>.
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1167993756]
+<CHARA:REID> ha obtenido
+el título de <COLOR:0D00>Explorador<COLOR:0F00>.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¡Espera un segundo!
+¡¡Algo huele!!
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¡Puajj!
+¡¡Qué peste!!
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+Es divertido.
+El pedo de Colain
+no apesta...
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 50 [t:1;user:memnoch;time:1295531508]
+Perdón...
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 52 [t:1;r:1;ru:pacochan;user:pacochan;time:1157738406]
+¿Eh?
+Veo algo dentro.

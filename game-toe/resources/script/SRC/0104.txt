@@ -1,0 +1,619 @@
+## POINTER 0 [t:1;r:1;ru:soywiz;user:soywiz;time:1164474196]
+Univ. de Mintche (Exám. Avanzado)
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+Copiar el examen de otro
+estudiante está estrictamente
+prohibido por la Carta Imperial.
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;time:1157722710]
+Oficina de Preparación de Exámenes.
+
+## POINTER 6 [t:1;user:memnoch;time:1295532951]
+Esta es la Sala de Exámenes Avanzados.
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¡Vaya! ¡Debes ser más listo
+de lo que aparentas!
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Quieres intentar el
+Examen Avanzado?
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+<OPTION:0000>Sí
+No
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+De acuerdo.
+Te deseo la mejor de las suertes.
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+Lo entiendo. El
+Examen Avanzado es muy
+difícil, después de todo...
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+Vuelve cuando hayas
+aprobado el Examen Intermedio.
+
+## POINTER 19 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Estás listo?
+<OPTION:0000>Sí
+No
+
+## POINTER 21 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Pregunta <VAR:00120004>!
+
+## POINTER 23 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 24 [t:1;user:memnoch;time:1294601213]
+¿Qué fantasma de Pac-Man
+es de color rosa?
+
+## POINTER 25 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Inky
+Pinky
+Blinky
+Clyde
+
+## POINTER 27 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 28 [t:1;user:memnoch;time:1294601213]
+¿Qué fantasma del Pac-Man es
+de color naranja?
+
+## POINTER 29 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Inky
+Pinky
+Clyde
+Blinky
+
+## POINTER 31 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuál de estos juegos
+es un arcade de éxito de Namco?
+
+## POINTER 33 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Dragon Nights
+Ninja Assault
+Circuit Run
+Treasure Box
+
+## POINTER 35 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 36 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuál de estos juegos
+es un arcade de éxito de Namco?
+
+## POINTER 37 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Deep Abyss
+Drunk Driving
+Horse
+Hide Out
+
+## POINTER 39 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuál de estos juegos
+es un arcade de éxito de Namco?
+
+## POINTER 41 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 42 [t:1;r:1;ru:soywiz;user:soywiz;time:1163419953]
+<OPTION:0000>Pac Man's Holiday
+Pac Man's Revenge
+Pac Man's House
+Pac Man's Ticket Factory
+
+## POINTER 43 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuál de estos juegos
+es un arcade de éxito de Namco?
+
+## POINTER 45 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Shooting Range
+Shot Put
+Pinpoint Shot
+Precision Shot
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuál de estos juegos
+es un arcade de éxito de Namco?
+
+## POINTER 49 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>21
+Casino Nights
+Jackpot2
+Poker Fun
+
+## POINTER 51 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuál de estos juegos
+es un arcade de éxito de Namco?
+
+## POINTER 53 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Paradise Stadium
+World Kicks
+Goal Panic
+Goal!
+
+## POINTER 55 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuántos laberintos aparecían
+en el Pac-Man original?
+
+## POINTER 57 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>1 
+2 
+3 
+4
+
+## POINTER 59 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 60 [t:1;user:memnoch;time:1295651590]
+Mi nombre es Mappy. Soy un ________.
+
+## POINTER 61 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+<OPTION:0000>Pájaro
+Perro
+Gato
+Ratón
+
+## POINTER 63 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuál de los siguientes no es
+un personaje de Tekken?
+
+## POINTER 65 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Ogre
+True Ogre
+Unknown
+Hwang
+
+## POINTER 67 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 68 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161429328]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 69 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Blah Blah
+Libble Rabble
+Gaplus
+Face Off
+
+## POINTER 71 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 72 [t:1;user:memnoch;time:1295573624]
+¿En qué juego te puedes encontrar
+en las "Creepy Catacombs"?
+
+## POINTER 73 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Xevious
+Ms. Pac-Man
+Pac-Man World
+Dragon Valor
+
+## POINTER 75 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿De qué color es el casco de Mr. Driller?
+
+## POINTER 77 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+<OPTION:0000>Naranja
+Negro
+Rosa
+Azul
+
+## POINTER 79 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 80 [t:1;user:memnoch;time:1295573624]
+En MotoGP, puedes llamar a tu
+"fantasma" ____________.
+
+## POINTER 81 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Trial Image
+Trail Image
+Trailer
+Ghost Rider
+
+## POINTER 83 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 84 [t:1;user:memnoch;time:1295651590]
+Cyber Sled es un juego que tiene lugar
+en el año ____.
+
+## POINTER 85 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 86 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>2067
+2076
+2776
+2967
+
+## POINTER 87 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 88 [t:1;user:memnoch;time:1295651590]
+El juego de mesa La Torre de Druaga
+fue lanzado en el año ____.
+
+## POINTER 89 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 90 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>1973
+1981
+1985
+1991
+
+## POINTER 91 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 92 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de estos no es un
+personaje de Dig Dug?
+
+## POINTER 93 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 94 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Dig Dug
+Pooka
+Fygar
+Clyde
+
+## POINTER 95 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 96 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Cuál de estos es un juego de Namco?
+
+## POINTER 97 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 98 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Cutie Q
+Bomb Jack
+Strike Zone
+Dr. Mayhem
+
+## POINTER 99 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 100 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 101 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Super Pac-Man
+Pac-Sac
+Pac & Pal
+Pac-Land
+
+## POINTER 103 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 104 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 105 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 106 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Dragon Spirit
+Dragon Buster
+Dragon Knight
+Dragon Valor
+
+## POINTER 107 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 108 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 109 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 110 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Rolling Thunder
+Lightning & Thunder
+Thunder Ceptor
+3D Thunder Ceptor II
+
+## POINTER 111 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 112 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 113 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 114 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Pac-Mania
+Pac-Man World
+Ms. Pac-Man Maze Madness
+Pac-Man Ex
+
+## POINTER 115 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 116 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 117 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 118 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Final Lap
+Final Lap 1
+Final Lap 2
+Final Lap 3
+
+## POINTER 119 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 120 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 121 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 122 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Flip Flop
+Knuckle Heads
+Lucky & Wild
+Tinkle Pit
+
+## POINTER 123 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 124 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuándo fue lanzado el 
+Tekken original?
+
+## POINTER 125 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 126 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>1979
+1985
+1991
+1994
+
+## POINTER 127 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 128 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 129 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 130 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Alpine Racer
+Drag Racer
+Rave Racer
+Ridge Racer
+
+## POINTER 131 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 132 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Cuál de los siguientes es un juego de Namco?
+
+## POINTER 133 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 134 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Warp & Warp
+Warp & Stay
+Play & Stay
+Play & Play
+
+## POINTER 135 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 136 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¿Cuál de los siguientes
+NO es un juego de Namco?
+
+## POINTER 137 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 138 [t:1;r:1;ru:evilluendas;user:soywiz;time:1157726656]
+<OPTION:0000>Motos
+Pot Holes
+Gee Bee
+Bomb Bee
+
+## POINTER 139 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 140 [t:1;user:memnoch;time:1294598829]
+¿Cuál de los siguientes
+grupos tradujo Tales of
+Eternia al castellano?
+
+## POINTER 141 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 142 [t:1;r:2;ru:evilluendas,soywiz;user:evilluendas;time:1161432214]
+<OPTION:0000>Ubisoft
+Namco
+Tales Translations
+Sony
+
+## POINTER 143 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 144 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Vas a marcharte?
+
+## POINTER 145 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 146 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Correcto!
+
+## POINTER 147 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 148 [t:1;r:1;ru:evilluendas;time:1157722710]
+Lo siento, pero es incorrecto.
+
+## POINTER 149 [t:1;r:1;ru:evilluendas;time:1157722710]
+De <VAR:00120004> preguntas, has acertado <VAR:00101C04>.
+
+## POINTER 150 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 151 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡0 puntos!
+
+## POINTER 152 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 153 [t:1;r:1;ru:evilluendas;time:1157722710]
+¿Te lo estás tomando en serio?
+
+## POINTER 154 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 155 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+¡Excelente! ¡Has respondido a
+todas las preguntas correctamente!
+
+## POINTER 156 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 157 [t:1;user:memnoch;time:1294856719]
+¡Por el poder que me ha sido otorgado
+por el presidente de la universidad de
+Mintche, te concedo en este momento este
+título y este objeto!
+
+## POINTER 159 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+<CHARA:REID> ha obtenido
+el título de <COLOR:0D00>Otaku de Namco<COLOR:0F00>.
+
+## POINTER 161 [t:1;user:memnoch;time:1295534225]
+Recibes <ITEM:00011B01>.
+
+## POINTER 162 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 163 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1174934725]
+Adiós, entonces.
+Creo que me voy
+a tomar una larga 
+siesta...
+
+## POINTER 164 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 165 [t:1;r:1;ru:evilluendas;time:1157722710]
+El examen ha terminado.
+
+## POINTER 166 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 167 [t:1;r:1;ru:pacochan;user:pacochan;time:1168046527]
+De <VAR:0012000401003230> preguntas, has acertado <VAR:00101C04>.
+
+## POINTER 168 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 169 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161431980]
+Todavía tienes un
+largo camino que hacer...
+
+## POINTER 170 [t:1;r:1;ru:soywiz, ;time:1157722710]
+Clemente
+
+## POINTER 171 [t:1;r:1;ru:evilluendas;time:1157722710]
+¡Vuelve de nuevo!

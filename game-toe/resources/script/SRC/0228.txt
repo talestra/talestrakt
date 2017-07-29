@@ -1,0 +1,236 @@
+## POINTER 0 [t:1;r:1;ru:soywiz;user:soywiz;time:1163123366]
+Alacrán de Mar
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 2 [t:1;user:memnoch;time:1295209265]
+¡Guau! ¡Una maqueta de la
+nave imperial de batalla 
+de hace veinte años!
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 4 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265126]
+¡Oh, sí!
+A ti te ha gustado hacer
+maquetas desde que eras
+pequeño.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:hexplus;time:1157745137]
+Exacto.
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265126]
+Pero nunca olvidaré, hace 12 años...
+Alguien destruyó mi maqueta favorita,
+que puse en la puerta principal...
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:REID>
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265126]
+<CHARA:KEELE>,
+posiblemente deberías
+olvidarlo. Es un gasto
+inútil de tus neuronas...
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:evilluendas;time:1158265126]
+Sí, supongo que tienes razón.
+
+## POINTER 14 [t:1;user:memnoch;time:1295534517]
+Encuentras <ITEM:00012B01>.
+
+## POINTER 16 [t:1;user:memnoch;time:1295534517]
+Encuentras <ITEM:00012B01>,
+pero no puedes llevar más.
+
+## POINTER 18 [t:1;user:memnoch;time:1295534517]
+Encuentras <ITEM:1800>.
+
+## POINTER 20 [t:1;user:memnoch;time:1295534517]
+Encuentras <ITEM:1800>,
+pero no puedes llevar más.
+
+## POINTER 22 [t:1;user:memnoch;time:1295127185]
+Este es el abastecedor de barcos.
+
+## POINTER 24 [t:1;user:memnoch;time:1295383633]
+He oído un rumor sobre una
+arte craymel que te permite
+atravesar el mar sin barco.
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586750]
+Pero no espero
+que me creas...
+
+## POINTER 28 [t:1;user:memnoch;time:1295086816]
+¡Cuando fui al santuario de Farlos
+el otro día, oí un extraño ruido
+proveniente de abajo!
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:soywiz;time:1159961338]
+Me pregunto si habrá algo
+viviendo ahí abajo...
+
+## POINTER 31 [t:1;r:1;ru:pacochan;user:hexplus;time:1157745247]
+Chef Maravillas
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:hexplus;time:1157745247]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 33 [t:1;r:1;ru:pacochan;user:hexplus;time:1157745247]
+Chef Maravillas
+
+## POINTER 34 [t:1;user:memnoch;time:1294592532]
+Te enseñaré a hacer 
+<COLOR:0D00>guiso de pescado<COLOR:0F00> con
+un aroma salado.
+
+## POINTER 36 [t:1;user:memnoch;time:1294592532]
+Has aprendido a hacer
+guiso de pescado.
+
+## POINTER 37 [t:1;r:1;ru:pacochan;user:hexplus;time:1157745247]
+Chef Maravillas
+
+## POINTER 38 [t:1;user:memnoch;time:1294592532]
+El guiso de pescado tiene cuatro
+ingredientes: calamar, col, atún
+y rábano.
+
+## POINTER 40 [t:1;user:memnoch;time:1294592532]
+Has recibido los ingredientes
+del guiso de pescado.
+
+## POINTER 41 [t:1;r:1;ru:pacochan;user:hexplus;time:1157745247]
+Chef Maravillas
+
+## POINTER 42 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586750]
+¡Que tengas un buen día!
+
+## POINTER 43 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> es actualmente
+una enfermería.
+
+## POINTER 44 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> es actualmente
+una tienda.
+
+## POINTER 45 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> es actualmente
+una posada.
+
+## POINTER 46 [t:1;user:memnoch;time:1294849592]
+El camarote <VAR:00120004> es actualmente
+una estación de transporte.
+
+## POINTER 47 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> es actualmente
+una sala de juegos.
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586750]
+El camarote <VAR:00120004> está actualmente
+vacío.
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586750]
+El camarote <VAR:00120004> se convertirá
+en un camarote vacío.
+
+## POINTER 52 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> se convertirá
+en una enfermería.
+
+## POINTER 54 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> se convertirá
+en una posada.
+
+## POINTER 56 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> se convertirá
+en una sala de juegos.
+
+## POINTER 58 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586750]
+El camarote <VAR:00120004> ha sido convertido
+en un camarote vacío.
+
+## POINTER 60 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> ha sido convertido
+en una enfermería.
+
+## POINTER 62 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> ha sido convertido
+en una posada.
+
+## POINTER 64 [t:1;user:memnoch;time:1294849641]
+El camarote <VAR:00120004> ha sido convertido
+en una sala de juegos.
+
+## POINTER 66 [t:1;r:1;ru:soywiz;user:soywiz;time:1167966571]
+<CHARA:CHAT> ha obtenido el título
+de <COLOR:0D00>Decoradora de Interiores<COLOR:0F00>.
+
+## POINTER 68 [t:1;r:1;ru:pacochan;user:soywiz;time:1159961056]
+¿Has cambiado de idea?
+
+## POINTER 70 [t:1;r:1;ru:pacochan;user:soywiz;time:1159961056]
+Aquí puedes modificar tu barco.
+
+## POINTER 72 [t:1;r:1;ru:pacochan;user:soywiz;time:1159961056]
+¿Deseas modificar el Van Eltia?<OPTION:0000>
+Sí
+No
+
+## POINTER 74 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586751]
+¿Qué camarote quieres modificar?
+
+## POINTER 76 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586751]
+<OPTION:0000>Camarote 1
+Camarote 2
+
+## POINTER 78 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586751]
+<OPTION:0000>Camarote 1
+Camarote 2
+Camarote 3
+Camarote 4
+
+## POINTER 80 [t:1;r:1;ru:pacochan;user:pacochan;time:1163586751]
+¿En qué deseas convertir
+el camarote <VAR:00120004>?
+
+## POINTER 82 [t:1;user:memnoch;time:1295607679]
+<OPTION:0000>Camarote vacío (<VAR:000210980200> gald)
+Enfermería (<VAR:000240420F00> gald)
+Posada (<VAR:0002E0930400> gald) - ¡¡Gran oferta!!
+Sala de juegos (<VAR:000200350C00> gald)
+
+## POINTER 84 [t:1;r:1;ru:pacochan;user:soywiz;time:1159960662]
+No tienes suficiente dinero.
+
+## POINTER 86 [t:1;user:memnoch;time:1286292188]
+Son <VAR:00120804> gald.
+¿Estás seguro?
+Sí
+No
+
+## POINTER 88 [t:1;r:1;ru:pacochan;user:soywiz;time:1159960662]
+Volved cuando queráis.
+
+## POINTER 90 [t:1;user:memnoch;time:1295127185]
+Este es el abastecedor de barcos,
+Sin embargo...
+
+## POINTER 92 [t:1;r:1;ru:pacochan;user:soywiz;time:1159960662]
+No tenéis barco, ¿verdad?
+
+## POINTER 94 [t:1;r:1;ru:pacochan;user:soywiz;time:1159960662]
+Es la misma habitación.

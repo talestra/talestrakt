@@ -1,0 +1,124 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,soywiz;user:evilluendas;time:1166546930]
+Dojo Régulus - Sala de Principiantes
+
+## POINTER 1 [t:1;r:3;ru:evilluendas,pacochan,soywiz;time:1157722710]
+<8370><8349><838D>
+
+## POINTER 2 [t:1;user:memnoch;time:1295084360]
+Esta es la Sala de Principiantes.
+
+## POINTER 4 [t:1;r:3;ru:evilluendas,pacochan,soywiz;time:1157722710]
+Te enseñaré las bases del combate.
+
+## POINTER 6 [t:1;user:memnoch;time:1295084604]
+<OPTION:0000>Movimiento
+Ataque básico
+Habilidades especiales
+Apuntando
+
+## POINTER 8 [t:1;user:memnoch;time:1295556237]
+Presiona la cruceta
+Izquierda/Derecha para moverte.
+Pulsa dos veces la cruceta
+para <COLOR:0D00>Correr<COLOR:0F00>.
+
+## POINTER 10 [t:1;r:2;ru:pacochan,soywiz;user:pacochan;time:1161438571]
+Puedes lanzarte para ponerte detrás de
+tus enemigos o moverte a un área segura,
+pero ve con cuidado. Mientras lo realizas
+estás indefenso y eres vulnerable.
+
+## POINTER 12 [t:1;user:memnoch;time:1295084884]
+Presiona <BUTTON:6500> para hacer un <COLOR:0D00>ataque
+semi-automático<COLOR:0F00>. Correrás hasta
+tu enemigo, harás un ataque cortante,
+y te retirarás automáticamente.
+
+## POINTER 14 [t:1;user:memnoch;time:1295084604]
+Si hay suficiente distancia entre tú
+y tu enemigo, presionando <BUTTON:6500> mientras
+corres realizarás un <COLOR:0D00>Ataque con Salto<COLOR:0F00>.
+
+## POINTER 16 [t:1;user:memnoch;time:1295084354]
+Presiona Arriba mientras saltas, para
+hacer un <COLOR:0D00>Corte Alto<COLOR:0F00>. Presiona
+hacia Abajo para un <COLOR:0D00>Corte Bajo<COLOR:0F00>.
+Intenta experimentar hasta que te salga.
+
+## POINTER 18 [t:1;user:memnoch;time:1295084354]
+Puedes combinar <BUTTON:6400> y <BUTTON:0800> para
+realizar <COLOR:0D00>habilidades especiales<COLOR:0F00>.
+¿Pero sabías que puedes elegir
+esas habilidades?
+
+## POINTER 20 [t:1;user:memnoch;time:1295084856]
+Abre el <COLOR:0D00>menú Habilidades Especiales<COLOR:0F00>
+y asigna tus habilidades a <BUTTON:0800>.
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160858665]
+Cuando aprendas nuevas habilidades,
+asegúrate de probarlas.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1161438571]
+Tu objetivo se selecciona automáticamente,
+pero puedes cambiarlo manualmente si quieres
+seleccionar otro enemigo para atacar.
+
+## POINTER 26 [t:1;user:memnoch;time:1295556237]
+Presiona <BUTTON:6900> para mostrar tu
+objetivo actual, y presiona la
+cruceta Izquierda/Derecha para 
+seleccionar un nuevo objetivo.
+
+## POINTER 28 [t:1;user:memnoch;time:1295556237]
+También puedes apuntar a diferentes
+tipos de enemigo presionando la 
+cruceta Arriba y Abajo.
+
+## POINTER 30 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161438571]
+No hay nada más que puedas
+aprender en esta sala.
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160858665]
+¿Por qué no practicas conmigo?
+No te preocupes, no morirás ni perderás.
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160858665]
+<OPTION:0000>Sí
+No
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160858665]
+¡Lo has hecho genial!
+Desde luego ya no eres un principiante.
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160858665]
+Enhorabuena.
+Pero no te des por satisfecho.
+Apunta siempre más alto.
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160858665]
+Muy mal.
+Pero no te rindas.
+Siempre inténtalo, y siempre esfuérzate.
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160858665]
+Estaré siempre aquí, 
+así que ven en cualquier momento.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 44 [t:1;user:memnoch;time:1295084354]
+¿Por qué no entreno un poco?
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 46 [t:1;user:memnoch;time:1295084354]
+¡De acuerdo!
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 48 [t:1;user:memnoch;time:1295084354]
+¿Cómo es eso?

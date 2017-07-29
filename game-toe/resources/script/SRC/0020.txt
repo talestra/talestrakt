@@ -1,0 +1,122 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Casa privada
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:soywiz;time:1163346378]
+¿Ha sido siempre...
+así de pequeño?
+
+## POINTER 3 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 4 [t:1;user:memnoch;time:1295576868]
+Eres tú el que se ha
+hecho mucho más grande.
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:pacochan;time:1161198590]
+Bien, bien. Ya veo que los amigos de
+la infancia vuelven a estar juntos.
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160673056]
+¿Volveréis a hacer
+algún tipo de travesura
+como antaño?
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+<CHARA:KEELE>. ¿Te acuerdas?
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160673056]
+Ha sido remodelada,
+pero esta casa...
+era la tuya.
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163887579]
+Oh. ¡Ha pasado mucho tiempo
+desde la última vez que os vi juntos!
+
+## POINTER 16 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161198590]
+Si <CHARA:KEELE> estuviera aquí,
+podríais ser un trío de nuevo.
+
+## POINTER 18 [t:1;user:memnoch;time:1294856940]
+¿<CHARA:KEELE> está en la universidad
+de Mintche? Se ha vuelto un erudito.
+
+## POINTER 20 [t:1;user:memnoch;time:1295089935]
+Ingredientes del <COLOR:0D00>banrea<COLOR:0F00>,
+¿eh? Conozco uno.
+Se llama <COLOR:0D00>pieles secas<COLOR:0F00>.
+
+## POINTER 22 [t:1;user:memnoch;time:1295089896]
+Remoja 15 frutos especiales en
+el <COLOR:0E00>balneario craymel<COLOR:0F00> para
+desprender la piel.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1161198590]
+Entonces seca las pieles.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 26 [t:1;r:1;ru:pacochan;time:1157722708]
+¿Qué tipo de fruta?
+
+## POINTER 28 [t:1;r:1;ru:pacochan;user:pacochan;time:1161198590]
+No lo sé... Después de todo,
+es una medicina <BOLD:0100>legendaria<BOLD:0000>.
+
+## POINTER 30 [t:1;r:1;ru:pacochan;user:pacochan;time:1161198590]
+Pero he oído que es una fruta
+que crece por toda Inferia.
+
+## POINTER 32 [t:1;user:memnoch;time:1295089896]
+Cuando consigas los 15 frutos,
+deberías ir hacia el
+<COLOR:0E00>balneario craymel<COLOR:0F00>.
+
+## POINTER 34 [t:1;user:memnoch;time:1295089896]
+Tienes las <COLOR:0D00>pieles secas<COLOR:0F00>.
+¡Es genial!
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1161198590]
+No puedes evitar que el
+tiempo siga avanzando.
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:soywiz;time:1163346430]
+Nada se mantiene cómo
+era en el pasado.
+
+## POINTER 39 [t:1;r:2;ru:pacochan,evilluendas;time:1157722708]
+Chef Maravillas
+
+## POINTER 40 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161198590]
+¡Soy el misterioso
+Chef Maravillas!
+
+## POINTER 41 [t:1;r:2;ru:pacochan,evilluendas;time:1157722708]
+Chef Maravillas
+
+## POINTER 42 [t:1;user:memnoch;time:1295089896]
+Te enseñaré cómo hacer un
+delicioso <COLOR:0D00>sándwich<COLOR:0F00>.
+
+## POINTER 44 [t:1;user:memnoch;time:1295089896]
+Has aprendido a hacer un sándwich.
+
+## POINTER 45 [t:1;r:2;ru:pacochan,evilluendas;time:1157722708]
+Chef Maravillas
+
+## POINTER 46 [t:1;user:memnoch;time:1295089896]
+Un sándwich tiene tres ingredientes:
+pan, lechuga y queso.
+
+## POINTER 48 [t:1;user:memnoch;time:1295534253]
+Recibes los ingredientes del sándwich.
+
+## POINTER 49 [t:1;r:2;ru:pacochan,evilluendas;time:1157722708]
+Chef Maravillas
+
+## POINTER 50 [t:1;r:2;ru:pacochan,evilluendas;time:1157722708]
+¡Que tengas un buen día!

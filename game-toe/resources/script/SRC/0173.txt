@@ -1,0 +1,383 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Ciudad de Inferia
+
+## POINTER 2 [t:1;user:memnoch;time:1294854456]
+Esta es la entrada a Ciudad de Inferia.
+
+## POINTER 4 [t:1;user:memnoch;time:1295098638]
+Esta tienda es la de objetos;
+la de armaduras está a la derecha
+y la de armas a la izquierda.
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+Esto es Ciudad de Inferia.
+Es la mayor y mejor ciudad del mundo.
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Bonito día.
+
+## POINTER 10 [t:1;user:memnoch;time:1294603086]
+¡¿Mmm?!
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+¡Parecéis
+los fugitivos!
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 14 [t:1;user:memnoch;time:1294603108]
+N-Nos lo dicen todo el rato.
+
+## POINTER 16 [t:1;user:memnoch;time:1294603108]
+Mmm... Ya veo.
+
+## POINTER 18 [t:1;r:1;ru:soywiz;user:soywiz;time:1163123222]
+Ahora que lo pienso, un grupo
+de fugitivos no estaría dando
+vueltas tan abiertamente.
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 20 [t:1;user:memnoch;time:1294603108]
+Ti-tienes toda la razón.
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+Mil perdones.
+¡Adelante!
+
+## POINTER 24 [t:1;user:memnoch;time:1294603108]
+Habría vivido una vida mucho
+más aventurera si hubiera
+sabido que el mundo se acababa.
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Guardia
+
+## POINTER 28 [t:1;user:memnoch;time:1295094307]
+Me pregunto dónde estará
+el poblado de Rasheans.
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 30 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¿Quieres saberlo?
+
+## POINTER 32 [t:1;user:memnoch;time:1295098121]
+Nah. No pasa nada.
+He oído que está MUY lejos.
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+Rasheans...
+Qué nombre más fascinante.
+
+## POINTER 36 [t:1;user:memnoch;time:1295632319]
+Me encanta el tinte de Rasheans.
+Si nuestro mundo se salva,
+me encantaría visitarlo.
+
+## POINTER 38 [t:1;user:memnoch;time:1295094307]
+¡Oh!
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¿Qué ocurre?
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+¡Las ropas que lleváis!
+¡Eso es tinte de Rasheans original!
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1162378553]
+Parece que no ha desteñido, pese
+a todas las batallas que habéis
+luchado en vuestro camino.
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 46 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Hombre de la Tienda de Ropa
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+El viento de la ciudad
+es tan frío...
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+*Suspiro*
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+Mis padres no querían que me trasladara
+a la ciudad, ¡pero aquí estoy!
+
+## POINTER 54 [t:1;user:memnoch;time:1295489280]
+Oye, ¿me podrías contratar para trabajar?
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 56 [t:1;user:memnoch;time:1295094307]
+Uh... Me encantaría
+ayudarte, pero...
+
+## POINTER 58 [t:1;user:memnoch;time:1295091075]
+Haría cualquier cosa. Por favor...
+
+## POINTER 60 [t:1;user:memnoch;time:1295091004]
+Pero no hacer nada que sea sucio...
+doloroso o... cansado.
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+No te había visto
+nunca antes.
+
+## POINTER 64 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+¡Oh!
+¡Tú eres...!
+
+## POINTER 66 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¿Oh, son amigos tuyos?
+
+## POINTER 68 [t:1;user:memnoch;time:1295091004]
+¡N-No! ¡Claro que no!
+
+## POINTER 70 [t:1;user:memnoch;time:1295632260]
+Por supuesto.
+Una noble como vos
+no podría ser amiga
+de un plebeyo...
+
+## POINTER 72 [t:1;user:memnoch;time:1294684102]
+E-Eso es cierto.
+¡Ja, ja, ja!
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 74 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Chica de pueblo
+
+## POINTER 76 [t:1;user:memnoch;time:1295632260]
+Esta joven tiene la
+sangre de la familia
+real en sus venas.
+
+## POINTER 78 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+Pero eso es
+un secreto...
+
+## POINTER 80 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+¡Esta ciudad está siempre
+tan llena de vida!
+
+## POINTER 82 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+¡La mejor manera de superar la inseguridad
+es comprar cosas realmente caras!
+¿No estás de acuerdo?
+
+## POINTER 84 [t:1;user:memnoch;time:1295626102]
+Las explosiones en el cielo están
+poniendo en tela de juicio el
+futuro de los habitantes de Inferia.
+
+## POINTER 86 [t:1;r:1;ru:pacochan;user:pacochan;time:1162378553]
+¡Pero es en momentos como
+estos cuando tienes que
+aprovechar las oportunidades!
+
+## POINTER 87 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 88 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Mercader de Barole
+
+## POINTER 89 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 90 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168724102]
+¡Guau!
+¡Este lugar es enorme!
+
+## POINTER 91 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 92 [t:1;user:memnoch;time:1295389714]
+¡Pensaba que Mintche era grande,
+pero este lugar lo es aún más!
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 94 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864118]
+Por supuesto.
+Es la capital del Imperio de Inferia.
+
+## POINTER 95 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 96 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1168724488]
+¡Hwiil!
+
+## POINTER 97 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 98 [t:1;user:memnoch;time:1294854456]
+¡Hay tanta gente!
+¡¿Son todos...
+mmm... inferianos?!
+
+## POINTER 99 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 100 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+<CHARA:MEREDY>, a partir de ahora,
+no puedes bailar, gritar, o
+hacer nada fuera de lo ordinario.
+
+## POINTER 101 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 102 [t:1;user:memnoch;time:1295098852]
+Esta ciudad está repleta de
+gente. La más mínima rareza
+hará que sospechen que eres
+una celestiana.
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 104 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+¿Es ser un celestiano malo?
+¿No pueden sospechar?
+
+## POINTER 105 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 106 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¡NO!
+
+## POINTER 107 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 108 [t:1;user:memnoch;time:1295097787]
+Históricamente, los celestianos han causado
+numerosos desastres sobre nosotros.
+Estoy bastante seguro de que
+aún hay muchos que os odian.
+
+## POINTER 109 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 110 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+¡Baiba!
+¡Los celestianos no son los 
+responsables de causar los 
+desastres!
+
+## POINTER 111 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 112 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Necesitas nuestra ayuda, ¿verdad?
+
+## POINTER 113 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 114 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1162378553]
+<CHARA:MEREDY>. Es triste, pero no hay duda
+de que aún hay mucha gente a la que
+no les gustan los celestianos.
+Tengamos cuidado, ¿vale?
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 116 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1161864119]
+Claro que sí.
+
+## POINTER 117 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 118 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+No lo olvides.
+
+## POINTER 119 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 120 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+Vale...vale.
+Vamos y reunámonos con el Rey.
+
+## POINTER 121 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 122 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+¡Ya que estamos aquí,
+pasemos la noche en el castillo!
+
+## POINTER 124 [t:1;user:memnoch;time:1295527541]
+¡Oye! ¡Tú!
+
+## POINTER 126 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Tú eres de Rasheans, ¡¿no?!
+
+## POINTER 127 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 128 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¿Eh? ¿Cómo lo sabes?
+
+## POINTER 130 [t:1;r:1;ru:pacochan;user:pacochan;time:1162378553]
+Soy sastre.
+Lo sé simplemente por
+las ropas que llevas.
+
+## POINTER 132 [t:1;r:1;ru:pacochan;user:pacochan;time:1162378553]
+Llevas un increíblemente
+anticuado tinte de Rasheans.
+
+## POINTER 133 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 134 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¡¿A qué te refieres con <BOLD:0100>anticuado<BOLD:0000>?!
+
+## POINTER 136 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+Tú eres de Rasheans.
+Deberías saberlo.
+
+## POINTER 138 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+La moda popular en esta
+ciudad se basó originalmente
+en el tinte de Rasheans.
+
+## POINTER 139 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 140 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¿De verdad?
+
+## POINTER 142 [t:1;user:memnoch;time:1297459806]
+Ajá.
+Pero lo han modificado tanto, que 
+no es fácil para un aficionado
+darse cuenta.
+
+## POINTER 143 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 144 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+Ya veo...
+
+## POINTER 145 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 146 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161864119]
+No sabía que el tinte de Rasheans
+fuera tan conocido...

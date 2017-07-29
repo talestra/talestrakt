@@ -1,0 +1,233 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253222]
+Santuario de Piedra (Vista Lateral)
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¿Qué significa esto?
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161161384]
+Como Caballero Imperial,
+no puedo permitir que 
+Celestia tenga semejante
+poder.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¿Caballero Imperial?
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+Mi nombre es Rassius. ¡Soy el
+Caballero Mayor del Imperio
+de Inferia, Rassius Luine!
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160778824]
+No... puedes hablar...
+en serio.
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¡Pensé que parecías sospechoso,
+pero nunca habría imaginado que
+eras el renombrado Caballero Mayor!
+
+## POINTER 13 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 14 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161161384]
+¡Tú eres tan famoso como yo!
+¡El traidor, <CHARA:KEELE> Zeibel!
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 16 [t:1;user:memnoch;time:1294859777]
+¿Un traidor?
+<CHARA:KEELE>, ¿qué hiciste
+en el observatorio?
+
+## POINTER 17 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+Quemó el diario de la investigación de
+Balir sobre el Puente de Luz. Pero la
+información está a buen recaudo en su
+cabeza.
+
+## POINTER 19 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 20 [t:1;user:memnoch;time:1294859777]
+<CHARA:KEELE>...
+¿Por eso te quedaste
+atrás en el observatorio?
+
+## POINTER 21 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:REID>
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161161384]
+Así que has estado siguiéndonos
+todo este tiempo, ¡¿no es así, 
+<CHARA:RAS>?!
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 24 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161161384]
+Puede ser que haya acabado siendo
+así, pero eso no es del todo
+cierto.
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 26 [t:1;user:memnoch;time:1295209222]
+¿Llave brújula?
+
+## POINTER 27 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 28 [t:1;user:memnoch;time:1295384303]
+Simplemente me guiaba por
+esta <COLOR:0D00><ITEM:00014A01><COLOR:0F00>,
+que el Rey me confió.
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 30 [t:1;user:memnoch;time:1295209260]
+Leí en algún lugar que desde la
+fundación del Imperio, una llave
+brújula se guardaba en el
+castillo como un tesoro imperial.
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 32 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+Exacto. Esta llave, que siempre ha
+permanecido oculta, empezó a apuntar
+a un lugar en concreto hace unos meses.
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+Bajo las órdenes del Rey, he estado
+investigando qué estaba intentando
+decirnos la <ITEM:00014A01>.
+
+## POINTER 35 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160779607]
+Y durante mi investigación,
+me encontré con vosotros una
+y otra vez. ¿Es una mera 
+coincidencia?
+
+## POINTER 37 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¿Qué intentas decirnos?
+
+## POINTER 39 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+Lo que estáis haciendo es una
+amenaza a la paz del Imperio.
+La <ITEM:00014A01> ha estado
+intentando avisarnos de eso.
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+Esa es la conclusión obvia.
+
+## POINTER 43 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¡Pero escucha, <CHARA:RAS>!
+
+## POINTER 45 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 46 [t:1;user:memnoch;time:1295383818]
+¡Vamos a Celestia para detener
+el Gran Descenso! ¡Eso también
+salvará a Inferia!
+
+## POINTER 47 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¡Tienes que creernos!
+
+## POINTER 49 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 50 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¡Creo en la palabra del Rey!
+¡No en vosotros, plebeyos!
+
+## POINTER 51 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 52 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160779607]
+Siento que tenga que
+ser así, <CHARA:RAS>...
+
+## POINTER 53 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160779607]
+¡Pero si no te apartas de nuestro
+camino, HAREMOS que te muevas!
+
+## POINTER 55 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 56 [t:1;user:memnoch;time:1295383113]
+¡Enfrentaos a mí!
+
+## POINTER 57 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 58 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¿Todavía no lo entiendes, <CHARA:RAS>?
+¡¿No nos puedes creer?!
+
+## POINTER 59 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+...
+¡Debería haceros la misma pregunta!
+¡¿Todavía osáis oponeros al Imperio?!
+
+## POINTER 61 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722709]
+<CHARA:RAS>
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160253209]
+¡No permitiré que esta traición
+llegue más lejos!
+¡Venid, y sentiréis mi acero!

@@ -1,0 +1,408 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Observatorio de Seyfert, Sala de Observaciones
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:airis;time:1157810259]
+¿Qué es esta máquina?
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Deja que me encargue de esto.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166558223]
+¡<CHARA:REID>, la <ITEM:00014A01>!
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:airis;time:1157810259]
+¡Error!
+
+## POINTER 9 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡<CHARA:MEREDY> ayudar también!
+
+## POINTER 11 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡<CHARA:KEELE> impresionante!
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+DebugMessage
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡Error!
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166558223]
+Kwiky...
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166558316]
+Me pregunto cuánto tiempo nos
+queda hasta el Gran Descenso...
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:soywiz;time:1158006278]
+El castillo de <CHARA:SHIZEL> es donde
+solía estar la materia oscura.
+
+## POINTER 21 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Eso significa que está
+flotando en el centro
+del Anillo de Seyfert.
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+<CHARA:SHIZEL> no va a ser
+fácil de derrotar.
+
+## POINTER 25 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496583]
+Debéis prepararos muy bien antes
+de enfrentaros con <CHARA:SHIZEL>.
+
+## POINTER 28 [t:1;user:memnoch;time:1294682801]
+¿Adónde quieres ir?<OPTION:0000>
+Puerta de la Prueba
+Entrada
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;user:memnoch;time:1295388300]
+Oye, ¿adónde te crees que vas?
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166558223]
+¡<CHARA:REID>, la <ITEM:00014A01>!
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡¿Qué está pasando?!
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 36 [t:1;user:memnoch;time:1295634086]
+¡M-Mirad!
+¡El Anillo de Seyfert!
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;user:memnoch;time:1295634059]
+¡Mirad!
+¡Mirad qué vista!
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡Mirad este dispositivo!
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496583]
+Esto debe ser el observatorio
+de la Barrera Orbus...
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Maldita sea...
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¿Lo has roto?
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+No puedo hacer nada con esto... 
+Es extremadamente complejo.
+No va a ser fácil averiguar
+cómo funciona este dispositivo.
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496584]
+Apuesto a que es una máquina
+que puede hacer algo impresionante...
+Qué pena que no podamos usarla.
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+No me pienso rendir aún.
+¡La haré funcionar mientras
+<CHARA:REID> completa la prueba!
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+<CHARA:KEELE> puede hacerlo.
+<CHARA:MEREDY> lo sabe.
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Muy bien.
+Buena suerte, <CHARA:KEELE>.
+
+## POINTER 57 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Déjamelo a mí.
+
+## POINTER 59 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡<CHARA:MEREDY> ayudará!
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Entonces yo iré
+a la Puerta de la
+Prueba con <CHARA:REID>.
+
+## POINTER 63 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡¿<CHARA:KEELE>?!
+
+## POINTER 65 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡<CHARA:KEELE> asombroso!
+¡La máquina se mueve!
+
+## POINTER 67 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¿Y qué hace?
+
+## POINTER 69 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 70 [t:1;user:memnoch;time:1295542087]
+No lo sé.
+Pero es un sistema
+terriblemente grande.
+
+## POINTER 71 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 72 [t:1;user:memnoch;time:1294602154]
+¿Mmm?
+
+## POINTER 73 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 74 [t:1;user:memnoch;time:1294602154]
+¿Para qué es este agujero?...
+
+## POINTER 75 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163126167]
+¡<CHARA:REID>, la <ITEM:00014A01>!
+
+## POINTER 77 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Ya lo pillo.
+Es una cerradura.
+
+## POINTER 79 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡No puede ser!
+
+## POINTER 81 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:soywiz;time:1163353522]
+¿Se ha completado ya el análisis?
+
+## POINTER 83 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 84 [t:1;user:memnoch;time:1295542087]
+Sí, y no tiene buena pinta.
+Como mucho, quedan tres suoms hasta
+el punto crítico del Gran Descenso.
+Puede que incluso menos.
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 86 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Tal como pensaba, menuda situación...
+
+## POINTER 87 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 88 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166558225]
+Si se sobrepasa el punto crítico,
+la gravedad de los dos mundos los
+atraerá con más fuerza y acelerarán
+a tal velocidad que...
+
+## POINTER 89 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 90 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¡Exacto!
+Aunque derrotemos a <CHARA:SHIZEL>,
+¡no hay forma de detener el Gran
+Descenso! ¡¡Maldita sea!!
+
+## POINTER 91 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 92 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+¿No hay otra forma?
+
+## POINTER 93 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 94 [t:1;user:memnoch;time:1295652777]
+Hemos agotado todas las opciones.
+Es inútil...
+Debería saberlo mejor
+que nadie, Galenos.
+
+## POINTER 95 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 96 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1162496584]
+¿Habéis terminado vuestra...
+investigación?
+
+## POINTER 97 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 98 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Acabamos de concluirla.
+
+## POINTER 99 [t:1;r:1;ru:evilluendas;time:1157722709]
+Galenos
+
+## POINTER 100 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Voy a descansar
+un rato.
+
+## POINTER 101 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 102 [t:1;user:memnoch;time:1295388300]
+Oye...
+Hay algo que quiero preguntarte.
+
+## POINTER 103 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 104 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Supón que recibimos un golpe
+directo de la Aurora Oscura...
+
+## POINTER 105 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 106 [t:1;user:memnoch;time:1295388313]
+¿Te refieres a si fuéramos a ser
+absorbidos por la sombra oscura?
+
+## POINTER 107 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 108 [t:1;user:memnoch;time:1295388313]
+Sí...
+¿Hay posibilidades de
+sobrevivir si eso ocurriera?
+
+## POINTER 109 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 110 [t:1;user:memnoch;time:1295633136]
+¡Ninguna!
+¡Sus poderes destructivos son enormes!
+Ya viste lo que pasó en el castillo
+de Balir. Ni siquiera <CHARA:RAS>...
+
+## POINTER 111 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 112 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989302]
+Sí, me he dado cuenta...
+
+## POINTER 113 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 114 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989418]
+Espera. Es posible que alguien que
+esté predispuesto a la oscuridad
+pueda absorber la fuerza destructiva...
+Pero no es posible que alguien así...
+
+## POINTER 115 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:KEELE>
+
+## POINTER 116 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989418]
+¿Qué viste durante la prueba?
+
+## POINTER 117 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:MEREDY>
+
+## POINTER 118 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989418]
+¡<CHARA:MEREDY> está lista!
+
+## POINTER 119 [t:1;r:2;ru:soywiz, pacochan;time:1157722709]
+<CHARA:REID>
+
+## POINTER 120 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157989418]
+¡Bien!
+¡Volvamos al Van Eltia!

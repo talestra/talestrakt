@@ -1,0 +1,444 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166804140]
+Cañón Craymel, Laboratorio 2
+
+## POINTER 1 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1157821133]
+¿Sabes dónde se 
+encuentra el hotel?
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 4 [t:1;user:memnoch;time:1295568193]
+Por favor, intentad descansar
+un poco. Mañana debéis estar
+preparados para en el asalto
+al castillo de Balir.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 6 [t:1;user:memnoch;time:1295085566]
+La materia oscura de la Barrera Orbus...
+El arte aurora de <CHARA:SHIZEL>...
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Hay tantas cosas
+que no comprendo...
+
+## POINTER 9 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 10 [t:1;user:memnoch;time:1295568209]
+Sigue la dirección
+de la <ITEM:00014A01>.
+
+## POINTER 11 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1157821133]
+No hay nada más que
+pueda decir para ayudarte.
+
+## POINTER 13 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 14 [t:1;user:memnoch;time:1295542997]
+Ha de haber alguna forma
+de llegar hasta Inferia...
+si ahí es donde señala
+la <ITEM:00014A01>...
+
+## POINTER 15 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 16 [t:1;user:memnoch;time:1295612096]
+Si modificamos el cañón craymel,
+podríamos destruir la materia 
+oscura desde tierra.
+
+## POINTER 17 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Valdrá la pena intentarlo.
+
+## POINTER 20 [t:1;user:memnoch;time:1294853677]
+Tendremos montado el cañón craymel
+en el Van Eltia mañana por la mañana.
+
+## POINTER 22 [t:1;user:memnoch;time:1294853677]
+Cuando la investigación esté
+completada, sacaremos el cañón
+craymel para disparar a la
+materia oscura.
+
+## POINTER 24 [t:1;r:1;ru:soywiz;user:pacochan;time:1159975253]
+Parece que va a estar
+muy ocupado.
+
+## POINTER 26 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1161547003]
+Bienvenidos al cuartel de Shileska.
+Somos revolucionarios dedicados
+a luchar por la libertad.
+
+## POINTER 27 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+¡<CHARA:REID>! <09><09>¡Has vuelto!
+
+## POINTER 29 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 30 [t:1;user:memnoch;time:1295631376]
+¿Y bien? ¡¿Cómo han ido
+las Pruebas de Seyfert?!
+
+## POINTER 31 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Me las he apañado para superarla.
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 34 [t:1;user:memnoch;time:1294853677]
+Pero... aún no se ha acabado.
+Hay más de una prueba.
+
+## POINTER 35 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 36 [t:1;user:memnoch;time:1294602435]
+Mmm... Ya veo.
+
+## POINTER 37 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Tenía la sensación de
+que no sería tan simple...
+
+## POINTER 39 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Por cierto, hay algo que
+quiero preguntarte, Galenos.
+
+## POINTER 41 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 42 [t:1;user:memnoch;time:1294602435]
+¿Mmm? ¿El qué?
+
+## POINTER 43 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+La nave que <CHARA:MEREDY>
+usó para ir a Inferia...
+¿Era la única que había?
+
+## POINTER 45 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 46 [t:1;user:memnoch;time:1294853708]
+¿La nave craymel?
+
+## POINTER 47 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Lo siento.
+Esa era la única.
+
+## POINTER 49 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Como sospechaba...
+
+## POINTER 51 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 52 [t:1;user:memnoch;time:1286301662]
+Fue... construida por <CHARA:SHIZEL>.
+
+## POINTER 53 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Fue la única nave que encontré
+en el laboratorio de Luishka.
+
+## POINTER 55 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Podría construir una similar, pero...
+
+## POINTER 57 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Me llevaría un tiempo.
+
+## POINTER 59 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+No pasa nada, Galenos.
+
+## POINTER 61 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159975253]
+Hablaremos con <CHARA:CHAT>.
+Ella tiene unas cuantas ideas.
+
+## POINTER 63 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159976404]
+Necesitamos que investigues
+la materia oscura.
+
+## POINTER 65 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 66 [t:1;user:memnoch;time:1294602435]
+Mmm. De acuerdo.
+
+## POINTER 67 [t:1;r:2;ru:soywiz,evilluendas;time:1157722710]
+Galenos
+
+## POINTER 68 [t:1;user:memnoch;time:1294853677]
+Ha de haber alguna forma
+de llegar hasta Inferia...
+si ahí es donde señala
+la <ITEM:00014A01>...
+
+## POINTER 69 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 70 [t:1;user:memnoch;time:1294853677]
+¡<CHARA:MEREDY>!
+¿Contamos con la ayuda del
+craymel supremo de rayo?
+
+## POINTER 71 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 72 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+¡Por supuesto!
+¡Y también tenemos más!
+
+## POINTER 73 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 74 [t:1;user:memnoch;time:1295568708]
+Hemos recibido a <COLOR:0D00><ITEM:4F00><COLOR:0F00> del
+craymel supremo oscuro, Shadow.
+
+## POINTER 75 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 76 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+¡Maravilloso!
+¡Con esto, seguro que derrotaremos a Balir!
+
+## POINTER 77 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 78 [t:1;user:memnoch;time:1295569448]
+¿Por qué los craymels supremos
+se muestran tan cooperativos?
+
+## POINTER 79 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 80 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1161546887]
+Probablemente porque también
+quieren proteger el mundo.
+
+## POINTER 81 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 82 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+¿El mundo?
+
+## POINTER 83 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 84 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+Balir quiere destruir
+el mundo entero.
+
+## POINTER 85 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 86 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+Pretende aniquilar Eternia.
+Por eso estamos luchando.
+
+## POINTER 87 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 88 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1161546887]
+Ayla, te dejaremos la
+decisión de informar de esto
+a la gente de Shileska.
+
+## POINTER 89 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 90 [t:1;user:memnoch;time:1286298062]
+¿Y qué pasa con el jefe?
+
+## POINTER 91 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 92 [t:1;r:1;ru:soywiz;user:soywiz;time:1167964185]
+Está de celebraciones con
+los otros en el almacén.
+
+## POINTER 93 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 94 [t:1;user:memnoch;time:1294592897]
+Me alegra saber que está bien...
+
+## POINTER 95 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 96 [t:1;user:memnoch;time:1294592897]
+Bien es difícilmente la palabra para
+describirle. No creo que haya algo en
+el mundo que pueda detener a <CHARA:MAX>.
+
+## POINTER 97 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 98 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976513]
+¡Miacis de corazón!
+
+## POINTER 99 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 100 [t:1;user:memnoch;time:1294853677]
+Bien, pues. Instalemos 
+el cañón craymel en el
+Van Eltia de una vez.
+
+## POINTER 101 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 102 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+La instalación nos llevará
+probablemente toda la noche.
+
+## POINTER 103 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 104 [t:1;r:1;ru:soywiz;user:pacochan;time:1159976404]
+Deberíais intentar descansar
+para prepararos para el asalto
+de mañana por la mañana.
+
+## POINTER 105 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 106 [t:1;user:memnoch;time:1295568795]
+Por favor, aceptad este cupón
+para el <BOLD:0100>Hotel: Tinnsia<BOLD:0000>.
+
+## POINTER 108 [t:1;user:memnoch;time:1295568806]
+Has recibido el cupón del
+Hotel: Tinnsia.
+
+## POINTER 109 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 110 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+Gracias.
+Siento las molestias.
+
+## POINTER 111 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 112 [t:1;r:2;ru:soywiz,evilluendas;user:soywiz;time:1161546887]
+<CHARA:KEELE>...
+Tienes una habilidad analítica
+maravillosa.
+
+## POINTER 113 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 114 [t:1;user:memnoch;time:1294853677]
+Asimismo, tu observación es muy intuitiva.
+Me has enseñado mucho.
+Gracias...
+
+## POINTER 116 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+<CHARA:KEELE> se ha unido al grupo.
+
+## POINTER 117 [t:1;r:3;ru:soywiz, pacochan, ,evilluendas;time:1157722710]
+Ayla
+
+## POINTER 118 [t:1;r:1;ru:soywiz;user:pacochan;time:1159976404]
+Deberíais intentar descansar
+para prepararos para el asalto
+de mañana por la mañana.
+
+## POINTER 120 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159976404]
+Queremos desarrollar un arma de
+uso personal para nuestro jefe.
+¿Nos ayudarás con una donación?
+
+## POINTER 122 [t:1;user:memnoch;time:1286290395]
+¿Harás una donación?
+<OPTION:0000>Sí, donaré <VAR:0001204E> gald
+No, paso
+
+## POINTER 124 [t:1;r:2;ru:soywiz,evilluendas;user:pacochan;time:1159976404]
+Muchas gracias.
+
+## POINTER 126 [t:1;user:memnoch;time:1295573214]
+Estamos desarrollando una nueva arma.
+Estoy seguro de que estarás satisfecho
+con ella si nos das algo de tiempo.
+
+## POINTER 128 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166952363]
+Por favor, vuelve de nuevo
+cuando tengas algo de dinero extra.
+
+## POINTER 130 [t:1;user:memnoch;time:1295573218]
+Estamos desarrollando una nueva arma.
+Estoy seguro de que estarás satisfecho
+con ella si nos das algo de tiempo.
+
+## POINTER 132 [t:1;r:1;ru:evilluendas;user:pacochan;time:1159976404]
+Queremos desarrollar un arma de
+uso personal para nuestro jefe.
+¿Hay alguien que nos pueda ayudar
+en nuestra causa con una donación?
+
+## POINTER 134 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166952363]
+Seguro que <CHARA:MAX> os impresionará con 
+su rendimiento en el campo de batalla.
+
+## POINTER 136 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166952363]
+¡Me gustaría hacer un informe!
+Hemos logrado desarrollar 
+el <ITEM:00110004>.
+
+## POINTER 138 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166804142]
+Has recibido <ITEM:00110004>.

@@ -1,0 +1,482 @@
+## POINTER 0 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160202744]
+Desfiladero de Efreet 08
+
+## POINTER 2 [t:1;r:1;ru:pacochan;user:evilluendas;time:1160189717]
+Has sido restaurado.
+
+## POINTER 4 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160761229]
+Se ha restaurado el HP.
+
+## POINTER 6 [t:1;user:memnoch;time:1294597397]
+Esto es un punto de carga.
+
+## POINTER 8 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160773006]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 9 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 10 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡Auu! ¡Qué calor!
+
+## POINTER 11 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 12 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡Este calor es terrible!
+
+## POINTER 13 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 14 [t:1;user:memnoch;time:1295301289]
+¡Shh! El craymel supremo debe
+estar por aquí, en algún sitio...
+
+## POINTER 15 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;user:memnoch;time:1295574192]
+¡Aaaaah!
+
+## POINTER 17 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 18 [t:1;user:memnoch;time:1295301289]
+¡Iic!
+
+## POINTER 19 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 20 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡Ayuda!
+
+## POINTER 21 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 22 [t:1;user:memnoch;time:1297460213]
+*¡Jadeo!*
+
+## POINTER 23 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Efreet
+
+## POINTER 24 [t:1;user:memnoch;time:1295300016]
+¡Humanos imprudentes y estúpidos!
+¡Recordad cuál es vuestro lugar!
+
+## POINTER 25 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Efreet
+
+## POINTER 26 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡Mejor intentadlo de nuevo!
+
+## POINTER 27 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 28 [t:1;user:memnoch;time:1294854997]
+¿Sabes cómo se frinja?
+
+## POINTER 30 [t:1;user:memnoch;time:1294854997]
+¿Quieres aprender sobre frinjar?<OPTION:0000>
+Sí
+No
+
+## POINTER 32 [t:1;user:memnoch;time:1295086306]
+¿Qué deseas aprender?<OPTION:0000>
+Adquirir nuevas artes craymel
+El color de las A. Craymel en la Jaula C.
+Mensajes posteriores a la batalla
+
+## POINTER 34 [t:1;user:memnoch;time:1295086306]
+Frinjando combinaciones especiales de
+craymels usando el comando Jaula C.
+del menú principal, se puede adquirir
+nuevas artes craymel.
+
+## POINTER 36 [t:1;user:memnoch;time:1294960763]
+Combinando Agua y Viento, se formará
+Curar. Fuego y Agua formarán Audacia,
+y Fuego y Viento formarán Concentración.
+
+## POINTER 38 [t:1;user:memnoch;time:1295086306]
+Pero solo puedes adquirir ciertas artes
+craymel cuando dichos craymels han
+adquirido ciertos niveles de experiencia.
+
+## POINTER 40 [t:1;user:memnoch;time:1294960763]
+Para adquirir Audacia, Fuego debe estar
+en nivel 5 y Agua al nivel 7. Para
+Concentración, Viento al 6 y Fuego al 5.
+
+## POINTER 42 [t:1;user:memnoch;time:1294854997]
+Se puede subir cierta cantidad de niveles
+de experiencia craymel mediante ciertos
+objetos como <COLOR:0D00>trozos<COLOR:0F00> y otros objetos.
+
+## POINTER 44 [t:1;user:memnoch;time:1295086306]
+Cuando seleccionas un craymel en la
+Jaula C., aparece una lista de artes
+craymel asociadas a cada uno de ellos.
+
+## POINTER 46 [t:1;user:memnoch;time:1295086306]
+Las artes craymel que se muestran
+en blanco se pueden usar en la batalla.
+
+## POINTER 48 [t:1;user:memnoch;time:1295086306]
+Las artes craymels mostradas en azul no
+se pueden usar debido a que los niveles
+no son suficientemente altos, aunque la
+combinación de craymels sea correcta.
+
+## POINTER 50 [t:1;user:memnoch;time:1295086306]
+Las artes craymel en rojo no se pueden
+usar porque la combinación de craymels
+es incorrecta, aunque ya tengas esa
+arte.
+
+## POINTER 52 [t:1;user:memnoch;time:1295086306]
+Las artes craymels mostradas en gris no
+se pueden usar porque no hay una
+combinación correcta ni tampoco se tiene
+el nivel necesario.
+
+## POINTER 54 [t:1;user:memnoch;time:1295086306]
+Las artes craymel mostradas en
+amarillo se pueden conseguir
+frinjando.
+
+## POINTER 56 [t:1;user:memnoch;time:1295086306]
+Cuando haya disponible nuevas
+artes craymel, aparecerá un mensaje
+después de la batalla.
+
+## POINTER 58 [t:1;user:memnoch;time:1295383546]
+Cuando aparezca el mensaje <COLOR:0D00>Frinjar
+para crear una nueva arte craymel<COLOR:0F00>,
+frinja inmediatamente para lograr una
+arte craymel nueva.
+
+## POINTER 60 [t:1;user:memnoch;time:1295086306]
+El mensaje <COLOR:0D00>Actividad detectada en la Jaula C.
+<COLOR:0F00> significa que puedes frinjar para obtener una
+arte craymel si cambias la combinación
+de craymels en las jaulas craymel.
+
+## POINTER 62 [t:1;user:memnoch;time:1295301230]
+Pero cambiándola se pueden romper
+otras combinaciones necesarias
+para las artes craymels que están
+actualmente en uso, así que ten cuidado.
+
+## POINTER 64 [t:1;user:memnoch;time:1295086306]
+¿Deseas salir de la
+ayuda sobre frinjar?<OPTION:0000>
+Sí
+No
+
+## POINTER 65 [t:1;r:3;ru:soywiz, , ,pacochan,evilluendas;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 66 [t:1;user:memnoch;time:1294854997]
+Prueba a frinjar.
+
+## POINTER 67 [t:1;r:3;ru:soywiz, , ,pacochan,evilluendas;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 68 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡<CHARA:MEREDY>! ¡Ten cuidado!
+
+## POINTER 69 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Efreet
+
+## POINTER 70 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡¡Rahrr!!
+¡¡Vamos!!
+
+## POINTER 71 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 72 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡¡Baiba!!
+
+## POINTER 73 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Undine
+
+## POINTER 74 [t:1;user:memnoch;time:1295299585]
+¡Efreet, detente!
+Qué desagradable...
+
+## POINTER 75 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Efreet
+
+## POINTER 76 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+Undine...
+¡¿Te has convertido en una 
+esclava de estos humanos?!
+
+## POINTER 77 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Undine
+
+## POINTER 78 [t:1;user:memnoch;time:1295056518]
+Entré en la jaula craymel por
+mi propia voluntad. Seguramente
+debes conocer la situación...
+
+## POINTER 79 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Efreet
+
+## POINTER 80 [t:1;user:memnoch;time:1295056518]
+¡Soy el craymel supremo de fuego!
+¡No puedo marcharme sin más y
+abandonar todas las obligaciones
+que tengo aquí!
+
+## POINTER 81 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Undine
+
+## POINTER 82 [t:1;user:memnoch;time:1295056518]
+Es precisamente porque eres un
+craymel supremo por lo que te
+necesitamos.
+
+## POINTER 83 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Undine
+
+## POINTER 84 [t:1;user:memnoch;time:1295056518]
+¡¡Alzad la jaula craymel!!
+
+## POINTER 86 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160204456]
+¿Cuál usarás?<OPTION:0000>
+Jaula de <CHARA:KEELE>
+Jaula de <CHARA:MEREDY>
+
+## POINTER 87 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 88 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡Lista!
+
+## POINTER 89 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 90 [t:1;user:memnoch;time:1294605586]
+¡Por... por supuesto!
+
+## POINTER 91 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Efreet
+
+## POINTER 92 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+¡¡Aaarghhh!!
+
+## POINTER 93 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 94 [t:1;user:memnoch;time:1295488605]
+Eh, espera un momento...
+¡¿Es correcto que
+le forcemos a entrar?!
+
+## POINTER 95 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 96 [t:1;user:memnoch;time:1294605586]
+¡Undine!
+¿Estás bien?
+
+## POINTER 97 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 98 [t:1;user:memnoch;time:1294605586]
+¿Qu-qué?
+¿Qué está pasando?
+
+## POINTER 99 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 100 [t:1;user:memnoch;time:1295300417]
+No nos van a castigar,
+¿verdad?
+
+## POINTER 101 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 102 [t:1;user:memnoch;time:1294605586]
+¡¡Iic!!
+
+## POINTER 103 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 104 [t:1;user:memnoch;time:1295056518]
+¡¿Eres... tú...
+el craymel supremo
+de Luz, Rem?!
+
+## POINTER 105 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+Rem
+
+## POINTER 106 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160773006]
+Así es.
+
+## POINTER 107 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:MEREDY>
+
+## POINTER 108 [t:1;user:memnoch;time:1295056518]
+¡¿El mayor craymel supremo?!
+
+## POINTER 109 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 110 [t:1;user:memnoch;time:1295056518]
+Así es. Rem es un gobernante
+craymel que unifica los tres
+craymels primarios bajo su
+mandato.
+
+## POINTER 111 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 112 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:korsso;time:1160233316]
+¡Rem, tenemos que
+pedirte un favor!
+¡Querríamos que detuvieras
+el Gran Descenso!
+
+## POINTER 113 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+Rem
+
+## POINTER 114 [t:1;user:memnoch;time:1295056518]
+Eso no puedo hacerlo.
+
+## POINTER 115 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 116 [t:1;user:memnoch;time:1295056518]
+No...
+
+## POINTER 117 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+Rem
+
+## POINTER 118 [t:1;user:memnoch;time:1295300126]
+Vosotros los humanos sois los que
+habéis causado este problema. Y
+es vuestro problema darle solución.
+
+## POINTER 119 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 120 [t:1;user:memnoch;time:1295086306]
+¿Estás diciendo que el
+Gran Descenso está siendo
+causado por humanos?
+
+## POINTER 121 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+Rem
+
+## POINTER 122 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160206233]
+Tomad. Coged esto.
+
+## POINTER 124 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:soywiz;time:1160205409]
+Has recibido <COLOR:0D00><ITEM:00013F01><COLOR:0F00>.
+
+## POINTER 126 [t:1;user:memnoch;time:1295086306]
+Con esto, puedes usar el botón <BUTTON:0500>
+para disparar un rayo láser.
+
+## POINTER 127 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+Rem
+
+## POINTER 128 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡Es un <COLOR:0D00><ITEM:00013F01><COLOR:0F00>!
+
+## POINTER 129 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+Rem
+
+## POINTER 130 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161512455]
+Usa el anillo para atravesar
+el <COLOR:0D00>Puente de Luz<COLOR:0F00>.
+
+## POINTER 131 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 132 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡¿El Puente de Luz?!
+
+## POINTER 133 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 134 [t:1;user:memnoch;time:1295086306]
+¡¡Rem, espera!!
+¡Tenemos muchas más
+preguntas que hacerte!
+
+## POINTER 135 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+Sylph
+
+## POINTER 136 [t:1;user:memnoch;time:1294684088]
+¡Ja, ja! ¡¿Qué ocurre?!
+
+## POINTER 137 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 138 [t:1;user:memnoch;time:1294684088]
+¿Adónde ha ido Rem?
+
+## POINTER 139 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Efreet
+
+## POINTER 140 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¿Quién sabe?
+
+## POINTER 141 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 142 [t:1;user:memnoch;time:1295056518]
+¿Está Rem en la
+jaula craymel?
+
+## POINTER 143 [t:1;r:3;ru:soywiz,evilluendas,pacochan;time:1157722708]
+Sylph
+
+## POINTER 144 [t:1;user:memnoch;time:1295056518]
+¡Claro que no!
+¿No lo sabéis?
+Rem es un craymel gobernante.
+
+## POINTER 145 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:KEELE>
+
+## POINTER 146 [t:1;r:3;ru:soywiz,evilluendas,pacochan;user:evilluendas;time:1160189717]
+¡Undine!
+
+## POINTER 147 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Undine
+
+## POINTER 148 [t:1;user:memnoch;time:1295300258]
+Rem no está aquí.
+Debéis confiar en lo que ha dicho y
+continuar con vuestras obligaciones.
+
+## POINTER 149 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 150 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1160189717]
+¿Continuar con nuestras 
+obligaciones?
+Pero...
+
+## POINTER 151 [t:1;r:2;ru:soywiz, , ,pacochan;time:1157722708]
+Undine
+
+## POINTER 152 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1174187550]
+Cuidad bien del 
+<ITEM:00013F01>.
+
+## POINTER 153 [t:1;user:memnoch;time:1295300278]
+HP de Undine: <VAR:00114C00>
+
+## POINTER 155 [t:1;r:1;ru:pacochan;user:pacochan;time:1166976985]
+Undine se ha quedado sin HP. 
+Ahora eres vulnerable al fuego. 
+Para restaurar el HP de Undine,
+sal de la caverna.

@@ -1,0 +1,59 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166561302]
+Plataforma de Aifread Interior
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157910067]
+¿Quieres regresar?
+<OPTION:0000>Sí
+No
+
+## POINTER 4 [t:1;user:memnoch;time:1294850056]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 5 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 6 [t:1;user:memnoch;time:1294849894]
+Esta es la única ranura que tiene
+una jaula craymel plateada insertada.
+
+## POINTER 7 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157910067]
+Esta ranura ya tiene un
+<ITEM:00014E01> insertado.
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157910067]
+<COLOR:0E00>Noroeste<COLOR:0F00> de Ciudad Portuaria.
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:soywiz;time:1164418187]
+<COLOR:0E00>Esteoeste<COLOR:0F00> al pie de la
+gigantesca zanja.
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166561302]
+<COLOR:0E00>Oeste<COLOR:0F00> o <COLOR:0E00>Este<COLOR:0F00> desde Escondite 1.
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157910067]
+<COLOR:0E00>Noreste<COLOR:0F00> de ciudad con camino estrecho.
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157910102]
+3 : 151
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157910067]
+<ITEM:00014E01> <VAR:001102040001CF003230> insertado.
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:pacochan;time:1157910067]
+<ITEM:00014E01> ha sido insertado en la ranura.
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 24 [t:1;user:memnoch;time:1295625947]
+¿Qué ha... ocurrido?
+
+## POINTER 25 [t:1;r:3;ru:soywiz, pacochan,evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 26 [t:1;user:memnoch;time:1295625947]
+¡Vamos a la superficie!

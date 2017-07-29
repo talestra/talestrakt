@@ -1,0 +1,184 @@
+## POINTER 1 [t:1;r:1;ru:soywiz;user:soywiz;time:1167938883]
+¿Deseas descansar?<OPTION:0000> 
+Sí
+No
+
+## POINTER 3 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¿Acampar?<OPTION:0000>
+Sí
+No
+
+## POINTER 5 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+FChatNum: <VAR:00120004>
+
+## POINTER 7 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+FChatNum: <VAR:00120004>
+
+## POINTER 8 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+Mina de Gnome B3-13
+
+## POINTER 10 [t:1;user:memnoch;time:1294597219]
+Esto es un punto de carga.
+
+## POINTER 12 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737531]
+Cuando guardas en una mazmorra y
+luego cargas el juego, la partida
+empezará en este punto de carga.
+
+## POINTER 13 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 14 [t:1;user:memnoch;time:1294602339]
+Mmm...
+Este sitio parece bastante seguro.
+
+## POINTER 15 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+<CHARA:KEELE>,
+¿estás cansado?
+
+## POINTER 17 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 18 [t:1;user:memnoch;time:1295528482]
+No... Es solo que me parece
+un buen sitio para hacer un
+descanso. Parece que esta
+cueva es mucho más profunda...
+
+## POINTER 19 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 20 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+<CHARA:KEELE>,
+estás cansado, ¿verdad?
+
+## POINTER 21 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 22 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¡Eso es ridículo!
+¿Qué opinas, <CHARA:FARAH>?
+
+## POINTER 23 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;user:memnoch;time:1295297119]
+Sí...
+¿Por qué no descansamos?
+
+## POINTER 25 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 26 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¡Sí, descansar!
+
+## POINTER 27 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175016703]
+Bien, ¡decidido entonces!
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 30 [t:1;r:1;ru:soywiz;user:soywiz;time:1167938883]
+Madre mía.
+Este sitio es mucho más
+aburrido de lo que esperaba.
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 32 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+No estamos aquí por las vistas.
+Lo que necesitamos es un lugar en
+el que recuperar nuestras fuerzas.
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 34 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¿Queréis jugar al WHIS?
+
+## POINTER 35 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 36 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¿<ITEM:00014801>?
+¿Qué es eso?
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 38 [t:1;user:memnoch;time:1295531423]
+Todos deberíais jugar.
+Lo he traído de Imen.
+
+## POINTER 39 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 40 [t:1;r:1;ru:soywiz;user:soywiz;time:1167938883]
+Los juegos no merecen la pena. Son
+una pérdida de tiempo y de energía.
+Si tenéis tanto tiempo libre...
+
+## POINTER 41 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 42 [t:1;user:memnoch;time:1295297119]
+Una especulación filosófica
+sería algo mucho más productivo.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¿Cómo se juega?
+
+## POINTER 45 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 46 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¡Simple, simple!
+Jugamos y explico.
+
+## POINTER 47 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 48 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+Ya está.
+¿Qué os ha parecido?
+
+## POINTER 49 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:KEELE>
+
+## POINTER 50 [t:1;user:memnoch;time:1295297133]
+¡Estoy hecho polvo!
+¿Por qué me tengo que involucrar
+en una actividad tan agotadora?
+
+## POINTER 51 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:REID>
+
+## POINTER 52 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+Eso es porque estabas
+gritando y chillando.
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¡Fue divertido!
+Juguemos otra vez.
+
+## POINTER 55 [t:1;r:2;ru:soywiz, pacochan;time:1157722710]
+<CHARA:MEREDY>
+
+## POINTER 56 [t:1;r:1;ru:soywiz;user:pacochan;time:1157737494]
+¡Claro que sí!
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175017297]
+<OPTION:0000>Has recibido <COLOR:0D00><ITEM:00014801><COLOR:0F00>.

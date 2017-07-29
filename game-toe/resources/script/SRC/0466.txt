@@ -1,0 +1,386 @@
+## POINTER 0 [t:1;r:1;ru:pacochan;time:1157722711]
+Entrada
+
+## POINTER 1 [t:1;r:1;ru:pacochan;time:1157722711]
+Guarida
+
+## POINTER 2 [t:1;r:1;ru:pacochan;time:1157722711]
+Guarida de <CHARA:CHAT>
+
+## POINTER 4 [t:1;r:1;ru:pacochan;time:1157722711]
+No se abre...
+
+## POINTER 5 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 6 [t:1;user:memnoch;time:1295546956]
+Parece un mapa de Celestia.
+Tiene pinta de ser muy antiguo.
+
+## POINTER 7 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907592]
+¿Es todo lo de esta casa
+de la Era de Aifread?
+
+## POINTER 9 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 10 [t:1;r:1;ru:pacochan;time:1157722711]
+Sí, la mayor parte.
+
+## POINTER 11 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907592]
+El año está escrito
+en el barril.
+
+## POINTER 13 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 14 [t:1;r:1;ru:pacochan;user:pacochan;time:1158853750]
+S.E. 2208
+
+## POINTER 15 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 16 [t:1;user:memnoch;time:1295634977]
+S.E. 2208... ¿en años celestianos?
+¿De hace cuántos años será eso?
+
+## POINTER 17 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 18 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907592]
+¿Eh?
+Veamos...
+Este año es S.E. 2296, así que...
+
+## POINTER 19 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 20 [t:1;user:memnoch;time:1295573821]
+Espera un segundo.
+Mmmm... ¿Tenéis
+un trozo de papel?
+
+## POINTER 21 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 22 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907592]
+Si ahora es S.E. 2296,
+entonces debe ser hace 88 años.
+
+## POINTER 23 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 24 [t:1;user:memnoch;time:1295634994]
+¿No puedes hacer los cálculos mentalmente?
+Deberías practicar más las matemáticas.
+
+## POINTER 25 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 26 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907592]
+Por favor...
+Te pareces a mi madre.
+
+## POINTER 27 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 28 [t:1;user:memnoch;time:1295126733]
+Interesante. No
+te he oído hablar
+mucho de tu madre.
+
+## POINTER 29 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 30 [t:1;user:memnoch;time:1295388691]
+¡Oh, oh!
+¡<CHARA:MEREDY> ha encontrado este
+papel pegado detrás!
+
+## POINTER 31 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 32 [t:1;r:1;ru:pacochan;time:1157722711]
+¿Y qué dice?
+
+## POINTER 33 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 34 [t:1;user:memnoch;time:1295634938]
+"¿Tienes lo que hay que
+tener para ser pirata?
+¡Haz mi desafío y
+prueba tu valía!
+
+## POINTER 35 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 36 [t:1;user:memnoch;time:1295634938]
+¡Aquellos que consigan
+superar mis obstáculos
+ganarán su recompensa!".
+
+## POINTER 37 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;r:1;ru:pacochan;time:1157722711]
+¿Un desafío?
+
+## POINTER 39 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 40 [t:1;r:1;ru:pacochan;time:1157722711]
+¿De quién?
+
+## POINTER 41 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 42 [t:1;user:memnoch;time:1295636068]
+¿No es obvio?
+Es de mi bisabuelo...
+el Gran Pirata, Aifread.
+
+## POINTER 43 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907592]
+Dice que vayamos al
+<COLOR:0E00>Refugio de Aifread<COLOR:0F00>.
+
+## POINTER 45 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 46 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+¿Te refieres al que
+está en <COLOR:0D00>204:98<COLOR:0F00>?
+
+## POINTER 47 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+¡Sí! ¡No hay elección!
+¡DEBEMOS ir!
+
+## POINTER 49 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 50 [t:1;user:memnoch;time:1294598055]
+Guau. No se está mal aquí dentro...
+considerando que por fuera
+parece un estercolero.
+
+## POINTER 51 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 52 [t:1;r:1;ru:pacochan;time:1157722711]
+¡Shhh! ¡No seas grosero!
+
+## POINTER 53 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+¡Hola!
+¿Hay alguien ahí?
+
+## POINTER 55 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 56 [t:1;r:1;ru:pacochan;time:1157722711]
+No hay nadie.
+
+## POINTER 57 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 58 [t:1;r:1;ru:pacochan;time:1157722711]
+¿Y qué pasa con mi comida?
+
+## POINTER 59 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 60 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+¿De verdad pensabas que
+aquí encontrarías comida?
+
+## POINTER 61 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 62 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+Bueno, la puerta se ha abierto...
+¡Vamos para allá!
+
+## POINTER 63 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 64 [t:1;r:1;ru:pacochan;time:1157722711]
+De acuerdo.
+
+## POINTER 65 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 66 [t:1;r:1;ru:pacochan;time:1157722711]
+¡¿La salida?!
+
+## POINTER 68 [t:1;user:memnoch;time:1295543491]
+Bien hecho.
+Habéis superado la prueba.
+
+## POINTER 70 [t:1;user:memnoch;time:1295543618]
+Debéis ser muy fuertes y sabios,
+al igual que un poco afortunados
+para haber superado indemnes
+todas las trampas de Aifread.
+
+## POINTER 71 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175023791]
+¿Quién eres tú, chaval?
+¿Es tuya esta casa delirante?
+
+## POINTER 74 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+Mi nombre es <CHARA:CHAT>.
+Soy descendiente del gran y
+honorable pirata, Aifread.
+
+## POINTER 76 [t:1;user:memnoch;time:1295384391]
+Además, considerando mi sexo,
+<BOLD:0100>chaval<BOLD:0000> no es la expresión
+más apropiada.
+
+## POINTER 77 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 78 [t:1;r:1;ru:pacochan;time:1157722711]
+¿Descendiente de Aifread?
+
+## POINTER 79 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 80 [t:1;user:memnoch;time:1295384371]
+¿Eh? ¡¿Eres una chica?!
+
+## POINTER 81 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 82 [t:1;user:memnoch;time:1294601865]
+Mmpf... Olvidaré tus groseras
+formas y dejaré que os unáis
+a mí como mozos de cubierta.
+
+## POINTER 83 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 84 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+¿Esperas que juguemos a piratas y
+que busquemos tesoros en tu jardín?
+
+## POINTER 85 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 86 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+Vámonos.
+Esto es una pérdida de tiempo.
+
+## POINTER 87 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 88 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+Si estuviera en mi jardín...
+Desgraciadamente, el Legado de Aifread
+está esparcido por todo el mundo. ¡Por
+eso necesito tripulación para mi barco!
+
+## POINTER 89 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 90 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+¡Un barco!
+¡¿Tienes un barco?!
+¡¡¡Muéstranoslo!!!
+
+## POINTER 91 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 92 [t:1;user:memnoch;time:1295547280]
+Me temo que solo puedo
+hacerlo si aceptáis ser
+mis mozos de cubierta.
+
+## POINTER 93 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 94 [t:1;user:memnoch;time:1295388722]
+Oye, ¿qué hacemos?
+¿Escuchamos a la niña esta?
+
+## POINTER 95 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:FARAH>
+
+## POINTER 96 [t:1;user:memnoch;time:1295546227]
+¿Hay otra elección?
+¡Con un barco podemos cruzar el mar!
+Incluso podríamos llegar a Peruti.
+
+## POINTER 97 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:MEREDY>
+
+## POINTER 98 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+¡El Legado de Aifread!
+¡¡Es uno de los Siete
+Tesoros de Celestia!!
+
+## POINTER 99 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 100 [t:1;user:memnoch;time:1295546227]
+Pero no tenemos tiempo
+libre para buscar tesoros...
+
+## POINTER 101 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:REID>
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1175024035]
+No pasa nada. Cuando
+tengamos el barco, podremos
+tomar la iniciativa.
+
+## POINTER 103 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 104 [t:1;r:1;ru:pacochan;time:1157722711]
+Eres perverso...
+
+## POINTER 105 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 106 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+¿Y bien? ¿Seréis mis mozos de cubierta?
+
+## POINTER 107 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:KEELE>
+
+## POINTER 108 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+Eh, bueno...
+Déjanos un momento para pensar.
+
+## POINTER 109 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 110 [t:1;user:memnoch;time:1295546227]
+Lo comprendo. Sería doloroso
+para cualquiera tragarse su orgullo
+y trabajar para alguien más joven...
+
+## POINTER 111 [t:1;r:1;ru:soywiz, ;time:1157722711]
+<CHARA:CHAT>
+
+## POINTER 112 [t:1;r:1;ru:pacochan;user:pacochan;time:1167907593]
+Esperaré en el recibidor.
+Pensadlo bien, y luego hacedme
+saber lo que habéis decidido.

@@ -1,0 +1,123 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479539]
+Posada 1P
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+Has encontrado un <ITEM:00012E01>.
+
+## POINTER 4 [t:1;r:1;ru:pacochan;time:1157722710]
+Hay un <ITEM:00012E01> aquí.
+
+## POINTER 5 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+¡¡Guau, eso tiene buena pinta!!
+
+## POINTER 7 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 8 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+¡<CHARA:REID>, no!
+Eso no es tuyo.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:REID>
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+¡Lo sé! ¡Lo sé!
+
+## POINTER 12 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+¡No hay ningún lugar 
+más seguro para vivir!
+
+## POINTER 14 [t:1;user:memnoch;time:1295530160]
+Está colgando muy arriba, 
+y solo hay un pantano debajo.
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+A lo mejor me asiento aquí...
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+Cuando estoy en este pueblo, 
+parece como si no pasara el tiempo.
+
+## POINTER 20 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160542808]
+¡Apuesto a que este poblado no
+ha cambiado en cientos de años!
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+A lo mejor me quedo aquí
+durante un tiempo más...
+
+## POINTER 23 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 24 [t:1;user:memnoch;time:1297465928]
+Tú... tú eres el que 
+salvó a ese hombre en el
+arroyo de Undine, ¡¿no?!
+
+## POINTER 26 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡Oh, eres tú!
+
+## POINTER 27 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+Hay algo que
+quería preguntarte...
+
+## POINTER 29 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;user:memnoch;time:1294594370]
+¿Qué le diste de comer a
+ese hombre para salvarlo?
+
+## POINTER 32 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124947]
+Oh, ¿eso?
+Fue una tarta.
+
+## POINTER 33 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:soywiz;time:1160542808]
+¿Una tarta?
+
+## POINTER 36 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124947]
+Sí, es mi propia tarta. Uso
+ingredientes especiales para
+hacerla.
+
+## POINTER 37 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124947]
+¡Oh, por favor, enséñame a
+hacerla! ¡Me gustaría mucho
+poder hacerla yo misma!
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+Es fácil.
+Hay que usar <COLOR:0D00>Huevos<COLOR:0F00>
+y <COLOR:0D00><ITEM:00010C01><COLOR:0F00>.
+
+## POINTER 41 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;time:1157722710]
+¡Ya veo!
+
+## POINTER 43 [t:1;r:3;ru:soywiz, pacochan, evilluendas;time:1157722710]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;r:1;ru:pacochan;user:pacochan;time:1162124947]
+¡Lo intentaré ahora mismo!
+¡Gracias!
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;time:1157722710]
+De nada.
+
+## POINTER 48 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1161479540]
+Para mi tarta especial necesitas
+Huevos y <ITEM:00010C01>.

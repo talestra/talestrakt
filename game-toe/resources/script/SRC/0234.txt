@@ -1,0 +1,158 @@
+## POINTER 0 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729922]
+Ferry (Cafetería)
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163850864]
+Has encontrado <ITEM:00120004>.
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163850864]
+Has encontrado <ITEM:00120004>,
+pero no puedes llevar más.
+
+## POINTER 6 [t:1;r:1;ru:pacochan;user:evilluendas;time:1159729912]
+¡Bienvenidos!
+
+## POINTER 8 [t:1;r:1;ru:pacochan;user:evilluendas;time:1159729912]
+Las comidas son estilo buffet.
+¡Servíos lo que queráis!
+
+## POINTER 10 [t:1;r:1;ru:pacochan;user:Lobap;time:1158916490]
+¡Bienvenido!
+
+## POINTER 12 [t:1;r:1;ru:pacochan;user:pacochan;time:1163866314]
+¡La mejor medicina contra
+los mareos es llenar el
+estómago!
+
+## POINTER 13 [t:1;user:memnoch;time:1294855622]
+La segunda clase ama<VAR:00115A00>
+
+## POINTER 14 [t:1;user:memnoch;time:1294855536]
+La primera clase ama<VAR:00115A00>
+
+## POINTER 16 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+¡Perdón!
+
+## POINTER 18 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163850864]
+Lo siento terriblemente, pero...
+
+## POINTER 20 [t:1;user:memnoch;time:1295298856]
+Solo los pasajeros de primera
+clase pueden ir a la cafetería.
+
+## POINTER 21 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Katrine
+
+## POINTER 22 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+Me han dicho que este barco
+va a Ciudad de Inferia.
+
+## POINTER 24 [t:1;r:1;ru:pacochan;user:pacochan;time:1163866315]
+Sí, así es.
+¡Pero necesitas
+un pasaje!
+
+## POINTER 25 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Katrine
+
+## POINTER 26 [t:1;user:memnoch;time:1294855536]
+¡N-No lo sabía!
+
+## POINTER 28 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+Pongas la excusa que pongas,
+¡un crimen es un crimen!
+
+## POINTER 29 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 30 [t:1;user:memnoch;time:1295488845]
+Oye, ¿no es esa Katrine, de
+la universidad de Mintche?
+
+## POINTER 31 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 32 [t:1;user:memnoch;time:1295124438]
+¡Esta chica ha de asistir
+a una conferencia académica
+en Ciudad de Inferia!
+
+## POINTER 33 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 34 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+¿No podrías dejarla
+pasar esta vez?
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+¡No! ¡No puedo hacer la vista 
+gorda ante un crimen! Pero
+podría reconsiderarlo si tú
+sufres el castigo en su lugar.
+
+## POINTER 37 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 38 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+De acuerdo. ¡Lo haré!
+
+## POINTER 40 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+¡Pero ni siquiera sabes qué 
+castigo es! ¡Lo vas a lamentar!
+
+## POINTER 41 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Katrine
+
+## POINTER 42 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+¡Oh, no!
+Yo sufriré el castigo.
+
+## POINTER 43 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 44 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1163850864]
+¡No te preocupes!
+¡Ningún problema!
+
+## POINTER 46 [t:1;user:memnoch;time:1295149158]
+Eres noble.
+
+## POINTER 48 [t:1;r:1;ru:pacochan;user:pacochan;time:1163866315]
+¡No hay mucha gente que
+iría tan lejos por otra
+persona!
+
+## POINTER 50 [t:1;r:1;ru:pacochan;user:pacochan;time:1163866315]
+En respeto a tu coraje,
+os dejaré marchar a ti
+y a tu acompañante.
+
+## POINTER 51 [t:1;r:2;ru:evilluendas,pacochan;time:1157722708]
+Katrine
+
+## POINTER 52 [t:1;user:memnoch;time:1295124130]
+¡Estoy tan contenta!
+¡No sé cómo agradecértelo!
+
+## POINTER 53 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:FARAH>
+
+## POINTER 54 [t:1;user:memnoch;time:1295124130]
+¡Me alegra haber sido de ayuda!
+
+## POINTER 56 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+¡Espera!
+
+## POINTER 58 [t:1;user:memnoch;time:1295124264]
+Me acabo de acordar...
+Necesitamos que alguien
+nos ayude con el equipaje.
+
+## POINTER 60 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+Un crimen es un crimen.
+¡Alguien ha de pagar!
+
+## POINTER 61 [t:1;r:2;ru:soywiz, pacochan;time:1157722708]
+<CHARA:REID>
+
+## POINTER 62 [t:1;r:2;ru:evilluendas,pacochan;user:evilluendas;time:1159729912]
+¿Por qué yo?

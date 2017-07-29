@@ -1,0 +1,243 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166547058]
+Dojo Régulus - Sala Avanzada
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546062]
+Incluso un poder que no puedas controlar
+por ti solo puede ser controlado por muchos.
+Así es como tus predecesores superaron
+sus límites.
+
+## POINTER 4 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161440458]
+¿Debería leerte los antiguos
+pasajes que ha heredado el dojo?
+
+## POINTER 6 [t:1;user:memnoch;time:1295084815]
+<OPTION:0000>Habilidades de grupo
+Habilidades ocultas
+
+## POINTER 8 [t:1;r:1;ru:soywiz;user:soywiz;time:1167967374]
+<OPTION:0000>Espada Llameante
+Nudillo Serpenteante
+Divisor de Tierra
+Ataque Eléctrico
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546062]
+La espada de fuego se alzará hacia el cielo,
+y desatará su furia sobre sus enemigos.
+
+## POINTER 12 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161440458]
+Puñetazos que fluyen con la fuerza de un
+millar de rápidos aplastarán sus enemigos
+con fuerza.
+
+## POINTER 14 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161440458]
+La espada de viento invocará a los vientos
+para hacer caer a los enemigos en el olvido.
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546062]
+Puños que fluyen con el poder del rayo
+avanzarán como espadas que despojan
+el cielo.
+
+## POINTER 18 [t:1;user:memnoch;time:1295084815]
+Existen diversas habilidades avanzadas
+derivadas de habilidades especiales. De
+ese modo, existen habilidades divinas,
+derivadas de habilidades sagradas.
+Desafortunadamente, solo tenemos
+constancia de ellas en los libros...
+
+## POINTER 20 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161440458]
+El Fénix Ardiente es una.
+Tajo del Dragón es otra.
+Y Semi-Sello es otra más.
+
+## POINTER 22 [t:1;user:memnoch;time:1295084815]
+Sin disciplina, no aprenderás nada más,
+pero si practicas tus habilidades sagradas
+con diligencia, las habilidades divinas
+acabarán en tu poder.
+
+## POINTER 24 [t:1;user:memnoch;time:1295084815]
+Esto también es aplicable a las
+artes craymel. Todo depende de ti.
+
+## POINTER 26 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161440458]
+Te hablaré sobre las técnicas
+de lucha avanzadas.
+
+## POINTER 28 [t:1;user:memnoch;time:1295084815]
+<OPTION:0000>Comandos
+Estrategia
+Cambiando la formación
+Control de la formación
+
+## POINTER 30 [t:1;user:memnoch;time:1295084815]
+Los <COLOR:0D00>comandos<COLOR:0F00> son instrucciones de
+batalla que asignas a tus aliados.
+
+## POINTER 32 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161440458]
+Es útil si quieres que tus aliados
+luchen en grupo, o si quieres
+realizar un plan en particular.
+
+## POINTER 34 [t:1;user:memnoch;time:1295530311]
+Los comandos tienen preferencia sobre la
+estrategia. Sin embargo, solo tienen efecto
+durante la batalla actual. Debes recordar
+también que solo puedes seleccionar un
+comando a la vez.
+
+## POINTER 36 [t:1;r:2;ru:evilluendas,pacochan;time:1157722709]
+¿Alguna otra pregunta?
+
+## POINTER 38 [t:1;user:memnoch;time:1295084815]
+Usa <COLOR:0D00>estrategia<COLOR:0F00> para cambiar
+el plan de batalla de tus aliados.
+
+## POINTER 40 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161440458]
+Si tus aliados no se comportan como
+quieres, ve haciendo ajustes graduales.
+
+## POINTER 42 [t:1;user:memnoch;time:1295084815]
+¿Sabías que en el <COLOR:0D00>menú Habilidades<COLOR:0F00>,
+puedes pulsar <BUTTON:0200> para especificar qué
+habilidades no quieres que sean usadas?
+
+## POINTER 44 [t:1;user:memnoch;time:1295084815]
+Combínalo con la estrategia y serás capaz
+de controlar a tus aliados como quieras.
+
+## POINTER 46 [t:1;user:memnoch;time:1295084815]
+Usando <COLOR:0D00>formación<COLOR:0F00>, puedes ajustar
+la posición relativa de tus aliados en
+el campo de batalla.
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546062]
+Ajustando la formación de los aliados, puedes
+flanquear al enemigo, mantener a los aliados
+lejos de la acción, dividirlos en dos grupos o
+crear otras formaciones estratégicas.
+
+## POINTER 50 [t:1;user:memnoch;time:1295084815]
+Puedes guardar hasta tres formaciones
+únicas en el <COLOR:0D00>menú Formaciones<COLOR:0F00>.
+Las formaciones guardadas se pueden
+reseleccionar posteriormente con facilidad.
+
+## POINTER 52 [t:1;user:memnoch;time:1295084815]
+Durante la batalla, usa <BUTTON:6800> para cambiar
+inmediatamente tu formación.
+
+## POINTER 54 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161441345]
+Pulsa <BUTTON:6800> una vez para invertir la
+formación. Es útil si eres emboscado
+desde detrás.
+
+## POINTER 56 [t:1;user:memnoch;time:1295556264]
+Presiona la cruceta Abajo mientras
+pulsas <BUTTON:6800> para <COLOR:0D00>reagrupar<COLOR:0F00>. Continúa pulsando
+los botones para poner a tus aliados en modo
+de espera.
+
+## POINTER 58 [t:1;user:memnoch;time:1295556264]
+Presiona la cruceta Arriba
+mientras pulsas <BUTTON:6800> para <COLOR:0D00>Saltar<COLOR:0F00>.
+
+## POINTER 60 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161441345]
+Recuerda, tus aliados no se reagruparán
+o saltarán mientras estén haciendo otras
+acciones.
+
+## POINTER 62 [t:1;r:2;ru:pacochan,evilluendas;time:1157722709]
+¿Cómo te gustaría luchar?
+
+## POINTER 64 [t:1;user:memnoch;time:1295084815]
+<OPTION:0000>Modo semi-automático
+Modo manual
+
+## POINTER 66 [t:1;user:memnoch;time:1295574250]
+Aah, sí.
+El modo semi-automático es más fácil.
+
+## POINTER 68 [t:1;user:memnoch;time:1295084815]
+Si pulsas el botón Select en la batalla,
+puedes cambiar al <COLOR:0D00>modo automático<COLOR:0F00>.
+
+## POINTER 70 [t:1;user:memnoch;time:1295084815]
+No deberías tener problemas en vencer a los
+enemigos más débiles en modo automático.
+
+## POINTER 72 [t:1;user:memnoch;time:1295574250]
+Aah, sí.
+El modo semi-automático es más fácil.
+
+## POINTER 74 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161441346]
+Puedes cambiar el modo de lucha pulsando
+el Botón SELECT durante la batalla.
+
+## POINTER 76 [t:1;user:memnoch;time:1295574250]
+Aah, sí.
+Libertad de movimientos es 
+definitivamente el camino a seguir.
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546062]
+Bien, entonces te
+daré este objeto.
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1166546062]
+<OPTION:0000>Has recibido <COLOR:0D00><ITEM:00013E01><COLOR:0F00>.
+
+## POINTER 82 [t:1;user:memnoch;time:1295084815]
+Mientras tengas esto, podrás
+luchar en <COLOR:0D00>modo manual<COLOR:0F00>.
+
+## POINTER 84 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161441346]
+Debes posicionarte manualmente para
+atacar a los enemigos, pero tendrás
+control total de tus movimientos.
+
+## POINTER 86 [t:1;user:memnoch;time:1295084815]
+Si te sientes incómodo, siempre puedes
+pulsar el botón SELECT durante la batalla
+para cambiar al <COLOR:0D00>modo semi-Automático<COLOR:0F00> o
+al <COLOR:0D00>modo automático<COLOR:0F00>.
+
+## POINTER 88 [t:1;user:memnoch;time:1295574250]
+Aah, sí.
+Libertad de movimientos es 
+definitivamente el camino a seguir.
+
+## POINTER 90 [t:1;user:memnoch;time:1294851678]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 92 [t:1;user:memnoch;time:1295084815]
+¿Te gustaría aprender los 
+controles para el modo manual?
+
+## POINTER 94 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161441346]
+<OPTION:0000>Sí
+No
+
+## POINTER 96 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161441346]
+Para atacar a tu enemigo, primero
+necesitas posicionarte correctamente.
+
+## POINTER 98 [t:1;user:memnoch;time:1295556264]
+Presiona la cruceta Arriba para saltar.
+Presiona <BUTTON:6500> en medio del aire para
+realizar un Ataque con Salto.
+
+## POINTER 100 [t:1;user:memnoch;time:1295084815]
+Presiona <BUTTON:6600> para defender. Recuerda,
+no te defenderás automáticamente en
+modo manual.
+
+## POINTER 102 [t:1;r:2;ru:pacochan,evilluendas;user:pacochan;time:1161441346]
+Bueno, te deseo una buena fortuna.
+
+## POINTER 104 [t:1;user:memnoch;time:1295611055]
+Ah, sí.
+Sigue entrenando y seguro que
+acabas dominando tus habilidades.

@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:3;ru:evilluendas,pacochan,memnoch;time:1157722708]
+Sótano
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1166546706]
+Has encontrado <ITEM:00120004>.
+
+## POINTER 3 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722708]
+<CHARA:REID>
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675511]
+¡Ah! ¡Aquí es
+donde lo escondí!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675511]
+Has encontrado <ITEM:00120004>, 
+pero no puedes llevar más.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675500]
+Has encontrado una lente.
+Ahora tienes <VAR:00108500>.
+
+## POINTER 9 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722708]
+Bitz
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675500]
+¡<CHARA:REID>!
+¿Has ido a la <COLOR:0E00>cima Régulus<COLOR:0F00>?
+
+## POINTER 11 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722708]
+Bitz
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675500]
+Escucha. Quédate dentro.
+Padre volverá más tarde.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675500]
+¡¿Padre?!
+¡¡No vayas!!
+
+## POINTER 15 [t:1;r:3;ru:soywiz, pacochan,memnoch;time:1157722708]
+<CHARA:REID>
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675500]
+H-Ha sido por mi culpa.
+Mi... mi culpa.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675511]
+Mi culpa...
+¡¡Todo es por mi culpa!!
+¡¡Padre!!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1286675500]
+¡¡¡Paaadree!!!
