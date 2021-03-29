@@ -101,7 +101,7 @@ object IMY : ImageFormat() {
 
 		val flags = 0x8C or (intPack.toInt() shl 1) or (swizzled.toInt() shl 5) // Usually AC for swizzled - ShortPacking
 		val format = if (hasPalette) 0x08 else 0x0C
-		s.writeStringz("com.talestra.criminalgirls.IMY", 4)
+		s.writeStringz("IMY", 4)
 		s.write32_le(uncompressedSize)
 		s.write16_le(width)
 		s.write8(flags)
@@ -202,7 +202,7 @@ object IMY : ImageFormat() {
 	// This includes a compression algorithm? Must disasm executable to find out (font_xx.imy have different sizes)
 	// Already found at 0x810E3DAC
 	fun read(s: SyncStream): Bitmap {
-		if (s.readStringz(4) != "com.talestra.criminalgirls.IMY") invalidOp("Not an com.talestra.criminalgirls.IMY file")
+		if (s.readStringz(4) != "IMY") invalidOp("Not an IMY file")
 		val uncompressedSize = s.readS32_le()
 		val width = s.readU16_le()
 		val flags = s.readU8()
